@@ -1,15 +1,8 @@
 contract_type,match,player,market_type,direction,gp_line,gp_selection,gp_price,pin_line_ref,pin_price,pin_fair_price,pin_fair_prob,ev_pct,gp_odd_id
-EXACT_OU,CHI Bears	 vs. MIN Vikings,Aaron Jones,playertotals-rushattempts,Under,14.5,Aaron Jones (MIN) moins de 14.5,1.9091,14.5,1.645,1.7214912280701755,0.5808917197452229,10.8980382165605,4500315906
-EXACT_OU,HOU Texans vs. CIN Bengals,Joe Burrow,playertotals-rushattempts,Over,2.5,Joe Burrow (CIN) Plus de 2.5,2.0,2.5,1.781,1.8645631067961168,0.5363186670137984,7.263733402759676,4496632306
-EXACT_OU,LA Rams vs. NY Giants,Kyren Williams,playertotals-receptions,Under,2.5,Kyren Williams (LAR) moins de 2.5,1.7408,2.5,1.549,1.6374485596707815,0.6107062075898467,6.311736617240515,4497681593
-EXACT_OU,DEN Broncos	 vs. JAX Jaguars,Bo Nix,playertotals-rushattempts,Over,4.5,Bo Nix (DEN) Plus de 4.5,2.05,4.5,1.854,1.9411167512690355,0.5151673640167365,5.609309623430958,4505202728
-EXACT_OU,LA Rams vs. NY Giants,Isaiah Likely,playertotals-receptions,Under,4.5,Isaiah Likely (NYG) moins de 4.5,1.9091,4.5,1.724,1.8209523809523809,0.549163179916318,4.840742677824284,4500437429
-EXACT_OU,KC Chiefs vs. IND Colts,Rashee Rice,playertotals-receptions,Under,4.5,Rashee Rice (KC) moins de 4.5,2.1,4.5,1.917,2.0089473684210524,0.4977731202515064,4.532355252816367,4502059398
-EXACT_OU,DEN Broncos	 vs. JAX Jaguars,Courtland Sutton,playertotals-receptions,Under,3.5,Courtland Sutton (DEN) moins de 3.5,1.9524,3.5,1.787,1.8717073170731704,0.5342715663278603,4.3111806098514505,4502055100
-EXACT_OU,BAL Ravens vs. NO Saints,Juwan Johnson,playertotals-receptions,Over,3.5,Juwan Johnson (NO) Plus de 3.5,1.8334,3.5,1.68,1.7601809954751133,0.5681233933161953,4.159742930591248,4496718142
-EXACT_OU,NE Patriots	 vs. PIT Steelers,Drake Maye,playertotals-rushattempts,Over,5.5,Drake Maye (NE) Plus de 5.5,2.1,5.5,1.934,2.026539278131635,0.4934520691461497,3.6249345206914585,4496607030
+EXACT_OU,SF 49ers		 vs. MIA Dolphins,Christian McCaffrey,playertotals-receptions,Over,4.5,Christian McCaffrey (SF) Plus de 4.5,1.9524,4.5,1.793,1.878921568627451,0.5322201930602661,3.9106704930863545,4501345734
 EXACT_OU,ARZ Cardinals vs. SEA Seahawks,Cooper Kupp,playertotals-receptions,Under,2.5,Cooper Kupp (SEA) moins de 2.5,1.7693,2.5,1.636,1.7144104803493447,0.5832908813041264,3.2016556291391,4504859456
-EXACT_OU,BAL Ravens vs. NO Saints,Devaughn Vele,playertotals-receptions,Over,3.5,Devaughn Vele (NO) Plus de 3.5,1.8696,3.5,1.729,1.811737089201878,0.5519564654055454,3.1937807722207667,4500162462
-EXACT_OU,ATL Falcons		 vs. CAR Panthers,Olamide Zaccheaus,playertotals-receptions,Over,1.5,Olamide Zaccheaus (ATL) Plus de 1.5,2.55,1.5,2.37,2.4831038798498124,0.4027217741935484,2.694052419354831,4496689621
-EXACT_OU,CHI Bears	 vs. MIN Vikings,T.J. Hockenson,playertotals-receptions,Over,3.5,T.J. Hockenson (MIN) Plus de 3.5,2.05,3.5,1.909,2.0,0.5,2.499999999999991,4499059205
-EXACT_OU,NY Jets vs. GB Packers,Breece Hall,playertotals-rushattempts,Under,16.5,Breece Hall (NYJ) moins de 16.5,1.9091,16.5,1.781,1.8645631067961168,0.5363186670137984,2.3885967196042523,4512292729
+EXACT_OU,DEN Broncos	 vs. JAX Jaguars,Bo Nix,playertotals-rushattempts,Over,4.5,Bo Nix (DEN) Plus de 4.5,2.0,4.5,1.854,1.9411167512690355,0.5151673640167365,3.0334728033472924,4505202728
+EXACT_OU,DEN Broncos	 vs. JAX Jaguars,Jaylen Waddle,playertotals-receptions,Under,4.5,Jaylen Waddle (DEN) moins de 4.5,1.8696,4.5,1.735,1.818396226415094,0.5499351491569391,2.815875486381336,4505197753
+EXACT_OU,LA Rams vs. NY Giants,Isaiah Likely,playertotals-receptions,Under,4.5,Isaiah Likely (NYG) moins de 4.5,1.8696,4.5,1.724,1.8209523809523809,0.549163179916318,2.6715481171548205,4500437429
+EXACT_OU,DEN Broncos	 vs. JAX Jaguars,Adam Trautman,playertotals-receptions,Under,1.5,Adam Trautman (DEN) moins de 1.5,1.5715,1.5,1.467,1.5373626373626372,0.6504646175839887,2.220514653323802,4502055294
+EXACT_OU,DAL Cowboys vs. WAS Commanders,Jayden Daniels,playertotals-passcompletions,Over,19.5,Jayden Daniels (WAS) Plus de 19.5,1.8334,19.5,1.714,1.7972093023255813,0.5564182194616978,2.0137163561076754,4497679328

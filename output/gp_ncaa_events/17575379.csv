@@ -3,8 +3,8 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Missouri State Bears,,11.0,4533884260,0,False
 17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,SMU Mustangs (-47.5),-47.5,4.75,4533883520,7,False
 17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,Missouri State Bears (+47.5),-47.5,1.1539,4533883521,7,False
-17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,SMU Mustangs (-14.5),-14.5,1.1905,4562792453,7,False
-17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,Missouri State Bears (+14.5),-14.5,4.3,4562792454,7,False
+17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,SMU Mustangs (-14.5),-14.5,1.1905,4562792453,0,False
+17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,Missouri State Bears (+14.5),-14.5,4.3,4562792454,0,False
 17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,SMU Mustangs (-20.5),-20.5,1.3226,4533883408,0,False
 17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,Missouri State Bears (+20.5),-20.5,3.15,4533883409,0,False
 17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,SMU Mustangs (-22.5),-22.5,1.4,4533883410,0,False
@@ -35,12 +35,12 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,Missouri State Bears (+39.5),-39.5,1.3637,4533883431,0,False
 17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,SMU Mustangs (-43.5),-43.5,3.75,4533883436,0,False
 17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,Missouri State Bears (+41.5),-41.5,1.3031,4533883433,0,False
-17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,SMU Mustangs (-45.5),-45.5,4.3,4533883438,0,False
+17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,SMU Mustangs (-45.5),-45.5,4.3,4533883438,7,False
 17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,Missouri State Bears (+42.5),-42.5,1.2667,4533883435,0,False
 17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,SMU Mustangs (-46.5),-46.5,4.5,4533883440,7,False
 17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,Missouri State Bears (+43.5),-43.5,1.2353,4533883437,0,False
 17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,SMU Mustangs (-48.5),-48.5,5.25,4533883442,7,False
-17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,Missouri State Bears (+45.5),-45.5,1.1905,4533883439,0,False
+17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,Missouri State Bears (+45.5),-45.5,1.1905,4533883439,7,False
 17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,SMU Mustangs (-49.5),-49.5,6.0,4533883444,7,False
 17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,Missouri State Bears (+46.5),-46.5,1.1667,4533883441,7,False
 17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,Missouri State Bears (+48.5),-48.5,1.1334,4533883443,7,False
@@ -89,8 +89,8 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 44.5,44.5,4.75,4533883447,7,False
 17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 45.5,45.5,1.1819,4533883448,0,False
 17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 45.5,45.5,4.4,4533883449,0,False
-17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 46.5,46.5,1.2,4533883450,0,False
-17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 46.5,46.5,4.2,4533883451,0,False
+17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 46.5,46.5,1.1905,4533883450,0,False
+17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 46.5,46.5,4.3,4533883451,0,False
 17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 47.5,47.5,1.2223,4533883452,0,False
 17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 47.5,47.5,4.0,4533883453,0,False
 17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 49.5,49.5,1.2858,4533883454,0,False
@@ -99,8 +99,8 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 50.5,50.5,3.25,4533883457,0,False
 17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 51.5,51.5,1.3572,4533883458,0,False
 17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 51.5,51.5,3.0,4533883459,0,False
-17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 53.5,53.5,1.4348,4533883460,0,False
-17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 53.5,53.5,2.65,4533883461,0,False
+17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 53.5,53.5,1.4167,4533883460,0,False
+17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 53.5,53.5,2.7,4533883461,0,False
 17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 54.5,54.5,1.4762,4533883462,0,False
 17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 54.5,54.5,2.55,4533883463,0,False
 17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 55.5,55.5,1.5556,4533883464,0,False

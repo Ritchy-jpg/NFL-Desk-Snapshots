@@ -1,13 +1,13 @@
 event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id,selection,line,price,odd_id,odd_status,is_main_bet
 17796053,Ohio Bobcats vs. Stonehill Skyhawks,2026-09-26T19:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Ohio Bobcats,,1.0,4542127872,7,False
-17796053,Ohio Bobcats vs. Stonehill Skyhawks,2026-09-26T19:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Stonehill Skyhawks,,11.0,4542127873,0,False
+17796053,Ohio Bobcats vs. Stonehill Skyhawks,2026-09-26T19:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Stonehill Skyhawks,,11.0,4542127873,7,False
 17796053,Ohio Bobcats vs. Stonehill Skyhawks,2026-09-26T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Ohio Bobcats (-27.5),-27.5,1.5264,4542130688,0,False
 17796053,Ohio Bobcats vs. Stonehill Skyhawks,2026-09-26T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Ohio Bobcats (-25.5),-25.5,1.4348,4542599809,0,False
-17796053,Ohio Bobcats vs. Stonehill Skyhawks,2026-09-26T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Ohio Bobcats (-34.5),-34.5,2.0,4542130690,0,False
+17796053,Ohio Bobcats vs. Stonehill Skyhawks,2026-09-26T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Ohio Bobcats (-34.5),-34.5,2.05,4542130690,7,False
 17796053,Ohio Bobcats vs. Stonehill Skyhawks,2026-09-26T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Stonehill Skyhawks (+24.5),-24.5,2.75,4542599808,0,False
 17796053,Ohio Bobcats vs. Stonehill Skyhawks,2026-09-26T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Stonehill Skyhawks (+25.5),-25.5,2.65,4542599810,0,False
 17796053,Ohio Bobcats vs. Stonehill Skyhawks,2026-09-26T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Stonehill Skyhawks (+27.5),-27.5,2.4,4542130689,0,False
-17796053,Ohio Bobcats vs. Stonehill Skyhawks,2026-09-26T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Stonehill Skyhawks (+34.5),-34.5,1.7143,4542130691,0,False
+17796053,Ohio Bobcats vs. Stonehill Skyhawks,2026-09-26T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Stonehill Skyhawks (+34.5),-34.5,1.6897,4542130691,7,False
 17796053,Ohio Bobcats vs. Stonehill Skyhawks,2026-09-26T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Ohio Bobcats (-29.5),-29.5,1.6451,4542130318,0,False
 17796053,Ohio Bobcats vs. Stonehill Skyhawks,2026-09-26T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Ohio Bobcats (-38.5),-38.5,2.55,4542130958,0,False
 17796053,Ohio Bobcats vs. Stonehill Skyhawks,2026-09-26T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Ohio Bobcats (-43.5),-43.5,3.25,4542130320,7,False
@@ -16,10 +16,10 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17796053,Ohio Bobcats vs. Stonehill Skyhawks,2026-09-26T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Stonehill Skyhawks (+38.5),-38.5,1.4762,4542130959,0,False
 17796053,Ohio Bobcats vs. Stonehill Skyhawks,2026-09-26T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Stonehill Skyhawks (+43.5),-43.5,1.3031,4542130321,7,False
 17796053,Ohio Bobcats vs. Stonehill Skyhawks,2026-09-26T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Stonehill Skyhawks (+47.5),-47.5,1.1905,4542130323,7,False
-17796053,Ohio Bobcats vs. Stonehill Skyhawks,2026-09-26T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Ohio Bobcats (-31.5),-31.5,1.7693,4542130841,0,False
-17796053,Ohio Bobcats vs. Stonehill Skyhawks,2026-09-26T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Stonehill Skyhawks (+31.5),-31.5,1.9091,4542130842,0,False
-17796053,Ohio Bobcats vs. Stonehill Skyhawks,2026-09-26T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Ohio Bobcats (-32.5),-32.5,1.8334,4542130843,0,True
-17796053,Ohio Bobcats vs. Stonehill Skyhawks,2026-09-26T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Stonehill Skyhawks (+32.5),-32.5,1.8334,4542130844,0,True
+17796053,Ohio Bobcats vs. Stonehill Skyhawks,2026-09-26T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Ohio Bobcats (-31.5),-31.5,1.7693,4542130841,7,False
+17796053,Ohio Bobcats vs. Stonehill Skyhawks,2026-09-26T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Stonehill Skyhawks (+31.5),-31.5,1.9091,4542130842,7,False
+17796053,Ohio Bobcats vs. Stonehill Skyhawks,2026-09-26T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Ohio Bobcats (-32.5),-32.5,1.8334,4542130843,7,True
+17796053,Ohio Bobcats vs. Stonehill Skyhawks,2026-09-26T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Stonehill Skyhawks (+32.5),-32.5,1.8334,4542130844,7,True
 17796053,Ohio Bobcats vs. Stonehill Skyhawks,2026-09-26T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Ohio Bobcats (-35.5),-35.5,2.15,4542130845,0,False
 17796053,Ohio Bobcats vs. Stonehill Skyhawks,2026-09-26T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Stonehill Skyhawks (+35.5),-35.5,1.6451,4542130846,0,False
 17796053,Ohio Bobcats vs. Stonehill Skyhawks,2026-09-26T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Ohio Bobcats (-36.5),-36.5,2.25,4542130847,0,False
@@ -38,10 +38,10 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17796053,Ohio Bobcats vs. Stonehill Skyhawks,2026-09-26T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Stonehill Skyhawks (+22.5),-22.5,3.25,4546875336,0,False
 17796053,Ohio Bobcats vs. Stonehill Skyhawks,2026-09-26T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Ohio Bobcats (-28.5),-28.5,1.625,4542130128,0,False
 17796053,Ohio Bobcats vs. Stonehill Skyhawks,2026-09-26T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Stonehill Skyhawks (+28.5),-28.5,2.2,4542130129,0,False
-17796053,Ohio Bobcats vs. Stonehill Skyhawks,2026-09-26T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Ohio Bobcats (-30.5),-30.5,1.6897,4542130130,0,False
-17796053,Ohio Bobcats vs. Stonehill Skyhawks,2026-09-26T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Stonehill Skyhawks (+30.5),-30.5,2.05,4542130131,0,False
-17796053,Ohio Bobcats vs. Stonehill Skyhawks,2026-09-26T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Ohio Bobcats (-33.5),-33.5,1.9091,4542130132,0,False
-17796053,Ohio Bobcats vs. Stonehill Skyhawks,2026-09-26T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Stonehill Skyhawks (+33.5),-33.5,1.7693,4542130133,0,False
+17796053,Ohio Bobcats vs. Stonehill Skyhawks,2026-09-26T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Ohio Bobcats (-30.5),-30.5,1.6897,4542130130,7,False
+17796053,Ohio Bobcats vs. Stonehill Skyhawks,2026-09-26T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Stonehill Skyhawks (+30.5),-30.5,2.05,4542130131,7,False
+17796053,Ohio Bobcats vs. Stonehill Skyhawks,2026-09-26T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Ohio Bobcats (-33.5),-33.5,1.9091,4542130132,7,False
+17796053,Ohio Bobcats vs. Stonehill Skyhawks,2026-09-26T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Stonehill Skyhawks (+33.5),-33.5,1.7693,4542130133,7,False
 17796053,Ohio Bobcats vs. Stonehill Skyhawks,2026-09-26T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Ohio Bobcats (-40.5),-40.5,2.75,4542130134,0,False
 17796053,Ohio Bobcats vs. Stonehill Skyhawks,2026-09-26T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Stonehill Skyhawks (+40.5),-40.5,1.4,4542130135,0,False
 17796053,Ohio Bobcats vs. Stonehill Skyhawks,2026-09-26T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Ohio Bobcats (-44.5),-44.5,3.5,4542130136,7,False
@@ -57,8 +57,8 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17796053,Ohio Bobcats vs. Stonehill Skyhawks,2026-09-26T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 49.5,49.5,2.2,4542128641,0,False
 17796053,Ohio Bobcats vs. Stonehill Skyhawks,2026-09-26T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 50.5,50.5,1.6451,4542128642,0,False
 17796053,Ohio Bobcats vs. Stonehill Skyhawks,2026-09-26T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 50.5,50.5,2.15,4542128643,0,False
-17796053,Ohio Bobcats vs. Stonehill Skyhawks,2026-09-26T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 53.5,53.5,1.8334,4542128644,0,True
-17796053,Ohio Bobcats vs. Stonehill Skyhawks,2026-09-26T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 53.5,53.5,1.8334,4542128645,0,True
+17796053,Ohio Bobcats vs. Stonehill Skyhawks,2026-09-26T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 53.5,53.5,1.8334,4542128644,7,True
+17796053,Ohio Bobcats vs. Stonehill Skyhawks,2026-09-26T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 53.5,53.5,1.8334,4542128645,7,True
 17796053,Ohio Bobcats vs. Stonehill Skyhawks,2026-09-26T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 58.5,58.5,2.5,4542128646,0,False
 17796053,Ohio Bobcats vs. Stonehill Skyhawks,2026-09-26T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 58.5,58.5,1.5,4542128647,0,False
 17796053,Ohio Bobcats vs. Stonehill Skyhawks,2026-09-26T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 59.5,59.5,2.6,4542128648,0,False
@@ -75,20 +75,20 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17796053,Ohio Bobcats vs. Stonehill Skyhawks,2026-09-26T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 41.5,41.5,3.7,4542128538,7,False
 17796053,Ohio Bobcats vs. Stonehill Skyhawks,2026-09-26T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 44.5,44.5,1.3572,4542128539,0,False
 17796053,Ohio Bobcats vs. Stonehill Skyhawks,2026-09-26T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 44.5,44.5,3.0,4542128540,0,False
-17796053,Ohio Bobcats vs. Stonehill Skyhawks,2026-09-26T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 51.5,51.5,1.7143,4542128541,0,False
-17796053,Ohio Bobcats vs. Stonehill Skyhawks,2026-09-26T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 51.5,51.5,2.0,4542128542,0,False
-17796053,Ohio Bobcats vs. Stonehill Skyhawks,2026-09-26T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 52.5,52.5,1.8,4542128543,0,False
-17796053,Ohio Bobcats vs. Stonehill Skyhawks,2026-09-26T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 52.5,52.5,1.8696,4542128544,0,False
-17796053,Ohio Bobcats vs. Stonehill Skyhawks,2026-09-26T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 54.5,54.5,1.9524,4542128545,0,False
-17796053,Ohio Bobcats vs. Stonehill Skyhawks,2026-09-26T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 54.5,54.5,1.7408,4542128546,0,False
+17796053,Ohio Bobcats vs. Stonehill Skyhawks,2026-09-26T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 51.5,51.5,1.7143,4542128541,7,False
+17796053,Ohio Bobcats vs. Stonehill Skyhawks,2026-09-26T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 51.5,51.5,2.0,4542128542,7,False
+17796053,Ohio Bobcats vs. Stonehill Skyhawks,2026-09-26T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 52.5,52.5,1.8,4542128543,7,False
+17796053,Ohio Bobcats vs. Stonehill Skyhawks,2026-09-26T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 52.5,52.5,1.8696,4542128544,7,False
+17796053,Ohio Bobcats vs. Stonehill Skyhawks,2026-09-26T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 54.5,54.5,1.9524,4542128545,7,False
+17796053,Ohio Bobcats vs. Stonehill Skyhawks,2026-09-26T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 54.5,54.5,1.7408,4542128546,7,False
 17796053,Ohio Bobcats vs. Stonehill Skyhawks,2026-09-26T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 61.5,61.5,2.85,4542128547,0,False
 17796053,Ohio Bobcats vs. Stonehill Skyhawks,2026-09-26T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 61.5,61.5,1.3847,4542128548,0,False
 17796053,Ohio Bobcats vs. Stonehill Skyhawks,2026-09-26T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 43.5,43.5,1.3125,4542128434,0,False
 17796053,Ohio Bobcats vs. Stonehill Skyhawks,2026-09-26T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 43.5,43.5,3.2,4542128435,0,False
 17796053,Ohio Bobcats vs. Stonehill Skyhawks,2026-09-26T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 48.5,48.5,1.5455,4542128436,0,False
 17796053,Ohio Bobcats vs. Stonehill Skyhawks,2026-09-26T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 48.5,48.5,2.35,4542128437,0,False
-17796053,Ohio Bobcats vs. Stonehill Skyhawks,2026-09-26T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 55.5,55.5,2.1,4542128591,0,False
-17796053,Ohio Bobcats vs. Stonehill Skyhawks,2026-09-26T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 55.5,55.5,1.6667,4542128592,0,False
+17796053,Ohio Bobcats vs. Stonehill Skyhawks,2026-09-26T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 55.5,55.5,2.1,4542128591,7,False
+17796053,Ohio Bobcats vs. Stonehill Skyhawks,2026-09-26T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 55.5,55.5,1.6667,4542128592,7,False
 17796053,Ohio Bobcats vs. Stonehill Skyhawks,2026-09-26T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 56.5,56.5,2.2,4542128593,0,False
 17796053,Ohio Bobcats vs. Stonehill Skyhawks,2026-09-26T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 56.5,56.5,1.625,4542128594,0,False
 17796053,Ohio Bobcats vs. Stonehill Skyhawks,2026-09-26T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 57.5,57.5,2.25,4542128595,0,False

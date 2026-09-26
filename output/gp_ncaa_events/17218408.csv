@@ -1,14 +1,14 @@
 event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id,selection,line,price,odd_id,odd_status,is_main_bet
 17218408,GEORGIE BULLDOGS vs. Oklahoma Sooners,2026-09-26T19:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,GEORGIE BULLDOGS,,1.1667,4272160933,0,False
 17218408,GEORGIE BULLDOGS vs. Oklahoma Sooners,2026-09-26T19:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Oklahoma Sooners,,4.3,4272160934,0,False
-17218408,GEORGIE BULLDOGS vs. Oklahoma Sooners,2026-09-26T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,GEORGIE BULLDOGS (-18.5),-18.5,2.55,4395046144,0,False
-17218408,GEORGIE BULLDOGS vs. Oklahoma Sooners,2026-09-26T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Oklahoma Sooners (+18.5),-18.5,1.4762,4395046145,0,False
+17218408,GEORGIE BULLDOGS vs. Oklahoma Sooners,2026-09-26T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,GEORGIE BULLDOGS (-18.5),-18.5,2.5,4395046144,0,False
+17218408,GEORGIE BULLDOGS vs. Oklahoma Sooners,2026-09-26T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Oklahoma Sooners (+18.5),-18.5,1.5,4395046145,0,False
 17218408,GEORGIE BULLDOGS vs. Oklahoma Sooners,2026-09-26T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,GEORGIE BULLDOGS (-20.5),-20.5,2.75,4395046146,0,False
 17218408,GEORGIE BULLDOGS vs. Oklahoma Sooners,2026-09-26T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Oklahoma Sooners (+20.5),-20.5,1.4,4395046147,0,False
 17218408,GEORGIE BULLDOGS vs. Oklahoma Sooners,2026-09-26T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,GEORGIE BULLDOGS (-21.5),-21.5,3.0,4395046148,0,False
 17218408,GEORGIE BULLDOGS vs. Oklahoma Sooners,2026-09-26T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Oklahoma Sooners (+21.5),-21.5,1.3572,4395046149,0,False
-17218408,GEORGIE BULLDOGS vs. Oklahoma Sooners,2026-09-26T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,GEORGIE BULLDOGS (-22.5),-22.5,3.15,4395046150,0,False
-17218408,GEORGIE BULLDOGS vs. Oklahoma Sooners,2026-09-26T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Oklahoma Sooners (+22.5),-22.5,1.3226,4395046151,0,False
+17218408,GEORGIE BULLDOGS vs. Oklahoma Sooners,2026-09-26T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,GEORGIE BULLDOGS (-22.5),-22.5,3.1,4395046150,0,False
+17218408,GEORGIE BULLDOGS vs. Oklahoma Sooners,2026-09-26T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Oklahoma Sooners (+22.5),-22.5,1.3334,4395046151,0,False
 17218408,GEORGIE BULLDOGS vs. Oklahoma Sooners,2026-09-26T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,GEORGIE BULLDOGS (-23.5),-23.5,3.25,4395046152,0,False
 17218408,GEORGIE BULLDOGS vs. Oklahoma Sooners,2026-09-26T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Oklahoma Sooners (+23.5),-23.5,1.3031,4395046153,0,False
 17218408,GEORGIE BULLDOGS vs. Oklahoma Sooners,2026-09-26T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,GEORGIE BULLDOGS (-24.5),-24.5,3.7,4395046154,0,False
@@ -18,7 +18,7 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17218408,GEORGIE BULLDOGS vs. Oklahoma Sooners,2026-09-26T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Oklahoma Sooners (+29.5),-29.5,1.1429,4511196028,0,False
 17218408,GEORGIE BULLDOGS vs. Oklahoma Sooners,2026-09-26T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Oklahoma Sooners (+31.5),-31.5,1.1112,4531629930,7,False
 17218408,GEORGIE BULLDOGS vs. Oklahoma Sooners,2026-09-26T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,GEORGIE BULLDOGS (+1.5),1.5,1.1429,4395044627,0,False
-17218408,GEORGIE BULLDOGS vs. Oklahoma Sooners,2026-09-26T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,GEORGIE BULLDOGS (-26.5),-26.5,4.2,4395046548,0,False
+17218408,GEORGIE BULLDOGS vs. Oklahoma Sooners,2026-09-26T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,GEORGIE BULLDOGS (-26.5),-26.5,4.0,4395046548,0,False
 17218408,GEORGIE BULLDOGS vs. Oklahoma Sooners,2026-09-26T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,GEORGIE BULLDOGS (+2.5),2.5,1.1334,4395044629,0,False
 17218408,GEORGIE BULLDOGS vs. Oklahoma Sooners,2026-09-26T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,GEORGIE BULLDOGS (-27.5),-27.5,4.3,4395046550,0,False
 17218408,GEORGIE BULLDOGS vs. Oklahoma Sooners,2026-09-26T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Oklahoma Sooners (-2.5),2.5,5.25,4395044630,0,False
@@ -44,7 +44,7 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17218408,GEORGIE BULLDOGS vs. Oklahoma Sooners,2026-09-26T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Oklahoma Sooners (+28.5),-28.5,1.1539,4395046553,0,False
 17218408,GEORGIE BULLDOGS vs. Oklahoma Sooners,2026-09-26T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Oklahoma Sooners (+16.5),-16.5,1.5715,4395046141,0,False
 17218408,GEORGIE BULLDOGS vs. Oklahoma Sooners,2026-09-26T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,GEORGIE BULLDOGS (-9.5),-9.5,1.6451,4372303228,0,False
-17218408,GEORGIE BULLDOGS vs. Oklahoma Sooners,2026-09-26T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Oklahoma Sooners (+26.5),-26.5,1.2,4395046549,0,False
+17218408,GEORGIE BULLDOGS vs. Oklahoma Sooners,2026-09-26T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Oklahoma Sooners (+26.5),-26.5,1.2223,4395046549,0,False
 17218408,GEORGIE BULLDOGS vs. Oklahoma Sooners,2026-09-26T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,GEORGIE BULLDOGS (-11.5),-11.5,1.8,4395045477,0,False
 17218408,GEORGIE BULLDOGS vs. Oklahoma Sooners,2026-09-26T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Oklahoma Sooners (+11.5),-11.5,1.8696,4395045478,0,False
 17218408,GEORGIE BULLDOGS vs. Oklahoma Sooners,2026-09-26T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,GEORGIE BULLDOGS (-12.5),-12.5,1.8696,4395045479,0,True
@@ -120,20 +120,20 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17218408,GEORGIE BULLDOGS vs. Oklahoma Sooners,2026-09-26T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 44.5,44.5,1.8,4395045458,0,True
 17218408,GEORGIE BULLDOGS vs. Oklahoma Sooners,2026-09-26T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 47.5,47.5,2.2,4395045463,0,False
 17218408,GEORGIE BULLDOGS vs. Oklahoma Sooners,2026-09-26T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 45.5,45.5,1.7143,4395045460,0,False
-17218408,GEORGIE BULLDOGS vs. Oklahoma Sooners,2026-09-26T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 48.5,48.5,2.4,4395045465,0,False
+17218408,GEORGIE BULLDOGS vs. Oklahoma Sooners,2026-09-26T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 48.5,48.5,2.35,4395045465,0,False
 17218408,GEORGIE BULLDOGS vs. Oklahoma Sooners,2026-09-26T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 46.5,46.5,1.6897,4395045462,0,False
 17218408,GEORGIE BULLDOGS vs. Oklahoma Sooners,2026-09-26T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 49.5,49.5,2.5,4395045467,0,False
 17218408,GEORGIE BULLDOGS vs. Oklahoma Sooners,2026-09-26T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 47.5,47.5,1.625,4395045464,0,False
 17218408,GEORGIE BULLDOGS vs. Oklahoma Sooners,2026-09-26T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 50.5,50.5,2.6,4395045469,0,False
-17218408,GEORGIE BULLDOGS vs. Oklahoma Sooners,2026-09-26T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 48.5,48.5,1.5264,4395045466,0,False
-17218408,GEORGIE BULLDOGS vs. Oklahoma Sooners,2026-09-26T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 53.5,53.5,3.15,4395045471,0,False
+17218408,GEORGIE BULLDOGS vs. Oklahoma Sooners,2026-09-26T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 48.5,48.5,1.5455,4395045466,0,False
+17218408,GEORGIE BULLDOGS vs. Oklahoma Sooners,2026-09-26T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 53.5,53.5,3.1,4395045471,0,False
 17218408,GEORGIE BULLDOGS vs. Oklahoma Sooners,2026-09-26T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 49.5,49.5,1.5,4395045468,0,False
 17218408,GEORGIE BULLDOGS vs. Oklahoma Sooners,2026-09-26T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 54.5,54.5,3.4,4395045473,0,False
 17218408,GEORGIE BULLDOGS vs. Oklahoma Sooners,2026-09-26T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 50.5,50.5,1.4546,4395045470,0,False
-17218408,GEORGIE BULLDOGS vs. Oklahoma Sooners,2026-09-26T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 51.5,51.5,2.85,4333451107,0,False
+17218408,GEORGIE BULLDOGS vs. Oklahoma Sooners,2026-09-26T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 51.5,51.5,2.75,4333451107,0,False
 17218408,GEORGIE BULLDOGS vs. Oklahoma Sooners,2026-09-26T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 55.5,55.5,3.7,4395045475,0,False
-17218408,GEORGIE BULLDOGS vs. Oklahoma Sooners,2026-09-26T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 51.5,51.5,1.3847,4333451108,0,False
-17218408,GEORGIE BULLDOGS vs. Oklahoma Sooners,2026-09-26T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 53.5,53.5,1.3226,4395045472,0,False
+17218408,GEORGIE BULLDOGS vs. Oklahoma Sooners,2026-09-26T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 51.5,51.5,1.4,4333451108,0,False
+17218408,GEORGIE BULLDOGS vs. Oklahoma Sooners,2026-09-26T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 53.5,53.5,1.3334,4395045472,0,False
 17218408,GEORGIE BULLDOGS vs. Oklahoma Sooners,2026-09-26T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 54.5,54.5,1.2858,4395045474,0,False
 17218408,GEORGIE BULLDOGS vs. Oklahoma Sooners,2026-09-26T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 55.5,55.5,1.25,4395045476,0,False
 17218408,GEORGIE BULLDOGS vs. Oklahoma Sooners,2026-09-26T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 33.5,33.5,1.2667,4511196029,0,False

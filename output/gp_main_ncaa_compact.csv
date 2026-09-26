@@ -22,16 +22,16 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17804676,Delaware State Hornets vs. Towson Tigers,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 47.5,47.5,1.8,4562569949,0,True
 17804676,Delaware State Hornets vs. Towson Tigers,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 47.5,47.5,1.8696,4562569950,0,True
 17796103,FIU Panthers vs. Liu Sharks,2026-09-26T22:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,FIU Panthers,,1.0,4542171128,7,False
-17796103,FIU Panthers vs. Liu Sharks,2026-09-26T22:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Liu Sharks,,11.0,4542171129,0,False
+17796103,FIU Panthers vs. Liu Sharks,2026-09-26T22:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Liu Sharks,,11.0,4542171129,7,False
 17796103,FIU Panthers vs. Liu Sharks,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Liu Sharks (+35.5),-35.5,1.9091,4552356256,7,False
 17796103,FIU Panthers vs. Liu Sharks,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,FIU Panthers (-37.5),-37.5,1.8696,4561002690,7,False
 17796103,FIU Panthers vs. Liu Sharks,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Liu Sharks (+37.5),-37.5,1.8,4561002691,7,False
 17796103,FIU Panthers vs. Liu Sharks,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,FIU Panthers (-34.5),-34.5,1.6897,4542171367,7,False
 17796103,FIU Panthers vs. Liu Sharks,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Liu Sharks (+34.5),-34.5,2.05,4542171368,7,False
-17796103,FIU Panthers vs. Liu Sharks,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,FIU Panthers (-36.5),-36.5,1.8,4557714255,0,True
-17796103,FIU Panthers vs. Liu Sharks,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Liu Sharks (+36.5),-36.5,1.8696,4557714256,0,True
+17796103,FIU Panthers vs. Liu Sharks,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,FIU Panthers (-36.5),-36.5,1.8,4557714255,7,True
+17796103,FIU Panthers vs. Liu Sharks,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Liu Sharks (+36.5),-36.5,1.8696,4557714256,7,True
 17796103,FIU Panthers vs. Liu Sharks,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,FIU Panthers (-35.5),-35.5,1.7693,4552356255,7,False
-17796103,FIU Panthers vs. Liu Sharks,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 53.5,53.5,1.8696,4555689664,0,False
+17796103,FIU Panthers vs. Liu Sharks,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 53.5,53.5,1.8696,4555689664,7,False
 17796103,FIU Panthers vs. Liu Sharks,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 50.5,50.5,1.625,4542171369,7,False
 17796103,FIU Panthers vs. Liu Sharks,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 50.5,50.5,2.2,4542171370,7,False
 17796103,FIU Panthers vs. Liu Sharks,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 54.5,54.5,1.8696,4557714257,7,True
@@ -40,7 +40,7 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17796103,FIU Panthers vs. Liu Sharks,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 52.5,52.5,1.9524,4552043380,7,False
 17796103,FIU Panthers vs. Liu Sharks,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 51.5,51.5,1.6897,4542230490,7,False
 17796103,FIU Panthers vs. Liu Sharks,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 51.5,51.5,2.05,4542230491,7,False
-17796103,FIU Panthers vs. Liu Sharks,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 53.5,53.5,1.8,4555689663,0,False
+17796103,FIU Panthers vs. Liu Sharks,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 53.5,53.5,1.8,4555689663,7,False
 17804689,Hampton Pirates vs. Campbell Fighting Camels,2026-09-26T22:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Hampton Pirates,,6.75,4558130493,0,False
 17804689,Hampton Pirates vs. Campbell Fighting Camels,2026-09-26T22:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Campbell Fighting Camels,,1.0625,4558130494,0,False
 17804689,Hampton Pirates vs. Campbell Fighting Camels,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Hampton Pirates (+19.5),19.5,1.9091,4558129633,7,False
@@ -57,14 +57,14 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17804689,Hampton Pirates vs. Campbell Fighting Camels,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 54.5,54.5,1.8334,4559280333,0,True
 17804689,Hampton Pirates vs. Campbell Fighting Camels,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 55.5,55.5,1.9524,4559185374,7,False
 17804689,Hampton Pirates vs. Campbell Fighting Camels,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 55.5,55.5,1.7408,4559185375,7,False
-17775747,Old Dominion Monarchs vs. James Madison Dukes,2026-09-26T22:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Old Dominion Monarchs,,2.95,4531901854,0,False
-17775747,Old Dominion Monarchs vs. James Madison Dukes,2026-09-26T22:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,James Madison Dukes,,1.3334,4531901855,0,False
-17775747,Old Dominion Monarchs vs. James Madison Dukes,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Old Dominion Monarchs (+7.5),7.5,1.6897,4531897856,0,False
-17775747,Old Dominion Monarchs vs. James Madison Dukes,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,James Madison Dukes (-7.5),7.5,2.05,4531897857,0,False
-17775747,Old Dominion Monarchs vs. James Madison Dukes,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Old Dominion Monarchs (+8.5),8.5,1.6667,4531897858,0,False
+17775747,Old Dominion Monarchs vs. James Madison Dukes,2026-09-26T22:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Old Dominion Monarchs,,2.9,4531901854,7,False
+17775747,Old Dominion Monarchs vs. James Madison Dukes,2026-09-26T22:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,James Madison Dukes,,1.3449,4531901855,7,False
+17775747,Old Dominion Monarchs vs. James Madison Dukes,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Old Dominion Monarchs (+7.5),7.5,1.7143,4531897856,7,False
+17775747,Old Dominion Monarchs vs. James Madison Dukes,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,James Madison Dukes (-7.5),7.5,2.0,4531897857,7,False
+17775747,Old Dominion Monarchs vs. James Madison Dukes,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Old Dominion Monarchs (+8.5),8.5,1.6897,4531897858,7,False
 17775747,Old Dominion Monarchs vs. James Madison Dukes,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,James Madison Dukes (-17.5),17.5,3.4,4531897847,0,False
 17775747,Old Dominion Monarchs vs. James Madison Dukes,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Old Dominion Monarchs (-1.5),-1.5,3.15,4531897860,0,False
-17775747,Old Dominion Monarchs vs. James Madison Dukes,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,James Madison Dukes (-8.5),8.5,2.1,4531897859,0,False
+17775747,Old Dominion Monarchs vs. James Madison Dukes,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,James Madison Dukes (-8.5),8.5,2.05,4531897859,7,False
 17775747,Old Dominion Monarchs vs. James Madison Dukes,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Old Dominion Monarchs (-10.5),-10.5,8.0,4531897862,7,False
 17775747,Old Dominion Monarchs vs. James Madison Dukes,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,James Madison Dukes (+1.5),-1.5,1.3226,4531897861,0,False
 17775747,Old Dominion Monarchs vs. James Madison Dukes,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Old Dominion Monarchs (-2.5),-2.5,3.4,4531897864,0,False
@@ -81,9 +81,9 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17775747,Old Dominion Monarchs vs. James Madison Dukes,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Old Dominion Monarchs (-7.5),-7.5,6.5,4531897891,7,False
 17775747,Old Dominion Monarchs vs. James Madison Dukes,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,James Madison Dukes (+7.5),-7.5,1.1,4531897892,7,False
 17775747,Old Dominion Monarchs vs. James Madison Dukes,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Old Dominion Monarchs (-9.5),-9.5,7.0,4531897893,7,False
-17775747,Old Dominion Monarchs vs. James Madison Dukes,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Old Dominion Monarchs (+5.5),5.5,2.0,4531897854,0,False
+17775747,Old Dominion Monarchs vs. James Madison Dukes,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Old Dominion Monarchs (+5.5),5.5,2.0,4531897854,7,False
 17775747,Old Dominion Monarchs vs. James Madison Dukes,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,James Madison Dukes (+9.5),-9.5,1.0834,4531897894,7,False
-17775747,Old Dominion Monarchs vs. James Madison Dukes,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,James Madison Dukes (-5.5),5.5,1.7143,4531897855,0,False
+17775747,Old Dominion Monarchs vs. James Madison Dukes,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,James Madison Dukes (-5.5),5.5,1.7143,4531897855,7,False
 17775747,Old Dominion Monarchs vs. James Madison Dukes,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Old Dominion Monarchs (+1.5),1.5,2.75,4531897776,0,False
 17775747,Old Dominion Monarchs vs. James Madison Dukes,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,James Madison Dukes (-1.5),1.5,1.4,4531897777,0,False
 17775747,Old Dominion Monarchs vs. James Madison Dukes,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Old Dominion Monarchs (+11.5),11.5,1.5,4531897778,0,False
@@ -96,12 +96,12 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17775747,Old Dominion Monarchs vs. James Madison Dukes,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,James Madison Dukes (-11.5),11.5,2.5,4531897779,0,False
 17775747,Old Dominion Monarchs vs. James Madison Dukes,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Old Dominion Monarchs (+3.5),3.5,2.3,4531897786,0,False
 17775747,Old Dominion Monarchs vs. James Madison Dukes,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,James Madison Dukes (-3.5),3.5,1.5556,4531897787,0,False
-17775747,Old Dominion Monarchs vs. James Madison Dukes,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Old Dominion Monarchs (+6.5),6.5,1.9091,4531897788,0,True
+17775747,Old Dominion Monarchs vs. James Madison Dukes,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Old Dominion Monarchs (+6.5),6.5,1.9091,4531897788,7,True
 17775747,Old Dominion Monarchs vs. James Madison Dukes,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Old Dominion Monarchs (+25.5),25.5,1.1112,4561626941,0,False
 17775747,Old Dominion Monarchs vs. James Madison Dukes,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Old Dominion Monarchs (-3.5),-3.5,4.0,4531897790,0,False
 17775747,Old Dominion Monarchs vs. James Madison Dukes,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,James Madison Dukes (-25.5),25.5,6.0,4561626942,0,False
 17775747,Old Dominion Monarchs vs. James Madison Dukes,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Old Dominion Monarchs (-4.5),-4.5,4.4,4531897792,0,False
-17775747,Old Dominion Monarchs vs. James Madison Dukes,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,James Madison Dukes (-6.5),6.5,1.7693,4531897789,0,True
+17775747,Old Dominion Monarchs vs. James Madison Dukes,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,James Madison Dukes (-6.5),6.5,1.7693,4531897789,7,True
 17775747,Old Dominion Monarchs vs. James Madison Dukes,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Old Dominion Monarchs (-8.5),-8.5,7.0,4531897794,7,False
 17775747,Old Dominion Monarchs vs. James Madison Dukes,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,James Madison Dukes (+3.5),-3.5,1.2223,4531897791,0,False
 17775747,Old Dominion Monarchs vs. James Madison Dukes,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,James Madison Dukes (+4.5),-4.5,1.1819,4531897793,0,False
@@ -109,8 +109,8 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17775747,Old Dominion Monarchs vs. James Madison Dukes,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,James Madison Dukes (-2.5),2.5,1.4546,4531897785,0,False
 17775747,Old Dominion Monarchs vs. James Madison Dukes,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Old Dominion Monarchs (+23.5),23.5,1.1539,4534878171,0,False
 17775747,Old Dominion Monarchs vs. James Madison Dukes,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,James Madison Dukes (-23.5),23.5,4.75,4534878172,0,False
-17775747,Old Dominion Monarchs vs. James Madison Dukes,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Old Dominion Monarchs (+10.5),10.5,1.5556,4531897836,0,False
-17775747,Old Dominion Monarchs vs. James Madison Dukes,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,James Madison Dukes (-10.5),10.5,2.3,4531897837,0,False
+17775747,Old Dominion Monarchs vs. James Madison Dukes,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Old Dominion Monarchs (+10.5),10.5,1.5556,4531897836,7,False
+17775747,Old Dominion Monarchs vs. James Madison Dukes,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,James Madison Dukes (-10.5),10.5,2.3,4531897837,7,False
 17775747,Old Dominion Monarchs vs. James Madison Dukes,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Old Dominion Monarchs (+13.5),13.5,1.4348,4531897838,0,False
 17775747,Old Dominion Monarchs vs. James Madison Dukes,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,James Madison Dukes (-13.5),13.5,2.65,4531897839,0,False
 17775747,Old Dominion Monarchs vs. James Madison Dukes,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Old Dominion Monarchs (+14.5),14.5,1.3637,4531897840,0,False
@@ -125,20 +125,20 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17775747,Old Dominion Monarchs vs. James Madison Dukes,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,James Madison Dukes (-18.5),18.5,3.5,4531897849,0,False
 17775747,Old Dominion Monarchs vs. James Madison Dukes,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Old Dominion Monarchs (+20.5),20.5,1.2223,4531897850,0,False
 17775747,Old Dominion Monarchs vs. James Madison Dukes,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Old Dominion Monarchs (+21.5),21.5,1.1819,4533634171,0,False
-17775747,Old Dominion Monarchs vs. James Madison Dukes,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Old Dominion Monarchs (+4.5),4.5,2.1,4531897852,0,False
-17775747,Old Dominion Monarchs vs. James Madison Dukes,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,James Madison Dukes (-4.5),4.5,1.6667,4531897853,0,False
-17775747,Old Dominion Monarchs vs. James Madison Dukes,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Old Dominion Monarchs (+9.5),9.5,1.6451,4531897726,0,False
-17775747,Old Dominion Monarchs vs. James Madison Dukes,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,James Madison Dukes (-9.5),9.5,2.15,4531897727,0,False
+17775747,Old Dominion Monarchs vs. James Madison Dukes,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Old Dominion Monarchs (+4.5),4.5,2.15,4531897852,7,False
+17775747,Old Dominion Monarchs vs. James Madison Dukes,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,James Madison Dukes (-4.5),4.5,1.6451,4531897853,7,False
+17775747,Old Dominion Monarchs vs. James Madison Dukes,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Old Dominion Monarchs (+9.5),9.5,1.6451,4531897726,7,False
+17775747,Old Dominion Monarchs vs. James Madison Dukes,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,James Madison Dukes (-9.5),9.5,2.15,4531897727,7,False
 17775747,Old Dominion Monarchs vs. James Madison Dukes,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 37.5,37.5,1.4546,4531899956,0,False
 17775747,Old Dominion Monarchs vs. James Madison Dukes,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 37.5,37.5,2.6,4531899957,0,False
 17775747,Old Dominion Monarchs vs. James Madison Dukes,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 38.5,38.5,1.5,4531899958,0,False
 17775747,Old Dominion Monarchs vs. James Madison Dukes,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 38.5,38.5,2.5,4531899959,0,False
 17775747,Old Dominion Monarchs vs. James Madison Dukes,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 39.5,39.5,1.5455,4531899960,0,False
 17775747,Old Dominion Monarchs vs. James Madison Dukes,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 39.5,39.5,2.35,4531899961,0,False
-17775747,Old Dominion Monarchs vs. James Madison Dukes,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 41.5,41.5,1.6897,4531899962,0,False
-17775747,Old Dominion Monarchs vs. James Madison Dukes,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 41.5,41.5,2.05,4531899963,0,False
-17775747,Old Dominion Monarchs vs. James Madison Dukes,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 47.5,47.5,2.2,4531899964,0,False
-17775747,Old Dominion Monarchs vs. James Madison Dukes,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 47.5,47.5,1.625,4531899965,0,False
+17775747,Old Dominion Monarchs vs. James Madison Dukes,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 41.5,41.5,1.6897,4531899962,7,False
+17775747,Old Dominion Monarchs vs. James Madison Dukes,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 41.5,41.5,2.05,4531899963,7,False
+17775747,Old Dominion Monarchs vs. James Madison Dukes,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 47.5,47.5,2.2,4531899964,7,False
+17775747,Old Dominion Monarchs vs. James Madison Dukes,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 47.5,47.5,1.625,4531899965,7,False
 17775747,Old Dominion Monarchs vs. James Madison Dukes,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 55.5,55.5,3.7,4531899966,0,False
 17775747,Old Dominion Monarchs vs. James Madison Dukes,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 55.5,55.5,1.25,4531899967,0,False
 17775747,Old Dominion Monarchs vs. James Madison Dukes,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 51.5,51.5,2.85,4531900991,0,False
@@ -165,16 +165,16 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17775747,Old Dominion Monarchs vs. James Madison Dukes,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 35.5,35.5,3.1,4534436553,0,False
 17775747,Old Dominion Monarchs vs. James Madison Dukes,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 40.5,40.5,1.5715,4531900126,0,False
 17775747,Old Dominion Monarchs vs. James Madison Dukes,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 40.5,40.5,2.25,4531900127,0,False
-17775747,Old Dominion Monarchs vs. James Madison Dukes,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 42.5,42.5,1.7143,4531900128,0,False
-17775747,Old Dominion Monarchs vs. James Madison Dukes,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 42.5,42.5,2.0,4531900129,0,False
-17775747,Old Dominion Monarchs vs. James Madison Dukes,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 43.5,43.5,1.8,4531900130,0,True
-17775747,Old Dominion Monarchs vs. James Madison Dukes,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 43.5,43.5,1.8696,4531900131,0,True
-17775747,Old Dominion Monarchs vs. James Madison Dukes,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 44.5,44.5,1.9091,4531900132,0,False
-17775747,Old Dominion Monarchs vs. James Madison Dukes,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 44.5,44.5,1.7693,4531900133,0,False
-17775747,Old Dominion Monarchs vs. James Madison Dukes,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 45.5,45.5,2.0,4531900134,0,False
-17775747,Old Dominion Monarchs vs. James Madison Dukes,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 45.5,45.5,1.7143,4531900135,0,False
-17775747,Old Dominion Monarchs vs. James Madison Dukes,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 46.5,46.5,2.1,4531900136,0,False
-17775747,Old Dominion Monarchs vs. James Madison Dukes,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 46.5,46.5,1.6667,4531900137,0,False
+17775747,Old Dominion Monarchs vs. James Madison Dukes,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 42.5,42.5,1.7143,4531900128,7,False
+17775747,Old Dominion Monarchs vs. James Madison Dukes,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 42.5,42.5,2.0,4531900129,7,False
+17775747,Old Dominion Monarchs vs. James Madison Dukes,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 43.5,43.5,1.7693,4531900130,7,True
+17775747,Old Dominion Monarchs vs. James Madison Dukes,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 43.5,43.5,1.9091,4531900131,7,True
+17775747,Old Dominion Monarchs vs. James Madison Dukes,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 44.5,44.5,1.9091,4531900132,7,False
+17775747,Old Dominion Monarchs vs. James Madison Dukes,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 44.5,44.5,1.7693,4531900133,7,False
+17775747,Old Dominion Monarchs vs. James Madison Dukes,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 45.5,45.5,2.0,4531900134,7,False
+17775747,Old Dominion Monarchs vs. James Madison Dukes,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 45.5,45.5,1.7143,4531900135,7,False
+17775747,Old Dominion Monarchs vs. James Madison Dukes,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 46.5,46.5,2.1,4531900136,7,False
+17775747,Old Dominion Monarchs vs. James Madison Dukes,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 46.5,46.5,1.6667,4531900137,7,False
 17775747,Old Dominion Monarchs vs. James Madison Dukes,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 48.5,48.5,2.35,4531900138,0,False
 17775747,Old Dominion Monarchs vs. James Madison Dukes,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 48.5,48.5,1.5455,4531900139,0,False
 17775747,Old Dominion Monarchs vs. James Madison Dukes,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 49.5,49.5,2.5,4531900140,0,False
@@ -209,17 +209,17 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17775747,Old Dominion Monarchs vs. James Madison Dukes,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 33.5,33.5,3.5,4534878174,0,False
 17775747,Old Dominion Monarchs vs. James Madison Dukes,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 36.5,36.5,1.3637,4534246897,0,False
 17775747,Old Dominion Monarchs vs. James Madison Dukes,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 36.5,36.5,2.9,4534246898,0,False
-17796098,Texas State Bobcats vs. Incarnate Word Cardinals,2026-09-26T22:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Texas State Bobcats,,1.01,4540712362,0,False
-17796098,Texas State Bobcats vs. Incarnate Word Cardinals,2026-09-26T22:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Incarnate Word Cardinals,,10.0,4540712363,0,False
+17796098,Texas State Bobcats vs. Incarnate Word Cardinals,2026-09-26T22:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Texas State Bobcats,,1.01,4540712362,7,False
+17796098,Texas State Bobcats vs. Incarnate Word Cardinals,2026-09-26T22:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Incarnate Word Cardinals,,10.0,4540712363,7,False
 17796098,Texas State Bobcats vs. Incarnate Word Cardinals,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Texas State Bobcats (-25.5),-25.5,1.5455,4540712456,0,False
 17796098,Texas State Bobcats vs. Incarnate Word Cardinals,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Incarnate Word Cardinals (+25.5),-25.5,2.35,4540712457,0,False
-17796098,Texas State Bobcats vs. Incarnate Word Cardinals,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Texas State Bobcats (-32.5),-32.5,2.05,4540712458,0,False
-17796098,Texas State Bobcats vs. Incarnate Word Cardinals,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Incarnate Word Cardinals (+30.5),-30.5,1.8696,4540712440,0,True
-17796098,Texas State Bobcats vs. Incarnate Word Cardinals,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Incarnate Word Cardinals (+32.5),-32.5,1.6897,4540712459,0,False
+17796098,Texas State Bobcats vs. Incarnate Word Cardinals,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Texas State Bobcats (-32.5),-32.5,2.0,4540712458,7,False
+17796098,Texas State Bobcats vs. Incarnate Word Cardinals,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Incarnate Word Cardinals (+30.5),-30.5,1.8696,4540712440,7,True
+17796098,Texas State Bobcats vs. Incarnate Word Cardinals,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Incarnate Word Cardinals (+32.5),-32.5,1.7143,4540712459,7,False
 17796098,Texas State Bobcats vs. Incarnate Word Cardinals,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Incarnate Word Cardinals (+37.5),-37.5,1.4762,4540712313,0,False
 17796098,Texas State Bobcats vs. Incarnate Word Cardinals,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Texas State Bobcats (-41.5),-41.5,3.2,4543434126,7,False
 17796098,Texas State Bobcats vs. Incarnate Word Cardinals,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Incarnate Word Cardinals (+41.5),-41.5,1.3125,4543434127,7,False
-17796098,Texas State Bobcats vs. Incarnate Word Cardinals,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Incarnate Word Cardinals (+31.5),-31.5,1.7693,4540712442,0,False
+17796098,Texas State Bobcats vs. Incarnate Word Cardinals,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Incarnate Word Cardinals (+31.5),-31.5,1.7693,4540712442,7,False
 17796098,Texas State Bobcats vs. Incarnate Word Cardinals,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Texas State Bobcats (-24.5),-24.5,1.5,4540712604,0,False
 17796098,Texas State Bobcats vs. Incarnate Word Cardinals,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Incarnate Word Cardinals (+24.5),-24.5,2.5,4540712605,0,False
 17796098,Texas State Bobcats vs. Incarnate Word Cardinals,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Texas State Bobcats (-35.5),-35.5,2.4,4540712606,0,False
@@ -232,8 +232,8 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17796098,Texas State Bobcats vs. Incarnate Word Cardinals,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Incarnate Word Cardinals (+22.5),-22.5,2.7,4540712493,0,False
 17796098,Texas State Bobcats vs. Incarnate Word Cardinals,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Texas State Bobcats (-23.5),-23.5,1.4348,4540712494,0,False
 17796098,Texas State Bobcats vs. Incarnate Word Cardinals,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Incarnate Word Cardinals (+23.5),-23.5,2.65,4540712495,0,False
-17796098,Texas State Bobcats vs. Incarnate Word Cardinals,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Texas State Bobcats (-29.5),-29.5,1.7693,4540712496,0,False
-17796098,Texas State Bobcats vs. Incarnate Word Cardinals,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Incarnate Word Cardinals (+29.5),-29.5,1.9091,4540712497,0,False
+17796098,Texas State Bobcats vs. Incarnate Word Cardinals,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Texas State Bobcats (-29.5),-29.5,1.7693,4540712496,7,False
+17796098,Texas State Bobcats vs. Incarnate Word Cardinals,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Incarnate Word Cardinals (+29.5),-29.5,1.9091,4540712497,7,False
 17796098,Texas State Bobcats vs. Incarnate Word Cardinals,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Texas State Bobcats (-27.5),-27.5,1.6451,4540712626,0,False
 17796098,Texas State Bobcats vs. Incarnate Word Cardinals,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Incarnate Word Cardinals (+27.5),-27.5,2.15,4540712627,0,False
 17796098,Texas State Bobcats vs. Incarnate Word Cardinals,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Texas State Bobcats (-19.5),-19.5,1.3031,4546876238,7,False
@@ -248,18 +248,18 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17796098,Texas State Bobcats vs. Incarnate Word Cardinals,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Incarnate Word Cardinals (+34.5),-34.5,1.625,4540712681,0,False
 17796098,Texas State Bobcats vs. Incarnate Word Cardinals,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Texas State Bobcats (-21.5),-21.5,1.3847,4540712435,0,False
 17796098,Texas State Bobcats vs. Incarnate Word Cardinals,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Incarnate Word Cardinals (+21.5),-21.5,2.85,4540712436,0,False
-17796098,Texas State Bobcats vs. Incarnate Word Cardinals,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Texas State Bobcats (-28.5),-28.5,1.7143,4540712437,0,False
-17796098,Texas State Bobcats vs. Incarnate Word Cardinals,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Incarnate Word Cardinals (+28.5),-28.5,2.0,4540712438,0,False
-17796098,Texas State Bobcats vs. Incarnate Word Cardinals,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Texas State Bobcats (-30.5),-30.5,1.8,4540712439,0,True
+17796098,Texas State Bobcats vs. Incarnate Word Cardinals,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Texas State Bobcats (-28.5),-28.5,1.7143,4540712437,7,False
+17796098,Texas State Bobcats vs. Incarnate Word Cardinals,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Incarnate Word Cardinals (+28.5),-28.5,2.0,4540712438,7,False
+17796098,Texas State Bobcats vs. Incarnate Word Cardinals,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Texas State Bobcats (-30.5),-30.5,1.8,4540712439,7,True
 17796098,Texas State Bobcats vs. Incarnate Word Cardinals,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Texas State Bobcats (-37.5),-37.5,2.55,4540712312,0,False
-17796098,Texas State Bobcats vs. Incarnate Word Cardinals,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Texas State Bobcats (-31.5),-31.5,1.9091,4540712441,0,False
+17796098,Texas State Bobcats vs. Incarnate Word Cardinals,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Texas State Bobcats (-31.5),-31.5,1.9091,4540712441,7,False
 17796098,Texas State Bobcats vs. Incarnate Word Cardinals,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Texas State Bobcats (-39.5),-39.5,2.9,4540712314,0,False
 17796098,Texas State Bobcats vs. Incarnate Word Cardinals,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Incarnate Word Cardinals (+39.5),-39.5,1.3637,4540712315,0,False
-17796098,Texas State Bobcats vs. Incarnate Word Cardinals,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Texas State Bobcats (-40.5),-40.5,3.0,4540712316,0,False
-17796098,Texas State Bobcats vs. Incarnate Word Cardinals,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Incarnate Word Cardinals (+40.5),-40.5,1.3572,4540712317,0,False
-17796098,Texas State Bobcats vs. Incarnate Word Cardinals,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 66.5,66.5,1.9091,4540712320,0,False
+17796098,Texas State Bobcats vs. Incarnate Word Cardinals,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Texas State Bobcats (-40.5),-40.5,3.1,4540712316,0,False
+17796098,Texas State Bobcats vs. Incarnate Word Cardinals,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Incarnate Word Cardinals (+40.5),-40.5,1.3334,4540712317,0,False
+17796098,Texas State Bobcats vs. Incarnate Word Cardinals,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 66.5,66.5,1.8696,4540712320,7,False
 17796098,Texas State Bobcats vs. Incarnate Word Cardinals,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 71.5,71.5,2.4,4543320193,0,False
-17796098,Texas State Bobcats vs. Incarnate Word Cardinals,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 66.5,66.5,1.7693,4540712321,0,False
+17796098,Texas State Bobcats vs. Incarnate Word Cardinals,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 66.5,66.5,1.8,4540712321,7,False
 17796098,Texas State Bobcats vs. Incarnate Word Cardinals,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 71.5,71.5,1.5264,4543320194,0,False
 17796098,Texas State Bobcats vs. Incarnate Word Cardinals,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 50.5,50.5,1.1539,4540712460,7,False
 17796098,Texas State Bobcats vs. Incarnate Word Cardinals,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 50.5,50.5,4.75,4540712461,7,False
@@ -271,8 +271,8 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17796098,Texas State Bobcats vs. Incarnate Word Cardinals,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 59.5,59.5,2.55,4540712467,0,False
 17796098,Texas State Bobcats vs. Incarnate Word Cardinals,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 61.5,61.5,1.5455,4540712468,0,False
 17796098,Texas State Bobcats vs. Incarnate Word Cardinals,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 61.5,61.5,2.35,4540712469,0,False
-17796098,Texas State Bobcats vs. Incarnate Word Cardinals,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 64.5,64.5,1.7143,4540712470,0,False
-17796098,Texas State Bobcats vs. Incarnate Word Cardinals,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 64.5,64.5,2.0,4540712471,0,False
+17796098,Texas State Bobcats vs. Incarnate Word Cardinals,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 64.5,64.5,1.7143,4540712470,7,False
+17796098,Texas State Bobcats vs. Incarnate Word Cardinals,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 64.5,64.5,2.0,4540712471,7,False
 17796098,Texas State Bobcats vs. Incarnate Word Cardinals,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 53.5,53.5,1.2353,4540712610,7,False
 17796098,Texas State Bobcats vs. Incarnate Word Cardinals,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 53.5,53.5,3.75,4540712611,7,False
 17796098,Texas State Bobcats vs. Incarnate Word Cardinals,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 56.5,56.5,1.3334,4540712612,0,False
@@ -290,15 +290,15 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17796098,Texas State Bobcats vs. Incarnate Word Cardinals,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 60.5,60.5,1.5,4540712628,0,False
 17796098,Texas State Bobcats vs. Incarnate Word Cardinals,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 62.5,62.5,1.625,4540712500,0,False
 17796098,Texas State Bobcats vs. Incarnate Word Cardinals,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 63.5,63.5,1.6897,4540712630,0,False
-17796098,Texas State Bobcats vs. Incarnate Word Cardinals,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 65.5,65.5,1.8,4540712502,0,True
-17796098,Texas State Bobcats vs. Incarnate Word Cardinals,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 67.5,67.5,1.9524,4540712632,0,False
+17796098,Texas State Bobcats vs. Incarnate Word Cardinals,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 65.5,65.5,1.8,4540712502,7,True
+17796098,Texas State Bobcats vs. Incarnate Word Cardinals,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 67.5,67.5,1.9524,4540712632,7,False
 17796098,Texas State Bobcats vs. Incarnate Word Cardinals,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 60.5,60.5,2.5,4540712629,0,False
 17796098,Texas State Bobcats vs. Incarnate Word Cardinals,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 62.5,62.5,2.2,4540712501,0,False
 17796098,Texas State Bobcats vs. Incarnate Word Cardinals,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 63.5,63.5,2.05,4540712631,0,False
-17796098,Texas State Bobcats vs. Incarnate Word Cardinals,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 65.5,65.5,1.8696,4540712503,0,True
-17796098,Texas State Bobcats vs. Incarnate Word Cardinals,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 67.5,67.5,1.7408,4540712633,0,False
-17796098,Texas State Bobcats vs. Incarnate Word Cardinals,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 68.5,68.5,2.05,4540712294,0,False
-17796098,Texas State Bobcats vs. Incarnate Word Cardinals,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 68.5,68.5,1.6897,4540712295,0,False
+17796098,Texas State Bobcats vs. Incarnate Word Cardinals,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 65.5,65.5,1.8696,4540712503,7,True
+17796098,Texas State Bobcats vs. Incarnate Word Cardinals,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 67.5,67.5,1.7408,4540712633,7,False
+17796098,Texas State Bobcats vs. Incarnate Word Cardinals,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 68.5,68.5,2.05,4540712294,7,False
+17796098,Texas State Bobcats vs. Incarnate Word Cardinals,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 68.5,68.5,1.6897,4540712295,7,False
 17796098,Texas State Bobcats vs. Incarnate Word Cardinals,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 72.5,72.5,2.6,4543567720,0,False
 17796098,Texas State Bobcats vs. Incarnate Word Cardinals,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 72.5,72.5,1.4546,4543567721,0,False
 17796098,Texas State Bobcats vs. Incarnate Word Cardinals,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 73.5,73.5,2.75,4543567722,0,False
@@ -311,15 +311,15 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17796098,Texas State Bobcats vs. Incarnate Word Cardinals,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 52.5,52.5,4.0,4540712444,7,False
 17796098,Texas State Bobcats vs. Incarnate Word Cardinals,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 55.5,55.5,1.3031,4540712318,7,False
 17796098,Texas State Bobcats vs. Incarnate Word Cardinals,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 55.5,55.5,3.25,4540712319,7,False
-17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Virginia Cavaliers,,1.05,4532207092,0,False
-17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Delaware Fightin Blue Hens,,7.25,4532207093,0,False
+17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Virginia Cavaliers,,1.05,4532207092,7,False
+17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Delaware Fightin Blue Hens,,7.25,4532207093,7,False
 17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Delaware Fightin Blue Hens (+16.5),-16.5,2.2,4532207360,0,False
-17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Virginia Cavaliers (-17.5),-17.5,1.6897,4532207361,0,False
-17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Delaware Fightin Blue Hens (+17.5),-17.5,2.05,4532207362,0,False
-17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Virginia Cavaliers (-19.5),-19.5,1.8,4532207363,0,False
-17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Delaware Fightin Blue Hens (+19.5),-19.5,1.8696,4532207364,0,False
-17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Virginia Cavaliers (-21.5),-21.5,2.0,4532207365,0,False
-17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Delaware Fightin Blue Hens (+21.5),-21.5,1.7143,4532207366,0,False
+17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Virginia Cavaliers (-17.5),-17.5,1.6897,4532207361,7,False
+17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Delaware Fightin Blue Hens (+17.5),-17.5,2.05,4532207362,7,False
+17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Virginia Cavaliers (-19.5),-19.5,1.8,4532207363,7,False
+17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Delaware Fightin Blue Hens (+19.5),-19.5,1.8696,4532207364,7,False
+17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Virginia Cavaliers (-21.5),-21.5,2.0,4532207365,7,False
+17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Delaware Fightin Blue Hens (+21.5),-21.5,1.7143,4532207366,7,False
 17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Virginia Cavaliers (-24.5),-24.5,2.3,4532207367,0,False
 17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Delaware Fightin Blue Hens (+24.5),-24.5,1.5556,4532207368,0,False
 17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Virginia Cavaliers (-29.5),-29.5,3.0,4532207369,0,False
@@ -334,8 +334,8 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Delaware Fightin Blue Hens (+12.5),-12.5,2.65,4532207515,0,False
 17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Virginia Cavaliers (-14.5),-14.5,1.5556,4532207516,0,False
 17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Delaware Fightin Blue Hens (+14.5),-14.5,2.3,4532207517,0,False
-17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Virginia Cavaliers (-18.5),-18.5,1.7408,4532207518,0,False
-17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Delaware Fightin Blue Hens (+18.5),-18.5,1.9524,4532207519,0,False
+17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Virginia Cavaliers (-18.5),-18.5,1.7408,4532207518,7,False
+17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Delaware Fightin Blue Hens (+18.5),-18.5,1.9524,4532207519,7,False
 17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Virginia Cavaliers (-25.5),-25.5,2.4,4532207520,0,False
 17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Delaware Fightin Blue Hens (+25.5),-25.5,1.5264,4532207521,0,False
 17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Virginia Cavaliers (-28.5),-28.5,2.9,4532207522,0,False
@@ -350,30 +350,30 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Delaware Fightin Blue Hens (+8.5),-8.5,3.25,4532207531,0,False
 17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Virginia Cavaliers (-4.5),-4.5,1.1539,4545537723,7,False
 17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Delaware Fightin Blue Hens (+4.5),-4.5,4.75,4545537724,7,False
-17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Virginia Cavaliers (-20.5),-20.5,1.8696,4532207326,0,True
-17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Delaware Fightin Blue Hens (+20.5),-20.5,1.8,4532207327,0,True
-17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Virginia Cavaliers (-22.5),-22.5,2.1,4532207328,0,False
-17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Delaware Fightin Blue Hens (+22.5),-22.5,1.6667,4532207329,0,False
-17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Virginia Cavaliers (-23.5),-23.5,2.15,4532207330,0,False
-17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Delaware Fightin Blue Hens (+23.5),-23.5,1.6451,4532207331,0,False
-17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Virginia Cavaliers (-26.5),-26.5,2.55,4532207332,0,False
-17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Delaware Fightin Blue Hens (+26.5),-26.5,1.4762,4532207333,0,False
+17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Virginia Cavaliers (-20.5),-20.5,1.8334,4532207326,7,True
+17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Delaware Fightin Blue Hens (+20.5),-20.5,1.8334,4532207327,7,True
+17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Virginia Cavaliers (-22.5),-22.5,2.05,4532207328,7,False
+17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Delaware Fightin Blue Hens (+22.5),-22.5,1.6897,4532207329,7,False
+17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Virginia Cavaliers (-23.5),-23.5,2.15,4532207330,7,False
+17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Delaware Fightin Blue Hens (+23.5),-23.5,1.6451,4532207331,7,False
+17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Virginia Cavaliers (-26.5),-26.5,2.5,4532207332,0,False
+17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Delaware Fightin Blue Hens (+26.5),-26.5,1.5,4532207333,0,False
 17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Virginia Cavaliers (-27.5),-27.5,2.65,4532207334,0,False
 17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Delaware Fightin Blue Hens (+27.5),-27.5,1.4348,4532207335,0,False
 17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Virginia Cavaliers (-30.5),-30.5,3.15,4532207336,0,False
 17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Delaware Fightin Blue Hens (+30.5),-30.5,1.3226,4532207337,0,False
 17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Virginia Cavaliers (-34.5),-34.5,4.2,4532207338,0,False
 17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Delaware Fightin Blue Hens (+34.5),-34.5,1.2,4532207339,0,False
-17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Virginia Cavaliers (-36.5),-36.5,4.75,4532207340,7,False
-17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Delaware Fightin Blue Hens (+36.5),-36.5,1.1539,4532207341,7,False
+17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Virginia Cavaliers (-36.5),-36.5,4.5,4532207340,7,False
+17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Delaware Fightin Blue Hens (+36.5),-36.5,1.1667,4532207341,7,False
 17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Virginia Cavaliers (-9.5),-9.5,1.3226,4532207342,0,False
 17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Delaware Fightin Blue Hens (+9.5),-9.5,3.15,4532207343,0,False
 17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Virginia Cavaliers (-5.5),-5.5,1.1819,4533263088,0,False
 17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Delaware Fightin Blue Hens (+5.5),-5.5,4.4,4533263089,0,False
-17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Virginia Cavaliers (-6.5),-6.5,1.2223,4533263090,0,False
-17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Delaware Fightin Blue Hens (+6.5),-6.5,4.0,4533263091,0,False
-17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Virginia Cavaliers (-10.5),-10.5,1.3847,4532207351,0,False
-17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Delaware Fightin Blue Hens (+10.5),-10.5,2.85,4532207352,0,False
+17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Virginia Cavaliers (-6.5),-6.5,1.2,4533263090,0,False
+17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Delaware Fightin Blue Hens (+6.5),-6.5,4.2,4533263091,0,False
+17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Virginia Cavaliers (-10.5),-10.5,1.3637,4532207351,0,False
+17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Delaware Fightin Blue Hens (+10.5),-10.5,2.9,4532207352,0,False
 17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Virginia Cavaliers (-11.5),-11.5,1.4167,4532207353,0,False
 17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Delaware Fightin Blue Hens (+11.5),-11.5,2.7,4532207354,0,False
 17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Virginia Cavaliers (-13.5),-13.5,1.4762,4532207355,0,False
@@ -401,38 +401,38 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 67.5,67.5,1.1819,4532207629,0,False
 17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 70.5,70.5,1.125,4532207631,7,False
 17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 71.5,71.5,1.1112,4532207633,7,False
-17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 37.5,37.5,1.1667,4538054424,0,False
-17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 37.5,37.5,4.5,4538054425,0,False
+17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 37.5,37.5,1.1667,4538054424,7,False
+17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 37.5,37.5,4.5,4538054425,7,False
 17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 43.5,43.5,1.3334,4532207658,0,False
 17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 43.5,43.5,3.1,4532207659,0,False
 17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 47.5,47.5,1.5264,4532207660,0,False
 17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 47.5,47.5,2.4,4532207661,0,False
 17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 38.5,38.5,1.1905,4534883758,0,False
-17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 52.5,52.5,1.8334,4532207662,0,True
-17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 61.5,61.5,3.0,4532207664,0,False
+17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 52.5,52.5,1.8334,4532207662,7,True
+17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 61.5,61.5,2.9,4532207664,0,False
 17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 38.5,38.5,4.3,4534883759,0,False
 17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 69.5,69.5,5.0,4532207666,7,False
-17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 52.5,52.5,1.8334,4532207663,0,True
-17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 61.5,61.5,1.3572,4532207665,0,False
+17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 52.5,52.5,1.8334,4532207663,7,True
+17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 61.5,61.5,1.3637,4532207665,0,False
 17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 69.5,69.5,1.1429,4532207667,7,False
 17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 41.5,41.5,1.2858,4532207701,0,False
 17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 41.5,41.5,3.4,4532207702,0,False
-17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 49.5,49.5,1.6451,4532207703,0,False
-17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 49.5,49.5,2.15,4532207704,0,False
-17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 53.5,53.5,1.9091,4532207705,0,False
-17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 53.5,53.5,1.7693,4532207706,0,False
-17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 54.5,54.5,2.0,4532207707,0,False
-17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 54.5,54.5,1.7143,4532207708,0,False
+17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 49.5,49.5,1.6451,4532207703,7,False
+17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 49.5,49.5,2.15,4532207704,7,False
+17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 53.5,53.5,1.9091,4532207705,7,False
+17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 53.5,53.5,1.7693,4532207706,7,False
+17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 54.5,54.5,2.0,4532207707,7,False
+17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 54.5,54.5,1.7143,4532207708,7,False
 17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 57.5,57.5,2.35,4532207709,0,False
 17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 57.5,57.5,1.5455,4532207710,0,False
-17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 58.5,58.5,2.55,4532207711,0,False
-17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 58.5,58.5,1.4762,4532207712,0,False
+17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 58.5,58.5,2.5,4532207711,0,False
+17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 58.5,58.5,1.5,4532207712,0,False
 17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 62.5,62.5,3.2,4532207713,0,False
 17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 62.5,62.5,1.3125,4532207714,0,False
 17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 66.5,66.5,4.2,4532207715,0,False
 17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 66.5,66.5,1.2,4532207716,0,False
-17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 68.5,68.5,4.5,4532207717,7,False
-17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 68.5,68.5,1.1667,4532207718,7,False
+17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 68.5,68.5,4.5,4532207717,0,False
+17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 68.5,68.5,1.1667,4532207718,0,False
 17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 39.5,39.5,1.2,4534766567,0,False
 17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 39.5,39.5,4.2,4534766568,0,False
 17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 42.5,42.5,1.3031,4532207600,0,False
@@ -445,12 +445,12 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 46.5,46.5,2.6,4532207607,0,False
 17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 48.5,48.5,1.5715,4532207608,0,False
 17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 48.5,48.5,2.25,4532207609,0,False
-17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 50.5,50.5,1.6897,4532207610,0,False
-17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 50.5,50.5,2.05,4532207611,0,False
-17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 51.5,51.5,1.7693,4532207612,0,False
-17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 51.5,51.5,1.9091,4532207613,0,False
-17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 55.5,55.5,2.2,4532207614,0,False
-17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 55.5,55.5,1.625,4532207615,0,False
+17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 50.5,50.5,1.6897,4532207610,7,False
+17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 50.5,50.5,2.05,4532207611,7,False
+17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 51.5,51.5,1.7693,4532207612,7,False
+17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 51.5,51.5,1.9091,4532207613,7,False
+17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 55.5,55.5,2.15,4532207614,7,False
+17575367,Virginia Cavaliers vs. Delaware Fightin Blue Hens,2026-09-26T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 55.5,55.5,1.6451,4532207615,7,False
 17775789,Charlotte 49ers vs. Louisiana-Lafayette Ragin Cajuns,2026-09-26T22:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Charlotte 49ers,,3.6,4531915723,0,False
 17775789,Charlotte 49ers vs. Louisiana-Lafayette Ragin Cajuns,2026-09-26T22:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Louisiana-Lafayette Ragin Cajuns,,1.2353,4531915724,0,False
 17775789,Charlotte 49ers vs. Louisiana-Lafayette Ragin Cajuns,2026-09-26T22:30:00Z,spread,Handicap (inclus prolongations),223,70799,Charlotte 49ers (+20.5),20.5,1.3125,4531916032,0,False
@@ -601,12 +601,12 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,spread,Handicap (inclus prolongations),223,70799,Central Mich Chippewas (+29.5),-29.5,3.7,4531919391,0,False
 17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,spread,Handicap (inclus prolongations),223,70799,Miami Hurricanes (-30.5),-30.5,1.2858,4531919392,0,False
 17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,spread,Handicap (inclus prolongations),223,70799,Miami Hurricanes (-26.5),-26.5,1.1667,4534924961,0,False
-17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,spread,Handicap (inclus prolongations),223,70799,Miami Hurricanes (-31.5),-31.5,1.3334,4531919394,0,False
+17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,spread,Handicap (inclus prolongations),223,70799,Miami Hurricanes (-31.5),-31.5,1.3226,4531919394,0,False
 17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,spread,Handicap (inclus prolongations),223,70799,Central Mich Chippewas (+26.5),-26.5,4.5,4534924962,0,False
 17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,spread,Handicap (inclus prolongations),223,70799,Miami Hurricanes (-33.5),-33.5,1.3847,4531919396,0,False
 17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,spread,Handicap (inclus prolongations),223,70799,Central Mich Chippewas (+30.5),-30.5,3.4,4531919393,0,False
 17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,spread,Handicap (inclus prolongations),223,70799,Miami Hurricanes (-34.5),-34.5,1.4348,4531919398,0,False
-17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,spread,Handicap (inclus prolongations),223,70799,Central Mich Chippewas (+31.5),-31.5,3.1,4531919395,0,False
+17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,spread,Handicap (inclus prolongations),223,70799,Central Mich Chippewas (+31.5),-31.5,3.15,4531919395,0,False
 17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,spread,Handicap (inclus prolongations),223,70799,Miami Hurricanes (-35.5),-35.5,1.5,4531919400,0,False
 17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,spread,Handicap (inclus prolongations),223,70799,Central Mich Chippewas (+33.5),-33.5,2.85,4531919397,0,False
 17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,spread,Handicap (inclus prolongations),223,70799,Miami Hurricanes (-36.5),-36.5,1.5264,4531919402,0,False
@@ -635,10 +635,10 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,spread,Handicap (inclus prolongations),223,70799,Central Mich Chippewas (+45.5),-45.5,1.5715,4531919417,0,False
 17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,spread,Handicap (inclus prolongations),223,70799,Miami Hurricanes (-54.5),-54.5,3.7,4531919426,0,False
 17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,spread,Handicap (inclus prolongations),223,70799,Central Mich Chippewas (+46.5),-46.5,1.5264,4531919675,0,False
-17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,spread,Handicap (inclus prolongations),223,70799,Miami Hurricanes (-28.5),-28.5,1.2353,4531919556,0,False
+17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,spread,Handicap (inclus prolongations),223,70799,Miami Hurricanes (-28.5),-28.5,1.2223,4531919556,0,False
 17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,spread,Handicap (inclus prolongations),223,70799,Miami Hurricanes (-56.5),-56.5,4.5,4531919428,0,False
 17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,spread,Handicap (inclus prolongations),223,70799,Miami Hurricanes (-32.5),-32.5,1.3572,4531919558,0,False
-17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,spread,Handicap (inclus prolongations),223,70799,Central Mich Chippewas (+28.5),-28.5,3.75,4531919557,0,False
+17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,spread,Handicap (inclus prolongations),223,70799,Central Mich Chippewas (+28.5),-28.5,4.0,4531919557,0,False
 17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,spread,Handicap (inclus prolongations),223,70799,Miami Hurricanes (-40.5),-40.5,1.7408,4531919560,0,False
 17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,spread,Handicap (inclus prolongations),223,70799,Central Mich Chippewas (+32.5),-32.5,3.0,4531919559,0,False
 17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,spread,Handicap (inclus prolongations),223,70799,Miami Hurricanes (-48.5),-48.5,2.65,4531919562,0,False
@@ -656,75 +656,77 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,spread,Handicap (inclus prolongations),223,70799,Central Mich Chippewas (+51.5),-51.5,1.3226,4531919567,0,False
 17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,spread,Handicap (inclus prolongations),223,70799,Central Mich Chippewas (+55.5),-55.5,1.2,4531919569,0,False
 17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,spread,Handicap (inclus prolongations),223,70799,Central Mich Chippewas (+58.5),-58.5,1.1429,4531919571,7,False
-17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,spread,Handicap (inclus prolongations),223,70799,Miami Hurricanes (-39.5),-39.5,1.7143,4531919333,0,False
-17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,spread,Handicap (inclus prolongations),223,70799,Central Mich Chippewas (+39.5),-39.5,2.0,4531919334,0,False
+17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,spread,Handicap (inclus prolongations),223,70799,Miami Hurricanes (-39.5),-39.5,1.6897,4531919333,0,False
+17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,spread,Handicap (inclus prolongations),223,70799,Central Mich Chippewas (+39.5),-39.5,2.05,4531919334,0,False
 17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,spread,Handicap (inclus prolongations),223,70799,Central Mich Chippewas (+47.5),-47.5,1.5,4531919419,0,False
 17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 70.5,70.5,5.5,4534916864,7,False
 17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 70.5,70.5,1.125,4534916865,7,False
-17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 39.5,39.5,1.1905,4531919764,0,False
-17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 39.5,39.5,4.3,4531919765,0,False
-17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 63.5,63.5,3.25,4531919766,0,False
-17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 63.5,63.5,1.3031,4531919767,0,False
-17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 65.5,65.5,3.75,4531919768,0,False
-17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 54.5,54.5,1.7408,4531919705,0,False
-17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 65.5,65.5,1.2353,4531919769,0,False
-17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 66.5,66.5,1.2,4531919715,0,False
-17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 55.5,55.5,1.6667,4531919707,0,False
+17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 37.5,37.5,1.1539,4562715012,0,False
+17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 37.5,37.5,4.75,4562715013,0,False
+17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 39.5,39.5,1.2,4531919764,0,False
+17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 39.5,39.5,4.2,4531919765,0,False
+17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 63.5,63.5,3.4,4531919766,0,False
+17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 63.5,63.5,1.2858,4531919767,0,False
+17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 65.5,65.5,4.0,4531919768,0,False
+17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 54.5,54.5,1.7143,4531919705,0,False
+17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 65.5,65.5,1.2223,4531919769,0,False
+17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 66.5,66.5,1.1905,4531919715,0,False
+17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 55.5,55.5,1.625,4531919707,0,False
 17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 41.5,41.5,3.5,4531919581,0,False
-17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 56.5,56.5,1.625,4531919709,0,False
-17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 62.5,62.5,1.3226,4531919713,0,False
-17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 57.5,57.5,1.5556,4531919583,0,False
-17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 59.5,59.5,1.4546,4531919711,0,False
+17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 56.5,56.5,1.5715,4531919709,0,False
+17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 62.5,62.5,1.3031,4531919713,0,False
+17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 57.5,57.5,1.5455,4531919583,0,False
+17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 59.5,59.5,1.4167,4531919711,0,False
 17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 40.5,40.5,1.2223,4531919678,0,False
 17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 40.5,40.5,4.0,4531919679,0,False
-17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 42.5,42.5,1.2858,4531919680,0,False
-17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 42.5,42.5,3.4,4531919681,0,False
-17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 43.5,43.5,1.3125,4531919682,0,False
-17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 43.5,43.5,3.2,4531919683,0,False
-17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 44.5,44.5,1.3637,4531919684,0,False
-17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 44.5,44.5,2.9,4531919685,0,False
-17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 45.5,45.5,1.4167,4531919686,0,False
-17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 45.5,45.5,2.7,4531919687,0,False
-17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 46.5,46.5,1.4348,4531919688,0,False
-17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 46.5,46.5,2.65,4531919689,0,False
+17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 42.5,42.5,1.3031,4531919680,0,False
+17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 42.5,42.5,3.25,4531919681,0,False
+17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 43.5,43.5,1.3226,4531919682,0,False
+17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 43.5,43.5,3.15,4531919683,0,False
+17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 44.5,44.5,1.3847,4531919684,0,False
+17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 44.5,44.5,2.85,4531919685,0,False
+17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 45.5,45.5,1.4348,4531919686,0,False
+17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 45.5,45.5,2.65,4531919687,0,False
+17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 46.5,46.5,1.4546,4531919688,0,False
+17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 46.5,46.5,2.6,4531919689,0,False
 17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 47.5,47.5,1.5,4531919690,0,False
 17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 47.5,47.5,2.5,4531919691,0,False
-17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 48.5,48.5,1.5556,4531919692,0,False
-17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 48.5,48.5,2.3,4531919693,0,False
+17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 48.5,48.5,1.5715,4531919692,0,False
+17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 48.5,48.5,2.25,4531919693,0,False
 17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 38.5,38.5,1.1819,4532200910,0,False
-17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 49.5,49.5,1.625,4531919694,0,False
-17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 50.5,50.5,1.6451,4531919696,0,False
+17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 49.5,49.5,1.6451,4531919694,0,False
+17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 50.5,50.5,1.6897,4531919696,0,False
 17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 38.5,38.5,4.4,4532200911,0,False
-17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 51.5,51.5,1.7143,4531919698,0,False
-17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 49.5,49.5,2.2,4531919695,0,False
+17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 51.5,51.5,1.7693,4531919698,0,False
+17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 49.5,49.5,2.15,4531919695,0,False
 17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 52.5,52.5,1.8334,4531919700,0,True
-17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 50.5,50.5,2.15,4531919697,0,False
-17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 53.5,53.5,1.8334,4531919702,0,False
-17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 51.5,51.5,2.0,4531919699,0,False
-17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 54.5,54.5,1.9524,4531919704,0,False
+17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 50.5,50.5,2.05,4531919697,0,False
+17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 53.5,53.5,1.9091,4531919702,0,False
+17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 51.5,51.5,1.9091,4531919699,0,False
+17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 54.5,54.5,2.0,4531919704,0,False
 17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 52.5,52.5,1.8334,4531919701,0,True
-17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 55.5,55.5,2.1,4531919706,0,False
-17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 53.5,53.5,1.8334,4531919703,0,False
-17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 56.5,56.5,2.2,4531919708,0,False
+17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 55.5,55.5,2.2,4531919706,0,False
+17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 53.5,53.5,1.7693,4531919703,0,False
 17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 41.5,41.5,1.2667,4531919580,0,False
-17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 57.5,57.5,2.3,4531919582,0,False
-17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 59.5,59.5,2.6,4531919710,0,False
-17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 58.5,58.5,2.5,4531919584,0,False
-17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 62.5,62.5,3.15,4531919712,0,False
-17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 60.5,60.5,2.7,4531919586,0,False
-17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 66.5,66.5,4.2,4531919714,0,False
-17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 61.5,61.5,2.9,4531919588,0,False
-17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 67.5,67.5,4.3,4531919716,0,False
-17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 64.5,64.5,3.5,4531919590,0,False
-17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 68.5,68.5,4.5,4531919718,0,False
-17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 69.5,69.5,5.0,4531919720,7,False
-17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 58.5,58.5,1.5,4531919585,0,False
-17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 60.5,60.5,1.4167,4531919587,0,False
-17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 61.5,61.5,1.3637,4531919589,0,False
-17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 64.5,64.5,1.2667,4531919591,0,False
-17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 67.5,67.5,1.1905,4531919717,0,False
-17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 68.5,68.5,1.1667,4531919719,0,False
-17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 69.5,69.5,1.1429,4531919721,7,False
+17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 56.5,56.5,2.25,4531919708,0,False
+17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 57.5,57.5,2.35,4531919582,0,False
+17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 59.5,59.5,2.7,4531919710,0,False
+17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 58.5,58.5,2.55,4531919584,0,False
+17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 62.5,62.5,3.25,4531919712,0,False
+17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 60.5,60.5,2.75,4531919586,0,False
+17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 66.5,66.5,4.3,4531919714,0,False
+17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 61.5,61.5,3.0,4531919588,0,False
+17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 67.5,67.5,4.4,4531919716,0,False
+17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 64.5,64.5,3.7,4531919590,0,False
+17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 68.5,68.5,4.75,4531919718,7,False
+17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 69.5,69.5,5.25,4531919720,7,False
+17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 58.5,58.5,1.4762,4531919585,0,False
+17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 60.5,60.5,1.4,4531919587,0,False
+17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 61.5,61.5,1.3572,4531919589,0,False
+17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 64.5,64.5,1.25,4531919591,0,False
+17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 67.5,67.5,1.1819,4531919717,0,False
+17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 68.5,68.5,1.1539,4531919719,7,False
+17575387,Miami Hurricanes vs. Central Mich Chippewas,2026-09-26T22:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 69.5,69.5,1.1334,4531919721,7,False
 17575384,Alabama Crimson Tide vs. South Carolina Gamecocks,2026-09-26T23:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Alabama Crimson Tide,,1.1667,4515068682,0,False
 17575384,Alabama Crimson Tide vs. South Carolina Gamecocks,2026-09-26T23:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,South Carolina Gamecocks,,4.3,4515068683,0,False
 17575384,Alabama Crimson Tide vs. South Carolina Gamecocks,2026-09-26T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Alabama Crimson Tide (-30.5),-30.5,5.0,4531711629,0,False
@@ -1020,11 +1022,11 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17575371,Cincinnati Bearcats vs. Kansas State Wildcats,2026-09-26T23:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Kansas State Wildcats,,1.3847,4531907072,0,False
 17575371,Cincinnati Bearcats vs. Kansas State Wildcats,2026-09-26T23:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Cincinnati Bearcats,,2.7,4531907071,0,False
 17575371,Cincinnati Bearcats vs. Kansas State Wildcats,2026-09-26T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Cincinnati Bearcats (-2.5),-2.5,3.15,4531907200,0,False
-17575371,Cincinnati Bearcats vs. Kansas State Wildcats,2026-09-26T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Cincinnati Bearcats (+14.5),14.5,1.3334,4531907073,0,False
+17575371,Cincinnati Bearcats vs. Kansas State Wildcats,2026-09-26T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Cincinnati Bearcats (+14.5),14.5,1.3572,4531907073,0,False
 17575371,Cincinnati Bearcats vs. Kansas State Wildcats,2026-09-26T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Cincinnati Bearcats (-3.5),-3.5,3.75,4531907202,0,False
 17575371,Cincinnati Bearcats vs. Kansas State Wildcats,2026-09-26T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Cincinnati Bearcats (+8.5),8.5,1.5715,4531907075,0,False
 17575371,Cincinnati Bearcats vs. Kansas State Wildcats,2026-09-26T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Cincinnati Bearcats (-4.5),-4.5,4.2,4531907204,0,False
-17575371,Cincinnati Bearcats vs. Kansas State Wildcats,2026-09-26T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Kansas State Wildcats (-14.5),14.5,3.1,4531907074,0,False
+17575371,Cincinnati Bearcats vs. Kansas State Wildcats,2026-09-26T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Kansas State Wildcats (-14.5),14.5,3.0,4531907074,0,False
 17575371,Cincinnati Bearcats vs. Kansas State Wildcats,2026-09-26T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Kansas State Wildcats (-8.5),8.5,2.25,4531907076,0,False
 17575371,Cincinnati Bearcats vs. Kansas State Wildcats,2026-09-26T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Kansas State Wildcats (+2.5),-2.5,1.3226,4531907201,0,False
 17575371,Cincinnati Bearcats vs. Kansas State Wildcats,2026-09-26T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Kansas State Wildcats (+3.5),-3.5,1.2353,4531907203,0,False
@@ -1051,8 +1053,8 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17575371,Cincinnati Bearcats vs. Kansas State Wildcats,2026-09-26T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Kansas State Wildcats (-24.5),24.5,5.5,4531907134,0,False
 17575371,Cincinnati Bearcats vs. Kansas State Wildcats,2026-09-26T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Cincinnati Bearcats (+4.5),4.5,1.9524,4531907135,0,False
 17575371,Cincinnati Bearcats vs. Kansas State Wildcats,2026-09-26T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Kansas State Wildcats (-4.5),4.5,1.7408,4531907136,0,False
-17575371,Cincinnati Bearcats vs. Kansas State Wildcats,2026-09-26T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Cincinnati Bearcats (+5.5),5.5,1.8696,4531907137,0,True
-17575371,Cincinnati Bearcats vs. Kansas State Wildcats,2026-09-26T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Kansas State Wildcats (-5.5),5.5,1.8,4531907138,0,True
+17575371,Cincinnati Bearcats vs. Kansas State Wildcats,2026-09-26T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Cincinnati Bearcats (+5.5),5.5,1.8696,4531907137,0,False
+17575371,Cincinnati Bearcats vs. Kansas State Wildcats,2026-09-26T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Kansas State Wildcats (-5.5),5.5,1.8,4531907138,0,False
 17575371,Cincinnati Bearcats vs. Kansas State Wildcats,2026-09-26T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Cincinnati Bearcats (+9.5),9.5,1.5715,4531907139,0,False
 17575371,Cincinnati Bearcats vs. Kansas State Wildcats,2026-09-26T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Kansas State Wildcats (-9.5),9.5,2.25,4531907140,0,False
 17575371,Cincinnati Bearcats vs. Kansas State Wildcats,2026-09-26T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Cincinnati Bearcats (-1.5),-1.5,3.0,4531907141,0,False
@@ -1079,14 +1081,14 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17575371,Cincinnati Bearcats vs. Kansas State Wildcats,2026-09-26T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Kansas State Wildcats (-25.5),25.5,6.0,4531907193,7,False
 17575371,Cincinnati Bearcats vs. Kansas State Wildcats,2026-09-26T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Cincinnati Bearcats (+3.5),3.5,2.15,4531907194,0,False
 17575371,Cincinnati Bearcats vs. Kansas State Wildcats,2026-09-26T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Kansas State Wildcats (-3.5),3.5,1.6451,4531907195,0,False
-17575371,Cincinnati Bearcats vs. Kansas State Wildcats,2026-09-26T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Cincinnati Bearcats (+6.5),6.5,1.8,4531907196,0,False
-17575371,Cincinnati Bearcats vs. Kansas State Wildcats,2026-09-26T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Kansas State Wildcats (-6.5),6.5,1.8696,4531907197,0,False
+17575371,Cincinnati Bearcats vs. Kansas State Wildcats,2026-09-26T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Cincinnati Bearcats (+6.5),6.5,1.8,4531907196,0,True
+17575371,Cincinnati Bearcats vs. Kansas State Wildcats,2026-09-26T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Kansas State Wildcats (-6.5),6.5,1.8696,4531907197,0,True
 17575371,Cincinnati Bearcats vs. Kansas State Wildcats,2026-09-26T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Cincinnati Bearcats (+7.5),7.5,1.6451,4531907198,0,False
 17575371,Cincinnati Bearcats vs. Kansas State Wildcats,2026-09-26T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Kansas State Wildcats (-7.5),7.5,2.15,4531907199,0,False
 17575371,Cincinnati Bearcats vs. Kansas State Wildcats,2026-09-26T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 37.5,37.5,1.125,4531907460,7,False
 17575371,Cincinnati Bearcats vs. Kansas State Wildcats,2026-09-26T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 37.5,37.5,5.5,4531907461,7,False
-17575371,Cincinnati Bearcats vs. Kansas State Wildcats,2026-09-26T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 38.5,38.5,1.1429,4531907462,7,False
-17575371,Cincinnati Bearcats vs. Kansas State Wildcats,2026-09-26T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 38.5,38.5,5.0,4531907463,7,False
+17575371,Cincinnati Bearcats vs. Kansas State Wildcats,2026-09-26T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 38.5,38.5,1.1334,4531907462,7,False
+17575371,Cincinnati Bearcats vs. Kansas State Wildcats,2026-09-26T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 38.5,38.5,5.25,4531907463,7,False
 17575371,Cincinnati Bearcats vs. Kansas State Wildcats,2026-09-26T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 39.5,39.5,1.1539,4531907464,7,False
 17575371,Cincinnati Bearcats vs. Kansas State Wildcats,2026-09-26T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 39.5,39.5,4.75,4531907465,7,False
 17575371,Cincinnati Bearcats vs. Kansas State Wildcats,2026-09-26T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 40.5,40.5,1.1667,4531907466,7,False
@@ -1428,14 +1430,14 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17775967,Tulane Green Wave vs. Southern Miss Golden Eagles,2026-09-26T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Tulane Green Wave (-30.5),-30.5,3.5,4532025596,0,False
 17775967,Tulane Green Wave vs. Southern Miss Golden Eagles,2026-09-26T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Southern Miss Golden Eagles (+30.5),-30.5,1.2667,4532025597,0,False
 17775967,Tulane Green Wave vs. Southern Miss Golden Eagles,2026-09-26T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Tulane Green Wave (-32.5),-32.5,4.2,4532025598,0,False
-17775967,Tulane Green Wave vs. Southern Miss Golden Eagles,2026-09-26T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Southern Miss Golden Eagles (+18.5),-18.5,1.8,4532025585,0,True
+17775967,Tulane Green Wave vs. Southern Miss Golden Eagles,2026-09-26T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Southern Miss Golden Eagles (+18.5),-18.5,1.8,4532025585,0,False
 17775967,Tulane Green Wave vs. Southern Miss Golden Eagles,2026-09-26T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Southern Miss Golden Eagles (+34.5),-34.5,1.1667,4532336996,0,False
 17775967,Tulane Green Wave vs. Southern Miss Golden Eagles,2026-09-26T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Southern Miss Golden Eagles (+32.5),-32.5,1.2,4532025599,0,False
 17775967,Tulane Green Wave vs. Southern Miss Golden Eagles,2026-09-26T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Southern Miss Golden Eagles (+14.5),-14.5,2.1,4532025447,0,False
 17775967,Tulane Green Wave vs. Southern Miss Golden Eagles,2026-09-26T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Southern Miss Golden Eagles (+20.5),-20.5,1.7143,4532025453,0,False
 17775967,Tulane Green Wave vs. Southern Miss Golden Eagles,2026-09-26T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Southern Miss Golden Eagles (+33.5),-33.5,1.2,4532025601,0,False
-17775967,Tulane Green Wave vs. Southern Miss Golden Eagles,2026-09-26T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Southern Miss Golden Eagles (+16.5),-16.5,2.0,4532025449,0,False
-17775967,Tulane Green Wave vs. Southern Miss Golden Eagles,2026-09-26T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Southern Miss Golden Eagles (+17.5),-17.5,1.8696,4532025451,0,False
+17775967,Tulane Green Wave vs. Southern Miss Golden Eagles,2026-09-26T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Southern Miss Golden Eagles (+16.5),-16.5,1.9524,4532025449,0,False
+17775967,Tulane Green Wave vs. Southern Miss Golden Eagles,2026-09-26T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Southern Miss Golden Eagles (+17.5),-17.5,1.8696,4532025451,0,True
 17775967,Tulane Green Wave vs. Southern Miss Golden Eagles,2026-09-26T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Southern Miss Golden Eagles (+10.5),-10.5,2.6,4532025579,0,False
 17775967,Tulane Green Wave vs. Southern Miss Golden Eagles,2026-09-26T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Tulane Green Wave (-11.5),-11.5,1.5,4532025442,0,False
 17775967,Tulane Green Wave vs. Southern Miss Golden Eagles,2026-09-26T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Tulane Green Wave (-34.5),-34.5,4.5,4532336995,0,False
@@ -1443,15 +1445,15 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17775967,Tulane Green Wave vs. Southern Miss Golden Eagles,2026-09-26T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Southern Miss Golden Eagles (+11.5),-11.5,2.5,4532025443,0,False
 17775967,Tulane Green Wave vs. Southern Miss Golden Eagles,2026-09-26T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Tulane Green Wave (-14.5),-14.5,1.6667,4532025446,0,False
 17775967,Tulane Green Wave vs. Southern Miss Golden Eagles,2026-09-26T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Southern Miss Golden Eagles (+12.5),-12.5,2.4,4532025445,0,False
-17775967,Tulane Green Wave vs. Southern Miss Golden Eagles,2026-09-26T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Tulane Green Wave (-16.5),-16.5,1.7143,4532025448,0,False
+17775967,Tulane Green Wave vs. Southern Miss Golden Eagles,2026-09-26T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Tulane Green Wave (-16.5),-16.5,1.7408,4532025448,0,False
 17775967,Tulane Green Wave vs. Southern Miss Golden Eagles,2026-09-26T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Southern Miss Golden Eagles (+13.5),-13.5,2.3,4532025581,0,False
 17775967,Tulane Green Wave vs. Southern Miss Golden Eagles,2026-09-26T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Tulane Green Wave (-10.5),-10.5,1.4546,4532025578,0,False
-17775967,Tulane Green Wave vs. Southern Miss Golden Eagles,2026-09-26T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Tulane Green Wave (-17.5),-17.5,1.8,4532025450,0,False
+17775967,Tulane Green Wave vs. Southern Miss Golden Eagles,2026-09-26T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Tulane Green Wave (-17.5),-17.5,1.8,4532025450,0,True
 17775967,Tulane Green Wave vs. Southern Miss Golden Eagles,2026-09-26T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Tulane Green Wave (-13.5),-13.5,1.5556,4532025580,0,False
 17775967,Tulane Green Wave vs. Southern Miss Golden Eagles,2026-09-26T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Tulane Green Wave (-20.5),-20.5,2.0,4532025452,0,False
 17775967,Tulane Green Wave vs. Southern Miss Golden Eagles,2026-09-26T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Tulane Green Wave (-15.5),-15.5,1.6897,4532025582,0,False
 17775967,Tulane Green Wave vs. Southern Miss Golden Eagles,2026-09-26T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Tulane Green Wave (-21.5),-21.5,2.2,4532025454,0,False
-17775967,Tulane Green Wave vs. Southern Miss Golden Eagles,2026-09-26T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Tulane Green Wave (-18.5),-18.5,1.8696,4532025584,0,True
+17775967,Tulane Green Wave vs. Southern Miss Golden Eagles,2026-09-26T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Tulane Green Wave (-18.5),-18.5,1.8696,4532025584,0,False
 17775967,Tulane Green Wave vs. Southern Miss Golden Eagles,2026-09-26T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Tulane Green Wave (-22.5),-22.5,2.25,4532025456,0,False
 17775967,Tulane Green Wave vs. Southern Miss Golden Eagles,2026-09-26T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Tulane Green Wave (-19.5),-19.5,1.9524,4532025586,0,False
 17775967,Tulane Green Wave vs. Southern Miss Golden Eagles,2026-09-26T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Tulane Green Wave (-24.5),-24.5,2.55,4532025458,0,False
@@ -1547,7 +1549,7 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17575366,West Virginia Mountaineers vs. Oklahoma St Cowboys,2026-09-26T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Oklahoma St Cowboys (+17.5),-17.5,1.125,4536025482,0,False
 17575366,West Virginia Mountaineers vs. Oklahoma St Cowboys,2026-09-26T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Oklahoma St Cowboys (-3.5),3.5,2.55,4515152504,0,False
 17575366,West Virginia Mountaineers vs. Oklahoma St Cowboys,2026-09-26T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Oklahoma St Cowboys (+16.5),-16.5,1.1429,4532167402,0,False
-17575366,West Virginia Mountaineers vs. Oklahoma St Cowboys,2026-09-26T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Oklahoma St Cowboys (+11.5),-11.5,1.2223,4515152371,0,False
+17575366,West Virginia Mountaineers vs. Oklahoma St Cowboys,2026-09-26T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Oklahoma St Cowboys (+11.5),-11.5,1.2353,4515152371,0,False
 17575366,West Virginia Mountaineers vs. Oklahoma St Cowboys,2026-09-26T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,West Virginia Mountaineers (-18.5),-18.5,6.0,4538870011,7,False
 17575366,West Virginia Mountaineers vs. Oklahoma St Cowboys,2026-09-26T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Oklahoma St Cowboys (-10.5),10.5,4.4,4515152365,0,False
 17575366,West Virginia Mountaineers vs. Oklahoma St Cowboys,2026-09-26T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Oklahoma St Cowboys (+18.5),-18.5,1.1112,4538870012,7,False
@@ -1579,9 +1581,9 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17575366,West Virginia Mountaineers vs. Oklahoma St Cowboys,2026-09-26T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Oklahoma St Cowboys (+7.5),-7.5,1.3226,4515152468,0,False
 17575366,West Virginia Mountaineers vs. Oklahoma St Cowboys,2026-09-26T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Oklahoma St Cowboys (+8.5),-8.5,1.3031,4515152470,0,False
 17575366,West Virginia Mountaineers vs. Oklahoma St Cowboys,2026-09-26T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Oklahoma St Cowboys (+12.5),-12.5,1.2223,4515152373,0,False
-17575366,West Virginia Mountaineers vs. Oklahoma St Cowboys,2026-09-26T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,West Virginia Mountaineers (-14.5),-14.5,4.75,4531601250,0,False
+17575366,West Virginia Mountaineers vs. Oklahoma St Cowboys,2026-09-26T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,West Virginia Mountaineers (-14.5),-14.5,4.5,4531601250,0,False
 17575366,West Virginia Mountaineers vs. Oklahoma St Cowboys,2026-09-26T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Oklahoma St Cowboys (+3.5),-3.5,1.625,4515152375,0,False
-17575366,West Virginia Mountaineers vs. Oklahoma St Cowboys,2026-09-26T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Oklahoma St Cowboys (+14.5),-14.5,1.1539,4531601251,0,False
+17575366,West Virginia Mountaineers vs. Oklahoma St Cowboys,2026-09-26T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Oklahoma St Cowboys (+14.5),-14.5,1.1667,4531601251,0,False
 17575366,West Virginia Mountaineers vs. Oklahoma St Cowboys,2026-09-26T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,West Virginia Mountaineers (-15.5),-15.5,4.75,4532167399,0,False
 17575366,West Virginia Mountaineers vs. Oklahoma St Cowboys,2026-09-26T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Oklahoma St Cowboys (+15.5),-15.5,1.1539,4532167400,0,False
 17575366,West Virginia Mountaineers vs. Oklahoma St Cowboys,2026-09-26T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,West Virginia Mountaineers (+14.5),14.5,1.1112,4515152617,0,False
@@ -1593,7 +1595,7 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17575366,West Virginia Mountaineers vs. Oklahoma St Cowboys,2026-09-26T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Oklahoma St Cowboys (-14.5),14.5,6.0,4515152618,0,False
 17575366,West Virginia Mountaineers vs. Oklahoma St Cowboys,2026-09-26T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,West Virginia Mountaineers (+8.5),8.5,1.2223,4515152368,0,False
 17575366,West Virginia Mountaineers vs. Oklahoma St Cowboys,2026-09-26T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,West Virginia Mountaineers (+11.5),11.5,1.1667,4515152497,0,False
-17575366,West Virginia Mountaineers vs. Oklahoma St Cowboys,2026-09-26T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,West Virginia Mountaineers (-11.5),-11.5,4.0,4515152370,0,False
+17575366,West Virginia Mountaineers vs. Oklahoma St Cowboys,2026-09-26T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,West Virginia Mountaineers (-11.5),-11.5,3.75,4515152370,0,False
 17575366,West Virginia Mountaineers vs. Oklahoma St Cowboys,2026-09-26T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,West Virginia Mountaineers (+12.5),12.5,1.1539,4515152499,0,False
 17575366,West Virginia Mountaineers vs. Oklahoma St Cowboys,2026-09-26T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,West Virginia Mountaineers (-12.5),-12.5,4.0,4515152372,0,False
 17575366,West Virginia Mountaineers vs. Oklahoma St Cowboys,2026-09-26T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,West Virginia Mountaineers (+13.5),13.5,1.1429,4515152501,0,False
@@ -1633,7 +1635,7 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17575366,West Virginia Mountaineers vs. Oklahoma St Cowboys,2026-09-26T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 64.5,64.5,2.25,4515152583,0,False
 17575366,West Virginia Mountaineers vs. Oklahoma St Cowboys,2026-09-26T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 49.5,49.5,1.3125,4515152713,0,False
 17575366,West Virginia Mountaineers vs. Oklahoma St Cowboys,2026-09-26T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 67.5,67.5,2.6,4515152585,0,False
-17575366,West Virginia Mountaineers vs. Oklahoma St Cowboys,2026-09-26T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 51.5,51.5,1.4,4515152715,0,False
+17575366,West Virginia Mountaineers vs. Oklahoma St Cowboys,2026-09-26T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 51.5,51.5,1.3847,4515152715,0,False
 17575366,West Virginia Mountaineers vs. Oklahoma St Cowboys,2026-09-26T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 69.5,69.5,2.9,4515152587,0,False
 17575366,West Virginia Mountaineers vs. Oklahoma St Cowboys,2026-09-26T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 52.5,52.5,1.4348,4515152717,0,False
 17575366,West Virginia Mountaineers vs. Oklahoma St Cowboys,2026-09-26T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 70.5,70.5,3.1,4515152589,0,False
@@ -1642,7 +1644,7 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17575366,West Virginia Mountaineers vs. Oklahoma St Cowboys,2026-09-26T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 57.5,57.5,1.6667,4515152721,0,False
 17575366,West Virginia Mountaineers vs. Oklahoma St Cowboys,2026-09-26T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 49.5,49.5,3.2,4515152714,0,False
 17575366,West Virginia Mountaineers vs. Oklahoma St Cowboys,2026-09-26T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 63.5,63.5,2.15,4515152723,0,False
-17575366,West Virginia Mountaineers vs. Oklahoma St Cowboys,2026-09-26T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 51.5,51.5,2.75,4515152716,0,False
+17575366,West Virginia Mountaineers vs. Oklahoma St Cowboys,2026-09-26T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 51.5,51.5,2.85,4515152716,0,False
 17575366,West Virginia Mountaineers vs. Oklahoma St Cowboys,2026-09-26T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 65.5,65.5,2.4,4515152725,0,False
 17575366,West Virginia Mountaineers vs. Oklahoma St Cowboys,2026-09-26T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 52.5,52.5,2.65,4515152718,0,False
 17575366,West Virginia Mountaineers vs. Oklahoma St Cowboys,2026-09-26T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 66.5,66.5,2.55,4515152727,0,False
@@ -2005,12 +2007,12 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17331567,USC Trojans vs. Oregon Ducks,2026-09-26T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,USC Trojans (+18.5),18.5,1.1667,4395044769,0,False
 17331567,USC Trojans vs. Oregon Ducks,2026-09-26T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,USC Trojans (+16.5),16.5,1.2223,4395045537,0,False
 17331567,USC Trojans vs. Oregon Ducks,2026-09-26T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,USC Trojans (+19.5),19.5,1.1539,4395044771,0,False
-17331567,USC Trojans vs. Oregon Ducks,2026-09-26T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,USC Trojans (+17.5),17.5,1.1905,4395045539,0,False
+17331567,USC Trojans vs. Oregon Ducks,2026-09-26T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,USC Trojans (+17.5),17.5,1.2,4395045539,0,False
 17331567,USC Trojans vs. Oregon Ducks,2026-09-26T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,USC Trojans (+2.5),2.5,2.1,4395045541,0,False
 17331567,USC Trojans vs. Oregon Ducks,2026-09-26T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,USC Trojans (+1.5),1.5,2.25,4395046178,0,False
 17331567,USC Trojans vs. Oregon Ducks,2026-09-26T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,USC Trojans (+20.5),20.5,1.1429,4395045543,0,False
 17331567,USC Trojans vs. Oregon Ducks,2026-09-26T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,USC Trojans (-1.5),-1.5,2.55,4395046180,0,False
-17331567,USC Trojans vs. Oregon Ducks,2026-09-26T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,USC Trojans (-2.5),-2.5,2.7,4395046182,0,False
+17331567,USC Trojans vs. Oregon Ducks,2026-09-26T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,USC Trojans (-2.5),-2.5,2.75,4395046182,0,False
 17331567,USC Trojans vs. Oregon Ducks,2026-09-26T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,USC Trojans (-3.5),-3.5,3.2,4395046568,0,False
 17331567,USC Trojans vs. Oregon Ducks,2026-09-26T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,USC Trojans (+3.5),3.5,1.8334,4395045547,0,True
 17331567,USC Trojans vs. Oregon Ducks,2026-09-26T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,USC Trojans (-4.5),-4.5,3.5,4395046570,0,False
@@ -2032,7 +2034,7 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17331567,USC Trojans vs. Oregon Ducks,2026-09-26T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Oregon Ducks (-16.5),16.5,4.0,4395045538,0,False
 17331567,USC Trojans vs. Oregon Ducks,2026-09-26T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Oregon Ducks (+16.5),-16.5,1.0625,4506335169,7,False
 17331567,USC Trojans vs. Oregon Ducks,2026-09-26T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,USC Trojans (-15.5),-15.5,8.0,4506336714,7,False
-17331567,USC Trojans vs. Oregon Ducks,2026-09-26T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Oregon Ducks (-17.5),17.5,4.3,4395045540,0,False
+17331567,USC Trojans vs. Oregon Ducks,2026-09-26T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Oregon Ducks (-17.5),17.5,4.2,4395045540,0,False
 17331567,USC Trojans vs. Oregon Ducks,2026-09-26T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,USC Trojans (+5.5),5.5,1.6667,4322050892,0,False
 17331567,USC Trojans vs. Oregon Ducks,2026-09-26T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Oregon Ducks (-5.5),5.5,2.1,4322050893,0,False
 17331567,USC Trojans vs. Oregon Ducks,2026-09-26T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Oregon Ducks (+15.5),-15.5,1.0625,4506336715,7,False
@@ -2057,7 +2059,7 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17331567,USC Trojans vs. Oregon Ducks,2026-09-26T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Oregon Ducks (+18.5),-18.5,1.04,4531751524,7,False
 17331567,USC Trojans vs. Oregon Ducks,2026-09-26T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Oregon Ducks (-11.5),11.5,3.1,4395045532,0,False
 17331567,USC Trojans vs. Oregon Ducks,2026-09-26T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Oregon Ducks (+7.5),-7.5,1.1539,4395046575,0,False
-17331567,USC Trojans vs. Oregon Ducks,2026-09-26T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Oregon Ducks (+2.5),-2.5,1.4167,4395046183,0,False
+17331567,USC Trojans vs. Oregon Ducks,2026-09-26T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Oregon Ducks (+2.5),-2.5,1.4,4395046183,0,False
 17331567,USC Trojans vs. Oregon Ducks,2026-09-26T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Oregon Ducks (-3.5),3.5,1.8334,4395045548,0,True
 17331567,USC Trojans vs. Oregon Ducks,2026-09-26T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Oregon Ducks (+5.5),-5.5,1.25,4395046185,0,False
 17331567,USC Trojans vs. Oregon Ducks,2026-09-26T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Oregon Ducks (-4.5),4.5,1.9524,4395045550,0,False
@@ -2068,8 +2070,8 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17331567,USC Trojans vs. Oregon Ducks,2026-09-26T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 51.5,51.5,2.9,4395045508,0,False
 17331567,USC Trojans vs. Oregon Ducks,2026-09-26T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 52.5,52.5,1.4167,4395045509,0,False
 17331567,USC Trojans vs. Oregon Ducks,2026-09-26T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 52.5,52.5,2.7,4395045510,0,False
-17331567,USC Trojans vs. Oregon Ducks,2026-09-26T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 53.5,53.5,1.4348,4395045511,0,False
-17331567,USC Trojans vs. Oregon Ducks,2026-09-26T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 53.5,53.5,2.65,4395045512,0,False
+17331567,USC Trojans vs. Oregon Ducks,2026-09-26T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 53.5,53.5,1.4546,4395045511,0,False
+17331567,USC Trojans vs. Oregon Ducks,2026-09-26T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 53.5,53.5,2.6,4395045512,0,False
 17331567,USC Trojans vs. Oregon Ducks,2026-09-26T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 54.5,54.5,1.5,4395045513,0,False
 17331567,USC Trojans vs. Oregon Ducks,2026-09-26T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 54.5,54.5,2.5,4395045514,0,False
 17331567,USC Trojans vs. Oregon Ducks,2026-09-26T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 55.5,55.5,1.5556,4395045515,0,False
@@ -2080,8 +2082,8 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17331567,USC Trojans vs. Oregon Ducks,2026-09-26T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 57.5,57.5,2.15,4395045520,0,False
 17331567,USC Trojans vs. Oregon Ducks,2026-09-26T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 59.5,59.5,1.7693,4395045521,0,False
 17331567,USC Trojans vs. Oregon Ducks,2026-09-26T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 59.5,59.5,1.9091,4395045522,0,False
-17331567,USC Trojans vs. Oregon Ducks,2026-09-26T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 60.5,60.5,1.8334,4395045523,0,True
-17331567,USC Trojans vs. Oregon Ducks,2026-09-26T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 60.5,60.5,1.8334,4395045524,0,True
+17331567,USC Trojans vs. Oregon Ducks,2026-09-26T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 60.5,60.5,1.8,4395045523,0,True
+17331567,USC Trojans vs. Oregon Ducks,2026-09-26T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 60.5,60.5,1.8696,4395045524,0,True
 17331567,USC Trojans vs. Oregon Ducks,2026-09-26T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 62.5,62.5,2.0,4395045525,0,False
 17331567,USC Trojans vs. Oregon Ducks,2026-09-26T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 58.5,58.5,1.7143,4322050838,0,False
 17331567,USC Trojans vs. Oregon Ducks,2026-09-26T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 63.5,63.5,2.15,4395045527,0,False
@@ -2120,6 +2122,8 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17331567,USC Trojans vs. Oregon Ducks,2026-09-26T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 75.5,75.5,4.0,4505114336,0,False
 17331567,USC Trojans vs. Oregon Ducks,2026-09-26T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 75.5,75.5,1.2223,4505114337,0,False
 17331567,USC Trojans vs. Oregon Ducks,2026-09-26T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 77.5,77.5,1.1667,4524709856,7,False
+17331567,USC Trojans vs. Oregon Ducks,2026-09-26T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 45.5,45.5,1.1905,4395045495,0,False
+17331567,USC Trojans vs. Oregon Ducks,2026-09-26T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 45.5,45.5,4.3,4395045496,0,False
 17331567,USC Trojans vs. Oregon Ducks,2026-09-26T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 46.5,46.5,1.2,4395045497,0,False
 17331567,USC Trojans vs. Oregon Ducks,2026-09-26T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 46.5,46.5,4.2,4395045498,0,False
 17331567,USC Trojans vs. Oregon Ducks,2026-09-26T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 47.5,47.5,1.2353,4395045499,0,False
@@ -2191,12 +2195,12 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17575388,Utah State Aggies vs. Troy Trojans,2026-09-26T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 41.5,41.5,2.5,4534791354,0,False
 17575388,Utah State Aggies vs. Troy Trojans,2026-09-26T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 39.5,39.5,1.3847,4535294788,0,False
 17575388,Utah State Aggies vs. Troy Trojans,2026-09-26T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 44.5,44.5,1.6667,4533857348,0,False
-17575388,Utah State Aggies vs. Troy Trojans,2026-09-26T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 45.5,45.5,1.7143,4533857350,0,False
+17575388,Utah State Aggies vs. Troy Trojans,2026-09-26T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 45.5,45.5,1.7408,4533857350,0,False
 17575388,Utah State Aggies vs. Troy Trojans,2026-09-26T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 39.5,39.5,2.85,4535294789,0,False
 17575388,Utah State Aggies vs. Troy Trojans,2026-09-26T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 46.5,46.5,1.7693,4533857352,0,False
 17575388,Utah State Aggies vs. Troy Trojans,2026-09-26T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 44.5,44.5,2.1,4533857349,0,False
 17575388,Utah State Aggies vs. Troy Trojans,2026-09-26T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 47.5,47.5,1.8696,4533857354,0,True
-17575388,Utah State Aggies vs. Troy Trojans,2026-09-26T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 45.5,45.5,2.0,4533857351,0,False
+17575388,Utah State Aggies vs. Troy Trojans,2026-09-26T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 45.5,45.5,1.9524,4533857351,0,False
 17575388,Utah State Aggies vs. Troy Trojans,2026-09-26T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 50.5,50.5,2.15,4533857356,0,False
 17575388,Utah State Aggies vs. Troy Trojans,2026-09-26T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 43.5,43.5,1.5715,4534288717,0,False
 17575388,Utah State Aggies vs. Troy Trojans,2026-09-26T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 48.5,48.5,1.9524,4533857486,0,False
@@ -2345,7 +2349,7 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17575382,Mississippi St Bulldogs vs. Missouri Tigers,2026-09-26T23:45:00Z,spread,Handicap (inclus prolongations),223,70799,Mississippi St Bulldogs (-18.5),-18.5,4.2,4531712546,0,False
 17575382,Mississippi St Bulldogs vs. Missouri Tigers,2026-09-26T23:45:00Z,spread,Handicap (inclus prolongations),223,70799,Mississippi St Bulldogs (-11.5),-11.5,2.75,4517724195,0,False
 17575382,Mississippi St Bulldogs vs. Missouri Tigers,2026-09-26T23:45:00Z,spread,Handicap (inclus prolongations),223,70799,Mississippi St Bulldogs (-19.5),-19.5,4.3,4531712548,0,False
-17575382,Mississippi St Bulldogs vs. Missouri Tigers,2026-09-26T23:45:00Z,spread,Handicap (inclus prolongations),223,70799,Mississippi St Bulldogs (-12.5),-12.5,2.85,4517724197,0,False
+17575382,Mississippi St Bulldogs vs. Missouri Tigers,2026-09-26T23:45:00Z,spread,Handicap (inclus prolongations),223,70799,Mississippi St Bulldogs (-12.5),-12.5,2.9,4517724197,0,False
 17575382,Mississippi St Bulldogs vs. Missouri Tigers,2026-09-26T23:45:00Z,spread,Handicap (inclus prolongations),223,70799,Missouri Tigers (-9.5),9.5,6.0,4517724194,7,False
 17575382,Mississippi St Bulldogs vs. Missouri Tigers,2026-09-26T23:45:00Z,spread,Handicap (inclus prolongations),223,70799,Mississippi St Bulldogs (-2.5),-2.5,1.5556,4517724199,0,False
 17575382,Mississippi St Bulldogs vs. Missouri Tigers,2026-09-26T23:45:00Z,spread,Handicap (inclus prolongations),223,70799,Missouri Tigers (+2.5),-2.5,2.3,4517724200,0,False
@@ -2355,7 +2359,7 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17575382,Mississippi St Bulldogs vs. Missouri Tigers,2026-09-26T23:45:00Z,spread,Handicap (inclus prolongations),223,70799,Missouri Tigers (+7.5),-7.5,1.5556,4517724204,0,False
 17575382,Mississippi St Bulldogs vs. Missouri Tigers,2026-09-26T23:45:00Z,spread,Handicap (inclus prolongations),223,70799,Mississippi St Bulldogs (-9.5),-9.5,2.5,4517724205,0,False
 17575382,Mississippi St Bulldogs vs. Missouri Tigers,2026-09-26T23:45:00Z,spread,Handicap (inclus prolongations),223,70799,Missouri Tigers (+9.5),-9.5,1.5,4517724206,0,False
-17575382,Mississippi St Bulldogs vs. Missouri Tigers,2026-09-26T23:45:00Z,spread,Handicap (inclus prolongations),223,70799,Missouri Tigers (+12.5),-12.5,1.3847,4517724198,0,False
+17575382,Mississippi St Bulldogs vs. Missouri Tigers,2026-09-26T23:45:00Z,spread,Handicap (inclus prolongations),223,70799,Missouri Tigers (+12.5),-12.5,1.3637,4517724198,0,False
 17575382,Mississippi St Bulldogs vs. Missouri Tigers,2026-09-26T23:45:00Z,spread,Handicap (inclus prolongations),223,70799,Missouri Tigers (+17.5),-17.5,1.2353,4531712545,0,False
 17575382,Mississippi St Bulldogs vs. Missouri Tigers,2026-09-26T23:45:00Z,spread,Handicap (inclus prolongations),223,70799,Missouri Tigers (+18.5),-18.5,1.2,4531712547,0,False
 17575382,Mississippi St Bulldogs vs. Missouri Tigers,2026-09-26T23:45:00Z,spread,Handicap (inclus prolongations),223,70799,Mississippi St Bulldogs (-24.5),-24.5,6.0,4534935114,7,False
@@ -2435,8 +2439,8 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17575382,Mississippi St Bulldogs vs. Missouri Tigers,2026-09-26T23:45:00Z,total,Total (prolongations incluses),225,70803,Moins de 48.5,48.5,3.15,4517723990,0,False
 17575382,Mississippi St Bulldogs vs. Missouri Tigers,2026-09-26T23:45:00Z,total,Total (prolongations incluses),225,70803,Plus de 54.5,54.5,1.5715,4517723991,0,False
 17575382,Mississippi St Bulldogs vs. Missouri Tigers,2026-09-26T23:45:00Z,total,Total (prolongations incluses),225,70803,Moins de 54.5,54.5,2.25,4517723992,0,False
-17575382,Mississippi St Bulldogs vs. Missouri Tigers,2026-09-26T23:45:00Z,total,Total (prolongations incluses),225,70803,Plus de 57.5,57.5,1.7693,4517723993,0,False
-17575382,Mississippi St Bulldogs vs. Missouri Tigers,2026-09-26T23:45:00Z,total,Total (prolongations incluses),225,70803,Moins de 57.5,57.5,1.9091,4517723994,0,False
+17575382,Mississippi St Bulldogs vs. Missouri Tigers,2026-09-26T23:45:00Z,total,Total (prolongations incluses),225,70803,Plus de 57.5,57.5,1.7408,4517723993,0,False
+17575382,Mississippi St Bulldogs vs. Missouri Tigers,2026-09-26T23:45:00Z,total,Total (prolongations incluses),225,70803,Moins de 57.5,57.5,1.9524,4517723994,0,False
 17575382,Mississippi St Bulldogs vs. Missouri Tigers,2026-09-26T23:45:00Z,total,Total (prolongations incluses),225,70803,Plus de 60.5,60.5,2.0,4517723995,0,False
 17575382,Mississippi St Bulldogs vs. Missouri Tigers,2026-09-26T23:45:00Z,total,Total (prolongations incluses),225,70803,Moins de 60.5,60.5,1.7143,4517723996,0,False
 17575382,Mississippi St Bulldogs vs. Missouri Tigers,2026-09-26T23:45:00Z,total,Total (prolongations incluses),225,70803,Plus de 63.5,63.5,2.35,4517723997,0,False
@@ -2905,81 +2909,83 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17776038,Sacramento State Hornets vs. UMass Minutemen,2026-09-27T01:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 58.5,58.5,1.3334,4532248699,0,False
 17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,SMU Mustangs,,1.0,4533884259,7,False
 17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Missouri State Bears,,11.0,4533884260,0,False
-17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,SMU Mustangs (-47.5),-47.5,4.5,4533883520,7,False
-17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,Missouri State Bears (+47.5),-47.5,1.1667,4533883521,7,False
-17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,SMU Mustangs (-20.5),-20.5,1.2858,4533883408,0,False
-17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,Missouri State Bears (+20.5),-20.5,3.4,4533883409,0,False
-17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,SMU Mustangs (-22.5),-22.5,1.3637,4533883410,0,False
-17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,Missouri State Bears (+22.5),-22.5,2.9,4533883411,0,False
-17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,SMU Mustangs (-23.5),-23.5,1.4,4533883412,0,False
-17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,Missouri State Bears (+23.5),-23.5,2.75,4533883413,0,False
-17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,SMU Mustangs (-25.5),-25.5,1.5,4533883414,0,False
-17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,Missouri State Bears (+25.5),-25.5,2.5,4533883415,0,False
-17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,SMU Mustangs (-26.5),-26.5,1.5455,4533883416,0,False
-17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,Missouri State Bears (+26.5),-26.5,2.35,4533883417,0,False
-17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,SMU Mustangs (-27.5),-27.5,1.5715,4533883418,0,False
-17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,SMU Mustangs (-16.5),-16.5,1.2,4562652315,0,False
-17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,SMU Mustangs (-28.5),-28.5,1.6667,4533883420,0,False
-17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,Missouri State Bears (+16.5),-16.5,4.2,4562652316,0,False
-17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,SMU Mustangs (-31.5),-31.5,1.8334,4533883422,0,True
-17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,Missouri State Bears (+27.5),-27.5,2.25,4533883419,0,False
-17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,SMU Mustangs (-32.5),-32.5,1.9524,4533883424,0,False
-17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,Missouri State Bears (+28.5),-28.5,2.1,4533883421,0,False
-17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,SMU Mustangs (-35.5),-35.5,2.25,4533883426,0,False
-17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,Missouri State Bears (+31.5),-31.5,1.8334,4533883423,0,True
-17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,SMU Mustangs (-36.5),-36.5,2.35,4533883428,0,False
-17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,Missouri State Bears (+32.5),-32.5,1.7408,4533883425,0,False
-17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,SMU Mustangs (-39.5),-39.5,2.75,4533883430,0,False
-17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,Missouri State Bears (+35.5),-35.5,1.5715,4533883427,0,False
-17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,SMU Mustangs (-41.5),-41.5,3.1,4533883432,0,False
-17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,Missouri State Bears (+36.5),-36.5,1.5455,4533883429,0,False
-17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,SMU Mustangs (-42.5),-42.5,3.4,4533883434,0,False
-17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,Missouri State Bears (+39.5),-39.5,1.4,4533883431,0,False
-17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,SMU Mustangs (-43.5),-43.5,3.5,4533883436,0,False
-17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,Missouri State Bears (+41.5),-41.5,1.3334,4533883433,0,False
-17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,SMU Mustangs (-45.5),-45.5,4.0,4533883438,0,False
-17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,Missouri State Bears (+42.5),-42.5,1.2858,4533883435,0,False
-17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,SMU Mustangs (-46.5),-46.5,4.3,4533883440,0,False
-17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,Missouri State Bears (+43.5),-43.5,1.2667,4533883437,0,False
-17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,SMU Mustangs (-48.5),-48.5,4.75,4533883442,7,False
-17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,Missouri State Bears (+45.5),-45.5,1.2223,4533883439,0,False
-17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,SMU Mustangs (-49.5),-49.5,5.5,4533883444,7,False
-17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,Missouri State Bears (+46.5),-46.5,1.1905,4533883441,0,False
-17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,Missouri State Bears (+48.5),-48.5,1.1539,4533883443,7,False
-17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,Missouri State Bears (+49.5),-49.5,1.125,4533883445,7,False
-17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,SMU Mustangs (-17.5),-17.5,1.2223,4560512191,0,False
-17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,Missouri State Bears (+17.5),-17.5,4.0,4560512192,0,False
-17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,SMU Mustangs (-18.5),-18.5,1.25,4534489565,0,False
-17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,Missouri State Bears (+18.5),-18.5,3.7,4534489566,0,False
-17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,SMU Mustangs (-19.5),-19.5,1.2667,4533883498,0,False
-17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,Missouri State Bears (+19.5),-19.5,3.5,4533883499,0,False
-17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,SMU Mustangs (-21.5),-21.5,1.3334,4533883500,0,False
-17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,Missouri State Bears (+21.5),-21.5,3.1,4533883501,0,False
-17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,SMU Mustangs (-24.5),-24.5,1.4546,4533883502,0,False
-17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,Missouri State Bears (+24.5),-24.5,2.6,4533883503,0,False
-17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,SMU Mustangs (-29.5),-29.5,1.7143,4533883504,0,False
-17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,Missouri State Bears (+29.5),-29.5,2.0,4533883505,0,False
-17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,SMU Mustangs (-30.5),-30.5,1.7408,4533883506,0,False
-17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,Missouri State Bears (+30.5),-30.5,1.9524,4533883507,0,False
-17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,SMU Mustangs (-33.5),-33.5,2.0,4533883508,0,False
-17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,Missouri State Bears (+33.5),-33.5,1.7143,4533883509,0,False
-17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,SMU Mustangs (-34.5),-34.5,2.1,4533883510,0,False
-17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,Missouri State Bears (+34.5),-34.5,1.6667,4533883511,0,False
-17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,SMU Mustangs (-37.5),-37.5,2.5,4533883512,0,False
-17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,Missouri State Bears (+37.5),-37.5,1.5,4533883513,0,False
-17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,SMU Mustangs (-38.5),-38.5,2.6,4533883514,0,False
-17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,Missouri State Bears (+38.5),-38.5,1.4546,4533883515,0,False
-17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,SMU Mustangs (-40.5),-40.5,2.9,4533883516,0,False
-17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,Missouri State Bears (+40.5),-40.5,1.3637,4533883517,0,False
-17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,SMU Mustangs (-44.5),-44.5,3.7,4533883518,0,False
-17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,Missouri State Bears (+44.5),-44.5,1.25,4533883519,0,False
+17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,SMU Mustangs (-47.5),-47.5,4.75,4533883520,7,False
+17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,Missouri State Bears (+47.5),-47.5,1.1539,4533883521,7,False
+17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,SMU Mustangs (-20.5),-20.5,1.3226,4533883408,0,False
+17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,Missouri State Bears (+20.5),-20.5,3.15,4533883409,0,False
+17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,SMU Mustangs (-22.5),-22.5,1.4,4533883410,0,False
+17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,Missouri State Bears (+22.5),-22.5,2.75,4533883411,0,False
+17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,SMU Mustangs (-23.5),-23.5,1.4348,4533883412,0,False
+17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,Missouri State Bears (+23.5),-23.5,2.65,4533883413,0,False
+17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,SMU Mustangs (-25.5),-25.5,1.5455,4533883414,0,False
+17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,Missouri State Bears (+25.5),-25.5,2.35,4533883415,0,False
+17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,SMU Mustangs (-26.5),-26.5,1.5715,4533883416,0,False
+17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,Missouri State Bears (+26.5),-26.5,2.25,4533883417,0,False
+17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,SMU Mustangs (-27.5),-27.5,1.6451,4533883418,0,False
+17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,SMU Mustangs (-16.5),-16.5,1.2223,4562652315,0,False
+17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,SMU Mustangs (-28.5),-28.5,1.7143,4533883420,0,False
+17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,Missouri State Bears (+16.5),-16.5,4.0,4562652316,0,False
+17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,SMU Mustangs (-31.5),-31.5,1.9091,4533883422,0,False
+17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,Missouri State Bears (+27.5),-27.5,2.15,4533883419,0,False
+17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,SMU Mustangs (-32.5),-32.5,2.0,4533883424,0,False
+17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,Missouri State Bears (+28.5),-28.5,2.0,4533883421,0,False
+17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,SMU Mustangs (-35.5),-35.5,2.4,4533883426,0,False
+17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,Missouri State Bears (+31.5),-31.5,1.7693,4533883423,0,False
+17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,SMU Mustangs (-36.5),-36.5,2.5,4533883428,0,False
+17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,Missouri State Bears (+32.5),-32.5,1.7143,4533883425,0,False
+17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,SMU Mustangs (-39.5),-39.5,2.9,4533883430,0,False
+17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,Missouri State Bears (+35.5),-35.5,1.5264,4533883427,0,False
+17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,SMU Mustangs (-41.5),-41.5,3.25,4533883432,0,False
+17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,Missouri State Bears (+36.5),-36.5,1.5,4533883429,0,False
+17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,SMU Mustangs (-42.5),-42.5,3.5,4533883434,0,False
+17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,Missouri State Bears (+39.5),-39.5,1.3637,4533883431,0,False
+17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,SMU Mustangs (-43.5),-43.5,3.75,4533883436,0,False
+17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,Missouri State Bears (+41.5),-41.5,1.3031,4533883433,0,False
+17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,SMU Mustangs (-45.5),-45.5,4.3,4533883438,0,False
+17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,Missouri State Bears (+42.5),-42.5,1.2667,4533883435,0,False
+17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,SMU Mustangs (-46.5),-46.5,4.5,4533883440,7,False
+17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,Missouri State Bears (+43.5),-43.5,1.2353,4533883437,0,False
+17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,SMU Mustangs (-48.5),-48.5,5.25,4533883442,7,False
+17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,Missouri State Bears (+45.5),-45.5,1.1905,4533883439,0,False
+17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,SMU Mustangs (-49.5),-49.5,6.0,4533883444,7,False
+17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,Missouri State Bears (+46.5),-46.5,1.1667,4533883441,7,False
+17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,Missouri State Bears (+48.5),-48.5,1.1334,4533883443,7,False
+17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,Missouri State Bears (+49.5),-49.5,1.1112,4533883445,7,False
+17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,SMU Mustangs (-17.5),-17.5,1.25,4560512191,0,False
+17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,Missouri State Bears (+17.5),-17.5,3.7,4560512192,0,False
+17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,SMU Mustangs (-18.5),-18.5,1.2667,4534489565,0,False
+17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,Missouri State Bears (+18.5),-18.5,3.5,4534489566,0,False
+17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,SMU Mustangs (-15.5),-15.5,1.2,4562714855,0,False
+17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,Missouri State Bears (+15.5),-15.5,4.2,4562714856,0,False
+17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,SMU Mustangs (-19.5),-19.5,1.3031,4533883498,0,False
+17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,Missouri State Bears (+19.5),-19.5,3.25,4533883499,0,False
+17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,SMU Mustangs (-21.5),-21.5,1.3847,4533883500,0,False
+17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,Missouri State Bears (+21.5),-21.5,2.85,4533883501,0,False
+17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,SMU Mustangs (-24.5),-24.5,1.5,4533883502,0,False
+17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,Missouri State Bears (+24.5),-24.5,2.5,4533883503,0,False
+17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,SMU Mustangs (-29.5),-29.5,1.7693,4533883504,0,False
+17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,Missouri State Bears (+29.5),-29.5,1.9091,4533883505,0,False
+17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,SMU Mustangs (-30.5),-30.5,1.8,4533883506,0,True
+17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,Missouri State Bears (+30.5),-30.5,1.8696,4533883507,0,True
+17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,SMU Mustangs (-33.5),-33.5,2.1,4533883508,0,False
+17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,Missouri State Bears (+33.5),-33.5,1.6667,4533883509,0,False
+17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,SMU Mustangs (-34.5),-34.5,2.2,4533883510,0,False
+17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,Missouri State Bears (+34.5),-34.5,1.625,4533883511,0,False
+17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,SMU Mustangs (-37.5),-37.5,2.6,4533883512,0,False
+17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,Missouri State Bears (+37.5),-37.5,1.4546,4533883513,0,False
+17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,SMU Mustangs (-38.5),-38.5,2.75,4533883514,0,False
+17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,Missouri State Bears (+38.5),-38.5,1.4,4533883515,0,False
+17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,SMU Mustangs (-40.5),-40.5,3.1,4533883516,0,False
+17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,Missouri State Bears (+40.5),-40.5,1.3334,4533883517,0,False
+17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,SMU Mustangs (-44.5),-44.5,4.0,4533883518,0,False
+17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,Missouri State Bears (+44.5),-44.5,1.2223,4533883519,0,False
 17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 74.5,74.5,4.2,4533883522,0,False
 17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 74.5,74.5,1.2,4533883523,0,False
 17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 48.5,48.5,3.7,4533883341,0,False
 17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 66.5,66.5,1.4762,4533883477,0,False
 17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 59.5,59.5,1.9091,4533883469,0,False
 17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 52.5,52.5,2.75,4533883343,0,False
-17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 60.5,60.5,1.8696,4533883471,0,True
+17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 60.5,60.5,1.8334,4533883471,0,True
 17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 57.5,57.5,2.2,4533883345,0,False
 17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 62.5,62.5,1.6897,4533883473,0,False
 17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 58.5,58.5,2.0,4533883347,0,False
@@ -3010,7 +3016,7 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 48.5,48.5,1.25,4533883340,0,False
 17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 59.5,59.5,1.7693,4533883468,0,False
 17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 52.5,52.5,1.4,4533883342,0,False
-17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 60.5,60.5,1.8,4533883470,0,True
+17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 60.5,60.5,1.8334,4533883470,0,True
 17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 57.5,57.5,1.625,4533883344,0,False
 17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 62.5,62.5,2.05,4533883472,0,False
 17575379,SMU Mustangs vs. Missouri State Bears,2026-09-27T01:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 58.5,58.5,1.7143,4533883346,0,False
@@ -3046,7 +3052,7 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17575390,UTEP Miners vs. Oregon State Beavers,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,Oregon State Beavers (-30.5),30.5,5.0,4533937707,7,False
 17575390,UTEP Miners vs. Oregon State Beavers,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,Oregon State Beavers (-18.5),18.5,2.55,4531954862,0,False
 17575390,UTEP Miners vs. Oregon State Beavers,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,Oregon State Beavers (-19.5),19.5,2.65,4531954735,0,False
-17575390,UTEP Miners vs. Oregon State Beavers,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,Oregon State Beavers (-3.5),3.5,1.3334,4531954870,0,False
+17575390,UTEP Miners vs. Oregon State Beavers,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,Oregon State Beavers (-3.5),3.5,1.3572,4531954870,0,False
 17575390,UTEP Miners vs. Oregon State Beavers,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,UTEP Miners (+2.5),2.5,3.5,4531954736,0,False
 17575390,UTEP Miners vs. Oregon State Beavers,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,Oregon State Beavers (-23.5),23.5,3.25,4531954743,0,False
 17575390,UTEP Miners vs. Oregon State Beavers,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,Oregon State Beavers (-20.5),20.5,2.75,4531954864,0,False
@@ -3070,7 +3076,7 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17575390,UTEP Miners vs. Oregon State Beavers,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,UTEP Miners (+21.5),21.5,1.3572,4531954738,0,False
 17575390,UTEP Miners vs. Oregon State Beavers,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,UTEP Miners (+28.5),28.5,1.1667,4531954867,0,False
 17575390,UTEP Miners vs. Oregon State Beavers,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,UTEP Miners (+22.5),22.5,1.3334,4531954740,0,False
-17575390,UTEP Miners vs. Oregon State Beavers,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,UTEP Miners (+3.5),3.5,3.1,4531954869,0,False
+17575390,UTEP Miners vs. Oregon State Beavers,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,UTEP Miners (+3.5),3.5,3.0,4531954869,0,False
 17575390,UTEP Miners vs. Oregon State Beavers,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,UTEP Miners (+23.5),23.5,1.3031,4531954742,0,False
 17575390,UTEP Miners vs. Oregon State Beavers,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,UTEP Miners (+5.5),5.5,2.6,4531954871,0,False
 17575390,UTEP Miners vs. Oregon State Beavers,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,UTEP Miners (+25.5),25.5,1.2353,4531954744,0,False
@@ -3092,8 +3098,8 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17575390,UTEP Miners vs. Oregon State Beavers,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,Oregon State Beavers (-6.5),6.5,1.5,4531954874,0,False
 17575390,UTEP Miners vs. Oregon State Beavers,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,Oregon State Beavers (-5.5),5.5,1.4546,4531954872,0,False
 17575390,UTEP Miners vs. Oregon State Beavers,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,Oregon State Beavers (+2.5),-2.5,1.1539,4531954757,0,False
-17575390,UTEP Miners vs. Oregon State Beavers,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,UTEP Miners (+1.5),1.5,4.0,4531954904,0,False
-17575390,UTEP Miners vs. Oregon State Beavers,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,Oregon State Beavers (-1.5),1.5,1.2223,4531954905,0,False
+17575390,UTEP Miners vs. Oregon State Beavers,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,UTEP Miners (+1.5),1.5,3.75,4531954904,0,False
+17575390,UTEP Miners vs. Oregon State Beavers,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,Oregon State Beavers (-1.5),1.5,1.2353,4531954905,0,False
 17575390,UTEP Miners vs. Oregon State Beavers,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,UTEP Miners (+12.5),12.5,1.7693,4531954906,0,False
 17575390,UTEP Miners vs. Oregon State Beavers,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,Oregon State Beavers (-12.5),12.5,1.9091,4531954907,0,False
 17575390,UTEP Miners vs. Oregon State Beavers,2026-09-27T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,UTEP Miners (+17.5),17.5,1.5264,4531954908,0,False

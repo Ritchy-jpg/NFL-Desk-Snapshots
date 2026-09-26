@@ -31,12 +31,12 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17575384,Alabama Crimson Tide vs. South Carolina Gamecocks,2026-09-26T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,South Carolina Gamecocks (+8.5),-8.5,2.2,4515068598,0,False
 17575384,Alabama Crimson Tide vs. South Carolina Gamecocks,2026-09-26T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Alabama Crimson Tide (+2.5),2.5,1.1334,4515068601,7,False
 17575384,Alabama Crimson Tide vs. South Carolina Gamecocks,2026-09-26T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,South Carolina Gamecocks (-2.5),2.5,5.25,4515068602,7,False
-17575384,Alabama Crimson Tide vs. South Carolina Gamecocks,2026-09-26T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Alabama Crimson Tide (-10.5),-10.5,1.7408,4515068603,0,False
-17575384,Alabama Crimson Tide vs. South Carolina Gamecocks,2026-09-26T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,South Carolina Gamecocks (+10.5),-10.5,1.9524,4515068604,0,False
+17575384,Alabama Crimson Tide vs. South Carolina Gamecocks,2026-09-26T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Alabama Crimson Tide (-10.5),-10.5,1.7143,4515068603,0,False
+17575384,Alabama Crimson Tide vs. South Carolina Gamecocks,2026-09-26T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,South Carolina Gamecocks (+10.5),-10.5,2.0,4515068604,0,False
 17575384,Alabama Crimson Tide vs. South Carolina Gamecocks,2026-09-26T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Alabama Crimson Tide (-12.5),-12.5,1.8334,4515068605,0,True
 17575384,Alabama Crimson Tide vs. South Carolina Gamecocks,2026-09-26T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,South Carolina Gamecocks (+12.5),-12.5,1.8334,4515068606,0,True
-17575384,Alabama Crimson Tide vs. South Carolina Gamecocks,2026-09-26T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Alabama Crimson Tide (-13.5),-13.5,1.9091,4515068607,0,False
-17575384,Alabama Crimson Tide vs. South Carolina Gamecocks,2026-09-26T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,South Carolina Gamecocks (+13.5),-13.5,1.7693,4515068608,0,False
+17575384,Alabama Crimson Tide vs. South Carolina Gamecocks,2026-09-26T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Alabama Crimson Tide (-13.5),-13.5,1.8696,4515068607,0,False
+17575384,Alabama Crimson Tide vs. South Carolina Gamecocks,2026-09-26T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,South Carolina Gamecocks (+13.5),-13.5,1.8,4515068608,0,False
 17575384,Alabama Crimson Tide vs. South Carolina Gamecocks,2026-09-26T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Alabama Crimson Tide (-15.5),-15.5,2.15,4515068609,0,False
 17575384,Alabama Crimson Tide vs. South Carolina Gamecocks,2026-09-26T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,South Carolina Gamecocks (+15.5),-15.5,1.6451,4515068610,0,False
 17575384,Alabama Crimson Tide vs. South Carolina Gamecocks,2026-09-26T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Alabama Crimson Tide (-16.5),-16.5,2.2,4515068611,0,False
@@ -117,7 +117,7 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17575384,Alabama Crimson Tide vs. South Carolina Gamecocks,2026-09-26T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 49.5,49.5,2.3,4515068719,0,False
 17575384,Alabama Crimson Tide vs. South Carolina Gamecocks,2026-09-26T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 54.5,54.5,1.8696,4515068728,0,True
 17575384,Alabama Crimson Tide vs. South Carolina Gamecocks,2026-09-26T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 50.5,50.5,2.25,4515068721,0,False
-17575384,Alabama Crimson Tide vs. South Carolina Gamecocks,2026-09-26T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 55.5,55.5,1.9524,4515068730,0,False
+17575384,Alabama Crimson Tide vs. South Carolina Gamecocks,2026-09-26T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 55.5,55.5,2.0,4515068730,0,False
 17575384,Alabama Crimson Tide vs. South Carolina Gamecocks,2026-09-26T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 51.5,51.5,2.1,4515068723,0,False
 17575384,Alabama Crimson Tide vs. South Carolina Gamecocks,2026-09-26T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 56.5,56.5,2.05,4515068732,0,False
 17575384,Alabama Crimson Tide vs. South Carolina Gamecocks,2026-09-26T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 52.5,52.5,1.9524,4515068725,0,False
@@ -125,7 +125,7 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17575384,Alabama Crimson Tide vs. South Carolina Gamecocks,2026-09-26T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 53.5,53.5,1.9091,4515068727,0,False
 17575384,Alabama Crimson Tide vs. South Carolina Gamecocks,2026-09-26T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 59.5,59.5,2.5,4515068736,0,False
 17575384,Alabama Crimson Tide vs. South Carolina Gamecocks,2026-09-26T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 54.5,54.5,1.8,4515068729,0,True
-17575384,Alabama Crimson Tide vs. South Carolina Gamecocks,2026-09-26T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 55.5,55.5,1.7408,4515068731,0,False
+17575384,Alabama Crimson Tide vs. South Carolina Gamecocks,2026-09-26T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 55.5,55.5,1.7143,4515068731,0,False
 17575384,Alabama Crimson Tide vs. South Carolina Gamecocks,2026-09-26T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 56.5,56.5,1.6897,4515068733,0,False
 17575384,Alabama Crimson Tide vs. South Carolina Gamecocks,2026-09-26T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 60.5,60.5,2.55,4515068996,0,False
 17575384,Alabama Crimson Tide vs. South Carolina Gamecocks,2026-09-26T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 57.5,57.5,1.625,4515068735,0,False

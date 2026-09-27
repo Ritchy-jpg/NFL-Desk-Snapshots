@@ -28,8 +28,8 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17775746,Nevada Wolf Pack vs. Air Force Falcons,2026-09-27T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Air Force Falcons (+7.5),-7.5,1.1112,4531864356,0,False
 17775746,Nevada Wolf Pack vs. Air Force Falcons,2026-09-27T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Air Force Falcons (+8.5),-8.5,1.1,4531864358,7,False
 17775746,Nevada Wolf Pack vs. Air Force Falcons,2026-09-27T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Air Force Falcons (+9.5),-9.5,1.1,4531864375,7,False
-17775746,Nevada Wolf Pack vs. Air Force Falcons,2026-09-27T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Nevada Wolf Pack (+1.5),1.5,2.6,4531864239,0,False
-17775746,Nevada Wolf Pack vs. Air Force Falcons,2026-09-27T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Air Force Falcons (-1.5),1.5,1.4546,4531864240,0,False
+17775746,Nevada Wolf Pack vs. Air Force Falcons,2026-09-27T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Nevada Wolf Pack (+1.5),1.5,2.55,4531864239,0,False
+17775746,Nevada Wolf Pack vs. Air Force Falcons,2026-09-27T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Air Force Falcons (-1.5),1.5,1.4762,4531864240,0,False
 17775746,Nevada Wolf Pack vs. Air Force Falcons,2026-09-27T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Nevada Wolf Pack (+10.5),10.5,1.4762,4531864241,0,False
 17775746,Nevada Wolf Pack vs. Air Force Falcons,2026-09-27T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Air Force Falcons (-10.5),10.5,2.55,4531864242,0,False
 17775746,Nevada Wolf Pack vs. Air Force Falcons,2026-09-27T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Nevada Wolf Pack (+11.5),11.5,1.4167,4531864243,0,False
@@ -42,7 +42,7 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17775746,Nevada Wolf Pack vs. Air Force Falcons,2026-09-27T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Air Force Falcons (-18.5),18.5,4.0,4531864250,0,False
 17775746,Nevada Wolf Pack vs. Air Force Falcons,2026-09-27T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Nevada Wolf Pack (+19.5),19.5,1.2,4531864251,0,False
 17775746,Nevada Wolf Pack vs. Air Force Falcons,2026-09-27T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Air Force Falcons (-19.5),19.5,4.2,4531864252,0,False
-17775746,Nevada Wolf Pack vs. Air Force Falcons,2026-09-27T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Nevada Wolf Pack (+3.5),3.5,2.15,4531864253,0,False
+17775746,Nevada Wolf Pack vs. Air Force Falcons,2026-09-27T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Nevada Wolf Pack (+3.5),3.5,2.1,4531864253,0,False
 17775746,Nevada Wolf Pack vs. Air Force Falcons,2026-09-27T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Air Force Falcons (-16.5),16.5,3.5,4531864248,0,False
 17775746,Nevada Wolf Pack vs. Air Force Falcons,2026-09-27T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Nevada Wolf Pack (+5.5),5.5,1.8334,4531864255,0,True
 17775746,Nevada Wolf Pack vs. Air Force Falcons,2026-09-27T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Air Force Falcons (-5.5),5.5,1.8334,4531864256,0,True
@@ -51,7 +51,7 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17775746,Nevada Wolf Pack vs. Air Force Falcons,2026-09-27T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Nevada Wolf Pack (+8.5),8.5,1.5556,4531864259,0,False
 17775746,Nevada Wolf Pack vs. Air Force Falcons,2026-09-27T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Air Force Falcons (-8.5),8.5,2.3,4531864260,0,False
 17775746,Nevada Wolf Pack vs. Air Force Falcons,2026-09-27T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Nevada Wolf Pack (-1.5),-1.5,3.0,4531864261,0,False
-17775746,Nevada Wolf Pack vs. Air Force Falcons,2026-09-27T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Air Force Falcons (-3.5),3.5,1.6451,4531864254,0,False
+17775746,Nevada Wolf Pack vs. Air Force Falcons,2026-09-27T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Air Force Falcons (-3.5),3.5,1.6667,4531864254,0,False
 17775746,Nevada Wolf Pack vs. Air Force Falcons,2026-09-27T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Nevada Wolf Pack (-10.5),-10.5,7.5,4531864263,7,False
 17775746,Nevada Wolf Pack vs. Air Force Falcons,2026-09-27T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Air Force Falcons (+1.5),-1.5,1.3572,4531864262,0,False
 17775746,Nevada Wolf Pack vs. Air Force Falcons,2026-09-27T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Nevada Wolf Pack (-11.5),-11.5,8.0,4531864265,7,False
@@ -117,8 +117,8 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17775746,Nevada Wolf Pack vs. Air Force Falcons,2026-09-27T02:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 62.5,62.5,1.2667,4531862731,0,False
 17775746,Nevada Wolf Pack vs. Air Force Falcons,2026-09-27T02:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 63.5,63.5,3.75,4531862732,0,False
 17775746,Nevada Wolf Pack vs. Air Force Falcons,2026-09-27T02:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 63.5,63.5,1.2353,4531862733,0,False
-17775746,Nevada Wolf Pack vs. Air Force Falcons,2026-09-27T02:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 34.5,34.5,1.1429,4534290384,7,False
-17775746,Nevada Wolf Pack vs. Air Force Falcons,2026-09-27T02:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 34.5,34.5,5.0,4534290385,7,False
+17775746,Nevada Wolf Pack vs. Air Force Falcons,2026-09-27T02:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 34.5,34.5,1.1334,4534290384,7,False
+17775746,Nevada Wolf Pack vs. Air Force Falcons,2026-09-27T02:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 34.5,34.5,5.25,4534290385,7,False
 17775746,Nevada Wolf Pack vs. Air Force Falcons,2026-09-27T02:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 36.5,36.5,1.1819,4531862750,0,False
 17775746,Nevada Wolf Pack vs. Air Force Falcons,2026-09-27T02:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 36.5,36.5,4.4,4531862751,0,False
 17775746,Nevada Wolf Pack vs. Air Force Falcons,2026-09-27T02:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 39.5,39.5,1.2667,4531862752,0,False

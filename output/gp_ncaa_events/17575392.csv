@@ -1,6 +1,6 @@
 event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id,selection,line,price,odd_id,odd_status,is_main_bet
-17575392,FRESNO vs. Rice Owls,2026-09-27T02:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,FRESNO,,1.1539,4532257437,0,False
-17575392,FRESNO vs. Rice Owls,2026-09-27T02:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Rice Owls,,4.5,4532257438,0,False
+17575392,FRESNO vs. Rice Owls,2026-09-27T02:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,FRESNO,,1.1667,4532257437,0,False
+17575392,FRESNO vs. Rice Owls,2026-09-27T02:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Rice Owls,,4.3,4532257438,0,False
 17575392,FRESNO vs. Rice Owls,2026-09-27T02:00:00Z,spread,Handicap (inclus prolongations),223,70799,Rice Owls (+5.5),-5.5,2.85,4532257536,0,False
 17575392,FRESNO vs. Rice Owls,2026-09-27T02:00:00Z,spread,Handicap (inclus prolongations),223,70799,FRESNO (-6.5),-6.5,1.4348,4532257537,0,False
 17575392,FRESNO vs. Rice Owls,2026-09-27T02:00:00Z,spread,Handicap (inclus prolongations),223,70799,Rice Owls (+6.5),-6.5,2.65,4532257538,0,False
@@ -28,8 +28,8 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17575392,FRESNO vs. Rice Owls,2026-09-27T02:00:00Z,spread,Handicap (inclus prolongations),223,70799,FRESNO (-14.5),-14.5,2.05,4532257481,0,False
 17575392,FRESNO vs. Rice Owls,2026-09-27T02:00:00Z,spread,Handicap (inclus prolongations),223,70799,Rice Owls (+14.5),-14.5,1.6897,4532257482,0,False
 17575392,FRESNO vs. Rice Owls,2026-09-27T02:00:00Z,spread,Handicap (inclus prolongations),223,70799,Rice Owls (+25.5),-25.5,1.25,4535467773,7,False
-17575392,FRESNO vs. Rice Owls,2026-09-27T02:00:00Z,spread,Handicap (inclus prolongations),223,70799,FRESNO (-10.5),-10.5,1.7143,4532257517,0,False
-17575392,FRESNO vs. Rice Owls,2026-09-27T02:00:00Z,spread,Handicap (inclus prolongations),223,70799,Rice Owls (+10.5),-10.5,2.0,4532257518,0,False
+17575392,FRESNO vs. Rice Owls,2026-09-27T02:00:00Z,spread,Handicap (inclus prolongations),223,70799,FRESNO (-10.5),-10.5,1.7408,4532257517,0,False
+17575392,FRESNO vs. Rice Owls,2026-09-27T02:00:00Z,spread,Handicap (inclus prolongations),223,70799,Rice Owls (+10.5),-10.5,1.9524,4532257518,0,False
 17575392,FRESNO vs. Rice Owls,2026-09-27T02:00:00Z,spread,Handicap (inclus prolongations),223,70799,FRESNO (-11.5),-11.5,1.7693,4532257519,0,False
 17575392,FRESNO vs. Rice Owls,2026-09-27T02:00:00Z,spread,Handicap (inclus prolongations),223,70799,Rice Owls (+11.5),-11.5,1.9091,4532257520,0,False
 17575392,FRESNO vs. Rice Owls,2026-09-27T02:00:00Z,spread,Handicap (inclus prolongations),223,70799,FRESNO (-12.5),-12.5,1.8334,4532257521,0,True
@@ -62,8 +62,8 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17575392,FRESNO vs. Rice Owls,2026-09-27T02:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 50.5,50.5,1.4167,4532257676,0,False
 17575392,FRESNO vs. Rice Owls,2026-09-27T02:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 51.5,51.5,2.9,4532257677,0,False
 17575392,FRESNO vs. Rice Owls,2026-09-27T02:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 51.5,51.5,1.3637,4532257678,0,False
-17575392,FRESNO vs. Rice Owls,2026-09-27T02:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 52.5,52.5,3.1,4532257679,0,False
-17575392,FRESNO vs. Rice Owls,2026-09-27T02:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 52.5,52.5,1.3334,4532257680,0,False
+17575392,FRESNO vs. Rice Owls,2026-09-27T02:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 52.5,52.5,3.15,4532257679,0,False
+17575392,FRESNO vs. Rice Owls,2026-09-27T02:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 52.5,52.5,1.3226,4532257680,0,False
 17575392,FRESNO vs. Rice Owls,2026-09-27T02:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 53.5,53.5,3.25,4532257681,0,False
 17575392,FRESNO vs. Rice Owls,2026-09-27T02:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 53.5,53.5,1.3031,4532257682,0,False
 17575392,FRESNO vs. Rice Owls,2026-09-27T02:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 54.5,54.5,3.5,4532257683,7,False
@@ -88,6 +88,6 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17575392,FRESNO vs. Rice Owls,2026-09-27T02:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 40.5,40.5,2.15,4532257658,0,False
 17575392,FRESNO vs. Rice Owls,2026-09-27T02:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 41.5,41.5,1.7143,4532257659,0,False
 17575392,FRESNO vs. Rice Owls,2026-09-27T02:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 41.5,41.5,2.0,4532257660,0,False
-17575392,FRESNO vs. Rice Owls,2026-09-27T02:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 42.5,42.5,1.7408,4532257661,0,False
-17575392,FRESNO vs. Rice Owls,2026-09-27T02:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 42.5,42.5,1.9524,4532257662,0,False
+17575392,FRESNO vs. Rice Owls,2026-09-27T02:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 42.5,42.5,1.7693,4532257661,0,False
+17575392,FRESNO vs. Rice Owls,2026-09-27T02:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 42.5,42.5,1.9091,4532257662,0,False
 17575392,FRESNO vs. Rice Owls,2026-09-27T02:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 44.5,44.5,1.9524,4532257663,0,False

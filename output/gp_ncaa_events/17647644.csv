@@ -3,8 +3,8 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Kentucky Wildcats,,2.1,4555859470,0,False
 17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,South Carolina Gamecocks (+1.5),1.5,1.5715,4555844790,0,False
 17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Kentucky Wildcats (-1.5),1.5,2.25,4555844791,0,False
-17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,South Carolina Gamecocks (+2.5),2.5,1.5264,4555844792,0,False
-17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Kentucky Wildcats (-2.5),2.5,2.4,4555844793,0,False
+17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,South Carolina Gamecocks (+2.5),2.5,1.5455,4555844792,0,False
+17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Kentucky Wildcats (-2.5),2.5,2.35,4555844793,0,False
 17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,South Carolina Gamecocks (+3.5),3.5,1.4167,4555844794,0,False
 17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Kentucky Wildcats (-3.5),3.5,2.7,4555844795,0,False
 17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,South Carolina Gamecocks (+4.5),4.5,1.3637,4555844796,0,False
@@ -15,8 +15,8 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Kentucky Wildcats (-6.5),6.5,3.25,4555844801,0,False
 17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,South Carolina Gamecocks (+7.5),7.5,1.2223,4555844802,0,False
 17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Kentucky Wildcats (-7.5),7.5,4.0,4555844803,0,False
-17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,South Carolina Gamecocks (+8.5),8.5,1.2223,4555844804,0,False
-17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Kentucky Wildcats (-8.5),8.5,4.0,4555844805,0,False
+17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,South Carolina Gamecocks (+8.5),8.5,1.2,4555844804,0,False
+17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Kentucky Wildcats (-8.5),8.5,4.2,4555844805,0,False
 17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,South Carolina Gamecocks (-1.5),-1.5,1.7143,4555844806,0,False
 17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Kentucky Wildcats (+1.5),-1.5,2.0,4555844807,0,False
 17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,South Carolina Gamecocks (-10.5),-10.5,3.25,4555844808,0,False
@@ -51,53 +51,53 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Kentucky Wildcats (+8.5),-8.5,1.3637,4555844849,0,False
 17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,South Carolina Gamecocks (-9.5),-9.5,3.0,4555844850,0,False
 17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Kentucky Wildcats (+9.5),-9.5,1.3572,4555844851,0,False
-17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 50.5,50.5,1.625,4555844480,0,False
-17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 50.5,50.5,2.2,4555844481,0,False
-17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 51.5,51.5,1.6897,4555844482,0,False
-17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 51.5,51.5,2.05,4555844483,0,False
-17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 52.5,52.5,1.7408,4555844484,0,False
-17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 52.5,52.5,1.9524,4555844485,0,False
-17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 53.5,53.5,1.8,4555844486,0,False
-17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 53.5,53.5,1.8696,4555844487,0,False
-17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 54.5,54.5,1.8696,4555844488,0,True
-17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 54.5,54.5,1.8,4555844489,0,True
-17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 55.5,55.5,2.0,4555844490,0,False
-17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 55.5,55.5,1.7143,4555844491,0,False
-17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 56.5,56.5,2.05,4555844492,0,False
-17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 56.5,56.5,1.6897,4555844493,0,False
-17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 57.5,57.5,2.15,4555844494,0,False
-17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 57.5,57.5,1.6451,4555844495,0,False
-17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 58.5,58.5,2.3,4555844496,0,False
-17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 58.5,58.5,1.5556,4555844497,0,False
-17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 59.5,59.5,2.5,4555844498,0,False
-17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 59.5,59.5,1.5,4555844499,0,False
-17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 60.5,60.5,2.55,4555844500,0,False
-17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 60.5,60.5,1.4762,4555844501,0,False
-17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 61.5,61.5,2.7,4555844502,0,False
-17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 61.5,61.5,1.4167,4555844503,0,False
-17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 62.5,62.5,2.85,4555844504,0,False
-17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 62.5,62.5,1.3847,4555844505,0,False
-17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 63.5,63.5,3.0,4555844506,0,False
-17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 63.5,63.5,1.3572,4555844507,0,False
-17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 64.5,64.5,3.15,4555844508,0,False
-17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 64.5,64.5,1.3226,4555844509,0,False
-17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 65.5,65.5,3.4,4555844510,0,False
-17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 65.5,65.5,1.2858,4555844511,0,False
-17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 66.5,66.5,3.7,4563821530,0,False
-17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 66.5,66.5,1.25,4563821531,0,False
-17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 42.5,42.5,1.2667,4555844464,0,False
-17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 42.5,42.5,3.5,4555844465,0,False
-17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 43.5,43.5,1.3031,4555844466,0,False
-17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 43.5,43.5,3.25,4555844467,0,False
-17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 44.5,44.5,1.3334,4555844468,0,False
-17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 44.5,44.5,3.1,4555844469,0,False
-17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 45.5,45.5,1.3847,4555844470,0,False
-17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 45.5,45.5,2.85,4555844471,0,False
-17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 46.5,46.5,1.4,4555844472,0,False
-17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 46.5,46.5,2.75,4555844473,0,False
-17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 47.5,47.5,1.4762,4555844474,0,False
-17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 47.5,47.5,2.55,4555844475,0,False
-17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 48.5,48.5,1.5264,4555844476,0,False
-17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 48.5,48.5,2.4,4555844477,0,False
-17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 49.5,49.5,1.5556,4555844478,0,False
-17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 49.5,49.5,2.3,4555844479,0,False
+17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 50.5,50.5,1.6451,4555844480,0,False
+17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 50.5,50.5,2.15,4555844481,0,False
+17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 51.5,51.5,1.7143,4555844482,0,False
+17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 51.5,51.5,2.0,4555844483,0,False
+17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 52.5,52.5,1.7693,4555844484,0,False
+17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 52.5,52.5,1.9091,4555844485,0,False
+17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 53.5,53.5,1.8334,4555844486,0,True
+17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 53.5,53.5,1.8334,4555844487,0,True
+17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 54.5,54.5,1.9091,4555844488,0,False
+17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 54.5,54.5,1.7693,4555844489,0,False
+17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 55.5,55.5,2.05,4555844490,0,False
+17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 55.5,55.5,1.6897,4555844491,0,False
+17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 56.5,56.5,2.15,4555844492,0,False
+17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 56.5,56.5,1.6451,4555844493,0,False
+17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 57.5,57.5,2.25,4555844494,0,False
+17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 57.5,57.5,1.5715,4555844495,0,False
+17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 58.5,58.5,2.4,4555844496,0,False
+17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 58.5,58.5,1.5264,4555844497,0,False
+17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 59.5,59.5,2.55,4555844498,0,False
+17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 59.5,59.5,1.4762,4555844499,0,False
+17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 60.5,60.5,2.6,4555844500,0,False
+17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 60.5,60.5,1.4546,4555844501,0,False
+17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 61.5,61.5,2.75,4555844502,0,False
+17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 61.5,61.5,1.4,4555844503,0,False
+17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 62.5,62.5,3.0,4555844504,0,False
+17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 62.5,62.5,1.3572,4555844505,0,False
+17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 63.5,63.5,3.15,4555844506,0,False
+17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 63.5,63.5,1.3226,4555844507,0,False
+17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 64.5,64.5,3.25,4555844508,0,False
+17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 64.5,64.5,1.3031,4555844509,0,False
+17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 65.5,65.5,3.5,4555844510,0,False
+17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 65.5,65.5,1.2667,4555844511,0,False
+17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 41.5,41.5,1.2667,4555844462,0,False
+17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 41.5,41.5,3.5,4555844463,0,False
+17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 42.5,42.5,1.2858,4555844464,0,False
+17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 42.5,42.5,3.4,4555844465,0,False
+17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 43.5,43.5,1.3125,4555844466,0,False
+17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 43.5,43.5,3.2,4555844467,0,False
+17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 44.5,44.5,1.3572,4555844468,0,False
+17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 44.5,44.5,3.0,4555844469,0,False
+17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 45.5,45.5,1.4,4555844470,0,False
+17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 45.5,45.5,2.75,4555844471,0,False
+17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 46.5,46.5,1.4348,4555844472,0,False
+17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 46.5,46.5,2.65,4555844473,0,False
+17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 47.5,47.5,1.5,4555844474,0,False
+17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 47.5,47.5,2.5,4555844475,0,False
+17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 48.5,48.5,1.5455,4555844476,0,False
+17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 48.5,48.5,2.35,4555844477,0,False
+17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 49.5,49.5,1.5715,4555844478,0,False
+17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 49.5,49.5,2.25,4555844479,0,False

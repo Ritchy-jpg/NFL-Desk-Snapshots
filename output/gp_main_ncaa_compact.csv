@@ -139,8 +139,8 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17647634,Kansas Jayhawks vs. Middle Tennessee Blue Raiders,2026-10-03T16:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 51.5,51.5,1.7408,4567251299,0,False
 17647634,Kansas Jayhawks vs. Middle Tennessee Blue Raiders,2026-10-03T16:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 50.5,50.5,1.8334,4567251408,0,True
 17647634,Kansas Jayhawks vs. Middle Tennessee Blue Raiders,2026-10-03T16:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 50.5,50.5,1.8334,4567251409,0,True
-17647631,Minnesota U Gophers vs. Michigan Wolverines,2026-10-03T16:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Minnesota U Gophers,,2.65,4551105618,0,False
-17647631,Minnesota U Gophers vs. Michigan Wolverines,2026-10-03T16:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Michigan Wolverines,,1.4,4551105619,0,False
+17647631,Minnesota U Gophers vs. Michigan Wolverines,2026-10-03T16:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Minnesota U Gophers,,2.6,4551105618,0,False
+17647631,Minnesota U Gophers vs. Michigan Wolverines,2026-10-03T16:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Michigan Wolverines,,1.4167,4551105619,0,False
 17647631,Minnesota U Gophers vs. Michigan Wolverines,2026-10-03T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,Minnesota U Gophers (+4.5),4.5,1.9524,4551106126,0,False
 17647631,Minnesota U Gophers vs. Michigan Wolverines,2026-10-03T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,Michigan Wolverines (-4.5),4.5,1.7408,4551106127,0,False
 17647631,Minnesota U Gophers vs. Michigan Wolverines,2026-10-03T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,Minnesota U Gophers (+6.5),6.5,1.7693,4551105620,0,False
@@ -475,10 +475,18 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17861641,NOUVEAU MEXIQUE vs. UTEP Miners,2026-10-03T20:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 48.5,48.5,1.8696,4567388762,0,True
 17647650,Illinois Fighting Illini vs. Purdue Boilermakers,2026-10-03T20:15:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Illinois Fighting Illini,,1.2353,4564347632,0,False
 17647650,Illinois Fighting Illini vs. Purdue Boilermakers,2026-10-03T20:15:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Purdue Boilermakers,,3.6,4564347633,0,False
+17647650,Illinois Fighting Illini vs. Purdue Boilermakers,2026-10-03T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Illinois Fighting Illini (-10.5),-10.5,1.9091,4564347465,0,False
+17647650,Illinois Fighting Illini vs. Purdue Boilermakers,2026-10-03T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Purdue Boilermakers (+10.5),-10.5,1.7693,4564347466,0,False
+17647650,Illinois Fighting Illini vs. Purdue Boilermakers,2026-10-03T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Illinois Fighting Illini (-8.5),-8.5,1.7693,4564347515,0,False
+17647650,Illinois Fighting Illini vs. Purdue Boilermakers,2026-10-03T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Purdue Boilermakers (+8.5),-8.5,1.9091,4564347516,0,False
 17647650,Illinois Fighting Illini vs. Purdue Boilermakers,2026-10-03T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Illinois Fighting Illini (-9.5),-9.5,1.8,4564347517,0,True
 17647650,Illinois Fighting Illini vs. Purdue Boilermakers,2026-10-03T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Purdue Boilermakers (+9.5),-9.5,1.8696,4564347518,0,True
+17647650,Illinois Fighting Illini vs. Purdue Boilermakers,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 59.5,59.5,1.8,4564347152,0,False
+17647650,Illinois Fighting Illini vs. Purdue Boilermakers,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 59.5,59.5,1.8696,4564347153,0,False
 17647650,Illinois Fighting Illini vs. Purdue Boilermakers,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 60.5,60.5,1.8334,4564347154,0,True
 17647650,Illinois Fighting Illini vs. Purdue Boilermakers,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 60.5,60.5,1.8334,4564347155,0,True
+17647650,Illinois Fighting Illini vs. Purdue Boilermakers,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 61.5,61.5,1.9524,4564347156,0,False
+17647650,Illinois Fighting Illini vs. Purdue Boilermakers,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 61.5,61.5,1.7408,4564347157,0,False
 17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,South Carolina Gamecocks,,1.625,4555859469,0,False
 17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Kentucky Wildcats,,2.1,4555859470,0,False
 17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,South Carolina Gamecocks (-3.5),-3.5,2.0,4555844838,0,False
@@ -547,12 +555,12 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17647627,Colorado Buffaloes vs. Texas Tech Red Raiders,2026-10-03T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Texas Tech Red Raiders (-13.5),13.5,1.8334,4564337987,0,True
 17647627,Colorado Buffaloes vs. Texas Tech Red Raiders,2026-10-03T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 50.5,50.5,1.8,4564338296,0,True
 17647627,Colorado Buffaloes vs. Texas Tech Red Raiders,2026-10-03T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 50.5,50.5,1.8696,4564338295,0,True
-17856139,FLORIDE DU SUD vs. Temple Owls,2026-10-03T23:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,FLORIDE DU SUD,,1.3847,4565188066,0,False
-17856139,FLORIDE DU SUD vs. Temple Owls,2026-10-03T23:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Temple Owls,,2.7,4565188067,0,False
+17856139,FLORIDE DU SUD vs. Temple Owls,2026-10-03T23:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,FLORIDE DU SUD,,1.3637,4565188066,0,False
+17856139,FLORIDE DU SUD vs. Temple Owls,2026-10-03T23:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Temple Owls,,2.8,4565188067,0,False
 17856139,FLORIDE DU SUD vs. Temple Owls,2026-10-03T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,FLORIDE DU SUD (-6.5),-6.5,1.8696,4565187844,0,True
 17856139,FLORIDE DU SUD vs. Temple Owls,2026-10-03T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Temple Owls (+6.5),-6.5,1.8,4565187845,0,True
-17856139,FLORIDE DU SUD vs. Temple Owls,2026-10-03T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 50.5,50.5,1.8,4565187914,0,True
-17856139,FLORIDE DU SUD vs. Temple Owls,2026-10-03T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 50.5,50.5,1.8696,4565187915,0,True
+17856139,FLORIDE DU SUD vs. Temple Owls,2026-10-03T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 50.5,50.5,1.8334,4565187914,0,True
+17856139,FLORIDE DU SUD vs. Temple Owls,2026-10-03T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 50.5,50.5,1.8334,4565187915,0,True
 17861655,Louisiana Tech Bulldogs vs. Army Black Knights,2026-10-03T23:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Louisiana Tech Bulldogs,,2.0,4567450934,0,False
 17861655,Louisiana Tech Bulldogs vs. Army Black Knights,2026-10-03T23:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Army Black Knights,,1.6897,4567450935,0,False
 17861655,Louisiana Tech Bulldogs vs. Army Black Knights,2026-10-03T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana Tech Bulldogs (+2.5),2.5,1.8334,4567451067,0,True

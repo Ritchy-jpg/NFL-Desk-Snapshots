@@ -41,8 +41,8 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17637327,Delaware Fightin Blue Hens vs. Liberty Flames,2026-10-02T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 49.5,49.5,1.8334,4565672665,0,True
 17637327,Delaware Fightin Blue Hens vs. Liberty Flames,2026-10-02T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 50.5,50.5,1.8696,4565672666,0,False
 17637327,Delaware Fightin Blue Hens vs. Liberty Flames,2026-10-02T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 50.5,50.5,1.8,4565672667,0,False
-17637326,Virginia Tech Hokies vs. Pittsburgh Panthers,2026-10-02T23:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Virginia Tech Hokies,,1.5556,4555657152,0,False
-17637326,Virginia Tech Hokies vs. Pittsburgh Panthers,2026-10-02T23:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Pittsburgh Panthers,,2.25,4555657153,0,False
+17637326,Virginia Tech Hokies vs. Pittsburgh Panthers,2026-10-02T23:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Virginia Tech Hokies,,1.5264,4555657152,0,False
+17637326,Virginia Tech Hokies vs. Pittsburgh Panthers,2026-10-02T23:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Pittsburgh Panthers,,2.3,4555657153,0,False
 17637326,Virginia Tech Hokies vs. Pittsburgh Panthers,2026-10-02T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Virginia Tech Hokies (-3.5),-3.5,1.8696,4555650282,0,True
 17637326,Virginia Tech Hokies vs. Pittsburgh Panthers,2026-10-02T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Pittsburgh Panthers (+3.5),-3.5,1.8,4555650283,0,True
 17637326,Virginia Tech Hokies vs. Pittsburgh Panthers,2026-10-02T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Virginia Tech Hokies (-4.5),-4.5,2.0,4555650284,0,False
@@ -493,10 +493,10 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 53.5,53.5,1.8334,4555844487,0,True
 17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 54.5,54.5,1.9091,4555844488,0,False
 17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 54.5,54.5,1.7693,4555844489,0,False
-17647648,COLORADO vs. Oregon State Beavers,2026-10-03T22:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,COLORADO,,2.6,4564625520,0,False
-17647648,COLORADO vs. Oregon State Beavers,2026-10-03T22:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Oregon State Beavers,,1.4167,4564625521,0,False
-17647648,COLORADO vs. Oregon State Beavers,2026-10-03T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,COLORADO (+5.5),5.5,1.8334,4564623902,0,True
-17647648,COLORADO vs. Oregon State Beavers,2026-10-03T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Oregon State Beavers (-5.5),5.5,1.8334,4564623903,0,True
+17647648,COLORADO vs. Oregon State Beavers,2026-10-03T22:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,COLORADO,,2.7,4564625520,0,False
+17647648,COLORADO vs. Oregon State Beavers,2026-10-03T22:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Oregon State Beavers,,1.3847,4564625521,0,False
+17647648,COLORADO vs. Oregon State Beavers,2026-10-03T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,COLORADO (+6.5),6.5,1.8,4564623804,0,True
+17647648,COLORADO vs. Oregon State Beavers,2026-10-03T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Oregon State Beavers (-6.5),6.5,1.8696,4564623805,0,True
 17647648,COLORADO vs. Oregon State Beavers,2026-10-03T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 61.5,61.5,1.8696,4564623946,0,True
 17647648,COLORADO vs. Oregon State Beavers,2026-10-03T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 61.5,61.5,1.8,4564623947,0,True
 17861575,Coastal Carolina  vs. Georgia Southern Eagles,2026-10-03T23:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Coastal Carolina ,,2.0,4568164114,0,False
@@ -537,8 +537,8 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17647647,Boise State Broncos vs. Utah State Aggies,2026-10-03T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 51.5,51.5,1.8334,4567496339,0,True
 17214197,Clemson Tigers vs. Miami Hurricanes,2026-10-03T23:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Clemson Tigers,,5.75,4275556549,0,False
 17214197,Clemson Tigers vs. Miami Hurricanes,2026-10-03T23:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Miami Hurricanes,,1.091,4275556550,0,False
-17214197,Clemson Tigers vs. Miami Hurricanes,2026-10-03T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Clemson Tigers (+17.5),17.5,1.8,4395051668,0,True
-17214197,Clemson Tigers vs. Miami Hurricanes,2026-10-03T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Miami Hurricanes (-17.5),17.5,1.8696,4395051669,0,True
+17214197,Clemson Tigers vs. Miami Hurricanes,2026-10-03T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Clemson Tigers (+16.5),16.5,1.8696,4395051666,0,True
+17214197,Clemson Tigers vs. Miami Hurricanes,2026-10-03T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Miami Hurricanes (-16.5),16.5,1.8,4395051667,0,True
 17214197,Clemson Tigers vs. Miami Hurricanes,2026-10-03T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 48.5,48.5,1.8334,4395051150,0,True
 17214197,Clemson Tigers vs. Miami Hurricanes,2026-10-03T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 48.5,48.5,1.8334,4395051151,0,True
 17647627,Colorado Buffaloes vs. Texas Tech Red Raiders,2026-10-03T23:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Colorado Buffaloes,,4.5,4564338404,0,False
@@ -547,8 +547,8 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17647627,Colorado Buffaloes vs. Texas Tech Red Raiders,2026-10-03T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Texas Tech Red Raiders (-13.5),13.5,1.8334,4564337987,0,True
 17647627,Colorado Buffaloes vs. Texas Tech Red Raiders,2026-10-03T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 50.5,50.5,1.8,4564338296,0,True
 17647627,Colorado Buffaloes vs. Texas Tech Red Raiders,2026-10-03T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 50.5,50.5,1.8696,4564338295,0,True
-17856139,FLORIDE DU SUD vs. Temple Owls,2026-10-03T23:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,FLORIDE DU SUD,,1.3637,4565188066,0,False
-17856139,FLORIDE DU SUD vs. Temple Owls,2026-10-03T23:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Temple Owls,,2.8,4565188067,0,False
+17856139,FLORIDE DU SUD vs. Temple Owls,2026-10-03T23:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,FLORIDE DU SUD,,1.3847,4565188066,0,False
+17856139,FLORIDE DU SUD vs. Temple Owls,2026-10-03T23:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Temple Owls,,2.7,4565188067,0,False
 17856139,FLORIDE DU SUD vs. Temple Owls,2026-10-03T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,FLORIDE DU SUD (-6.5),-6.5,1.8696,4565187844,0,True
 17856139,FLORIDE DU SUD vs. Temple Owls,2026-10-03T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Temple Owls (+6.5),-6.5,1.8,4565187845,0,True
 17856139,FLORIDE DU SUD vs. Temple Owls,2026-10-03T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 50.5,50.5,1.8,4565187914,0,True

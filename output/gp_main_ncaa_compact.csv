@@ -1,8 +1,8 @@
 event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id,selection,line,price,odd_id,odd_status,is_main_bet
 17626861,New Mexico St Aggies vs. Western Kentucky Hilltoppers,2026-10-02T00:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,New Mexico St Aggies,,1.6897,4565664723,0,False
 17626861,New Mexico St Aggies vs. Western Kentucky Hilltoppers,2026-10-02T00:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Western Kentucky Hilltoppers,,2.0,4565664724,0,False
-17626861,New Mexico St Aggies vs. Western Kentucky Hilltoppers,2026-10-02T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,New Mexico St Aggies (-2.5),-2.5,1.8696,4565664104,0,True
-17626861,New Mexico St Aggies vs. Western Kentucky Hilltoppers,2026-10-02T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Western Kentucky Hilltoppers (+2.5),-2.5,1.8,4565664105,0,True
+17626861,New Mexico St Aggies vs. Western Kentucky Hilltoppers,2026-10-02T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,New Mexico St Aggies (-2.5),-2.5,1.8334,4565664104,0,True
+17626861,New Mexico St Aggies vs. Western Kentucky Hilltoppers,2026-10-02T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Western Kentucky Hilltoppers (+2.5),-2.5,1.8334,4565664105,0,True
 17626861,New Mexico St Aggies vs. Western Kentucky Hilltoppers,2026-10-02T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,New Mexico St Aggies (-3.5),-3.5,2.1,4565664106,0,False
 17626861,New Mexico St Aggies vs. Western Kentucky Hilltoppers,2026-10-02T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Western Kentucky Hilltoppers (+3.5),-3.5,1.6667,4565664107,0,False
 17626861,New Mexico St Aggies vs. Western Kentucky Hilltoppers,2026-10-02T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,New Mexico St Aggies (-4.5),-4.5,2.3,4565664108,0,False
@@ -31,9 +31,9 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17626861,New Mexico St Aggies vs. Western Kentucky Hilltoppers,2026-10-02T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 59.5,59.5,1.6451,4565663871,0,False
 17626860,Tulsa Golden Hurricane vs. North Texas,2026-10-02T01:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,North Texas ,,1.8696,4564239696,0,False
 17626860,Tulsa Golden Hurricane vs. North Texas,2026-10-02T01:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Tulsa Golden Hurricane,,1.8,4564239695,0,False
-17626860,Tulsa Golden Hurricane vs. North Texas,2026-10-02T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,North Texas  (+4.5),-4.5,1.5264,4564239744,0,False
-17626860,Tulsa Golden Hurricane vs. North Texas,2026-10-02T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,Tulsa Golden Hurricane (-5.5),-5.5,2.55,4564239745,0,False
-17626860,Tulsa Golden Hurricane vs. North Texas,2026-10-02T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,North Texas  (+5.5),-5.5,1.4762,4564239746,0,False
+17626860,Tulsa Golden Hurricane vs. North Texas,2026-10-02T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,North Texas  (+4.5),-4.5,1.5,4564239744,0,False
+17626860,Tulsa Golden Hurricane vs. North Texas,2026-10-02T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,Tulsa Golden Hurricane (-5.5),-5.5,2.6,4564239745,0,False
+17626860,Tulsa Golden Hurricane vs. North Texas,2026-10-02T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,North Texas  (+5.5),-5.5,1.4546,4564239746,0,False
 17626860,Tulsa Golden Hurricane vs. North Texas,2026-10-02T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,Tulsa Golden Hurricane (-1.5),-1.5,1.8696,4564239717,0,True
 17626860,Tulsa Golden Hurricane vs. North Texas,2026-10-02T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,North Texas  (+1.5),-1.5,1.8,4564239718,0,True
 17626860,Tulsa Golden Hurricane vs. North Texas,2026-10-02T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,Tulsa Golden Hurricane (+1.5),1.5,1.7143,4564239697,0,False
@@ -44,17 +44,17 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17626860,Tulsa Golden Hurricane vs. North Texas,2026-10-02T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,North Texas  (+2.5),-2.5,1.7143,4564239740,0,False
 17626860,Tulsa Golden Hurricane vs. North Texas,2026-10-02T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,Tulsa Golden Hurricane (-3.5),-3.5,2.25,4564239741,0,False
 17626860,Tulsa Golden Hurricane vs. North Texas,2026-10-02T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,North Texas  (+3.5),-3.5,1.5715,4564239742,0,False
-17626860,Tulsa Golden Hurricane vs. North Texas,2026-10-02T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,Tulsa Golden Hurricane (-4.5),-4.5,2.4,4564239743,0,False
-17626860,Tulsa Golden Hurricane vs. North Texas,2026-10-02T01:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 54.5,54.5,1.6451,4564239920,0,False
-17626860,Tulsa Golden Hurricane vs. North Texas,2026-10-02T01:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 54.5,54.5,2.15,4564239921,0,False
-17626860,Tulsa Golden Hurricane vs. North Texas,2026-10-02T01:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 55.5,55.5,1.7143,4564239922,0,False
-17626860,Tulsa Golden Hurricane vs. North Texas,2026-10-02T01:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 55.5,55.5,2.0,4564239923,0,False
+17626860,Tulsa Golden Hurricane vs. North Texas,2026-10-02T01:00:00Z,spread,Handicap (inclus prolongations),223,70799,Tulsa Golden Hurricane (-4.5),-4.5,2.5,4564239743,0,False
+17626860,Tulsa Golden Hurricane vs. North Texas,2026-10-02T01:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 54.5,54.5,1.6667,4564239920,0,False
+17626860,Tulsa Golden Hurricane vs. North Texas,2026-10-02T01:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 54.5,54.5,2.1,4564239921,0,False
+17626860,Tulsa Golden Hurricane vs. North Texas,2026-10-02T01:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 55.5,55.5,1.7408,4564239922,0,False
+17626860,Tulsa Golden Hurricane vs. North Texas,2026-10-02T01:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 55.5,55.5,1.9524,4564239923,0,False
 17626860,Tulsa Golden Hurricane vs. North Texas,2026-10-02T01:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 56.5,56.5,1.7693,4564239924,0,False
 17626860,Tulsa Golden Hurricane vs. North Texas,2026-10-02T01:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 56.5,56.5,1.9091,4564239925,0,False
 17626860,Tulsa Golden Hurricane vs. North Texas,2026-10-02T01:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 57.5,57.5,1.8334,4564239926,0,True
 17626860,Tulsa Golden Hurricane vs. North Texas,2026-10-02T01:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 57.5,57.5,1.8334,4564239927,0,True
-17626860,Tulsa Golden Hurricane vs. North Texas,2026-10-02T01:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 58.5,58.5,1.9091,4564239928,0,False
-17626860,Tulsa Golden Hurricane vs. North Texas,2026-10-02T01:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 58.5,58.5,1.7693,4564239929,0,False
+17626860,Tulsa Golden Hurricane vs. North Texas,2026-10-02T01:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 58.5,58.5,1.9524,4564239928,0,False
+17626860,Tulsa Golden Hurricane vs. North Texas,2026-10-02T01:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 58.5,58.5,1.7408,4564239929,0,False
 17626860,Tulsa Golden Hurricane vs. North Texas,2026-10-02T01:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 59.5,59.5,2.05,4564239930,0,False
 17626860,Tulsa Golden Hurricane vs. North Texas,2026-10-02T01:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 59.5,59.5,1.6897,4564239931,0,False
 17626860,Tulsa Golden Hurricane vs. North Texas,2026-10-02T01:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 60.5,60.5,2.1,4564239932,0,False
@@ -141,8 +141,8 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17647628,Houston Cougars vs. UCF Knights,2026-10-03T16:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 50.5,50.5,1.9091,4564230287,0,False
 17647628,Houston Cougars vs. UCF Knights,2026-10-03T16:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 51.5,51.5,1.8696,4564230288,0,True
 17647628,Houston Cougars vs. UCF Knights,2026-10-03T16:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 51.5,51.5,1.8,4564230289,0,True
-17647628,Houston Cougars vs. UCF Knights,2026-10-03T16:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 52.5,52.5,1.9524,4564230290,0,False
-17647628,Houston Cougars vs. UCF Knights,2026-10-03T16:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 52.5,52.5,1.7408,4564230291,0,False
+17647628,Houston Cougars vs. UCF Knights,2026-10-03T16:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 52.5,52.5,2.0,4564230290,0,False
+17647628,Houston Cougars vs. UCF Knights,2026-10-03T16:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 52.5,52.5,1.7143,4564230291,0,False
 17647626,Iowa State Cyclones vs. West Virginia Mountaineers,2026-10-03T16:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Iowa State Cyclones,,1.5715,4564257602,0,False
 17647626,Iowa State Cyclones vs. West Virginia Mountaineers,2026-10-03T16:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,West Virginia Mountaineers,,2.2,4564257603,0,False
 17647626,Iowa State Cyclones vs. West Virginia Mountaineers,2026-10-03T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,Iowa State Cyclones (-2.5),-2.5,1.7143,4564257433,0,False
@@ -173,12 +173,12 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17647634,Kansas Jayhawks vs. Middle Tennessee Blue Raiders,2026-10-03T16:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 50.5,50.5,1.8334,4567251409,0,True
 17647631,Minnesota U Gophers vs. Michigan Wolverines,2026-10-03T16:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Minnesota U Gophers,,2.65,4551105618,0,False
 17647631,Minnesota U Gophers vs. Michigan Wolverines,2026-10-03T16:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Michigan Wolverines,,1.4,4551105619,0,False
-17647631,Minnesota U Gophers vs. Michigan Wolverines,2026-10-03T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,Minnesota U Gophers (+4.5),4.5,1.9524,4551106126,0,False
-17647631,Minnesota U Gophers vs. Michigan Wolverines,2026-10-03T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,Michigan Wolverines (-4.5),4.5,1.7408,4551106127,0,False
+17647631,Minnesota U Gophers vs. Michigan Wolverines,2026-10-03T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,Minnesota U Gophers (+4.5),4.5,1.9091,4551106126,0,False
+17647631,Minnesota U Gophers vs. Michigan Wolverines,2026-10-03T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,Michigan Wolverines (-4.5),4.5,1.7693,4551106127,0,False
 17647631,Minnesota U Gophers vs. Michigan Wolverines,2026-10-03T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,Minnesota U Gophers (+6.5),6.5,1.7693,4551105620,0,False
 17647631,Minnesota U Gophers vs. Michigan Wolverines,2026-10-03T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,Michigan Wolverines (-6.5),6.5,1.9091,4551105621,0,False
-17647631,Minnesota U Gophers vs. Michigan Wolverines,2026-10-03T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,Minnesota U Gophers (+5.5),5.5,1.8696,4551105916,0,True
-17647631,Minnesota U Gophers vs. Michigan Wolverines,2026-10-03T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,Michigan Wolverines (-5.5),5.5,1.8,4551105917,0,True
+17647631,Minnesota U Gophers vs. Michigan Wolverines,2026-10-03T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,Minnesota U Gophers (+5.5),5.5,1.8334,4551105916,0,True
+17647631,Minnesota U Gophers vs. Michigan Wolverines,2026-10-03T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,Michigan Wolverines (-5.5),5.5,1.8334,4551105917,0,True
 17647631,Minnesota U Gophers vs. Michigan Wolverines,2026-10-03T16:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 42.5,42.5,1.9524,4551105792,0,False
 17647631,Minnesota U Gophers vs. Michigan Wolverines,2026-10-03T16:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 43.5,43.5,1.8334,4551105889,0,True
 17647631,Minnesota U Gophers vs. Michigan Wolverines,2026-10-03T16:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 43.5,43.5,1.8334,4551105890,0,True
@@ -369,8 +369,8 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17856151,Georgia State Panthers vs. Old Dominion Monarchs,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 51.5,51.5,1.7693,4564445361,0,False
 17647649,Iowa Hawkeyes vs. Ohio State Buckeyes,2026-10-03T19:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Iowa Hawkeyes,,4.5,4549288844,0,False
 17647649,Iowa Hawkeyes vs. Ohio State Buckeyes,2026-10-03T19:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Ohio State Buckeyes,,1.1539,4549288845,0,False
-17647649,Iowa Hawkeyes vs. Ohio State Buckeyes,2026-10-03T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Iowa Hawkeyes (+12.5),12.5,2.0,4549288749,0,False
-17647649,Iowa Hawkeyes vs. Ohio State Buckeyes,2026-10-03T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Ohio State Buckeyes (-12.5),12.5,1.7143,4549288750,0,False
+17647649,Iowa Hawkeyes vs. Ohio State Buckeyes,2026-10-03T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Iowa Hawkeyes (+12.5),12.5,1.9524,4549288749,0,False
+17647649,Iowa Hawkeyes vs. Ohio State Buckeyes,2026-10-03T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Ohio State Buckeyes (-12.5),12.5,1.7408,4549288750,0,False
 17647649,Iowa Hawkeyes vs. Ohio State Buckeyes,2026-10-03T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Iowa Hawkeyes (+13.5),13.5,1.9091,4549288751,0,True
 17647649,Iowa Hawkeyes vs. Ohio State Buckeyes,2026-10-03T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Ohio State Buckeyes (-13.5),13.5,1.7693,4549288752,0,True
 17647649,Iowa Hawkeyes vs. Ohio State Buckeyes,2026-10-03T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Iowa Hawkeyes (+14.5),14.5,1.7693,4549288696,0,False
@@ -441,16 +441,16 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17647636,Tennessee Volunteers vs. Auburn Tigers,2026-10-03T19:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Auburn Tigers,,3.05,4555889045,0,False
 17647636,Tennessee Volunteers vs. Auburn Tigers,2026-10-03T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Tennessee Volunteers (-6.5),-6.5,1.7408,4555883691,0,False
 17647636,Tennessee Volunteers vs. Auburn Tigers,2026-10-03T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Auburn Tigers (+6.5),-6.5,1.9524,4555883692,0,False
-17647636,Tennessee Volunteers vs. Auburn Tigers,2026-10-03T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Tennessee Volunteers (-7.5),-7.5,1.9091,4555883693,0,True
-17647636,Tennessee Volunteers vs. Auburn Tigers,2026-10-03T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Auburn Tigers (+7.5),-7.5,1.7693,4555883694,0,True
+17647636,Tennessee Volunteers vs. Auburn Tigers,2026-10-03T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Tennessee Volunteers (-7.5),-7.5,1.9524,4555883693,0,True
+17647636,Tennessee Volunteers vs. Auburn Tigers,2026-10-03T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Auburn Tigers (+7.5),-7.5,1.7408,4555883694,0,True
 17647636,Tennessee Volunteers vs. Auburn Tigers,2026-10-03T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Tennessee Volunteers (-8.5),-8.5,2.0,4555883695,0,False
 17647636,Tennessee Volunteers vs. Auburn Tigers,2026-10-03T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Auburn Tigers (+8.5),-8.5,1.7143,4555883696,0,False
 17647636,Tennessee Volunteers vs. Auburn Tigers,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 54.5,54.5,1.8696,4555884238,0,False
 17647636,Tennessee Volunteers vs. Auburn Tigers,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 54.5,54.5,1.8,4555884239,0,False
 17647636,Tennessee Volunteers vs. Auburn Tigers,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 53.5,53.5,1.8,4555883890,0,True
 17647636,Tennessee Volunteers vs. Auburn Tigers,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 53.5,53.5,1.8696,4555883891,0,True
-17647636,Tennessee Volunteers vs. Auburn Tigers,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 52.5,52.5,1.7408,4555883996,0,False
-17647636,Tennessee Volunteers vs. Auburn Tigers,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 52.5,52.5,1.9524,4555883997,0,False
+17647636,Tennessee Volunteers vs. Auburn Tigers,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 52.5,52.5,1.7693,4555883996,0,False
+17647636,Tennessee Volunteers vs. Auburn Tigers,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 52.5,52.5,1.9091,4555883997,0,False
 17861517,UMass Minutemen vs. MICHIGAN EST,2026-10-03T19:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,UMass Minutemen,,1.4167,4567480923,0,False
 17861517,UMass Minutemen vs. MICHIGAN EST,2026-10-03T19:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,MICHIGAN EST,,2.6,4567480924,0,False
 17861517,UMass Minutemen vs. MICHIGAN EST,2026-10-03T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,UMass Minutemen (-6.5),-6.5,1.9091,4567480935,0,False
@@ -505,8 +505,8 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17647629,Nebraska Cornhuskers vs. Maryland Terrapins,2026-10-03T20:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 51.5,51.5,1.8696,4564355277,0,False
 17647629,Nebraska Cornhuskers vs. Maryland Terrapins,2026-10-03T20:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 52.5,52.5,1.8696,4564355278,0,True
 17647629,Nebraska Cornhuskers vs. Maryland Terrapins,2026-10-03T20:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 52.5,52.5,1.8,4564355279,0,True
-17647629,Nebraska Cornhuskers vs. Maryland Terrapins,2026-10-03T20:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 53.5,53.5,1.9091,4564355280,0,False
-17647629,Nebraska Cornhuskers vs. Maryland Terrapins,2026-10-03T20:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 53.5,53.5,1.7693,4564355281,0,False
+17647629,Nebraska Cornhuskers vs. Maryland Terrapins,2026-10-03T20:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 53.5,53.5,1.9524,4564355280,0,False
+17647629,Nebraska Cornhuskers vs. Maryland Terrapins,2026-10-03T20:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 53.5,53.5,1.7408,4564355281,0,False
 17861641,NOUVEAU MEXIQUE vs. UTEP Miners,2026-10-03T20:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,NOUVEAU MEXIQUE,,1.0334,4567388729,0,False
 17861641,NOUVEAU MEXIQUE vs. UTEP Miners,2026-10-03T20:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,UTEP Miners,,8.0,4567388730,0,False
 17861641,NOUVEAU MEXIQUE vs. UTEP Miners,2026-10-03T20:00:00Z,spread,Handicap (inclus prolongations),223,70799,NOUVEAU MEXIQUE (-21.5),-21.5,1.8,4567388889,0,False

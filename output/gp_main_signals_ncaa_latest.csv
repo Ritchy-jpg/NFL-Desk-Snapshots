@@ -1,17 +1,7 @@
 captured_at,event_id,match,start_date,market,selection,side,signal,old_line,new_line,old_price,new_price,old_status,new_status,old_is_main_bet,new_is_main_bet
-2026-09-29T15:16:42.267827+00:00,17861529,Charlotte 49ers vs. Memphis Tigers,2026-10-03T19:30:00Z,spread,Charlotte 49ers (+20.5),Charlotte 49ers,MAIN_PRICE_MOVE,20.5,20.5,1.8334,1.8,0,0.0,1,1.0
-2026-09-29T15:16:42.267827+00:00,17861529,Charlotte 49ers vs. Memphis Tigers,2026-10-03T19:30:00Z,spread,Memphis Tigers (-20.5),Memphis Tigers,MAIN_PRICE_MOVE,-20.5,-20.5,1.8334,1.8696,0,0.0,1,1.0
-2026-09-29T15:16:42.267827+00:00,17861529,Charlotte 49ers vs. Memphis Tigers,2026-10-03T19:30:00Z,total,Plus de 53.5,over,MAIN_PRICE_MOVE,53.5,53.5,1.8,1.8696,0,0.0,1,1.0
-2026-09-29T15:16:42.267827+00:00,17861529,Charlotte 49ers vs. Memphis Tigers,2026-10-03T19:30:00Z,total,Moins de 53.5,under,MAIN_PRICE_MOVE,53.5,53.5,1.8696,1.8,0,0.0,1,1.0
-2026-09-29T15:16:42.267827+00:00,17861517,UMass Minutemen vs. MICHIGAN EST,2026-10-03T19:30:00Z,spread,UMass Minutemen (-5.5),UMass Minutemen,MAIN_PRICE_MOVE,-5.5,-5.5,1.8334,1.8,0,0.0,1,1.0
-2026-09-29T15:16:42.267827+00:00,17861517,UMass Minutemen vs. MICHIGAN EST,2026-10-03T19:30:00Z,spread,MICHIGAN EST (+5.5),MICHIGAN EST,MAIN_PRICE_MOVE,5.5,5.5,1.8334,1.8696,0,0.0,1,1.0
-2026-09-29T15:16:42.267827+00:00,17861517,UMass Minutemen vs. MICHIGAN EST,2026-10-03T19:30:00Z,total,Plus de 48.5,over,MAIN_PRICE_MOVE,48.5,48.5,1.8696,1.8334,0,0.0,1,1.0
-2026-09-29T15:16:42.267827+00:00,17861517,UMass Minutemen vs. MICHIGAN EST,2026-10-03T19:30:00Z,total,Moins de 48.5,under,MAIN_PRICE_MOVE,48.5,48.5,1.8,1.8334,0,0.0,1,1.0
-2026-09-29T15:16:42.267827+00:00,17856252,James Madison Dukes vs. Marshall Herd,2026-10-03T19:45:00Z,spread,James Madison Dukes (-17.5),James Madison Dukes,MAIN_SWITCH,-17.5,-17.5,1.8,1.8,0,0.0,0,1.0
-2026-09-29T15:16:42.267827+00:00,17856252,James Madison Dukes vs. Marshall Herd,2026-10-03T19:45:00Z,spread,Marshall Herd (+17.5),Marshall Herd,MAIN_SWITCH,17.5,17.5,1.8696,1.8696,0,0.0,0,1.0
-2026-09-29T15:16:42.267827+00:00,17856252,James Madison Dukes vs. Marshall Herd,2026-10-03T19:45:00Z,spread,James Madison Dukes (-18.5),James Madison Dukes,MAIN_SWITCH,-18.5,-18.5,1.8696,1.8696,0,0.0,1,0.0
-2026-09-29T15:16:42.267827+00:00,17856252,James Madison Dukes vs. Marshall Herd,2026-10-03T19:45:00Z,spread,Marshall Herd (+18.5),Marshall Herd,MAIN_SWITCH,18.5,18.5,1.8,1.8,0,0.0,1,0.0
-2026-09-29T15:16:42.267827+00:00,17861641,NOUVEAU MEXIQUE vs. UTEP Miners,2026-10-03T20:00:00Z,total,Plus de 48.5,over,MAIN_PRICE_MOVE,48.5,48.5,1.8696,1.8,0,0.0,1,1.0
-2026-09-29T15:16:42.267827+00:00,17861641,NOUVEAU MEXIQUE vs. UTEP Miners,2026-10-03T20:00:00Z,total,Moins de 48.5,under,MAIN_PRICE_MOVE,48.5,48.5,1.8,1.8696,0,0.0,1,1.0
-2026-09-29T15:16:42.267827+00:00,17647632,TCU Horned Frogs vs. BYU Cougars,2026-10-03T23:00:00Z,total,Plus de 48.5,over,MAIN_PRICE_MOVE,48.5,48.5,1.8334,1.8696,0,0.0,1,1.0
-2026-09-29T15:16:42.267827+00:00,17647632,TCU Horned Frogs vs. BYU Cougars,2026-10-03T23:00:00Z,total,Moins de 48.5,under,MAIN_PRICE_MOVE,48.5,48.5,1.8334,1.8,0,0.0,1,1.0
+2026-09-29T15:45:57.855633+00:00,17647643,Mississippi St Bulldogs vs. Alabama Crimson Tide,2026-10-03T16:00:00Z,spread,Mississippi St Bulldogs (+5.5),Mississippi St Bulldogs,MAIN_SWITCH,5.5,5.5,1.8696,1.8696,0,0.0,0,1.0
+2026-09-29T15:45:57.855633+00:00,17647643,Mississippi St Bulldogs vs. Alabama Crimson Tide,2026-10-03T16:00:00Z,spread,Alabama Crimson Tide (-5.5),Alabama Crimson Tide,MAIN_SWITCH,-5.5,-5.5,1.8,1.8,0,0.0,0,1.0
+2026-09-29T15:45:57.855633+00:00,17647643,Mississippi St Bulldogs vs. Alabama Crimson Tide,2026-10-03T16:00:00Z,spread,Mississippi St Bulldogs (+6.5),Mississippi St Bulldogs,MAIN_SWITCH,6.5,6.5,1.8,1.8,0,0.0,1,0.0
+2026-09-29T15:45:57.855633+00:00,17647643,Mississippi St Bulldogs vs. Alabama Crimson Tide,2026-10-03T16:00:00Z,spread,Alabama Crimson Tide (-6.5),Alabama Crimson Tide,MAIN_SWITCH,-6.5,-6.5,1.8696,1.8696,0,0.0,1,0.0
+2026-09-29T15:45:57.855633+00:00,17861517,UMass Minutemen vs. MICHIGAN EST,2026-10-03T19:30:00Z,total,Plus de 48.5,over,MAIN_PRICE_MOVE,48.5,48.5,1.8334,1.8,0,0.0,1,1.0
+2026-09-29T15:45:57.855633+00:00,17861517,UMass Minutemen vs. MICHIGAN EST,2026-10-03T19:30:00Z,total,Moins de 48.5,under,MAIN_PRICE_MOVE,48.5,48.5,1.8334,1.8696,0,0.0,1,1.0

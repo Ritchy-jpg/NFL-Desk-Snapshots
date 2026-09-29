@@ -349,8 +349,8 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17647641,Florida State Seminoles vs. Virginia Cavaliers,2026-10-03T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Virginia Cavaliers (-3.5),3.5,2.0,4564331549,0,False
 17647641,Florida State Seminoles vs. Virginia Cavaliers,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 50.5,50.5,1.7408,4564331808,0,False
 17647641,Florida State Seminoles vs. Virginia Cavaliers,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 50.5,50.5,1.9524,4564331809,0,False
-17647641,Florida State Seminoles vs. Virginia Cavaliers,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 51.5,51.5,1.8696,4564331810,0,True
-17647641,Florida State Seminoles vs. Virginia Cavaliers,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 51.5,51.5,1.8,4564331811,0,True
+17647641,Florida State Seminoles vs. Virginia Cavaliers,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 51.5,51.5,1.8334,4564331810,0,True
+17647641,Florida State Seminoles vs. Virginia Cavaliers,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 51.5,51.5,1.8334,4564331811,0,True
 17647641,Florida State Seminoles vs. Virginia Cavaliers,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 52.5,52.5,1.9524,4564331812,0,False
 17647641,Florida State Seminoles vs. Virginia Cavaliers,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 52.5,52.5,1.7408,4564331813,0,False
 17856151,Georgia State Panthers vs. Old Dominion Monarchs,2026-10-03T19:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Georgia State Panthers,,1.7693,4564445296,0,False
@@ -375,8 +375,8 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17647649,Iowa Hawkeyes vs. Ohio State Buckeyes,2026-10-03T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Ohio State Buckeyes (-15.5),15.5,1.9091,4549288754,0,False
 17647649,Iowa Hawkeyes vs. Ohio State Buckeyes,2026-10-03T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Iowa Hawkeyes (+14.5),14.5,1.8,4549288696,0,True
 17647649,Iowa Hawkeyes vs. Ohio State Buckeyes,2026-10-03T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Ohio State Buckeyes (-14.5),14.5,1.8696,4549288697,0,True
-17647649,Iowa Hawkeyes vs. Ohio State Buckeyes,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 44.5,44.5,1.7408,4549288870,0,False
-17647649,Iowa Hawkeyes vs. Ohio State Buckeyes,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 44.5,44.5,1.9524,4549288871,0,False
+17647649,Iowa Hawkeyes vs. Ohio State Buckeyes,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 44.5,44.5,1.7693,4549288870,0,False
+17647649,Iowa Hawkeyes vs. Ohio State Buckeyes,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 44.5,44.5,1.9091,4549288871,0,False
 17647649,Iowa Hawkeyes vs. Ohio State Buckeyes,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 45.5,45.5,1.8334,4549288872,0,True
 17647649,Iowa Hawkeyes vs. Ohio State Buckeyes,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 45.5,45.5,1.8334,4549288873,0,True
 17647649,Iowa Hawkeyes vs. Ohio State Buckeyes,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 46.5,46.5,1.8696,4549288874,0,False
@@ -451,14 +451,14 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17647636,Tennessee Volunteers vs. Auburn Tigers,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 53.5,53.5,1.9091,4555883891,0,False
 17647636,Tennessee Volunteers vs. Auburn Tigers,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 55.5,55.5,1.9524,4555883892,0,False
 17647636,Tennessee Volunteers vs. Auburn Tigers,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 55.5,55.5,1.7408,4555883893,0,False
-17861517,UMass Minutemen vs. MICHIGAN EST,2026-10-03T19:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,UMass Minutemen,,1.3637,4567480923,0,False
-17861517,UMass Minutemen vs. MICHIGAN EST,2026-10-03T19:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,MICHIGAN EST,,2.8,4567480924,0,False
-17861517,UMass Minutemen vs. MICHIGAN EST,2026-10-03T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,UMass Minutemen (-6.5),-6.5,1.8696,4567480935,0,False
-17861517,UMass Minutemen vs. MICHIGAN EST,2026-10-03T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,MICHIGAN EST (+6.5),-6.5,1.8,4567480936,0,False
-17861517,UMass Minutemen vs. MICHIGAN EST,2026-10-03T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,UMass Minutemen (-4.5),-4.5,1.7408,4567481070,0,False
-17861517,UMass Minutemen vs. MICHIGAN EST,2026-10-03T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,MICHIGAN EST (+4.5),-4.5,1.9524,4567481071,0,False
-17861517,UMass Minutemen vs. MICHIGAN EST,2026-10-03T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,UMass Minutemen (-5.5),-5.5,1.8,4567480985,0,True
-17861517,UMass Minutemen vs. MICHIGAN EST,2026-10-03T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,MICHIGAN EST (+5.5),-5.5,1.8696,4567480986,0,True
+17861517,UMass Minutemen vs. MICHIGAN EST,2026-10-03T19:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,UMass Minutemen,,1.3847,4567480923,0,False
+17861517,UMass Minutemen vs. MICHIGAN EST,2026-10-03T19:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,MICHIGAN EST,,2.7,4567480924,0,False
+17861517,UMass Minutemen vs. MICHIGAN EST,2026-10-03T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,UMass Minutemen (-6.5),-6.5,1.8334,4567480935,0,True
+17861517,UMass Minutemen vs. MICHIGAN EST,2026-10-03T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,MICHIGAN EST (+6.5),-6.5,1.8334,4567480936,0,True
+17861517,UMass Minutemen vs. MICHIGAN EST,2026-10-03T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,UMass Minutemen (-7.5),-7.5,2.1,4567481072,0,False
+17861517,UMass Minutemen vs. MICHIGAN EST,2026-10-03T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,MICHIGAN EST (+7.5),-7.5,1.6667,4567481073,0,False
+17861517,UMass Minutemen vs. MICHIGAN EST,2026-10-03T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,UMass Minutemen (-5.5),-5.5,1.7693,4567480985,0,False
+17861517,UMass Minutemen vs. MICHIGAN EST,2026-10-03T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,MICHIGAN EST (+5.5),-5.5,1.9091,4567480986,0,False
 17861517,UMass Minutemen vs. MICHIGAN EST,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 49.5,49.5,1.8,4567480960,0,False
 17861517,UMass Minutemen vs. MICHIGAN EST,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 47.5,47.5,1.7408,4567480977,0,False
 17861517,UMass Minutemen vs. MICHIGAN EST,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 48.5,48.5,1.8,4567481074,0,True
@@ -678,10 +678,10 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17856139,FLORIDE DU SUD vs. Temple Owls,2026-10-03T23:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,FLORIDE DU SUD,,1.3637,4565188066,0,False
 17856139,FLORIDE DU SUD vs. Temple Owls,2026-10-03T23:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Temple Owls,,2.8,4565188067,0,False
 17856139,FLORIDE DU SUD vs. Temple Owls,2026-10-03T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Temple Owls (+5.5),-5.5,1.9091,4565187680,0,False
-17856139,FLORIDE DU SUD vs. Temple Owls,2026-10-03T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,FLORIDE DU SUD (-7.5),-7.5,2.15,4565187681,0,False
-17856139,FLORIDE DU SUD vs. Temple Owls,2026-10-03T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Temple Owls (+7.5),-7.5,1.6451,4565187682,0,False
-17856139,FLORIDE DU SUD vs. Temple Owls,2026-10-03T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,FLORIDE DU SUD (-6.5),-6.5,1.8696,4565187844,0,True
-17856139,FLORIDE DU SUD vs. Temple Owls,2026-10-03T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Temple Owls (+6.5),-6.5,1.8,4565187845,0,True
+17856139,FLORIDE DU SUD vs. Temple Owls,2026-10-03T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,FLORIDE DU SUD (-7.5),-7.5,2.1,4565187681,0,False
+17856139,FLORIDE DU SUD vs. Temple Owls,2026-10-03T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Temple Owls (+7.5),-7.5,1.6667,4565187682,0,False
+17856139,FLORIDE DU SUD vs. Temple Owls,2026-10-03T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,FLORIDE DU SUD (-6.5),-6.5,1.8334,4565187844,0,True
+17856139,FLORIDE DU SUD vs. Temple Owls,2026-10-03T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Temple Owls (+6.5),-6.5,1.8334,4565187845,0,True
 17856139,FLORIDE DU SUD vs. Temple Owls,2026-10-03T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,FLORIDE DU SUD (-5.5),-5.5,1.7693,4565187679,0,False
 17856139,FLORIDE DU SUD vs. Temple Owls,2026-10-03T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 48.5,48.5,1.8334,4565188070,0,True
 17856139,FLORIDE DU SUD vs. Temple Owls,2026-10-03T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 48.5,48.5,1.8334,4565188071,0,True

@@ -1,7 +1,15 @@
 event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id,selection,line,price,odd_id,odd_status,is_main_bet
 17647630,Arizona State Sun Devils vs. Baylor Bears,2026-10-04T02:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Arizona State Sun Devils,,1.4762,4564208854,0,False
 17647630,Arizona State Sun Devils vs. Baylor Bears,2026-10-04T02:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Baylor Bears,,2.4,4564208855,0,False
+17647630,Arizona State Sun Devils vs. Baylor Bears,2026-10-04T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Arizona State Sun Devils (-3.5),-3.5,1.7693,4564183863,0,False
+17647630,Arizona State Sun Devils vs. Baylor Bears,2026-10-04T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Baylor Bears (+3.5),-3.5,1.9091,4564183864,0,False
 17647630,Arizona State Sun Devils vs. Baylor Bears,2026-10-04T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Arizona State Sun Devils (-4.5),-4.5,1.8696,4564183865,0,True
 17647630,Arizona State Sun Devils vs. Baylor Bears,2026-10-04T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Baylor Bears (+4.5),-4.5,1.8,4564183866,0,True
-17647630,Arizona State Sun Devils vs. Baylor Bears,2026-10-04T02:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 50.5,50.5,1.8696,4564184680,0,True
-17647630,Arizona State Sun Devils vs. Baylor Bears,2026-10-04T02:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 50.5,50.5,1.8,4564184679,0,True
+17647630,Arizona State Sun Devils vs. Baylor Bears,2026-10-04T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Arizona State Sun Devils (-5.5),-5.5,2.0,4564183867,0,False
+17647630,Arizona State Sun Devils vs. Baylor Bears,2026-10-04T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Baylor Bears (+5.5),-5.5,1.7143,4564183868,0,False
+17647630,Arizona State Sun Devils vs. Baylor Bears,2026-10-04T02:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 47.5,47.5,1.7408,4564184562,0,False
+17647630,Arizona State Sun Devils vs. Baylor Bears,2026-10-04T02:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 47.5,47.5,1.9524,4564184563,0,False
+17647630,Arizona State Sun Devils vs. Baylor Bears,2026-10-04T02:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 48.5,48.5,1.8,4564184564,0,True
+17647630,Arizona State Sun Devils vs. Baylor Bears,2026-10-04T02:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 48.5,48.5,1.8696,4564184565,0,True
+17647630,Arizona State Sun Devils vs. Baylor Bears,2026-10-04T02:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 49.5,49.5,1.8696,4564184566,0,False
+17647630,Arizona State Sun Devils vs. Baylor Bears,2026-10-04T02:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 49.5,49.5,1.8,4564184567,0,False

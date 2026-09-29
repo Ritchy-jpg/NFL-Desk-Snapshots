@@ -7,10 +7,10 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17626861,New Mexico St Aggies vs. Western Kentucky Hilltoppers,2026-10-02T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Western Kentucky Hilltoppers (+3.5),-3.5,1.6667,4565664107,0,False
 17626861,New Mexico St Aggies vs. Western Kentucky Hilltoppers,2026-10-02T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,New Mexico St Aggies (-4.5),-4.5,2.25,4565664108,0,False
 17626861,New Mexico St Aggies vs. Western Kentucky Hilltoppers,2026-10-02T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Western Kentucky Hilltoppers (+4.5),-4.5,1.5715,4565664109,0,False
-17626861,New Mexico St Aggies vs. Western Kentucky Hilltoppers,2026-10-02T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,New Mexico St Aggies (-5.5),-5.5,2.4,4565664110,0,False
-17626861,New Mexico St Aggies vs. Western Kentucky Hilltoppers,2026-10-02T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Western Kentucky Hilltoppers (+5.5),-5.5,1.5264,4565664111,0,False
-17626861,New Mexico St Aggies vs. Western Kentucky Hilltoppers,2026-10-02T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,New Mexico St Aggies (-6.5),-6.5,2.55,4565664112,0,False
-17626861,New Mexico St Aggies vs. Western Kentucky Hilltoppers,2026-10-02T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Western Kentucky Hilltoppers (+6.5),-6.5,1.4762,4565664113,0,False
+17626861,New Mexico St Aggies vs. Western Kentucky Hilltoppers,2026-10-02T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,New Mexico St Aggies (-5.5),-5.5,2.35,4565664110,0,False
+17626861,New Mexico St Aggies vs. Western Kentucky Hilltoppers,2026-10-02T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Western Kentucky Hilltoppers (+5.5),-5.5,1.5455,4565664111,0,False
+17626861,New Mexico St Aggies vs. Western Kentucky Hilltoppers,2026-10-02T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,New Mexico St Aggies (-6.5),-6.5,2.5,4565664112,0,False
+17626861,New Mexico St Aggies vs. Western Kentucky Hilltoppers,2026-10-02T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Western Kentucky Hilltoppers (+6.5),-6.5,1.5,4565664113,0,False
 17626861,New Mexico St Aggies vs. Western Kentucky Hilltoppers,2026-10-02T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,New Mexico St Aggies (-1.5),-1.5,1.7693,4565664088,0,False
 17626861,New Mexico St Aggies vs. Western Kentucky Hilltoppers,2026-10-02T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Western Kentucky Hilltoppers (+1.5),-1.5,1.9091,4565664089,0,False
 17626861,New Mexico St Aggies vs. Western Kentucky Hilltoppers,2026-10-02T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,New Mexico St Aggies (+1.5),1.5,1.6451,4565664058,0,False
@@ -23,8 +23,8 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17626861,New Mexico St Aggies vs. Western Kentucky Hilltoppers,2026-10-02T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 55.5,55.5,1.9524,4565663863,0,False
 17626861,New Mexico St Aggies vs. Western Kentucky Hilltoppers,2026-10-02T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 56.5,56.5,1.7693,4565663864,0,False
 17626861,New Mexico St Aggies vs. Western Kentucky Hilltoppers,2026-10-02T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 56.5,56.5,1.9091,4565663865,0,False
-17626861,New Mexico St Aggies vs. Western Kentucky Hilltoppers,2026-10-02T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 57.5,57.5,1.8334,4565663866,0,True
-17626861,New Mexico St Aggies vs. Western Kentucky Hilltoppers,2026-10-02T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 57.5,57.5,1.8334,4565663867,0,True
+17626861,New Mexico St Aggies vs. Western Kentucky Hilltoppers,2026-10-02T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 57.5,57.5,1.8696,4565663866,0,True
+17626861,New Mexico St Aggies vs. Western Kentucky Hilltoppers,2026-10-02T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 57.5,57.5,1.8,4565663867,0,True
 17626861,New Mexico St Aggies vs. Western Kentucky Hilltoppers,2026-10-02T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 58.5,58.5,1.9524,4565663868,0,False
 17626861,New Mexico St Aggies vs. Western Kentucky Hilltoppers,2026-10-02T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 58.5,58.5,1.7408,4565663869,0,False
 17626861,New Mexico St Aggies vs. Western Kentucky Hilltoppers,2026-10-02T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 59.5,59.5,2.05,4565663870,0,False
@@ -85,8 +85,8 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17637326,Virginia Tech Hokies vs. Pittsburgh Panthers,2026-10-02T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 54.5,54.5,1.9091,4555648720,0,False
 17637326,Virginia Tech Hokies vs. Pittsburgh Panthers,2026-10-02T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 55.5,55.5,1.8696,4555648721,0,True
 17637326,Virginia Tech Hokies vs. Pittsburgh Panthers,2026-10-02T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 55.5,55.5,1.8,4555648722,0,True
-17637326,Virginia Tech Hokies vs. Pittsburgh Panthers,2026-10-02T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 56.5,56.5,1.9524,4555650294,0,False
-17637326,Virginia Tech Hokies vs. Pittsburgh Panthers,2026-10-02T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 56.5,56.5,1.7408,4555650295,0,False
+17637326,Virginia Tech Hokies vs. Pittsburgh Panthers,2026-10-02T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 56.5,56.5,1.9091,4555650294,0,False
+17637326,Virginia Tech Hokies vs. Pittsburgh Panthers,2026-10-02T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 56.5,56.5,1.7693,4555650295,0,False
 17637325,Northwestern Wildcats vs. Penn St Nittany Lions,2026-10-03T00:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Penn St Nittany Lions,,1.6667,4555716672,0,False
 17637325,Northwestern Wildcats vs. Penn St Nittany Lions,2026-10-03T00:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Northwestern Wildcats,,2.05,4555716671,0,False
 17637325,Northwestern Wildcats vs. Penn St Nittany Lions,2026-10-03T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Penn St Nittany Lions (-1.5),1.5,1.7143,4555689056,0,False
@@ -265,8 +265,8 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17647637,GEORGIE BULLDOGS vs. Vanderbilt Commodores,2026-10-03T16:45:00Z,spread,Handicap (inclus prolongations),223,70799,GEORGIE BULLDOGS (-25.5),-25.5,2.0,4551109599,0,False
 17647637,GEORGIE BULLDOGS vs. Vanderbilt Commodores,2026-10-03T16:45:00Z,total,Total (prolongations incluses),225,70803,Plus de 50.5,50.5,1.8,4551110112,0,True
 17647637,GEORGIE BULLDOGS vs. Vanderbilt Commodores,2026-10-03T16:45:00Z,total,Total (prolongations incluses),225,70803,Moins de 50.5,50.5,1.8696,4551110113,0,True
-17647637,GEORGIE BULLDOGS vs. Vanderbilt Commodores,2026-10-03T16:45:00Z,total,Total (prolongations incluses),225,70803,Plus de 51.5,51.5,1.9524,4551110114,0,False
-17647637,GEORGIE BULLDOGS vs. Vanderbilt Commodores,2026-10-03T16:45:00Z,total,Total (prolongations incluses),225,70803,Moins de 51.5,51.5,1.7408,4551110115,0,False
+17647637,GEORGIE BULLDOGS vs. Vanderbilt Commodores,2026-10-03T16:45:00Z,total,Total (prolongations incluses),225,70803,Plus de 51.5,51.5,1.9091,4551110114,0,False
+17647637,GEORGIE BULLDOGS vs. Vanderbilt Commodores,2026-10-03T16:45:00Z,total,Total (prolongations incluses),225,70803,Moins de 51.5,51.5,1.7693,4551110115,0,False
 17647637,GEORGIE BULLDOGS vs. Vanderbilt Commodores,2026-10-03T16:45:00Z,total,Total (prolongations incluses),225,70803,Plus de 49.5,49.5,1.7693,4551110110,0,False
 17647637,GEORGIE BULLDOGS vs. Vanderbilt Commodores,2026-10-03T16:45:00Z,total,Total (prolongations incluses),225,70803,Moins de 49.5,49.5,1.9091,4551110111,0,False
 17861544,Buffalo Bulls vs. MICHIGAN,2026-10-03T17:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Buffalo Bulls,,4.75,4567270957,0,False
@@ -367,14 +367,14 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17856151,Georgia State Panthers vs. Old Dominion Monarchs,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 51.5,51.5,1.8696,4564445361,0,True
 17856151,Georgia State Panthers vs. Old Dominion Monarchs,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 52.5,52.5,1.8696,4564445362,0,False
 17856151,Georgia State Panthers vs. Old Dominion Monarchs,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 52.5,52.5,1.8,4564445363,0,False
-17647649,Iowa Hawkeyes vs. Ohio State Buckeyes,2026-10-03T19:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Iowa Hawkeyes,,4.5,4549288844,0,False
-17647649,Iowa Hawkeyes vs. Ohio State Buckeyes,2026-10-03T19:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Ohio State Buckeyes,,1.1539,4549288845,0,False
-17647649,Iowa Hawkeyes vs. Ohio State Buckeyes,2026-10-03T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Iowa Hawkeyes (+12.5),12.5,1.9524,4549288749,0,False
-17647649,Iowa Hawkeyes vs. Ohio State Buckeyes,2026-10-03T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Ohio State Buckeyes (-12.5),12.5,1.7408,4549288750,0,False
-17647649,Iowa Hawkeyes vs. Ohio State Buckeyes,2026-10-03T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Iowa Hawkeyes (+13.5),13.5,1.9091,4549288751,0,True
-17647649,Iowa Hawkeyes vs. Ohio State Buckeyes,2026-10-03T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Ohio State Buckeyes (-13.5),13.5,1.7693,4549288752,0,True
-17647649,Iowa Hawkeyes vs. Ohio State Buckeyes,2026-10-03T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Iowa Hawkeyes (+14.5),14.5,1.7693,4549288696,0,False
-17647649,Iowa Hawkeyes vs. Ohio State Buckeyes,2026-10-03T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Ohio State Buckeyes (-14.5),14.5,1.9091,4549288697,0,False
+17647649,Iowa Hawkeyes vs. Ohio State Buckeyes,2026-10-03T19:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Iowa Hawkeyes,,4.75,4549288844,0,False
+17647649,Iowa Hawkeyes vs. Ohio State Buckeyes,2026-10-03T19:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Ohio State Buckeyes,,1.1334,4549288845,0,False
+17647649,Iowa Hawkeyes vs. Ohio State Buckeyes,2026-10-03T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Iowa Hawkeyes (+13.5),13.5,1.9091,4549288751,0,False
+17647649,Iowa Hawkeyes vs. Ohio State Buckeyes,2026-10-03T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Ohio State Buckeyes (-13.5),13.5,1.7693,4549288752,0,False
+17647649,Iowa Hawkeyes vs. Ohio State Buckeyes,2026-10-03T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Iowa Hawkeyes (+15.5),15.5,1.7693,4549288753,0,False
+17647649,Iowa Hawkeyes vs. Ohio State Buckeyes,2026-10-03T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Ohio State Buckeyes (-15.5),15.5,1.9091,4549288754,0,False
+17647649,Iowa Hawkeyes vs. Ohio State Buckeyes,2026-10-03T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Iowa Hawkeyes (+14.5),14.5,1.8,4549288696,0,True
+17647649,Iowa Hawkeyes vs. Ohio State Buckeyes,2026-10-03T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Ohio State Buckeyes (-14.5),14.5,1.8696,4549288697,0,True
 17647649,Iowa Hawkeyes vs. Ohio State Buckeyes,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 44.5,44.5,1.7408,4549288870,0,False
 17647649,Iowa Hawkeyes vs. Ohio State Buckeyes,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 44.5,44.5,1.9524,4549288871,0,False
 17647649,Iowa Hawkeyes vs. Ohio State Buckeyes,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 45.5,45.5,1.8334,4549288872,0,True
@@ -471,8 +471,8 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17647645,UNLV Rebels vs. California Golden Bears,2026-10-03T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,California Golden Bears (+1.5),-1.5,1.9524,4564484848,0,False
 17647645,UNLV Rebels vs. California Golden Bears,2026-10-03T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,UNLV Rebels (-2.5),-2.5,1.8,4564484859,0,True
 17647645,UNLV Rebels vs. California Golden Bears,2026-10-03T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,California Golden Bears (+2.5),-2.5,1.8696,4564484860,0,True
-17647645,UNLV Rebels vs. California Golden Bears,2026-10-03T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,UNLV Rebels (-3.5),-3.5,2.1,4564484861,0,False
-17647645,UNLV Rebels vs. California Golden Bears,2026-10-03T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,California Golden Bears (+3.5),-3.5,1.6667,4564484862,0,False
+17647645,UNLV Rebels vs. California Golden Bears,2026-10-03T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,UNLV Rebels (-3.5),-3.5,2.05,4564484861,0,False
+17647645,UNLV Rebels vs. California Golden Bears,2026-10-03T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,California Golden Bears (+3.5),-3.5,1.6897,4564484862,0,False
 17647645,UNLV Rebels vs. California Golden Bears,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 52.5,52.5,1.8,4564485132,0,False
 17647645,UNLV Rebels vs. California Golden Bears,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 52.5,52.5,1.8696,4564485133,0,False
 17647645,UNLV Rebels vs. California Golden Bears,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 53.5,53.5,1.8696,4564485134,0,True
@@ -601,8 +601,8 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17856413,South Alabama Jaguars vs. Louisiana-Monroe Warhawks,2026-10-03T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana-Monroe Warhawks (+13.5),-13.5,1.9091,4564451039,0,False
 17856413,South Alabama Jaguars vs. Louisiana-Monroe Warhawks,2026-10-03T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 57.5,57.5,1.8696,4564450662,0,True
 17856413,South Alabama Jaguars vs. Louisiana-Monroe Warhawks,2026-10-03T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 57.5,57.5,1.8,4564450663,0,True
-17856413,South Alabama Jaguars vs. Louisiana-Monroe Warhawks,2026-10-03T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 58.5,58.5,2.0,4564450664,0,False
-17856413,South Alabama Jaguars vs. Louisiana-Monroe Warhawks,2026-10-03T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 58.5,58.5,1.7143,4564450665,0,False
+17856413,South Alabama Jaguars vs. Louisiana-Monroe Warhawks,2026-10-03T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 58.5,58.5,1.9524,4564450664,0,False
+17856413,South Alabama Jaguars vs. Louisiana-Monroe Warhawks,2026-10-03T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 58.5,58.5,1.7408,4564450665,0,False
 17856413,South Alabama Jaguars vs. Louisiana-Monroe Warhawks,2026-10-03T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 56.5,56.5,1.8,4564450832,0,False
 17856413,South Alabama Jaguars vs. Louisiana-Monroe Warhawks,2026-10-03T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 56.5,56.5,1.8696,4564450833,0,False
 17647632,TCU Horned Frogs vs. BYU Cougars,2026-10-03T23:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,TCU Horned Frogs,,2.8,4551168680,0,False
@@ -739,12 +739,12 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17647646,Rutgers Scarlet Knights vs. Indiana Hoosiers,2026-10-04T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Indiana Hoosiers (-24.5),24.5,1.8696,4564515544,0,True
 17647646,Rutgers Scarlet Knights vs. Indiana Hoosiers,2026-10-04T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Rutgers Scarlet Knights (+25.5),25.5,1.7408,4564515545,0,False
 17647646,Rutgers Scarlet Knights vs. Indiana Hoosiers,2026-10-04T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Indiana Hoosiers (-25.5),25.5,1.9524,4564515546,0,False
-17647646,Rutgers Scarlet Knights vs. Indiana Hoosiers,2026-10-04T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 54.5,54.5,1.7143,4564515191,0,False
-17647646,Rutgers Scarlet Knights vs. Indiana Hoosiers,2026-10-04T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 54.5,54.5,2.0,4564515192,0,False
+17647646,Rutgers Scarlet Knights vs. Indiana Hoosiers,2026-10-04T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 54.5,54.5,1.7408,4564515191,0,False
+17647646,Rutgers Scarlet Knights vs. Indiana Hoosiers,2026-10-04T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 54.5,54.5,1.9524,4564515192,0,False
 17647646,Rutgers Scarlet Knights vs. Indiana Hoosiers,2026-10-04T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 55.5,55.5,1.8334,4564515193,0,True
 17647646,Rutgers Scarlet Knights vs. Indiana Hoosiers,2026-10-04T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 55.5,55.5,1.8334,4564515194,0,True
-17647646,Rutgers Scarlet Knights vs. Indiana Hoosiers,2026-10-04T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 56.5,56.5,1.8696,4564515195,0,False
-17647646,Rutgers Scarlet Knights vs. Indiana Hoosiers,2026-10-04T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 56.5,56.5,1.8,4564515196,0,False
+17647646,Rutgers Scarlet Knights vs. Indiana Hoosiers,2026-10-04T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 56.5,56.5,1.9091,4564515195,0,False
+17647646,Rutgers Scarlet Knights vs. Indiana Hoosiers,2026-10-04T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 56.5,56.5,1.7693,4564515196,0,False
 17647651,Wash State Cougars vs. FRESNO,2026-10-04T01:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Wash State Cougars,,1.7408,4567503470,0,False
 17647651,Wash State Cougars vs. FRESNO,2026-10-04T01:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,FRESNO,,1.9524,4567503471,0,False
 17647651,Wash State Cougars vs. FRESNO,2026-10-04T01:30:00Z,spread,Handicap (inclus prolongations),223,70799,Wash State Cougars (-1.5),-1.5,1.7693,4567503492,0,False
@@ -753,12 +753,12 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17647651,Wash State Cougars vs. FRESNO,2026-10-04T01:30:00Z,spread,Handicap (inclus prolongations),223,70799,FRESNO (+2.5),-2.5,1.8334,4567503499,0,True
 17647651,Wash State Cougars vs. FRESNO,2026-10-04T01:30:00Z,spread,Handicap (inclus prolongations),223,70799,Wash State Cougars (-3.5),-3.5,2.1,4567503500,0,False
 17647651,Wash State Cougars vs. FRESNO,2026-10-04T01:30:00Z,spread,Handicap (inclus prolongations),223,70799,FRESNO (+3.5),-3.5,1.6667,4567503501,0,False
-17647651,Wash State Cougars vs. FRESNO,2026-10-04T01:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 45.5,45.5,1.9091,4567503552,0,False
-17647651,Wash State Cougars vs. FRESNO,2026-10-04T01:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 46.5,46.5,1.8334,4567503553,0,True
-17647651,Wash State Cougars vs. FRESNO,2026-10-04T01:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 46.5,46.5,1.8334,4567503554,0,True
-17647651,Wash State Cougars vs. FRESNO,2026-10-04T01:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 47.5,47.5,1.9524,4567503555,0,False
-17647651,Wash State Cougars vs. FRESNO,2026-10-04T01:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 47.5,47.5,1.7408,4567503556,0,False
-17647651,Wash State Cougars vs. FRESNO,2026-10-04T01:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 45.5,45.5,1.7693,4567503551,0,False
+17647651,Wash State Cougars vs. FRESNO,2026-10-04T01:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 45.5,45.5,1.8334,4567503552,0,True
+17647651,Wash State Cougars vs. FRESNO,2026-10-04T01:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 46.5,46.5,1.8696,4567503553,0,False
+17647651,Wash State Cougars vs. FRESNO,2026-10-04T01:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 46.5,46.5,1.8,4567503554,0,False
+17647651,Wash State Cougars vs. FRESNO,2026-10-04T01:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 44.5,44.5,1.7408,4567503528,0,False
+17647651,Wash State Cougars vs. FRESNO,2026-10-04T01:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 44.5,44.5,1.9524,4567503529,0,False
+17647651,Wash State Cougars vs. FRESNO,2026-10-04T01:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 45.5,45.5,1.8334,4567503551,0,True
 17647630,Arizona State Sun Devils vs. Baylor Bears,2026-10-04T02:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Arizona State Sun Devils,,1.4762,4564208854,0,False
 17647630,Arizona State Sun Devils vs. Baylor Bears,2026-10-04T02:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Baylor Bears,,2.4,4564208855,0,False
 17647630,Arizona State Sun Devils vs. Baylor Bears,2026-10-04T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Arizona State Sun Devils (-3.5),-3.5,1.7693,4564183863,0,False

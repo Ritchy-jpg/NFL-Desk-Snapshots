@@ -129,8 +129,8 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17647642,Connecticut Huskies vs. Syracuse Orange,2026-10-03T16:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 50.5,50.5,1.8334,4564463676,0,True
 17647642,Connecticut Huskies vs. Syracuse Orange,2026-10-03T16:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 51.5,51.5,1.9091,4564463677,0,False
 17647642,Connecticut Huskies vs. Syracuse Orange,2026-10-03T16:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 51.5,51.5,1.7693,4564463678,0,False
-17647628,Houston Cougars vs. UCF Knights,2026-10-03T16:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Houston Cougars,,1.1819,4564230588,0,False
-17647628,Houston Cougars vs. UCF Knights,2026-10-03T16:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,UCF Knights,,4.0,4564230589,0,False
+17647628,Houston Cougars vs. UCF Knights,2026-10-03T16:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Houston Cougars,,1.1667,4564230588,0,False
+17647628,Houston Cougars vs. UCF Knights,2026-10-03T16:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,UCF Knights,,4.25,4564230589,0,False
 17647628,Houston Cougars vs. UCF Knights,2026-10-03T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,Houston Cougars (-11.5),-11.5,1.8,4564230377,0,True
 17647628,Houston Cougars vs. UCF Knights,2026-10-03T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,UCF Knights (+11.5),-11.5,1.8696,4564230378,0,True
 17647628,Houston Cougars vs. UCF Knights,2026-10-03T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,Houston Cougars (-12.5),-12.5,1.8696,4564230379,0,False
@@ -267,8 +267,8 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17647637,GEORGIE BULLDOGS vs. Vanderbilt Commodores,2026-10-03T16:45:00Z,total,Total (prolongations incluses),225,70803,Moins de 50.5,50.5,1.8696,4551110113,0,True
 17647637,GEORGIE BULLDOGS vs. Vanderbilt Commodores,2026-10-03T16:45:00Z,total,Total (prolongations incluses),225,70803,Plus de 51.5,51.5,1.9091,4551110114,0,False
 17647637,GEORGIE BULLDOGS vs. Vanderbilt Commodores,2026-10-03T16:45:00Z,total,Total (prolongations incluses),225,70803,Moins de 51.5,51.5,1.7693,4551110115,0,False
-17647637,GEORGIE BULLDOGS vs. Vanderbilt Commodores,2026-10-03T16:45:00Z,total,Total (prolongations incluses),225,70803,Plus de 49.5,49.5,1.7693,4551110110,0,False
-17647637,GEORGIE BULLDOGS vs. Vanderbilt Commodores,2026-10-03T16:45:00Z,total,Total (prolongations incluses),225,70803,Moins de 49.5,49.5,1.9091,4551110111,0,False
+17647637,GEORGIE BULLDOGS vs. Vanderbilt Commodores,2026-10-03T16:45:00Z,total,Total (prolongations incluses),225,70803,Plus de 49.5,49.5,1.7408,4551110110,0,False
+17647637,GEORGIE BULLDOGS vs. Vanderbilt Commodores,2026-10-03T16:45:00Z,total,Total (prolongations incluses),225,70803,Moins de 49.5,49.5,1.9524,4551110111,0,False
 17861544,Buffalo Bulls vs. MICHIGAN,2026-10-03T17:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Buffalo Bulls,,4.75,4567270957,0,False
 17861544,Buffalo Bulls vs. MICHIGAN,2026-10-03T17:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,MICHIGAN,,1.1334,4567270958,0,False
 17861544,Buffalo Bulls vs. MICHIGAN,2026-10-03T17:00:00Z,spread,Handicap (inclus prolongations),223,70799,MICHIGAN (-13.5),13.5,1.8334,4567271008,0,True
@@ -451,10 +451,10 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17647636,Tennessee Volunteers vs. Auburn Tigers,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 53.5,53.5,1.9091,4555883891,0,False
 17647636,Tennessee Volunteers vs. Auburn Tigers,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 55.5,55.5,1.9524,4555883892,0,False
 17647636,Tennessee Volunteers vs. Auburn Tigers,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 55.5,55.5,1.7408,4555883893,0,False
-17861517,UMass Minutemen vs. MICHIGAN EST,2026-10-03T19:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,UMass Minutemen,,1.3847,4567480923,0,False
-17861517,UMass Minutemen vs. MICHIGAN EST,2026-10-03T19:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,MICHIGAN EST,,2.7,4567480924,0,False
-17861517,UMass Minutemen vs. MICHIGAN EST,2026-10-03T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,UMass Minutemen (-6.5),-6.5,1.9091,4567480935,0,False
-17861517,UMass Minutemen vs. MICHIGAN EST,2026-10-03T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,MICHIGAN EST (+6.5),-6.5,1.7693,4567480936,0,False
+17861517,UMass Minutemen vs. MICHIGAN EST,2026-10-03T19:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,UMass Minutemen,,1.3637,4567480923,0,False
+17861517,UMass Minutemen vs. MICHIGAN EST,2026-10-03T19:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,MICHIGAN EST,,2.8,4567480924,0,False
+17861517,UMass Minutemen vs. MICHIGAN EST,2026-10-03T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,UMass Minutemen (-6.5),-6.5,1.8696,4567480935,0,False
+17861517,UMass Minutemen vs. MICHIGAN EST,2026-10-03T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,MICHIGAN EST (+6.5),-6.5,1.8,4567480936,0,False
 17861517,UMass Minutemen vs. MICHIGAN EST,2026-10-03T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,UMass Minutemen (-4.5),-4.5,1.7408,4567481070,0,False
 17861517,UMass Minutemen vs. MICHIGAN EST,2026-10-03T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,MICHIGAN EST (+4.5),-4.5,1.9524,4567481071,0,False
 17861517,UMass Minutemen vs. MICHIGAN EST,2026-10-03T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,UMass Minutemen (-5.5),-5.5,1.8,4567480985,0,True
@@ -663,26 +663,26 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17214197,Clemson Tigers vs. Miami Hurricanes,2026-10-03T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 48.5,48.5,1.7693,4395051151,0,False
 17647627,Colorado Buffaloes vs. Texas Tech Red Raiders,2026-10-03T23:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Colorado Buffaloes,,4.5,4564338404,0,False
 17647627,Colorado Buffaloes vs. Texas Tech Red Raiders,2026-10-03T23:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Texas Tech Red Raiders,,1.1539,4564338405,0,False
-17647627,Colorado Buffaloes vs. Texas Tech Red Raiders,2026-10-03T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Colorado Buffaloes (+12.5),12.5,1.9091,4564337984,0,False
-17647627,Colorado Buffaloes vs. Texas Tech Red Raiders,2026-10-03T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Texas Tech Red Raiders (-12.5),12.5,1.7693,4564337985,0,False
-17647627,Colorado Buffaloes vs. Texas Tech Red Raiders,2026-10-03T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Colorado Buffaloes (+13.5),13.5,1.8334,4564337986,0,True
-17647627,Colorado Buffaloes vs. Texas Tech Red Raiders,2026-10-03T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Texas Tech Red Raiders (-13.5),13.5,1.8334,4564337987,0,True
-17647627,Colorado Buffaloes vs. Texas Tech Red Raiders,2026-10-03T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Colorado Buffaloes (+14.5),14.5,1.7408,4564337988,0,False
-17647627,Colorado Buffaloes vs. Texas Tech Red Raiders,2026-10-03T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Texas Tech Red Raiders (-14.5),14.5,1.9524,4564337989,0,False
+17647627,Colorado Buffaloes vs. Texas Tech Red Raiders,2026-10-03T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Colorado Buffaloes (+12.5),12.5,1.8334,4564337984,0,True
+17647627,Colorado Buffaloes vs. Texas Tech Red Raiders,2026-10-03T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Texas Tech Red Raiders (-12.5),12.5,1.8334,4564337985,0,True
+17647627,Colorado Buffaloes vs. Texas Tech Red Raiders,2026-10-03T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Colorado Buffaloes (+13.5),13.5,1.7693,4564337986,0,False
+17647627,Colorado Buffaloes vs. Texas Tech Red Raiders,2026-10-03T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Texas Tech Red Raiders (-13.5),13.5,1.9091,4564337987,0,False
+17647627,Colorado Buffaloes vs. Texas Tech Red Raiders,2026-10-03T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Colorado Buffaloes (+11.5),11.5,1.9091,4564337982,0,False
+17647627,Colorado Buffaloes vs. Texas Tech Red Raiders,2026-10-03T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Texas Tech Red Raiders (-11.5),11.5,1.7693,4564337983,0,False
 17647627,Colorado Buffaloes vs. Texas Tech Red Raiders,2026-10-03T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 49.5,49.5,1.7693,4564338293,0,False
 17647627,Colorado Buffaloes vs. Texas Tech Red Raiders,2026-10-03T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 49.5,49.5,1.9091,4564338294,0,False
 17647627,Colorado Buffaloes vs. Texas Tech Red Raiders,2026-10-03T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 50.5,50.5,1.8334,4564338295,0,True
 17647627,Colorado Buffaloes vs. Texas Tech Red Raiders,2026-10-03T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 50.5,50.5,1.8334,4564338296,0,True
 17647627,Colorado Buffaloes vs. Texas Tech Red Raiders,2026-10-03T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 51.5,51.5,1.9524,4564338297,0,False
 17647627,Colorado Buffaloes vs. Texas Tech Red Raiders,2026-10-03T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 51.5,51.5,1.7408,4564338298,0,False
-17856139,FLORIDE DU SUD vs. Temple Owls,2026-10-03T23:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,FLORIDE DU SUD,,1.3847,4565188066,0,False
-17856139,FLORIDE DU SUD vs. Temple Owls,2026-10-03T23:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Temple Owls,,2.7,4565188067,0,False
-17856139,FLORIDE DU SUD vs. Temple Owls,2026-10-03T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Temple Owls (+5.5),-5.5,1.8696,4565187680,0,False
+17856139,FLORIDE DU SUD vs. Temple Owls,2026-10-03T23:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,FLORIDE DU SUD,,1.3637,4565188066,0,False
+17856139,FLORIDE DU SUD vs. Temple Owls,2026-10-03T23:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Temple Owls,,2.8,4565188067,0,False
+17856139,FLORIDE DU SUD vs. Temple Owls,2026-10-03T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Temple Owls (+5.5),-5.5,1.9091,4565187680,0,False
 17856139,FLORIDE DU SUD vs. Temple Owls,2026-10-03T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,FLORIDE DU SUD (-7.5),-7.5,2.15,4565187681,0,False
 17856139,FLORIDE DU SUD vs. Temple Owls,2026-10-03T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Temple Owls (+7.5),-7.5,1.6451,4565187682,0,False
 17856139,FLORIDE DU SUD vs. Temple Owls,2026-10-03T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,FLORIDE DU SUD (-6.5),-6.5,1.8696,4565187844,0,True
 17856139,FLORIDE DU SUD vs. Temple Owls,2026-10-03T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Temple Owls (+6.5),-6.5,1.8,4565187845,0,True
-17856139,FLORIDE DU SUD vs. Temple Owls,2026-10-03T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,FLORIDE DU SUD (-5.5),-5.5,1.8,4565187679,0,False
+17856139,FLORIDE DU SUD vs. Temple Owls,2026-10-03T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,FLORIDE DU SUD (-5.5),-5.5,1.7693,4565187679,0,False
 17856139,FLORIDE DU SUD vs. Temple Owls,2026-10-03T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 48.5,48.5,1.8334,4565188070,0,True
 17856139,FLORIDE DU SUD vs. Temple Owls,2026-10-03T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 48.5,48.5,1.8334,4565188071,0,True
 17856139,FLORIDE DU SUD vs. Temple Owls,2026-10-03T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 49.5,49.5,1.9091,4565187912,0,False

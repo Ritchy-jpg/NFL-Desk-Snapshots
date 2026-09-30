@@ -69,12 +69,12 @@ event_id,match,player,market,market_type_id,sport_market_id,child_market_id,odd_
 16551802,HOU Texans vs. DAL Cowboys,Jaylin Noel,Total de Touchdowns du joueur (Incl. Prolongations) (Jaylin Noel (HOU)),2145,72900,1754090649,4569208972,1+,1+,4.5,0,False
 16551802,HOU Texans vs. DAL Cowboys,Jaylin Noel,Total de Touchdowns du joueur (Incl. Prolongations) (Jaylin Noel (HOU)),2145,72900,1754090649,4569208973,2+,2+,31.0,0,False
 16551802,HOU Texans vs. DAL Cowboys,Jaylin Noel,Total de Touchdowns du joueur (Incl. Prolongations) (Jaylin Noel (HOU)),2145,72900,1754090649,4569208974,3+,3+,151.0,0,False
+16551802,HOU Texans vs. DAL Cowboys,C.j Stroud,Total de Touchdowns du joueur (Incl. Prolongations) (C.j Stroud (HOU)),2145,72900,1754090467,4569208596,1+,1+,6.0,0,False
+16551802,HOU Texans vs. DAL Cowboys,C.j Stroud,Total de Touchdowns du joueur (Incl. Prolongations) (C.j Stroud (HOU)),2145,72900,1754090467,4569208597,2+,2+,41.0,0,False
+16551802,HOU Texans vs. DAL Cowboys,C.j Stroud,Total de Touchdowns du joueur (Incl. Prolongations) (C.j Stroud (HOU)),2145,72900,1754090467,4569208598,3+,3+,201.0,0,False
 16551802,HOU Texans vs. DAL Cowboys,Jared Wayne,Total de Touchdowns du joueur (Incl. Prolongations) (Jared Wayne (HOU)),2145,72900,1754090416,4569208475,1+,1+,6.5,0,False
 16551802,HOU Texans vs. DAL Cowboys,Jared Wayne,Total de Touchdowns du joueur (Incl. Prolongations) (Jared Wayne (HOU)),2145,72900,1754090416,4569208476,2+,2+,41.0,0,False
 16551802,HOU Texans vs. DAL Cowboys,Jared Wayne,Total de Touchdowns du joueur (Incl. Prolongations) (Jared Wayne (HOU)),2145,72900,1754090416,4569208477,3+,3+,201.0,0,False
-16551802,HOU Texans vs. DAL Cowboys,C.j Stroud,Total de Touchdowns du joueur (Incl. Prolongations) (C.j Stroud (HOU)),2145,72900,1754090467,4569208596,1+,1+,6.5,0,False
-16551802,HOU Texans vs. DAL Cowboys,C.j Stroud,Total de Touchdowns du joueur (Incl. Prolongations) (C.j Stroud (HOU)),2145,72900,1754090467,4569208597,2+,2+,41.0,0,False
-16551802,HOU Texans vs. DAL Cowboys,C.j Stroud,Total de Touchdowns du joueur (Incl. Prolongations) (C.j Stroud (HOU)),2145,72900,1754090467,4569208598,3+,3+,201.0,0,False
 16551802,HOU Texans vs. DAL Cowboys,Dak Prescott,Total de Touchdowns du joueur (Incl. Prolongations) (Dak Prescott (DAL)),2145,72900,1754090221,4569208004,1+,1+,7.5,0,False
 16551802,HOU Texans vs. DAL Cowboys,Dak Prescott,Total de Touchdowns du joueur (Incl. Prolongations) (Dak Prescott (DAL)),2145,72900,1754090221,4569208005,2+,2+,51.0,0,False
 16551802,HOU Texans vs. DAL Cowboys,Dak Prescott,Total de Touchdowns du joueur (Incl. Prolongations) (Dak Prescott (DAL)),2145,72900,1754090221,4569208006,3+,3+,201.0,0,False
@@ -87,6 +87,9 @@ event_id,match,player,market,market_type_id,sport_market_id,child_market_id,odd_
 16551802,HOU Texans vs. DAL Cowboys,KaVontae Turpin,Total de Touchdowns du joueur (Incl. Prolongations) (KaVontae Turpin (DAL)),2145,72900,1754090413,4569208466,1+,1+,10.0,0,False
 16551802,HOU Texans vs. DAL Cowboys,KaVontae Turpin,Total de Touchdowns du joueur (Incl. Prolongations) (KaVontae Turpin (DAL)),2145,72900,1754090413,4569208467,2+,2+,81.0,0,False
 16551802,HOU Texans vs. DAL Cowboys,KaVontae Turpin,Total de Touchdowns du joueur (Incl. Prolongations) (KaVontae Turpin (DAL)),2145,72900,1754090413,4569208468,3+,3+,201.0,0,False
+16551802,HOU Texans vs. DAL Cowboys,Emari Demercado,Total de Touchdowns du joueur (Incl. Prolongations) (Emari Demercado (DAL)),2145,72900,1754090736,4569209210,1+,1+,11.0,0,False
+16551802,HOU Texans vs. DAL Cowboys,Emari Demercado,Total de Touchdowns du joueur (Incl. Prolongations) (Emari Demercado (DAL)),2145,72900,1754090736,4569209211,2+,2+,81.0,0,False
+16551802,HOU Texans vs. DAL Cowboys,Emari Demercado,Total de Touchdowns du joueur (Incl. Prolongations) (Emari Demercado (DAL)),2145,72900,1754090736,4569209212,3+,3+,201.0,0,False
 16551802,HOU Texans vs. DAL Cowboys,Luke Schoonmaker,Total de Touchdowns du joueur (Incl. Prolongations) (Luke Schoonmaker (DAL)),2145,72900,1754090417,4569208480,3+,3+,251.0,0,False
 16551802,HOU Texans vs. DAL Cowboys,Luke Schoonmaker,Total de Touchdowns du joueur (Incl. Prolongations) (Luke Schoonmaker (DAL)),2145,72900,1754090417,4569208478,1+,1+,12.0,0,False
 16551802,HOU Texans vs. DAL Cowboys,Luke Schoonmaker,Total de Touchdowns du joueur (Incl. Prolongations) (Luke Schoonmaker (DAL)),2145,72900,1754090417,4569208479,2+,2+,91.0,0,False
@@ -96,9 +99,6 @@ event_id,match,player,market,market_type_id,sport_market_id,child_market_id,odd_
 16551802,HOU Texans vs. DAL Cowboys,Brevyn Spann-Ford,Total de Touchdowns du joueur (Incl. Prolongations) (Brevyn Spann-Ford (DAL)),2145,72900,1754090642,4569208952,2+,2+,91.0,0,False
 16551802,HOU Texans vs. DAL Cowboys,Brevyn Spann-Ford,Total de Touchdowns du joueur (Incl. Prolongations) (Brevyn Spann-Ford (DAL)),2145,72900,1754090642,4569208953,3+,3+,251.0,0,False
 16551802,HOU Texans vs. DAL Cowboys,Brevyn Spann-Ford,Total de Touchdowns du joueur (Incl. Prolongations) (Brevyn Spann-Ford (DAL)),2145,72900,1754090642,4569208951,1+,1+,12.0,0,False
-16551802,HOU Texans vs. DAL Cowboys,Emari Demercado,Total de Touchdowns du joueur (Incl. Prolongations) (Emari Demercado (DAL)),2145,72900,1754090736,4569209210,1+,1+,12.0,0,False
-16551802,HOU Texans vs. DAL Cowboys,Emari Demercado,Total de Touchdowns du joueur (Incl. Prolongations) (Emari Demercado (DAL)),2145,72900,1754090736,4569209211,2+,2+,91.0,0,False
-16551802,HOU Texans vs. DAL Cowboys,Emari Demercado,Total de Touchdowns du joueur (Incl. Prolongations) (Emari Demercado (DAL)),2145,72900,1754090736,4569209212,3+,3+,251.0,0,False
 16551802,HOU Texans vs. DAL Cowboys,Cade Stover,Total de Touchdowns du joueur (Incl. Prolongations) (Cade Stover (HOU)),2145,72900,1754090645,4569208960,1+,1+,12.0,0,False
 16551802,HOU Texans vs. DAL Cowboys,Cade Stover,Total de Touchdowns du joueur (Incl. Prolongations) (Cade Stover (HOU)),2145,72900,1754090645,4569208961,2+,2+,91.0,0,False
 16551802,HOU Texans vs. DAL Cowboys,Cade Stover,Total de Touchdowns du joueur (Incl. Prolongations) (Cade Stover (HOU)),2145,72900,1754090645,4569208962,3+,3+,251.0,0,False

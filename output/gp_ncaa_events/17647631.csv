@@ -1,15 +1,31 @@
 event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id,selection,line,price,odd_id,odd_status,is_main_bet
 17647631,Minnesota U Gophers vs. Michigan Wolverines,2026-10-03T16:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Minnesota U Gophers,,2.6,4551105618,0,False
 17647631,Minnesota U Gophers vs. Michigan Wolverines,2026-10-03T16:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Michigan Wolverines,,1.4167,4551105619,0,False
+17647631,Minnesota U Gophers vs. Michigan Wolverines,2026-10-03T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,Minnesota U Gophers (+8.5),8.5,1.5556,4551105920,0,False
+17647631,Minnesota U Gophers vs. Michigan Wolverines,2026-10-03T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,Michigan Wolverines (-8.5),8.5,2.3,4551105921,0,False
 17647631,Minnesota U Gophers vs. Michigan Wolverines,2026-10-03T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,Minnesota U Gophers (+4.5),4.5,1.9091,4551106126,0,False
 17647631,Minnesota U Gophers vs. Michigan Wolverines,2026-10-03T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,Michigan Wolverines (-4.5),4.5,1.7693,4551106127,0,False
 17647631,Minnesota U Gophers vs. Michigan Wolverines,2026-10-03T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,Minnesota U Gophers (+6.5),6.5,1.7693,4551105620,0,False
 17647631,Minnesota U Gophers vs. Michigan Wolverines,2026-10-03T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,Michigan Wolverines (-6.5),6.5,1.9091,4551105621,0,False
+17647631,Minnesota U Gophers vs. Michigan Wolverines,2026-10-03T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,Minnesota U Gophers (+2.5),2.5,2.4,4551105912,0,False
+17647631,Minnesota U Gophers vs. Michigan Wolverines,2026-10-03T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,Michigan Wolverines (-2.5),2.5,1.5264,4551105913,0,False
+17647631,Minnesota U Gophers vs. Michigan Wolverines,2026-10-03T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,Minnesota U Gophers (+3.5),3.5,2.1,4551105914,0,False
+17647631,Minnesota U Gophers vs. Michigan Wolverines,2026-10-03T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,Michigan Wolverines (-3.5),3.5,1.6667,4551105915,0,False
 17647631,Minnesota U Gophers vs. Michigan Wolverines,2026-10-03T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,Minnesota U Gophers (+5.5),5.5,1.8334,4551105916,0,True
 17647631,Minnesota U Gophers vs. Michigan Wolverines,2026-10-03T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,Michigan Wolverines (-5.5),5.5,1.8334,4551105917,0,True
-17647631,Minnesota U Gophers vs. Michigan Wolverines,2026-10-03T16:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 42.5,42.5,1.9524,4551105792,0,False
+17647631,Minnesota U Gophers vs. Michigan Wolverines,2026-10-03T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,Minnesota U Gophers (+7.5),7.5,1.625,4551105918,0,False
+17647631,Minnesota U Gophers vs. Michigan Wolverines,2026-10-03T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,Michigan Wolverines (-7.5),7.5,2.2,4551105919,0,False
+17647631,Minnesota U Gophers vs. Michigan Wolverines,2026-10-03T16:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 41.5,41.5,2.0,4551105888,0,False
 17647631,Minnesota U Gophers vs. Michigan Wolverines,2026-10-03T16:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 43.5,43.5,1.8334,4551105889,0,True
-17647631,Minnesota U Gophers vs. Michigan Wolverines,2026-10-03T16:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 43.5,43.5,1.8334,4551105890,0,True
 17647631,Minnesota U Gophers vs. Michigan Wolverines,2026-10-03T16:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 44.5,44.5,1.9524,4551105793,0,False
+17647631,Minnesota U Gophers vs. Michigan Wolverines,2026-10-03T16:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 46.5,46.5,2.15,4551105891,0,False
+17647631,Minnesota U Gophers vs. Michigan Wolverines,2026-10-03T16:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 42.5,42.5,1.9524,4551105792,0,False
+17647631,Minnesota U Gophers vs. Michigan Wolverines,2026-10-03T16:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 43.5,43.5,1.8334,4551105890,0,True
+17647631,Minnesota U Gophers vs. Michigan Wolverines,2026-10-03T16:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 41.5,41.5,1.7143,4551105887,0,False
 17647631,Minnesota U Gophers vs. Michigan Wolverines,2026-10-03T16:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 44.5,44.5,1.7408,4551105794,0,False
+17647631,Minnesota U Gophers vs. Michigan Wolverines,2026-10-03T16:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 46.5,46.5,1.6451,4551105892,0,False
+17647631,Minnesota U Gophers vs. Michigan Wolverines,2026-10-03T16:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 45.5,45.5,2.05,4551106291,0,False
+17647631,Minnesota U Gophers vs. Michigan Wolverines,2026-10-03T16:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 45.5,45.5,1.6897,4551106292,0,False
+17647631,Minnesota U Gophers vs. Michigan Wolverines,2026-10-03T16:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 40.5,40.5,1.625,4551105885,0,False
+17647631,Minnesota U Gophers vs. Michigan Wolverines,2026-10-03T16:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 40.5,40.5,2.2,4551105886,0,False
 17647631,Minnesota U Gophers vs. Michigan Wolverines,2026-10-03T16:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 42.5,42.5,1.7408,4551105791,0,False

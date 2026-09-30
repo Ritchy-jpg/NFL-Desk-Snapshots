@@ -1,9 +1,12 @@
 captured_at,event_id,match,start_date,market,selection,side,signal,old_line,new_line,old_price,new_price,old_status,new_status,old_is_main_bet,new_is_main_bet
-2026-09-30T15:18:39.159575+00:00,17626860,Tulsa Golden Hurricane vs. North Texas,2026-10-02T01:00:00Z,spread,Tulsa Golden Hurricane (-1.5),Tulsa Golden Hurricane,MAIN_PRICE_MOVE,-1.5,-1.5,1.8696,1.8334,0,0.0,1,1.0
-2026-09-30T15:18:39.159575+00:00,17626860,Tulsa Golden Hurricane vs. North Texas,2026-10-02T01:00:00Z,spread,North Texas (+1.5),North Texas,MAIN_PRICE_MOVE,1.5,1.5,1.8,1.8334,0,0.0,1,1.0
-2026-09-30T15:18:39.159575+00:00,17647632,TCU Horned Frogs vs. BYU Cougars,2026-10-03T23:00:00Z,total,Plus de 47.5,over,MAIN_PRICE_MOVE,47.5,47.5,1.8,1.8334,0,0.0,1,1.0
-2026-09-30T15:18:39.159575+00:00,17647632,TCU Horned Frogs vs. BYU Cougars,2026-10-03T23:00:00Z,total,Moins de 47.5,under,MAIN_PRICE_MOVE,47.5,47.5,1.8696,1.8334,0,0.0,1,1.0
-2026-09-30T15:18:39.159575+00:00,17647639,USC Trojans vs. Washington Huskies,2026-10-03T23:30:00Z,spread,USC Trojans (-9.5),USC Trojans,MAIN_PRICE_MOVE,-9.5,-9.5,1.8334,1.7693,0,0.0,1,1.0
-2026-09-30T15:18:39.159575+00:00,17647639,USC Trojans vs. Washington Huskies,2026-10-03T23:30:00Z,spread,Washington Huskies (+9.5),Washington Huskies,MAIN_PRICE_MOVE,9.5,9.5,1.8334,1.9091,0,0.0,1,1.0
-2026-09-30T15:18:39.159575+00:00,17647639,USC Trojans vs. Washington Huskies,2026-10-03T23:30:00Z,total,Plus de 58.5,over,MAIN_PRICE_MOVE,58.5,58.5,1.8334,1.8696,0,0.0,1,1.0
-2026-09-30T15:18:39.159575+00:00,17647639,USC Trojans vs. Washington Huskies,2026-10-03T23:30:00Z,total,Moins de 58.5,under,MAIN_PRICE_MOVE,58.5,58.5,1.8334,1.8,0,0.0,1,1.0
+2026-09-30T15:47:18.510645+00:00,17637327,Delaware Fightin Blue Hens vs. Liberty Flames,2026-10-02T23:00:00Z,spread,Delaware Fightin Blue Hens (+7.5),Delaware Fightin Blue Hens,MAIN_PRICE_MOVE,7.5,7.5,1.7693,1.8,0,0.0,1,1.0
+2026-09-30T15:47:18.510645+00:00,17637327,Delaware Fightin Blue Hens vs. Liberty Flames,2026-10-02T23:00:00Z,spread,Liberty Flames (-7.5),Liberty Flames,MAIN_PRICE_MOVE,-7.5,-7.5,1.9091,1.8696,0,0.0,1,1.0
+2026-09-30T15:47:18.510645+00:00,17637327,Delaware Fightin Blue Hens vs. Liberty Flames,2026-10-02T23:00:00Z,total,Plus de 49.5,over,MAIN_SWITCH,49.5,49.5,1.8,1.8,0,0.0,0,1.0
+2026-09-30T15:47:18.510645+00:00,17637327,Delaware Fightin Blue Hens vs. Liberty Flames,2026-10-02T23:00:00Z,total,Moins de 49.5,under,MAIN_SWITCH,49.5,49.5,1.8696,1.8696,0,0.0,0,1.0
+2026-09-30T15:47:18.510645+00:00,17637327,Delaware Fightin Blue Hens vs. Liberty Flames,2026-10-02T23:00:00Z,total,Plus de 50.5,over,MAIN_SWITCH,50.5,50.5,1.8696,1.8696,0,0.0,1,0.0
+2026-09-30T15:47:18.510645+00:00,17637327,Delaware Fightin Blue Hens vs. Liberty Flames,2026-10-02T23:00:00Z,total,Moins de 50.5,under,MAIN_SWITCH,50.5,50.5,1.8,1.8,0,0.0,1,0.0
+2026-09-30T15:47:18.510645+00:00,17883281,LSU Tigers vs. McNeese State Cowboys,2026-10-03T23:45:00Z,moneyline,McNeese State Cowboys,McNeese State Cowboys,STATUS_CHANGE,,,11.0,11.0,0,7.0,0,0.0
+2026-09-30T15:47:18.510645+00:00,17883281,LSU Tigers vs. McNeese State Cowboys,2026-10-03T23:45:00Z,spread,LSU Tigers (-51.5),LSU Tigers,STATUS_CHANGE,-51.5,-51.5,1.8334,1.8334,0,7.0,1,1.0
+2026-09-30T15:47:18.510645+00:00,17883281,LSU Tigers vs. McNeese State Cowboys,2026-10-03T23:45:00Z,spread,McNeese State Cowboys (+51.5),McNeese State Cowboys,STATUS_CHANGE,51.5,51.5,1.8334,1.8334,0,7.0,1,1.0
+2026-09-30T15:47:18.510645+00:00,17883281,LSU Tigers vs. McNeese State Cowboys,2026-10-03T23:45:00Z,total,Moins de 61.5,under,STATUS_CHANGE,61.5,61.5,1.8,1.8,0,7.0,1,1.0
+2026-09-30T15:47:18.510645+00:00,17883281,LSU Tigers vs. McNeese State Cowboys,2026-10-03T23:45:00Z,total,Plus de 61.5,over,STATUS_CHANGE,61.5,61.5,1.8696,1.8696,0,7.0,1,1.0

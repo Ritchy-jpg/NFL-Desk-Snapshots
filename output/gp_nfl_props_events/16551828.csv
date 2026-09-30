@@ -29,6 +29,9 @@ event_id,match,player,market,market_type_id,sport_market_id,child_market_id,odd_
 16551828,MIN Vikings	 vs. MIA Dolphins,Malik Washington,Total de Touchdowns du joueur (Incl. Prolongations) (Malik Washington (MIA)),2145,72900,1756567636,4577195428,1+,1+,4.25,0,False
 16551828,MIN Vikings	 vs. MIA Dolphins,Malik Washington,Total de Touchdowns du joueur (Incl. Prolongations) (Malik Washington (MIA)),2145,72900,1756567636,4577195429,2+,2+,26.0,0,False
 16551828,MIN Vikings	 vs. MIA Dolphins,Malik Washington,Total de Touchdowns du joueur (Incl. Prolongations) (Malik Washington (MIA)),2145,72900,1756567636,4577195430,3+,3+,101.0,0,False
+16551828,MIN Vikings	 vs. MIA Dolphins,Chris Bell,Total de Touchdowns du joueur (Incl. Prolongations) (Chris Bell (MIA)),2145,72900,1756567488,4577195044,1+,1+,4.25,0,False
+16551828,MIN Vikings	 vs. MIA Dolphins,Chris Bell,Total de Touchdowns du joueur (Incl. Prolongations) (Chris Bell (MIA)),2145,72900,1756567488,4577195045,2+,2+,26.0,0,False
+16551828,MIN Vikings	 vs. MIA Dolphins,Chris Bell,Total de Touchdowns du joueur (Incl. Prolongations) (Chris Bell (MIA)),2145,72900,1756567488,4577195046,3+,3+,101.0,0,False
 16551828,MIN Vikings	 vs. MIA Dolphins,Malik Willis,Total de Touchdowns du joueur (Incl. Prolongations) (Malik Willis (MIA)),2145,72900,1756567535,4577195194,1+,1+,5.0,0,False
 16551828,MIN Vikings	 vs. MIA Dolphins,Malik Willis,Total de Touchdowns du joueur (Incl. Prolongations) (Malik Willis (MIA)),2145,72900,1756567535,4577195195,2+,2+,36.0,0,False
 16551828,MIN Vikings	 vs. MIA Dolphins,Malik Willis,Total de Touchdowns du joueur (Incl. Prolongations) (Malik Willis (MIA)),2145,72900,1756567535,4577195196,3+,3+,151.0,0,False
@@ -44,9 +47,6 @@ event_id,match,player,market,market_type_id,sport_market_id,child_market_id,odd_
 16551828,MIN Vikings	 vs. MIA Dolphins,Greg Dulcich,Total de Touchdowns du joueur (Incl. Prolongations) (Greg Dulcich (MIA)),2145,72900,1756567532,4577195185,1+,1+,7.0,0,False
 16551828,MIN Vikings	 vs. MIA Dolphins,Greg Dulcich,Total de Touchdowns du joueur (Incl. Prolongations) (Greg Dulcich (MIA)),2145,72900,1756567532,4577195186,2+,2+,51.0,0,False
 16551828,MIN Vikings	 vs. MIA Dolphins,Greg Dulcich,Total de Touchdowns du joueur (Incl. Prolongations) (Greg Dulcich (MIA)),2145,72900,1756567532,4577195187,3+,3+,201.0,0,False
-16551828,MIN Vikings	 vs. MIA Dolphins,Chris Bell,Total de Touchdowns du joueur (Incl. Prolongations) (Chris Bell (MIA)),2145,72900,1756567488,4577195044,1+,1+,9.0,0,False
-16551828,MIN Vikings	 vs. MIA Dolphins,Chris Bell,Total de Touchdowns du joueur (Incl. Prolongations) (Chris Bell (MIA)),2145,72900,1756567488,4577195045,2+,2+,71.0,0,False
-16551828,MIN Vikings	 vs. MIA Dolphins,Chris Bell,Total de Touchdowns du joueur (Incl. Prolongations) (Chris Bell (MIA)),2145,72900,1756567488,4577195046,3+,3+,201.0,0,False
 16551828,MIN Vikings	 vs. MIA Dolphins,Gavin Bartholomew,Total de Touchdowns du joueur (Incl. Prolongations) (Gavin Bartholomew (MIN)),2145,72900,1756567373,4577194684,1+,1+,9.0,0,False
 16551828,MIN Vikings	 vs. MIA Dolphins,Gavin Bartholomew,Total de Touchdowns du joueur (Incl. Prolongations) (Gavin Bartholomew (MIN)),2145,72900,1756567373,4577194685,2+,2+,71.0,0,False
 16551828,MIN Vikings	 vs. MIA Dolphins,Gavin Bartholomew,Total de Touchdowns du joueur (Incl. Prolongations) (Gavin Bartholomew (MIN)),2145,72900,1756567373,4577194686,3+,3+,201.0,0,False
@@ -125,6 +125,10 @@ event_id,match,player,market,market_type_id,sport_market_id,child_market_id,odd_
 16551828,MIN Vikings	 vs. MIA Dolphins,Kyler Murray,Joueur Plus longue passe complétée (prolongations incluses) ,2001,72292,1753880165,4568359959,Kyler Murray (MIN) moins de 36.5,Kyler Murray (MIN) moins de 36.5,1.7693,0,False
 16551828,MIN Vikings	 vs. MIA Dolphins,Malik Willis,Joueur Plus longue passe complétée (prolongations incluses) ,2001,72292,1755760075,4574100156,Malik Willis (MIA) Plus de 33.5,Malik Willis (MIA) Plus de 33.5,1.8,0,False
 16551828,MIN Vikings	 vs. MIA Dolphins,Malik Willis,Joueur Plus longue passe complétée (prolongations incluses) ,2001,72292,1755760075,4574100157,Malik Willis (MIA) moins de 33.5,Malik Willis (MIA) moins de 33.5,1.8334,0,False
+16551828,MIN Vikings	 vs. MIA Dolphins,Will Reichard,Points de tir du joueur Plus/Moins (prolongations incluses) ,2003,72294,1755570359,4573607936,Will Reichard (MIN) moins de 7.5,Will Reichard (MIN) moins de 7.5,1.7693,0,False
+16551828,MIN Vikings	 vs. MIA Dolphins,Will Reichard,Points de tir du joueur Plus/Moins (prolongations incluses) ,2003,72294,1755570359,4573607935,Will Reichard (MIN) Plus de 7.5,Will Reichard (MIN) Plus de 7.5,1.8696,0,False
+16551828,MIN Vikings	 vs. MIA Dolphins,Will Reichard,Field goals du joueur (prolongations incluses) ,769,71927,1753412006,4566965048,Will Reichard (MIN) Plus de 1.5,Will Reichard (MIN) Plus de 1.5,1.7693,0,False
+16551828,MIN Vikings	 vs. MIA Dolphins,Will Reichard,Field goals du joueur (prolongations incluses) ,769,71927,1753412006,4566965049,Will Reichard (MIN) moins de 1.5,Will Reichard (MIN) moins de 1.5,1.8696,0,False
 16551828,MIN Vikings	 vs. MIA Dolphins,Aaron Jones,1ère mi-temps - Touchdowns de course du joueur Plus / Moins,31473,77067,1753411574,4566964292,Aaron Jones (MIN) Plus de 0.5,Aaron Jones (MIN) Plus de 0.5,3.25,0,False
 16551828,MIN Vikings	 vs. MIA Dolphins,Aaron Jones,1ère mi-temps - Touchdowns de course du joueur Plus / Moins,31473,77067,1753411574,4566964293,Aaron Jones (MIN) moins de 0.5,Aaron Jones (MIN) moins de 0.5,1.25,0,False
 16551828,MIN Vikings	 vs. MIA Dolphins,Kyler Murray,1ère mi-temps - Touchdowns de course du joueur Plus / Moins,31473,77067,1753411667,4566964458,Kyler Murray (MIN) Plus de 0.5,Kyler Murray (MIN) Plus de 0.5,5.0,0,False

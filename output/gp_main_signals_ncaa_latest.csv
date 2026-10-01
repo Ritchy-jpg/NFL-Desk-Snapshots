@@ -1,13 +1,23 @@
 captured_at,event_id,match,start_date,market,selection,side,signal,old_line,new_line,old_price,new_price,old_status,new_status,old_is_main_bet,new_is_main_bet
-2026-10-01T20:15:11.731381+00:00,17626860,Tulsa Golden Hurricane vs. North Texas,2026-10-02T01:00:00Z,spread,Tulsa Golden Hurricane (+2.5),Tulsa Golden Hurricane,MAIN_SWITCH,2.5,2.5,1.8,1.8,0,0.0,1,0.0
-2026-10-01T20:15:11.731381+00:00,17626860,Tulsa Golden Hurricane vs. North Texas,2026-10-02T01:00:00Z,spread,Tulsa Golden Hurricane (-13.5),Tulsa Golden Hurricane,STATUS_CHANGE,-13.5,-13.5,5.5,5.5,0,7.0,0,0.0
-2026-10-01T20:15:11.731381+00:00,17626860,Tulsa Golden Hurricane vs. North Texas,2026-10-02T01:00:00Z,spread,North Texas (-2.5),North Texas,MAIN_SWITCH,-2.5,-2.5,1.8696,1.8696,0,0.0,1,0.0
-2026-10-01T20:15:11.731381+00:00,17626860,Tulsa Golden Hurricane vs. North Texas,2026-10-02T01:00:00Z,spread,North Texas (+13.5),North Texas,STATUS_CHANGE,13.5,13.5,1.125,1.125,0,7.0,0,0.0
-2026-10-01T20:15:11.731381+00:00,17647627,Colorado Buffaloes vs. Texas Tech Red Raiders,2026-10-03T23:30:00Z,total,Plus de 50.5,over,MAIN_PRICE_MOVE,50.5,50.5,1.8334,1.8696,0,0.0,1,1.0
-2026-10-01T20:15:11.731381+00:00,17647627,Colorado Buffaloes vs. Texas Tech Red Raiders,2026-10-03T23:30:00Z,total,Moins de 50.5,under,MAIN_PRICE_MOVE,50.5,50.5,1.8334,1.8,0,0.0,1,1.0
-2026-10-01T20:15:11.731381+00:00,17861690,Louisiana-Lafayette Ragin Cajuns vs. Arkansas St Red Wolves,2026-10-04T00:00:00Z,spread,Louisiana-Lafayette Ragin Cajuns (-6.5),Louisiana-Lafayette Ragin Cajuns,MAIN_PRICE_MOVE,-6.5,-6.5,1.8,1.8334,0,0.0,1,1.0
-2026-10-01T20:15:11.731381+00:00,17861690,Louisiana-Lafayette Ragin Cajuns vs. Arkansas St Red Wolves,2026-10-04T00:00:00Z,spread,Arkansas St Red Wolves (+6.5),Arkansas St Red Wolves,MAIN_PRICE_MOVE,6.5,6.5,1.8696,1.8334,0,0.0,1,1.0
-2026-10-01T20:15:11.731381+00:00,17861690,Louisiana-Lafayette Ragin Cajuns vs. Arkansas St Red Wolves,2026-10-04T00:00:00Z,total,Plus de 47.5,over,MAIN_PRICE_MOVE,47.5,47.5,1.8334,1.8,0,0.0,1,1.0
-2026-10-01T20:15:11.731381+00:00,17861690,Louisiana-Lafayette Ragin Cajuns vs. Arkansas St Red Wolves,2026-10-04T00:00:00Z,total,Moins de 47.5,under,MAIN_PRICE_MOVE,47.5,47.5,1.8334,1.8696,0,0.0,1,1.0
-2026-10-01T20:15:11.731381+00:00,17647652,San Diego State Aztecs vs. Texas State Bobcats,2026-10-04T02:30:00Z,total,Plus de 57.5,over,MAIN_PRICE_MOVE,57.5,57.5,1.8,1.8334,0,0.0,1,1.0
-2026-10-01T20:15:11.731381+00:00,17647652,San Diego State Aztecs vs. Texas State Bobcats,2026-10-04T02:30:00Z,total,Moins de 57.5,under,MAIN_PRICE_MOVE,57.5,57.5,1.8696,1.8334,0,0.0,1,1.0
+2026-10-01T20:45:06.243123+00:00,17626860,Tulsa Golden Hurricane vs. North Texas,2026-10-02T01:00:00Z,spread,Tulsa Golden Hurricane (+2.5),Tulsa Golden Hurricane,MAIN_SWITCH,2.5,2.5,1.8,1.8,0,0.0,0,1.0
+2026-10-01T20:45:06.243123+00:00,17626860,Tulsa Golden Hurricane vs. North Texas,2026-10-02T01:00:00Z,spread,Tulsa Golden Hurricane (-13.5),Tulsa Golden Hurricane,STATUS_CHANGE,-13.5,-13.5,5.5,5.5,7,0.0,0,0.0
+2026-10-01T20:45:06.243123+00:00,17626860,Tulsa Golden Hurricane vs. North Texas,2026-10-02T01:00:00Z,spread,North Texas (-2.5),North Texas,MAIN_SWITCH,-2.5,-2.5,1.8696,1.8696,0,0.0,0,1.0
+2026-10-01T20:45:06.243123+00:00,17626860,Tulsa Golden Hurricane vs. North Texas,2026-10-02T01:00:00Z,spread,North Texas (+13.5),North Texas,STATUS_CHANGE,13.5,13.5,1.125,1.125,7,0.0,0,0.0
+2026-10-01T20:45:06.243123+00:00,17637326,Virginia Tech Hokies vs. Pittsburgh Panthers,2026-10-02T23:00:00Z,spread,Virginia Tech Hokies (-2.5),Virginia Tech Hokies,MAIN_PRICE_MOVE,-2.5,-2.5,1.7693,1.8,0,0.0,1,1.0
+2026-10-01T20:45:06.243123+00:00,17637326,Virginia Tech Hokies vs. Pittsburgh Panthers,2026-10-02T23:00:00Z,spread,Pittsburgh Panthers (+2.5),Pittsburgh Panthers,MAIN_PRICE_MOVE,2.5,2.5,1.9091,1.8696,0,0.0,1,1.0
+2026-10-01T20:45:06.243123+00:00,17879269,Idaho Vandals vs. Montana State Bobcats,2026-10-03T02:30:00Z,moneyline,Idaho Vandals,Idaho Vandals,STATUS_CHANGE,,,5.25,5.25,0,7.0,0,0.0
+2026-10-01T20:45:06.243123+00:00,17879269,Idaho Vandals vs. Montana State Bobcats,2026-10-03T02:30:00Z,moneyline,Montana State Bobcats,Montana State Bobcats,STATUS_CHANGE,,,1.1112,1.1112,0,7.0,0,0.0
+2026-10-01T20:45:06.243123+00:00,17879269,Idaho Vandals vs. Montana State Bobcats,2026-10-03T02:30:00Z,spread,Idaho Vandals (+15.5),Idaho Vandals,STATUS_CHANGE,15.5,15.5,1.8696,1.8696,0,7.0,1,1.0
+2026-10-01T20:45:06.243123+00:00,17879269,Idaho Vandals vs. Montana State Bobcats,2026-10-03T02:30:00Z,spread,Montana State Bobcats (-15.5),Montana State Bobcats,STATUS_CHANGE,-15.5,-15.5,1.8,1.8,0,7.0,1,1.0
+2026-10-01T20:45:06.243123+00:00,17879269,Idaho Vandals vs. Montana State Bobcats,2026-10-03T02:30:00Z,total,Plus de 57.5,over,STATUS_CHANGE,57.5,57.5,1.8,1.8,0,7.0,1,1.0
+2026-10-01T20:45:06.243123+00:00,17879269,Idaho Vandals vs. Montana State Bobcats,2026-10-03T02:30:00Z,total,Moins de 57.5,under,STATUS_CHANGE,57.5,57.5,1.8696,1.8696,0,7.0,1,1.0
+2026-10-01T20:45:06.243123+00:00,17647624,Wake Forest Demon Deacons vs. Stanford Cardinal,2026-10-03T16:00:00Z,total,Plus de 53.5,over,MAIN_PRICE_MOVE,53.5,53.5,1.8334,1.8,0,0.0,1,1.0
+2026-10-01T20:45:06.243123+00:00,17647624,Wake Forest Demon Deacons vs. Stanford Cardinal,2026-10-03T16:00:00Z,total,Moins de 53.5,under,MAIN_PRICE_MOVE,53.5,53.5,1.8334,1.8696,0,0.0,1,1.0
+2026-10-01T20:45:06.243123+00:00,17647641,Florida State Seminoles vs. Virginia Cavaliers,2026-10-03T19:30:00Z,total,Plus de 51.5,over,MAIN_PRICE_MOVE,51.5,51.5,1.8696,1.8334,0,0.0,1,1.0
+2026-10-01T20:45:06.243123+00:00,17647641,Florida State Seminoles vs. Virginia Cavaliers,2026-10-03T19:30:00Z,total,Moins de 51.5,under,MAIN_PRICE_MOVE,51.5,51.5,1.8,1.8334,0,0.0,1,1.0
+2026-10-01T20:45:06.243123+00:00,17647646,Rutgers Scarlet Knights vs. Indiana Hoosiers,2026-10-04T00:00:00Z,spread,Rutgers Scarlet Knights (+23.5),Rutgers Scarlet Knights,MAIN_SWITCH,23.5,23.5,1.8696,1.8696,0,0.0,0,1.0
+2026-10-01T20:45:06.243123+00:00,17647646,Rutgers Scarlet Knights vs. Indiana Hoosiers,2026-10-04T00:00:00Z,spread,Indiana Hoosiers (-23.5),Indiana Hoosiers,MAIN_SWITCH,-23.5,-23.5,1.8,1.8,0,0.0,0,1.0
+2026-10-01T20:45:06.243123+00:00,17647646,Rutgers Scarlet Knights vs. Indiana Hoosiers,2026-10-04T00:00:00Z,spread,Rutgers Scarlet Knights (+24.5),Rutgers Scarlet Knights,MAIN_SWITCH,24.5,24.5,1.8,1.8,0,0.0,1,0.0
+2026-10-01T20:45:06.243123+00:00,17647646,Rutgers Scarlet Knights vs. Indiana Hoosiers,2026-10-04T00:00:00Z,spread,Indiana Hoosiers (-24.5),Indiana Hoosiers,MAIN_SWITCH,-24.5,-24.5,1.8696,1.8696,0,0.0,1,0.0
+2026-10-01T20:45:06.243123+00:00,17647652,San Diego State Aztecs vs. Texas State Bobcats,2026-10-04T02:30:00Z,spread,San Diego State Aztecs (+7.5),San Diego State Aztecs,MAIN_PRICE_MOVE,7.5,7.5,1.8334,1.8696,0,0.0,1,1.0
+2026-10-01T20:45:06.243123+00:00,17647652,San Diego State Aztecs vs. Texas State Bobcats,2026-10-04T02:30:00Z,spread,Texas State Bobcats (-7.5),Texas State Bobcats,MAIN_PRICE_MOVE,-7.5,-7.5,1.8334,1.8,0,0.0,1,1.0

@@ -1,6 +1,22 @@
 event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id,selection,line,price,odd_id,odd_status,is_main_bet
 17861506,Miami Redhawks vs. Bowling Green Falcons,2026-10-03T19:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Miami Redhawks,,1.1539,4567484908,0,False
 17861506,Miami Redhawks vs. Bowling Green Falcons,2026-10-03T19:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Bowling Green Falcons,,4.5,4567484909,0,False
+17861506,Miami Redhawks vs. Bowling Green Falcons,2026-10-03T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Miami Redhawks (-19.5),-19.5,2.55,4567484928,0,False
+17861506,Miami Redhawks vs. Bowling Green Falcons,2026-10-03T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Bowling Green Falcons (+19.5),-19.5,1.4762,4567484929,0,False
+17861506,Miami Redhawks vs. Bowling Green Falcons,2026-10-03T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Miami Redhawks (-20.5),-20.5,2.65,4567484930,0,False
+17861506,Miami Redhawks vs. Bowling Green Falcons,2026-10-03T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Bowling Green Falcons (+20.5),-20.5,1.4348,4567484931,0,False
+17861506,Miami Redhawks vs. Bowling Green Falcons,2026-10-03T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Miami Redhawks (-21.5),-21.5,2.85,4567484932,0,False
+17861506,Miami Redhawks vs. Bowling Green Falcons,2026-10-03T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Bowling Green Falcons (+21.5),-21.5,1.3847,4567484933,0,False
+17861506,Miami Redhawks vs. Bowling Green Falcons,2026-10-03T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Miami Redhawks (-5.5),-5.5,1.3572,4567484942,0,False
+17861506,Miami Redhawks vs. Bowling Green Falcons,2026-10-03T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Bowling Green Falcons (+5.5),-5.5,3.0,4567484943,0,False
+17861506,Miami Redhawks vs. Bowling Green Falcons,2026-10-03T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Miami Redhawks (-6.5),-6.5,1.4,4567484944,0,False
+17861506,Miami Redhawks vs. Bowling Green Falcons,2026-10-03T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Bowling Green Falcons (+6.5),-6.5,2.75,4567484945,0,False
+17861506,Miami Redhawks vs. Bowling Green Falcons,2026-10-03T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Miami Redhawks (-7.5),-7.5,1.5455,4567484946,0,False
+17861506,Miami Redhawks vs. Bowling Green Falcons,2026-10-03T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Bowling Green Falcons (+7.5),-7.5,2.35,4567484947,0,False
+17861506,Miami Redhawks vs. Bowling Green Falcons,2026-10-03T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Miami Redhawks (-8.5),-8.5,1.5556,4567484948,0,False
+17861506,Miami Redhawks vs. Bowling Green Falcons,2026-10-03T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Bowling Green Falcons (+8.5),-8.5,2.3,4567484949,0,False
+17861506,Miami Redhawks vs. Bowling Green Falcons,2026-10-03T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Miami Redhawks (-9.5),-9.5,1.625,4567484950,0,False
+17861506,Miami Redhawks vs. Bowling Green Falcons,2026-10-03T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Bowling Green Falcons (+9.5),-9.5,2.2,4567484951,0,False
 17861506,Miami Redhawks vs. Bowling Green Falcons,2026-10-03T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Miami Redhawks (-10.5),-10.5,1.6897,4567484910,0,False
 17861506,Miami Redhawks vs. Bowling Green Falcons,2026-10-03T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Bowling Green Falcons (+10.5),-10.5,2.05,4567484911,0,False
 17861506,Miami Redhawks vs. Bowling Green Falcons,2026-10-03T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Miami Redhawks (-11.5),-11.5,1.7408,4567484912,0,False
@@ -15,17 +31,41 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17861506,Miami Redhawks vs. Bowling Green Falcons,2026-10-03T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Bowling Green Falcons (+15.5),-15.5,1.6667,4567484921,0,False
 17861506,Miami Redhawks vs. Bowling Green Falcons,2026-10-03T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Miami Redhawks (-16.5),-16.5,2.15,4567484922,0,False
 17861506,Miami Redhawks vs. Bowling Green Falcons,2026-10-03T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Bowling Green Falcons (+16.5),-16.5,1.6451,4567484923,0,False
-17861506,Miami Redhawks vs. Bowling Green Falcons,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 39.5,39.5,1.625,4567484960,0,False
-17861506,Miami Redhawks vs. Bowling Green Falcons,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 39.5,39.5,2.2,4567484961,0,False
-17861506,Miami Redhawks vs. Bowling Green Falcons,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 40.5,40.5,1.6667,4567484970,0,False
-17861506,Miami Redhawks vs. Bowling Green Falcons,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 40.5,40.5,2.1,4567484971,0,False
-17861506,Miami Redhawks vs. Bowling Green Falcons,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 41.5,41.5,1.7408,4567484972,0,False
-17861506,Miami Redhawks vs. Bowling Green Falcons,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 41.5,41.5,1.9524,4567484973,0,False
-17861506,Miami Redhawks vs. Bowling Green Falcons,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 42.5,42.5,1.8,4567484974,0,True
-17861506,Miami Redhawks vs. Bowling Green Falcons,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 42.5,42.5,1.8696,4567484975,0,True
-17861506,Miami Redhawks vs. Bowling Green Falcons,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 43.5,43.5,1.9091,4567484976,0,False
-17861506,Miami Redhawks vs. Bowling Green Falcons,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 43.5,43.5,1.7693,4567484977,0,False
-17861506,Miami Redhawks vs. Bowling Green Falcons,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 44.5,44.5,2.0,4567484978,0,False
-17861506,Miami Redhawks vs. Bowling Green Falcons,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 44.5,44.5,1.7143,4567484979,0,False
+17861506,Miami Redhawks vs. Bowling Green Falcons,2026-10-03T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Miami Redhawks (-17.5),-17.5,2.3,4567484924,0,False
+17861506,Miami Redhawks vs. Bowling Green Falcons,2026-10-03T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Bowling Green Falcons (+17.5),-17.5,1.5556,4567484925,0,False
+17861506,Miami Redhawks vs. Bowling Green Falcons,2026-10-03T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Miami Redhawks (-18.5),-18.5,2.4,4567484926,0,False
+17861506,Miami Redhawks vs. Bowling Green Falcons,2026-10-03T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Bowling Green Falcons (+18.5),-18.5,1.5264,4567484927,0,False
+17861506,Miami Redhawks vs. Bowling Green Falcons,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 37.5,37.5,1.5,4567484952,0,False
+17861506,Miami Redhawks vs. Bowling Green Falcons,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 37.5,37.5,2.5,4567484953,0,False
 17861506,Miami Redhawks vs. Bowling Green Falcons,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 45.5,45.5,2.2,4567484954,0,False
 17861506,Miami Redhawks vs. Bowling Green Falcons,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 45.5,45.5,1.625,4567484955,0,False
+17861506,Miami Redhawks vs. Bowling Green Falcons,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 49.5,49.5,2.65,4567484956,0,False
+17861506,Miami Redhawks vs. Bowling Green Falcons,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 49.5,49.5,1.4348,4567484957,0,False
+17861506,Miami Redhawks vs. Bowling Green Falcons,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 38.5,38.5,1.5556,4567484958,0,False
+17861506,Miami Redhawks vs. Bowling Green Falcons,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 38.5,38.5,2.3,4567484959,0,False
+17861506,Miami Redhawks vs. Bowling Green Falcons,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 39.5,39.5,1.625,4567484960,0,False
+17861506,Miami Redhawks vs. Bowling Green Falcons,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 39.5,39.5,2.2,4567484961,0,False
+17861506,Miami Redhawks vs. Bowling Green Falcons,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 35.5,35.5,1.3847,4569491618,0,False
+17861506,Miami Redhawks vs. Bowling Green Falcons,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 47.5,47.5,2.35,4567484962,0,False
+17861506,Miami Redhawks vs. Bowling Green Falcons,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 35.5,35.5,2.85,4569491619,0,False
+17861506,Miami Redhawks vs. Bowling Green Falcons,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 47.5,47.5,1.5455,4567484963,0,False
+17861506,Miami Redhawks vs. Bowling Green Falcons,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 36.5,36.5,1.4167,4567484968,0,False
+17861506,Miami Redhawks vs. Bowling Green Falcons,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 36.5,36.5,2.7,4567484969,0,False
+17861506,Miami Redhawks vs. Bowling Green Falcons,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 34.5,34.5,1.3572,4569527338,0,False
+17861506,Miami Redhawks vs. Bowling Green Falcons,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 40.5,40.5,1.6667,4567484970,0,False
+17861506,Miami Redhawks vs. Bowling Green Falcons,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 41.5,41.5,1.7408,4567484972,0,False
+17861506,Miami Redhawks vs. Bowling Green Falcons,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 34.5,34.5,3.0,4569527339,0,False
+17861506,Miami Redhawks vs. Bowling Green Falcons,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 42.5,42.5,1.8,4567484974,0,True
+17861506,Miami Redhawks vs. Bowling Green Falcons,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 40.5,40.5,2.1,4567484971,0,False
+17861506,Miami Redhawks vs. Bowling Green Falcons,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 43.5,43.5,1.9091,4567484976,0,False
+17861506,Miami Redhawks vs. Bowling Green Falcons,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 41.5,41.5,1.9524,4567484973,0,False
+17861506,Miami Redhawks vs. Bowling Green Falcons,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 44.5,44.5,2.0,4567484978,0,False
+17861506,Miami Redhawks vs. Bowling Green Falcons,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 42.5,42.5,1.8696,4567484975,0,True
+17861506,Miami Redhawks vs. Bowling Green Falcons,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 46.5,46.5,2.2,4567484980,0,False
+17861506,Miami Redhawks vs. Bowling Green Falcons,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 43.5,43.5,1.7693,4567484977,0,False
+17861506,Miami Redhawks vs. Bowling Green Falcons,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 48.5,48.5,2.55,4567484982,0,False
+17861506,Miami Redhawks vs. Bowling Green Falcons,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 44.5,44.5,1.7143,4567484979,0,False
+17861506,Miami Redhawks vs. Bowling Green Falcons,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 50.5,50.5,2.75,4567484984,0,False
+17861506,Miami Redhawks vs. Bowling Green Falcons,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 46.5,46.5,1.625,4567484981,0,False
+17861506,Miami Redhawks vs. Bowling Green Falcons,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 48.5,48.5,1.4762,4567484983,0,False
+17861506,Miami Redhawks vs. Bowling Green Falcons,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 50.5,50.5,1.4,4567484985,0,False

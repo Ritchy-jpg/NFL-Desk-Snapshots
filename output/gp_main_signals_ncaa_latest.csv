@@ -1,3 +1,5 @@
 captured_at,event_id,match,start_date,market,selection,side,signal,old_line,new_line,old_price,new_price,old_status,new_status,old_is_main_bet,new_is_main_bet
-2026-10-01T12:50:45.551609+00:00,17626860,Tulsa Golden Hurricane vs. North Texas,2026-10-02T01:00:00Z,spread,Tulsa Golden Hurricane (+16.5),Tulsa Golden Hurricane,STATUS_CHANGE,16.5,16.5,1.125,1.125,0,7,0,0
-2026-10-01T12:50:45.551609+00:00,17626860,Tulsa Golden Hurricane vs. North Texas,2026-10-02T01:00:00Z,spread,North Texas (-16.5),North Texas,STATUS_CHANGE,-16.5,-16.5,5.5,5.5,0,7,0,0
+2026-10-01T13:18:30.859404+00:00,17626861,New Mexico St Aggies vs. Western Kentucky Hilltoppers,2026-10-02T00:00:00Z,total,Plus de 56.5,over,MAIN_SWITCH,56.5,56.5,1.8,1.8,0,0.0,1,0.0
+2026-10-01T13:18:30.859404+00:00,17626861,New Mexico St Aggies vs. Western Kentucky Hilltoppers,2026-10-02T00:00:00Z,total,Moins de 56.5,under,MAIN_SWITCH,56.5,56.5,1.8696,1.8696,0,0.0,1,0.0
+2026-10-01T13:18:30.859404+00:00,17626861,New Mexico St Aggies vs. Western Kentucky Hilltoppers,2026-10-02T00:00:00Z,total,Plus de 57.5,over,MAIN_SWITCH,57.5,57.5,1.8696,1.8696,0,0.0,0,1.0
+2026-10-01T13:18:30.859404+00:00,17626861,New Mexico St Aggies vs. Western Kentucky Hilltoppers,2026-10-02T00:00:00Z,total,Moins de 57.5,under,MAIN_SWITCH,57.5,57.5,1.8,1.8,0,0.0,0,1.0

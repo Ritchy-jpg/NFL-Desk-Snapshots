@@ -52,7 +52,7 @@ event_id,match,player,market,market_type_id,sport_market_id,child_market_id,odd_
 16551834,LV Raiders vs. KC Chiefs,Xavier Worthy,Total de Touchdowns du joueur (Incl. Prolongations) (Xavier Worthy (KC)),2145,72900,1754397531,4569950897,2+,2+,15.0,0,False
 16551834,LV Raiders vs. KC Chiefs,Xavier Worthy,Total de Touchdowns du joueur (Incl. Prolongations) (Xavier Worthy (KC)),2145,72900,1754397531,4569950898,3+,3+,91.0,0,False
 16551834,LV Raiders vs. KC Chiefs,Tre Tucker,Total de Touchdowns du joueur (Incl. Prolongations) (Tre Tucker (LVR)),2145,72900,1755292032,4572910472,1+,1+,3.85,0,False
-16551834,LV Raiders vs. KC Chiefs,Tre Tucker,Total de Touchdowns du joueur (Incl. Prolongations) (Tre Tucker (LVR)),2145,72900,1755292032,4572910473,2+,2+,21.0,0,False
+16551834,LV Raiders vs. KC Chiefs,Tre Tucker,Total de Touchdowns du joueur (Incl. Prolongations) (Tre Tucker (LVR)),2145,72900,1755292032,4572910473,2+,2+,26.0,0,False
 16551834,LV Raiders vs. KC Chiefs,Tre Tucker,Total de Touchdowns du joueur (Incl. Prolongations) (Tre Tucker (LVR)),2145,72900,1755292032,4572910474,3+,3+,101.0,0,False
 16551834,LV Raiders vs. KC Chiefs,Emmett Johnson,Total de Touchdowns du joueur (Incl. Prolongations) (Emmett Johnson (KC)),2145,72900,1755291943,4572910261,1+,1+,4.0,0,False
 16551834,LV Raiders vs. KC Chiefs,Emmett Johnson,Total de Touchdowns du joueur (Incl. Prolongations) (Emmett Johnson (KC)),2145,72900,1755291943,4572910262,2+,2+,26.0,0,False
@@ -66,12 +66,12 @@ event_id,match,player,market,market_type_id,sport_market_id,child_market_id,odd_
 16551834,LV Raiders vs. KC Chiefs,Michael Mayer,Total de Touchdowns du joueur (Incl. Prolongations) (Michael Mayer (LVR)),2145,72900,1755291340,4572908560,2+,2+,31.0,0,False
 16551834,LV Raiders vs. KC Chiefs,Michael Mayer,Total de Touchdowns du joueur (Incl. Prolongations) (Michael Mayer (LVR)),2145,72900,1755291340,4572908561,3+,3+,151.0,0,False
 16551834,LV Raiders vs. KC Chiefs,Michael Mayer,Total de Touchdowns du joueur (Incl. Prolongations) (Michael Mayer (LVR)),2145,72900,1755291340,4572908559,1+,1+,4.5,0,False
+16551834,LV Raiders vs. KC Chiefs,Jalen Nailor,Total de Touchdowns du joueur (Incl. Prolongations) (Jalen Nailor (LVR)),2145,72900,1755291244,4572908305,1+,1+,4.5,0,False
+16551834,LV Raiders vs. KC Chiefs,Jalen Nailor,Total de Touchdowns du joueur (Incl. Prolongations) (Jalen Nailor (LVR)),2145,72900,1755291244,4572908306,2+,2+,31.0,0,False
+16551834,LV Raiders vs. KC Chiefs,Jalen Nailor,Total de Touchdowns du joueur (Incl. Prolongations) (Jalen Nailor (LVR)),2145,72900,1755291244,4572908307,3+,3+,151.0,0,False
 16551834,LV Raiders vs. KC Chiefs,Mike Washington Jr,Total de Touchdowns du joueur (Incl. Prolongations) (Mike Washington Jr (LVR)),2145,72900,1755291338,4572908553,1+,1+,4.5,0,False
 16551834,LV Raiders vs. KC Chiefs,Mike Washington Jr,Total de Touchdowns du joueur (Incl. Prolongations) (Mike Washington Jr (LVR)),2145,72900,1755291338,4572908554,2+,2+,31.0,0,False
 16551834,LV Raiders vs. KC Chiefs,Mike Washington Jr,Total de Touchdowns du joueur (Incl. Prolongations) (Mike Washington Jr (LVR)),2145,72900,1755291338,4572908555,3+,3+,151.0,0,False
-16551834,LV Raiders vs. KC Chiefs,Jalen Nailor,Total de Touchdowns du joueur (Incl. Prolongations) (Jalen Nailor (LVR)),2145,72900,1755291244,4572908305,1+,1+,5.0,0,False
-16551834,LV Raiders vs. KC Chiefs,Jalen Nailor,Total de Touchdowns du joueur (Incl. Prolongations) (Jalen Nailor (LVR)),2145,72900,1755291244,4572908306,2+,2+,36.0,0,False
-16551834,LV Raiders vs. KC Chiefs,Jalen Nailor,Total de Touchdowns du joueur (Incl. Prolongations) (Jalen Nailor (LVR)),2145,72900,1755291244,4572908307,3+,3+,151.0,0,False
 16551834,LV Raiders vs. KC Chiefs,Brashard Smith,Total de Touchdowns du joueur (Incl. Prolongations) (Brashard Smith (KC)),2145,72900,1755291132,4572907980,1+,1+,6.5,0,False
 16551834,LV Raiders vs. KC Chiefs,Brashard Smith,Total de Touchdowns du joueur (Incl. Prolongations) (Brashard Smith (KC)),2145,72900,1755291132,4572907981,2+,2+,41.0,0,False
 16551834,LV Raiders vs. KC Chiefs,Brashard Smith,Total de Touchdowns du joueur (Incl. Prolongations) (Brashard Smith (KC)),2145,72900,1755291132,4572907982,3+,3+,201.0,0,False
@@ -152,13 +152,23 @@ event_id,match,player,market,market_type_id,sport_market_id,child_market_id,odd_
 16551834,LV Raiders vs. KC Chiefs,Tre Tucker,Total des yards reçus par le joueur (Tre Tucker (LVR)) (prolongations incluses),2143,72898,1757190253,4578808320,98+,98+,11.0,0,False
 16551834,LV Raiders vs. KC Chiefs,Tre Tucker,Total des yards reçus par le joueur (Tre Tucker (LVR)) (prolongations incluses),2143,72898,1757190253,4578808321,108+,108+,16.0,0,False
 16551834,LV Raiders vs. KC Chiefs,Tre Tucker,Total des yards reçus par le joueur (Tre Tucker (LVR)) (prolongations incluses),2143,72898,1757190253,4578808322,118+,118+,26.0,0,False
-16551834,LV Raiders vs. KC Chiefs,Tre Tucker,Total des yards reçus par le joueur (Tre Tucker (LVR)) (prolongations incluses),2143,72898,1757190253,4578808323,28+,28+,1.4,0,False
-16551834,LV Raiders vs. KC Chiefs,Tre Tucker,Total des yards reçus par le joueur (Tre Tucker (LVR)) (prolongations incluses),2143,72898,1757190253,4578808314,38+,38+,1.8696,0,False
-16551834,LV Raiders vs. KC Chiefs,Tre Tucker,Total des yards reçus par le joueur (Tre Tucker (LVR)) (prolongations incluses),2143,72898,1757190253,4578808315,48+,48+,2.3,0,False
-16551834,LV Raiders vs. KC Chiefs,Tre Tucker,Total des yards reçus par le joueur (Tre Tucker (LVR)) (prolongations incluses),2143,72898,1757190253,4578808316,58+,58+,2.9,0,False
-16551834,LV Raiders vs. KC Chiefs,Tre Tucker,Total des yards reçus par le joueur (Tre Tucker (LVR)) (prolongations incluses),2143,72898,1757190253,4578808317,68+,68+,3.85,0,False
+16551834,LV Raiders vs. KC Chiefs,Tre Tucker,Total des yards reçus par le joueur (Tre Tucker (LVR)) (prolongations incluses),2143,72898,1757190253,4578808323,28+,28+,1.3847,0,False
+16551834,LV Raiders vs. KC Chiefs,Tre Tucker,Total des yards reçus par le joueur (Tre Tucker (LVR)) (prolongations incluses),2143,72898,1757190253,4578808314,38+,38+,1.8334,0,False
+16551834,LV Raiders vs. KC Chiefs,Tre Tucker,Total des yards reçus par le joueur (Tre Tucker (LVR)) (prolongations incluses),2143,72898,1757190253,4578808315,48+,48+,2.25,0,False
+16551834,LV Raiders vs. KC Chiefs,Tre Tucker,Total des yards reçus par le joueur (Tre Tucker (LVR)) (prolongations incluses),2143,72898,1757190253,4578808316,58+,58+,2.85,0,False
+16551834,LV Raiders vs. KC Chiefs,Tre Tucker,Total des yards reçus par le joueur (Tre Tucker (LVR)) (prolongations incluses),2143,72898,1757190253,4578808317,68+,68+,3.75,0,False
 16551834,LV Raiders vs. KC Chiefs,Tre Tucker,Total des yards reçus par le joueur (Tre Tucker (LVR)) (prolongations incluses),2143,72898,1757190253,4578808318,78+,78+,5.0,0,False
 16551834,LV Raiders vs. KC Chiefs,Tre Tucker,Total des yards reçus par le joueur (Tre Tucker (LVR)) (prolongations incluses),2143,72898,1757190253,4578808319,88+,88+,7.25,0,False
+16551834,LV Raiders vs. KC Chiefs,Jalen Nailor,Total des yards reçus par le joueur (Jalen Nailor (LVR)) (prolongations incluses),2143,72898,1757190258,4578801664,30+,30+,2.25,0,False
+16551834,LV Raiders vs. KC Chiefs,Jalen Nailor,Total des yards reçus par le joueur (Jalen Nailor (LVR)) (prolongations incluses),2143,72898,1757190258,4578801665,40+,40+,2.8,0,False
+16551834,LV Raiders vs. KC Chiefs,Jalen Nailor,Total des yards reçus par le joueur (Jalen Nailor (LVR)) (prolongations incluses),2143,72898,1757190258,4578801666,50+,50+,3.6,0,False
+16551834,LV Raiders vs. KC Chiefs,Jalen Nailor,Total des yards reçus par le joueur (Jalen Nailor (LVR)) (prolongations incluses),2143,72898,1757190258,4578801667,60+,60+,5.0,0,False
+16551834,LV Raiders vs. KC Chiefs,Jalen Nailor,Total des yards reçus par le joueur (Jalen Nailor (LVR)) (prolongations incluses),2143,72898,1757190258,4578801668,70+,70+,6.75,0,False
+16551834,LV Raiders vs. KC Chiefs,Jalen Nailor,Total des yards reçus par le joueur (Jalen Nailor (LVR)) (prolongations incluses),2143,72898,1757190258,4578801669,80+,80+,10.0,0,False
+16551834,LV Raiders vs. KC Chiefs,Jalen Nailor,Total des yards reçus par le joueur (Jalen Nailor (LVR)) (prolongations incluses),2143,72898,1757190258,4578801670,90+,90+,15.0,0,False
+16551834,LV Raiders vs. KC Chiefs,Jalen Nailor,Total des yards reçus par le joueur (Jalen Nailor (LVR)) (prolongations incluses),2143,72898,1757190258,4578801671,100+,100+,21.0,0,False
+16551834,LV Raiders vs. KC Chiefs,Jalen Nailor,Total des yards reçus par le joueur (Jalen Nailor (LVR)) (prolongations incluses),2143,72898,1757190258,4578801672,10+,10+,1.4,0,False
+16551834,LV Raiders vs. KC Chiefs,Jalen Nailor,Total des yards reçus par le joueur (Jalen Nailor (LVR)) (prolongations incluses),2143,72898,1757190258,4578801663,20+,20+,1.8696,0,False
 16551834,LV Raiders vs. KC Chiefs,Xavier Worthy,Total des yards reçus par le joueur (Xavier Worthy (KC)) (prolongations incluses),2143,72898,1757190254,4578801632,104+,104+,19.0,0,False
 16551834,LV Raiders vs. KC Chiefs,Xavier Worthy,Total des yards reçus par le joueur (Xavier Worthy (KC)) (prolongations incluses),2143,72898,1757190254,4578801633,114+,114+,31.0,0,False
 16551834,LV Raiders vs. KC Chiefs,Xavier Worthy,Total des yards reçus par le joueur (Xavier Worthy (KC)) (prolongations incluses),2143,72898,1757190254,4578801634,24+,24+,1.4167,0,False
@@ -178,16 +188,6 @@ event_id,match,player,market,market_type_id,sport_market_id,child_market_id,odd_
 16551834,LV Raiders vs. KC Chiefs,Tyquan Thornton,Total des yards reçus par le joueur (Tyquan Thornton (KC)) (prolongations incluses),2143,72898,1757190255,4582335911,82+,82+,10.0,0,False
 16551834,LV Raiders vs. KC Chiefs,Tyquan Thornton,Total des yards reçus par le joueur (Tyquan Thornton (KC)) (prolongations incluses),2143,72898,1757190255,4582335912,92+,92+,14.0,0,False
 16551834,LV Raiders vs. KC Chiefs,Tyquan Thornton,Total des yards reçus par le joueur (Tyquan Thornton (KC)) (prolongations incluses),2143,72898,1757190255,4582335914,12+,12+,1.4167,0,False
-16551834,LV Raiders vs. KC Chiefs,Jalen Nailor,Total des yards reçus par le joueur (Jalen Nailor (LVR)) (prolongations incluses),2143,72898,1757190258,4582255057,21+,21+,1.9091,0,False
-16551834,LV Raiders vs. KC Chiefs,Jalen Nailor,Total des yards reçus par le joueur (Jalen Nailor (LVR)) (prolongations incluses),2143,72898,1757190258,4582255058,31+,31+,2.3,0,False
-16551834,LV Raiders vs. KC Chiefs,Jalen Nailor,Total des yards reçus par le joueur (Jalen Nailor (LVR)) (prolongations incluses),2143,72898,1757190258,4582255059,41+,41+,2.9,0,False
-16551834,LV Raiders vs. KC Chiefs,Jalen Nailor,Total des yards reçus par le joueur (Jalen Nailor (LVR)) (prolongations incluses),2143,72898,1757190258,4582255060,51+,51+,3.75,0,False
-16551834,LV Raiders vs. KC Chiefs,Jalen Nailor,Total des yards reçus par le joueur (Jalen Nailor (LVR)) (prolongations incluses),2143,72898,1757190258,4582255061,61+,61+,5.0,0,False
-16551834,LV Raiders vs. KC Chiefs,Jalen Nailor,Total des yards reçus par le joueur (Jalen Nailor (LVR)) (prolongations incluses),2143,72898,1757190258,4582255062,71+,71+,7.0,0,False
-16551834,LV Raiders vs. KC Chiefs,Jalen Nailor,Total des yards reçus par le joueur (Jalen Nailor (LVR)) (prolongations incluses),2143,72898,1757190258,4582255063,81+,81+,10.0,0,False
-16551834,LV Raiders vs. KC Chiefs,Jalen Nailor,Total des yards reçus par le joueur (Jalen Nailor (LVR)) (prolongations incluses),2143,72898,1757190258,4582255064,91+,91+,16.0,0,False
-16551834,LV Raiders vs. KC Chiefs,Jalen Nailor,Total des yards reçus par le joueur (Jalen Nailor (LVR)) (prolongations incluses),2143,72898,1757190258,4582255065,101+,101+,26.0,0,False
-16551834,LV Raiders vs. KC Chiefs,Jalen Nailor,Total des yards reçus par le joueur (Jalen Nailor (LVR)) (prolongations incluses),2143,72898,1757190258,4582255066,11+,11+,1.4348,0,False
 16551834,LV Raiders vs. KC Chiefs,Travis Kelce,Total des yards reçus par le joueur (Travis Kelce (KC)) (prolongations incluses),2143,72898,1758072562,4582120650,48+,48+,1.8696,0,False
 16551834,LV Raiders vs. KC Chiefs,Travis Kelce,Total des yards reçus par le joueur (Travis Kelce (KC)) (prolongations incluses),2143,72898,1758072562,4582120651,58+,58+,2.25,0,False
 16551834,LV Raiders vs. KC Chiefs,Travis Kelce,Total des yards reçus par le joueur (Travis Kelce (KC)) (prolongations incluses),2143,72898,1758072562,4582120652,68+,68+,2.75,0,False
@@ -217,6 +217,14 @@ event_id,match,player,market,market_type_id,sport_market_id,child_market_id,odd_
 16551834,LV Raiders vs. KC Chiefs,Brock Bowers,Total des yards reçus par le joueur (Brock Bowers (LVR)) (prolongations incluses),2143,72898,1758072563,4582255069,94+,94+,2.6,0,False
 16551834,LV Raiders vs. KC Chiefs,Brock Bowers,Total des yards reçus par le joueur (Brock Bowers (LVR)) (prolongations incluses),2143,72898,1758072563,4582255070,104+,104+,3.2,0,False
 16551834,LV Raiders vs. KC Chiefs,Brock Bowers,Total des yards reçus par le joueur (Brock Bowers (LVR)) (prolongations incluses),2143,72898,1758072563,4582255071,114+,114+,4.0,0,False
+16551834,LV Raiders vs. KC Chiefs,Noah Gray,Total des yards reçus par le joueur (Noah Gray (KC)) (prolongations incluses),2143,72898,1758072561,4582120642,19+,19+,2.35,0,False
+16551834,LV Raiders vs. KC Chiefs,Noah Gray,Total des yards reçus par le joueur (Noah Gray (KC)) (prolongations incluses),2143,72898,1758072561,4582120643,29+,29+,3.1,0,False
+16551834,LV Raiders vs. KC Chiefs,Noah Gray,Total des yards reçus par le joueur (Noah Gray (KC)) (prolongations incluses),2143,72898,1758072561,4582120644,39+,39+,4.3,0,False
+16551834,LV Raiders vs. KC Chiefs,Noah Gray,Total des yards reçus par le joueur (Noah Gray (KC)) (prolongations incluses),2143,72898,1758072561,4582120645,49+,49+,6.25,0,False
+16551834,LV Raiders vs. KC Chiefs,Noah Gray,Total des yards reçus par le joueur (Noah Gray (KC)) (prolongations incluses),2143,72898,1758072561,4582120646,59+,59+,10.0,0,False
+16551834,LV Raiders vs. KC Chiefs,Noah Gray,Total des yards reçus par le joueur (Noah Gray (KC)) (prolongations incluses),2143,72898,1758072561,4582120647,69+,69+,16.0,0,False
+16551834,LV Raiders vs. KC Chiefs,Noah Gray,Total des yards reçus par le joueur (Noah Gray (KC)) (prolongations incluses),2143,72898,1758072561,4582120648,79+,79+,26.0,0,False
+16551834,LV Raiders vs. KC Chiefs,Noah Gray,Total des yards reçus par le joueur (Noah Gray (KC)) (prolongations incluses),2143,72898,1758072561,4582120649,89+,89+,51.0,0,False
 16551834,LV Raiders vs. KC Chiefs,Emmett Johnson,Total des yards reçus par le joueur (Emmett Johnson (KC)) (prolongations incluses),2143,72898,1758072560,4582120640,79+,79+,26.0,0,False
 16551834,LV Raiders vs. KC Chiefs,Emmett Johnson,Total des yards reçus par le joueur (Emmett Johnson (KC)) (prolongations incluses),2143,72898,1758072560,4582120641,89+,89+,51.0,0,False
 16551834,LV Raiders vs. KC Chiefs,Emmett Johnson,Total des yards reçus par le joueur (Emmett Johnson (KC)) (prolongations incluses),2143,72898,1758072560,4582120634,19+,19+,2.35,0,False
@@ -225,14 +233,6 @@ event_id,match,player,market,market_type_id,sport_market_id,child_market_id,odd_
 16551834,LV Raiders vs. KC Chiefs,Emmett Johnson,Total des yards reçus par le joueur (Emmett Johnson (KC)) (prolongations incluses),2143,72898,1758072560,4582120637,49+,49+,6.25,0,False
 16551834,LV Raiders vs. KC Chiefs,Emmett Johnson,Total des yards reçus par le joueur (Emmett Johnson (KC)) (prolongations incluses),2143,72898,1758072560,4582120638,59+,59+,10.0,0,False
 16551834,LV Raiders vs. KC Chiefs,Emmett Johnson,Total des yards reçus par le joueur (Emmett Johnson (KC)) (prolongations incluses),2143,72898,1758072560,4582120639,69+,69+,16.0,0,False
-16551834,LV Raiders vs. KC Chiefs,Noah Gray,Total des yards reçus par le joueur (Noah Gray (KC)) (prolongations incluses),2143,72898,1758072561,4582120642,19+,19+,2.4,0,False
-16551834,LV Raiders vs. KC Chiefs,Noah Gray,Total des yards reçus par le joueur (Noah Gray (KC)) (prolongations incluses),2143,72898,1758072561,4582120643,29+,29+,3.1,0,False
-16551834,LV Raiders vs. KC Chiefs,Noah Gray,Total des yards reçus par le joueur (Noah Gray (KC)) (prolongations incluses),2143,72898,1758072561,4582120644,39+,39+,4.3,0,False
-16551834,LV Raiders vs. KC Chiefs,Noah Gray,Total des yards reçus par le joueur (Noah Gray (KC)) (prolongations incluses),2143,72898,1758072561,4582120645,49+,49+,6.25,0,False
-16551834,LV Raiders vs. KC Chiefs,Noah Gray,Total des yards reçus par le joueur (Noah Gray (KC)) (prolongations incluses),2143,72898,1758072561,4582120646,59+,59+,10.0,0,False
-16551834,LV Raiders vs. KC Chiefs,Noah Gray,Total des yards reçus par le joueur (Noah Gray (KC)) (prolongations incluses),2143,72898,1758072561,4582120647,69+,69+,16.0,0,False
-16551834,LV Raiders vs. KC Chiefs,Noah Gray,Total des yards reçus par le joueur (Noah Gray (KC)) (prolongations incluses),2143,72898,1758072561,4582120648,79+,79+,26.0,0,False
-16551834,LV Raiders vs. KC Chiefs,Noah Gray,Total des yards reçus par le joueur (Noah Gray (KC)) (prolongations incluses),2143,72898,1758072561,4582120649,89+,89+,51.0,0,False
 16551834,LV Raiders vs. KC Chiefs,Ashton Jeanty,Joueur total de yards par la course (Ashton Jeanty (LVR)) (prolongations incluses),2140,72895,1755296675,4582331089,59+,59+,1.8696,0,False
 16551834,LV Raiders vs. KC Chiefs,Ashton Jeanty,Joueur total de yards par la course (Ashton Jeanty (LVR)) (prolongations incluses),2140,72895,1755296675,4582331090,69+,69+,2.25,0,False
 16551834,LV Raiders vs. KC Chiefs,Ashton Jeanty,Joueur total de yards par la course (Ashton Jeanty (LVR)) (prolongations incluses),2140,72895,1755296675,4582331091,79+,79+,2.85,0,False

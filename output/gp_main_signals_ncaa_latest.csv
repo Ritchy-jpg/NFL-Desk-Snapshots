@@ -1,7 +1,13 @@
 captured_at,event_id,match,start_date,market,selection,side,signal,old_line,new_line,old_price,new_price,old_status,new_status,old_is_main_bet,new_is_main_bet
-2026-10-01T19:43:01.580569+00:00,17637327,Delaware Fightin Blue Hens vs. Liberty Flames,2026-10-02T23:00:00Z,spread,Delaware Fightin Blue Hens (+6.5),Delaware Fightin Blue Hens,MAIN_PRICE_MOVE,6.5,6.5,1.9091,1.8696,0,0.0,1,1.0
-2026-10-01T19:43:01.580569+00:00,17637327,Delaware Fightin Blue Hens vs. Liberty Flames,2026-10-02T23:00:00Z,spread,Liberty Flames (-6.5),Liberty Flames,MAIN_PRICE_MOVE,-6.5,-6.5,1.7693,1.8,0,0.0,1,1.0
-2026-10-01T19:43:01.580569+00:00,17647649,Iowa Hawkeyes vs. Ohio State Buckeyes,2026-10-03T19:30:00Z,spread,Iowa Hawkeyes (+14.5),Iowa Hawkeyes,MAIN_PRICE_MOVE,14.5,14.5,1.8334,1.8,0,0.0,1,1.0
-2026-10-01T19:43:01.580569+00:00,17647649,Iowa Hawkeyes vs. Ohio State Buckeyes,2026-10-03T19:30:00Z,spread,Ohio State Buckeyes (-14.5),Ohio State Buckeyes,MAIN_PRICE_MOVE,-14.5,-14.5,1.8334,1.8696,0,0.0,1,1.0
-2026-10-01T19:43:01.580569+00:00,17861690,Louisiana-Lafayette Ragin Cajuns vs. Arkansas St Red Wolves,2026-10-04T00:00:00Z,spread,Louisiana-Lafayette Ragin Cajuns (-6.5),Louisiana-Lafayette Ragin Cajuns,MAIN_PRICE_MOVE,-6.5,-6.5,1.7693,1.8,0,0.0,1,1.0
-2026-10-01T19:43:01.580569+00:00,17861690,Louisiana-Lafayette Ragin Cajuns vs. Arkansas St Red Wolves,2026-10-04T00:00:00Z,spread,Arkansas St Red Wolves (+6.5),Arkansas St Red Wolves,MAIN_PRICE_MOVE,6.5,6.5,1.9091,1.8696,0,0.0,1,1.0
+2026-10-01T20:15:11.731381+00:00,17626860,Tulsa Golden Hurricane vs. North Texas,2026-10-02T01:00:00Z,spread,Tulsa Golden Hurricane (+2.5),Tulsa Golden Hurricane,MAIN_SWITCH,2.5,2.5,1.8,1.8,0,0.0,1,0.0
+2026-10-01T20:15:11.731381+00:00,17626860,Tulsa Golden Hurricane vs. North Texas,2026-10-02T01:00:00Z,spread,Tulsa Golden Hurricane (-13.5),Tulsa Golden Hurricane,STATUS_CHANGE,-13.5,-13.5,5.5,5.5,0,7.0,0,0.0
+2026-10-01T20:15:11.731381+00:00,17626860,Tulsa Golden Hurricane vs. North Texas,2026-10-02T01:00:00Z,spread,North Texas (-2.5),North Texas,MAIN_SWITCH,-2.5,-2.5,1.8696,1.8696,0,0.0,1,0.0
+2026-10-01T20:15:11.731381+00:00,17626860,Tulsa Golden Hurricane vs. North Texas,2026-10-02T01:00:00Z,spread,North Texas (+13.5),North Texas,STATUS_CHANGE,13.5,13.5,1.125,1.125,0,7.0,0,0.0
+2026-10-01T20:15:11.731381+00:00,17647627,Colorado Buffaloes vs. Texas Tech Red Raiders,2026-10-03T23:30:00Z,total,Plus de 50.5,over,MAIN_PRICE_MOVE,50.5,50.5,1.8334,1.8696,0,0.0,1,1.0
+2026-10-01T20:15:11.731381+00:00,17647627,Colorado Buffaloes vs. Texas Tech Red Raiders,2026-10-03T23:30:00Z,total,Moins de 50.5,under,MAIN_PRICE_MOVE,50.5,50.5,1.8334,1.8,0,0.0,1,1.0
+2026-10-01T20:15:11.731381+00:00,17861690,Louisiana-Lafayette Ragin Cajuns vs. Arkansas St Red Wolves,2026-10-04T00:00:00Z,spread,Louisiana-Lafayette Ragin Cajuns (-6.5),Louisiana-Lafayette Ragin Cajuns,MAIN_PRICE_MOVE,-6.5,-6.5,1.8,1.8334,0,0.0,1,1.0
+2026-10-01T20:15:11.731381+00:00,17861690,Louisiana-Lafayette Ragin Cajuns vs. Arkansas St Red Wolves,2026-10-04T00:00:00Z,spread,Arkansas St Red Wolves (+6.5),Arkansas St Red Wolves,MAIN_PRICE_MOVE,6.5,6.5,1.8696,1.8334,0,0.0,1,1.0
+2026-10-01T20:15:11.731381+00:00,17861690,Louisiana-Lafayette Ragin Cajuns vs. Arkansas St Red Wolves,2026-10-04T00:00:00Z,total,Plus de 47.5,over,MAIN_PRICE_MOVE,47.5,47.5,1.8334,1.8,0,0.0,1,1.0
+2026-10-01T20:15:11.731381+00:00,17861690,Louisiana-Lafayette Ragin Cajuns vs. Arkansas St Red Wolves,2026-10-04T00:00:00Z,total,Moins de 47.5,under,MAIN_PRICE_MOVE,47.5,47.5,1.8334,1.8696,0,0.0,1,1.0
+2026-10-01T20:15:11.731381+00:00,17647652,San Diego State Aztecs vs. Texas State Bobcats,2026-10-04T02:30:00Z,total,Plus de 57.5,over,MAIN_PRICE_MOVE,57.5,57.5,1.8,1.8334,0,0.0,1,1.0
+2026-10-01T20:15:11.731381+00:00,17647652,San Diego State Aztecs vs. Texas State Bobcats,2026-10-04T02:30:00Z,total,Moins de 57.5,under,MAIN_PRICE_MOVE,57.5,57.5,1.8696,1.8334,0,0.0,1,1.0

@@ -1,6 +1,12 @@
 event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id,selection,line,price,odd_id,odd_status,is_main_bet
 17861648,DAKOTA DU NORD ETAT DU BISON vs. Wyoming Cowboys,2026-10-03T19:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,DAKOTA DU NORD ETAT DU BISON,,1.0625,4567299584,0,False
 17861648,DAKOTA DU NORD ETAT DU BISON vs. Wyoming Cowboys,2026-10-03T19:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Wyoming Cowboys,,6.75,4567299585,0,False
+17861648,DAKOTA DU NORD ETAT DU BISON vs. Wyoming Cowboys,2026-10-03T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,DAKOTA DU NORD ETAT DU BISON (-10.5),-10.5,1.4546,4567299586,0,False
+17861648,DAKOTA DU NORD ETAT DU BISON vs. Wyoming Cowboys,2026-10-03T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Wyoming Cowboys (+10.5),-10.5,2.6,4567299587,0,False
+17861648,DAKOTA DU NORD ETAT DU BISON vs. Wyoming Cowboys,2026-10-03T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,DAKOTA DU NORD ETAT DU BISON (-12.5),-12.5,1.5264,4567299588,0,False
+17861648,DAKOTA DU NORD ETAT DU BISON vs. Wyoming Cowboys,2026-10-03T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Wyoming Cowboys (+12.5),-12.5,2.4,4567299589,0,False
+17861648,DAKOTA DU NORD ETAT DU BISON vs. Wyoming Cowboys,2026-10-03T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,DAKOTA DU NORD ETAT DU BISON (-13.5),-13.5,1.5715,4567299590,0,False
+17861648,DAKOTA DU NORD ETAT DU BISON vs. Wyoming Cowboys,2026-10-03T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Wyoming Cowboys (+13.5),-13.5,2.25,4567299591,0,False
 17861648,DAKOTA DU NORD ETAT DU BISON vs. Wyoming Cowboys,2026-10-03T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,DAKOTA DU NORD ETAT DU BISON (-14.5),-14.5,1.6667,4567299592,0,False
 17861648,DAKOTA DU NORD ETAT DU BISON vs. Wyoming Cowboys,2026-10-03T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Wyoming Cowboys (+14.5),-14.5,2.1,4567299593,0,False
 17861648,DAKOTA DU NORD ETAT DU BISON vs. Wyoming Cowboys,2026-10-03T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,DAKOTA DU NORD ETAT DU BISON (-15.5),-15.5,1.6897,4567299594,0,False
@@ -15,8 +21,42 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17861648,DAKOTA DU NORD ETAT DU BISON vs. Wyoming Cowboys,2026-10-03T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Wyoming Cowboys (+19.5),-19.5,1.7143,4567299603,0,False
 17861648,DAKOTA DU NORD ETAT DU BISON vs. Wyoming Cowboys,2026-10-03T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,DAKOTA DU NORD ETAT DU BISON (-20.5),-20.5,2.1,4567299604,0,False
 17861648,DAKOTA DU NORD ETAT DU BISON vs. Wyoming Cowboys,2026-10-03T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Wyoming Cowboys (+20.5),-20.5,1.6667,4567299605,0,False
+17861648,DAKOTA DU NORD ETAT DU BISON vs. Wyoming Cowboys,2026-10-03T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,DAKOTA DU NORD ETAT DU BISON (-23.5),-23.5,2.4,4567299606,0,False
+17861648,DAKOTA DU NORD ETAT DU BISON vs. Wyoming Cowboys,2026-10-03T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Wyoming Cowboys (+23.5),-23.5,1.5264,4567299607,0,False
+17861648,DAKOTA DU NORD ETAT DU BISON vs. Wyoming Cowboys,2026-10-03T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,DAKOTA DU NORD ETAT DU BISON (-24.5),-24.5,2.65,4567299608,0,False
+17861648,DAKOTA DU NORD ETAT DU BISON vs. Wyoming Cowboys,2026-10-03T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Wyoming Cowboys (+24.5),-24.5,1.4348,4567299609,0,False
+17861648,DAKOTA DU NORD ETAT DU BISON vs. Wyoming Cowboys,2026-10-03T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,DAKOTA DU NORD ETAT DU BISON (-9.5),-9.5,1.3847,4567299634,0,False
+17861648,DAKOTA DU NORD ETAT DU BISON vs. Wyoming Cowboys,2026-10-03T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Wyoming Cowboys (+9.5),-9.5,2.85,4567299635,0,False
+17861648,DAKOTA DU NORD ETAT DU BISON vs. Wyoming Cowboys,2026-10-03T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,DAKOTA DU NORD ETAT DU BISON (-21.5),-21.5,2.25,4567299636,0,False
+17861648,DAKOTA DU NORD ETAT DU BISON vs. Wyoming Cowboys,2026-10-03T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Wyoming Cowboys (+21.5),-21.5,1.5715,4567299637,0,False
+17861648,DAKOTA DU NORD ETAT DU BISON vs. Wyoming Cowboys,2026-10-03T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,DAKOTA DU NORD ETAT DU BISON (-11.5),-11.5,1.5,4567299672,0,False
+17861648,DAKOTA DU NORD ETAT DU BISON vs. Wyoming Cowboys,2026-10-03T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Wyoming Cowboys (+11.5),-11.5,2.5,4567299673,0,False
+17861648,DAKOTA DU NORD ETAT DU BISON vs. Wyoming Cowboys,2026-10-03T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,DAKOTA DU NORD ETAT DU BISON (-22.5),-22.5,2.35,4567299674,0,False
+17861648,DAKOTA DU NORD ETAT DU BISON vs. Wyoming Cowboys,2026-10-03T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Wyoming Cowboys (+22.5),-22.5,1.5455,4567299675,0,False
+17861648,DAKOTA DU NORD ETAT DU BISON vs. Wyoming Cowboys,2026-10-03T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,DAKOTA DU NORD ETAT DU BISON (-25.5),-25.5,2.75,4567299676,0,False
+17861648,DAKOTA DU NORD ETAT DU BISON vs. Wyoming Cowboys,2026-10-03T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Wyoming Cowboys (+25.5),-25.5,1.4,4567299677,0,False
 17861648,DAKOTA DU NORD ETAT DU BISON vs. Wyoming Cowboys,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 48.5,48.5,2.2,4567299712,0,False
 17861648,DAKOTA DU NORD ETAT DU BISON vs. Wyoming Cowboys,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 48.5,48.5,1.625,4567299713,0,False
+17861648,DAKOTA DU NORD ETAT DU BISON vs. Wyoming Cowboys,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 49.5,49.5,2.3,4567299714,0,False
+17861648,DAKOTA DU NORD ETAT DU BISON vs. Wyoming Cowboys,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 49.5,49.5,1.5556,4567299715,0,False
+17861648,DAKOTA DU NORD ETAT DU BISON vs. Wyoming Cowboys,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 50.5,50.5,2.4,4567299716,0,False
+17861648,DAKOTA DU NORD ETAT DU BISON vs. Wyoming Cowboys,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 50.5,50.5,1.5264,4567299717,0,False
+17861648,DAKOTA DU NORD ETAT DU BISON vs. Wyoming Cowboys,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 51.5,51.5,2.6,4567299718,0,False
+17861648,DAKOTA DU NORD ETAT DU BISON vs. Wyoming Cowboys,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 51.5,51.5,1.4546,4567299719,0,False
+17861648,DAKOTA DU NORD ETAT DU BISON vs. Wyoming Cowboys,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 52.5,52.5,2.75,4567299720,0,False
+17861648,DAKOTA DU NORD ETAT DU BISON vs. Wyoming Cowboys,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 52.5,52.5,1.4,4567299721,0,False
+17861648,DAKOTA DU NORD ETAT DU BISON vs. Wyoming Cowboys,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 53.5,53.5,2.9,4567299722,0,False
+17861648,DAKOTA DU NORD ETAT DU BISON vs. Wyoming Cowboys,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 53.5,53.5,1.3637,4567299723,0,False
+17861648,DAKOTA DU NORD ETAT DU BISON vs. Wyoming Cowboys,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 37.5,37.5,1.3847,4567299690,0,False
+17861648,DAKOTA DU NORD ETAT DU BISON vs. Wyoming Cowboys,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 37.5,37.5,2.85,4567299691,0,False
+17861648,DAKOTA DU NORD ETAT DU BISON vs. Wyoming Cowboys,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 38.5,38.5,1.4348,4567299692,0,False
+17861648,DAKOTA DU NORD ETAT DU BISON vs. Wyoming Cowboys,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 38.5,38.5,2.65,4567299693,0,False
+17861648,DAKOTA DU NORD ETAT DU BISON vs. Wyoming Cowboys,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 39.5,39.5,1.4762,4567299694,0,False
+17861648,DAKOTA DU NORD ETAT DU BISON vs. Wyoming Cowboys,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 39.5,39.5,2.55,4567299695,0,False
+17861648,DAKOTA DU NORD ETAT DU BISON vs. Wyoming Cowboys,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 40.5,40.5,1.5264,4567299696,0,False
+17861648,DAKOTA DU NORD ETAT DU BISON vs. Wyoming Cowboys,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 40.5,40.5,2.4,4567299697,0,False
+17861648,DAKOTA DU NORD ETAT DU BISON vs. Wyoming Cowboys,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 41.5,41.5,1.625,4567299698,0,False
+17861648,DAKOTA DU NORD ETAT DU BISON vs. Wyoming Cowboys,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 41.5,41.5,2.2,4567299699,0,False
 17861648,DAKOTA DU NORD ETAT DU BISON vs. Wyoming Cowboys,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 42.5,42.5,1.6451,4567299700,0,False
 17861648,DAKOTA DU NORD ETAT DU BISON vs. Wyoming Cowboys,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 42.5,42.5,2.15,4567299701,0,False
 17861648,DAKOTA DU NORD ETAT DU BISON vs. Wyoming Cowboys,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 43.5,43.5,1.7143,4567299702,0,False

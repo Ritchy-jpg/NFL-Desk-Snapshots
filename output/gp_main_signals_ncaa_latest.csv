@@ -1,23 +1,17 @@
 captured_at,event_id,match,start_date,market,selection,side,signal,old_line,new_line,old_price,new_price,old_status,new_status,old_is_main_bet,new_is_main_bet
-2026-10-01T17:15:07.503364+00:00,17647642,Connecticut Huskies vs. Syracuse Orange,2026-10-03T16:00:00Z,spread,Connecticut Huskies (+6.5),Connecticut Huskies,MAIN_PRICE_MOVE,6.5,6.5,1.8696,1.9091,0,0.0,1,1.0
-2026-10-01T17:15:07.503364+00:00,17647642,Connecticut Huskies vs. Syracuse Orange,2026-10-03T16:00:00Z,spread,Syracuse Orange (-6.5),Syracuse Orange,MAIN_PRICE_MOVE,-6.5,-6.5,1.8,1.7693,0,0.0,1,1.0
-2026-10-01T17:15:07.503364+00:00,17647636,Tennessee Volunteers vs. Auburn Tigers,2026-10-03T19:30:00Z,spread,Tennessee Volunteers (-7.5),Tennessee Volunteers,MAIN_PRICE_MOVE,-7.5,-7.5,1.9091,1.9524,0,0.0,1,1.0
-2026-10-01T17:15:07.503364+00:00,17647636,Tennessee Volunteers vs. Auburn Tigers,2026-10-03T19:30:00Z,spread,Auburn Tigers (+7.5),Auburn Tigers,MAIN_PRICE_MOVE,7.5,7.5,1.7693,1.7408,0,0.0,1,1.0
-2026-10-01T17:15:07.503364+00:00,17881874,UAB Blazers vs. Samford Bulldogs,2026-10-03T19:30:00Z,total,Moins de 51.5,under,MAIN_PRICE_MOVE,51.5,51.5,1.8,1.8696,0,0.0,1,1.0
-2026-10-01T17:15:07.503364+00:00,17881874,UAB Blazers vs. Samford Bulldogs,2026-10-03T19:30:00Z,total,Plus de 51.5,over,MAIN_PRICE_MOVE,51.5,51.5,1.8696,1.8,0,0.0,1,1.0
-2026-10-01T17:15:07.503364+00:00,17861517,UMass Minutemen vs. MICHIGAN EST,2026-10-03T19:30:00Z,spread,UMass Minutemen (-5.5),UMass Minutemen,MAIN_PRICE_MOVE,-5.5,-5.5,1.8,1.8334,0,0.0,1,1.0
-2026-10-01T17:15:07.503364+00:00,17861517,UMass Minutemen vs. MICHIGAN EST,2026-10-03T19:30:00Z,spread,MICHIGAN EST (+5.5),MICHIGAN EST,MAIN_PRICE_MOVE,5.5,5.5,1.8696,1.8334,0,0.0,1,1.0
-2026-10-01T17:15:07.503364+00:00,17861517,UMass Minutemen vs. MICHIGAN EST,2026-10-03T19:30:00Z,total,Moins de 49.5,under,MAIN_SWITCH,49.5,49.5,1.8,1.8,0,0.0,0,1.0
-2026-10-01T17:15:07.503364+00:00,17861517,UMass Minutemen vs. MICHIGAN EST,2026-10-03T19:30:00Z,total,Plus de 48.5,over,MAIN_SWITCH,48.5,48.5,1.8,1.8,0,0.0,1,0.0
-2026-10-01T17:15:07.503364+00:00,17861517,UMass Minutemen vs. MICHIGAN EST,2026-10-03T19:30:00Z,total,Moins de 48.5,under,MAIN_SWITCH,48.5,48.5,1.8696,1.8696,0,0.0,1,0.0
-2026-10-01T17:15:07.503364+00:00,17861517,UMass Minutemen vs. MICHIGAN EST,2026-10-03T19:30:00Z,total,Plus de 49.5,over,MAIN_SWITCH,49.5,49.5,1.8696,1.8696,0,0.0,0,1.0
-2026-10-01T17:15:07.503364+00:00,17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Plus de 53.5,over,MAIN_PRICE_MOVE,53.5,53.5,1.8334,1.8,0,0.0,1,1.0
-2026-10-01T17:15:07.503364+00:00,17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Moins de 53.5,under,MAIN_PRICE_MOVE,53.5,53.5,1.8334,1.8696,0,0.0,1,1.0
-2026-10-01T17:15:07.503364+00:00,17647648,COLORADO vs. Oregon State Beavers,2026-10-03T22:00:00Z,spread,COLORADO (+6.5),COLORADO,MAIN_PRICE_MOVE,6.5,6.5,1.8334,1.8696,0,0.0,1,1.0
-2026-10-01T17:15:07.503364+00:00,17647648,COLORADO vs. Oregon State Beavers,2026-10-03T22:00:00Z,spread,Oregon State Beavers (-6.5),Oregon State Beavers,MAIN_PRICE_MOVE,-6.5,-6.5,1.8334,1.8,0,0.0,1,1.0
-2026-10-01T17:15:07.503364+00:00,17647648,COLORADO vs. Oregon State Beavers,2026-10-03T22:00:00Z,total,Plus de 61.5,over,MAIN_PRICE_MOVE,61.5,61.5,1.8334,1.8,0,0.0,1,1.0
-2026-10-01T17:15:07.503364+00:00,17647648,COLORADO vs. Oregon State Beavers,2026-10-03T22:00:00Z,total,Moins de 61.5,under,MAIN_PRICE_MOVE,61.5,61.5,1.8334,1.8696,0,0.0,1,1.0
-2026-10-01T17:15:07.503364+00:00,17861575,Coastal Carolina vs. Georgia Southern Eagles,2026-10-03T23:00:00Z,spread,Coastal Carolina (+2.5),Coastal Carolina,MAIN_SWITCH,2.5,2.5,1.8,1.8,0,0.0,1,0.0
-2026-10-01T17:15:07.503364+00:00,17861575,Coastal Carolina vs. Georgia Southern Eagles,2026-10-03T23:00:00Z,spread,Georgia Southern Eagles (-2.5),Georgia Southern Eagles,MAIN_SWITCH,-2.5,-2.5,1.8696,1.8696,0,0.0,1,0.0
-2026-10-01T17:15:07.503364+00:00,17647632,TCU Horned Frogs vs. BYU Cougars,2026-10-03T23:00:00Z,spread,BYU Cougars (-6.5),BYU Cougars,MAIN_PRICE_MOVE,-6.5,-6.5,1.8334,1.8696,0,0.0,1,1.0
-2026-10-01T17:15:07.503364+00:00,17647632,TCU Horned Frogs vs. BYU Cougars,2026-10-03T23:00:00Z,spread,TCU Horned Frogs (+6.5),TCU Horned Frogs,MAIN_PRICE_MOVE,6.5,6.5,1.8334,1.8,0,0.0,1,1.0
+2026-10-01T17:45:10.108520+00:00,17626861,New Mexico St Aggies vs. Western Kentucky Hilltoppers,2026-10-02T00:00:00Z,total,Plus de 56.5,over,MAIN_PRICE_MOVE,56.5,56.5,1.8,1.8696,0,0.0,1,1.0
+2026-10-01T17:45:10.108520+00:00,17626861,New Mexico St Aggies vs. Western Kentucky Hilltoppers,2026-10-02T00:00:00Z,total,Moins de 56.5,under,MAIN_PRICE_MOVE,56.5,56.5,1.8696,1.8,0,0.0,1,1.0
+2026-10-01T17:45:10.108520+00:00,17637327,Delaware Fightin Blue Hens vs. Liberty Flames,2026-10-02T23:00:00Z,spread,Delaware Fightin Blue Hens (+6.5),Delaware Fightin Blue Hens,MAIN_PRICE_MOVE,6.5,6.5,1.9524,1.9091,0,0.0,1,1.0
+2026-10-01T17:45:10.108520+00:00,17637327,Delaware Fightin Blue Hens vs. Liberty Flames,2026-10-02T23:00:00Z,spread,Liberty Flames (-6.5),Liberty Flames,MAIN_PRICE_MOVE,-6.5,-6.5,1.7408,1.7693,0,0.0,1,1.0
+2026-10-01T17:45:10.108520+00:00,17861648,DAKOTA DU NORD ETAT DU BISON vs. Wyoming Cowboys,2026-10-03T19:30:00Z,total,Plus de 45.5,over,MAIN_PRICE_MOVE,45.5,45.5,1.8334,1.8696,0,0.0,1,1.0
+2026-10-01T17:45:10.108520+00:00,17861648,DAKOTA DU NORD ETAT DU BISON vs. Wyoming Cowboys,2026-10-03T19:30:00Z,total,Moins de 45.5,under,MAIN_PRICE_MOVE,45.5,45.5,1.8334,1.8,0,0.0,1,1.0
+2026-10-01T17:45:10.108520+00:00,17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,spread,South Carolina Gamecocks (-3.5),South Carolina Gamecocks,MAIN_PRICE_MOVE,-3.5,-3.5,1.9524,1.9091,0,0.0,1,1.0
+2026-10-01T17:45:10.108520+00:00,17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,spread,Kentucky Wildcats (+3.5),Kentucky Wildcats,MAIN_PRICE_MOVE,3.5,3.5,1.7408,1.7693,0,0.0,1,1.0
+2026-10-01T17:45:10.108520+00:00,17861655,Louisiana Tech Bulldogs vs. Army Black Knights,2026-10-03T23:30:00Z,spread,Louisiana Tech Bulldogs (+1.5),Louisiana Tech Bulldogs,MAIN_SWITCH,1.5,1.5,1.8696,1.8696,0,0.0,1,0.0
+2026-10-01T17:45:10.108520+00:00,17861655,Louisiana Tech Bulldogs vs. Army Black Knights,2026-10-03T23:30:00Z,spread,Army Black Knights (-1.5),Army Black Knights,MAIN_SWITCH,-1.5,-1.5,1.8,1.8,0,0.0,1,0.0
+2026-10-01T17:45:10.108520+00:00,17861655,Louisiana Tech Bulldogs vs. Army Black Knights,2026-10-03T23:30:00Z,spread,Louisiana Tech Bulldogs (+2.5),Louisiana Tech Bulldogs,MAIN_SWITCH,2.5,2.5,1.8,1.8,0,0.0,0,1.0
+2026-10-01T17:45:10.108520+00:00,17861655,Louisiana Tech Bulldogs vs. Army Black Knights,2026-10-03T23:30:00Z,spread,Army Black Knights (-2.5),Army Black Knights,MAIN_SWITCH,-2.5,-2.5,1.8696,1.8696,0,0.0,0,1.0
+2026-10-01T17:45:10.108520+00:00,17647646,Rutgers Scarlet Knights vs. Indiana Hoosiers,2026-10-04T00:00:00Z,spread,Rutgers Scarlet Knights (+23.5),Rutgers Scarlet Knights,MAIN_SWITCH,23.5,23.5,1.8696,1.8696,0,0.0,1,0.0
+2026-10-01T17:45:10.108520+00:00,17647646,Rutgers Scarlet Knights vs. Indiana Hoosiers,2026-10-04T00:00:00Z,spread,Indiana Hoosiers (-23.5),Indiana Hoosiers,MAIN_SWITCH,-23.5,-23.5,1.8,1.8,0,0.0,1,0.0
+2026-10-01T17:45:10.108520+00:00,17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,spread,San Jose State Spartans (+3.5),San Jose State Spartans,MAIN_SWITCH,3.5,3.5,1.7408,1.7408,0,0.0,0,1.0
+2026-10-01T17:45:10.108520+00:00,17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,spread,Hawaii Rainbow Warriors (-3.5),Hawaii Rainbow Warriors,MAIN_SWITCH,-3.5,-3.5,1.9524,1.9524,0,0.0,0,1.0

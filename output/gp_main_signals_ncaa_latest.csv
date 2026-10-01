@@ -1,13 +1,21 @@
 captured_at,event_id,match,start_date,market,selection,side,signal,old_line,new_line,old_price,new_price,old_status,new_status,old_is_main_bet,new_is_main_bet
-2026-10-01T16:15:04.560906+00:00,17626860,Tulsa Golden Hurricane vs. North Texas,2026-10-02T01:00:00Z,total,Plus de 56.5,over,MAIN_SWITCH,56.5,56.5,1.8,1.8,0,0.0,0,1.0
-2026-10-01T16:15:04.560906+00:00,17626860,Tulsa Golden Hurricane vs. North Texas,2026-10-02T01:00:00Z,total,Moins de 56.5,under,MAIN_SWITCH,56.5,56.5,1.8696,1.8696,0,0.0,0,1.0
-2026-10-01T16:15:04.560906+00:00,17626860,Tulsa Golden Hurricane vs. North Texas,2026-10-02T01:00:00Z,total,Plus de 57.5,over,MAIN_SWITCH,57.5,57.5,1.8696,1.8696,0,0.0,1,0.0
-2026-10-01T16:15:04.560906+00:00,17626860,Tulsa Golden Hurricane vs. North Texas,2026-10-02T01:00:00Z,total,Moins de 57.5,under,MAIN_SWITCH,57.5,57.5,1.8,1.8,0,0.0,1,0.0
-2026-10-01T16:15:04.560906+00:00,17861655,Louisiana Tech Bulldogs vs. Army Black Knights,2026-10-03T23:30:00Z,spread,Louisiana Tech Bulldogs (+1.5),Louisiana Tech Bulldogs,MAIN_SWITCH,1.5,1.5,1.8696,1.8696,0,0.0,0,1.0
-2026-10-01T16:15:04.560906+00:00,17861655,Louisiana Tech Bulldogs vs. Army Black Knights,2026-10-03T23:30:00Z,spread,Army Black Knights (-1.5),Army Black Knights,MAIN_SWITCH,-1.5,-1.5,1.8,1.8,0,0.0,0,1.0
-2026-10-01T16:15:04.560906+00:00,17861655,Louisiana Tech Bulldogs vs. Army Black Knights,2026-10-03T23:30:00Z,spread,Louisiana Tech Bulldogs (+2.5),Louisiana Tech Bulldogs,MAIN_SWITCH,2.5,2.5,1.8,1.8,0,0.0,1,0.0
-2026-10-01T16:15:04.560906+00:00,17861655,Louisiana Tech Bulldogs vs. Army Black Knights,2026-10-03T23:30:00Z,spread,Army Black Knights (-2.5),Army Black Knights,MAIN_SWITCH,-2.5,-2.5,1.8696,1.8696,0,0.0,1,0.0
-2026-10-01T16:15:04.560906+00:00,17879269,Idaho Vandals vs. Montana State Bobcats,2026-10-03T02:30:00Z,spread,Montana State Bobcats (-15.5),Montana State Bobcats,REMOVED_MAIN,-15.5,,1.8334,,0,,1,
-2026-10-01T16:15:04.560906+00:00,17879269,Idaho Vandals vs. Montana State Bobcats,2026-10-03T02:30:00Z,spread,Idaho Vandals (+15.5),Idaho Vandals,REMOVED_MAIN,15.5,,1.8334,,0,,1,
-2026-10-01T16:15:04.560906+00:00,17879269,Idaho Vandals vs. Montana State Bobcats,2026-10-03T02:30:00Z,total,Moins de 57.5,under,REMOVED_MAIN,57.5,,1.8334,,0,,1,
-2026-10-01T16:15:04.560906+00:00,17879269,Idaho Vandals vs. Montana State Bobcats,2026-10-03T02:30:00Z,total,Plus de 57.5,over,REMOVED_MAIN,57.5,,1.8334,,0,,1,
+2026-10-01T16:44:28.743404+00:00,17879269,Idaho Vandals vs. Montana State Bobcats,2026-10-03T02:30:00Z,moneyline,Idaho Vandals,Idaho Vandals,STATUS_CHANGE,,,5.25,5.25,7,0.0,0,0.0
+2026-10-01T16:44:28.743404+00:00,17879269,Idaho Vandals vs. Montana State Bobcats,2026-10-03T02:30:00Z,moneyline,Montana State Bobcats,Montana State Bobcats,STATUS_CHANGE,,,1.1112,1.1112,7,0.0,0,0.0
+2026-10-01T16:44:28.743404+00:00,17879269,Idaho Vandals vs. Montana State Bobcats,2026-10-03T02:30:00Z,spread,Idaho Vandals (+15.5),Idaho Vandals,STATUS_CHANGE,15.5,15.5,1.8696,1.8696,7,0.0,1,1.0
+2026-10-01T16:44:28.743404+00:00,17879269,Idaho Vandals vs. Montana State Bobcats,2026-10-03T02:30:00Z,spread,Montana State Bobcats (-15.5),Montana State Bobcats,STATUS_CHANGE,-15.5,-15.5,1.8,1.8,7,0.0,1,1.0
+2026-10-01T16:44:28.743404+00:00,17879269,Idaho Vandals vs. Montana State Bobcats,2026-10-03T02:30:00Z,total,Plus de 57.5,over,STATUS_CHANGE,57.5,57.5,1.8,1.8,7,0.0,1,1.0
+2026-10-01T16:44:28.743404+00:00,17879269,Idaho Vandals vs. Montana State Bobcats,2026-10-03T02:30:00Z,total,Moins de 57.5,under,STATUS_CHANGE,57.5,57.5,1.8696,1.8696,7,0.0,1,1.0
+2026-10-01T16:44:28.743404+00:00,17647624,Wake Forest Demon Deacons vs. Stanford Cardinal,2026-10-03T16:00:00Z,spread,Wake Forest Demon Deacons (-13.5),Wake Forest Demon Deacons,MAIN_PRICE_MOVE,-13.5,-13.5,1.8696,1.8,0,0.0,1,1.0
+2026-10-01T16:44:28.743404+00:00,17647624,Wake Forest Demon Deacons vs. Stanford Cardinal,2026-10-03T16:00:00Z,spread,Stanford Cardinal (+13.5),Stanford Cardinal,MAIN_PRICE_MOVE,13.5,13.5,1.8,1.8696,0,0.0,1,1.0
+2026-10-01T16:44:28.743404+00:00,17861517,UMass Minutemen vs. MICHIGAN EST,2026-10-03T19:30:00Z,spread,UMass Minutemen (-6.5),UMass Minutemen,MAIN_SWITCH,-6.5,-6.5,1.8696,1.8696,0,0.0,1,0.0
+2026-10-01T16:44:28.743404+00:00,17861517,UMass Minutemen vs. MICHIGAN EST,2026-10-03T19:30:00Z,spread,MICHIGAN EST (+6.5),MICHIGAN EST,MAIN_SWITCH,6.5,6.5,1.8,1.8,0,0.0,1,0.0
+2026-10-01T16:44:28.743404+00:00,17861517,UMass Minutemen vs. MICHIGAN EST,2026-10-03T19:30:00Z,spread,UMass Minutemen (-5.5),UMass Minutemen,MAIN_SWITCH,-5.5,-5.5,1.8,1.8,0,0.0,0,1.0
+2026-10-01T16:44:28.743404+00:00,17861517,UMass Minutemen vs. MICHIGAN EST,2026-10-03T19:30:00Z,spread,MICHIGAN EST (+5.5),MICHIGAN EST,MAIN_SWITCH,5.5,5.5,1.8696,1.8696,0,0.0,0,1.0
+2026-10-01T16:44:28.743404+00:00,17861517,UMass Minutemen vs. MICHIGAN EST,2026-10-03T19:30:00Z,total,Moins de 49.5,under,MAIN_SWITCH,49.5,49.5,1.8,1.8,0,0.0,1,0.0
+2026-10-01T16:44:28.743404+00:00,17861517,UMass Minutemen vs. MICHIGAN EST,2026-10-03T19:30:00Z,total,Plus de 48.5,over,MAIN_SWITCH,48.5,48.5,1.8,1.8,0,0.0,0,1.0
+2026-10-01T16:44:28.743404+00:00,17861517,UMass Minutemen vs. MICHIGAN EST,2026-10-03T19:30:00Z,total,Moins de 48.5,under,MAIN_SWITCH,48.5,48.5,1.8696,1.8696,0,0.0,0,1.0
+2026-10-01T16:44:28.743404+00:00,17861517,UMass Minutemen vs. MICHIGAN EST,2026-10-03T19:30:00Z,total,Plus de 49.5,over,MAIN_SWITCH,49.5,49.5,1.8696,1.8696,0,0.0,1,0.0
+2026-10-01T16:44:28.743404+00:00,17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,spread,South Carolina Gamecocks (-3.5),South Carolina Gamecocks,MAIN_SWITCH,-3.5,-3.5,1.9524,1.9524,0,0.0,0,1.0
+2026-10-01T16:44:28.743404+00:00,17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,spread,Kentucky Wildcats (+3.5),Kentucky Wildcats,MAIN_SWITCH,3.5,3.5,1.7408,1.7408,0,0.0,0,1.0
+2026-10-01T16:44:28.743404+00:00,17861575,Coastal Carolina vs. Georgia Southern Eagles,2026-10-03T23:00:00Z,spread,Coastal Carolina (+2.5),Coastal Carolina,MAIN_PRICE_MOVE,2.5,2.5,1.8334,1.8,0,0.0,1,1.0
+2026-10-01T16:44:28.743404+00:00,17861575,Coastal Carolina vs. Georgia Southern Eagles,2026-10-03T23:00:00Z,spread,Georgia Southern Eagles (-2.5),Georgia Southern Eagles,MAIN_PRICE_MOVE,-2.5,-2.5,1.8334,1.8696,0,0.0,1,1.0

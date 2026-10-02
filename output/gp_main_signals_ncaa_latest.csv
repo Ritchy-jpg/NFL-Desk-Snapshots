@@ -1,11 +1,29 @@
 captured_at,event_id,match,start_date,market,selection,side,signal,old_line,new_line,old_price,new_price,old_status,new_status,old_is_main_bet,new_is_main_bet
-2026-10-02T21:17:21.202708+00:00,17647634,Kansas Jayhawks vs. Middle Tennessee Blue Raiders,2026-10-03T16:00:00Z,total,Plus de 50.5,over,MAIN_PRICE_MOVE,50.5,50.5,1.8334,1.8696,0,0.0,1,1.0
-2026-10-02T21:17:21.202708+00:00,17647634,Kansas Jayhawks vs. Middle Tennessee Blue Raiders,2026-10-03T16:00:00Z,total,Moins de 50.5,under,MAIN_PRICE_MOVE,50.5,50.5,1.8334,1.8,0,0.0,1,1.0
-2026-10-02T21:17:21.202708+00:00,17647636,Tennessee Volunteers vs. Auburn Tigers,2026-10-03T19:30:00Z,spread,Tennessee Volunteers (-6.5),Tennessee Volunteers,MAIN_PRICE_MOVE,-6.5,-6.5,1.7408,1.8,0,0.0,1,1.0
-2026-10-02T21:17:21.202708+00:00,17647636,Tennessee Volunteers vs. Auburn Tigers,2026-10-03T19:30:00Z,spread,Auburn Tigers (+6.5),Auburn Tigers,MAIN_PRICE_MOVE,6.5,6.5,1.9524,1.8696,0,0.0,1,1.0
-2026-10-02T21:17:21.202708+00:00,17647645,UNLV Rebels vs. California Golden Bears,2026-10-03T19:30:00Z,total,Plus de 53.5,over,MAIN_PRICE_MOVE,53.5,53.5,1.8696,1.8334,0,0.0,1,1.0
-2026-10-02T21:17:21.202708+00:00,17647645,UNLV Rebels vs. California Golden Bears,2026-10-03T19:30:00Z,total,Moins de 53.5,under,MAIN_PRICE_MOVE,53.5,53.5,1.8,1.8334,0,0.0,1,1.0
-2026-10-02T21:17:21.202708+00:00,17885324,North Carolina Central Eagles vs. Campbell Fighting Camels,2026-10-03T22:00:00Z,spread,North Carolina Central Eagles (+10.5),North Carolina Central Eagles,MAIN_PRICE_MOVE,10.5,10.5,1.8,1.8334,0,0.0,1,1.0
-2026-10-02T21:17:21.202708+00:00,17885324,North Carolina Central Eagles vs. Campbell Fighting Camels,2026-10-03T22:00:00Z,spread,Campbell Fighting Camels (-10.5),Campbell Fighting Camels,MAIN_PRICE_MOVE,-10.5,-10.5,1.8696,1.8334,0,0.0,1,1.0
-2026-10-02T21:17:21.202708+00:00,17647639,USC Trojans vs. Washington Huskies,2026-10-03T23:30:00Z,spread,USC Trojans (-8.5),USC Trojans,MAIN_SWITCH,-8.5,-8.5,1.8,1.8,0,0.0,1,0.0
-2026-10-02T21:17:21.202708+00:00,17647639,USC Trojans vs. Washington Huskies,2026-10-03T23:30:00Z,spread,Washington Huskies (+8.5),Washington Huskies,MAIN_SWITCH,8.5,8.5,1.8696,1.8696,0,0.0,1,0.0
+2026-10-02T21:46:18.970396+00:00,17647638,Texas A&M Aggies vs. Arkansas Razorbacks,2026-10-03T23:00:00Z,total,Plus de 50.5,over,MAIN_PRICE_MOVE,50.5,50.5,1.8334,1.8696,0,0.0,1,1.0
+2026-10-02T21:46:18.970396+00:00,17647638,Texas A&M Aggies vs. Arkansas Razorbacks,2026-10-03T23:00:00Z,total,Moins de 50.5,under,MAIN_PRICE_MOVE,50.5,50.5,1.8334,1.8,0,0.0,1,1.0
+2026-10-02T21:46:18.970396+00:00,17856139,FLORIDE DU SUD vs. Temple Owls,2026-10-03T23:30:00Z,total,Plus de 48.5,over,MAIN_PRICE_MOVE,48.5,48.5,1.8334,1.8696,0,0.0,1,1.0
+2026-10-02T21:46:18.970396+00:00,17856139,FLORIDE DU SUD vs. Temple Owls,2026-10-03T23:30:00Z,total,Moins de 48.5,under,MAIN_PRICE_MOVE,48.5,48.5,1.8334,1.8,0,0.0,1,1.0
+2026-10-02T21:46:18.970396+00:00,17885552,Cal Poly Mustangs vs. Weber State Wildcats,2026-10-04T00:00:00Z,total,Moins de 65.5,under,REMOVED_MAIN,65.5,,1.8334,,0,,1,
+2026-10-02T21:46:18.970396+00:00,17885552,Cal Poly Mustangs vs. Weber State Wildcats,2026-10-04T00:00:00Z,total,Plus de 65.5,over,REMOVED_MAIN,65.5,,1.8334,,0,,1,
+2026-10-02T21:46:18.970396+00:00,17885552,Cal Poly Mustangs vs. Weber State Wildcats,2026-10-04T00:00:00Z,spread,Cal Poly Mustangs (-4.5),Cal Poly Mustangs,REMOVED_MAIN,-4.5,,1.8334,,0,,1,
+2026-10-02T21:46:18.970396+00:00,17885552,Cal Poly Mustangs vs. Weber State Wildcats,2026-10-04T00:00:00Z,spread,Weber State Wildcats (+4.5),Weber State Wildcats,REMOVED_MAIN,4.5,,1.8334,,0,,1,
+2026-10-02T21:46:18.970396+00:00,17885553,Southern Jaguars vs. Arkansas Pine Bluff Golden Lions,2026-10-03T23:00:00Z,total,Moins de 56.5,under,REMOVED_MAIN,56.5,,1.8334,,0,,1,
+2026-10-02T21:46:18.970396+00:00,17885553,Southern Jaguars vs. Arkansas Pine Bluff Golden Lions,2026-10-03T23:00:00Z,total,Plus de 56.5,over,REMOVED_MAIN,56.5,,1.8334,,0,,1,
+2026-10-02T21:46:18.970396+00:00,17885553,Southern Jaguars vs. Arkansas Pine Bluff Golden Lions,2026-10-03T23:00:00Z,spread,Arkansas Pine Bluff Golden Lions (+4.0),Arkansas Pine Bluff Golden Lions,REMOVED_MAIN,4.0,,1.8334,,0,,1,
+2026-10-02T21:46:18.970396+00:00,17885553,Southern Jaguars vs. Arkansas Pine Bluff Golden Lions,2026-10-03T23:00:00Z,spread,Southern Jaguars (-4.0),Southern Jaguars,REMOVED_MAIN,-4.0,,1.8334,,0,,1,
+2026-10-02T21:46:18.970396+00:00,17885556,Houston Christian Huskies vs. Nicholls State Colonels,2026-10-03T23:00:00Z,spread,Houston Christian Huskies (-1.5),Houston Christian Huskies,REMOVED_MAIN,-1.5,,1.8334,,0,,1,
+2026-10-02T21:46:18.970396+00:00,17885556,Houston Christian Huskies vs. Nicholls State Colonels,2026-10-03T23:00:00Z,spread,Nicholls State Colonels (+1.5),Nicholls State Colonels,REMOVED_MAIN,1.5,,1.8334,,0,,1,
+2026-10-02T21:46:18.970396+00:00,17885556,Houston Christian Huskies vs. Nicholls State Colonels,2026-10-03T23:00:00Z,total,Plus de 51.5,over,REMOVED_MAIN,51.5,,1.8334,,0,,1,
+2026-10-02T21:46:18.970396+00:00,17885556,Houston Christian Huskies vs. Nicholls State Colonels,2026-10-03T23:00:00Z,total,Moins de 51.5,under,REMOVED_MAIN,51.5,,1.8334,,0,,1,
+2026-10-02T21:46:18.970396+00:00,17885558,Idaho State Bengals vs. Northern Arizona Lumberjacks,2026-10-04T00:00:00Z,total,Plus de 55.5,over,REMOVED_MAIN,55.5,,1.8334,,0,,1,
+2026-10-02T21:46:18.970396+00:00,17885558,Idaho State Bengals vs. Northern Arizona Lumberjacks,2026-10-04T00:00:00Z,total,Moins de 55.5,under,REMOVED_MAIN,55.5,,1.8334,,0,,1,
+2026-10-02T21:46:18.970396+00:00,17885558,Idaho State Bengals vs. Northern Arizona Lumberjacks,2026-10-04T00:00:00Z,spread,Northern Arizona Lumberjacks (+7.5),Northern Arizona Lumberjacks,REMOVED_MAIN,7.5,,1.7143,,0,,1,
+2026-10-02T21:46:18.970396+00:00,17885558,Idaho State Bengals vs. Northern Arizona Lumberjacks,2026-10-04T00:00:00Z,spread,Idaho State Bengals (-7.5),Idaho State Bengals,REMOVED_MAIN,-7.5,,2.0,,0,,1,
+2026-10-02T21:46:18.970396+00:00,17885560,Texas A&M-Commerce Lions vs. Vallée du Rio Grande de l'UT,2026-10-03T23:00:00Z,total,Moins de 51.5,under,REMOVED_MAIN,51.5,,1.8334,,0,,1,
+2026-10-02T21:46:18.970396+00:00,17885560,Texas A&M-Commerce Lions vs. Vallée du Rio Grande de l'UT,2026-10-03T23:00:00Z,total,Plus de 51.5,over,REMOVED_MAIN,51.5,,1.8334,,0,,1,
+2026-10-02T21:46:18.970396+00:00,17885560,Texas A&M-Commerce Lions vs. Vallée du Rio Grande de l'UT,2026-10-03T23:00:00Z,spread,Vallée du Rio Grande de l'UT (-10.5),Vallée du Rio Grande de l'UT,REMOVED_MAIN,-10.5,,1.8334,,0,,1,
+2026-10-02T21:46:18.970396+00:00,17885560,Texas A&M-Commerce Lions vs. Vallée du Rio Grande de l'UT,2026-10-03T23:00:00Z,spread,Texas A&M-Commerce Lions (+10.5),Texas A&M-Commerce Lions,REMOVED_MAIN,10.5,,1.8334,,0,,1,
+2026-10-02T21:46:18.970396+00:00,17912874,Montana Grizzlies vs. Northern Colorado Bears,2026-10-03T20:00:00Z,spread,Northern Colorado Bears (+26.5),Northern Colorado Bears,REMOVED_MAIN,26.5,,1.8334,,0,,1,
+2026-10-02T21:46:18.970396+00:00,17912874,Montana Grizzlies vs. Northern Colorado Bears,2026-10-03T20:00:00Z,spread,Montana Grizzlies (-26.5),Montana Grizzlies,REMOVED_MAIN,-26.5,,1.8334,,0,,1,
+2026-10-02T21:46:18.970396+00:00,17912874,Montana Grizzlies vs. Northern Colorado Bears,2026-10-03T20:00:00Z,total,Moins de 57.5,under,REMOVED_MAIN,57.5,,1.8334,,0,,1,
+2026-10-02T21:46:18.970396+00:00,17912874,Montana Grizzlies vs. Northern Colorado Bears,2026-10-03T20:00:00Z,total,Plus de 57.5,over,REMOVED_MAIN,57.5,,1.8334,,0,,1,

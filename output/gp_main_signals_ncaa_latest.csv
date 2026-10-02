@@ -1,29 +1,23 @@
 captured_at,event_id,match,start_date,market,selection,side,signal,old_line,new_line,old_price,new_price,old_status,new_status,old_is_main_bet,new_is_main_bet
-2026-10-02T19:47:10.446340+00:00,17647642,Connecticut Huskies vs. Syracuse Orange,2026-10-03T16:00:00Z,spread,Connecticut Huskies (+6.5),Connecticut Huskies,MAIN_PRICE_MOVE,6.5,6.5,1.9524,1.8696,0,0.0,1,1.0
-2026-10-02T19:47:10.446340+00:00,17647642,Connecticut Huskies vs. Syracuse Orange,2026-10-03T16:00:00Z,spread,Syracuse Orange (-6.5),Syracuse Orange,MAIN_PRICE_MOVE,-6.5,-6.5,1.7408,1.8,0,0.0,1,1.0
-2026-10-02T19:47:10.446340+00:00,17884560,New Hampshire Wildcats vs. Elon Phoenix,2026-10-03T17:00:00Z,spread,New Hampshire Wildcats (+10.5),New Hampshire Wildcats,STATUS_CHANGE,10.5,10.5,1.8696,1.8696,7,0.0,1,1.0
-2026-10-02T19:47:10.446340+00:00,17884560,New Hampshire Wildcats vs. Elon Phoenix,2026-10-03T17:00:00Z,spread,Elon Phoenix (-10.5),Elon Phoenix,STATUS_CHANGE,-10.5,-10.5,1.8,1.8,7,0.0,1,1.0
-2026-10-02T19:47:10.446340+00:00,17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Plus de 54.5,over,MAIN_PRICE_MOVE,54.5,54.5,1.8334,1.8696,0,0.0,1,1.0
-2026-10-02T19:47:10.446340+00:00,17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Moins de 54.5,under,MAIN_PRICE_MOVE,54.5,54.5,1.8334,1.8,0,0.0,1,1.0
-2026-10-02T19:47:10.446340+00:00,17647633,Arizona Wildcats vs. Cincinnati Bearcats,2026-10-04T03:00:00Z,spread,Arizona Wildcats (-6.5),Arizona Wildcats,MAIN_PRICE_MOVE,-6.5,-6.5,1.8334,1.8,0,0.0,1,1.0
-2026-10-02T19:47:10.446340+00:00,17647633,Arizona Wildcats vs. Cincinnati Bearcats,2026-10-04T03:00:00Z,spread,Cincinnati Bearcats (+6.5),Cincinnati Bearcats,MAIN_PRICE_MOVE,6.5,6.5,1.8334,1.8696,0,0.0,1,1.0
-2026-10-02T19:47:10.446340+00:00,17885317,Stephen F Austin Lumberjacks vs. Incarnate Word Cardinals,2026-10-03T22:00:00Z,total,Moins de 56.5,under,REMOVED_MAIN,56.5,,1.8334,,0,,1,
-2026-10-02T19:47:10.446340+00:00,17885317,Stephen F Austin Lumberjacks vs. Incarnate Word Cardinals,2026-10-03T22:00:00Z,total,Plus de 56.5,over,REMOVED_MAIN,56.5,,1.8334,,0,,1,
-2026-10-02T19:47:10.446340+00:00,17885317,Stephen F Austin Lumberjacks vs. Incarnate Word Cardinals,2026-10-03T22:00:00Z,spread,Stephen F Austin Lumberjacks (-17.5),Stephen F Austin Lumberjacks,REMOVED_MAIN,-17.5,,1.8334,,0,,1,
-2026-10-02T19:47:10.446340+00:00,17885317,Stephen F Austin Lumberjacks vs. Incarnate Word Cardinals,2026-10-03T22:00:00Z,spread,Incarnate Word Cardinals (+17.5),Incarnate Word Cardinals,REMOVED_MAIN,17.5,,1.8334,,0,,1,
-2026-10-02T19:47:10.446340+00:00,17885318,Jackson State Tigers vs. Alabama A&M Bulldogs,2026-10-03T21:00:00Z,spread,Jackson State Tigers (-9.5),Jackson State Tigers,REMOVED_MAIN,-9.5,,1.8334,,0,,1,
-2026-10-02T19:47:10.446340+00:00,17885318,Jackson State Tigers vs. Alabama A&M Bulldogs,2026-10-03T21:00:00Z,spread,Alabama A&M Bulldogs (+9.5),Alabama A&M Bulldogs,REMOVED_MAIN,9.5,,1.8334,,0,,1,
-2026-10-02T19:47:10.446340+00:00,17885318,Jackson State Tigers vs. Alabama A&M Bulldogs,2026-10-03T21:00:00Z,total,Plus de 49.5,over,REMOVED_MAIN,49.5,,1.8334,,0,,1,
-2026-10-02T19:47:10.446340+00:00,17885318,Jackson State Tigers vs. Alabama A&M Bulldogs,2026-10-03T21:00:00Z,total,Moins de 49.5,under,REMOVED_MAIN,49.5,,1.8334,,0,,1,
-2026-10-02T19:47:10.446340+00:00,17885320,Bethune-Cookman Wildcats vs. Alabama State Hornets,2026-10-03T20:00:00Z,total,Plus de 54.5,over,REMOVED_MAIN,54.5,,1.8334,,0,,1,
-2026-10-02T19:47:10.446340+00:00,17885320,Bethune-Cookman Wildcats vs. Alabama State Hornets,2026-10-03T20:00:00Z,total,Moins de 54.5,under,REMOVED_MAIN,54.5,,1.8334,,0,,1,
-2026-10-02T19:47:10.446340+00:00,17885320,Bethune-Cookman Wildcats vs. Alabama State Hornets,2026-10-03T20:00:00Z,spread,Alabama State Hornets (-7.5),Alabama State Hornets,REMOVED_MAIN,-7.5,,1.8334,,0,,1,
-2026-10-02T19:47:10.446340+00:00,17885320,Bethune-Cookman Wildcats vs. Alabama State Hornets,2026-10-03T20:00:00Z,spread,Bethune-Cookman Wildcats (+7.5),Bethune-Cookman Wildcats,REMOVED_MAIN,7.5,,1.8334,,0,,1,
-2026-10-02T19:47:10.446340+00:00,17885325,Eastern Kentucky Colonels vs. North Alabama Lions,2026-10-03T22:00:00Z,total,Moins de 47.5,under,REMOVED_MAIN,47.5,,1.8334,,0,,1,
-2026-10-02T19:47:10.446340+00:00,17885325,Eastern Kentucky Colonels vs. North Alabama Lions,2026-10-03T22:00:00Z,total,Plus de 47.5,over,REMOVED_MAIN,47.5,,1.8334,,0,,1,
-2026-10-02T19:47:10.446340+00:00,17885325,Eastern Kentucky Colonels vs. North Alabama Lions,2026-10-03T22:00:00Z,spread,Eastern Kentucky Colonels (-1.5),Eastern Kentucky Colonels,REMOVED_MAIN,-1.5,,1.8334,,0,,1,
-2026-10-02T19:47:10.446340+00:00,17885325,Eastern Kentucky Colonels vs. North Alabama Lions,2026-10-03T22:00:00Z,spread,North Alabama Lions (+1.5),North Alabama Lions,REMOVED_MAIN,1.5,,1.8334,,0,,1,
-2026-10-02T19:47:10.446340+00:00,17885553,Southern Jaguars vs. Arkansas Pine Bluff Golden Lions,2026-10-03T23:00:00Z,spread,Arkansas Pine Bluff Golden Lions (+4.5),Arkansas Pine Bluff Golden Lions,REMOVED_MAIN,4.5,,1.8334,,0,,1,
-2026-10-02T19:47:10.446340+00:00,17885553,Southern Jaguars vs. Arkansas Pine Bluff Golden Lions,2026-10-03T23:00:00Z,spread,Southern Jaguars (-4.5),Southern Jaguars,REMOVED_MAIN,-4.5,,1.8334,,0,,1,
-2026-10-02T19:47:10.446340+00:00,17911854,Abilene Christian Wildcats vs. West Florida Argonauts,2026-10-04T00:00:00Z,spread,West Florida Argonauts (+2.5),West Florida Argonauts,REMOVED_MAIN,2.5,,1.8334,,0,,1,
-2026-10-02T19:47:10.446340+00:00,17911854,Abilene Christian Wildcats vs. West Florida Argonauts,2026-10-04T00:00:00Z,spread,Abilene Christian Wildcats (-2.5),Abilene Christian Wildcats,REMOVED_MAIN,-2.5,,1.8334,,0,,1,
+2026-10-02T20:17:00.963924+00:00,17637325,Northwestern Wildcats vs. Penn St Nittany Lions,2026-10-03T00:00:00Z,total,Plus de 46.5,over,MAIN_PRICE_MOVE,46.5,46.5,1.8334,1.8,0,0.0,1,1.0
+2026-10-02T20:17:00.963924+00:00,17637325,Northwestern Wildcats vs. Penn St Nittany Lions,2026-10-03T00:00:00Z,total,Moins de 46.5,under,MAIN_PRICE_MOVE,46.5,46.5,1.8334,1.8696,0,0.0,1,1.0
+2026-10-02T20:17:00.963924+00:00,17856240,Air Force Falcons vs. Navy Midshipmen,2026-10-03T16:00:00Z,spread,Air Force Falcons (-2.5),Air Force Falcons,MAIN_SWITCH,-2.5,-2.5,1.7408,1.7408,0,0.0,0,1.0
+2026-10-02T20:17:00.963924+00:00,17856240,Air Force Falcons vs. Navy Midshipmen,2026-10-03T16:00:00Z,spread,Navy Midshipmen (+2.5),Navy Midshipmen,MAIN_SWITCH,2.5,2.5,1.9524,1.9524,0,0.0,0,1.0
+2026-10-02T20:17:00.963924+00:00,17647625,North Carolina State Wolfpack vs. Louisville Cardinals,2026-10-03T19:30:00Z,spread,Louisville Cardinals (-3.5),Louisville Cardinals,MAIN_PRICE_MOVE,-3.5,-3.5,1.8,1.8696,0,0.0,1,1.0
+2026-10-02T20:17:00.963924+00:00,17647625,North Carolina State Wolfpack vs. Louisville Cardinals,2026-10-03T19:30:00Z,spread,North Carolina State Wolfpack (+3.5),North Carolina State Wolfpack,MAIN_PRICE_MOVE,3.5,3.5,1.8696,1.8,0,0.0,1,1.0
+2026-10-02T20:17:00.963924+00:00,17885320,Bethune-Cookman Wildcats vs. Alabama State Hornets,2026-10-03T20:00:00Z,spread,Bethune-Cookman Wildcats (+7.5),Bethune-Cookman Wildcats,MAIN_PRICE_MOVE,7.5,7.5,1.8334,1.7693,0,0.0,1,1.0
+2026-10-02T20:17:00.963924+00:00,17885320,Bethune-Cookman Wildcats vs. Alabama State Hornets,2026-10-03T20:00:00Z,spread,Alabama State Hornets (-7.5),Alabama State Hornets,MAIN_PRICE_MOVE,-7.5,-7.5,1.8334,1.9091,0,0.0,1,1.0
+2026-10-02T20:17:00.963924+00:00,17647647,Boise State Broncos vs. Utah State Aggies,2026-10-03T23:30:00Z,spread,Boise State Broncos (-18.5),Boise State Broncos,MAIN_PRICE_MOVE,-18.5,-18.5,1.8334,1.8,0,0.0,1,1.0
+2026-10-02T20:17:00.963924+00:00,17647647,Boise State Broncos vs. Utah State Aggies,2026-10-03T23:30:00Z,spread,Utah State Aggies (+18.5),Utah State Aggies,MAIN_PRICE_MOVE,18.5,18.5,1.8334,1.8696,0,0.0,1,1.0
+2026-10-02T20:17:00.963924+00:00,17885313,Charleston Southern Buccaneers vs. Gardner Webb Runnin Bulldogs,2026-10-03T22:00:00Z,spread,Gardner Webb Runnin Bulldogs (-7.5),Gardner Webb Runnin Bulldogs,REMOVED_MAIN,-7.5,,1.8334,,0,,1,
+2026-10-02T20:17:00.963924+00:00,17885313,Charleston Southern Buccaneers vs. Gardner Webb Runnin Bulldogs,2026-10-03T22:00:00Z,spread,Charleston Southern Buccaneers (+7.5),Charleston Southern Buccaneers,REMOVED_MAIN,7.5,,1.8334,,0,,1,
+2026-10-02T20:17:00.963924+00:00,17885313,Charleston Southern Buccaneers vs. Gardner Webb Runnin Bulldogs,2026-10-03T22:00:00Z,total,Plus de 48.5,over,REMOVED_MAIN,48.5,,1.8334,,0,,1,
+2026-10-02T20:17:00.963924+00:00,17885313,Charleston Southern Buccaneers vs. Gardner Webb Runnin Bulldogs,2026-10-03T22:00:00Z,total,Moins de 48.5,under,REMOVED_MAIN,48.5,,1.8334,,0,,1,
+2026-10-02T20:17:00.963924+00:00,17885324,North Carolina Central Eagles vs. Campbell Fighting Camels,2026-10-03T22:00:00Z,total,Moins de 60.5,under,REMOVED_MAIN,60.5,,1.8334,,0,,1,
+2026-10-02T20:17:00.963924+00:00,17885324,North Carolina Central Eagles vs. Campbell Fighting Camels,2026-10-03T22:00:00Z,total,Plus de 60.5,over,REMOVED_MAIN,60.5,,1.8334,,0,,1,
+2026-10-02T20:17:00.963924+00:00,17885324,North Carolina Central Eagles vs. Campbell Fighting Camels,2026-10-03T22:00:00Z,spread,Campbell Fighting Camels (-8.5),Campbell Fighting Camels,REMOVED_MAIN,-8.5,,1.8334,,0,,1,
+2026-10-02T20:17:00.963924+00:00,17885324,North Carolina Central Eagles vs. Campbell Fighting Camels,2026-10-03T22:00:00Z,spread,North Carolina Central Eagles (+8.5),North Carolina Central Eagles,REMOVED_MAIN,8.5,,1.8334,,0,,1,
+2026-10-02T20:17:00.963924+00:00,17885562,Bryant Bulldogs vs. North Carolina A&T Aggies,2026-10-03T22:00:00Z,spread,North Carolina A&T Aggies (+15.5),North Carolina A&T Aggies,REMOVED_MAIN,15.5,,1.8334,,0,,1,
+2026-10-02T20:17:00.963924+00:00,17885562,Bryant Bulldogs vs. North Carolina A&T Aggies,2026-10-03T22:00:00Z,spread,Bryant Bulldogs (-15.5),Bryant Bulldogs,REMOVED_MAIN,-15.5,,1.8334,,0,,1,
+2026-10-02T20:17:00.963924+00:00,17885562,Bryant Bulldogs vs. North Carolina A&T Aggies,2026-10-03T22:00:00Z,total,Moins de 45.5,under,REMOVED_MAIN,45.5,,1.8334,,0,,1,
+2026-10-02T20:17:00.963924+00:00,17885562,Bryant Bulldogs vs. North Carolina A&T Aggies,2026-10-03T22:00:00Z,total,Plus de 45.5,over,REMOVED_MAIN,45.5,,1.8334,,0,,1,

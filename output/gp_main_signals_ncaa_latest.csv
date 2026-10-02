@@ -1,3 +1,11 @@
 captured_at,event_id,match,start_date,market,selection,side,signal,old_line,new_line,old_price,new_price,old_status,new_status,old_is_main_bet,new_is_main_bet
-2026-10-02T15:48:48.992692+00:00,17647643,Mississippi St Bulldogs vs. Alabama Crimson Tide,2026-10-03T16:00:00Z,spread,Mississippi St Bulldogs (+5.5),Mississippi St Bulldogs,MAIN_PRICE_MOVE,5.5,5.5,1.8334,1.8,0,0,1,1
-2026-10-02T15:48:48.992692+00:00,17647643,Mississippi St Bulldogs vs. Alabama Crimson Tide,2026-10-03T16:00:00Z,spread,Alabama Crimson Tide (-5.5),Alabama Crimson Tide,MAIN_PRICE_MOVE,-5.5,-5.5,1.8334,1.8696,0,0,1,1
+2026-10-02T16:18:29.448579+00:00,17647626,Iowa State Cyclones vs. West Virginia Mountaineers,2026-10-03T16:00:00Z,spread,Iowa State Cyclones (-3.5),Iowa State Cyclones,MAIN_PRICE_MOVE,-3.5,-3.5,1.9091,1.9524,0,0.0,1,1.0
+2026-10-02T16:18:29.448579+00:00,17647626,Iowa State Cyclones vs. West Virginia Mountaineers,2026-10-03T16:00:00Z,spread,West Virginia Mountaineers (+3.5),West Virginia Mountaineers,MAIN_PRICE_MOVE,3.5,3.5,1.7693,1.7408,0,0.0,1,1.0
+2026-10-02T16:18:29.448579+00:00,17647648,COLORADO vs. Oregon State Beavers,2026-10-03T22:00:00Z,spread,COLORADO (+6.5),COLORADO,MAIN_PRICE_MOVE,6.5,6.5,1.8696,1.8334,0,0.0,1,1.0
+2026-10-02T16:18:29.448579+00:00,17647648,COLORADO vs. Oregon State Beavers,2026-10-03T22:00:00Z,spread,Oregon State Beavers (-6.5),Oregon State Beavers,MAIN_PRICE_MOVE,-6.5,-6.5,1.8,1.8334,0,0.0,1,1.0
+2026-10-02T16:18:29.448579+00:00,17647646,Rutgers Scarlet Knights vs. Indiana Hoosiers,2026-10-04T00:00:00Z,total,Plus de 56.5,over,MAIN_PRICE_MOVE,56.5,56.5,1.8334,1.8,0,0.0,1,1.0
+2026-10-02T16:18:29.448579+00:00,17647646,Rutgers Scarlet Knights vs. Indiana Hoosiers,2026-10-04T00:00:00Z,total,Moins de 56.5,under,MAIN_PRICE_MOVE,56.5,56.5,1.8334,1.8696,0,0.0,1,1.0
+2026-10-02T16:18:29.448579+00:00,17693215,Kennesaw State Owls vs. Jacksonville State Gamecocks,2026-10-07T23:00:00Z,total,Plus de 49.5,over,MAIN_PRICE_MOVE,49.5,49.5,1.8334,1.8696,0,0.0,1,1.0
+2026-10-02T16:18:29.448579+00:00,17693215,Kennesaw State Owls vs. Jacksonville State Gamecocks,2026-10-07T23:00:00Z,total,Moins de 49.5,under,MAIN_PRICE_MOVE,49.5,49.5,1.8334,1.8,0,0.0,1,1.0
+2026-10-02T16:18:29.448579+00:00,17884322,Columbia Lions vs. Princeton Tigers,2026-10-03T16:00:00Z,spread,Princeton Tigers (+2.5),Princeton Tigers,REMOVED_MAIN,2.5,,1.8,,0,,1,
+2026-10-02T16:18:29.448579+00:00,17884322,Columbia Lions vs. Princeton Tigers,2026-10-03T16:00:00Z,spread,Columbia Lions (-2.5),Columbia Lions,REMOVED_MAIN,-2.5,,1.8696,,0,,1,

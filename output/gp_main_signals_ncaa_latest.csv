@@ -1,39 +1,25 @@
 captured_at,event_id,match,start_date,market,selection,side,signal,old_line,new_line,old_price,new_price,old_status,new_status,old_is_main_bet,new_is_main_bet
-2026-10-02T17:17:45.714716+00:00,17879269,Idaho Vandals vs. Montana State Bobcats,2026-10-03T02:30:00Z,spread,Montana State Bobcats (-14.5),Montana State Bobcats,MAIN_PRICE_MOVE,-14.5,-14.5,1.8334,1.8696,0,0.0,1,1.0
-2026-10-02T17:17:45.714716+00:00,17879269,Idaho Vandals vs. Montana State Bobcats,2026-10-03T02:30:00Z,spread,Idaho Vandals (+14.5),Idaho Vandals,MAIN_PRICE_MOVE,14.5,14.5,1.8334,1.8,0,0.0,1,1.0
-2026-10-02T17:17:45.714716+00:00,17879269,Idaho Vandals vs. Montana State Bobcats,2026-10-03T02:30:00Z,total,Plus de 57.5,over,MAIN_PRICE_MOVE,57.5,57.5,1.8334,1.8,0,0.0,1,1.0
-2026-10-02T17:17:45.714716+00:00,17879269,Idaho Vandals vs. Montana State Bobcats,2026-10-03T02:30:00Z,total,Moins de 57.5,under,MAIN_PRICE_MOVE,57.5,57.5,1.8334,1.8696,0,0.0,1,1.0
-2026-10-02T17:17:45.714716+00:00,17647630,Arizona State Sun Devils vs. Baylor Bears,2026-10-04T02:30:00Z,total,Plus de 48.5,over,MAIN_SWITCH,48.5,48.5,1.8,1.8,0,0.0,1,0.0
-2026-10-02T17:17:45.714716+00:00,17647630,Arizona State Sun Devils vs. Baylor Bears,2026-10-04T02:30:00Z,total,Moins de 48.5,under,MAIN_SWITCH,48.5,48.5,1.8696,1.8696,0,0.0,1,0.0
-2026-10-02T17:17:45.714716+00:00,17647630,Arizona State Sun Devils vs. Baylor Bears,2026-10-04T02:30:00Z,total,Plus de 49.5,over,MAIN_SWITCH,49.5,49.5,1.8696,1.8696,0,0.0,0,1.0
-2026-10-02T17:17:45.714716+00:00,17647630,Arizona State Sun Devils vs. Baylor Bears,2026-10-04T02:30:00Z,total,Moins de 49.5,under,MAIN_SWITCH,49.5,49.5,1.8,1.8,0,0.0,0,1.0
-2026-10-02T17:17:45.714716+00:00,17647652,San Diego State Aztecs vs. Texas State Bobcats,2026-10-04T02:30:00Z,spread,San Diego State Aztecs (+7.5),San Diego State Aztecs,MAIN_SWITCH,7.5,7.5,1.8696,1.8696,0,0.0,0,1.0
-2026-10-02T17:17:45.714716+00:00,17647652,San Diego State Aztecs vs. Texas State Bobcats,2026-10-04T02:30:00Z,spread,Texas State Bobcats (-7.5),Texas State Bobcats,MAIN_SWITCH,-7.5,-7.5,1.8,1.8,0,0.0,0,1.0
-2026-10-02T17:17:45.714716+00:00,17647652,San Diego State Aztecs vs. Texas State Bobcats,2026-10-04T02:30:00Z,spread,San Diego State Aztecs (+8.5),San Diego State Aztecs,MAIN_SWITCH,8.5,8.5,1.8,1.8,0,0.0,1,0.0
-2026-10-02T17:17:45.714716+00:00,17647652,San Diego State Aztecs vs. Texas State Bobcats,2026-10-04T02:30:00Z,spread,Texas State Bobcats (-8.5),Texas State Bobcats,MAIN_SWITCH,-8.5,-8.5,1.8696,1.8696,0,0.0,1,0.0
-2026-10-02T17:17:45.714716+00:00,17884557,Villanova Wildcats vs. Morgan State Bears,2026-10-03T17:00:00Z,total,Plus de 45.5,over,REMOVED_MAIN,45.5,,1.8334,,0,,1,
-2026-10-02T17:17:45.714716+00:00,17884557,Villanova Wildcats vs. Morgan State Bears,2026-10-03T17:00:00Z,total,Moins de 45.5,under,REMOVED_MAIN,45.5,,1.8334,,0,,1,
-2026-10-02T17:17:45.714716+00:00,17884557,Villanova Wildcats vs. Morgan State Bears,2026-10-03T17:00:00Z,spread,Villanova Wildcats (-10.5),Villanova Wildcats,REMOVED_MAIN,-10.5,,1.8334,,0,,1,
-2026-10-02T17:17:45.714716+00:00,17884557,Villanova Wildcats vs. Morgan State Bears,2026-10-03T17:00:00Z,spread,Morgan State Bears (+10.5),Morgan State Bears,REMOVED_MAIN,10.5,,1.8334,,0,,1,
-2026-10-02T17:17:45.714716+00:00,17884561,Presbyterian Blue Hose vs. Saint Thomas Tommies,2026-10-03T16:00:00Z,total,Moins de 54.5,under,REMOVED_MAIN,54.5,,1.8334,,0,,1,
-2026-10-02T17:17:45.714716+00:00,17884561,Presbyterian Blue Hose vs. Saint Thomas Tommies,2026-10-03T16:00:00Z,total,Plus de 54.5,over,REMOVED_MAIN,54.5,,1.8334,,0,,1,
-2026-10-02T17:17:45.714716+00:00,17884561,Presbyterian Blue Hose vs. Saint Thomas Tommies,2026-10-03T16:00:00Z,spread,Presbyterian Blue Hose (+24.5),Presbyterian Blue Hose,REMOVED_MAIN,24.5,,1.8334,,0,,1,
-2026-10-02T17:17:45.714716+00:00,17884561,Presbyterian Blue Hose vs. Saint Thomas Tommies,2026-10-03T16:00:00Z,spread,Saint Thomas Tommies (-24.5),Saint Thomas Tommies,REMOVED_MAIN,-24.5,,1.8334,,0,,1,
-2026-10-02T17:17:45.714716+00:00,17884722,Robert Morris Colonials vs. Norfolk State Spartans,2026-10-03T18:00:00Z,spread,Robert Morris Colonials (-3.5),Robert Morris Colonials,REMOVED_MAIN,-3.5,,1.8334,,0,,1,
-2026-10-02T17:17:45.714716+00:00,17884722,Robert Morris Colonials vs. Norfolk State Spartans,2026-10-03T18:00:00Z,spread,Norfolk State Spartans (+3.5),Norfolk State Spartans,REMOVED_MAIN,3.5,,1.8334,,0,,1,
-2026-10-02T17:17:45.714716+00:00,17884722,Robert Morris Colonials vs. Norfolk State Spartans,2026-10-03T18:00:00Z,total,Moins de 43.5,under,REMOVED_MAIN,43.5,,1.8334,,0,,1,
-2026-10-02T17:17:45.714716+00:00,17884722,Robert Morris Colonials vs. Norfolk State Spartans,2026-10-03T18:00:00Z,total,Plus de 43.5,over,REMOVED_MAIN,43.5,,1.8334,,0,,1,
-2026-10-02T17:17:45.714716+00:00,17884725,Dartmouth Big Green vs. Penn Quakers,2026-10-03T17:30:00Z,spread,Dartmouth Big Green (-7.5),Dartmouth Big Green,REMOVED_MAIN,-7.5,,1.8334,,0,,1,
-2026-10-02T17:17:45.714716+00:00,17884725,Dartmouth Big Green vs. Penn Quakers,2026-10-03T17:30:00Z,spread,Penn Quakers (+7.5),Penn Quakers,REMOVED_MAIN,7.5,,1.8334,,0,,1,
-2026-10-02T17:17:45.714716+00:00,17884725,Dartmouth Big Green vs. Penn Quakers,2026-10-03T17:30:00Z,total,Plus de 39.5,over,REMOVED_MAIN,39.5,,1.8334,,0,,1,
-2026-10-02T17:17:45.714716+00:00,17884725,Dartmouth Big Green vs. Penn Quakers,2026-10-03T17:30:00Z,total,Moins de 39.5,under,REMOVED_MAIN,39.5,,1.8334,,0,,1,
-2026-10-02T17:17:45.714716+00:00,17884726,Furman Paladins vs. Wofford Terriers,2026-10-03T18:00:00Z,total,Moins de 44.5,under,REMOVED_MAIN,44.5,,1.8334,,0,,1,
-2026-10-02T17:17:45.714716+00:00,17884726,Furman Paladins vs. Wofford Terriers,2026-10-03T18:00:00Z,total,Plus de 44.5,over,REMOVED_MAIN,44.5,,1.8334,,0,,1,
-2026-10-02T17:17:45.714716+00:00,17884726,Furman Paladins vs. Wofford Terriers,2026-10-03T18:00:00Z,spread,Wofford Terriers (+4.5),Wofford Terriers,REMOVED_MAIN,4.5,,1.8334,,0,,1,
-2026-10-02T17:17:45.714716+00:00,17884726,Furman Paladins vs. Wofford Terriers,2026-10-03T18:00:00Z,spread,Furman Paladins (-4.5),Furman Paladins,REMOVED_MAIN,-4.5,,1.8334,,0,,1,
-2026-10-02T17:17:45.714716+00:00,17884742,South Carolina State Bulldogs vs. The Citadel Bulldogs,2026-10-03T18:00:00Z,total,Moins de 47.5,under,REMOVED_MAIN,47.5,,1.8334,,0,,1,
-2026-10-02T17:17:45.714716+00:00,17884742,South Carolina State Bulldogs vs. The Citadel Bulldogs,2026-10-03T18:00:00Z,total,Plus de 47.5,over,REMOVED_MAIN,47.5,,1.8334,,0,,1,
-2026-10-02T17:17:45.714716+00:00,17884742,South Carolina State Bulldogs vs. The Citadel Bulldogs,2026-10-03T18:00:00Z,spread,The Citadel Bulldogs (+20.5),The Citadel Bulldogs,REMOVED_MAIN,20.5,,1.8334,,0,,1,
-2026-10-02T17:17:45.714716+00:00,17884742,South Carolina State Bulldogs vs. The Citadel Bulldogs,2026-10-03T18:00:00Z,spread,South Carolina State Bulldogs (-20.5),South Carolina State Bulldogs,REMOVED_MAIN,-20.5,,1.8334,,0,,1,
-2026-10-02T17:17:45.714716+00:00,17885558,Idaho State Bengals vs. Northern Arizona Lumberjacks,2026-10-04T00:00:00Z,spread,Northern Arizona Lumberjacks (+6.5),Northern Arizona Lumberjacks,REMOVED_MAIN,6.5,,1.8334,,0,,1,
-2026-10-02T17:17:45.714716+00:00,17885558,Idaho State Bengals vs. Northern Arizona Lumberjacks,2026-10-04T00:00:00Z,spread,Idaho State Bengals (-6.5),Idaho State Bengals,REMOVED_MAIN,-6.5,,1.8334,,0,,1,
+2026-10-02T17:46:01.209779+00:00,17879269,Idaho Vandals vs. Montana State Bobcats,2026-10-03T02:30:00Z,spread,Montana State Bobcats (-14.5),Montana State Bobcats,MAIN_PRICE_MOVE,-14.5,-14.5,1.8696,1.8334,0,0.0,1,1.0
+2026-10-02T17:46:01.209779+00:00,17879269,Idaho Vandals vs. Montana State Bobcats,2026-10-03T02:30:00Z,spread,Idaho Vandals (+14.5),Idaho Vandals,MAIN_PRICE_MOVE,14.5,14.5,1.8,1.8334,0,0.0,1,1.0
+2026-10-02T17:46:01.209779+00:00,17856240,Air Force Falcons vs. Navy Midshipmen,2026-10-03T16:00:00Z,spread,Air Force Falcons (-3.5),Air Force Falcons,MAIN_PRICE_MOVE,-3.5,-3.5,1.9091,1.9524,0,0.0,1,1.0
+2026-10-02T17:46:01.209779+00:00,17856240,Air Force Falcons vs. Navy Midshipmen,2026-10-03T16:00:00Z,spread,Navy Midshipmen (+3.5),Navy Midshipmen,MAIN_PRICE_MOVE,3.5,3.5,1.7693,1.7408,0,0.0,1,1.0
+2026-10-02T17:46:01.209779+00:00,17856188,Central Mich Chippewas vs. Akron Zips,2026-10-03T19:30:00Z,spread,Central Mich Chippewas (-6.5),Central Mich Chippewas,MAIN_PRICE_MOVE,-6.5,-6.5,1.8334,1.8,0,0.0,1,1.0
+2026-10-02T17:46:01.209779+00:00,17856188,Central Mich Chippewas vs. Akron Zips,2026-10-03T19:30:00Z,spread,Akron Zips (+6.5),Akron Zips,MAIN_PRICE_MOVE,6.5,6.5,1.8334,1.8696,0,0.0,1,1.0
+2026-10-02T17:46:01.209779+00:00,17861575,Coastal Carolina vs. Georgia Southern Eagles,2026-10-03T23:00:00Z,spread,Coastal Carolina (+1.5),Coastal Carolina,MAIN_SWITCH,1.5,1.5,1.8696,1.8696,0,0.0,0,1.0
+2026-10-02T17:46:01.209779+00:00,17861575,Coastal Carolina vs. Georgia Southern Eagles,2026-10-03T23:00:00Z,spread,Georgia Southern Eagles (-1.5),Georgia Southern Eagles,MAIN_SWITCH,-1.5,-1.5,1.8,1.8,0,0.0,0,1.0
+2026-10-02T17:46:01.209779+00:00,17861655,Louisiana Tech Bulldogs vs. Army Black Knights,2026-10-03T23:30:00Z,spread,Louisiana Tech Bulldogs (+1.5),Louisiana Tech Bulldogs,MAIN_PRICE_MOVE,1.5,1.5,1.8696,1.8334,0,0.0,1,1.0
+2026-10-02T17:46:01.209779+00:00,17861655,Louisiana Tech Bulldogs vs. Army Black Knights,2026-10-03T23:30:00Z,spread,Army Black Knights (-1.5),Army Black Knights,MAIN_PRICE_MOVE,-1.5,-1.5,1.8,1.8334,0,0.0,1,1.0
+2026-10-02T17:46:01.209779+00:00,17647630,Arizona State Sun Devils vs. Baylor Bears,2026-10-04T02:30:00Z,total,Plus de 48.5,over,MAIN_SWITCH,48.5,48.5,1.8,1.8,0,0.0,0,1.0
+2026-10-02T17:46:01.209779+00:00,17647630,Arizona State Sun Devils vs. Baylor Bears,2026-10-04T02:30:00Z,total,Moins de 48.5,under,MAIN_SWITCH,48.5,48.5,1.8696,1.8696,0,0.0,0,1.0
+2026-10-02T17:46:01.209779+00:00,17647630,Arizona State Sun Devils vs. Baylor Bears,2026-10-04T02:30:00Z,total,Plus de 49.5,over,MAIN_SWITCH,49.5,49.5,1.8696,1.8696,0,0.0,1,0.0
+2026-10-02T17:46:01.209779+00:00,17647630,Arizona State Sun Devils vs. Baylor Bears,2026-10-04T02:30:00Z,total,Moins de 49.5,under,MAIN_SWITCH,49.5,49.5,1.8,1.8,0,0.0,1,0.0
+2026-10-02T17:46:01.209779+00:00,17884721,South Dakota Coyotes vs. Indiana State Sycamores,2026-10-03T19:00:00Z,total,Moins de 60.5,under,REMOVED_MAIN,60.5,,1.8334,,0,,1,
+2026-10-02T17:46:01.209779+00:00,17884721,South Dakota Coyotes vs. Indiana State Sycamores,2026-10-03T19:00:00Z,total,Plus de 60.5,over,REMOVED_MAIN,60.5,,1.8334,,0,,1,
+2026-10-02T17:46:01.209779+00:00,17884721,South Dakota Coyotes vs. Indiana State Sycamores,2026-10-03T19:00:00Z,spread,South Dakota Coyotes (-18.5),South Dakota Coyotes,REMOVED_MAIN,-18.5,,1.8334,,0,,1,
+2026-10-02T17:46:01.209779+00:00,17884721,South Dakota Coyotes vs. Indiana State Sycamores,2026-10-03T19:00:00Z,spread,Indiana State Sycamores (+18.5),Indiana State Sycamores,REMOVED_MAIN,18.5,,1.8334,,0,,1,
+2026-10-02T17:46:01.209779+00:00,17884724,Grambling State Tigers vs. Alcorn State Braves,2026-10-03T19:00:00Z,total,Plus de 57.5,over,REMOVED_MAIN,57.5,,1.8334,,0,,1,
+2026-10-02T17:46:01.209779+00:00,17884724,Grambling State Tigers vs. Alcorn State Braves,2026-10-03T19:00:00Z,total,Moins de 57.5,under,REMOVED_MAIN,57.5,,1.8334,,0,,1,
+2026-10-02T17:46:01.209779+00:00,17884724,Grambling State Tigers vs. Alcorn State Braves,2026-10-03T19:00:00Z,spread,Grambling State Tigers (-7.5),Grambling State Tigers,REMOVED_MAIN,-7.5,,1.8334,,0,,1,
+2026-10-02T17:46:01.209779+00:00,17884724,Grambling State Tigers vs. Alcorn State Braves,2026-10-03T19:00:00Z,spread,Alcorn State Braves (+7.5),Alcorn State Braves,REMOVED_MAIN,7.5,,1.8334,,0,,1,
+2026-10-02T17:46:01.209779+00:00,17885319,Southern Illinois Salukis vs. Youngstown State Penguins,2026-10-03T21:00:00Z,total,Moins de 62.5,under,REMOVED_MAIN,62.5,,1.8334,,0,,1,
+2026-10-02T17:46:01.209779+00:00,17885319,Southern Illinois Salukis vs. Youngstown State Penguins,2026-10-03T21:00:00Z,total,Plus de 62.5,over,REMOVED_MAIN,62.5,,1.8334,,0,,1,

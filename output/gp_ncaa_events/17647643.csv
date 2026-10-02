@@ -13,8 +13,8 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17647643,Mississippi St Bulldogs vs. Alabama Crimson Tide,2026-10-03T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,Alabama Crimson Tide (-17.5),17.5,3.7,4555805464,0,False
 17647643,Mississippi St Bulldogs vs. Alabama Crimson Tide,2026-10-03T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,Mississippi St Bulldogs (+2.5),2.5,2.35,4555805467,0,False
 17647643,Mississippi St Bulldogs vs. Alabama Crimson Tide,2026-10-03T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,Alabama Crimson Tide (-2.5),2.5,1.5455,4555805468,0,False
-17647643,Mississippi St Bulldogs vs. Alabama Crimson Tide,2026-10-03T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,Mississippi St Bulldogs (+3.5),3.5,2.05,4555805469,0,False
-17647643,Mississippi St Bulldogs vs. Alabama Crimson Tide,2026-10-03T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,Alabama Crimson Tide (-3.5),3.5,1.6897,4555805470,0,False
+17647643,Mississippi St Bulldogs vs. Alabama Crimson Tide,2026-10-03T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,Mississippi St Bulldogs (+3.5),3.5,2.0,4555805469,0,False
+17647643,Mississippi St Bulldogs vs. Alabama Crimson Tide,2026-10-03T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,Alabama Crimson Tide (-3.5),3.5,1.7143,4555805470,0,False
 17647643,Mississippi St Bulldogs vs. Alabama Crimson Tide,2026-10-03T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,Mississippi St Bulldogs (+4.5),4.5,1.9091,4555805471,0,False
 17647643,Mississippi St Bulldogs vs. Alabama Crimson Tide,2026-10-03T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,Alabama Crimson Tide (-4.5),4.5,1.7693,4555805472,0,False
 17647643,Mississippi St Bulldogs vs. Alabama Crimson Tide,2026-10-03T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,Mississippi St Bulldogs (+5.5),5.5,1.8,4555805473,0,True
@@ -56,12 +56,12 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17647643,Mississippi St Bulldogs vs. Alabama Crimson Tide,2026-10-03T16:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 72.5,72.5,1.2858,4555806839,0,False
 17647643,Mississippi St Bulldogs vs. Alabama Crimson Tide,2026-10-03T16:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 57.5,57.5,2.15,4555805528,0,False
 17647643,Mississippi St Bulldogs vs. Alabama Crimson Tide,2026-10-03T16:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 50.5,50.5,3.15,4555805522,0,False
-17647643,Mississippi St Bulldogs vs. Alabama Crimson Tide,2026-10-03T16:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 51.5,51.5,2.9,4555805524,0,False
+17647643,Mississippi St Bulldogs vs. Alabama Crimson Tide,2026-10-03T16:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 51.5,51.5,2.85,4555805524,0,False
 17647643,Mississippi St Bulldogs vs. Alabama Crimson Tide,2026-10-03T16:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 58.5,58.5,2.0,4555805530,0,False
 17647643,Mississippi St Bulldogs vs. Alabama Crimson Tide,2026-10-03T16:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 53.5,53.5,2.6,4555805526,0,False
 17647643,Mississippi St Bulldogs vs. Alabama Crimson Tide,2026-10-03T16:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 50.5,50.5,1.3226,4555805521,0,False
 17647643,Mississippi St Bulldogs vs. Alabama Crimson Tide,2026-10-03T16:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 48.5,48.5,1.2667,4555806802,0,False
-17647643,Mississippi St Bulldogs vs. Alabama Crimson Tide,2026-10-03T16:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 51.5,51.5,1.3637,4555805523,0,False
+17647643,Mississippi St Bulldogs vs. Alabama Crimson Tide,2026-10-03T16:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 51.5,51.5,1.3847,4555805523,0,False
 17647643,Mississippi St Bulldogs vs. Alabama Crimson Tide,2026-10-03T16:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 49.5,49.5,1.3031,4555806804,0,False
 17647643,Mississippi St Bulldogs vs. Alabama Crimson Tide,2026-10-03T16:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 53.5,53.5,1.4546,4555805525,0,False
 17647643,Mississippi St Bulldogs vs. Alabama Crimson Tide,2026-10-03T16:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 52.5,52.5,1.4167,4555806806,0,False
@@ -92,12 +92,12 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17647643,Mississippi St Bulldogs vs. Alabama Crimson Tide,2026-10-03T16:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 63.5,63.5,1.6451,4555806823,0,False
 17647643,Mississippi St Bulldogs vs. Alabama Crimson Tide,2026-10-03T16:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 69.5,69.5,2.9,4555806832,0,False
 17647643,Mississippi St Bulldogs vs. Alabama Crimson Tide,2026-10-03T16:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 64.5,64.5,1.625,4555806825,0,False
-17647643,Mississippi St Bulldogs vs. Alabama Crimson Tide,2026-10-03T16:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 70.5,70.5,3.0,4555806834,0,False
+17647643,Mississippi St Bulldogs vs. Alabama Crimson Tide,2026-10-03T16:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 70.5,70.5,3.1,4555806834,0,False
 17647643,Mississippi St Bulldogs vs. Alabama Crimson Tide,2026-10-03T16:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 66.5,66.5,1.4762,4555806827,0,False
 17647643,Mississippi St Bulldogs vs. Alabama Crimson Tide,2026-10-03T16:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 71.5,71.5,3.2,4555806836,0,False
 17647643,Mississippi St Bulldogs vs. Alabama Crimson Tide,2026-10-03T16:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 67.5,67.5,1.4546,4555806829,0,False
 17647643,Mississippi St Bulldogs vs. Alabama Crimson Tide,2026-10-03T16:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 72.5,72.5,3.4,4555806838,0,False
 17647643,Mississippi St Bulldogs vs. Alabama Crimson Tide,2026-10-03T16:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 68.5,68.5,1.4167,4555806831,0,False
 17647643,Mississippi St Bulldogs vs. Alabama Crimson Tide,2026-10-03T16:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 69.5,69.5,1.3637,4555806833,0,False
-17647643,Mississippi St Bulldogs vs. Alabama Crimson Tide,2026-10-03T16:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 70.5,70.5,1.3572,4555806835,0,False
+17647643,Mississippi St Bulldogs vs. Alabama Crimson Tide,2026-10-03T16:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 70.5,70.5,1.3334,4555806835,0,False
 17647643,Mississippi St Bulldogs vs. Alabama Crimson Tide,2026-10-03T16:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 71.5,71.5,1.3125,4555806837,0,False

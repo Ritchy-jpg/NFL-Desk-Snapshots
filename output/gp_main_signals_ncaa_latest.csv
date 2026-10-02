@@ -1,15 +1,11 @@
 captured_at,event_id,match,start_date,market,selection,side,signal,old_line,new_line,old_price,new_price,old_status,new_status,old_is_main_bet,new_is_main_bet
-2026-10-02T20:47:40.098129+00:00,17637327,Delaware Fightin Blue Hens vs. Liberty Flames,2026-10-02T23:00:00Z,total,Plus de 51.5,over,MAIN_PRICE_MOVE,51.5,51.5,1.8696,1.8334,0,0.0,1,1.0
-2026-10-02T20:47:40.098129+00:00,17637327,Delaware Fightin Blue Hens vs. Liberty Flames,2026-10-02T23:00:00Z,total,Moins de 51.5,under,MAIN_PRICE_MOVE,51.5,51.5,1.8,1.8334,0,0.0,1,1.0
-2026-10-02T20:47:40.098129+00:00,17647628,Houston Cougars vs. UCF Knights,2026-10-03T16:00:00Z,spread,Houston Cougars (-11.5),Houston Cougars,MAIN_SWITCH,-11.5,-11.5,1.8696,1.8696,0,0.0,1,0.0
-2026-10-02T20:47:40.098129+00:00,17647628,Houston Cougars vs. UCF Knights,2026-10-03T16:00:00Z,spread,UCF Knights (+11.5),UCF Knights,MAIN_SWITCH,11.5,11.5,1.8,1.8,0,0.0,1,0.0
-2026-10-02T20:47:40.098129+00:00,17647639,USC Trojans vs. Washington Huskies,2026-10-03T23:30:00Z,spread,USC Trojans (-8.5),USC Trojans,MAIN_SWITCH,-8.5,-8.5,1.8,1.8,0,0.0,0,1.0
-2026-10-02T20:47:40.098129+00:00,17647639,USC Trojans vs. Washington Huskies,2026-10-03T23:30:00Z,spread,Washington Huskies (+8.5),Washington Huskies,MAIN_SWITCH,8.5,8.5,1.8696,1.8696,0,0.0,0,1.0
-2026-10-02T20:47:40.098129+00:00,17885322,Western Carolina Catamounts vs. Tennessee Tech Golden Eagles,2026-10-03T22:00:00Z,total,Plus de 63.5,over,REMOVED_MAIN,63.5,,1.8334,,0,,1,
-2026-10-02T20:47:40.098129+00:00,17885322,Western Carolina Catamounts vs. Tennessee Tech Golden Eagles,2026-10-03T22:00:00Z,total,Moins de 63.5,under,REMOVED_MAIN,63.5,,1.8334,,0,,1,
-2026-10-02T20:47:40.098129+00:00,17885322,Western Carolina Catamounts vs. Tennessee Tech Golden Eagles,2026-10-03T22:00:00Z,spread,Western Carolina Catamounts (+9.5),Western Carolina Catamounts,REMOVED_MAIN,9.5,,1.8334,,0,,1,
-2026-10-02T20:47:40.098129+00:00,17885322,Western Carolina Catamounts vs. Tennessee Tech Golden Eagles,2026-10-03T22:00:00Z,spread,Tennessee Tech Golden Eagles (-9.5),Tennessee Tech Golden Eagles,REMOVED_MAIN,-9.5,,1.8334,,0,,1,
-2026-10-02T20:47:40.098129+00:00,17885555,Illinois State Redbirds vs. South Dakota State Jackrabbits,2026-10-03T23:00:00Z,spread,Illinois State Redbirds (+1.5),Illinois State Redbirds,REMOVED_MAIN,1.5,,1.8334,,0,,1,
-2026-10-02T20:47:40.098129+00:00,17885555,Illinois State Redbirds vs. South Dakota State Jackrabbits,2026-10-03T23:00:00Z,spread,South Dakota State Jackrabbits (-1.5),South Dakota State Jackrabbits,REMOVED_MAIN,-1.5,,1.8334,,0,,1,
-2026-10-02T20:47:40.098129+00:00,17885555,Illinois State Redbirds vs. South Dakota State Jackrabbits,2026-10-03T23:00:00Z,total,Moins de 55.5,under,REMOVED_MAIN,55.5,,1.8334,,0,,1,
-2026-10-02T20:47:40.098129+00:00,17885555,Illinois State Redbirds vs. South Dakota State Jackrabbits,2026-10-03T23:00:00Z,total,Plus de 55.5,over,REMOVED_MAIN,55.5,,1.8334,,0,,1,
+2026-10-02T21:17:21.202708+00:00,17647634,Kansas Jayhawks vs. Middle Tennessee Blue Raiders,2026-10-03T16:00:00Z,total,Plus de 50.5,over,MAIN_PRICE_MOVE,50.5,50.5,1.8334,1.8696,0,0.0,1,1.0
+2026-10-02T21:17:21.202708+00:00,17647634,Kansas Jayhawks vs. Middle Tennessee Blue Raiders,2026-10-03T16:00:00Z,total,Moins de 50.5,under,MAIN_PRICE_MOVE,50.5,50.5,1.8334,1.8,0,0.0,1,1.0
+2026-10-02T21:17:21.202708+00:00,17647636,Tennessee Volunteers vs. Auburn Tigers,2026-10-03T19:30:00Z,spread,Tennessee Volunteers (-6.5),Tennessee Volunteers,MAIN_PRICE_MOVE,-6.5,-6.5,1.7408,1.8,0,0.0,1,1.0
+2026-10-02T21:17:21.202708+00:00,17647636,Tennessee Volunteers vs. Auburn Tigers,2026-10-03T19:30:00Z,spread,Auburn Tigers (+6.5),Auburn Tigers,MAIN_PRICE_MOVE,6.5,6.5,1.9524,1.8696,0,0.0,1,1.0
+2026-10-02T21:17:21.202708+00:00,17647645,UNLV Rebels vs. California Golden Bears,2026-10-03T19:30:00Z,total,Plus de 53.5,over,MAIN_PRICE_MOVE,53.5,53.5,1.8696,1.8334,0,0.0,1,1.0
+2026-10-02T21:17:21.202708+00:00,17647645,UNLV Rebels vs. California Golden Bears,2026-10-03T19:30:00Z,total,Moins de 53.5,under,MAIN_PRICE_MOVE,53.5,53.5,1.8,1.8334,0,0.0,1,1.0
+2026-10-02T21:17:21.202708+00:00,17885324,North Carolina Central Eagles vs. Campbell Fighting Camels,2026-10-03T22:00:00Z,spread,North Carolina Central Eagles (+10.5),North Carolina Central Eagles,MAIN_PRICE_MOVE,10.5,10.5,1.8,1.8334,0,0.0,1,1.0
+2026-10-02T21:17:21.202708+00:00,17885324,North Carolina Central Eagles vs. Campbell Fighting Camels,2026-10-03T22:00:00Z,spread,Campbell Fighting Camels (-10.5),Campbell Fighting Camels,MAIN_PRICE_MOVE,-10.5,-10.5,1.8696,1.8334,0,0.0,1,1.0
+2026-10-02T21:17:21.202708+00:00,17647639,USC Trojans vs. Washington Huskies,2026-10-03T23:30:00Z,spread,USC Trojans (-8.5),USC Trojans,MAIN_SWITCH,-8.5,-8.5,1.8,1.8,0,0.0,1,0.0
+2026-10-02T21:17:21.202708+00:00,17647639,USC Trojans vs. Washington Huskies,2026-10-03T23:30:00Z,spread,Washington Huskies (+8.5),Washington Huskies,MAIN_SWITCH,8.5,8.5,1.8696,1.8696,0,0.0,1,0.0

@@ -1,11 +1,57 @@
 captured_at,event_id,match,start_date,market,selection,side,signal,old_line,new_line,old_price,new_price,old_status,new_status,old_is_main_bet,new_is_main_bet
-2026-10-02T16:18:29.448579+00:00,17647626,Iowa State Cyclones vs. West Virginia Mountaineers,2026-10-03T16:00:00Z,spread,Iowa State Cyclones (-3.5),Iowa State Cyclones,MAIN_PRICE_MOVE,-3.5,-3.5,1.9091,1.9524,0,0.0,1,1.0
-2026-10-02T16:18:29.448579+00:00,17647626,Iowa State Cyclones vs. West Virginia Mountaineers,2026-10-03T16:00:00Z,spread,West Virginia Mountaineers (+3.5),West Virginia Mountaineers,MAIN_PRICE_MOVE,3.5,3.5,1.7693,1.7408,0,0.0,1,1.0
-2026-10-02T16:18:29.448579+00:00,17647648,COLORADO vs. Oregon State Beavers,2026-10-03T22:00:00Z,spread,COLORADO (+6.5),COLORADO,MAIN_PRICE_MOVE,6.5,6.5,1.8696,1.8334,0,0.0,1,1.0
-2026-10-02T16:18:29.448579+00:00,17647648,COLORADO vs. Oregon State Beavers,2026-10-03T22:00:00Z,spread,Oregon State Beavers (-6.5),Oregon State Beavers,MAIN_PRICE_MOVE,-6.5,-6.5,1.8,1.8334,0,0.0,1,1.0
-2026-10-02T16:18:29.448579+00:00,17647646,Rutgers Scarlet Knights vs. Indiana Hoosiers,2026-10-04T00:00:00Z,total,Plus de 56.5,over,MAIN_PRICE_MOVE,56.5,56.5,1.8334,1.8,0,0.0,1,1.0
-2026-10-02T16:18:29.448579+00:00,17647646,Rutgers Scarlet Knights vs. Indiana Hoosiers,2026-10-04T00:00:00Z,total,Moins de 56.5,under,MAIN_PRICE_MOVE,56.5,56.5,1.8334,1.8696,0,0.0,1,1.0
-2026-10-02T16:18:29.448579+00:00,17693215,Kennesaw State Owls vs. Jacksonville State Gamecocks,2026-10-07T23:00:00Z,total,Plus de 49.5,over,MAIN_PRICE_MOVE,49.5,49.5,1.8334,1.8696,0,0.0,1,1.0
-2026-10-02T16:18:29.448579+00:00,17693215,Kennesaw State Owls vs. Jacksonville State Gamecocks,2026-10-07T23:00:00Z,total,Moins de 49.5,under,MAIN_PRICE_MOVE,49.5,49.5,1.8334,1.8,0,0.0,1,1.0
-2026-10-02T16:18:29.448579+00:00,17884322,Columbia Lions vs. Princeton Tigers,2026-10-03T16:00:00Z,spread,Princeton Tigers (+2.5),Princeton Tigers,REMOVED_MAIN,2.5,,1.8,,0,,1,
-2026-10-02T16:18:29.448579+00:00,17884322,Columbia Lions vs. Princeton Tigers,2026-10-03T16:00:00Z,spread,Columbia Lions (-2.5),Columbia Lions,REMOVED_MAIN,-2.5,,1.8696,,0,,1,
+2026-10-02T16:48:34.622439+00:00,17637326,Virginia Tech Hokies vs. Pittsburgh Panthers,2026-10-02T23:00:00Z,spread,Virginia Tech Hokies (-2.5),Virginia Tech Hokies,MAIN_PRICE_MOVE,-2.5,-2.5,1.8334,1.8696,0,0.0,1,1.0
+2026-10-02T16:48:34.622439+00:00,17637326,Virginia Tech Hokies vs. Pittsburgh Panthers,2026-10-02T23:00:00Z,spread,Pittsburgh Panthers (+2.5),Pittsburgh Panthers,MAIN_PRICE_MOVE,2.5,2.5,1.8334,1.8,0,0.0,1,1.0
+2026-10-02T16:48:34.622439+00:00,17637325,Northwestern Wildcats vs. Penn St Nittany Lions,2026-10-03T00:00:00Z,total,Plus de 46.5,over,MAIN_SWITCH,46.5,46.5,1.8696,1.8696,0,0.0,0,1.0
+2026-10-02T16:48:34.622439+00:00,17637325,Northwestern Wildcats vs. Penn St Nittany Lions,2026-10-03T00:00:00Z,total,Moins de 46.5,under,MAIN_SWITCH,46.5,46.5,1.8,1.8,0,0.0,0,1.0
+2026-10-02T16:48:34.622439+00:00,17879269,Idaho Vandals vs. Montana State Bobcats,2026-10-03T02:30:00Z,spread,Montana State Bobcats (-14.5),Montana State Bobcats,MAIN_PRICE_MOVE,-14.5,-14.5,1.8696,1.8334,0,0.0,1,1.0
+2026-10-02T16:48:34.622439+00:00,17879269,Idaho Vandals vs. Montana State Bobcats,2026-10-03T02:30:00Z,spread,Idaho Vandals (+14.5),Idaho Vandals,MAIN_PRICE_MOVE,14.5,14.5,1.8,1.8334,0,0.0,1,1.0
+2026-10-02T16:48:34.622439+00:00,17647631,Minnesota U Gophers vs. Michigan Wolverines,2026-10-03T16:00:00Z,spread,Minnesota U Gophers (+5.5),Minnesota U Gophers,MAIN_PRICE_MOVE,5.5,5.5,1.8,1.8334,0,0.0,1,1.0
+2026-10-02T16:48:34.622439+00:00,17647631,Minnesota U Gophers vs. Michigan Wolverines,2026-10-03T16:00:00Z,spread,Michigan Wolverines (-5.5),Michigan Wolverines,MAIN_PRICE_MOVE,-5.5,-5.5,1.8696,1.8334,0,0.0,1,1.0
+2026-10-02T16:48:34.622439+00:00,17879330,Central Connecticut Blue Devils vs. Wagner Seahawks,2026-10-03T16:00:00Z,total,Moins de 45.5,under,REMOVED_MAIN,45.5,,1.8334,,0,,1,
+2026-10-02T16:48:34.622439+00:00,17879330,Central Connecticut Blue Devils vs. Wagner Seahawks,2026-10-03T16:00:00Z,total,Plus de 45.5,over,REMOVED_MAIN,45.5,,1.8334,,0,,1,
+2026-10-02T16:48:34.622439+00:00,17879330,Central Connecticut Blue Devils vs. Wagner Seahawks,2026-10-03T16:00:00Z,spread,Wagner Seahawks (+14.5),Wagner Seahawks,REMOVED_MAIN,14.5,,1.8334,,0,,1,
+2026-10-02T16:48:34.622439+00:00,17879330,Central Connecticut Blue Devils vs. Wagner Seahawks,2026-10-03T16:00:00Z,spread,Central Connecticut Blue Devils (-14.5),Central Connecticut Blue Devils,REMOVED_MAIN,-14.5,,1.8334,,0,,1,
+2026-10-02T16:48:34.622439+00:00,17884304,Georgetown Hoyas vs. Cornell Big Red,2026-10-03T16:30:00Z,spread,Cornell Big Red (-7.5),Cornell Big Red,REMOVED_MAIN,-7.5,,1.8334,,0,,1,
+2026-10-02T16:48:34.622439+00:00,17884304,Georgetown Hoyas vs. Cornell Big Red,2026-10-03T16:30:00Z,spread,Georgetown Hoyas (+7.5),Georgetown Hoyas,REMOVED_MAIN,7.5,,1.8334,,0,,1,
+2026-10-02T16:48:34.622439+00:00,17884304,Georgetown Hoyas vs. Cornell Big Red,2026-10-03T16:30:00Z,total,Moins de 45.5,under,REMOVED_MAIN,45.5,,1.8334,,0,,1,
+2026-10-02T16:48:34.622439+00:00,17884304,Georgetown Hoyas vs. Cornell Big Red,2026-10-03T16:30:00Z,total,Plus de 45.5,over,REMOVED_MAIN,45.5,,1.8334,,0,,1,
+2026-10-02T16:48:34.622439+00:00,17884305,Lafayette Leopards vs. Richmond Spiders,2026-10-03T16:30:00Z,spread,Lafayette Leopards (+6.5),Lafayette Leopards,REMOVED_MAIN,6.5,,1.8334,,0,,1,
+2026-10-02T16:48:34.622439+00:00,17884305,Lafayette Leopards vs. Richmond Spiders,2026-10-03T16:30:00Z,spread,Richmond Spiders (-6.5),Richmond Spiders,REMOVED_MAIN,-6.5,,1.8334,,0,,1,
+2026-10-02T16:48:34.622439+00:00,17884305,Lafayette Leopards vs. Richmond Spiders,2026-10-03T16:30:00Z,total,Moins de 42.5,under,REMOVED_MAIN,42.5,,1.8334,,0,,1,
+2026-10-02T16:48:34.622439+00:00,17884305,Lafayette Leopards vs. Richmond Spiders,2026-10-03T16:30:00Z,total,Plus de 42.5,over,REMOVED_MAIN,42.5,,1.8334,,0,,1,
+2026-10-02T16:48:34.622439+00:00,17884307,Rhode Island Rams vs. Brown Bears,2026-10-03T16:00:00Z,spread,Brown Bears (+3.5),Brown Bears,REMOVED_MAIN,3.5,,1.8334,,0,,1,
+2026-10-02T16:48:34.622439+00:00,17884307,Rhode Island Rams vs. Brown Bears,2026-10-03T16:00:00Z,spread,Rhode Island Rams (-3.5),Rhode Island Rams,REMOVED_MAIN,-3.5,,1.8334,,0,,1,
+2026-10-02T16:48:34.622439+00:00,17884307,Rhode Island Rams vs. Brown Bears,2026-10-03T16:00:00Z,total,Moins de 42.5,under,REMOVED_MAIN,42.5,,1.8334,,0,,1,
+2026-10-02T16:48:34.622439+00:00,17884307,Rhode Island Rams vs. Brown Bears,2026-10-03T16:00:00Z,total,Plus de 42.5,over,REMOVED_MAIN,42.5,,1.8334,,0,,1,
+2026-10-02T16:48:34.622439+00:00,17884316,Lehigh Mountain Hawks vs. Fordham Rams,2026-10-03T16:00:00Z,spread,Lehigh Mountain Hawks (-21.5),Lehigh Mountain Hawks,REMOVED_MAIN,-21.5,,1.8334,,0,,1,
+2026-10-02T16:48:34.622439+00:00,17884316,Lehigh Mountain Hawks vs. Fordham Rams,2026-10-03T16:00:00Z,spread,Fordham Rams (+21.5),Fordham Rams,REMOVED_MAIN,21.5,,1.8334,,0,,1,
+2026-10-02T16:48:34.622439+00:00,17884316,Lehigh Mountain Hawks vs. Fordham Rams,2026-10-03T16:00:00Z,total,Plus de 44.5,over,REMOVED_MAIN,44.5,,1.8334,,0,,1,
+2026-10-02T16:48:34.622439+00:00,17884316,Lehigh Mountain Hawks vs. Fordham Rams,2026-10-03T16:00:00Z,total,Moins de 44.5,under,REMOVED_MAIN,44.5,,1.8334,,0,,1,
+2026-10-02T16:48:34.622439+00:00,17884317,Liu Sharks vs. Mercyhurst Lakers,2026-10-03T16:00:00Z,total,Plus de 42.5,over,REMOVED_MAIN,42.5,,1.8334,,0,,1,
+2026-10-02T16:48:34.622439+00:00,17884317,Liu Sharks vs. Mercyhurst Lakers,2026-10-03T16:00:00Z,total,Moins de 42.5,under,REMOVED_MAIN,42.5,,1.8334,,0,,1,
+2026-10-02T16:48:34.622439+00:00,17884317,Liu Sharks vs. Mercyhurst Lakers,2026-10-03T16:00:00Z,spread,Liu Sharks (-9.5),Liu Sharks,REMOVED_MAIN,-9.5,,1.8334,,0,,1,
+2026-10-02T16:48:34.622439+00:00,17884317,Liu Sharks vs. Mercyhurst Lakers,2026-10-03T16:00:00Z,spread,Mercyhurst Lakers (+9.5),Mercyhurst Lakers,REMOVED_MAIN,9.5,,1.8334,,0,,1,
+2026-10-02T16:48:34.622439+00:00,17884322,Columbia Lions vs. Princeton Tigers,2026-10-03T16:00:00Z,total,Moins de 42.5,under,REMOVED_MAIN,42.5,,1.8334,,0,,1,
+2026-10-02T16:48:34.622439+00:00,17884322,Columbia Lions vs. Princeton Tigers,2026-10-03T16:00:00Z,total,Plus de 42.5,over,REMOVED_MAIN,42.5,,1.8334,,0,,1,
+2026-10-02T16:48:34.622439+00:00,17884322,Columbia Lions vs. Princeton Tigers,2026-10-03T16:00:00Z,spread,Princeton Tigers (-1.5),Princeton Tigers,REMOVED_MAIN,-1.5,,2.0,,0,,1,
+2026-10-02T16:48:34.622439+00:00,17884322,Columbia Lions vs. Princeton Tigers,2026-10-03T16:00:00Z,spread,Columbia Lions (+1.5),Columbia Lions,REMOVED_MAIN,1.5,,1.7143,,0,,1,
+2026-10-02T16:48:34.622439+00:00,17884323,Yale Bulldogs vs. Merrimack Warriors,2026-10-03T16:00:00Z,total,Plus de 51.5,over,REMOVED_MAIN,51.5,,1.8334,,0,,1,
+2026-10-02T16:48:34.622439+00:00,17884323,Yale Bulldogs vs. Merrimack Warriors,2026-10-03T16:00:00Z,total,Moins de 51.5,under,REMOVED_MAIN,51.5,,1.8334,,0,,1,
+2026-10-02T16:48:34.622439+00:00,17884323,Yale Bulldogs vs. Merrimack Warriors,2026-10-03T16:00:00Z,spread,Yale Bulldogs (-12.5),Yale Bulldogs,REMOVED_MAIN,-12.5,,1.8334,,0,,1,
+2026-10-02T16:48:34.622439+00:00,17884323,Yale Bulldogs vs. Merrimack Warriors,2026-10-03T16:00:00Z,spread,Merrimack Warriors (+12.5),Merrimack Warriors,REMOVED_MAIN,12.5,,1.8334,,0,,1,
+2026-10-02T16:48:34.622439+00:00,17884560,New Hampshire Wildcats vs. Elon Phoenix,2026-10-03T17:00:00Z,spread,Elon Phoenix (-10.5),Elon Phoenix,REMOVED_MAIN,-10.5,,1.8334,,0,,1,
+2026-10-02T16:48:34.622439+00:00,17884560,New Hampshire Wildcats vs. Elon Phoenix,2026-10-03T17:00:00Z,spread,New Hampshire Wildcats (+10.5),New Hampshire Wildcats,REMOVED_MAIN,10.5,,1.8334,,0,,1,
+2026-10-02T16:48:34.622439+00:00,17884560,New Hampshire Wildcats vs. Elon Phoenix,2026-10-03T17:00:00Z,total,Moins de 44.5,under,REMOVED_MAIN,44.5,,1.8334,,0,,1,
+2026-10-02T16:48:34.622439+00:00,17884560,New Hampshire Wildcats vs. Elon Phoenix,2026-10-03T17:00:00Z,total,Plus de 44.5,over,REMOVED_MAIN,44.5,,1.8334,,0,,1,
+2026-10-02T16:48:34.622439+00:00,17884562,Drake Bulldogs vs. Dayton Flyers,2026-10-03T17:00:00Z,total,Moins de 53.5,under,REMOVED_MAIN,53.5,,1.8334,,0,,1,
+2026-10-02T16:48:34.622439+00:00,17884562,Drake Bulldogs vs. Dayton Flyers,2026-10-03T17:00:00Z,total,Plus de 53.5,over,REMOVED_MAIN,53.5,,1.8334,,0,,1,
+2026-10-02T16:48:34.622439+00:00,17884562,Drake Bulldogs vs. Dayton Flyers,2026-10-03T17:00:00Z,spread,Dayton Flyers (-5.5),Dayton Flyers,REMOVED_MAIN,-5.5,,1.8334,,0,,1,
+2026-10-02T16:48:34.622439+00:00,17884562,Drake Bulldogs vs. Dayton Flyers,2026-10-03T17:00:00Z,spread,Drake Bulldogs (+5.5),Drake Bulldogs,REMOVED_MAIN,5.5,,1.8334,,0,,1,
+2026-10-02T16:48:34.622439+00:00,17884563,Stetson Hatters vs. Marist Red Foxes,2026-10-03T17:00:00Z,spread,Marist Red Foxes (-15.5),Marist Red Foxes,REMOVED_MAIN,-15.5,,1.8334,,0,,1,
+2026-10-02T16:48:34.622439+00:00,17884563,Stetson Hatters vs. Marist Red Foxes,2026-10-03T17:00:00Z,spread,Stetson Hatters (+15.5),Stetson Hatters,REMOVED_MAIN,15.5,,1.8334,,0,,1,
+2026-10-02T16:48:34.622439+00:00,17884563,Stetson Hatters vs. Marist Red Foxes,2026-10-03T17:00:00Z,total,Moins de 49.5,under,REMOVED_MAIN,49.5,,1.8334,,0,,1,
+2026-10-02T16:48:34.622439+00:00,17884563,Stetson Hatters vs. Marist Red Foxes,2026-10-03T17:00:00Z,total,Plus de 49.5,over,REMOVED_MAIN,49.5,,1.8334,,0,,1,
+2026-10-02T16:48:34.622439+00:00,17884564,Monmouth Hawks vs. Towson Tigers,2026-10-03T17:00:00Z,spread,Towson Tigers (+10.5),Towson Tigers,REMOVED_MAIN,10.5,,1.8334,,0,,1,
+2026-10-02T16:48:34.622439+00:00,17884564,Monmouth Hawks vs. Towson Tigers,2026-10-03T17:00:00Z,spread,Monmouth Hawks (-10.5),Monmouth Hawks,REMOVED_MAIN,-10.5,,1.8334,,0,,1,
+2026-10-02T16:48:34.622439+00:00,17884564,Monmouth Hawks vs. Towson Tigers,2026-10-03T17:00:00Z,total,Moins de 55.5,under,REMOVED_MAIN,55.5,,1.8334,,0,,1,
+2026-10-02T16:48:34.622439+00:00,17884564,Monmouth Hawks vs. Towson Tigers,2026-10-03T17:00:00Z,total,Plus de 55.5,over,REMOVED_MAIN,55.5,,1.8334,,0,,1,

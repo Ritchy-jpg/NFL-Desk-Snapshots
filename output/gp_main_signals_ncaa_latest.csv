@@ -1,7 +1,5 @@
 captured_at,event_id,match,start_date,market,selection,side,signal,old_line,new_line,old_price,new_price,old_status,new_status,old_is_main_bet,new_is_main_bet
-2026-10-03T09:44:52.492720+00:00,17884304,Georgetown Hoyas vs. Cornell Big Red,2026-10-03T16:30:00Z,total,Plus de 45.5,over,MAIN_PRICE_MOVE,45.5,45.5,1.8334,1.8696,0,0,1,1
-2026-10-03T09:44:52.492720+00:00,17884304,Georgetown Hoyas vs. Cornell Big Red,2026-10-03T16:30:00Z,total,Moins de 45.5,under,MAIN_PRICE_MOVE,45.5,45.5,1.8334,1.8,0,0,1,1
-2026-10-03T09:44:52.492720+00:00,17884563,Stetson Hatters vs. Marist Red Foxes,2026-10-03T17:00:00Z,spread,Stetson Hatters (+16.5),Stetson Hatters,MAIN_SWITCH,16.5,16.5,1.7693,1.7693,7,7,1,0
-2026-10-03T09:44:52.492720+00:00,17884563,Stetson Hatters vs. Marist Red Foxes,2026-10-03T17:00:00Z,spread,Marist Red Foxes (-16.5),Marist Red Foxes,MAIN_SWITCH,-16.5,-16.5,1.9091,1.9091,7,7,1,0
-2026-10-03T09:44:52.492720+00:00,17884742,South Carolina State Bulldogs vs. The Citadel Bulldogs,2026-10-03T18:00:00Z,spread,South Carolina State Bulldogs (-20.5),South Carolina State Bulldogs,STATUS_CHANGE,-20.5,-20.5,1.8334,1.8334,7,0,1,1
-2026-10-03T09:44:52.492720+00:00,17884742,South Carolina State Bulldogs vs. The Citadel Bulldogs,2026-10-03T18:00:00Z,spread,The Citadel Bulldogs (+20.5),The Citadel Bulldogs,STATUS_CHANGE,20.5,20.5,1.8334,1.8334,7,0,1,1
+2026-10-03T09:59:29.530334+00:00,17885311,Western Illinois Leathernecks vs. Tennessee State Tigers,2026-10-03T20:00:00Z,spread,Tennessee State Tigers (+12.5),Tennessee State Tigers,REMOVED_MAIN,12.5,,1.8334,,0,,1,
+2026-10-03T09:59:29.530334+00:00,17885311,Western Illinois Leathernecks vs. Tennessee State Tigers,2026-10-03T20:00:00Z,spread,Western Illinois Leathernecks (-12.5),Western Illinois Leathernecks,REMOVED_MAIN,-12.5,,1.8334,,0,,1,
+2026-10-03T09:59:29.530334+00:00,17885311,Western Illinois Leathernecks vs. Tennessee State Tigers,2026-10-03T20:00:00Z,total,Moins de 51.5,under,REMOVED_MAIN,51.5,,1.8334,,0,,1,
+2026-10-03T09:59:29.530334+00:00,17885311,Western Illinois Leathernecks vs. Tennessee State Tigers,2026-10-03T20:00:00Z,total,Plus de 51.5,over,REMOVED_MAIN,51.5,,1.8334,,0,,1,

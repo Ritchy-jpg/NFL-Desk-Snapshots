@@ -1961,14 +1961,10 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17856158,Ball State Cardinals vs. Toledo Rockets,2026-10-03T18:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 52.5,52.5,1.8,4564683626,0,True
 17884726,Furman Paladins vs. Wofford Terriers,2026-10-03T18:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Wofford Terriers,,2.35,4587397984,0,False
 17884726,Furman Paladins vs. Wofford Terriers,2026-10-03T18:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Furman Paladins,,1.5,4587397983,0,False
-17884726,Furman Paladins vs. Wofford Terriers,2026-10-03T18:00:00Z,spread,Handicap (inclus prolongations),223,70799,Furman Paladins (-4.5),-4.5,1.8334,4587397819,7,True
-17884726,Furman Paladins vs. Wofford Terriers,2026-10-03T18:00:00Z,spread,Handicap (inclus prolongations),223,70799,Wofford Terriers (+4.5),-4.5,1.8334,4587397820,7,True
+17884726,Furman Paladins vs. Wofford Terriers,2026-10-03T18:00:00Z,spread,Handicap (inclus prolongations),223,70799,Furman Paladins (-4.5),-4.5,1.8,4587397819,0,True
+17884726,Furman Paladins vs. Wofford Terriers,2026-10-03T18:00:00Z,spread,Handicap (inclus prolongations),223,70799,Wofford Terriers (+4.5),-4.5,1.8696,4587397820,0,True
 17884726,Furman Paladins vs. Wofford Terriers,2026-10-03T18:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 44.5,44.5,1.8,4587397985,0,True
 17884726,Furman Paladins vs. Wofford Terriers,2026-10-03T18:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 44.5,44.5,1.8696,4587397986,0,True
-17912836,North Dakota Fighting Hawks vs. Murray State Racers,2026-10-03T18:00:00Z,spread,Handicap (inclus prolongations),223,70799,Murray State Racers (+35.5),-35.5,1.8334,4587239974,0,True
-17912836,North Dakota Fighting Hawks vs. Murray State Racers,2026-10-03T18:00:00Z,spread,Handicap (inclus prolongations),223,70799,North Dakota Fighting Hawks (-35.5),-35.5,1.8334,4587239975,0,True
-17912836,North Dakota Fighting Hawks vs. Murray State Racers,2026-10-03T18:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 60.5,60.5,1.8334,4587239976,0,True
-17912836,North Dakota Fighting Hawks vs. Murray State Racers,2026-10-03T18:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 60.5,60.5,1.8334,4587239977,0,True
 17884722,Robert Morris Colonials vs. Norfolk State Spartans,2026-10-03T18:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Robert Morris Colonials,,1.5264,4587400811,0,False
 17884722,Robert Morris Colonials vs. Norfolk State Spartans,2026-10-03T18:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Norfolk State Spartans,,2.3,4587400812,0,False
 17884722,Robert Morris Colonials vs. Norfolk State Spartans,2026-10-03T18:00:00Z,spread,Handicap (inclus prolongations),223,70799,Robert Morris Colonials (-3.5),-3.5,1.8,4587400813,0,True
@@ -3833,12 +3829,12 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17885327,San Diego Toreros vs. Davidson Wildcats,2026-10-03T20:00:00Z,spread,Handicap (inclus prolongations),223,70799,San Diego Toreros (-16.5),-16.5,1.8334,4588616367,0,True
 17885327,San Diego Toreros vs. Davidson Wildcats,2026-10-03T20:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 63.5,63.5,1.8334,4588616926,0,True
 17885327,San Diego Toreros vs. Davidson Wildcats,2026-10-03T20:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 63.5,63.5,1.8334,4588616927,0,True
-17885311,Western Illinois Leathernecks vs. Tennessee State Tigers,2026-10-03T20:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Western Illinois Leathernecks,,1.1334,4587277473,0,False
-17885311,Western Illinois Leathernecks vs. Tennessee State Tigers,2026-10-03T20:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Tennessee State Tigers,,4.75,4587277474,0,False
-17885311,Western Illinois Leathernecks vs. Tennessee State Tigers,2026-10-03T20:00:00Z,spread,Handicap (inclus prolongations),223,70799,Tennessee State Tigers (+12.5),-12.5,1.8334,4587277475,0,True
-17885311,Western Illinois Leathernecks vs. Tennessee State Tigers,2026-10-03T20:00:00Z,spread,Handicap (inclus prolongations),223,70799,Western Illinois Leathernecks (-12.5),-12.5,1.8334,4587277476,0,True
-17885311,Western Illinois Leathernecks vs. Tennessee State Tigers,2026-10-03T20:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 51.5,51.5,1.8334,4587277480,0,True
-17885311,Western Illinois Leathernecks vs. Tennessee State Tigers,2026-10-03T20:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 51.5,51.5,1.8334,4587277479,0,True
+17885311,Western Illinois Leathernecks vs. Tennessee State Tigers,2026-10-03T20:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Western Illinois Leathernecks,,1.1667,4589850348,7,False
+17885311,Western Illinois Leathernecks vs. Tennessee State Tigers,2026-10-03T20:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Tennessee State Tigers,,4.25,4589850349,7,False
+17885311,Western Illinois Leathernecks vs. Tennessee State Tigers,2026-10-03T20:00:00Z,spread,Handicap (inclus prolongations),223,70799,Western Illinois Leathernecks (-12.5),-12.5,1.8334,4589847750,7,True
+17885311,Western Illinois Leathernecks vs. Tennessee State Tigers,2026-10-03T20:00:00Z,spread,Handicap (inclus prolongations),223,70799,Tennessee State Tigers (+12.5),-12.5,1.8334,4589847751,7,True
+17885311,Western Illinois Leathernecks vs. Tennessee State Tigers,2026-10-03T20:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 51.5,51.5,1.8,4589847659,7,True
+17885311,Western Illinois Leathernecks vs. Tennessee State Tigers,2026-10-03T20:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 51.5,51.5,1.8696,4589847660,7,True
 17647650,Illinois Fighting Illini vs. Purdue Boilermakers,2026-10-03T20:15:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Illinois Fighting Illini,,1.2353,4564347632,0,False
 17647650,Illinois Fighting Illini vs. Purdue Boilermakers,2026-10-03T20:15:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Purdue Boilermakers,,3.6,4564347633,0,False
 17647650,Illinois Fighting Illini vs. Purdue Boilermakers,2026-10-03T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Illinois Fighting Illini (+1.5),1.5,1.2223,4564347457,0,False

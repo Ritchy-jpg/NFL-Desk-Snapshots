@@ -28,8 +28,8 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17856158,Ball State Cardinals vs. Toledo Rockets,2026-10-03T18:00:00Z,spread,Handicap (inclus prolongations),223,70799,Ball State Cardinals (+20.5),20.5,1.9091,4564683437,0,True
 17856158,Ball State Cardinals vs. Toledo Rockets,2026-10-03T18:00:00Z,spread,Handicap (inclus prolongations),223,70799,Ball State Cardinals (+21.5),21.5,1.7693,4564683439,0,False
 17856158,Ball State Cardinals vs. Toledo Rockets,2026-10-03T18:00:00Z,spread,Handicap (inclus prolongations),223,70799,Toledo Rockets (-27.5),27.5,2.55,4565149486,0,False
-17856158,Ball State Cardinals vs. Toledo Rockets,2026-10-03T18:00:00Z,spread,Handicap (inclus prolongations),223,70799,Ball State Cardinals (+22.5),22.5,1.7143,4564683441,0,False
-17856158,Ball State Cardinals vs. Toledo Rockets,2026-10-03T18:00:00Z,spread,Handicap (inclus prolongations),223,70799,Toledo Rockets (-22.5),22.5,2.0,4564683442,0,False
+17856158,Ball State Cardinals vs. Toledo Rockets,2026-10-03T18:00:00Z,spread,Handicap (inclus prolongations),223,70799,Ball State Cardinals (+22.5),22.5,1.7408,4564683441,0,False
+17856158,Ball State Cardinals vs. Toledo Rockets,2026-10-03T18:00:00Z,spread,Handicap (inclus prolongations),223,70799,Toledo Rockets (-22.5),22.5,1.9524,4564683442,0,False
 17856158,Ball State Cardinals vs. Toledo Rockets,2026-10-03T18:00:00Z,spread,Handicap (inclus prolongations),223,70799,Ball State Cardinals (+29.5),29.5,1.3847,4567398579,0,False
 17856158,Ball State Cardinals vs. Toledo Rockets,2026-10-03T18:00:00Z,spread,Handicap (inclus prolongations),223,70799,Ball State Cardinals (+23.5),23.5,1.6897,4564683443,0,False
 17856158,Ball State Cardinals vs. Toledo Rockets,2026-10-03T18:00:00Z,spread,Handicap (inclus prolongations),223,70799,Ball State Cardinals (+3.5),3.5,5.5,4564683445,7,False
@@ -38,7 +38,7 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17856158,Ball State Cardinals vs. Toledo Rockets,2026-10-03T18:00:00Z,spread,Handicap (inclus prolongations),223,70799,Toledo Rockets (-23.5),23.5,2.05,4564683444,0,False
 17856158,Ball State Cardinals vs. Toledo Rockets,2026-10-03T18:00:00Z,spread,Handicap (inclus prolongations),223,70799,Ball State Cardinals (+5.5),5.5,4.75,4564683449,7,False
 17856158,Ball State Cardinals vs. Toledo Rockets,2026-10-03T18:00:00Z,spread,Handicap (inclus prolongations),223,70799,Toledo Rockets (-5.5),5.5,1.1539,4564683450,7,False
-17856158,Ball State Cardinals vs. Toledo Rockets,2026-10-03T18:00:00Z,spread,Handicap (inclus prolongations),223,70799,Ball State Cardinals (+6.5),6.5,4.4,4564683451,7,False
+17856158,Ball State Cardinals vs. Toledo Rockets,2026-10-03T18:00:00Z,spread,Handicap (inclus prolongations),223,70799,Ball State Cardinals (+6.5),6.5,4.3,4564683451,7,False
 17856158,Ball State Cardinals vs. Toledo Rockets,2026-10-03T18:00:00Z,spread,Handicap (inclus prolongations),223,70799,Toledo Rockets (-20.5),20.5,1.7693,4564683438,0,True
 17856158,Ball State Cardinals vs. Toledo Rockets,2026-10-03T18:00:00Z,spread,Handicap (inclus prolongations),223,70799,Ball State Cardinals (+7.5),7.5,3.7,4564683453,7,False
 17856158,Ball State Cardinals vs. Toledo Rockets,2026-10-03T18:00:00Z,spread,Handicap (inclus prolongations),223,70799,Toledo Rockets (-7.5),7.5,1.25,4564683454,7,False
@@ -46,7 +46,7 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17856158,Ball State Cardinals vs. Toledo Rockets,2026-10-03T18:00:00Z,spread,Handicap (inclus prolongations),223,70799,Toledo Rockets (-8.5),8.5,1.2667,4564683456,7,False
 17856158,Ball State Cardinals vs. Toledo Rockets,2026-10-03T18:00:00Z,spread,Handicap (inclus prolongations),223,70799,Ball State Cardinals (+9.5),9.5,3.4,4564683457,7,False
 17856158,Ball State Cardinals vs. Toledo Rockets,2026-10-03T18:00:00Z,spread,Handicap (inclus prolongations),223,70799,Toledo Rockets (-9.5),9.5,1.2858,4564683458,7,False
-17856158,Ball State Cardinals vs. Toledo Rockets,2026-10-03T18:00:00Z,spread,Handicap (inclus prolongations),223,70799,Toledo Rockets (-6.5),6.5,1.1819,4564683452,7,False
+17856158,Ball State Cardinals vs. Toledo Rockets,2026-10-03T18:00:00Z,spread,Handicap (inclus prolongations),223,70799,Toledo Rockets (-6.5),6.5,1.1905,4564683452,7,False
 17856158,Ball State Cardinals vs. Toledo Rockets,2026-10-03T18:00:00Z,spread,Handicap (inclus prolongations),223,70799,Toledo Rockets (-21.5),21.5,1.9091,4564683440,0,False
 17856158,Ball State Cardinals vs. Toledo Rockets,2026-10-03T18:00:00Z,spread,Handicap (inclus prolongations),223,70799,Ball State Cardinals (+30.5),30.5,1.3572,4582458185,0,False
 17856158,Ball State Cardinals vs. Toledo Rockets,2026-10-03T18:00:00Z,spread,Handicap (inclus prolongations),223,70799,Toledo Rockets (-30.5),30.5,3.0,4582458186,0,False
@@ -67,8 +67,8 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17856158,Ball State Cardinals vs. Toledo Rockets,2026-10-03T18:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 44.5,44.5,2.75,4564683529,0,False
 17856158,Ball State Cardinals vs. Toledo Rockets,2026-10-03T18:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 45.5,45.5,1.4546,4564683530,0,False
 17856158,Ball State Cardinals vs. Toledo Rockets,2026-10-03T18:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 45.5,45.5,2.6,4564683531,0,False
-17856158,Ball State Cardinals vs. Toledo Rockets,2026-10-03T18:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 46.5,46.5,1.4762,4564683532,0,False
-17856158,Ball State Cardinals vs. Toledo Rockets,2026-10-03T18:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 46.5,46.5,2.55,4564683533,0,False
+17856158,Ball State Cardinals vs. Toledo Rockets,2026-10-03T18:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 46.5,46.5,1.5,4564683532,0,False
+17856158,Ball State Cardinals vs. Toledo Rockets,2026-10-03T18:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 46.5,46.5,2.5,4564683533,0,False
 17856158,Ball State Cardinals vs. Toledo Rockets,2026-10-03T18:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 47.5,47.5,1.5455,4564683534,0,False
 17856158,Ball State Cardinals vs. Toledo Rockets,2026-10-03T18:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 47.5,47.5,2.35,4564683535,0,False
 17856158,Ball State Cardinals vs. Toledo Rockets,2026-10-03T18:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 49.5,49.5,1.6667,4564683536,0,False
@@ -83,8 +83,8 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17856158,Ball State Cardinals vs. Toledo Rockets,2026-10-03T18:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 54.5,54.5,1.6897,4564683545,0,False
 17856158,Ball State Cardinals vs. Toledo Rockets,2026-10-03T18:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 55.5,55.5,2.2,4564683546,0,False
 17856158,Ball State Cardinals vs. Toledo Rockets,2026-10-03T18:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 55.5,55.5,1.625,4564683547,0,False
-17856158,Ball State Cardinals vs. Toledo Rockets,2026-10-03T18:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 56.5,56.5,2.25,4564683548,0,False
-17856158,Ball State Cardinals vs. Toledo Rockets,2026-10-03T18:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 56.5,56.5,1.5715,4564683549,0,False
+17856158,Ball State Cardinals vs. Toledo Rockets,2026-10-03T18:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 56.5,56.5,2.3,4564683548,0,False
+17856158,Ball State Cardinals vs. Toledo Rockets,2026-10-03T18:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 56.5,56.5,1.5556,4564683549,0,False
 17856158,Ball State Cardinals vs. Toledo Rockets,2026-10-03T18:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 57.5,57.5,2.4,4564683550,0,False
 17856158,Ball State Cardinals vs. Toledo Rockets,2026-10-03T18:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 57.5,57.5,1.5264,4564683551,0,False
 17856158,Ball State Cardinals vs. Toledo Rockets,2026-10-03T18:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 58.5,58.5,2.6,4564683552,0,False
@@ -93,8 +93,8 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17856158,Ball State Cardinals vs. Toledo Rockets,2026-10-03T18:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 59.5,59.5,1.4,4564683555,0,False
 17856158,Ball State Cardinals vs. Toledo Rockets,2026-10-03T18:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 60.5,60.5,2.85,4564683556,0,False
 17856158,Ball State Cardinals vs. Toledo Rockets,2026-10-03T18:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 60.5,60.5,1.3847,4564683557,0,False
-17856158,Ball State Cardinals vs. Toledo Rockets,2026-10-03T18:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 61.5,61.5,3.0,4564683558,0,False
-17856158,Ball State Cardinals vs. Toledo Rockets,2026-10-03T18:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 61.5,61.5,1.3572,4564683559,0,False
+17856158,Ball State Cardinals vs. Toledo Rockets,2026-10-03T18:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 61.5,61.5,3.1,4564683558,0,False
+17856158,Ball State Cardinals vs. Toledo Rockets,2026-10-03T18:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 61.5,61.5,1.3334,4564683559,0,False
 17856158,Ball State Cardinals vs. Toledo Rockets,2026-10-03T18:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 62.5,62.5,3.25,4572753707,0,False
 17856158,Ball State Cardinals vs. Toledo Rockets,2026-10-03T18:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 62.5,62.5,1.3031,4572753708,0,False
 17856158,Ball State Cardinals vs. Toledo Rockets,2026-10-03T18:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 48.5,48.5,1.625,4564683623,0,False

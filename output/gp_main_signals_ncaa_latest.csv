@@ -1,17 +1,19 @@
 captured_at,event_id,match,start_date,market,selection,side,signal,old_line,new_line,old_price,new_price,old_status,new_status,old_is_main_bet,new_is_main_bet
-2026-10-03T10:49:23.356158+00:00,17647640,Wisconsin Badgers vs. Michigan State Spartans,2026-10-03T16:30:00Z,total,Plus de 43.5,over,MAIN_PRICE_MOVE,43.5,43.5,1.8334,1.8,0,0.0,1,1.0
-2026-10-03T10:49:23.356158+00:00,17647640,Wisconsin Badgers vs. Michigan State Spartans,2026-10-03T16:30:00Z,total,Moins de 43.5,under,MAIN_PRICE_MOVE,43.5,43.5,1.8334,1.8696,0,0.0,1,1.0
-2026-10-03T10:49:23.356158+00:00,17884560,New Hampshire Wildcats vs. Elon Phoenix,2026-10-03T17:00:00Z,total,Plus de 44.5,over,MAIN_PRICE_MOVE,44.5,44.5,1.8334,1.8696,0,0.0,1,1.0
-2026-10-03T10:49:23.356158+00:00,17884560,New Hampshire Wildcats vs. Elon Phoenix,2026-10-03T17:00:00Z,total,Moins de 44.5,under,MAIN_PRICE_MOVE,44.5,44.5,1.8334,1.8,0,0.0,1,1.0
-2026-10-03T10:49:23.356158+00:00,17856188,Central Mich Chippewas vs. Akron Zips,2026-10-03T19:30:00Z,spread,Central Mich Chippewas (-6.5),Central Mich Chippewas,MAIN_PRICE_MOVE,-6.5,-6.5,1.7693,1.8,0,0.0,1,1.0
-2026-10-03T10:49:23.356158+00:00,17856188,Central Mich Chippewas vs. Akron Zips,2026-10-03T19:30:00Z,spread,Akron Zips (+6.5),Akron Zips,MAIN_PRICE_MOVE,6.5,6.5,1.9091,1.8696,0,0.0,1,1.0
-2026-10-03T10:49:23.356158+00:00,17912874,Montana Grizzlies vs. Northern Colorado Bears,2026-10-03T20:00:00Z,spread,Montana Grizzlies (-26.5),Montana Grizzlies,MAIN_PRICE_MOVE,-26.5,-26.5,1.8,1.8334,0,0.0,1,1.0
-2026-10-03T10:49:23.356158+00:00,17912874,Montana Grizzlies vs. Northern Colorado Bears,2026-10-03T20:00:00Z,spread,Northern Colorado Bears (+26.5),Northern Colorado Bears,MAIN_PRICE_MOVE,26.5,26.5,1.8696,1.8334,0,0.0,1,1.0
-2026-10-03T10:49:23.356158+00:00,17885313,Charleston Southern Buccaneers vs. Gardner Webb Runnin Bulldogs,2026-10-03T22:00:00Z,total,Moins de 48.5,under,MAIN_PRICE_MOVE,48.5,48.5,1.8696,1.8334,0,0.0,1,1.0
-2026-10-03T10:49:23.356158+00:00,17885313,Charleston Southern Buccaneers vs. Gardner Webb Runnin Bulldogs,2026-10-03T22:00:00Z,total,Plus de 48.5,over,MAIN_PRICE_MOVE,48.5,48.5,1.8,1.8334,0,0.0,1,1.0
-2026-10-03T10:49:23.356158+00:00,17885317,Stephen F Austin Lumberjacks vs. Incarnate Word Cardinals,2026-10-03T22:00:00Z,spread,Stephen F Austin Lumberjacks (-17.5),Stephen F Austin Lumberjacks,STATUS_CHANGE,-17.5,-17.5,1.8,1.8,0,7.0,1,1.0
-2026-10-03T10:49:23.356158+00:00,17885317,Stephen F Austin Lumberjacks vs. Incarnate Word Cardinals,2026-10-03T22:00:00Z,spread,Incarnate Word Cardinals (+17.5),Incarnate Word Cardinals,STATUS_CHANGE,17.5,17.5,1.8696,1.8696,0,7.0,1,1.0
-2026-10-03T10:49:23.356158+00:00,17885558,Idaho State Bengals vs. Northern Arizona Lumberjacks,2026-10-04T00:00:00Z,total,Plus de 55.5,over,MAIN_PRICE_MOVE,55.5,55.5,1.8334,1.8,0,0.0,1,1.0
-2026-10-03T10:49:23.356158+00:00,17885558,Idaho State Bengals vs. Northern Arizona Lumberjacks,2026-10-04T00:00:00Z,total,Moins de 55.5,under,MAIN_PRICE_MOVE,55.5,55.5,1.8334,1.8696,0,0.0,1,1.0
-2026-10-03T10:49:23.356158+00:00,17911854,Abilene Christian Wildcats vs. West Florida Argonauts,2026-10-04T00:00:00Z,total,Plus de 48.5,over,REMOVED_MAIN,48.5,,1.8334,,0,,1,
-2026-10-03T10:49:23.356158+00:00,17911854,Abilene Christian Wildcats vs. West Florida Argonauts,2026-10-04T00:00:00Z,total,Moins de 48.5,under,REMOVED_MAIN,48.5,,1.8334,,0,,1,
+2026-10-03T11:25:29.672993+00:00,17647640,Wisconsin Badgers vs. Michigan State Spartans,2026-10-03T16:30:00Z,spread,Wisconsin Badgers (-9.5),Wisconsin Badgers,MAIN_PRICE_MOVE,-9.5,-9.5,1.8696,1.8334,0,0,1,1
+2026-10-03T11:25:29.672993+00:00,17647640,Wisconsin Badgers vs. Michigan State Spartans,2026-10-03T16:30:00Z,spread,Michigan State Spartans (+9.5),Michigan State Spartans,MAIN_PRICE_MOVE,9.5,9.5,1.8,1.8334,0,0,1,1
+2026-10-03T11:25:29.672993+00:00,17861544,Buffalo Bulls vs. MICHIGAN,2026-10-03T17:00:00Z,spread,Buffalo Bulls (+12.5),Buffalo Bulls,MAIN_SWITCH,12.5,12.5,1.8696,1.8696,0,0,0,1
+2026-10-03T11:25:29.672993+00:00,17861544,Buffalo Bulls vs. MICHIGAN,2026-10-03T17:00:00Z,spread,MICHIGAN (-12.5),MICHIGAN,MAIN_SWITCH,-12.5,-12.5,1.8,1.8,0,0,0,1
+2026-10-03T11:25:29.672993+00:00,17861544,Buffalo Bulls vs. MICHIGAN,2026-10-03T17:00:00Z,spread,Buffalo Bulls (+13.5),Buffalo Bulls,MAIN_SWITCH,13.5,13.5,1.8,1.8,0,0,1,0
+2026-10-03T11:25:29.672993+00:00,17861544,Buffalo Bulls vs. MICHIGAN,2026-10-03T17:00:00Z,spread,MICHIGAN (-13.5),MICHIGAN,MAIN_SWITCH,-13.5,-13.5,1.8696,1.8696,0,0,1,0
+2026-10-03T11:25:29.672993+00:00,17861517,UMass Minutemen vs. MICHIGAN EST,2026-10-03T19:30:00Z,spread,UMass Minutemen (-5.5),UMass Minutemen,MAIN_PRICE_MOVE,-5.5,-5.5,1.8334,1.8696,0,0,1,1
+2026-10-03T11:25:29.672993+00:00,17861517,UMass Minutemen vs. MICHIGAN EST,2026-10-03T19:30:00Z,spread,MICHIGAN EST (+5.5),MICHIGAN EST,MAIN_PRICE_MOVE,5.5,5.5,1.8334,1.8,0,0,1,1
+2026-10-03T11:25:29.672993+00:00,17861517,UMass Minutemen vs. MICHIGAN EST,2026-10-03T19:30:00Z,spread,MICHIGAN EST (-4.5),MICHIGAN EST,STATUS_CHANGE,-4.5,-4.5,4.0,4.0,7,0,0,0
+2026-10-03T11:25:29.672993+00:00,17861517,UMass Minutemen vs. MICHIGAN EST,2026-10-03T19:30:00Z,spread,UMass Minutemen (+4.5),UMass Minutemen,STATUS_CHANGE,4.5,4.5,1.2223,1.2223,7,0,0,0
+2026-10-03T11:25:29.672993+00:00,17861517,UMass Minutemen vs. MICHIGAN EST,2026-10-03T19:30:00Z,total,Moins de 49.5,under,MAIN_SWITCH,49.5,49.5,1.8,1.8,0,0,0,1
+2026-10-03T11:25:29.672993+00:00,17861517,UMass Minutemen vs. MICHIGAN EST,2026-10-03T19:30:00Z,total,Moins de 48.5,under,MAIN_SWITCH,48.5,48.5,1.8696,1.8696,0,0,1,0
+2026-10-03T11:25:29.672993+00:00,17861517,UMass Minutemen vs. MICHIGAN EST,2026-10-03T19:30:00Z,total,Plus de 48.5,over,MAIN_SWITCH,48.5,48.5,1.8,1.8,0,0,1,0
+2026-10-03T11:25:29.672993+00:00,17861517,UMass Minutemen vs. MICHIGAN EST,2026-10-03T19:30:00Z,total,Plus de 49.5,over,MAIN_SWITCH,49.5,49.5,1.8696,1.8696,0,0,0,1
+2026-10-03T11:25:29.672993+00:00,17883295,Florida Atlantic Owls vs. Texas Southern Tigers,2026-10-03T22:00:00Z,spread,Florida Atlantic Owls (-44.5),Florida Atlantic Owls,MAIN_PRICE_MOVE,-44.5,-44.5,1.8696,1.8334,0,0,1,1
+2026-10-03T11:25:29.672993+00:00,17883295,Florida Atlantic Owls vs. Texas Southern Tigers,2026-10-03T22:00:00Z,spread,Texas Southern Tigers (+44.5),Texas Southern Tigers,MAIN_PRICE_MOVE,44.5,44.5,1.8,1.8334,0,0,1,1
+2026-10-03T11:25:29.672993+00:00,17883295,Florida Atlantic Owls vs. Texas Southern Tigers,2026-10-03T22:00:00Z,total,Plus de 61.5,over,MAIN_PRICE_MOVE,61.5,61.5,1.8334,1.8696,0,0,1,1
+2026-10-03T11:25:29.672993+00:00,17883295,Florida Atlantic Owls vs. Texas Southern Tigers,2026-10-03T22:00:00Z,total,Moins de 61.5,under,MAIN_PRICE_MOVE,61.5,61.5,1.8334,1.8,0,0,1,1

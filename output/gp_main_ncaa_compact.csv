@@ -259,8 +259,10 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17879330,Central Connecticut Blue Devils vs. Wagner Seahawks,2026-10-03T16:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 46.5,46.5,1.8334,4587306071,0,True
 17884322,Columbia Lions vs. Princeton Tigers,2026-10-03T16:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Columbia Lions,,1.8696,4587344418,0,False
 17884322,Columbia Lions vs. Princeton Tigers,2026-10-03T16:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Princeton Tigers,,1.8,4587344419,0,False
-17884322,Columbia Lions vs. Princeton Tigers,2026-10-03T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,Princeton Tigers (-1.5),1.5,1.9091,4587344080,0,True
-17884322,Columbia Lions vs. Princeton Tigers,2026-10-03T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,Columbia Lions (+1.5),1.5,1.7693,4587344079,0,True
+17884322,Columbia Lions vs. Princeton Tigers,2026-10-03T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,Princeton Tigers (-1.5),1.5,1.9091,4587344080,7,False
+17884322,Columbia Lions vs. Princeton Tigers,2026-10-03T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,Columbia Lions (-1.5),-1.5,1.9091,4589751506,0,True
+17884322,Columbia Lions vs. Princeton Tigers,2026-10-03T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,Princeton Tigers (+1.5),-1.5,1.7693,4589751507,0,True
+17884322,Columbia Lions vs. Princeton Tigers,2026-10-03T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,Columbia Lions (+1.5),1.5,1.7693,4587344079,7,False
 17884322,Columbia Lions vs. Princeton Tigers,2026-10-03T16:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 42.5,42.5,1.8,4587344081,0,True
 17884322,Columbia Lions vs. Princeton Tigers,2026-10-03T16:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 42.5,42.5,1.8696,4587344082,0,True
 17647642,Connecticut Huskies vs. Syracuse Orange,2026-10-03T16:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Syracuse Orange,,1.3449,4564463792,0,False
@@ -1847,10 +1849,12 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17884725,Dartmouth Big Green vs. Penn Quakers,2026-10-03T17:30:00Z,spread,Handicap (inclus prolongations),223,70799,Penn Quakers (+8.5),-8.5,1.8,4587393658,0,True
 17884725,Dartmouth Big Green vs. Penn Quakers,2026-10-03T17:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 39.5,39.5,1.8,4587393580,0,True
 17884725,Dartmouth Big Green vs. Penn Quakers,2026-10-03T17:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 39.5,39.5,1.8696,4587393581,0,True
-17912832,VMI Keydets vs. Mercer Bears,2026-10-03T17:30:00Z,spread,Handicap (inclus prolongations),223,70799,VMI Keydets (+35.5),35.5,1.8334,4587235400,0,True
-17912832,VMI Keydets vs. Mercer Bears,2026-10-03T17:30:00Z,spread,Handicap (inclus prolongations),223,70799,Mercer Bears (-35.5),35.5,1.8334,4587235401,0,True
-17912832,VMI Keydets vs. Mercer Bears,2026-10-03T17:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 50.5,50.5,1.8334,4587235402,0,True
-17912832,VMI Keydets vs. Mercer Bears,2026-10-03T17:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 50.5,50.5,1.8334,4587235403,0,True
+17912832,VMI Keydets vs. Mercer Bears,2026-10-03T17:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,VMI Keydets,,11.0,4589727488,0,False
+17912832,VMI Keydets vs. Mercer Bears,2026-10-03T17:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Mercer Bears,,1.0,4589727489,7,False
+17912832,VMI Keydets vs. Mercer Bears,2026-10-03T17:30:00Z,spread,Handicap (inclus prolongations),223,70799,VMI Keydets (+35.5),35.5,1.8,4589727361,0,True
+17912832,VMI Keydets vs. Mercer Bears,2026-10-03T17:30:00Z,spread,Handicap (inclus prolongations),223,70799,Mercer Bears (-35.5),35.5,1.8696,4589727362,0,True
+17912832,VMI Keydets vs. Mercer Bears,2026-10-03T17:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 50.5,50.5,1.8696,4589727138,0,True
+17912832,VMI Keydets vs. Mercer Bears,2026-10-03T17:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 50.5,50.5,1.8,4589727139,0,True
 17856158,Ball State Cardinals vs. Toledo Rockets,2026-10-03T18:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Ball State Cardinals,,6.75,4564683148,0,False
 17856158,Ball State Cardinals vs. Toledo Rockets,2026-10-03T18:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Toledo Rockets,,1.0589,4564683149,0,False
 17856158,Ball State Cardinals vs. Toledo Rockets,2026-10-03T18:00:00Z,spread,Handicap (inclus prolongations),223,70799,Toledo Rockets (-14.5),14.5,1.5,4564683426,0,False
@@ -2064,8 +2068,8 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17856188,Central Mich Chippewas vs. Akron Zips,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 53.5,53.5,1.4762,4564601141,0,False
 17856188,Central Mich Chippewas vs. Akron Zips,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 39.5,39.5,1.3847,4564601290,0,False
 17856188,Central Mich Chippewas vs. Akron Zips,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 39.5,39.5,2.85,4564601291,0,False
-17856188,Central Mich Chippewas vs. Akron Zips,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 40.5,40.5,1.4167,4564601292,0,False
-17856188,Central Mich Chippewas vs. Akron Zips,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 40.5,40.5,2.7,4564601293,0,False
+17856188,Central Mich Chippewas vs. Akron Zips,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 40.5,40.5,1.4348,4564601292,0,False
+17856188,Central Mich Chippewas vs. Akron Zips,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 40.5,40.5,2.65,4564601293,0,False
 17856188,Central Mich Chippewas vs. Akron Zips,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 44.5,44.5,1.6667,4564601294,0,False
 17856188,Central Mich Chippewas vs. Akron Zips,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 44.5,44.5,2.1,4564601295,0,False
 17856188,Central Mich Chippewas vs. Akron Zips,2026-10-03T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 45.5,45.5,1.7143,4564601296,0,False
@@ -3569,6 +3573,10 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17912874,Montana Grizzlies vs. Northern Colorado Bears,2026-10-03T20:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 57.5,57.5,1.8334,4588270558,0,True
 17647629,Nebraska Cornhuskers vs. Maryland Terrapins,2026-10-03T20:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Nebraska Cornhuskers,,1.1112,4564355252,0,False
 17647629,Nebraska Cornhuskers vs. Maryland Terrapins,2026-10-03T20:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Maryland Terrapins,,5.25,4564355253,0,False
+17647629,Nebraska Cornhuskers vs. Maryland Terrapins,2026-10-03T20:00:00Z,spread,Handicap (inclus prolongations),223,70799,Maryland Terrapins (+28.5),-28.5,1.2353,4564355522,0,False
+17647629,Nebraska Cornhuskers vs. Maryland Terrapins,2026-10-03T20:00:00Z,spread,Handicap (inclus prolongations),223,70799,Maryland Terrapins (+29.5),-29.5,1.2223,4564355524,0,False
+17647629,Nebraska Cornhuskers vs. Maryland Terrapins,2026-10-03T20:00:00Z,spread,Handicap (inclus prolongations),223,70799,Nebraska Cornhuskers (+1.5),1.5,1.1112,4564355491,7,False
+17647629,Nebraska Cornhuskers vs. Maryland Terrapins,2026-10-03T20:00:00Z,spread,Handicap (inclus prolongations),223,70799,Maryland Terrapins (-1.5),1.5,6.0,4564355492,7,False
 17647629,Nebraska Cornhuskers vs. Maryland Terrapins,2026-10-03T20:00:00Z,spread,Handicap (inclus prolongations),223,70799,Nebraska Cornhuskers (-10.5),-10.5,1.5715,4564355493,0,False
 17647629,Nebraska Cornhuskers vs. Maryland Terrapins,2026-10-03T20:00:00Z,spread,Handicap (inclus prolongations),223,70799,Maryland Terrapins (+10.5),-10.5,2.25,4564355494,0,False
 17647629,Nebraska Cornhuskers vs. Maryland Terrapins,2026-10-03T20:00:00Z,spread,Handicap (inclus prolongations),223,70799,Nebraska Cornhuskers (-11.5),-11.5,1.6451,4564355495,0,False
@@ -3588,37 +3596,49 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17647629,Nebraska Cornhuskers vs. Maryland Terrapins,2026-10-03T20:00:00Z,spread,Handicap (inclus prolongations),223,70799,Nebraska Cornhuskers (-21.5),-21.5,2.5,4564355509,0,False
 17647629,Nebraska Cornhuskers vs. Maryland Terrapins,2026-10-03T20:00:00Z,spread,Handicap (inclus prolongations),223,70799,Maryland Terrapins (+21.5),-21.5,1.5,4564355510,0,False
 17647629,Nebraska Cornhuskers vs. Maryland Terrapins,2026-10-03T20:00:00Z,spread,Handicap (inclus prolongations),223,70799,Nebraska Cornhuskers (-23.5),-23.5,2.7,4564355511,0,False
-17647629,Nebraska Cornhuskers vs. Maryland Terrapins,2026-10-03T20:00:00Z,spread,Handicap (inclus prolongations),223,70799,Maryland Terrapins (+23.5),-23.5,1.4167,4564355512,0,False
+17647629,Nebraska Cornhuskers vs. Maryland Terrapins,2026-10-03T20:00:00Z,spread,Handicap (inclus prolongations),223,70799,Maryland Terrapins (+15.5),-15.5,1.8,4564355401,0,False
 17647629,Nebraska Cornhuskers vs. Maryland Terrapins,2026-10-03T20:00:00Z,spread,Handicap (inclus prolongations),223,70799,Nebraska Cornhuskers (-24.5),-24.5,2.9,4564355513,0,False
-17647629,Nebraska Cornhuskers vs. Maryland Terrapins,2026-10-03T20:00:00Z,spread,Handicap (inclus prolongations),223,70799,Maryland Terrapins (+24.5),-24.5,1.3637,4564355514,0,False
+17647629,Nebraska Cornhuskers vs. Maryland Terrapins,2026-10-03T20:00:00Z,spread,Handicap (inclus prolongations),223,70799,Maryland Terrapins (+23.5),-23.5,1.4167,4564355512,0,False
 17647629,Nebraska Cornhuskers vs. Maryland Terrapins,2026-10-03T20:00:00Z,spread,Handicap (inclus prolongations),223,70799,Nebraska Cornhuskers (-25.5),-25.5,3.1,4564355515,0,False
-17647629,Nebraska Cornhuskers vs. Maryland Terrapins,2026-10-03T20:00:00Z,spread,Handicap (inclus prolongations),223,70799,Maryland Terrapins (+25.5),-25.5,1.3334,4564355516,0,False
+17647629,Nebraska Cornhuskers vs. Maryland Terrapins,2026-10-03T20:00:00Z,spread,Handicap (inclus prolongations),223,70799,Maryland Terrapins (+24.5),-24.5,1.3637,4564355514,0,False
 17647629,Nebraska Cornhuskers vs. Maryland Terrapins,2026-10-03T20:00:00Z,spread,Handicap (inclus prolongations),223,70799,Nebraska Cornhuskers (-26.5),-26.5,3.25,4564355517,0,False
+17647629,Nebraska Cornhuskers vs. Maryland Terrapins,2026-10-03T20:00:00Z,spread,Handicap (inclus prolongations),223,70799,Maryland Terrapins (+25.5),-25.5,1.3334,4564355516,0,False
+17647629,Nebraska Cornhuskers vs. Maryland Terrapins,2026-10-03T20:00:00Z,spread,Handicap (inclus prolongations),223,70799,Nebraska Cornhuskers (-27.5),-27.5,3.5,4564355519,0,False
 17647629,Nebraska Cornhuskers vs. Maryland Terrapins,2026-10-03T20:00:00Z,spread,Handicap (inclus prolongations),223,70799,Maryland Terrapins (+26.5),-26.5,1.3031,4564355518,0,False
+17647629,Nebraska Cornhuskers vs. Maryland Terrapins,2026-10-03T20:00:00Z,spread,Handicap (inclus prolongations),223,70799,Nebraska Cornhuskers (-28.5),-28.5,3.75,4564355521,0,False
+17647629,Nebraska Cornhuskers vs. Maryland Terrapins,2026-10-03T20:00:00Z,spread,Handicap (inclus prolongations),223,70799,Maryland Terrapins (+16.5),-16.5,1.7408,4564355403,0,False
+17647629,Nebraska Cornhuskers vs. Maryland Terrapins,2026-10-03T20:00:00Z,spread,Handicap (inclus prolongations),223,70799,Nebraska Cornhuskers (-29.5),-29.5,4.0,4564355523,0,False
+17647629,Nebraska Cornhuskers vs. Maryland Terrapins,2026-10-03T20:00:00Z,spread,Handicap (inclus prolongations),223,70799,Maryland Terrapins (+27.5),-27.5,1.2667,4564355520,0,False
 17647629,Nebraska Cornhuskers vs. Maryland Terrapins,2026-10-03T20:00:00Z,spread,Handicap (inclus prolongations),223,70799,Nebraska Cornhuskers (-4.5),-4.5,1.2858,4564355525,0,False
-17647629,Nebraska Cornhuskers vs. Maryland Terrapins,2026-10-03T20:00:00Z,spread,Handicap (inclus prolongations),223,70799,Maryland Terrapins (+4.5),-4.5,3.4,4564355526,0,False
+17647629,Nebraska Cornhuskers vs. Maryland Terrapins,2026-10-03T20:00:00Z,spread,Handicap (inclus prolongations),223,70799,Nebraska Cornhuskers (-1.5),-1.5,1.1429,4564355398,7,False
 17647629,Nebraska Cornhuskers vs. Maryland Terrapins,2026-10-03T20:00:00Z,spread,Handicap (inclus prolongations),223,70799,Nebraska Cornhuskers (-7.5),-7.5,1.4546,4564355527,0,False
 17647629,Nebraska Cornhuskers vs. Maryland Terrapins,2026-10-03T20:00:00Z,spread,Handicap (inclus prolongations),223,70799,Nebraska Cornhuskers (-15.5),-15.5,1.8696,4564355400,0,False
 17647629,Nebraska Cornhuskers vs. Maryland Terrapins,2026-10-03T20:00:00Z,spread,Handicap (inclus prolongations),223,70799,Nebraska Cornhuskers (-9.5),-9.5,1.5264,4564355529,0,False
 17647629,Nebraska Cornhuskers vs. Maryland Terrapins,2026-10-03T20:00:00Z,spread,Handicap (inclus prolongations),223,70799,Nebraska Cornhuskers (-16.5),-16.5,1.9524,4564355402,0,False
-17647629,Nebraska Cornhuskers vs. Maryland Terrapins,2026-10-03T20:00:00Z,spread,Handicap (inclus prolongations),223,70799,Maryland Terrapins (+7.5),-7.5,2.6,4564355528,0,False
+17647629,Nebraska Cornhuskers vs. Maryland Terrapins,2026-10-03T20:00:00Z,spread,Handicap (inclus prolongations),223,70799,Maryland Terrapins (+1.5),-1.5,5.0,4564355399,7,False
 17647629,Nebraska Cornhuskers vs. Maryland Terrapins,2026-10-03T20:00:00Z,spread,Handicap (inclus prolongations),223,70799,Nebraska Cornhuskers (-18.5),-18.5,2.2,4564355404,0,False
-17647629,Nebraska Cornhuskers vs. Maryland Terrapins,2026-10-03T20:00:00Z,spread,Handicap (inclus prolongations),223,70799,Maryland Terrapins (+9.5),-9.5,2.4,4564355530,0,False
+17647629,Nebraska Cornhuskers vs. Maryland Terrapins,2026-10-03T20:00:00Z,spread,Handicap (inclus prolongations),223,70799,Maryland Terrapins (+4.5),-4.5,3.4,4564355526,0,False
 17647629,Nebraska Cornhuskers vs. Maryland Terrapins,2026-10-03T20:00:00Z,spread,Handicap (inclus prolongations),223,70799,Nebraska Cornhuskers (-19.5),-19.5,2.25,4564355406,0,False
-17647629,Nebraska Cornhuskers vs. Maryland Terrapins,2026-10-03T20:00:00Z,spread,Handicap (inclus prolongations),223,70799,Maryland Terrapins (+15.5),-15.5,1.8,4564355401,0,False
+17647629,Nebraska Cornhuskers vs. Maryland Terrapins,2026-10-03T20:00:00Z,spread,Handicap (inclus prolongations),223,70799,Maryland Terrapins (+7.5),-7.5,2.6,4564355528,0,False
 17647629,Nebraska Cornhuskers vs. Maryland Terrapins,2026-10-03T20:00:00Z,spread,Handicap (inclus prolongations),223,70799,Nebraska Cornhuskers (-22.5),-22.5,2.6,4564355408,0,False
-17647629,Nebraska Cornhuskers vs. Maryland Terrapins,2026-10-03T20:00:00Z,spread,Handicap (inclus prolongations),223,70799,Maryland Terrapins (+16.5),-16.5,1.7408,4564355403,0,False
+17647629,Nebraska Cornhuskers vs. Maryland Terrapins,2026-10-03T20:00:00Z,spread,Handicap (inclus prolongations),223,70799,Maryland Terrapins (+9.5),-9.5,2.4,4564355530,0,False
 17647629,Nebraska Cornhuskers vs. Maryland Terrapins,2026-10-03T20:00:00Z,spread,Handicap (inclus prolongations),223,70799,Nebraska Cornhuskers (-3.5),-3.5,1.2353,4564355410,0,False
 17647629,Nebraska Cornhuskers vs. Maryland Terrapins,2026-10-03T20:00:00Z,spread,Handicap (inclus prolongations),223,70799,Maryland Terrapins (+3.5),-3.5,3.75,4564355411,0,False
+17647629,Nebraska Cornhuskers vs. Maryland Terrapins,2026-10-03T20:00:00Z,spread,Handicap (inclus prolongations),223,70799,Nebraska Cornhuskers (-30.5),-30.5,4.3,4564355412,0,False
 17647629,Nebraska Cornhuskers vs. Maryland Terrapins,2026-10-03T20:00:00Z,spread,Handicap (inclus prolongations),223,70799,Maryland Terrapins (+18.5),-18.5,1.625,4564355405,0,False
-17647629,Nebraska Cornhuskers vs. Maryland Terrapins,2026-10-03T20:00:00Z,spread,Handicap (inclus prolongations),223,70799,Maryland Terrapins (+19.5),-19.5,1.5715,4564355407,0,False
 17647629,Nebraska Cornhuskers vs. Maryland Terrapins,2026-10-03T20:00:00Z,spread,Handicap (inclus prolongations),223,70799,Nebraska Cornhuskers (-5.5),-5.5,1.3125,4564355414,0,False
 17647629,Nebraska Cornhuskers vs. Maryland Terrapins,2026-10-03T20:00:00Z,spread,Handicap (inclus prolongations),223,70799,Maryland Terrapins (+5.5),-5.5,3.2,4564355415,0,False
 17647629,Nebraska Cornhuskers vs. Maryland Terrapins,2026-10-03T20:00:00Z,spread,Handicap (inclus prolongations),223,70799,Nebraska Cornhuskers (-6.5),-6.5,1.3572,4564355416,0,False
 17647629,Nebraska Cornhuskers vs. Maryland Terrapins,2026-10-03T20:00:00Z,spread,Handicap (inclus prolongations),223,70799,Maryland Terrapins (+6.5),-6.5,3.0,4564355417,0,False
 17647629,Nebraska Cornhuskers vs. Maryland Terrapins,2026-10-03T20:00:00Z,spread,Handicap (inclus prolongations),223,70799,Nebraska Cornhuskers (-8.5),-8.5,1.5,4564355418,0,False
 17647629,Nebraska Cornhuskers vs. Maryland Terrapins,2026-10-03T20:00:00Z,spread,Handicap (inclus prolongations),223,70799,Maryland Terrapins (+8.5),-8.5,2.5,4564355419,0,False
+17647629,Nebraska Cornhuskers vs. Maryland Terrapins,2026-10-03T20:00:00Z,spread,Handicap (inclus prolongations),223,70799,Maryland Terrapins (+19.5),-19.5,1.5715,4564355407,0,False
+17647629,Nebraska Cornhuskers vs. Maryland Terrapins,2026-10-03T20:00:00Z,spread,Handicap (inclus prolongations),223,70799,Maryland Terrapins (+30.5),-30.5,1.1905,4564355413,0,False
 17647629,Nebraska Cornhuskers vs. Maryland Terrapins,2026-10-03T20:00:00Z,spread,Handicap (inclus prolongations),223,70799,Maryland Terrapins (+22.5),-22.5,1.4546,4564355409,0,False
+17647629,Nebraska Cornhuskers vs. Maryland Terrapins,2026-10-03T20:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 63.5,63.5,1.2858,4564355293,0,False
+17647629,Nebraska Cornhuskers vs. Maryland Terrapins,2026-10-03T20:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 64.5,64.5,1.2667,4564355295,0,False
+17647629,Nebraska Cornhuskers vs. Maryland Terrapins,2026-10-03T20:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 67.5,67.5,1.1905,4564355299,0,False
+17647629,Nebraska Cornhuskers vs. Maryland Terrapins,2026-10-03T20:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 66.5,66.5,1.2,4564355297,0,False
 17647629,Nebraska Cornhuskers vs. Maryland Terrapins,2026-10-03T20:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 40.5,40.5,1.2353,4564355254,0,False
 17647629,Nebraska Cornhuskers vs. Maryland Terrapins,2026-10-03T20:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 40.5,40.5,3.75,4564355255,0,False
 17647629,Nebraska Cornhuskers vs. Maryland Terrapins,2026-10-03T20:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 41.5,41.5,1.2858,4564355256,0,False
@@ -3657,20 +3677,31 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17647629,Nebraska Cornhuskers vs. Maryland Terrapins,2026-10-03T20:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 59.5,59.5,1.4348,4564355289,0,False
 17647629,Nebraska Cornhuskers vs. Maryland Terrapins,2026-10-03T20:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 61.5,61.5,3.0,4564355290,0,False
 17647629,Nebraska Cornhuskers vs. Maryland Terrapins,2026-10-03T20:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 61.5,61.5,1.3572,4564355291,0,False
+17647629,Nebraska Cornhuskers vs. Maryland Terrapins,2026-10-03T20:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 38.5,38.5,1.1905,4564355420,0,False
 17647629,Nebraska Cornhuskers vs. Maryland Terrapins,2026-10-03T20:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 63.5,63.5,3.4,4564355292,0,False
-17647629,Nebraska Cornhuskers vs. Maryland Terrapins,2026-10-03T20:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 63.5,63.5,1.2858,4564355293,0,False
+17647629,Nebraska Cornhuskers vs. Maryland Terrapins,2026-10-03T20:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 39.5,39.5,1.2,4564355422,0,False
 17647629,Nebraska Cornhuskers vs. Maryland Terrapins,2026-10-03T20:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 64.5,64.5,3.5,4564355294,0,False
-17647629,Nebraska Cornhuskers vs. Maryland Terrapins,2026-10-03T20:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 64.5,64.5,1.2667,4564355295,0,False
 17647629,Nebraska Cornhuskers vs. Maryland Terrapins,2026-10-03T20:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 54.5,54.5,2.0,4564355424,0,False
-17647629,Nebraska Cornhuskers vs. Maryland Terrapins,2026-10-03T20:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 54.5,54.5,1.7143,4564355425,0,False
+17647629,Nebraska Cornhuskers vs. Maryland Terrapins,2026-10-03T20:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 66.5,66.5,4.2,4564355296,0,False
 17647629,Nebraska Cornhuskers vs. Maryland Terrapins,2026-10-03T20:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 58.5,58.5,2.5,4564355426,0,False
-17647629,Nebraska Cornhuskers vs. Maryland Terrapins,2026-10-03T20:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 58.5,58.5,1.5,4564355427,0,False
+17647629,Nebraska Cornhuskers vs. Maryland Terrapins,2026-10-03T20:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 67.5,67.5,4.3,4564355298,0,False
 17647629,Nebraska Cornhuskers vs. Maryland Terrapins,2026-10-03T20:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 60.5,60.5,2.75,4564355428,0,False
-17647629,Nebraska Cornhuskers vs. Maryland Terrapins,2026-10-03T20:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 60.5,60.5,1.4,4564355429,0,False
+17647629,Nebraska Cornhuskers vs. Maryland Terrapins,2026-10-03T20:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 38.5,38.5,4.3,4564355421,0,False
 17647629,Nebraska Cornhuskers vs. Maryland Terrapins,2026-10-03T20:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 62.5,62.5,3.15,4564355430,0,False
+17647629,Nebraska Cornhuskers vs. Maryland Terrapins,2026-10-03T20:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 39.5,39.5,4.2,4564355423,0,False
+17647629,Nebraska Cornhuskers vs. Maryland Terrapins,2026-10-03T20:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 65.5,65.5,3.75,4564355432,0,False
+17647629,Nebraska Cornhuskers vs. Maryland Terrapins,2026-10-03T20:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 54.5,54.5,1.7143,4564355425,0,False
+17647629,Nebraska Cornhuskers vs. Maryland Terrapins,2026-10-03T20:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 58.5,58.5,1.5,4564355427,0,False
+17647629,Nebraska Cornhuskers vs. Maryland Terrapins,2026-10-03T20:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 37.5,37.5,1.1539,4565889259,7,False
+17647629,Nebraska Cornhuskers vs. Maryland Terrapins,2026-10-03T20:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 37.5,37.5,4.75,4565889260,7,False
+17647629,Nebraska Cornhuskers vs. Maryland Terrapins,2026-10-03T20:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 60.5,60.5,1.4,4564355429,0,False
 17647629,Nebraska Cornhuskers vs. Maryland Terrapins,2026-10-03T20:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 62.5,62.5,1.3226,4564355431,0,False
+17647629,Nebraska Cornhuskers vs. Maryland Terrapins,2026-10-03T20:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 65.5,65.5,1.2353,4564355433,0,False
 17861641,NOUVEAU MEXIQUE vs. UTEP Miners,2026-10-03T20:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,NOUVEAU MEXIQUE,,1.0334,4567388729,0,False
 17861641,NOUVEAU MEXIQUE vs. UTEP Miners,2026-10-03T20:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,UTEP Miners,,8.0,4567388730,0,False
+17861641,NOUVEAU MEXIQUE vs. UTEP Miners,2026-10-03T20:00:00Z,spread,Handicap (inclus prolongations),223,70799,UTEP Miners (+9.5),-9.5,4.0,4567388928,0,False
+17861641,NOUVEAU MEXIQUE vs. UTEP Miners,2026-10-03T20:00:00Z,spread,Handicap (inclus prolongations),223,70799,NOUVEAU MEXIQUE (-10.5),-10.5,1.2667,4567388867,0,False
+17861641,NOUVEAU MEXIQUE vs. UTEP Miners,2026-10-03T20:00:00Z,spread,Handicap (inclus prolongations),223,70799,UTEP Miners (+10.5),-10.5,3.5,4567388868,0,False
 17861641,NOUVEAU MEXIQUE vs. UTEP Miners,2026-10-03T20:00:00Z,spread,Handicap (inclus prolongations),223,70799,NOUVEAU MEXIQUE (-11.5),-11.5,1.2858,4567388869,0,False
 17861641,NOUVEAU MEXIQUE vs. UTEP Miners,2026-10-03T20:00:00Z,spread,Handicap (inclus prolongations),223,70799,UTEP Miners (+11.5),-11.5,3.4,4567388870,0,False
 17861641,NOUVEAU MEXIQUE vs. UTEP Miners,2026-10-03T20:00:00Z,spread,Handicap (inclus prolongations),223,70799,NOUVEAU MEXIQUE (-12.5),-12.5,1.3125,4567388871,0,False
@@ -3721,6 +3752,19 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17861641,NOUVEAU MEXIQUE vs. UTEP Miners,2026-10-03T20:00:00Z,spread,Handicap (inclus prolongations),223,70799,UTEP Miners (+34.5),-34.5,1.2667,4567388916,0,False
 17861641,NOUVEAU MEXIQUE vs. UTEP Miners,2026-10-03T20:00:00Z,spread,Handicap (inclus prolongations),223,70799,NOUVEAU MEXIQUE (-35.5),-35.5,3.75,4567388917,0,False
 17861641,NOUVEAU MEXIQUE vs. UTEP Miners,2026-10-03T20:00:00Z,spread,Handicap (inclus prolongations),223,70799,UTEP Miners (+35.5),-35.5,1.2353,4567388918,0,False
+17861641,NOUVEAU MEXIQUE vs. UTEP Miners,2026-10-03T20:00:00Z,spread,Handicap (inclus prolongations),223,70799,NOUVEAU MEXIQUE (-36.5),-36.5,4.0,4567388919,0,False
+17861641,NOUVEAU MEXIQUE vs. UTEP Miners,2026-10-03T20:00:00Z,spread,Handicap (inclus prolongations),223,70799,UTEP Miners (+36.5),-36.5,1.2223,4567388920,0,False
+17861641,NOUVEAU MEXIQUE vs. UTEP Miners,2026-10-03T20:00:00Z,spread,Handicap (inclus prolongations),223,70799,NOUVEAU MEXIQUE (-37.5),-37.5,4.2,4567388921,0,False
+17861641,NOUVEAU MEXIQUE vs. UTEP Miners,2026-10-03T20:00:00Z,spread,Handicap (inclus prolongations),223,70799,UTEP Miners (+37.5),-37.5,1.2,4567388922,0,False
+17861641,NOUVEAU MEXIQUE vs. UTEP Miners,2026-10-03T20:00:00Z,spread,Handicap (inclus prolongations),223,70799,NOUVEAU MEXIQUE (-7.5),-7.5,1.1905,4567388923,0,False
+17861641,NOUVEAU MEXIQUE vs. UTEP Miners,2026-10-03T20:00:00Z,spread,Handicap (inclus prolongations),223,70799,UTEP Miners (+7.5),-7.5,4.3,4567388924,0,False
+17861641,NOUVEAU MEXIQUE vs. UTEP Miners,2026-10-03T20:00:00Z,spread,Handicap (inclus prolongations),223,70799,NOUVEAU MEXIQUE (-8.5),-8.5,1.2223,4567388925,0,False
+17861641,NOUVEAU MEXIQUE vs. UTEP Miners,2026-10-03T20:00:00Z,spread,Handicap (inclus prolongations),223,70799,UTEP Miners (+8.5),-8.5,4.0,4567388926,0,False
+17861641,NOUVEAU MEXIQUE vs. UTEP Miners,2026-10-03T20:00:00Z,spread,Handicap (inclus prolongations),223,70799,NOUVEAU MEXIQUE (-9.5),-9.5,1.2223,4567388927,0,False
+17861641,NOUVEAU MEXIQUE vs. UTEP Miners,2026-10-03T20:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 33.5,33.5,1.1539,4567388731,0,False
+17861641,NOUVEAU MEXIQUE vs. UTEP Miners,2026-10-03T20:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 33.5,33.5,4.75,4567388732,0,False
+17861641,NOUVEAU MEXIQUE vs. UTEP Miners,2026-10-03T20:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 34.5,34.5,1.1905,4567388733,0,False
+17861641,NOUVEAU MEXIQUE vs. UTEP Miners,2026-10-03T20:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 34.5,34.5,4.3,4567388734,0,False
 17861641,NOUVEAU MEXIQUE vs. UTEP Miners,2026-10-03T20:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 35.5,35.5,1.2223,4567388735,0,False
 17861641,NOUVEAU MEXIQUE vs. UTEP Miners,2026-10-03T20:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 35.5,35.5,4.0,4567388736,0,False
 17861641,NOUVEAU MEXIQUE vs. UTEP Miners,2026-10-03T20:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 36.5,36.5,1.2353,4567388737,0,False
@@ -3771,6 +3815,14 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17861641,NOUVEAU MEXIQUE vs. UTEP Miners,2026-10-03T20:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 58.5,58.5,1.2858,4567388782,0,False
 17861641,NOUVEAU MEXIQUE vs. UTEP Miners,2026-10-03T20:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 59.5,59.5,3.7,4567388783,0,False
 17861641,NOUVEAU MEXIQUE vs. UTEP Miners,2026-10-03T20:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 59.5,59.5,1.25,4567388784,0,False
+17861641,NOUVEAU MEXIQUE vs. UTEP Miners,2026-10-03T20:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 60.5,60.5,3.75,4567388785,0,False
+17861641,NOUVEAU MEXIQUE vs. UTEP Miners,2026-10-03T20:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 60.5,60.5,1.2353,4567388786,0,False
+17861641,NOUVEAU MEXIQUE vs. UTEP Miners,2026-10-03T20:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 61.5,61.5,4.0,4567388787,0,False
+17861641,NOUVEAU MEXIQUE vs. UTEP Miners,2026-10-03T20:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 61.5,61.5,1.2223,4567388788,0,False
+17861641,NOUVEAU MEXIQUE vs. UTEP Miners,2026-10-03T20:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 62.5,62.5,4.4,4567388789,0,False
+17861641,NOUVEAU MEXIQUE vs. UTEP Miners,2026-10-03T20:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 62.5,62.5,1.1819,4567388790,0,False
+17861641,NOUVEAU MEXIQUE vs. UTEP Miners,2026-10-03T20:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 63.5,63.5,4.75,4567388791,0,False
+17861641,NOUVEAU MEXIQUE vs. UTEP Miners,2026-10-03T20:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 63.5,63.5,1.1539,4567388792,0,False
 17885327,San Diego Toreros vs. Davidson Wildcats,2026-10-03T20:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,San Diego Toreros,,1.125,4588616365,0,False
 17885327,San Diego Toreros vs. Davidson Wildcats,2026-10-03T20:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Davidson Wildcats,,5.0,4588616366,0,False
 17885327,San Diego Toreros vs. Davidson Wildcats,2026-10-03T20:00:00Z,spread,Handicap (inclus prolongations),223,70799,Davidson Wildcats (+16.5),-16.5,1.8334,4588616368,0,True
@@ -3791,6 +3843,8 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17647650,Illinois Fighting Illini vs. Purdue Boilermakers,2026-10-03T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Purdue Boilermakers (-1.5),1.5,4.0,4564347458,0,False
 17647650,Illinois Fighting Illini vs. Purdue Boilermakers,2026-10-03T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Illinois Fighting Illini (+2.5),2.5,1.1819,4564347459,0,False
 17647650,Illinois Fighting Illini vs. Purdue Boilermakers,2026-10-03T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Purdue Boilermakers (-2.5),2.5,4.4,4564347460,0,False
+17647650,Illinois Fighting Illini vs. Purdue Boilermakers,2026-10-03T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Illinois Fighting Illini (+3.5),3.5,1.1334,4564347461,7,False
+17647650,Illinois Fighting Illini vs. Purdue Boilermakers,2026-10-03T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Purdue Boilermakers (-3.5),3.5,5.25,4564347462,7,False
 17647650,Illinois Fighting Illini vs. Purdue Boilermakers,2026-10-03T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Illinois Fighting Illini (-1.5),-1.5,1.2667,4564347463,0,False
 17647650,Illinois Fighting Illini vs. Purdue Boilermakers,2026-10-03T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Purdue Boilermakers (+1.5),-1.5,3.5,4564347464,0,False
 17647650,Illinois Fighting Illini vs. Purdue Boilermakers,2026-10-03T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Illinois Fighting Illini (-10.5),-10.5,1.8696,4564347465,0,True
@@ -3823,6 +3877,16 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17647650,Illinois Fighting Illini vs. Purdue Boilermakers,2026-10-03T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Purdue Boilermakers (+22.5),-22.5,1.2858,4564347492,0,False
 17647650,Illinois Fighting Illini vs. Purdue Boilermakers,2026-10-03T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Illinois Fighting Illini (-23.5),-23.5,3.5,4564347493,0,False
 17647650,Illinois Fighting Illini vs. Purdue Boilermakers,2026-10-03T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Purdue Boilermakers (+23.5),-23.5,1.2667,4564347494,0,False
+17647650,Illinois Fighting Illini vs. Purdue Boilermakers,2026-10-03T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Illinois Fighting Illini (-24.5),-24.5,3.75,4564347495,0,False
+17647650,Illinois Fighting Illini vs. Purdue Boilermakers,2026-10-03T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Purdue Boilermakers (+24.5),-24.5,1.2353,4564347496,0,False
+17647650,Illinois Fighting Illini vs. Purdue Boilermakers,2026-10-03T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Illinois Fighting Illini (-25.5),-25.5,4.0,4564347497,0,False
+17647650,Illinois Fighting Illini vs. Purdue Boilermakers,2026-10-03T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Purdue Boilermakers (+25.5),-25.5,1.2223,4564347498,0,False
+17647650,Illinois Fighting Illini vs. Purdue Boilermakers,2026-10-03T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Illinois Fighting Illini (-26.5),-26.5,4.2,4564347499,0,False
+17647650,Illinois Fighting Illini vs. Purdue Boilermakers,2026-10-03T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Purdue Boilermakers (+26.5),-26.5,1.2,4564347500,0,False
+17647650,Illinois Fighting Illini vs. Purdue Boilermakers,2026-10-03T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Illinois Fighting Illini (-27.5),-27.5,4.4,4564347501,0,False
+17647650,Illinois Fighting Illini vs. Purdue Boilermakers,2026-10-03T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Purdue Boilermakers (+27.5),-27.5,1.1819,4564347502,0,False
+17647650,Illinois Fighting Illini vs. Purdue Boilermakers,2026-10-03T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Illinois Fighting Illini (-28.5),-28.5,5.0,4564347503,0,False
+17647650,Illinois Fighting Illini vs. Purdue Boilermakers,2026-10-03T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Purdue Boilermakers (+28.5),-28.5,1.1429,4564347504,0,False
 17647650,Illinois Fighting Illini vs. Purdue Boilermakers,2026-10-03T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Illinois Fighting Illini (-3.5),-3.5,1.4,4564347505,0,False
 17647650,Illinois Fighting Illini vs. Purdue Boilermakers,2026-10-03T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Purdue Boilermakers (+3.5),-3.5,2.75,4564347506,0,False
 17647650,Illinois Fighting Illini vs. Purdue Boilermakers,2026-10-03T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Illinois Fighting Illini (-4.5),-4.5,1.4762,4564347507,0,False
@@ -3870,15 +3934,18 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17647650,Illinois Fighting Illini vs. Purdue Boilermakers,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 66.5,66.5,2.2,4564347166,0,False
 17647650,Illinois Fighting Illini vs. Purdue Boilermakers,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 66.5,66.5,1.625,4564347167,0,False
 17647650,Illinois Fighting Illini vs. Purdue Boilermakers,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 69.5,69.5,2.55,4564347168,0,False
-17647650,Illinois Fighting Illini vs. Purdue Boilermakers,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 69.5,69.5,1.4762,4564347169,0,False
+17647650,Illinois Fighting Illini vs. Purdue Boilermakers,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 77.5,77.5,4.0,4575049889,0,False
 17647650,Illinois Fighting Illini vs. Purdue Boilermakers,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 70.5,70.5,2.65,4564347170,0,False
-17647650,Illinois Fighting Illini vs. Purdue Boilermakers,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 70.5,70.5,1.4348,4564347171,0,False
+17647650,Illinois Fighting Illini vs. Purdue Boilermakers,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 69.5,69.5,1.4762,4564347169,0,False
 17647650,Illinois Fighting Illini vs. Purdue Boilermakers,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 72.5,72.5,3.0,4564347172,0,False
-17647650,Illinois Fighting Illini vs. Purdue Boilermakers,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 72.5,72.5,1.3572,4564347173,0,False
+17647650,Illinois Fighting Illini vs. Purdue Boilermakers,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 70.5,70.5,1.4348,4564347171,0,False
 17647650,Illinois Fighting Illini vs. Purdue Boilermakers,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 73.5,73.5,3.2,4564347174,0,False
-17647650,Illinois Fighting Illini vs. Purdue Boilermakers,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 73.5,73.5,1.3125,4564347175,0,False
+17647650,Illinois Fighting Illini vs. Purdue Boilermakers,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 72.5,72.5,1.3572,4564347173,0,False
 17647650,Illinois Fighting Illini vs. Purdue Boilermakers,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 74.5,74.5,3.4,4564347176,0,False
+17647650,Illinois Fighting Illini vs. Purdue Boilermakers,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 73.5,73.5,1.3125,4564347175,0,False
+17647650,Illinois Fighting Illini vs. Purdue Boilermakers,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 75.5,75.5,3.5,4564347178,0,False
 17647650,Illinois Fighting Illini vs. Purdue Boilermakers,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 74.5,74.5,1.2858,4564347177,0,False
+17647650,Illinois Fighting Illini vs. Purdue Boilermakers,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 75.5,75.5,1.2667,4564347179,0,False
 17647650,Illinois Fighting Illini vs. Purdue Boilermakers,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 52.5,52.5,1.3334,4564347184,0,False
 17647650,Illinois Fighting Illini vs. Purdue Boilermakers,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 52.5,52.5,3.1,4564347185,0,False
 17647650,Illinois Fighting Illini vs. Purdue Boilermakers,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 67.5,67.5,2.3,4564347186,0,False
@@ -3887,8 +3954,20 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17647650,Illinois Fighting Illini vs. Purdue Boilermakers,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 68.5,68.5,1.5264,4564347189,0,False
 17647650,Illinois Fighting Illini vs. Purdue Boilermakers,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 71.5,71.5,2.75,4564347190,0,False
 17647650,Illinois Fighting Illini vs. Purdue Boilermakers,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 71.5,71.5,1.4,4564347191,0,False
+17647650,Illinois Fighting Illini vs. Purdue Boilermakers,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 76.5,76.5,3.75,4570296188,0,False
+17647650,Illinois Fighting Illini vs. Purdue Boilermakers,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 76.5,76.5,1.2353,4570296189,0,False
+17647650,Illinois Fighting Illini vs. Purdue Boilermakers,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 77.5,77.5,1.2223,4575049890,0,False
+17647650,Illinois Fighting Illini vs. Purdue Boilermakers,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 47.5,47.5,1.1819,4564347130,7,False
+17647650,Illinois Fighting Illini vs. Purdue Boilermakers,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 47.5,47.5,4.4,4564347131,7,False
+17647650,Illinois Fighting Illini vs. Purdue Boilermakers,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 48.5,48.5,1.2223,4564347132,0,False
+17647650,Illinois Fighting Illini vs. Purdue Boilermakers,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 48.5,48.5,4.0,4564347133,0,False
+17647650,Illinois Fighting Illini vs. Purdue Boilermakers,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 49.5,49.5,1.25,4564347134,0,False
+17647650,Illinois Fighting Illini vs. Purdue Boilermakers,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 49.5,49.5,3.7,4564347135,0,False
 17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,South Carolina Gamecocks,,1.6667,4555859469,0,False
 17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Kentucky Wildcats,,2.05,4555859470,0,False
+17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,South Carolina Gamecocks (+12.5),12.5,1.1334,4568122767,0,False
+17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Kentucky Wildcats (-12.5),12.5,5.25,4568122768,0,False
+17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Kentucky Wildcats (+16.5),-16.5,1.1539,4555844821,0,False
 17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,South Carolina Gamecocks (+1.5),1.5,1.625,4555844790,0,False
 17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Kentucky Wildcats (-1.5),1.5,2.2,4555844791,0,False
 17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,South Carolina Gamecocks (+2.5),2.5,1.5455,4555844792,0,False
@@ -3920,11 +3999,18 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,South Carolina Gamecocks (-15.5),-15.5,4.5,4555844818,0,False
 17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Kentucky Wildcats (+15.5),-15.5,1.1667,4555844819,0,False
 17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,South Carolina Gamecocks (+10.5),10.5,1.1539,4563821524,0,False
-17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Kentucky Wildcats (-10.5),10.5,4.75,4563821525,0,False
+17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,South Carolina Gamecocks (-16.5),-16.5,4.75,4555844820,0,False
+17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,South Carolina Gamecocks (+11.5),11.5,1.1334,4563821526,0,False
+17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,South Carolina Gamecocks (-17.5),-17.5,5.0,4555844822,0,False
 17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,South Carolina Gamecocks (+9.5),9.5,1.1905,4563821528,0,False
-17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Kentucky Wildcats (-9.5),9.5,4.3,4563821529,0,False
+17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,South Carolina Gamecocks (-18.5),-18.5,5.5,4555844824,0,False
+17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Kentucky Wildcats (-11.5),11.5,5.25,4563821527,0,False
+17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Kentucky Wildcats (-10.5),10.5,4.75,4563821525,0,False
 17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,South Carolina Gamecocks (-2.5),-2.5,1.8,4555844828,0,True
+17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Kentucky Wildcats (-9.5),9.5,4.3,4563821529,0,False
 17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Kentucky Wildcats (+2.5),-2.5,1.8696,4555844829,0,True
+17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Kentucky Wildcats (+17.5),-17.5,1.1429,4555844823,0,False
+17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Kentucky Wildcats (+18.5),-18.5,1.125,4555844825,0,False
 17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,South Carolina Gamecocks (-3.5),-3.5,2.05,4555844838,0,False
 17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Kentucky Wildcats (+3.5),-3.5,1.6897,4555844839,0,False
 17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,South Carolina Gamecocks (-4.5),-4.5,2.25,4555844840,0,False
@@ -3935,9 +4021,11 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Kentucky Wildcats (+6.5),-6.5,1.5,4555844845,0,False
 17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,South Carolina Gamecocks (-7.5),-7.5,2.9,4555844846,0,False
 17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Kentucky Wildcats (+7.5),-7.5,1.3637,4555844847,0,False
+17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,South Carolina Gamecocks (+13.5),13.5,1.1112,4568810736,0,False
 17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,South Carolina Gamecocks (-8.5),-8.5,3.0,4555844848,0,False
-17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Kentucky Wildcats (+8.5),-8.5,1.3572,4555844849,0,False
 17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,South Carolina Gamecocks (-9.5),-9.5,3.1,4555844850,0,False
+17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Kentucky Wildcats (-13.5),13.5,6.0,4568810737,0,False
+17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Kentucky Wildcats (+8.5),-8.5,1.3572,4555844849,0,False
 17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Kentucky Wildcats (+9.5),-9.5,1.3334,4555844851,0,False
 17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 50.5,50.5,1.625,4555844480,0,False
 17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 50.5,50.5,2.2,4555844481,0,False
@@ -3971,8 +4059,20 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 64.5,64.5,1.3226,4555844509,0,False
 17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 65.5,65.5,3.4,4555844510,0,False
 17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 65.5,65.5,1.2858,4555844511,0,False
+17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 69.5,69.5,4.3,4567000109,0,False
+17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 69.5,69.5,1.1905,4567000110,0,False
 17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 66.5,66.5,3.7,4563821530,0,False
 17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 66.5,66.5,1.25,4563821531,0,False
+17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 67.5,67.5,3.75,4563821532,0,False
+17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 67.5,67.5,1.2353,4563821533,0,False
+17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 68.5,68.5,4.0,4563821534,0,False
+17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 68.5,68.5,1.2223,4563821535,0,False
+17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 39.5,39.5,1.1819,4555844458,0,False
+17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 39.5,39.5,4.4,4555844459,0,False
+17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 40.5,40.5,1.2,4555844460,0,False
+17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 40.5,40.5,4.2,4555844461,0,False
+17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 41.5,41.5,1.2353,4555844462,0,False
+17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 41.5,41.5,3.75,4555844463,0,False
 17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 42.5,42.5,1.2667,4555844464,0,False
 17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 42.5,42.5,3.5,4555844465,0,False
 17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 43.5,43.5,1.2858,4555844466,0,False
@@ -3997,8 +4097,10 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17885318,Jackson State Tigers vs. Alabama A&M Bulldogs,2026-10-03T21:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Alabama A&M Bulldogs,,3.6,4587960369,0,False
 17885318,Jackson State Tigers vs. Alabama A&M Bulldogs,2026-10-03T21:00:00Z,spread,Handicap (inclus prolongations),223,70799,Jackson State Tigers (-9.5),-9.5,1.8,4587960642,0,True
 17885318,Jackson State Tigers vs. Alabama A&M Bulldogs,2026-10-03T21:00:00Z,spread,Handicap (inclus prolongations),223,70799,Alabama A&M Bulldogs (+9.5),-9.5,1.8696,4587960643,0,True
-17885318,Jackson State Tigers vs. Alabama A&M Bulldogs,2026-10-03T21:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 49.5,49.5,1.8334,4587960568,0,True
-17885318,Jackson State Tigers vs. Alabama A&M Bulldogs,2026-10-03T21:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 49.5,49.5,1.8334,4587960569,0,True
+17885318,Jackson State Tigers vs. Alabama A&M Bulldogs,2026-10-03T21:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 49.5,49.5,1.7693,4587960568,7,False
+17885318,Jackson State Tigers vs. Alabama A&M Bulldogs,2026-10-03T21:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 49.5,49.5,1.9091,4587960569,7,False
+17885318,Jackson State Tigers vs. Alabama A&M Bulldogs,2026-10-03T21:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 50.5,50.5,1.8334,4589733486,0,True
+17885318,Jackson State Tigers vs. Alabama A&M Bulldogs,2026-10-03T21:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 50.5,50.5,1.8334,4589733487,0,True
 17885319,Southern Illinois Salukis vs. Youngstown State Penguins,2026-10-03T21:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Southern Illinois Salukis,,2.15,4588910886,0,False
 17885319,Southern Illinois Salukis vs. Youngstown State Penguins,2026-10-03T21:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Youngstown State Penguins,,1.6061,4588910887,0,False
 17885319,Southern Illinois Salukis vs. Youngstown State Penguins,2026-10-03T21:00:00Z,spread,Handicap (inclus prolongations),223,70799,Southern Illinois Salukis (+3.5),3.5,1.7693,4588911200,0,True

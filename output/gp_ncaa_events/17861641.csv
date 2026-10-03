@@ -1,6 +1,9 @@
 event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id,selection,line,price,odd_id,odd_status,is_main_bet
 17861641,NOUVEAU MEXIQUE vs. UTEP Miners,2026-10-03T20:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,NOUVEAU MEXIQUE,,1.0334,4567388729,0,False
 17861641,NOUVEAU MEXIQUE vs. UTEP Miners,2026-10-03T20:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,UTEP Miners,,8.0,4567388730,0,False
+17861641,NOUVEAU MEXIQUE vs. UTEP Miners,2026-10-03T20:00:00Z,spread,Handicap (inclus prolongations),223,70799,UTEP Miners (+9.5),-9.5,4.0,4567388928,0,False
+17861641,NOUVEAU MEXIQUE vs. UTEP Miners,2026-10-03T20:00:00Z,spread,Handicap (inclus prolongations),223,70799,NOUVEAU MEXIQUE (-10.5),-10.5,1.2667,4567388867,0,False
+17861641,NOUVEAU MEXIQUE vs. UTEP Miners,2026-10-03T20:00:00Z,spread,Handicap (inclus prolongations),223,70799,UTEP Miners (+10.5),-10.5,3.5,4567388868,0,False
 17861641,NOUVEAU MEXIQUE vs. UTEP Miners,2026-10-03T20:00:00Z,spread,Handicap (inclus prolongations),223,70799,NOUVEAU MEXIQUE (-11.5),-11.5,1.2858,4567388869,0,False
 17861641,NOUVEAU MEXIQUE vs. UTEP Miners,2026-10-03T20:00:00Z,spread,Handicap (inclus prolongations),223,70799,UTEP Miners (+11.5),-11.5,3.4,4567388870,0,False
 17861641,NOUVEAU MEXIQUE vs. UTEP Miners,2026-10-03T20:00:00Z,spread,Handicap (inclus prolongations),223,70799,NOUVEAU MEXIQUE (-12.5),-12.5,1.3125,4567388871,0,False
@@ -51,6 +54,19 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17861641,NOUVEAU MEXIQUE vs. UTEP Miners,2026-10-03T20:00:00Z,spread,Handicap (inclus prolongations),223,70799,UTEP Miners (+34.5),-34.5,1.2667,4567388916,0,False
 17861641,NOUVEAU MEXIQUE vs. UTEP Miners,2026-10-03T20:00:00Z,spread,Handicap (inclus prolongations),223,70799,NOUVEAU MEXIQUE (-35.5),-35.5,3.75,4567388917,0,False
 17861641,NOUVEAU MEXIQUE vs. UTEP Miners,2026-10-03T20:00:00Z,spread,Handicap (inclus prolongations),223,70799,UTEP Miners (+35.5),-35.5,1.2353,4567388918,0,False
+17861641,NOUVEAU MEXIQUE vs. UTEP Miners,2026-10-03T20:00:00Z,spread,Handicap (inclus prolongations),223,70799,NOUVEAU MEXIQUE (-36.5),-36.5,4.0,4567388919,0,False
+17861641,NOUVEAU MEXIQUE vs. UTEP Miners,2026-10-03T20:00:00Z,spread,Handicap (inclus prolongations),223,70799,UTEP Miners (+36.5),-36.5,1.2223,4567388920,0,False
+17861641,NOUVEAU MEXIQUE vs. UTEP Miners,2026-10-03T20:00:00Z,spread,Handicap (inclus prolongations),223,70799,NOUVEAU MEXIQUE (-37.5),-37.5,4.2,4567388921,0,False
+17861641,NOUVEAU MEXIQUE vs. UTEP Miners,2026-10-03T20:00:00Z,spread,Handicap (inclus prolongations),223,70799,UTEP Miners (+37.5),-37.5,1.2,4567388922,0,False
+17861641,NOUVEAU MEXIQUE vs. UTEP Miners,2026-10-03T20:00:00Z,spread,Handicap (inclus prolongations),223,70799,NOUVEAU MEXIQUE (-7.5),-7.5,1.1905,4567388923,0,False
+17861641,NOUVEAU MEXIQUE vs. UTEP Miners,2026-10-03T20:00:00Z,spread,Handicap (inclus prolongations),223,70799,UTEP Miners (+7.5),-7.5,4.3,4567388924,0,False
+17861641,NOUVEAU MEXIQUE vs. UTEP Miners,2026-10-03T20:00:00Z,spread,Handicap (inclus prolongations),223,70799,NOUVEAU MEXIQUE (-8.5),-8.5,1.2223,4567388925,0,False
+17861641,NOUVEAU MEXIQUE vs. UTEP Miners,2026-10-03T20:00:00Z,spread,Handicap (inclus prolongations),223,70799,UTEP Miners (+8.5),-8.5,4.0,4567388926,0,False
+17861641,NOUVEAU MEXIQUE vs. UTEP Miners,2026-10-03T20:00:00Z,spread,Handicap (inclus prolongations),223,70799,NOUVEAU MEXIQUE (-9.5),-9.5,1.2223,4567388927,0,False
+17861641,NOUVEAU MEXIQUE vs. UTEP Miners,2026-10-03T20:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 33.5,33.5,1.1539,4567388731,0,False
+17861641,NOUVEAU MEXIQUE vs. UTEP Miners,2026-10-03T20:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 33.5,33.5,4.75,4567388732,0,False
+17861641,NOUVEAU MEXIQUE vs. UTEP Miners,2026-10-03T20:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 34.5,34.5,1.1905,4567388733,0,False
+17861641,NOUVEAU MEXIQUE vs. UTEP Miners,2026-10-03T20:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 34.5,34.5,4.3,4567388734,0,False
 17861641,NOUVEAU MEXIQUE vs. UTEP Miners,2026-10-03T20:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 35.5,35.5,1.2223,4567388735,0,False
 17861641,NOUVEAU MEXIQUE vs. UTEP Miners,2026-10-03T20:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 35.5,35.5,4.0,4567388736,0,False
 17861641,NOUVEAU MEXIQUE vs. UTEP Miners,2026-10-03T20:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 36.5,36.5,1.2353,4567388737,0,False
@@ -101,3 +117,11 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17861641,NOUVEAU MEXIQUE vs. UTEP Miners,2026-10-03T20:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 58.5,58.5,1.2858,4567388782,0,False
 17861641,NOUVEAU MEXIQUE vs. UTEP Miners,2026-10-03T20:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 59.5,59.5,3.7,4567388783,0,False
 17861641,NOUVEAU MEXIQUE vs. UTEP Miners,2026-10-03T20:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 59.5,59.5,1.25,4567388784,0,False
+17861641,NOUVEAU MEXIQUE vs. UTEP Miners,2026-10-03T20:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 60.5,60.5,3.75,4567388785,0,False
+17861641,NOUVEAU MEXIQUE vs. UTEP Miners,2026-10-03T20:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 60.5,60.5,1.2353,4567388786,0,False
+17861641,NOUVEAU MEXIQUE vs. UTEP Miners,2026-10-03T20:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 61.5,61.5,4.0,4567388787,0,False
+17861641,NOUVEAU MEXIQUE vs. UTEP Miners,2026-10-03T20:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 61.5,61.5,1.2223,4567388788,0,False
+17861641,NOUVEAU MEXIQUE vs. UTEP Miners,2026-10-03T20:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 62.5,62.5,4.4,4567388789,0,False
+17861641,NOUVEAU MEXIQUE vs. UTEP Miners,2026-10-03T20:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 62.5,62.5,1.1819,4567388790,0,False
+17861641,NOUVEAU MEXIQUE vs. UTEP Miners,2026-10-03T20:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 63.5,63.5,4.75,4567388791,0,False
+17861641,NOUVEAU MEXIQUE vs. UTEP Miners,2026-10-03T20:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 63.5,63.5,1.1539,4567388792,0,False

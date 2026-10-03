@@ -1,7 +1,9 @@
 event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id,selection,line,price,odd_id,odd_status,is_main_bet
 17884322,Columbia Lions vs. Princeton Tigers,2026-10-03T16:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Columbia Lions,,1.8696,4587344418,0,False
 17884322,Columbia Lions vs. Princeton Tigers,2026-10-03T16:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Princeton Tigers,,1.8,4587344419,0,False
-17884322,Columbia Lions vs. Princeton Tigers,2026-10-03T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,Princeton Tigers (-1.5),1.5,1.9091,4587344080,0,True
-17884322,Columbia Lions vs. Princeton Tigers,2026-10-03T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,Columbia Lions (+1.5),1.5,1.7693,4587344079,0,True
+17884322,Columbia Lions vs. Princeton Tigers,2026-10-03T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,Princeton Tigers (-1.5),1.5,1.9091,4587344080,7,False
+17884322,Columbia Lions vs. Princeton Tigers,2026-10-03T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,Columbia Lions (-1.5),-1.5,1.9091,4589751506,0,True
+17884322,Columbia Lions vs. Princeton Tigers,2026-10-03T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,Princeton Tigers (+1.5),-1.5,1.7693,4589751507,0,True
+17884322,Columbia Lions vs. Princeton Tigers,2026-10-03T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,Columbia Lions (+1.5),1.5,1.7693,4587344079,7,False
 17884322,Columbia Lions vs. Princeton Tigers,2026-10-03T16:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 42.5,42.5,1.8,4587344081,0,True
 17884322,Columbia Lions vs. Princeton Tigers,2026-10-03T16:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 42.5,42.5,1.8696,4587344082,0,True

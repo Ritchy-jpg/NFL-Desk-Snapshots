@@ -1437,14 +1437,14 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17884323,Yale Bulldogs vs. Merrimack Warriors,2026-10-03T16:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 51.5,51.5,1.8334,4588069970,0,True
 17884323,Yale Bulldogs vs. Merrimack Warriors,2026-10-03T16:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 51.5,51.5,1.8334,4588069971,0,True
 17884323,Yale Bulldogs vs. Merrimack Warriors,2026-10-03T16:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 52.5,52.5,1.9091,4587323759,7,False
-17884304,Georgetown Hoyas vs. Cornell Big Red,2026-10-03T16:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Georgetown Hoyas,,3.1,4587354530,0,False
-17884304,Georgetown Hoyas vs. Cornell Big Red,2026-10-03T16:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Cornell Big Red,,1.3077,4587354531,0,False
+17884304,Georgetown Hoyas vs. Cornell Big Red,2026-10-03T16:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Georgetown Hoyas,,3.2,4587354530,0,False
+17884304,Georgetown Hoyas vs. Cornell Big Red,2026-10-03T16:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Cornell Big Red,,1.2858,4587354531,0,False
 17884304,Georgetown Hoyas vs. Cornell Big Red,2026-10-03T16:30:00Z,spread,Handicap (inclus prolongations),223,70799,Cornell Big Red (-7.5),7.5,1.8,4587353853,7,False
 17884304,Georgetown Hoyas vs. Cornell Big Red,2026-10-03T16:30:00Z,spread,Handicap (inclus prolongations),223,70799,Georgetown Hoyas (+7.5),7.5,1.8696,4587353852,7,False
 17884304,Georgetown Hoyas vs. Cornell Big Red,2026-10-03T16:30:00Z,spread,Handicap (inclus prolongations),223,70799,Georgetown Hoyas (+8.5),8.5,1.8,4588035325,0,True
 17884304,Georgetown Hoyas vs. Cornell Big Red,2026-10-03T16:30:00Z,spread,Handicap (inclus prolongations),223,70799,Cornell Big Red (-8.5),8.5,1.8696,4588035326,0,True
-17884304,Georgetown Hoyas vs. Cornell Big Red,2026-10-03T16:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 45.5,45.5,1.8334,4587354316,0,True
-17884304,Georgetown Hoyas vs. Cornell Big Red,2026-10-03T16:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 45.5,45.5,1.8334,4587354317,0,True
+17884304,Georgetown Hoyas vs. Cornell Big Red,2026-10-03T16:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 45.5,45.5,1.8696,4587354316,0,True
+17884304,Georgetown Hoyas vs. Cornell Big Red,2026-10-03T16:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 45.5,45.5,1.8,4587354317,0,True
 17884305,Lafayette Leopards vs. Richmond Spiders,2026-10-03T16:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Lafayette Leopards,,3.05,4587360841,0,False
 17884305,Lafayette Leopards vs. Richmond Spiders,2026-10-03T16:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Richmond Spiders,,1.3125,4587360842,0,False
 17884305,Lafayette Leopards vs. Richmond Spiders,2026-10-03T16:30:00Z,spread,Handicap (inclus prolongations),223,70799,Lafayette Leopards (+6.5),6.5,1.8696,4587360329,0,True
@@ -1829,16 +1829,18 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17884560,New Hampshire Wildcats vs. Elon Phoenix,2026-10-03T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 44.5,44.5,1.8334,4587377929,0,True
 17884563,Stetson Hatters vs. Marist Red Foxes,2026-10-03T17:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Stetson Hatters,,5.25,4587368419,0,False
 17884563,Stetson Hatters vs. Marist Red Foxes,2026-10-03T17:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Marist Red Foxes,,1.1112,4587368420,0,False
-17884563,Stetson Hatters vs. Marist Red Foxes,2026-10-03T17:00:00Z,spread,Handicap (inclus prolongations),223,70799,Stetson Hatters (+16.5),16.5,1.7693,4587368421,7,True
-17884563,Stetson Hatters vs. Marist Red Foxes,2026-10-03T17:00:00Z,spread,Handicap (inclus prolongations),223,70799,Marist Red Foxes (-16.5),16.5,1.9091,4587368422,7,True
+17884563,Stetson Hatters vs. Marist Red Foxes,2026-10-03T17:00:00Z,spread,Handicap (inclus prolongations),223,70799,Marist Red Foxes (-14.5),14.5,1.8,4589805240,0,True
+17884563,Stetson Hatters vs. Marist Red Foxes,2026-10-03T17:00:00Z,spread,Handicap (inclus prolongations),223,70799,Stetson Hatters (+16.5),16.5,1.7693,4587368421,7,False
+17884563,Stetson Hatters vs. Marist Red Foxes,2026-10-03T17:00:00Z,spread,Handicap (inclus prolongations),223,70799,Marist Red Foxes (-16.5),16.5,1.9091,4587368422,7,False
+17884563,Stetson Hatters vs. Marist Red Foxes,2026-10-03T17:00:00Z,spread,Handicap (inclus prolongations),223,70799,Stetson Hatters (+14.5),14.5,1.8696,4589805239,0,True
 17884563,Stetson Hatters vs. Marist Red Foxes,2026-10-03T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 49.5,49.5,1.8334,4587368786,0,True
 17884563,Stetson Hatters vs. Marist Red Foxes,2026-10-03T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 49.5,49.5,1.8334,4587368787,0,True
 17884557,Villanova Wildcats vs. Morgan State Bears,2026-10-03T17:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Villanova Wildcats,,1.1539,4587384961,0,False
 17884557,Villanova Wildcats vs. Morgan State Bears,2026-10-03T17:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Morgan State Bears,,4.5,4587384962,0,False
-17884557,Villanova Wildcats vs. Morgan State Bears,2026-10-03T17:00:00Z,spread,Handicap (inclus prolongations),223,70799,Morgan State Bears (+11.5),-11.5,1.7693,4587987132,7,False
-17884557,Villanova Wildcats vs. Morgan State Bears,2026-10-03T17:00:00Z,spread,Handicap (inclus prolongations),223,70799,Villanova Wildcats (-10.5),-10.5,1.8334,4587384963,0,True
-17884557,Villanova Wildcats vs. Morgan State Bears,2026-10-03T17:00:00Z,spread,Handicap (inclus prolongations),223,70799,Morgan State Bears (+10.5),-10.5,1.8334,4587384964,0,True
-17884557,Villanova Wildcats vs. Morgan State Bears,2026-10-03T17:00:00Z,spread,Handicap (inclus prolongations),223,70799,Villanova Wildcats (-11.5),-11.5,1.9091,4587987131,7,False
+17884557,Villanova Wildcats vs. Morgan State Bears,2026-10-03T17:00:00Z,spread,Handicap (inclus prolongations),223,70799,Morgan State Bears (+11.5),-11.5,1.8,4587987132,0,True
+17884557,Villanova Wildcats vs. Morgan State Bears,2026-10-03T17:00:00Z,spread,Handicap (inclus prolongations),223,70799,Villanova Wildcats (-10.5),-10.5,1.7693,4587384963,7,False
+17884557,Villanova Wildcats vs. Morgan State Bears,2026-10-03T17:00:00Z,spread,Handicap (inclus prolongations),223,70799,Morgan State Bears (+10.5),-10.5,1.9091,4587384964,7,False
+17884557,Villanova Wildcats vs. Morgan State Bears,2026-10-03T17:00:00Z,spread,Handicap (inclus prolongations),223,70799,Villanova Wildcats (-11.5),-11.5,1.8696,4587987131,0,True
 17884557,Villanova Wildcats vs. Morgan State Bears,2026-10-03T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 45.5,45.5,1.8,4587385033,7,True
 17884557,Villanova Wildcats vs. Morgan State Bears,2026-10-03T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 45.5,45.5,1.8696,4587385034,7,True
 17884725,Dartmouth Big Green vs. Penn Quakers,2026-10-03T17:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Penn Quakers,,3.3,4587393656,0,False
@@ -1973,10 +1975,10 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17884722,Robert Morris Colonials vs. Norfolk State Spartans,2026-10-03T18:00:00Z,spread,Handicap (inclus prolongations),223,70799,Norfolk State Spartans (+3.5),-3.5,1.8696,4587400814,0,True
 17884722,Robert Morris Colonials vs. Norfolk State Spartans,2026-10-03T18:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 43.5,43.5,1.8,4587400752,0,True
 17884722,Robert Morris Colonials vs. Norfolk State Spartans,2026-10-03T18:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 43.5,43.5,1.8696,4587400753,0,True
-17884742,South Carolina State Bulldogs vs. The Citadel Bulldogs,2026-10-03T18:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,South Carolina State Bulldogs,,1.05,4587406331,0,False
-17884742,South Carolina State Bulldogs vs. The Citadel Bulldogs,2026-10-03T18:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,The Citadel Bulldogs,,7.25,4587406332,0,False
-17884742,South Carolina State Bulldogs vs. The Citadel Bulldogs,2026-10-03T18:00:00Z,spread,Handicap (inclus prolongations),223,70799,South Carolina State Bulldogs (-20.5),-20.5,1.8334,4587406333,7,True
-17884742,South Carolina State Bulldogs vs. The Citadel Bulldogs,2026-10-03T18:00:00Z,spread,Handicap (inclus prolongations),223,70799,The Citadel Bulldogs (+20.5),-20.5,1.8334,4587406334,7,True
+17884742,South Carolina State Bulldogs vs. The Citadel Bulldogs,2026-10-03T18:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,South Carolina State Bulldogs,,1.04,4587406331,0,False
+17884742,South Carolina State Bulldogs vs. The Citadel Bulldogs,2026-10-03T18:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,The Citadel Bulldogs,,7.75,4587406332,0,False
+17884742,South Carolina State Bulldogs vs. The Citadel Bulldogs,2026-10-03T18:00:00Z,spread,Handicap (inclus prolongations),223,70799,South Carolina State Bulldogs (-20.5),-20.5,1.8334,4587406333,0,True
+17884742,South Carolina State Bulldogs vs. The Citadel Bulldogs,2026-10-03T18:00:00Z,spread,Handicap (inclus prolongations),223,70799,The Citadel Bulldogs (+20.5),-20.5,1.8334,4587406334,0,True
 17884742,South Carolina State Bulldogs vs. The Citadel Bulldogs,2026-10-03T18:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 47.5,47.5,1.8334,4587406336,7,True
 17884742,South Carolina State Bulldogs vs. The Citadel Bulldogs,2026-10-03T18:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 47.5,47.5,1.8334,4587406335,7,True
 17884724,Grambling State Tigers vs. Alcorn State Braves,2026-10-03T19:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Grambling State Tigers,,1.3334,4587538645,0,False
@@ -4021,10 +4023,10 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Kentucky Wildcats (+6.5),-6.5,1.5,4555844845,0,False
 17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,South Carolina Gamecocks (-7.5),-7.5,2.9,4555844846,0,False
 17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Kentucky Wildcats (+7.5),-7.5,1.3637,4555844847,0,False
-17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,South Carolina Gamecocks (+13.5),13.5,1.1112,4568810736,0,False
+17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,South Carolina Gamecocks (+13.5),13.5,1.125,4568810736,0,False
 17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,South Carolina Gamecocks (-8.5),-8.5,3.0,4555844848,0,False
 17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,South Carolina Gamecocks (-9.5),-9.5,3.1,4555844850,0,False
-17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Kentucky Wildcats (-13.5),13.5,6.0,4568810737,0,False
+17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Kentucky Wildcats (-13.5),13.5,5.5,4568810737,0,False
 17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Kentucky Wildcats (+8.5),-8.5,1.3572,4555844849,0,False
 17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Kentucky Wildcats (+9.5),-9.5,1.3334,4555844851,0,False
 17647644,South Carolina Gamecocks vs. Kentucky Wildcats,2026-10-03T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 50.5,50.5,1.625,4555844480,0,False

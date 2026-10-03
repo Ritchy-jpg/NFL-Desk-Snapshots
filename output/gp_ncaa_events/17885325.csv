@@ -1,7 +1,11 @@
 event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id,selection,line,price,odd_id,odd_status,is_main_bet
 17885325,Eastern Kentucky Colonels vs. North Alabama Lions,2026-10-03T22:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Eastern Kentucky Colonels,,1.6897,4587975723,0,False
 17885325,Eastern Kentucky Colonels vs. North Alabama Lions,2026-10-03T22:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,North Alabama Lions,,2.0,4587975724,0,False
-17885325,Eastern Kentucky Colonels vs. North Alabama Lions,2026-10-03T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,North Alabama Lions (+2.5),-2.5,1.8,4587978936,0,True
-17885325,Eastern Kentucky Colonels vs. North Alabama Lions,2026-10-03T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Eastern Kentucky Colonels (-2.5),-2.5,1.8696,4587978935,0,True
-17885325,Eastern Kentucky Colonels vs. North Alabama Lions,2026-10-03T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 48.5,48.5,1.8696,4587979090,0,True
-17885325,Eastern Kentucky Colonels vs. North Alabama Lions,2026-10-03T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 48.5,48.5,1.8,4587979091,0,True
+17885325,Eastern Kentucky Colonels vs. North Alabama Lions,2026-10-03T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,North Alabama Lions (+2.5),-2.5,1.8,4587978936,7,False
+17885325,Eastern Kentucky Colonels vs. North Alabama Lions,2026-10-03T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Eastern Kentucky Colonels (-1.5),-1.5,1.8,4588686988,0,True
+17885325,Eastern Kentucky Colonels vs. North Alabama Lions,2026-10-03T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,North Alabama Lions (+1.5),-1.5,1.8696,4588686989,0,True
+17885325,Eastern Kentucky Colonels vs. North Alabama Lions,2026-10-03T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Eastern Kentucky Colonels (-2.5),-2.5,1.8696,4587978935,7,False
+17885325,Eastern Kentucky Colonels vs. North Alabama Lions,2026-10-03T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 47.5,47.5,1.8,4588351825,0,True
+17885325,Eastern Kentucky Colonels vs. North Alabama Lions,2026-10-03T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 48.5,48.5,1.8696,4587979090,7,False
+17885325,Eastern Kentucky Colonels vs. North Alabama Lions,2026-10-03T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 48.5,48.5,1.8,4587979091,7,False
+17885325,Eastern Kentucky Colonels vs. North Alabama Lions,2026-10-03T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 47.5,47.5,1.8696,4588351826,0,True

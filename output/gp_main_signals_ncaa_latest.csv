@@ -1,1 +1,9 @@
 captured_at,event_id,match,start_date,market,selection,side,signal,old_line,new_line,old_price,new_price,old_status,new_status,old_is_main_bet,new_is_main_bet
+2026-10-03T08:57:52.150895+00:00,17647623,SMU Mustangs vs. Boston College Eagles,2026-10-03T16:00:00Z,total,Plus de 40.5,over,STATUS_CHANGE,40.5,40.5,1.1539,1.1539,0,7,0,0
+2026-10-03T08:57:52.150895+00:00,17647623,SMU Mustangs vs. Boston College Eagles,2026-10-03T16:00:00Z,total,Moins de 40.5,under,STATUS_CHANGE,40.5,40.5,4.75,4.75,0,7,0,0
+2026-10-03T08:57:52.150895+00:00,17861544,Buffalo Bulls vs. MICHIGAN,2026-10-03T17:00:00Z,spread,Buffalo Bulls (+12.5),Buffalo Bulls,MAIN_SWITCH,12.5,12.5,1.8696,1.8696,0,0,1,0
+2026-10-03T08:57:52.150895+00:00,17861544,Buffalo Bulls vs. MICHIGAN,2026-10-03T17:00:00Z,spread,MICHIGAN (-12.5),MICHIGAN,MAIN_SWITCH,-12.5,-12.5,1.8,1.8,0,0,1,0
+2026-10-03T08:57:52.150895+00:00,17861544,Buffalo Bulls vs. MICHIGAN,2026-10-03T17:00:00Z,spread,Buffalo Bulls (+13.5),Buffalo Bulls,MAIN_SWITCH,13.5,13.5,1.8,1.8,0,0,0,1
+2026-10-03T08:57:52.150895+00:00,17861544,Buffalo Bulls vs. MICHIGAN,2026-10-03T17:00:00Z,spread,MICHIGAN (-13.5),MICHIGAN,MAIN_SWITCH,-13.5,-13.5,1.8696,1.8696,0,0,0,1
+2026-10-03T08:57:52.150895+00:00,17856252,James Madison Dukes vs. Marshall Herd,2026-10-03T19:45:00Z,total,Plus de 55.5,over,MAIN_PRICE_MOVE,55.5,55.5,1.8,1.8334,0,0,1,1
+2026-10-03T08:57:52.150895+00:00,17856252,James Madison Dukes vs. Marshall Herd,2026-10-03T19:45:00Z,total,Moins de 55.5,under,MAIN_PRICE_MOVE,55.5,55.5,1.8696,1.8334,0,0,1,1

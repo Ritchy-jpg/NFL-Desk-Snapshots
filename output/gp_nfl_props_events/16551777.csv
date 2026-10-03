@@ -99,8 +99,8 @@ event_id,match,player,market,market_type_id,sport_market_id,child_market_id,odd_
 16551777,TB Buccaneers vs. GB Packers,Kameron Johnson,Total de Touchdowns du joueur (Incl. Prolongations) (Kameron Johnson (TB)),2145,72900,1755452691,4573319472,1+,1+,18.0,0,False
 16551777,TB Buccaneers vs. GB Packers,Kameron Johnson,Total de Touchdowns du joueur (Incl. Prolongations) (Kameron Johnson (TB)),2145,72900,1755452691,4573319473,2+,2+,101.0,0,False
 16551777,TB Buccaneers vs. GB Packers,Kameron Johnson,Total de Touchdowns du joueur (Incl. Prolongations) (Kameron Johnson (TB)),2145,72900,1755452691,4573319474,3+,3+,251.0,0,False
-16551777,TB Buccaneers vs. GB Packers,Payne Durham,Total de Touchdowns du joueur (Incl. Prolongations) (Payne Durham (TB)),2145,72900,1755452690,4573319469,1+,1+,20.0,0,False
-16551777,TB Buccaneers vs. GB Packers,Payne Durham,Total de Touchdowns du joueur (Incl. Prolongations) (Payne Durham (TB)),2145,72900,1755452690,4573319470,2+,2+,101.0,0,False
+16551777,TB Buccaneers vs. GB Packers,Payne Durham,Total de Touchdowns du joueur (Incl. Prolongations) (Payne Durham (TB)),2145,72900,1755452690,4573319469,1+,1+,26.0,0,False
+16551777,TB Buccaneers vs. GB Packers,Payne Durham,Total de Touchdowns du joueur (Incl. Prolongations) (Payne Durham (TB)),2145,72900,1755452690,4573319470,2+,2+,151.0,0,False
 16551777,TB Buccaneers vs. GB Packers,Payne Durham,Total de Touchdowns du joueur (Incl. Prolongations) (Payne Durham (TB)),2145,72900,1755452690,4573319471,3+,3+,251.0,0,False
 16551777,TB Buccaneers vs. GB Packers,Ko Kieft,Total de Touchdowns du joueur (Incl. Prolongations) (Ko Kieft (TB)),2145,72900,1755452686,4573319457,1+,1+,31.0,0,False
 16551777,TB Buccaneers vs. GB Packers,Ko Kieft,Total de Touchdowns du joueur (Incl. Prolongations) (Ko Kieft (TB)),2145,72900,1755452686,4573319458,2+,2+,151.0,0,False
@@ -192,15 +192,6 @@ event_id,match,player,market,market_type_id,sport_market_id,child_market_id,odd_
 16551777,TB Buccaneers vs. GB Packers,Bucky Irving,Total des yards reçus par le joueur (Bucky Irving (TB)) (prolongations incluses),2143,72898,1756648251,4577402279,73+,73+,12.0,0,False
 16551777,TB Buccaneers vs. GB Packers,Bucky Irving,Total des yards reçus par le joueur (Bucky Irving (TB)) (prolongations incluses),2143,72898,1756648251,4577402280,83+,83+,18.0,0,False
 16551777,TB Buccaneers vs. GB Packers,Bucky Irving,Total des yards reçus par le joueur (Bucky Irving (TB)) (prolongations incluses),2143,72898,1756648251,4577402281,93+,93+,31.0,0,False
-16551777,TB Buccaneers vs. GB Packers,Skyy Moore,Total des yards reçus par le joueur (Skyy Moore (GB)) (prolongations incluses),2143,72898,1758055555,4588193520,17+,17+,1.8696,0,False
-16551777,TB Buccaneers vs. GB Packers,Skyy Moore,Total des yards reçus par le joueur (Skyy Moore (GB)) (prolongations incluses),2143,72898,1758055555,4588193521,27+,27+,2.35,0,False
-16551777,TB Buccaneers vs. GB Packers,Skyy Moore,Total des yards reçus par le joueur (Skyy Moore (GB)) (prolongations incluses),2143,72898,1758055555,4588193522,37+,37+,3.0,0,False
-16551777,TB Buccaneers vs. GB Packers,Skyy Moore,Total des yards reçus par le joueur (Skyy Moore (GB)) (prolongations incluses),2143,72898,1758055555,4588193523,47+,47+,4.0,0,False
-16551777,TB Buccaneers vs. GB Packers,Skyy Moore,Total des yards reçus par le joueur (Skyy Moore (GB)) (prolongations incluses),2143,72898,1758055555,4588193524,57+,57+,6.0,0,False
-16551777,TB Buccaneers vs. GB Packers,Skyy Moore,Total des yards reçus par le joueur (Skyy Moore (GB)) (prolongations incluses),2143,72898,1758055555,4588193525,67+,67+,9.0,0,False
-16551777,TB Buccaneers vs. GB Packers,Skyy Moore,Total des yards reçus par le joueur (Skyy Moore (GB)) (prolongations incluses),2143,72898,1758055555,4588193526,77+,77+,14.0,0,False
-16551777,TB Buccaneers vs. GB Packers,Skyy Moore,Total des yards reçus par le joueur (Skyy Moore (GB)) (prolongations incluses),2143,72898,1758055555,4588193527,87+,87+,21.0,0,False
-16551777,TB Buccaneers vs. GB Packers,Skyy Moore,Total des yards reçus par le joueur (Skyy Moore (GB)) (prolongations incluses),2143,72898,1758055555,4588193528,97+,97+,41.0,0,False
 16551777,TB Buccaneers vs. GB Packers,Tez Johnson,Total des yards reçus par le joueur (Tez Johnson (TB)) (prolongations incluses),2143,72898,1759463095,4587081187,11+,11+,1.8696,0,False
 16551777,TB Buccaneers vs. GB Packers,Tez Johnson,Total des yards reçus par le joueur (Tez Johnson (TB)) (prolongations incluses),2143,72898,1759463095,4587081188,21+,21+,2.4,0,False
 16551777,TB Buccaneers vs. GB Packers,Tez Johnson,Total des yards reçus par le joueur (Tez Johnson (TB)) (prolongations incluses),2143,72898,1759463095,4587081189,31+,31+,3.2,0,False
@@ -209,6 +200,15 @@ event_id,match,player,market,market_type_id,sport_market_id,child_market_id,odd_
 16551777,TB Buccaneers vs. GB Packers,Tez Johnson,Total des yards reçus par le joueur (Tez Johnson (TB)) (prolongations incluses),2143,72898,1759463095,4587081192,61+,61+,10.0,0,False
 16551777,TB Buccaneers vs. GB Packers,Tez Johnson,Total des yards reçus par le joueur (Tez Johnson (TB)) (prolongations incluses),2143,72898,1759463095,4587081193,71+,71+,17.0,0,False
 16551777,TB Buccaneers vs. GB Packers,Tez Johnson,Total des yards reçus par le joueur (Tez Johnson (TB)) (prolongations incluses),2143,72898,1759463095,4587081194,81+,81+,26.0,0,False
+16551777,TB Buccaneers vs. GB Packers,Skyy Moore,Total des yards reçus par le joueur (Skyy Moore (GB)) (prolongations incluses),2143,72898,1758055555,4587389443,68+,68+,9.0,0,False
+16551777,TB Buccaneers vs. GB Packers,Skyy Moore,Total des yards reçus par le joueur (Skyy Moore (GB)) (prolongations incluses),2143,72898,1758055555,4587389444,78+,78+,15.0,0,False
+16551777,TB Buccaneers vs. GB Packers,Skyy Moore,Total des yards reçus par le joueur (Skyy Moore (GB)) (prolongations incluses),2143,72898,1758055555,4587389445,88+,88+,26.0,0,False
+16551777,TB Buccaneers vs. GB Packers,Skyy Moore,Total des yards reçus par le joueur (Skyy Moore (GB)) (prolongations incluses),2143,72898,1758055555,4587389446,98+,98+,41.0,0,False
+16551777,TB Buccaneers vs. GB Packers,Skyy Moore,Total des yards reçus par le joueur (Skyy Moore (GB)) (prolongations incluses),2143,72898,1758055555,4587389385,18+,18+,1.9091,0,False
+16551777,TB Buccaneers vs. GB Packers,Skyy Moore,Total des yards reçus par le joueur (Skyy Moore (GB)) (prolongations incluses),2143,72898,1758055555,4587389386,28+,28+,2.35,0,False
+16551777,TB Buccaneers vs. GB Packers,Skyy Moore,Total des yards reçus par le joueur (Skyy Moore (GB)) (prolongations incluses),2143,72898,1758055555,4587389387,38+,38+,3.1,0,False
+16551777,TB Buccaneers vs. GB Packers,Skyy Moore,Total des yards reçus par le joueur (Skyy Moore (GB)) (prolongations incluses),2143,72898,1758055555,4587389388,48+,48+,4.3,0,False
+16551777,TB Buccaneers vs. GB Packers,Skyy Moore,Total des yards reçus par le joueur (Skyy Moore (GB)) (prolongations incluses),2143,72898,1758055555,4587389389,58+,58+,6.25,0,False
 16551777,TB Buccaneers vs. GB Packers,Kenneth Gainwell,Total des yards reçus par le joueur (Kenneth Gainwell (TB)) (prolongations incluses),2143,72898,1758397463,4583371139,11+,11+,1.9091,0,False
 16551777,TB Buccaneers vs. GB Packers,Kenneth Gainwell,Total des yards reçus par le joueur (Kenneth Gainwell (TB)) (prolongations incluses),2143,72898,1758397463,4583371140,21+,21+,2.35,0,False
 16551777,TB Buccaneers vs. GB Packers,Kenneth Gainwell,Total des yards reçus par le joueur (Kenneth Gainwell (TB)) (prolongations incluses),2143,72898,1758397463,4583371141,31+,31+,3.1,0,False

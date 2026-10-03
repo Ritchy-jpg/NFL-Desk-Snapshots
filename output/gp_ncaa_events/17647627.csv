@@ -6,8 +6,8 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17647627,Colorado Buffaloes vs. Texas Tech Red Raiders,2026-10-03T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Texas Tech Red Raiders (+2.5),-2.5,1.1112,4578024561,7,False
 17647627,Colorado Buffaloes vs. Texas Tech Red Raiders,2026-10-03T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Colorado Buffaloes (+2.5),2.5,4.2,4565055131,0,False
 17647627,Colorado Buffaloes vs. Texas Tech Red Raiders,2026-10-03T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Texas Tech Red Raiders (-2.5),2.5,1.2,4565055132,0,False
-17647627,Colorado Buffaloes vs. Texas Tech Red Raiders,2026-10-03T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Colorado Buffaloes (-1.5),-1.5,5.0,4574100134,7,False
-17647627,Colorado Buffaloes vs. Texas Tech Red Raiders,2026-10-03T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Texas Tech Red Raiders (+1.5),-1.5,1.1429,4574100135,7,False
+17647627,Colorado Buffaloes vs. Texas Tech Red Raiders,2026-10-03T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Colorado Buffaloes (-1.5),-1.5,5.5,4574100134,7,False
+17647627,Colorado Buffaloes vs. Texas Tech Red Raiders,2026-10-03T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Texas Tech Red Raiders (+1.5),-1.5,1.125,4574100135,7,False
 17647627,Colorado Buffaloes vs. Texas Tech Red Raiders,2026-10-03T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Colorado Buffaloes (+10.5),10.5,2.1,4564337980,0,False
 17647627,Colorado Buffaloes vs. Texas Tech Red Raiders,2026-10-03T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Texas Tech Red Raiders (-10.5),10.5,1.6667,4564337981,0,False
 17647627,Colorado Buffaloes vs. Texas Tech Red Raiders,2026-10-03T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Colorado Buffaloes (+11.5),11.5,2.0,4564337982,0,False
@@ -32,12 +32,12 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17647627,Colorado Buffaloes vs. Texas Tech Red Raiders,2026-10-03T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Texas Tech Red Raiders (-20.5),20.5,2.5,4564338001,0,False
 17647627,Colorado Buffaloes vs. Texas Tech Red Raiders,2026-10-03T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Colorado Buffaloes (+21.5),21.5,1.4167,4564338002,0,False
 17647627,Colorado Buffaloes vs. Texas Tech Red Raiders,2026-10-03T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Texas Tech Red Raiders (-21.5),21.5,2.7,4564338003,0,False
-17647627,Colorado Buffaloes vs. Texas Tech Red Raiders,2026-10-03T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Colorado Buffaloes (+22.5),22.5,1.3847,4564338004,0,False
-17647627,Colorado Buffaloes vs. Texas Tech Red Raiders,2026-10-03T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Texas Tech Red Raiders (-22.5),22.5,2.85,4564338005,0,False
+17647627,Colorado Buffaloes vs. Texas Tech Red Raiders,2026-10-03T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Colorado Buffaloes (+22.5),22.5,1.4,4564338004,0,False
+17647627,Colorado Buffaloes vs. Texas Tech Red Raiders,2026-10-03T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Texas Tech Red Raiders (-22.5),22.5,2.75,4564338005,0,False
 17647627,Colorado Buffaloes vs. Texas Tech Red Raiders,2026-10-03T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Colorado Buffaloes (+23.5),23.5,1.3637,4564338006,0,False
 17647627,Colorado Buffaloes vs. Texas Tech Red Raiders,2026-10-03T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Texas Tech Red Raiders (-23.5),23.5,2.9,4564338007,0,False
-17647627,Colorado Buffaloes vs. Texas Tech Red Raiders,2026-10-03T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Colorado Buffaloes (+24.5),24.5,1.3125,4564338008,0,False
-17647627,Colorado Buffaloes vs. Texas Tech Red Raiders,2026-10-03T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Texas Tech Red Raiders (-24.5),24.5,3.2,4564338009,0,False
+17647627,Colorado Buffaloes vs. Texas Tech Red Raiders,2026-10-03T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Colorado Buffaloes (+24.5),24.5,1.3226,4564338008,0,False
+17647627,Colorado Buffaloes vs. Texas Tech Red Raiders,2026-10-03T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Texas Tech Red Raiders (-24.5),24.5,3.15,4564338009,0,False
 17647627,Colorado Buffaloes vs. Texas Tech Red Raiders,2026-10-03T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Colorado Buffaloes (+25.5),25.5,1.2858,4564338010,0,False
 17647627,Colorado Buffaloes vs. Texas Tech Red Raiders,2026-10-03T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Texas Tech Red Raiders (-25.5),25.5,3.4,4564338011,0,False
 17647627,Colorado Buffaloes vs. Texas Tech Red Raiders,2026-10-03T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Colorado Buffaloes (+26.5),26.5,1.2667,4564338012,0,False
@@ -56,16 +56,16 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17647627,Colorado Buffaloes vs. Texas Tech Red Raiders,2026-10-03T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Colorado Buffaloes (-2.5),-2.5,6.0,4578024560,7,False
 17647627,Colorado Buffaloes vs. Texas Tech Red Raiders,2026-10-03T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Colorado Buffaloes (+6.5),6.5,2.85,4564338034,0,False
 17647627,Colorado Buffaloes vs. Texas Tech Red Raiders,2026-10-03T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Texas Tech Red Raiders (-6.5),6.5,1.3847,4564338035,0,False
-17647627,Colorado Buffaloes vs. Texas Tech Red Raiders,2026-10-03T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Colorado Buffaloes (+7.5),7.5,2.4,4564338036,0,False
-17647627,Colorado Buffaloes vs. Texas Tech Red Raiders,2026-10-03T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Texas Tech Red Raiders (-7.5),7.5,1.5264,4564338037,0,False
+17647627,Colorado Buffaloes vs. Texas Tech Red Raiders,2026-10-03T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Colorado Buffaloes (+7.5),7.5,2.5,4564338036,0,False
+17647627,Colorado Buffaloes vs. Texas Tech Red Raiders,2026-10-03T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Texas Tech Red Raiders (-7.5),7.5,1.5,4564338037,0,False
 17647627,Colorado Buffaloes vs. Texas Tech Red Raiders,2026-10-03T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Colorado Buffaloes (+8.5),8.5,2.35,4564338038,0,False
 17647627,Colorado Buffaloes vs. Texas Tech Red Raiders,2026-10-03T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Texas Tech Red Raiders (-8.5),8.5,1.5455,4564338039,0,False
-17647627,Colorado Buffaloes vs. Texas Tech Red Raiders,2026-10-03T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Colorado Buffaloes (+9.5),9.5,2.25,4564338040,0,False
-17647627,Colorado Buffaloes vs. Texas Tech Red Raiders,2026-10-03T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Texas Tech Red Raiders (-9.5),9.5,1.5715,4564338041,0,False
+17647627,Colorado Buffaloes vs. Texas Tech Red Raiders,2026-10-03T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Colorado Buffaloes (+9.5),9.5,2.3,4564338040,0,False
+17647627,Colorado Buffaloes vs. Texas Tech Red Raiders,2026-10-03T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Texas Tech Red Raiders (-9.5),9.5,1.5556,4564338041,0,False
 17647627,Colorado Buffaloes vs. Texas Tech Red Raiders,2026-10-03T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Texas Tech Red Raiders (-5.5),5.5,1.3572,4564338033,0,False
 17647627,Colorado Buffaloes vs. Texas Tech Red Raiders,2026-10-03T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 54.5,54.5,1.5455,4564338304,0,False
-17647627,Colorado Buffaloes vs. Texas Tech Red Raiders,2026-10-03T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 55.5,55.5,2.5,4564338305,0,False
-17647627,Colorado Buffaloes vs. Texas Tech Red Raiders,2026-10-03T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 55.5,55.5,1.5,4564338306,0,False
+17647627,Colorado Buffaloes vs. Texas Tech Red Raiders,2026-10-03T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 55.5,55.5,2.55,4564338305,0,False
+17647627,Colorado Buffaloes vs. Texas Tech Red Raiders,2026-10-03T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 55.5,55.5,1.4762,4564338306,0,False
 17647627,Colorado Buffaloes vs. Texas Tech Red Raiders,2026-10-03T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 56.5,56.5,2.65,4564338307,0,False
 17647627,Colorado Buffaloes vs. Texas Tech Red Raiders,2026-10-03T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 56.5,56.5,1.4348,4564338308,0,False
 17647627,Colorado Buffaloes vs. Texas Tech Red Raiders,2026-10-03T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 57.5,57.5,2.75,4564338309,0,False
@@ -80,8 +80,8 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17647627,Colorado Buffaloes vs. Texas Tech Red Raiders,2026-10-03T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 61.5,61.5,1.2667,4564338318,0,False
 17647627,Colorado Buffaloes vs. Texas Tech Red Raiders,2026-10-03T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 62.5,62.5,3.75,4564338319,0,False
 17647627,Colorado Buffaloes vs. Texas Tech Red Raiders,2026-10-03T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 62.5,62.5,1.2353,4564338320,0,False
-17647627,Colorado Buffaloes vs. Texas Tech Red Raiders,2026-10-03T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 63.5,63.5,4.2,4564338321,0,False
-17647627,Colorado Buffaloes vs. Texas Tech Red Raiders,2026-10-03T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 63.5,63.5,1.2,4564338322,0,False
+17647627,Colorado Buffaloes vs. Texas Tech Red Raiders,2026-10-03T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 63.5,63.5,4.0,4564338321,0,False
+17647627,Colorado Buffaloes vs. Texas Tech Red Raiders,2026-10-03T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 63.5,63.5,1.2223,4564338322,0,False
 17647627,Colorado Buffaloes vs. Texas Tech Red Raiders,2026-10-03T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 64.5,64.5,4.3,4564338323,0,False
 17647627,Colorado Buffaloes vs. Texas Tech Red Raiders,2026-10-03T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 64.5,64.5,1.1905,4564338324,0,False
 17647627,Colorado Buffaloes vs. Texas Tech Red Raiders,2026-10-03T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 36.5,36.5,4.3,4565667711,0,False
@@ -112,8 +112,8 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17647627,Colorado Buffaloes vs. Texas Tech Red Raiders,2026-10-03T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 46.5,46.5,2.2,4564338288,0,False
 17647627,Colorado Buffaloes vs. Texas Tech Red Raiders,2026-10-03T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 47.5,47.5,1.6897,4564338289,0,False
 17647627,Colorado Buffaloes vs. Texas Tech Red Raiders,2026-10-03T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 47.5,47.5,2.05,4564338290,0,False
-17647627,Colorado Buffaloes vs. Texas Tech Red Raiders,2026-10-03T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 48.5,48.5,1.7408,4564338291,0,False
-17647627,Colorado Buffaloes vs. Texas Tech Red Raiders,2026-10-03T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 48.5,48.5,1.9524,4564338292,0,False
+17647627,Colorado Buffaloes vs. Texas Tech Red Raiders,2026-10-03T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 48.5,48.5,1.7693,4564338291,0,False
+17647627,Colorado Buffaloes vs. Texas Tech Red Raiders,2026-10-03T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 48.5,48.5,1.9091,4564338292,0,False
 17647627,Colorado Buffaloes vs. Texas Tech Red Raiders,2026-10-03T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 49.5,49.5,1.8,4564338293,0,True
 17647627,Colorado Buffaloes vs. Texas Tech Red Raiders,2026-10-03T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 49.5,49.5,1.8696,4564338294,0,True
 17647627,Colorado Buffaloes vs. Texas Tech Red Raiders,2026-10-03T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 50.5,50.5,1.8696,4564338295,0,False

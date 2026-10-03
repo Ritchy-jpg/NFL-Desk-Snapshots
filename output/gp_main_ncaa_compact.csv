@@ -140,8 +140,8 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17856240,Air Force Falcons vs. Navy Midshipmen,2026-10-03T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,Navy Midshipmen (-13.5),13.5,6.5,4565049889,7,False
 17856240,Air Force Falcons vs. Navy Midshipmen,2026-10-03T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,Air Force Falcons (+2.5),2.5,1.5,4565049892,0,False
 17856240,Air Force Falcons vs. Navy Midshipmen,2026-10-03T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,Navy Midshipmen (-2.5),2.5,2.5,4565049893,0,False
-17856240,Air Force Falcons vs. Navy Midshipmen,2026-10-03T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,Air Force Falcons (+3.5),3.5,1.3847,4565049894,0,False
-17856240,Air Force Falcons vs. Navy Midshipmen,2026-10-03T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,Navy Midshipmen (-3.5),3.5,2.85,4565049895,0,False
+17856240,Air Force Falcons vs. Navy Midshipmen,2026-10-03T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,Air Force Falcons (+3.5),3.5,1.4,4565049894,0,False
+17856240,Air Force Falcons vs. Navy Midshipmen,2026-10-03T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,Navy Midshipmen (-3.5),3.5,2.75,4565049895,0,False
 17856240,Air Force Falcons vs. Navy Midshipmen,2026-10-03T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,Air Force Falcons (+4.5),4.5,1.3334,4565049896,0,False
 17856240,Air Force Falcons vs. Navy Midshipmen,2026-10-03T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,Navy Midshipmen (-4.5),4.5,3.1,4565049897,0,False
 17856240,Air Force Falcons vs. Navy Midshipmen,2026-10-03T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,Air Force Falcons (+5.5),5.5,1.3031,4565049898,0,False
@@ -152,10 +152,10 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17856240,Air Force Falcons vs. Navy Midshipmen,2026-10-03T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,Navy Midshipmen (-7.5),7.5,4.3,4565049903,0,False
 17856240,Air Force Falcons vs. Navy Midshipmen,2026-10-03T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,Air Force Falcons (+8.5),8.5,1.1667,4565049904,0,False
 17856240,Air Force Falcons vs. Navy Midshipmen,2026-10-03T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,Navy Midshipmen (-8.5),8.5,4.5,4565049905,0,False
-17856240,Air Force Falcons vs. Navy Midshipmen,2026-10-03T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,Air Force Falcons (+9.5),9.5,1.1539,4565049906,0,False
-17856240,Air Force Falcons vs. Navy Midshipmen,2026-10-03T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,Navy Midshipmen (-9.5),9.5,4.75,4565049907,0,False
-17856240,Air Force Falcons vs. Navy Midshipmen,2026-10-03T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,Air Force Falcons (-1.5),-1.5,1.6667,4565049908,0,False
-17856240,Air Force Falcons vs. Navy Midshipmen,2026-10-03T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,Navy Midshipmen (+1.5),-1.5,2.1,4565049909,0,False
+17856240,Air Force Falcons vs. Navy Midshipmen,2026-10-03T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,Air Force Falcons (+9.5),9.5,1.1667,4565049906,0,False
+17856240,Air Force Falcons vs. Navy Midshipmen,2026-10-03T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,Navy Midshipmen (-9.5),9.5,4.5,4565049907,0,False
+17856240,Air Force Falcons vs. Navy Midshipmen,2026-10-03T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,Air Force Falcons (-1.5),-1.5,1.6897,4565049908,0,False
+17856240,Air Force Falcons vs. Navy Midshipmen,2026-10-03T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,Navy Midshipmen (+1.5),-1.5,2.05,4565049909,0,False
 17856240,Air Force Falcons vs. Navy Midshipmen,2026-10-03T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,Air Force Falcons (-10.5),-10.5,3.25,4565049910,0,False
 17856240,Air Force Falcons vs. Navy Midshipmen,2026-10-03T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,Navy Midshipmen (+10.5),-10.5,1.3031,4565049911,0,False
 17856240,Air Force Falcons vs. Navy Midshipmen,2026-10-03T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,Air Force Falcons (-11.5),-11.5,3.5,4565049912,0,False
@@ -1999,8 +1999,10 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17884721,South Dakota Coyotes vs. Indiana State Sycamores,2026-10-03T19:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Indiana State Sycamores,,6.75,4587529364,0,False
 17884721,South Dakota Coyotes vs. Indiana State Sycamores,2026-10-03T19:00:00Z,spread,Handicap (inclus prolongations),223,70799,South Dakota Coyotes (-18.5),-18.5,1.8,4587529365,0,True
 17884721,South Dakota Coyotes vs. Indiana State Sycamores,2026-10-03T19:00:00Z,spread,Handicap (inclus prolongations),223,70799,Indiana State Sycamores (+18.5),-18.5,1.8696,4587529366,0,True
-17884721,South Dakota Coyotes vs. Indiana State Sycamores,2026-10-03T19:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 60.5,60.5,1.8334,4587529499,0,True
-17884721,South Dakota Coyotes vs. Indiana State Sycamores,2026-10-03T19:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 60.5,60.5,1.8334,4587529500,0,True
+17884721,South Dakota Coyotes vs. Indiana State Sycamores,2026-10-03T19:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 59.5,59.5,1.8696,4589504336,0,True
+17884721,South Dakota Coyotes vs. Indiana State Sycamores,2026-10-03T19:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 60.5,60.5,1.8696,4587529499,7,False
+17884721,South Dakota Coyotes vs. Indiana State Sycamores,2026-10-03T19:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 60.5,60.5,1.8,4587529500,7,False
+17884721,South Dakota Coyotes vs. Indiana State Sycamores,2026-10-03T19:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 59.5,59.5,1.8,4589504335,0,True
 17885328,Albany Great Danes vs. Delaware State Hornets,2026-10-03T19:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Albany Great Danes,,1.6897,4587637054,0,False
 17885328,Albany Great Danes vs. Delaware State Hornets,2026-10-03T19:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Delaware State Hornets,,2.0,4587637055,0,False
 17885328,Albany Great Danes vs. Delaware State Hornets,2026-10-03T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Albany Great Danes (-2.5),-2.5,1.8334,4587637162,0,True

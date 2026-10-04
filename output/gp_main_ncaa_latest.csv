@@ -1,79 +1,73 @@
 event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id,market_id,market_sv,odd_id,selection,line,price,odd_status,is_main_bet
-17647633,Arizona Wildcats vs. Cincinnati Bearcats,2026-10-04T03:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1752325063,,4563953819,Cincinnati Bearcats,,2.95,0,False
-17647633,Arizona Wildcats vs. Cincinnati Bearcats,2026-10-04T03:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1752325063,,4563953820,Arizona Wildcats,,1.3334,0,False
-17647633,Arizona Wildcats vs. Cincinnati Bearcats,2026-10-04T03:00:00Z,spread,Handicap (inclus prolongations),223,70799,1752943776,-7.0,4565843737,Arizona Wildcats (-7.0),-7.0,1.8696,0,True
-17647633,Arizona Wildcats vs. Cincinnati Bearcats,2026-10-04T03:00:00Z,spread,Handicap (inclus prolongations),223,70799,1752943776,-7.0,4565843738,Cincinnati Bearcats (+7.0),-7.0,1.8,0,True
-17647633,Arizona Wildcats vs. Cincinnati Bearcats,2026-10-04T03:00:00Z,total,Total (prolongations incluses),225,70803,1758553325,56.5,4583392474,Moins de 56.5,56.5,1.8,0,True
-17647633,Arizona Wildcats vs. Cincinnati Bearcats,2026-10-04T03:00:00Z,total,Total (prolongations incluses),225,70803,1758553325,56.5,4583392475,Plus de 56.5,56.5,1.8696,0,True
 17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1752994647,,4565963086,San Jose State Spartans,,2.1,0,False
 17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1752994647,,4565963087,Hawaii Rainbow Warriors,,1.625,0,False
-17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,spread,Handicap (inclus prolongations),223,70799,1754195300,-2.5,4573395276,San Jose State Spartans (+9.5),-9.5,1.3125,0,False
-17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,spread,Handicap (inclus prolongations),223,70799,1754195300,-2.5,4573395302,San Jose State Spartans (+16.5),-16.5,1.1,0,False
-17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,spread,Handicap (inclus prolongations),223,70799,1754195300,-2.5,4565963292,Hawaii Rainbow Warriors (-4.5),-4.5,2.15,0,False
-17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,spread,Handicap (inclus prolongations),223,70799,1754195300,-2.5,4565963293,San Jose State Spartans (+4.5),-4.5,1.6451,0,False
-17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,spread,Handicap (inclus prolongations),223,70799,1754195300,-2.5,4573395308,San Jose State Spartans (+17.5),-17.5,1.0715,0,False
-17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,spread,Handicap (inclus prolongations),223,70799,1754195300,-2.5,4573395298,San Jose State Spartans (+14.5),-14.5,1.1334,0,False
-17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,spread,Handicap (inclus prolongations),223,70799,1754195300,-2.5,4573395300,San Jose State Spartans (+18.5),-18.5,1.0625,0,False
-17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,spread,Handicap (inclus prolongations),223,70799,1754195300,-2.5,4573395267,Hawaii Rainbow Warriors (-15.5),-15.5,6.0,0,False
-17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,spread,Handicap (inclus prolongations),223,70799,1754195300,-2.5,4573395268,San Jose State Spartans (+15.5),-15.5,1.1112,0,False
+17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,spread,Handicap (inclus prolongations),223,70799,1754195300,-2.5,4573395276,San Jose State Spartans (+9.5),-9.5,1.2667,0,False
+17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,spread,Handicap (inclus prolongations),223,70799,1754195300,-2.5,4573395302,San Jose State Spartans (+16.5),-16.5,1.0834,0,False
+17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,spread,Handicap (inclus prolongations),223,70799,1754195300,-2.5,4565963292,Hawaii Rainbow Warriors (-4.5),-4.5,2.25,0,False
+17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,spread,Handicap (inclus prolongations),223,70799,1754195300,-2.5,4565963293,San Jose State Spartans (+4.5),-4.5,1.5715,0,False
+17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,spread,Handicap (inclus prolongations),223,70799,1754195300,-2.5,4573395308,San Jose State Spartans (+17.5),-17.5,1.0625,0,False
+17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,spread,Handicap (inclus prolongations),223,70799,1754195300,-2.5,4573395298,San Jose State Spartans (+14.5),-14.5,1.1112,0,False
+17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,spread,Handicap (inclus prolongations),223,70799,1754195300,-2.5,4573395300,San Jose State Spartans (+18.5),-18.5,1.05,0,False
+17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,spread,Handicap (inclus prolongations),223,70799,1754195300,-2.5,4573395267,Hawaii Rainbow Warriors (-15.5),-15.5,6.5,0,False
+17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,spread,Handicap (inclus prolongations),223,70799,1754195300,-2.5,4573395268,San Jose State Spartans (+15.5),-15.5,1.1,0,False
 17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,spread,Handicap (inclus prolongations),223,70799,1754195300,-2.5,4573395269,San Jose State Spartans (-4.5),+4.5,3.1,0,False
 17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,spread,Handicap (inclus prolongations),223,70799,1754195300,-2.5,4573395270,Hawaii Rainbow Warriors (+4.5),+4.5,1.3334,0,False
-17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,spread,Handicap (inclus prolongations),223,70799,1754195300,-2.5,4573395271,Hawaii Rainbow Warriors (-8.5),-8.5,3.1,0,False
-17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,spread,Handicap (inclus prolongations),223,70799,1754195300,-2.5,4573395272,San Jose State Spartans (+8.5),-8.5,1.3334,0,False
+17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,spread,Handicap (inclus prolongations),223,70799,1754195300,-2.5,4573395271,Hawaii Rainbow Warriors (-8.5),-8.5,3.25,0,False
+17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,spread,Handicap (inclus prolongations),223,70799,1754195300,-2.5,4573395272,San Jose State Spartans (+8.5),-8.5,1.3031,0,False
 17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,spread,Handicap (inclus prolongations),223,70799,1754195300,-2.5,4573395273,San Jose State Spartans (-8.5),+8.5,4.75,0,False
 17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,spread,Handicap (inclus prolongations),223,70799,1754195300,-2.5,4573395274,Hawaii Rainbow Warriors (+8.5),+8.5,1.1539,0,False
-17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,spread,Handicap (inclus prolongations),223,70799,1754195300,-2.5,4573395275,Hawaii Rainbow Warriors (-9.5),-9.5,3.2,0,False
-17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,spread,Handicap (inclus prolongations),223,70799,1754195300,-2.5,4566368076,Hawaii Rainbow Warriors (-3.5),-3.5,2.05,0,False
-17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,spread,Handicap (inclus prolongations),223,70799,1754195300,-2.5,4573395277,Hawaii Rainbow Warriors (-6.5),-6.5,2.5,0,False
-17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,spread,Handicap (inclus prolongations),223,70799,1754195300,-2.5,4566368075,San Jose State Spartans (+3.5),-3.5,1.6897,0,False
+17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,spread,Handicap (inclus prolongations),223,70799,1754195300,-2.5,4573395275,Hawaii Rainbow Warriors (-9.5),-9.5,3.5,0,False
+17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,spread,Handicap (inclus prolongations),223,70799,1754195300,-2.5,4566368076,Hawaii Rainbow Warriors (-3.5),-3.5,2.1,0,False
+17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,spread,Handicap (inclus prolongations),223,70799,1754195300,-2.5,4573395277,Hawaii Rainbow Warriors (-6.5),-6.5,2.6,0,False
+17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,spread,Handicap (inclus prolongations),223,70799,1754195300,-2.5,4566368075,San Jose State Spartans (+3.5),-3.5,1.6667,0,False
 17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,spread,Handicap (inclus prolongations),223,70799,1754195300,-2.5,4573395279,San Jose State Spartans (+1.5),-1.5,2.05,0,False
 17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,spread,Handicap (inclus prolongations),223,70799,1754195300,-2.5,4573395280,Hawaii Rainbow Warriors (-1.5),-1.5,1.6897,0,False
-17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,spread,Handicap (inclus prolongations),223,70799,1754195300,-2.5,4573395278,San Jose State Spartans (+6.5),-6.5,1.5,0,False
-17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,spread,Handicap (inclus prolongations),223,70799,1754195300,-2.5,4573395282,Hawaii Rainbow Warriors (-7.5),-7.5,2.85,0,False
+17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,spread,Handicap (inclus prolongations),223,70799,1754195300,-2.5,4573395278,San Jose State Spartans (+6.5),-6.5,1.4546,0,False
+17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,spread,Handicap (inclus prolongations),223,70799,1754195300,-2.5,4573395282,Hawaii Rainbow Warriors (-7.5),-7.5,3.1,0,False
 17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,spread,Handicap (inclus prolongations),223,70799,1754195300,-2.5,4573395283,San Jose State Spartans (-9.5),+9.5,5.0,0,False
 17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,spread,Handicap (inclus prolongations),223,70799,1754195300,-2.5,4573395284,Hawaii Rainbow Warriors (+9.5),+9.5,1.1429,0,False
 17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,spread,Handicap (inclus prolongations),223,70799,1754195300,-2.5,4573395285,San Jose State Spartans (-2.5),+2.5,2.4,0,False
 17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,spread,Handicap (inclus prolongations),223,70799,1754195300,-2.5,4573395286,Hawaii Rainbow Warriors (+2.5),+2.5,1.5264,0,False
-17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,spread,Handicap (inclus prolongations),223,70799,1754195300,-2.5,4569466711,Hawaii Rainbow Warriors (-2.5),-2.5,1.7408,0,True
+17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,spread,Handicap (inclus prolongations),223,70799,1754195300,-2.5,4569466711,Hawaii Rainbow Warriors (-2.5),-2.5,1.7693,0,True
 17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,spread,Handicap (inclus prolongations),223,70799,1754195300,-2.5,4573395288,Hawaii Rainbow Warriors (+3.5),+3.5,1.3847,0,False
-17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,spread,Handicap (inclus prolongations),223,70799,1754195300,-2.5,4573395289,Hawaii Rainbow Warriors (+6.5),+6.5,1.2667,0,False
-17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,spread,Handicap (inclus prolongations),223,70799,1754195300,-2.5,4573395290,San Jose State Spartans (-6.5),+6.5,3.5,0,False
+17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,spread,Handicap (inclus prolongations),223,70799,1754195300,-2.5,4573395289,Hawaii Rainbow Warriors (+6.5),+6.5,1.25,0,False
+17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,spread,Handicap (inclus prolongations),223,70799,1754195300,-2.5,4573395290,San Jose State Spartans (-6.5),+6.5,3.7,0,False
 17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,spread,Handicap (inclus prolongations),223,70799,1754195300,-2.5,4573395287,San Jose State Spartans (-3.5),+3.5,2.85,0,False
-17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,spread,Handicap (inclus prolongations),223,70799,1754195300,-2.5,4573395292,Hawaii Rainbow Warriors (+1.5),+1.5,1.5715,0,False
-17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,spread,Handicap (inclus prolongations),223,70799,1754195300,-2.5,4573395293,San Jose State Spartans (-7.5),+7.5,4.2,0,False
-17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,spread,Handicap (inclus prolongations),223,70799,1754195300,-2.5,4573395294,Hawaii Rainbow Warriors (+7.5),+7.5,1.2,0,False
-17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,spread,Handicap (inclus prolongations),223,70799,1754195300,-2.5,4573395295,San Jose State Spartans (-5.5),+5.5,3.25,0,False
-17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,spread,Handicap (inclus prolongations),223,70799,1754195300,-2.5,4573395296,Hawaii Rainbow Warriors (+5.5),+5.5,1.3031,0,False
-17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,spread,Handicap (inclus prolongations),223,70799,1754195300,-2.5,4573395297,Hawaii Rainbow Warriors (-14.5),-14.5,5.25,0,False
-17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,spread,Handicap (inclus prolongations),223,70799,1754195300,-2.5,4573395291,San Jose State Spartans (-1.5),+1.5,2.25,0,False
-17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,spread,Handicap (inclus prolongations),223,70799,1754195300,-2.5,4573395299,Hawaii Rainbow Warriors (-18.5),-18.5,8.0,0,False
-17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,spread,Handicap (inclus prolongations),223,70799,1754195300,-2.5,4573395281,San Jose State Spartans (+7.5),-7.5,1.3847,0,False
-17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,spread,Handicap (inclus prolongations),223,70799,1754195300,-2.5,4573395301,Hawaii Rainbow Warriors (-16.5),-16.5,6.5,0,False
-17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,spread,Handicap (inclus prolongations),223,70799,1754195300,-2.5,4573395306,San Jose State Spartans (+13.5),-13.5,1.1667,0,False
+17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,spread,Handicap (inclus prolongations),223,70799,1754195300,-2.5,4573395292,Hawaii Rainbow Warriors (+1.5),+1.5,1.5556,0,False
+17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,spread,Handicap (inclus prolongations),223,70799,1754195300,-2.5,4573395293,San Jose State Spartans (-7.5),+7.5,4.4,0,False
+17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,spread,Handicap (inclus prolongations),223,70799,1754195300,-2.5,4573395294,Hawaii Rainbow Warriors (+7.5),+7.5,1.1819,0,False
+17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,spread,Handicap (inclus prolongations),223,70799,1754195300,-2.5,4573395295,San Jose State Spartans (-5.5),+5.5,3.4,0,False
+17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,spread,Handicap (inclus prolongations),223,70799,1754195300,-2.5,4573395296,Hawaii Rainbow Warriors (+5.5),+5.5,1.2858,0,False
+17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,spread,Handicap (inclus prolongations),223,70799,1754195300,-2.5,4573395297,Hawaii Rainbow Warriors (-14.5),-14.5,6.0,0,False
+17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,spread,Handicap (inclus prolongations),223,70799,1754195300,-2.5,4573395291,San Jose State Spartans (-1.5),+1.5,2.3,0,False
+17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,spread,Handicap (inclus prolongations),223,70799,1754195300,-2.5,4573395299,Hawaii Rainbow Warriors (-18.5),-18.5,8.5,0,False
+17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,spread,Handicap (inclus prolongations),223,70799,1754195300,-2.5,4573395281,San Jose State Spartans (+7.5),-7.5,1.3334,0,False
+17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,spread,Handicap (inclus prolongations),223,70799,1754195300,-2.5,4573395301,Hawaii Rainbow Warriors (-16.5),-16.5,7.0,0,False
+17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,spread,Handicap (inclus prolongations),223,70799,1754195300,-2.5,4573395306,San Jose State Spartans (+13.5),-13.5,1.1429,0,False
 17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,spread,Handicap (inclus prolongations),223,70799,1754195300,-2.5,4573395303,San Jose State Spartans (-13.5),+13.5,7.5,0,False
 17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,spread,Handicap (inclus prolongations),223,70799,1754195300,-2.5,4573395304,Hawaii Rainbow Warriors (+13.5),+13.5,1.0715,0,False
-17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,spread,Handicap (inclus prolongations),223,70799,1754195300,-2.5,4573395305,Hawaii Rainbow Warriors (-13.5),-13.5,4.5,0,False
-17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,spread,Handicap (inclus prolongations),223,70799,1754195300,-2.5,4565963882,Hawaii Rainbow Warriors (-5.5),-5.5,2.3,0,False
-17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,spread,Handicap (inclus prolongations),223,70799,1754195300,-2.5,4573395307,Hawaii Rainbow Warriors (-17.5),-17.5,7.5,0,False
-17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,spread,Handicap (inclus prolongations),223,70799,1754195300,-2.5,4569466710,San Jose State Spartans (+2.5),-2.5,1.9524,0,True
+17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,spread,Handicap (inclus prolongations),223,70799,1754195300,-2.5,4573395305,Hawaii Rainbow Warriors (-13.5),-13.5,5.0,0,False
+17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,spread,Handicap (inclus prolongations),223,70799,1754195300,-2.5,4565963882,Hawaii Rainbow Warriors (-5.5),-5.5,2.4,0,False
+17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,spread,Handicap (inclus prolongations),223,70799,1754195300,-2.5,4573395307,Hawaii Rainbow Warriors (-17.5),-17.5,8.0,0,False
+17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,spread,Handicap (inclus prolongations),223,70799,1754195300,-2.5,4569466710,San Jose State Spartans (+2.5),-2.5,1.9091,0,True
 17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,spread,Handicap (inclus prolongations),223,70799,1754195300,-2.5,4573395309,San Jose State Spartans (-12.5),+12.5,7.0,0,False
 17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,spread,Handicap (inclus prolongations),223,70799,1754195300,-2.5,4573395310,Hawaii Rainbow Warriors (+12.5),+12.5,1.0834,0,False
-17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,spread,Handicap (inclus prolongations),223,70799,1754195300,-2.5,4573395311,Hawaii Rainbow Warriors (-12.5),-12.5,4.2,0,False
-17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,spread,Handicap (inclus prolongations),223,70799,1754195300,-2.5,4565963883,San Jose State Spartans (+5.5),-5.5,1.5556,0,False
+17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,spread,Handicap (inclus prolongations),223,70799,1754195300,-2.5,4573395311,Hawaii Rainbow Warriors (-12.5),-12.5,4.4,0,False
+17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,spread,Handicap (inclus prolongations),223,70799,1754195300,-2.5,4565963883,San Jose State Spartans (+5.5),-5.5,1.5264,0,False
 17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,spread,Handicap (inclus prolongations),223,70799,1754195300,-2.5,4573395313,San Jose State Spartans (-10.5),+10.5,6.0,0,False
 17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,spread,Handicap (inclus prolongations),223,70799,1754195300,-2.5,4573395314,Hawaii Rainbow Warriors (+10.5),+10.5,1.1112,0,False
 17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,spread,Handicap (inclus prolongations),223,70799,1754195300,-2.5,4573395315,Hawaii Rainbow Warriors (+11.5),+11.5,1.1,0,False
 17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,spread,Handicap (inclus prolongations),223,70799,1754195300,-2.5,4573395316,San Jose State Spartans (-11.5),+11.5,6.5,0,False
-17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,spread,Handicap (inclus prolongations),223,70799,1754195300,-2.5,4573395317,San Jose State Spartans (+10.5),-10.5,1.25,0,False
-17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,spread,Handicap (inclus prolongations),223,70799,1754195300,-2.5,4573395318,Hawaii Rainbow Warriors (-10.5),-10.5,3.7,0,False
-17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,spread,Handicap (inclus prolongations),223,70799,1754195300,-2.5,4573395319,San Jose State Spartans (+11.5),-11.5,1.2223,0,False
-17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,spread,Handicap (inclus prolongations),223,70799,1754195300,-2.5,4573395320,Hawaii Rainbow Warriors (-11.5),-11.5,4.0,0,False
-17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,spread,Handicap (inclus prolongations),223,70799,1754195300,-2.5,4573395312,San Jose State Spartans (+12.5),-12.5,1.2,0,False
+17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,spread,Handicap (inclus prolongations),223,70799,1754195300,-2.5,4573395317,San Jose State Spartans (+10.5),-10.5,1.2223,0,False
+17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,spread,Handicap (inclus prolongations),223,70799,1754195300,-2.5,4573395318,Hawaii Rainbow Warriors (-10.5),-10.5,4.0,0,False
+17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,spread,Handicap (inclus prolongations),223,70799,1754195300,-2.5,4573395319,San Jose State Spartans (+11.5),-11.5,1.2,0,False
+17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,spread,Handicap (inclus prolongations),223,70799,1754195300,-2.5,4573395320,Hawaii Rainbow Warriors (-11.5),-11.5,4.2,0,False
+17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,spread,Handicap (inclus prolongations),223,70799,1754195300,-2.5,4573395312,San Jose State Spartans (+12.5),-12.5,1.1819,0,False
 17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,total,Total (prolongations incluses),225,70803,1755482283,50.5,4573395328,Moins de 58.5,58.5,1.3847,0,False
 17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,total,Total (prolongations incluses),225,70803,1755482283,50.5,4573395329,Plus de 48.5,48.5,1.6897,0,False
 17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,total,Total (prolongations incluses),225,70803,1755482283,50.5,4573395330,Moins de 48.5,48.5,2.05,0,False
-17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,total,Total (prolongations incluses),225,70803,1755482283,50.5,4573395331,Moins de 38.5,38.5,4.0,0,False
-17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,total,Total (prolongations incluses),225,70803,1755482283,50.5,4573395332,Plus de 38.5,38.5,1.2223,0,False
+17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,total,Total (prolongations incluses),225,70803,1755482283,50.5,4573395331,Moins de 38.5,38.5,3.75,0,False
+17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,total,Total (prolongations incluses),225,70803,1755482283,50.5,4573395332,Plus de 38.5,38.5,1.2353,0,False
 17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,total,Total (prolongations incluses),225,70803,1755482283,50.5,4573395333,Moins de 55.5,55.5,1.5,0,False
 17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,total,Total (prolongations incluses),225,70803,1755482283,50.5,4573395334,Plus de 55.5,55.5,2.5,0,False
 17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,total,Total (prolongations incluses),225,70803,1755482283,50.5,4573395335,Moins de 45.5,45.5,2.4,0,False
@@ -82,36 +76,36 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,total,Total (prolongations incluses),225,70803,1755482283,50.5,4573395338,Plus de 65.5,65.5,4.5,0,False
 17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,total,Total (prolongations incluses),225,70803,1755482283,50.5,4573395339,Plus de 54.5,54.5,2.25,0,False
 17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,total,Total (prolongations incluses),225,70803,1755482283,50.5,4573395340,Moins de 54.5,54.5,1.5715,0,False
-17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,total,Total (prolongations incluses),225,70803,1755482283,50.5,4573395341,Plus de 44.5,44.5,1.4546,0,False
-17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,total,Total (prolongations incluses),225,70803,1755482283,50.5,4573395342,Moins de 44.5,44.5,2.6,0,False
+17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,total,Total (prolongations incluses),225,70803,1755482283,50.5,4573395341,Plus de 44.5,44.5,1.4762,0,False
+17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,total,Total (prolongations incluses),225,70803,1755482283,50.5,4573395342,Moins de 44.5,44.5,2.55,0,False
 17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,total,Total (prolongations incluses),225,70803,1755482283,50.5,4573395343,Plus de 64.5,64.5,4.2,0,False
 17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,total,Total (prolongations incluses),225,70803,1755482283,50.5,4573395344,Moins de 64.5,64.5,1.2,0,False
 17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,total,Total (prolongations incluses),225,70803,1755482283,50.5,4573395345,Plus de 57.5,57.5,2.65,0,False
 17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,total,Total (prolongations incluses),225,70803,1755482283,50.5,4573395346,Moins de 57.5,57.5,1.4348,0,False
-17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,total,Total (prolongations incluses),225,70803,1755482283,50.5,4573395347,Plus de 47.5,47.5,1.625,0,False
-17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,total,Total (prolongations incluses),225,70803,1755482283,50.5,4573395348,Moins de 47.5,47.5,2.2,0,False
-17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,total,Total (prolongations incluses),225,70803,1755482283,50.5,4573395349,Plus de 37.5,37.5,1.2,0,False
-17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,total,Total (prolongations incluses),225,70803,1755482283,50.5,4573395350,Moins de 37.5,37.5,4.2,0,False
+17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,total,Total (prolongations incluses),225,70803,1755482283,50.5,4573395347,Plus de 47.5,47.5,1.6451,0,False
+17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,total,Total (prolongations incluses),225,70803,1755482283,50.5,4573395348,Moins de 47.5,47.5,2.15,0,False
+17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,total,Total (prolongations incluses),225,70803,1755482283,50.5,4573395349,Plus de 37.5,37.5,1.2223,0,False
+17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,total,Total (prolongations incluses),225,70803,1755482283,50.5,4573395350,Moins de 37.5,37.5,4.0,0,False
 17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,total,Total (prolongations incluses),225,70803,1755482283,50.5,4573395351,Plus de 56.5,56.5,2.55,0,False
 17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,total,Total (prolongations incluses),225,70803,1755482283,50.5,4573395352,Moins de 56.5,56.5,1.4762,0,False
-17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,total,Total (prolongations incluses),225,70803,1755482283,50.5,4573395353,Plus de 46.5,46.5,1.5455,0,False
-17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,total,Total (prolongations incluses),225,70803,1755482283,50.5,4573395354,Moins de 46.5,46.5,2.35,0,False
+17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,total,Total (prolongations incluses),225,70803,1755482283,50.5,4573395353,Plus de 46.5,46.5,1.5556,0,False
+17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,total,Total (prolongations incluses),225,70803,1755482283,50.5,4573395354,Moins de 46.5,46.5,2.3,0,False
 17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,total,Total (prolongations incluses),225,70803,1755482283,50.5,4573395357,Moins de 36.5,36.5,4.75,0,False
 17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,total,Total (prolongations incluses),225,70803,1755482283,50.5,4573395358,Plus de 36.5,36.5,1.1539,0,False
-17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,total,Total (prolongations incluses),225,70803,1755482283,50.5,4573395359,Plus de 61.5,61.5,3.5,0,False
-17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,total,Total (prolongations incluses),225,70803,1755482283,50.5,4573395360,Moins de 61.5,61.5,1.2667,0,False
+17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,total,Total (prolongations incluses),225,70803,1755482283,50.5,4573395359,Plus de 61.5,61.5,3.4,0,False
+17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,total,Total (prolongations incluses),225,70803,1755482283,50.5,4573395360,Moins de 61.5,61.5,1.2858,0,False
 17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,total,Total (prolongations incluses),225,70803,1755482283,50.5,4573395361,Moins de 63.5,63.5,1.2223,0,False
 17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,total,Total (prolongations incluses),225,70803,1755482283,50.5,4573395362,Plus de 63.5,63.5,4.0,0,False
 17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,total,Total (prolongations incluses),225,70803,1755482283,50.5,4573395363,Plus de 60.5,60.5,3.2,0,False
 17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,total,Total (prolongations incluses),225,70803,1755482283,50.5,4573395364,Moins de 60.5,60.5,1.3125,0,False
 17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,total,Total (prolongations incluses),225,70803,1755482283,50.5,4573395365,Moins de 62.5,62.5,1.25,0,False
 17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,total,Total (prolongations incluses),225,70803,1755482283,50.5,4573395366,Plus de 62.5,62.5,3.7,0,False
-17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,total,Total (prolongations incluses),225,70803,1755482283,50.5,4573395367,Plus de 42.5,42.5,1.3572,0,False
-17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,total,Total (prolongations incluses),225,70803,1755482283,50.5,4573395368,Moins de 42.5,42.5,3.0,0,False
+17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,total,Total (prolongations incluses),225,70803,1755482283,50.5,4573395367,Plus de 42.5,42.5,1.3637,0,False
+17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,total,Total (prolongations incluses),225,70803,1755482283,50.5,4573395368,Moins de 42.5,42.5,2.9,0,False
 17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,total,Total (prolongations incluses),225,70803,1755482283,50.5,4573395369,Plus de 40.5,40.5,1.2858,0,False
 17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,total,Total (prolongations incluses),225,70803,1755482283,50.5,4573395370,Moins de 40.5,40.5,3.4,0,False
-17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,total,Total (prolongations incluses),225,70803,1755482283,50.5,4573395371,Moins de 43.5,43.5,2.75,0,False
-17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,total,Total (prolongations incluses),225,70803,1755482283,50.5,4573395372,Plus de 43.5,43.5,1.4,0,False
+17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,total,Total (prolongations incluses),225,70803,1755482283,50.5,4573395371,Moins de 43.5,43.5,2.7,0,False
+17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,total,Total (prolongations incluses),225,70803,1755482283,50.5,4573395372,Plus de 43.5,43.5,1.4167,0,False
 17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,total,Total (prolongations incluses),225,70803,1755482283,50.5,4573395373,Plus de 41.5,41.5,1.3334,0,False
 17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,total,Total (prolongations incluses),225,70803,1755482283,50.5,4573395374,Moins de 41.5,41.5,3.1,0,False
 17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,total,Total (prolongations incluses),225,70803,1755482283,50.5,4573395375,Plus de 50.5,50.5,1.8334,0,True
@@ -124,10 +118,10 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,total,Total (prolongations incluses),225,70803,1755482283,50.5,4565963085,Moins de 52.5,52.5,1.6667,0,False
 17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,total,Total (prolongations incluses),225,70803,1755482283,50.5,4583668560,Moins de 35.5,35.5,5.0,0,False
 17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,total,Total (prolongations incluses),225,70803,1755482283,50.5,4583668561,Plus de 35.5,35.5,1.1429,0,False
-17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,total,Total (prolongations incluses),225,70803,1755482283,50.5,4573395321,Moins de 39.5,39.5,3.7,0,False
-17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,total,Total (prolongations incluses),225,70803,1755482283,50.5,4573395322,Plus de 39.5,39.5,1.25,0,False
-17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,total,Total (prolongations incluses),225,70803,1755482283,50.5,4573395323,Plus de 49.5,49.5,1.7408,0,False
-17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,total,Total (prolongations incluses),225,70803,1755482283,50.5,4573395324,Moins de 49.5,49.5,1.9524,0,False
+17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,total,Total (prolongations incluses),225,70803,1755482283,50.5,4573395321,Moins de 39.5,39.5,3.5,0,False
+17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,total,Total (prolongations incluses),225,70803,1755482283,50.5,4573395322,Plus de 39.5,39.5,1.2667,0,False
+17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,total,Total (prolongations incluses),225,70803,1755482283,50.5,4573395323,Plus de 49.5,49.5,1.7693,0,False
+17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,total,Total (prolongations incluses),225,70803,1755482283,50.5,4573395324,Moins de 49.5,49.5,1.9091,0,False
 17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,total,Total (prolongations incluses),225,70803,1755482283,50.5,4573395325,Moins de 59.5,59.5,1.3334,0,False
 17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,total,Total (prolongations incluses),225,70803,1755482283,50.5,4573395326,Plus de 59.5,59.5,3.1,0,False
 17856295,Hawaii Rainbow Warriors vs. San Jose State Spartans,2026-10-04T04:00:00Z,total,Total (prolongations incluses),225,70803,1755482283,50.5,4573395327,Plus de 58.5,58.5,2.85,0,False

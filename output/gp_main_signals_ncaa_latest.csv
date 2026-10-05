@@ -1,25 +1,5 @@
 captured_at,event_id,match,start_date,market,selection,side,signal,old_line,new_line,old_price,new_price,old_status,new_status,old_is_main_bet,new_is_main_bet
-2026-10-05T10:46:52.610137+00:00,17693215,Kennesaw State Owls vs. Jacksonville State Gamecocks,2026-10-07T23:00:00Z,spread,Kennesaw State Owls (+3.5),Kennesaw State Owls,MAIN_PRICE_MOVE,3.5,3.5,1.7693,1.7408,0,0.0,1,1.0
-2026-10-05T10:46:52.610137+00:00,17693215,Kennesaw State Owls vs. Jacksonville State Gamecocks,2026-10-07T23:00:00Z,spread,Jacksonville State Gamecocks (-3.5),Jacksonville State Gamecocks,MAIN_PRICE_MOVE,-3.5,-3.5,1.9091,1.9524,0,0.0,1,1.0
-2026-10-05T10:46:52.610137+00:00,17693215,Kennesaw State Owls vs. Jacksonville State Gamecocks,2026-10-07T23:00:00Z,total,Plus de 49.5,over,MAIN_SWITCH,49.5,49.5,1.8,1.8,0,0.0,1,0.0
-2026-10-05T10:46:52.610137+00:00,17693215,Kennesaw State Owls vs. Jacksonville State Gamecocks,2026-10-07T23:00:00Z,total,Moins de 49.5,under,MAIN_SWITCH,49.5,49.5,1.8696,1.8696,0,0.0,1,0.0
-2026-10-05T10:46:52.610137+00:00,17724257,North Carolina State Wolfpack vs. Wake Forest Demon Deacons,2026-10-10T16:00:00Z,spread,North Carolina State Wolfpack (+3.5),North Carolina State Wolfpack,MAIN_PRICE_MOVE,3.5,3.5,1.8334,1.8,0,0.0,1,1.0
-2026-10-05T10:46:52.610137+00:00,17724257,North Carolina State Wolfpack vs. Wake Forest Demon Deacons,2026-10-10T16:00:00Z,spread,Wake Forest Demon Deacons (-3.5),Wake Forest Demon Deacons,MAIN_PRICE_MOVE,-3.5,-3.5,1.8334,1.8696,0,0.0,1,1.0
-2026-10-05T10:46:52.610137+00:00,17724261,Northwestern Wildcats vs. Ball State Cardinals,2026-10-10T16:30:00Z,total,Moins de 52.5,under,MAIN_PRICE_MOVE,52.5,52.5,1.8,1.8334,0,0.0,1,1.0
-2026-10-05T10:46:52.610137+00:00,17724261,Northwestern Wildcats vs. Ball State Cardinals,2026-10-10T16:30:00Z,total,Plus de 52.5,over,MAIN_PRICE_MOVE,52.5,52.5,1.8696,1.8334,0,0.0,1,1.0
-2026-10-05T10:46:52.610137+00:00,17724256,Kansas State Wildcats vs. Houston Cougars,2026-10-10T19:30:00Z,spread,Kansas State Wildcats (-2.5),Kansas State Wildcats,MAIN_PRICE_MOVE,-2.5,-2.5,1.8334,1.8,0,0.0,1,1.0
-2026-10-05T10:46:52.610137+00:00,17724256,Kansas State Wildcats vs. Houston Cougars,2026-10-10T19:30:00Z,spread,Houston Cougars (+2.5),Houston Cougars,MAIN_PRICE_MOVE,2.5,2.5,1.8334,1.8696,0,0.0,1,1.0
-2026-10-05T10:46:52.610137+00:00,17933342,North Texas vs. Charlotte 49ers,2026-10-10T19:30:00Z,total,Plus de 59.5,over,MAIN_PRICE_MOVE,59.5,59.5,1.8696,1.8334,0,0.0,1,1.0
-2026-10-05T10:46:52.610137+00:00,17933342,North Texas vs. Charlotte 49ers,2026-10-10T19:30:00Z,total,Moins de 59.5,under,MAIN_PRICE_MOVE,59.5,59.5,1.8,1.8334,0,0.0,1,1.0
-2026-10-05T10:46:52.610137+00:00,17714567,Washington Huskies vs. Iowa Hawkeyes,2026-10-10T01:00:00Z,spread,Washington Huskies (-2.5),Washington Huskies,REMOVED_MAIN,-2.5,,1.8,,0,,1,
-2026-10-05T10:46:52.610137+00:00,17714567,Washington Huskies vs. Iowa Hawkeyes,2026-10-10T01:00:00Z,spread,Iowa Hawkeyes (+2.5),Iowa Hawkeyes,REMOVED_MAIN,2.5,,1.8696,,0,,1,
-2026-10-05T10:46:52.610137+00:00,17714567,Washington Huskies vs. Iowa Hawkeyes,2026-10-10T01:00:00Z,total,Plus de 41.5,over,REMOVED_MAIN,41.5,,1.8334,,0,,1,
-2026-10-05T10:46:52.610137+00:00,17714567,Washington Huskies vs. Iowa Hawkeyes,2026-10-10T01:00:00Z,total,Moins de 41.5,under,REMOVED_MAIN,41.5,,1.8334,,0,,1,
-2026-10-05T10:46:52.610137+00:00,17724250,Oregon Ducks vs. UCLA Bruins,2026-10-10T19:30:00Z,total,Plus de 60.5,over,REMOVED_MAIN,60.5,,1.8696,,0,,1,
-2026-10-05T10:46:52.610137+00:00,17724250,Oregon Ducks vs. UCLA Bruins,2026-10-10T19:30:00Z,total,Moins de 60.5,under,REMOVED_MAIN,60.5,,1.8,,0,,1,
-2026-10-05T10:46:52.610137+00:00,17724254,Virginia Cavaliers vs. Syracuse Orange,2026-10-10T23:30:00Z,spread,Virginia Cavaliers (-8.5),Virginia Cavaliers,REMOVED_MAIN,-8.5,,1.8334,,0,,1,
-2026-10-05T10:46:52.610137+00:00,17724254,Virginia Cavaliers vs. Syracuse Orange,2026-10-10T23:30:00Z,spread,Syracuse Orange (+8.5),Syracuse Orange,REMOVED_MAIN,8.5,,1.8334,,0,,1,
-2026-10-05T10:46:52.610137+00:00,17724256,Kansas State Wildcats vs. Houston Cougars,2026-10-10T19:30:00Z,total,Plus de 55.5,over,REMOVED_MAIN,55.5,,1.8334,,0,,1,
-2026-10-05T10:46:52.610137+00:00,17724256,Kansas State Wildcats vs. Houston Cougars,2026-10-10T19:30:00Z,total,Moins de 55.5,under,REMOVED_MAIN,55.5,,1.8334,,0,,1,
-2026-10-05T10:46:52.610137+00:00,17724257,North Carolina State Wolfpack vs. Wake Forest Demon Deacons,2026-10-10T16:00:00Z,total,Plus de 59.5,over,REMOVED_MAIN,59.5,,1.8334,,0,,1,
-2026-10-05T10:46:52.610137+00:00,17724257,North Carolina State Wolfpack vs. Wake Forest Demon Deacons,2026-10-10T16:00:00Z,total,Moins de 59.5,under,REMOVED_MAIN,59.5,,1.8334,,0,,1,
+2026-10-05T11:47:50.041198+00:00,17693215,Kennesaw State Owls vs. Jacksonville State Gamecocks,2026-10-07T23:00:00Z,spread,Kennesaw State Owls (+3.5),Kennesaw State Owls,MAIN_PRICE_MOVE,3.5,3.5,1.7408,1.7693,0,0,1,1
+2026-10-05T11:47:50.041198+00:00,17693215,Kennesaw State Owls vs. Jacksonville State Gamecocks,2026-10-07T23:00:00Z,spread,Jacksonville State Gamecocks (-3.5),Jacksonville State Gamecocks,MAIN_PRICE_MOVE,-3.5,-3.5,1.9524,1.9091,0,0,1,1
+2026-10-05T11:47:50.041198+00:00,17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,spread,Ohio Bobcats (-3.5),Ohio Bobcats,MAIN_PRICE_MOVE,-3.5,-3.5,1.8334,1.8,0,0,1,1
+2026-10-05T11:47:50.041198+00:00,17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,spread,Central Mich Chippewas (+3.5),Central Mich Chippewas,MAIN_PRICE_MOVE,3.5,3.5,1.8334,1.8696,0,0,1,1

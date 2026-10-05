@@ -1,5 +1,21 @@
 captured_at,event_id,match,start_date,market,selection,side,signal,old_line,new_line,old_price,new_price,old_status,new_status,old_is_main_bet,new_is_main_bet
-2026-10-05T13:19:54.698589+00:00,17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,spread,FRESNO (+5.5),FRESNO,REMOVED_MAIN,5.5,,1.8334,,0,,1,
-2026-10-05T13:19:54.698589+00:00,17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,spread,Boise State Broncos (-5.5),Boise State Broncos,REMOVED_MAIN,-5.5,,1.8334,,0,,1,
-2026-10-05T13:19:54.698589+00:00,17933644,Temple Owls vs. Connecticut Huskies,2026-10-10T19:45:00Z,spread,Temple Owls (-3.5),Temple Owls,REMOVED_MAIN,-3.5,,1.8,,0,,1,
-2026-10-05T13:19:54.698589+00:00,17933644,Temple Owls vs. Connecticut Huskies,2026-10-10T19:45:00Z,spread,Connecticut Huskies (+3.5),Connecticut Huskies,REMOVED_MAIN,3.5,,1.8696,,0,,1,
+2026-10-05T13:48:21.293992+00:00,17693214,FIU Panthers vs. New Mexico St Aggies,2026-10-07T23:30:00Z,spread,FIU Panthers (-5.5),FIU Panthers,MAIN_PRICE_MOVE,-5.5,-5.5,1.8334,1.8,0,0.0,1,1.0
+2026-10-05T13:48:21.293992+00:00,17693214,FIU Panthers vs. New Mexico St Aggies,2026-10-07T23:30:00Z,spread,New Mexico St Aggies (+5.5),New Mexico St Aggies,MAIN_PRICE_MOVE,5.5,5.5,1.8334,1.8696,0,0.0,1,1.0
+2026-10-05T13:48:21.293992+00:00,17714565,Louisville Cardinals vs. Florida State Seminoles,2026-10-09T23:00:00Z,spread,Louisville Cardinals (-4.5),Louisville Cardinals,MAIN_PRICE_MOVE,-4.5,-4.5,1.8,1.8334,0,0.0,1,1.0
+2026-10-05T13:48:21.293992+00:00,17714565,Louisville Cardinals vs. Florida State Seminoles,2026-10-09T23:00:00Z,spread,Florida State Seminoles (+4.5),Florida State Seminoles,MAIN_PRICE_MOVE,4.5,4.5,1.8696,1.8334,0,0.0,1,1.0
+2026-10-05T13:48:21.293992+00:00,17714564,San Jose State Spartans vs. Wyoming Cowboys,2026-10-10T01:00:00Z,spread,San Jose State Spartans (-6.5),San Jose State Spartans,MAIN_PRICE_MOVE,-6.5,-6.5,1.8,1.8696,0,0.0,1,1.0
+2026-10-05T13:48:21.293992+00:00,17714564,San Jose State Spartans vs. Wyoming Cowboys,2026-10-10T01:00:00Z,spread,Wyoming Cowboys (+6.5),Wyoming Cowboys,MAIN_PRICE_MOVE,6.5,6.5,1.8696,1.8,0,0.0,1,1.0
+2026-10-05T13:48:21.293992+00:00,17714564,San Jose State Spartans vs. Wyoming Cowboys,2026-10-10T01:00:00Z,total,Plus de 43.5,over,MAIN_PRICE_MOVE,43.5,43.5,1.8334,1.8696,0,0.0,1,1.0
+2026-10-05T13:48:21.293992+00:00,17714564,San Jose State Spartans vs. Wyoming Cowboys,2026-10-10T01:00:00Z,total,Moins de 43.5,under,MAIN_PRICE_MOVE,43.5,43.5,1.8334,1.8,0,0.0,1,1.0
+2026-10-05T13:48:21.293992+00:00,17931943,Bowling Green Falcons vs. Sacramento State Hornets,2026-10-10T16:00:00Z,spread,Bowling Green Falcons (-7.5),Bowling Green Falcons,MAIN_PRICE_MOVE,-7.5,-7.5,1.9091,1.8334,0,0.0,1,1.0
+2026-10-05T13:48:21.293992+00:00,17931943,Bowling Green Falcons vs. Sacramento State Hornets,2026-10-10T16:00:00Z,spread,Sacramento State Hornets (+7.5),Sacramento State Hornets,MAIN_PRICE_MOVE,7.5,7.5,1.7693,1.8334,0,0.0,1,1.0
+2026-10-05T13:48:21.293992+00:00,17724251,Michigan State Spartans vs. Illinois Fighting Illini,2026-10-10T19:30:00Z,spread,Michigan State Spartans (+3.5),Michigan State Spartans,MAIN_PRICE_MOVE,3.5,3.5,1.8,1.7693,0,0.0,1,1.0
+2026-10-05T13:48:21.293992+00:00,17724251,Michigan State Spartans vs. Illinois Fighting Illini,2026-10-10T19:30:00Z,spread,Illinois Fighting Illini (-3.5),Illinois Fighting Illini,MAIN_PRICE_MOVE,-3.5,-3.5,1.8696,1.9091,0,0.0,1,1.0
+2026-10-05T13:48:21.293992+00:00,17724253,California Golden Bears vs. Virginia Tech Hokies,2026-10-10T19:30:00Z,spread,California Golden Bears (+9.5),California Golden Bears,REMOVED_MAIN,9.5,,1.8334,,0,,1,
+2026-10-05T13:48:21.293992+00:00,17724253,California Golden Bears vs. Virginia Tech Hokies,2026-10-10T19:30:00Z,spread,Virginia Tech Hokies (-9.5),Virginia Tech Hokies,REMOVED_MAIN,-9.5,,1.8334,,0,,1,
+2026-10-05T13:48:21.293992+00:00,17724257,North Carolina State Wolfpack vs. Wake Forest Demon Deacons,2026-10-10T16:00:00Z,total,Plus de 60.5,over,REMOVED_MAIN,60.5,,1.8334,,0,,1,
+2026-10-05T13:48:21.293992+00:00,17724257,North Carolina State Wolfpack vs. Wake Forest Demon Deacons,2026-10-10T16:00:00Z,total,Moins de 60.5,under,REMOVED_MAIN,60.5,,1.8334,,0,,1,
+2026-10-05T13:48:21.293992+00:00,17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,spread,FRESNO (+4.5),FRESNO,REMOVED_MAIN,4.5,,1.8696,,0,,1,
+2026-10-05T13:48:21.293992+00:00,17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,spread,Boise State Broncos (-4.5),Boise State Broncos,REMOVED_MAIN,-4.5,,1.8,,0,,1,
+2026-10-05T13:48:21.293992+00:00,17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Plus de 54.5,over,REMOVED_MAIN,54.5,,1.8696,,0,,1,
+2026-10-05T13:48:21.293992+00:00,17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Moins de 54.5,under,REMOVED_MAIN,54.5,,1.8,,0,,1,

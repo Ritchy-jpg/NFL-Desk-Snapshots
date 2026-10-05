@@ -1,29 +1,19 @@
 captured_at,event_id,match,start_date,market,selection,side,signal,old_line,new_line,old_price,new_price,old_status,new_status,old_is_main_bet,new_is_main_bet
-2026-10-05T15:17:33.389361+00:00,17683179,Troy Trojans vs. Southern Miss Golden Eagles,2026-10-07T00:00:00Z,spread,Troy Trojans (-10.5),Troy Trojans,MAIN_PRICE_MOVE,-10.5,-10.5,1.8696,1.8334,0,0.0,1,1.0
-2026-10-05T15:17:33.389361+00:00,17683179,Troy Trojans vs. Southern Miss Golden Eagles,2026-10-07T00:00:00Z,spread,Southern Miss Golden Eagles (+10.5),Southern Miss Golden Eagles,MAIN_PRICE_MOVE,10.5,10.5,1.8,1.8334,0,0.0,1,1.0
-2026-10-05T15:17:33.389361+00:00,17683179,Troy Trojans vs. Southern Miss Golden Eagles,2026-10-07T00:00:00Z,total,Plus de 49.5,over,MAIN_SWITCH,49.5,49.5,1.8696,1.8696,0,0.0,1,0.0
-2026-10-05T15:17:33.389361+00:00,17683179,Troy Trojans vs. Southern Miss Golden Eagles,2026-10-07T00:00:00Z,total,Moins de 49.5,under,MAIN_SWITCH,49.5,49.5,1.8,1.8,0,0.0,1,0.0
-2026-10-05T15:17:33.389361+00:00,17693215,Kennesaw State Owls vs. Jacksonville State Gamecocks,2026-10-07T23:00:00Z,spread,Kennesaw State Owls (+3.5),Kennesaw State Owls,MAIN_PRICE_MOVE,3.5,3.5,1.7693,1.7408,0,0.0,1,1.0
-2026-10-05T15:17:33.389361+00:00,17693215,Kennesaw State Owls vs. Jacksonville State Gamecocks,2026-10-07T23:00:00Z,spread,Jacksonville State Gamecocks (-3.5),Jacksonville State Gamecocks,MAIN_PRICE_MOVE,-3.5,-3.5,1.9091,1.9524,0,0.0,1,1.0
-2026-10-05T15:17:33.389361+00:00,17714566,Utah State Aggies vs. Wash State Cougars,2026-10-10T01:00:00Z,spread,Utah State Aggies (-4.5),Utah State Aggies,MAIN_PRICE_MOVE,-4.5,-4.5,1.9091,1.8334,0,0.0,1,1.0
-2026-10-05T15:17:33.389361+00:00,17714566,Utah State Aggies vs. Wash State Cougars,2026-10-10T01:00:00Z,spread,Wash State Cougars (+4.5),Wash State Cougars,MAIN_PRICE_MOVE,4.5,4.5,1.7693,1.8334,0,0.0,1,1.0
-2026-10-05T15:17:33.389361+00:00,17714566,Utah State Aggies vs. Wash State Cougars,2026-10-10T01:00:00Z,total,Plus de 43.5,over,MAIN_PRICE_MOVE,43.5,43.5,1.8334,1.8696,0,0.0,1,1.0
-2026-10-05T15:17:33.389361+00:00,17714566,Utah State Aggies vs. Wash State Cougars,2026-10-10T01:00:00Z,total,Moins de 43.5,under,MAIN_PRICE_MOVE,43.5,43.5,1.8334,1.8,0,0.0,1,1.0
-2026-10-05T15:17:33.389361+00:00,17714568,BYU Cougars vs. Iowa State Cyclones,2026-10-10T02:15:00Z,spread,BYU Cougars (-10.5),BYU Cougars,MAIN_PRICE_MOVE,-10.5,-10.5,1.8,1.8334,0,0.0,1,1.0
-2026-10-05T15:17:33.389361+00:00,17714568,BYU Cougars vs. Iowa State Cyclones,2026-10-10T02:15:00Z,spread,Iowa State Cyclones (+10.5),Iowa State Cyclones,MAIN_PRICE_MOVE,10.5,10.5,1.8696,1.8334,0,0.0,1,1.0
-2026-10-05T15:17:33.389361+00:00,17724249,Nebraska Cornhuskers vs. Indiana Hoosiers,2026-10-10T16:00:00Z,spread,Nebraska Cornhuskers (+7.5),Nebraska Cornhuskers,MAIN_PRICE_MOVE,7.5,7.5,1.8,1.8334,0,0.0,1,1.0
-2026-10-05T15:17:33.389361+00:00,17724249,Nebraska Cornhuskers vs. Indiana Hoosiers,2026-10-10T16:00:00Z,spread,Indiana Hoosiers (-7.5),Indiana Hoosiers,MAIN_PRICE_MOVE,-7.5,-7.5,1.8696,1.8334,0,0.0,1,1.0
-2026-10-05T15:17:33.389361+00:00,17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,spread,FRESNO (+5.5),FRESNO,MAIN_PRICE_MOVE,5.5,5.5,1.8334,1.8696,0,0.0,1,1.0
-2026-10-05T15:17:33.389361+00:00,17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,spread,Boise State Broncos (-5.5),Boise State Broncos,MAIN_PRICE_MOVE,-5.5,-5.5,1.8334,1.8,0,0.0,1,1.0
-2026-10-05T15:17:33.389361+00:00,17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,total,Plus de 48.5,over,MAIN_PRICE_MOVE,48.5,48.5,1.8696,1.8334,0,0.0,1,1.0
-2026-10-05T15:17:33.389361+00:00,17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,total,Moins de 48.5,under,MAIN_PRICE_MOVE,48.5,48.5,1.8,1.8334,0,0.0,1,1.0
-2026-10-05T15:17:33.389361+00:00,17724249,Nebraska Cornhuskers vs. Indiana Hoosiers,2026-10-10T16:00:00Z,total,Plus de 52.5,over,REMOVED_MAIN,52.5,,1.8334,,0,,1,
-2026-10-05T15:17:33.389361+00:00,17724249,Nebraska Cornhuskers vs. Indiana Hoosiers,2026-10-10T16:00:00Z,total,Moins de 52.5,under,REMOVED_MAIN,52.5,,1.8334,,0,,1,
-2026-10-05T15:17:33.389361+00:00,17724266,Vanderbilt Commodores vs. Ole Miss Rebels,2026-10-10T19:30:00Z,total,Plus de 58.5,over,REMOVED_MAIN,58.5,,1.8334,,0,,1,
-2026-10-05T15:17:33.389361+00:00,17724266,Vanderbilt Commodores vs. Ole Miss Rebels,2026-10-10T19:30:00Z,total,Moins de 58.5,under,REMOVED_MAIN,58.5,,1.8334,,0,,1,
-2026-10-05T15:17:33.389361+00:00,17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Plus de 53.5,over,REMOVED_MAIN,53.5,,1.8,,0,,1,
-2026-10-05T15:17:33.389361+00:00,17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Moins de 53.5,under,REMOVED_MAIN,53.5,,1.8696,,0,,1,
-2026-10-05T15:17:33.389361+00:00,17928696,Navy Midshipmen vs. Tulsa Golden Hurricane,2026-10-10T19:30:00Z,total,Plus de 49.5,over,REMOVED_MAIN,49.5,,1.8696,,0,,1,
-2026-10-05T15:17:33.389361+00:00,17928696,Navy Midshipmen vs. Tulsa Golden Hurricane,2026-10-10T19:30:00Z,total,Moins de 49.5,under,REMOVED_MAIN,49.5,,1.8,,0,,1,
-2026-10-05T15:17:33.389361+00:00,17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Plus de 53.5,over,REMOVED_MAIN,53.5,,1.8,,0,,1,
-2026-10-05T15:17:33.389361+00:00,17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Moins de 53.5,under,REMOVED_MAIN,53.5,,1.8696,,0,,1,
+2026-10-05T15:47:58.792065+00:00,17683179,Troy Trojans vs. Southern Miss Golden Eagles,2026-10-07T00:00:00Z,total,Plus de 49.5,over,MAIN_SWITCH,49.5,49.5,1.8696,1.8696,0,0.0,0,1.0
+2026-10-05T15:47:58.792065+00:00,17683179,Troy Trojans vs. Southern Miss Golden Eagles,2026-10-07T00:00:00Z,total,Moins de 49.5,under,MAIN_SWITCH,49.5,49.5,1.8,1.8,0,0.0,0,1.0
+2026-10-05T15:47:58.792065+00:00,17683179,Troy Trojans vs. Southern Miss Golden Eagles,2026-10-07T00:00:00Z,total,Plus de 48.5,over,MAIN_SWITCH,48.5,48.5,1.8,1.8,0,0.0,1,0.0
+2026-10-05T15:47:58.792065+00:00,17683179,Troy Trojans vs. Southern Miss Golden Eagles,2026-10-07T00:00:00Z,total,Moins de 48.5,under,MAIN_SWITCH,48.5,48.5,1.8696,1.8696,0,0.0,1,0.0
+2026-10-05T15:47:58.792065+00:00,17693215,Kennesaw State Owls vs. Jacksonville State Gamecocks,2026-10-07T23:00:00Z,spread,Kennesaw State Owls (+3.5),Kennesaw State Owls,MAIN_SWITCH,3.5,3.5,1.7408,1.7408,0,0.0,1,0.0
+2026-10-05T15:47:58.792065+00:00,17693215,Kennesaw State Owls vs. Jacksonville State Gamecocks,2026-10-07T23:00:00Z,spread,Jacksonville State Gamecocks (-3.5),Jacksonville State Gamecocks,MAIN_SWITCH,-3.5,-3.5,1.9524,1.9524,0,0.0,1,0.0
+2026-10-05T15:47:58.792065+00:00,17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,total,Plus de 57.5,over,MAIN_PRICE_MOVE,57.5,57.5,1.8334,1.8,0,0.0,1,1.0
+2026-10-05T15:47:58.792065+00:00,17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,total,Moins de 57.5,under,MAIN_PRICE_MOVE,57.5,57.5,1.8334,1.8696,0,0.0,1,1.0
+2026-10-05T15:47:58.792065+00:00,17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,spread,UT San Antonio Roadrunners (-7.5),UT San Antonio Roadrunners,MAIN_PRICE_MOVE,-7.5,-7.5,1.9091,1.9524,0,0.0,1,1.0
+2026-10-05T15:47:58.792065+00:00,17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,spread,FLORIDE DU SUD (+7.5),FLORIDE DU SUD,MAIN_PRICE_MOVE,7.5,7.5,1.7693,1.7408,0,0.0,1,1.0
+2026-10-05T15:47:58.792065+00:00,17714566,Utah State Aggies vs. Wash State Cougars,2026-10-10T01:00:00Z,spread,Utah State Aggies (-4.5),Utah State Aggies,MAIN_PRICE_MOVE,-4.5,-4.5,1.8334,1.8,0,0.0,1,1.0
+2026-10-05T15:47:58.792065+00:00,17714566,Utah State Aggies vs. Wash State Cougars,2026-10-10T01:00:00Z,spread,Wash State Cougars (+4.5),Wash State Cougars,MAIN_PRICE_MOVE,4.5,4.5,1.8334,1.8696,0,0.0,1,1.0
+2026-10-05T15:47:58.792065+00:00,17724262,Oklahoma St Cowboys vs. UCF Knights,2026-10-10T16:00:00Z,total,Plus de 53.5,over,MAIN_PRICE_MOVE,53.5,53.5,1.8,1.8334,0,0.0,1,1.0
+2026-10-05T15:47:58.792065+00:00,17724262,Oklahoma St Cowboys vs. UCF Knights,2026-10-10T16:00:00Z,total,Moins de 53.5,under,MAIN_PRICE_MOVE,53.5,53.5,1.8696,1.8334,0,0.0,1,1.0
+2026-10-05T15:47:58.792065+00:00,17724267,Florida Gators vs. South Carolina Gamecocks,2026-10-10T16:45:00Z,spread,Florida Gators (-12.5),Florida Gators,REMOVED_MAIN,-12.5,,1.8,,0,,1,
+2026-10-05T15:47:58.792065+00:00,17724267,Florida Gators vs. South Carolina Gamecocks,2026-10-10T16:45:00Z,spread,South Carolina Gamecocks (+12.5),South Carolina Gamecocks,REMOVED_MAIN,12.5,,1.8696,,0,,1,
+2026-10-05T15:47:58.792065+00:00,17724267,Florida Gators vs. South Carolina Gamecocks,2026-10-10T16:45:00Z,total,Plus de 61.5,over,REMOVED_MAIN,61.5,,1.8,,0,,1,
+2026-10-05T15:47:58.792065+00:00,17724267,Florida Gators vs. South Carolina Gamecocks,2026-10-10T16:45:00Z,total,Moins de 61.5,under,REMOVED_MAIN,61.5,,1.8696,,0,,1,

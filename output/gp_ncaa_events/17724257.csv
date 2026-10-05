@@ -1,7 +1,15 @@
 event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id,selection,line,price,odd_id,odd_status,is_main_bet
 17724257,North Carolina State Wolfpack vs. Wake Forest Demon Deacons,2026-10-10T16:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,North Carolina State Wolfpack,,2.3,4596264574,0,False
 17724257,North Carolina State Wolfpack vs. Wake Forest Demon Deacons,2026-10-10T16:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Wake Forest Demon Deacons,,1.5264,4596264575,0,False
+17724257,North Carolina State Wolfpack vs. Wake Forest Demon Deacons,2026-10-10T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,North Carolina State Wolfpack (+4.5),4.5,1.7408,4596264688,0,False
+17724257,North Carolina State Wolfpack vs. Wake Forest Demon Deacons,2026-10-10T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,Wake Forest Demon Deacons (-4.5),4.5,1.9524,4596264689,0,False
 17724257,North Carolina State Wolfpack vs. Wake Forest Demon Deacons,2026-10-10T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,North Carolina State Wolfpack (+3.5),3.5,1.8334,4596264690,0,True
 17724257,North Carolina State Wolfpack vs. Wake Forest Demon Deacons,2026-10-10T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,Wake Forest Demon Deacons (-3.5),3.5,1.8334,4596264691,0,True
+17724257,North Carolina State Wolfpack vs. Wake Forest Demon Deacons,2026-10-10T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,North Carolina State Wolfpack (+2.5),2.5,2.05,4596264692,0,False
+17724257,North Carolina State Wolfpack vs. Wake Forest Demon Deacons,2026-10-10T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,Wake Forest Demon Deacons (-2.5),2.5,1.6897,4596264693,0,False
+17724257,North Carolina State Wolfpack vs. Wake Forest Demon Deacons,2026-10-10T16:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 58.5,58.5,1.7408,4596264838,0,False
+17724257,North Carolina State Wolfpack vs. Wake Forest Demon Deacons,2026-10-10T16:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 58.5,58.5,1.9524,4596264839,0,False
 17724257,North Carolina State Wolfpack vs. Wake Forest Demon Deacons,2026-10-10T16:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 59.5,59.5,1.8,4596264840,0,True
 17724257,North Carolina State Wolfpack vs. Wake Forest Demon Deacons,2026-10-10T16:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 59.5,59.5,1.8696,4596264841,0,True
+17724257,North Carolina State Wolfpack vs. Wake Forest Demon Deacons,2026-10-10T16:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 60.5,60.5,1.8696,4596264842,0,False
+17724257,North Carolina State Wolfpack vs. Wake Forest Demon Deacons,2026-10-10T16:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 60.5,60.5,1.8,4596264843,0,False

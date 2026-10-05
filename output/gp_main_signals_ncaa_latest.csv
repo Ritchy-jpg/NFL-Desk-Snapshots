@@ -1,13 +1,9 @@
 captured_at,event_id,match,start_date,market,selection,side,signal,old_line,new_line,old_price,new_price,old_status,new_status,old_is_main_bet,new_is_main_bet
-2026-10-05T16:47:41.430092+00:00,17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Ohio State Buckeyes (-34.5),Ohio State Buckeyes,MAIN_PRICE_MOVE,-34.5,-34.5,1.8334,1.8,0,0.0,1,1.0
-2026-10-05T16:47:41.430092+00:00,17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Maryland Terrapins (+34.5),Maryland Terrapins,MAIN_PRICE_MOVE,34.5,34.5,1.8334,1.8696,0,0.0,1,1.0
-2026-10-05T16:47:41.430092+00:00,17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Plus de 56.5,over,MAIN_PRICE_MOVE,56.5,56.5,1.8334,1.8,0,0.0,1,1.0
-2026-10-05T16:47:41.430092+00:00,17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Moins de 56.5,under,MAIN_PRICE_MOVE,56.5,56.5,1.8334,1.8696,0,0.0,1,1.0
-2026-10-05T16:47:41.430092+00:00,17933667,Northern Illinois Huskies vs. Air Force Falcons,2026-10-10T23:30:00Z,total,Plus de 47.5,over,MAIN_PRICE_MOVE,47.5,47.5,1.8,1.8334,0,0.0,1,1.0
-2026-10-05T16:47:41.430092+00:00,17933667,Northern Illinois Huskies vs. Air Force Falcons,2026-10-10T23:30:00Z,total,Moins de 47.5,under,MAIN_PRICE_MOVE,47.5,47.5,1.8696,1.8334,0,0.0,1,1.0
-2026-10-05T16:47:41.430092+00:00,17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,spread,Kentucky Wildcats (+10.5),Kentucky Wildcats,REMOVED_MAIN,10.5,,1.8,,0,,1,
-2026-10-05T16:47:41.430092+00:00,17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,spread,LSU Tigers (-10.5),LSU Tigers,REMOVED_MAIN,-10.5,,1.8696,,0,,1,
-2026-10-05T16:47:41.430092+00:00,17933662,UTEP Miners vs. Nevada Wolf Pack,2026-10-10T23:00:00Z,spread,UTEP Miners (+8.5),UTEP Miners,REMOVED_MAIN,8.5,,1.8334,,0,,1,
-2026-10-05T16:47:41.430092+00:00,17933662,UTEP Miners vs. Nevada Wolf Pack,2026-10-10T23:00:00Z,spread,Nevada Wolf Pack (-8.5),Nevada Wolf Pack,REMOVED_MAIN,-8.5,,1.8334,,0,,1,
-2026-10-05T16:47:41.430092+00:00,17933667,Northern Illinois Huskies vs. Air Force Falcons,2026-10-10T23:30:00Z,spread,Northern Illinois Huskies (+10.5),Northern Illinois Huskies,REMOVED_MAIN,10.5,,1.8,,0,,1,
-2026-10-05T16:47:41.430092+00:00,17933667,Northern Illinois Huskies vs. Air Force Falcons,2026-10-10T23:30:00Z,spread,Air Force Falcons (-10.5),Air Force Falcons,REMOVED_MAIN,-10.5,,1.8696,,0,,1,
+2026-10-05T17:13:19.483771+00:00,17714565,Louisville Cardinals vs. Florida State Seminoles,2026-10-09T23:00:00Z,spread,Louisville Cardinals (-4.5),Louisville Cardinals,MAIN_PRICE_MOVE,-4.5,-4.5,1.8334,1.8696,0,0.0,1,1.0
+2026-10-05T17:13:19.483771+00:00,17714565,Louisville Cardinals vs. Florida State Seminoles,2026-10-09T23:00:00Z,spread,Florida State Seminoles (+4.5),Florida State Seminoles,MAIN_PRICE_MOVE,4.5,4.5,1.8334,1.8,0,0.0,1,1.0
+2026-10-05T17:13:19.483771+00:00,17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Plus de 56.5,over,MAIN_PRICE_MOVE,56.5,56.5,1.8,1.8334,0,0.0,1,1.0
+2026-10-05T17:13:19.483771+00:00,17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Moins de 56.5,under,MAIN_PRICE_MOVE,56.5,56.5,1.8696,1.8334,0,0.0,1,1.0
+2026-10-05T17:13:19.483771+00:00,17724253,California Golden Bears vs. Virginia Tech Hokies,2026-10-10T19:30:00Z,spread,California Golden Bears (+8.5),California Golden Bears,REMOVED_MAIN,8.5,,1.8334,,0,,1,
+2026-10-05T17:13:19.483771+00:00,17724253,California Golden Bears vs. Virginia Tech Hokies,2026-10-10T19:30:00Z,spread,Virginia Tech Hokies (-8.5),Virginia Tech Hokies,REMOVED_MAIN,-8.5,,1.8334,,0,,1,
+2026-10-05T17:13:19.483771+00:00,17933663,Louisiana Tech Bulldogs vs. Louisiana-Lafayette Ragin Cajuns,2026-10-10T23:30:00Z,spread,Louisiana Tech Bulldogs (-2.5),Louisiana Tech Bulldogs,REMOVED_MAIN,-2.5,,1.7693,,0,,1,
+2026-10-05T17:13:19.483771+00:00,17933663,Louisiana Tech Bulldogs vs. Louisiana-Lafayette Ragin Cajuns,2026-10-10T23:30:00Z,spread,Louisiana-Lafayette Ragin Cajuns (+2.5),Louisiana-Lafayette Ragin Cajuns,REMOVED_MAIN,2.5,,1.9091,,0,,1,

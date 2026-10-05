@@ -1,5 +1,9 @@
 captured_at,event_id,match,start_date,market,selection,side,signal,old_line,new_line,old_price,new_price,old_status,new_status,old_is_main_bet,new_is_main_bet
-2026-10-05T12:19:15.695745+00:00,17714566,Utah State Aggies vs. Wash State Cougars,2026-10-10T01:00:00Z,total,Plus de 43.5,over,MAIN_PRICE_MOVE,43.5,43.5,1.8696,1.8334,0,0.0,1,1.0
-2026-10-05T12:19:15.695745+00:00,17714566,Utah State Aggies vs. Wash State Cougars,2026-10-10T01:00:00Z,total,Moins de 43.5,under,MAIN_PRICE_MOVE,43.5,43.5,1.8,1.8334,0,0.0,1,1.0
-2026-10-05T12:19:15.695745+00:00,17724263,West Virginia Mountaineers vs. Arizona Wildcats,2026-10-10T16:00:00Z,spread,West Virginia Mountaineers (+3.5),West Virginia Mountaineers,REMOVED_MAIN,3.5,,1.7408,,0,,1,
-2026-10-05T12:19:15.695745+00:00,17724263,West Virginia Mountaineers vs. Arizona Wildcats,2026-10-10T16:00:00Z,spread,Arizona Wildcats (-3.5),Arizona Wildcats,REMOVED_MAIN,-3.5,,1.9524,,0,,1,
+2026-10-05T12:52:24.510115+00:00,17933660,UMass Minutemen vs. Miami Redhawks,2026-10-10T18:00:00Z,spread,UMass Minutemen (+2.5),UMass Minutemen,MAIN_PRICE_MOVE,2.5,2.5,1.8334,1.9091,0,0.0,1,1.0
+2026-10-05T12:52:24.510115+00:00,17933660,UMass Minutemen vs. Miami Redhawks,2026-10-10T18:00:00Z,spread,Miami Redhawks (-2.5),Miami Redhawks,MAIN_PRICE_MOVE,-2.5,-2.5,1.8334,1.7693,0,0.0,1,1.0
+2026-10-05T12:52:24.510115+00:00,17928696,Navy Midshipmen vs. Tulsa Golden Hurricane,2026-10-10T19:30:00Z,spread,Navy Midshipmen (-2.5),Navy Midshipmen,MAIN_PRICE_MOVE,-2.5,-2.5,1.8334,1.8,0,0.0,1,1.0
+2026-10-05T12:52:24.510115+00:00,17928696,Navy Midshipmen vs. Tulsa Golden Hurricane,2026-10-10T19:30:00Z,spread,Tulsa Golden Hurricane (+2.5),Tulsa Golden Hurricane,MAIN_PRICE_MOVE,2.5,2.5,1.8334,1.8696,0,0.0,1,1.0
+2026-10-05T12:52:24.510115+00:00,17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,spread,FRESNO (+5.5),FRESNO,MAIN_PRICE_MOVE,5.5,5.5,1.8696,1.8334,0,0.0,1,1.0
+2026-10-05T12:52:24.510115+00:00,17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,spread,Boise State Broncos (-5.5),Boise State Broncos,MAIN_PRICE_MOVE,-5.5,-5.5,1.8,1.8334,0,0.0,1,1.0
+2026-10-05T12:52:24.510115+00:00,17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,spread,Arizona State Sun Devils (-21.5),Arizona State Sun Devils,REMOVED_MAIN,-21.5,,1.8334,,0,,1,
+2026-10-05T12:52:24.510115+00:00,17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,spread,Hawaii Rainbow Warriors (+21.5),Hawaii Rainbow Warriors,REMOVED_MAIN,21.5,,1.8334,,0,,1,

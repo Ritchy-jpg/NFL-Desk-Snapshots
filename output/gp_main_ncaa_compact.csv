@@ -313,10 +313,10 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17932012,Appalachian State Mountaineers vs. Old Dominion Monarchs,2026-10-10T17:00:00Z,spread,Handicap (inclus prolongations),223,70799,Old Dominion Monarchs (+9.5),-9.5,1.8696,4596593141,0,True
 17932012,Appalachian State Mountaineers vs. Old Dominion Monarchs,2026-10-10T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 51.5,51.5,1.8696,4596593355,0,True
 17932012,Appalachian State Mountaineers vs. Old Dominion Monarchs,2026-10-10T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 51.5,51.5,1.8,4596593356,0,True
-17933660,UMass Minutemen vs. Miami Redhawks,2026-10-10T18:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,UMass Minutemen,,2.0,4597122486,0,False
-17933660,UMass Minutemen vs. Miami Redhawks,2026-10-10T18:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Miami Redhawks,,1.6897,4597122487,0,False
-17933660,UMass Minutemen vs. Miami Redhawks,2026-10-10T18:00:00Z,spread,Handicap (inclus prolongations),223,70799,UMass Minutemen (+2.5),2.5,1.8334,4597122600,0,True
-17933660,UMass Minutemen vs. Miami Redhawks,2026-10-10T18:00:00Z,spread,Handicap (inclus prolongations),223,70799,Miami Redhawks (-2.5),2.5,1.8334,4597122601,0,True
+17933660,UMass Minutemen vs. Miami Redhawks,2026-10-10T18:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,UMass Minutemen,,2.1,4597122486,0,False
+17933660,UMass Minutemen vs. Miami Redhawks,2026-10-10T18:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Miami Redhawks,,1.625,4597122487,0,False
+17933660,UMass Minutemen vs. Miami Redhawks,2026-10-10T18:00:00Z,spread,Handicap (inclus prolongations),223,70799,UMass Minutemen (+2.5),2.5,1.9091,4597122600,0,True
+17933660,UMass Minutemen vs. Miami Redhawks,2026-10-10T18:00:00Z,spread,Handicap (inclus prolongations),223,70799,Miami Redhawks (-2.5),2.5,1.7693,4597122601,0,True
 17933660,UMass Minutemen vs. Miami Redhawks,2026-10-10T18:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 47.5,47.5,1.8334,4597122626,0,True
 17933660,UMass Minutemen vs. Miami Redhawks,2026-10-10T18:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 47.5,47.5,1.8334,4597122627,0,True
 17932502,Akron Zips vs. MICHIGAN EST,2026-10-10T19:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Akron Zips,,2.8,4596317317,0,False
@@ -357,8 +357,8 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17933648,MICHIGAN vs. Kent St Golden Flashes,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 43.5,43.5,1.8334,4597165147,0,True
 17928696,Navy Midshipmen vs. Tulsa Golden Hurricane,2026-10-10T19:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Navy Midshipmen,,1.6667,4596318806,0,False
 17928696,Navy Midshipmen vs. Tulsa Golden Hurricane,2026-10-10T19:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Tulsa Golden Hurricane,,2.05,4596318807,0,False
-17928696,Navy Midshipmen vs. Tulsa Golden Hurricane,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Navy Midshipmen (-2.5),-2.5,1.8334,4596318900,0,True
-17928696,Navy Midshipmen vs. Tulsa Golden Hurricane,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Tulsa Golden Hurricane (+2.5),-2.5,1.8334,4596318901,0,True
+17928696,Navy Midshipmen vs. Tulsa Golden Hurricane,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Navy Midshipmen (-2.5),-2.5,1.8,4596318900,0,True
+17928696,Navy Midshipmen vs. Tulsa Golden Hurricane,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Tulsa Golden Hurricane (+2.5),-2.5,1.8696,4596318901,0,True
 17928696,Navy Midshipmen vs. Tulsa Golden Hurricane,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 49.5,49.5,1.8696,4596319064,0,True
 17928696,Navy Midshipmen vs. Tulsa Golden Hurricane,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 49.5,49.5,1.8,4596319065,0,True
 17933342,North Texas vs. Charlotte 49ers,2026-10-10T19:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,North Texas,,1.01,4596327345,0,False
@@ -511,15 +511,15 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T02:15:00Z,spread,Handicap (inclus prolongations),223,70799,Kansas Jayhawks (+15.5),-15.5,1.8334,4594978500,0,True
 17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T02:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 51.5,51.5,1.8,4594979021,0,True
 17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T02:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 51.5,51.5,1.8696,4594979022,0,True
-17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Hawaii Rainbow Warriors,,8.0,4594807464,0,False
-17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Arizona State Sun Devils,,1.0334,4594807463,0,False
-17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Arizona State Sun Devils (-21.5),-21.5,1.8334,4594801045,0,True
-17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Hawaii Rainbow Warriors (+21.5),-21.5,1.8334,4594801046,0,True
+17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Hawaii Rainbow Warriors,,7.25,4594807464,0,False
+17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Arizona State Sun Devils,,1.05,4594807463,0,False
+17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Arizona State Sun Devils (-20.5),-20.5,1.8,4594801043,0,True
+17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Hawaii Rainbow Warriors (+20.5),-20.5,1.8696,4594801044,0,True
 17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 51.5,51.5,1.8696,4594799726,0,True
 17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 51.5,51.5,1.8,4594799727,0,True
-17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,FRESNO,,2.65,4597433542,0,False
-17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Boise State Broncos,,1.4,4597433543,0,False
-17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,FRESNO (+5.5),5.5,1.8696,4597433730,0,True
-17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Boise State Broncos (-5.5),5.5,1.8,4597433731,0,True
+17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,FRESNO,,2.6,4597433542,0,False
+17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Boise State Broncos,,1.4167,4597433543,0,False
+17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,FRESNO (+5.5),5.5,1.8334,4597433730,0,True
+17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Boise State Broncos (-5.5),5.5,1.8334,4597433731,0,True
 17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 48.5,48.5,1.8334,4597433564,0,True
 17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 48.5,48.5,1.8334,4597433565,0,True

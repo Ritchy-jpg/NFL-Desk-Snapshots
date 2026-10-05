@@ -54,8 +54,8 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17683179,Troy Trojans vs. Southern Miss Golden Eagles,2026-10-07T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 55.5,55.5,1.4546,4578332044,0,False
 17683179,Troy Trojans vs. Southern Miss Golden Eagles,2026-10-07T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 56.5,56.5,1.4167,4578332046,0,False
 17683179,Troy Trojans vs. Southern Miss Golden Eagles,2026-10-07T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 57.5,57.5,1.3847,4578332048,0,False
-17683179,Troy Trojans vs. Southern Miss Golden Eagles,2026-10-07T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 42.5,42.5,1.4167,4578331797,0,False
-17683179,Troy Trojans vs. Southern Miss Golden Eagles,2026-10-07T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 42.5,42.5,2.7,4578331798,0,False
+17683179,Troy Trojans vs. Southern Miss Golden Eagles,2026-10-07T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 42.5,42.5,1.4348,4578331797,0,False
+17683179,Troy Trojans vs. Southern Miss Golden Eagles,2026-10-07T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 42.5,42.5,2.65,4578331798,0,False
 17683179,Troy Trojans vs. Southern Miss Golden Eagles,2026-10-07T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 45.5,45.5,1.625,4578331799,0,False
 17683179,Troy Trojans vs. Southern Miss Golden Eagles,2026-10-07T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 45.5,45.5,2.2,4578331800,0,False
 17683179,Troy Trojans vs. Southern Miss Golden Eagles,2026-10-07T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 48.5,48.5,1.7693,4578331801,0,False
@@ -405,8 +405,8 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17724266,Vanderbilt Commodores vs. Ole Miss Rebels,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 58.5,58.5,1.8334,4594695825,0,True
 17933644,Temple Owls vs. Connecticut Huskies,2026-10-10T19:45:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Temple Owls,,1.5,4596676228,0,False
 17933644,Temple Owls vs. Connecticut Huskies,2026-10-10T19:45:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Connecticut Huskies,,2.35,4596676229,0,False
-17933644,Temple Owls vs. Connecticut Huskies,2026-10-10T19:45:00Z,spread,Handicap (inclus prolongations),223,70799,Temple Owls (-3.5),-3.5,1.8,4596676339,0,True
-17933644,Temple Owls vs. Connecticut Huskies,2026-10-10T19:45:00Z,spread,Handicap (inclus prolongations),223,70799,Connecticut Huskies (+3.5),-3.5,1.8696,4596676340,0,True
+17933644,Temple Owls vs. Connecticut Huskies,2026-10-10T19:45:00Z,spread,Handicap (inclus prolongations),223,70799,Temple Owls (-4.5),-4.5,1.8696,4596676341,0,True
+17933644,Temple Owls vs. Connecticut Huskies,2026-10-10T19:45:00Z,spread,Handicap (inclus prolongations),223,70799,Connecticut Huskies (+4.5),-4.5,1.8,4596676342,0,True
 17933644,Temple Owls vs. Connecticut Huskies,2026-10-10T19:45:00Z,total,Total (prolongations incluses),225,70803,Plus de 54.5,54.5,1.8334,4596676405,0,True
 17933644,Temple Owls vs. Connecticut Huskies,2026-10-10T19:45:00Z,total,Total (prolongations incluses),225,70803,Moins de 54.5,54.5,1.8334,4596676406,0,True
 17933655,CAROLINE DE L´EST vs. Rice Owls,2026-10-10T20:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,CAROLINE DE L´EST,,1.2106,4596705346,0,False
@@ -519,7 +519,7 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 51.5,51.5,1.8,4594799727,0,True
 17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,FRESNO,,2.6,4597433542,0,False
 17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Boise State Broncos,,1.4167,4597433543,0,False
-17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,FRESNO (+5.5),5.5,1.8334,4597433730,0,True
-17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Boise State Broncos (-5.5),5.5,1.8334,4597433731,0,True
+17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,FRESNO (+4.5),4.5,1.8696,4597433732,0,True
+17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Boise State Broncos (-4.5),4.5,1.8,4597433733,0,True
 17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 48.5,48.5,1.8334,4597433564,0,True
 17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 48.5,48.5,1.8334,4597433565,0,True

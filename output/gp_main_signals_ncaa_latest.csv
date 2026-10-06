@@ -1,3 +1,5 @@
 captured_at,event_id,match,start_date,market,selection,side,signal,old_line,new_line,old_price,new_price,old_status,new_status,old_is_main_bet,new_is_main_bet
-2026-10-06T11:45:10.888279+00:00,17683179,Troy Trojans vs. Southern Miss Golden Eagles,2026-10-07T00:00:00Z,spread,Troy Trojans (+3.5),Troy Trojans,STATUS_CHANGE,3.5,3.5,1.125,1.125,7,0,0,0
-2026-10-06T11:45:10.888279+00:00,17683179,Troy Trojans vs. Southern Miss Golden Eagles,2026-10-07T00:00:00Z,spread,Southern Miss Golden Eagles (-3.5),Southern Miss Golden Eagles,STATUS_CHANGE,-3.5,-3.5,5.5,5.5,7,0,0,0
+2026-10-06T12:17:40.426580+00:00,17724251,Michigan State Spartans vs. Illinois Fighting Illini,2026-10-10T19:30:00Z,spread,Michigan State Spartans (+2.5),Michigan State Spartans,MAIN_PRICE_MOVE,2.5,2.5,1.8696,1.8334,0,0.0,1,1.0
+2026-10-06T12:17:40.426580+00:00,17724251,Michigan State Spartans vs. Illinois Fighting Illini,2026-10-10T19:30:00Z,spread,Illinois Fighting Illini (-2.5),Illinois Fighting Illini,MAIN_PRICE_MOVE,-2.5,-2.5,1.8,1.8334,0,0.0,1,1.0
+2026-10-06T12:17:40.426580+00:00,17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T02:15:00Z,total,Plus de 52.5,over,MAIN_SWITCH,52.5,52.5,1.8696,1.8696,0,0.0,0,1.0
+2026-10-06T12:17:40.426580+00:00,17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T02:15:00Z,total,Moins de 52.5,under,MAIN_SWITCH,52.5,52.5,1.8,1.8,0,0.0,0,1.0

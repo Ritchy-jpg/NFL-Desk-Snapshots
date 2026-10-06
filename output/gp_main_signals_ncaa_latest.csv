@@ -1,9 +1,35 @@
 captured_at,event_id,match,start_date,market,selection,side,signal,old_line,new_line,old_price,new_price,old_status,new_status,old_is_main_bet,new_is_main_bet
-2026-10-06T16:47:21.122235+00:00,17724272,Notre Dame Fighting Irish vs. Stanford Cardinal,2026-10-10T19:30:00Z,spread,Notre Dame Fighting Irish (-37.5),Notre Dame Fighting Irish,MAIN_PRICE_MOVE,-37.5,-37.5,1.8334,1.8,0,0,1,1
-2026-10-06T16:47:21.122235+00:00,17724272,Notre Dame Fighting Irish vs. Stanford Cardinal,2026-10-10T19:30:00Z,spread,Stanford Cardinal (+37.5),Stanford Cardinal,MAIN_PRICE_MOVE,37.5,37.5,1.8334,1.8696,0,0,1,1
-2026-10-06T16:47:21.122235+00:00,17933655,CAROLINE DE L´EST vs. Rice Owls,2026-10-10T20:00:00Z,total,Plus de 47.5,over,MAIN_PRICE_MOVE,47.5,47.5,1.8334,1.8696,0,0,1,1
-2026-10-06T16:47:21.122235+00:00,17933655,CAROLINE DE L´EST vs. Rice Owls,2026-10-10T20:00:00Z,total,Moins de 47.5,under,MAIN_PRICE_MOVE,47.5,47.5,1.8334,1.8,0,0,1,1
-2026-10-06T16:47:21.122235+00:00,17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,spread,Georgia Southern Eagles (+7.5),Georgia Southern Eagles,MAIN_PRICE_MOVE,7.5,7.5,1.8696,1.8334,0,0,1,1
-2026-10-06T16:47:21.122235+00:00,17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,spread,James Madison Dukes (-7.5),James Madison Dukes,MAIN_PRICE_MOVE,-7.5,-7.5,1.8,1.8334,0,0,1,1
-2026-10-06T16:47:21.122235+00:00,17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Plus de 53.5,over,MAIN_PRICE_MOVE,53.5,53.5,1.8,1.8696,0,0,1,1
-2026-10-06T16:47:21.122235+00:00,17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Moins de 53.5,under,MAIN_PRICE_MOVE,53.5,53.5,1.8696,1.8,0,0,1,1
+2026-10-06T17:13:21.490567+00:00,17683179,Troy Trojans vs. Southern Miss Golden Eagles,2026-10-07T00:00:00Z,spread,Troy Trojans (+3.5),Troy Trojans,STATUS_CHANGE,3.5,3.5,1.125,1.125,7,0.0,0,0.0
+2026-10-06T17:13:21.490567+00:00,17683179,Troy Trojans vs. Southern Miss Golden Eagles,2026-10-07T00:00:00Z,spread,Southern Miss Golden Eagles (-3.5),Southern Miss Golden Eagles,STATUS_CHANGE,-3.5,-3.5,5.5,5.5,7,0.0,0,0.0
+2026-10-06T17:13:21.490567+00:00,17702595,Liberty Flames vs. Sam Houston State Bearkats,2026-10-08T23:00:00Z,spread,Liberty Flames (-13.5),Liberty Flames,MAIN_PRICE_MOVE,-13.5,-13.5,1.8,1.8334,0,0.0,1,1.0
+2026-10-06T17:13:21.490567+00:00,17702595,Liberty Flames vs. Sam Houston State Bearkats,2026-10-08T23:00:00Z,spread,Sam Houston State Bearkats (+13.5),Sam Houston State Bearkats,MAIN_PRICE_MOVE,13.5,13.5,1.8696,1.8334,0,0.0,1,1.0
+2026-10-06T17:13:21.490567+00:00,17714566,Utah State Aggies vs. Wash State Cougars,2026-10-10T01:00:00Z,spread,Utah State Aggies (-5.5),Utah State Aggies,MAIN_PRICE_MOVE,-5.5,-5.5,1.8334,1.8696,0,0.0,1,1.0
+2026-10-06T17:13:21.490567+00:00,17714566,Utah State Aggies vs. Wash State Cougars,2026-10-10T01:00:00Z,spread,Wash State Cougars (+5.5),Wash State Cougars,MAIN_PRICE_MOVE,5.5,5.5,1.8334,1.8,0,0.0,1,1.0
+2026-10-06T17:13:21.490567+00:00,17714568,BYU Cougars vs. Iowa State Cyclones,2026-10-10T02:15:00Z,spread,BYU Cougars (-10.5),BYU Cougars,MAIN_PRICE_MOVE,-10.5,-10.5,1.9091,1.8696,0,0.0,1,1.0
+2026-10-06T17:13:21.490567+00:00,17714568,BYU Cougars vs. Iowa State Cyclones,2026-10-10T02:15:00Z,spread,Iowa State Cyclones (+10.5),Iowa State Cyclones,MAIN_PRICE_MOVE,10.5,10.5,1.7693,1.8,0,0.0,1,1.0
+2026-10-06T17:13:21.490567+00:00,17931943,Bowling Green Falcons vs. Sacramento State Hornets,2026-10-10T16:00:00Z,spread,Bowling Green Falcons (-7.5),Bowling Green Falcons,MAIN_PRICE_MOVE,-7.5,-7.5,1.8334,1.8696,0,0.0,1,1.0
+2026-10-06T17:13:21.490567+00:00,17931943,Bowling Green Falcons vs. Sacramento State Hornets,2026-10-10T16:00:00Z,spread,Sacramento State Hornets (+7.5),Sacramento State Hornets,MAIN_PRICE_MOVE,7.5,7.5,1.8334,1.8,0,0.0,1,1.0
+2026-10-06T17:13:21.490567+00:00,17724262,Oklahoma St Cowboys vs. UCF Knights,2026-10-10T16:00:00Z,spread,Oklahoma St Cowboys (-8.5),Oklahoma St Cowboys,MAIN_PRICE_MOVE,-8.5,-8.5,1.8,1.8334,0,0.0,1,1.0
+2026-10-06T17:13:21.490567+00:00,17724262,Oklahoma St Cowboys vs. UCF Knights,2026-10-10T16:00:00Z,spread,UCF Knights (+8.5),UCF Knights,MAIN_PRICE_MOVE,8.5,8.5,1.8696,1.8334,0,0.0,1,1.0
+2026-10-06T17:13:21.490567+00:00,17724261,Northwestern Wildcats vs. Ball State Cardinals,2026-10-10T16:30:00Z,spread,Northwestern Wildcats (-35.5),Northwestern Wildcats,MAIN_SWITCH,-35.5,-35.5,1.8,1.8,0,0.0,1,0.0
+2026-10-06T17:13:21.490567+00:00,17724261,Northwestern Wildcats vs. Ball State Cardinals,2026-10-10T16:30:00Z,spread,Ball State Cardinals (+35.5),Ball State Cardinals,MAIN_SWITCH,35.5,35.5,1.8696,1.8696,0,0.0,1,0.0
+2026-10-06T17:13:21.490567+00:00,17724267,Florida Gators vs. South Carolina Gamecocks,2026-10-10T16:45:00Z,spread,Florida Gators (-12.5),Florida Gators,MAIN_PRICE_MOVE,-12.5,-12.5,1.8,1.8334,0,0.0,1,1.0
+2026-10-06T17:13:21.490567+00:00,17724267,Florida Gators vs. South Carolina Gamecocks,2026-10-10T16:45:00Z,spread,South Carolina Gamecocks (+12.5),South Carolina Gamecocks,MAIN_PRICE_MOVE,12.5,12.5,1.8696,1.8334,0,0.0,1,1.0
+2026-10-06T17:13:21.490567+00:00,17724267,Florida Gators vs. South Carolina Gamecocks,2026-10-10T16:45:00Z,total,Plus de 61.5,over,MAIN_PRICE_MOVE,61.5,61.5,1.8,1.8334,0,0.0,1,1.0
+2026-10-06T17:13:21.490567+00:00,17724267,Florida Gators vs. South Carolina Gamecocks,2026-10-10T16:45:00Z,total,Moins de 61.5,under,MAIN_PRICE_MOVE,61.5,61.5,1.8696,1.8334,0,0.0,1,1.0
+2026-10-06T17:13:21.490567+00:00,17932012,Appalachian State Mountaineers vs. Old Dominion Monarchs,2026-10-10T17:00:00Z,spread,Appalachian State Mountaineers (-9.5),Appalachian State Mountaineers,MAIN_PRICE_MOVE,-9.5,-9.5,1.8,1.8334,0,0.0,1,1.0
+2026-10-06T17:13:21.490567+00:00,17932012,Appalachian State Mountaineers vs. Old Dominion Monarchs,2026-10-10T17:00:00Z,spread,Old Dominion Monarchs (+9.5),Old Dominion Monarchs,MAIN_PRICE_MOVE,9.5,9.5,1.8696,1.8334,0,0.0,1,1.0
+2026-10-06T17:13:21.490567+00:00,17933655,CAROLINE DE L´EST vs. Rice Owls,2026-10-10T20:00:00Z,spread,CAROLINE DE L´EST (-9.5),CAROLINE DE L´EST,MAIN_PRICE_MOVE,-9.5,-9.5,1.7693,1.8,0,0.0,1,1.0
+2026-10-06T17:13:21.490567+00:00,17933655,CAROLINE DE L´EST vs. Rice Owls,2026-10-10T20:00:00Z,spread,Rice Owls (+9.5),Rice Owls,MAIN_PRICE_MOVE,9.5,9.5,1.9091,1.8696,0,0.0,1,1.0
+2026-10-06T17:13:21.490567+00:00,17724269,Arkansas Razorbacks vs. Tennessee Volunteers,2026-10-10T20:15:00Z,spread,Arkansas Razorbacks (+13.5),Arkansas Razorbacks,MAIN_PRICE_MOVE,13.5,13.5,1.8696,1.8334,0,0.0,1,1.0
+2026-10-06T17:13:21.490567+00:00,17724269,Arkansas Razorbacks vs. Tennessee Volunteers,2026-10-10T20:15:00Z,spread,Tennessee Volunteers (-13.5),Tennessee Volunteers,MAIN_PRICE_MOVE,-13.5,-13.5,1.8,1.8334,0,0.0,1,1.0
+2026-10-06T17:13:21.490567+00:00,17932498,Memphis Tigers vs. UAB Blazers,2026-10-10T23:00:00Z,spread,Memphis Tigers (-13.5),Memphis Tigers,MAIN_SWITCH,-13.5,-13.5,1.7693,1.7693,0,0.0,0,1.0
+2026-10-06T17:13:21.490567+00:00,17932498,Memphis Tigers vs. UAB Blazers,2026-10-10T23:00:00Z,spread,UAB Blazers (+13.5),UAB Blazers,MAIN_SWITCH,13.5,13.5,1.9091,1.9091,0,0.0,0,1.0
+2026-10-06T17:13:21.490567+00:00,17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,spread,Georgia Southern Eagles (+7.5),Georgia Southern Eagles,MAIN_PRICE_MOVE,7.5,7.5,1.8334,1.8,0,0.0,1,1.0
+2026-10-06T17:13:21.490567+00:00,17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,spread,James Madison Dukes (-7.5),James Madison Dukes,MAIN_PRICE_MOVE,-7.5,-7.5,1.8334,1.8696,0,0.0,1,1.0
+2026-10-06T17:13:21.490567+00:00,17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Moins de 52.5,under,MAIN_SWITCH,52.5,52.5,1.8696,1.8696,0,0.0,0,1.0
+2026-10-06T17:13:21.490567+00:00,17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Plus de 53.5,over,MAIN_SWITCH,53.5,53.5,1.8696,1.8696,0,0.0,1,0.0
+2026-10-06T17:13:21.490567+00:00,17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Moins de 53.5,under,MAIN_SWITCH,53.5,53.5,1.8,1.8,0,0.0,1,0.0
+2026-10-06T17:13:21.490567+00:00,17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Plus de 52.5,over,MAIN_SWITCH,52.5,52.5,1.8,1.8,0,0.0,0,1.0
+2026-10-06T17:13:21.490567+00:00,17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Plus de 50.5,over,MAIN_PRICE_MOVE,50.5,50.5,1.8,1.8334,0,0.0,1,1.0
+2026-10-06T17:13:21.490567+00:00,17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Moins de 50.5,under,MAIN_PRICE_MOVE,50.5,50.5,1.8696,1.8334,0,0.0,1,1.0

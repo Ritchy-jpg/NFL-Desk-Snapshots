@@ -1,5 +1,7 @@
 captured_at,event_id,match,start_date,market,selection,side,signal,old_line,new_line,old_price,new_price,old_status,new_status,old_is_main_bet,new_is_main_bet
-2026-10-06T18:15:47.694134+00:00,17714567,Washington Huskies vs. Iowa Hawkeyes,2026-10-10T01:00:00Z,spread,Washington Huskies (-3.5),Washington Huskies,MAIN_PRICE_MOVE,-3.5,-3.5,1.9524,2.0,0,0.0,1,1.0
-2026-10-06T18:15:47.694134+00:00,17714567,Washington Huskies vs. Iowa Hawkeyes,2026-10-10T01:00:00Z,spread,Iowa Hawkeyes (+3.5),Iowa Hawkeyes,MAIN_PRICE_MOVE,3.5,3.5,1.7408,1.7143,0,0.0,1,1.0
-2026-10-06T18:15:47.694134+00:00,17932345,Toledo Rockets vs. Buffalo Bulls,2026-10-10T19:30:00Z,spread,Toledo Rockets (-20.5),Toledo Rockets,MAIN_PRICE_MOVE,-20.5,-20.5,1.8334,1.8,0,0.0,1,1.0
-2026-10-06T18:15:47.694134+00:00,17932345,Toledo Rockets vs. Buffalo Bulls,2026-10-10T19:30:00Z,spread,Buffalo Bulls (+20.5),Buffalo Bulls,MAIN_PRICE_MOVE,20.5,20.5,1.8334,1.8696,0,0.0,1,1.0
+2026-10-06T18:49:34.603551+00:00,17714564,San Jose State Spartans vs. Wyoming Cowboys,2026-10-10T01:00:00Z,spread,San Jose State Spartans (-6.5),San Jose State Spartans,MAIN_SWITCH,-6.5,-6.5,1.8696,1.8696,0,0.0,1,0.0
+2026-10-06T18:49:34.603551+00:00,17714564,San Jose State Spartans vs. Wyoming Cowboys,2026-10-10T01:00:00Z,spread,Wyoming Cowboys (+6.5),Wyoming Cowboys,MAIN_SWITCH,6.5,6.5,1.8,1.8,0,0.0,1,0.0
+2026-10-06T18:49:34.603551+00:00,17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Moins de 52.5,under,MAIN_SWITCH,52.5,52.5,1.8696,1.8696,0,0.0,0,1.0
+2026-10-06T18:49:34.603551+00:00,17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Plus de 53.5,over,MAIN_SWITCH,53.5,53.5,1.8696,1.8696,0,0.0,1,0.0
+2026-10-06T18:49:34.603551+00:00,17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Moins de 53.5,under,MAIN_SWITCH,53.5,53.5,1.8,1.8,0,0.0,1,0.0
+2026-10-06T18:49:34.603551+00:00,17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Plus de 52.5,over,MAIN_SWITCH,52.5,52.5,1.8,1.8,0,0.0,0,1.0

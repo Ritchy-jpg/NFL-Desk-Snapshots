@@ -1,9 +1,7 @@
 captured_at,event_id,match,start_date,market,selection,side,signal,old_line,new_line,old_price,new_price,old_status,new_status,old_is_main_bet,new_is_main_bet
-2026-10-07T18:17:22.670683+00:00,17693214,FIU Panthers vs. New Mexico St Aggies,2026-10-07T23:30:00Z,spread,FIU Panthers (-6.5),FIU Panthers,MAIN_PRICE_MOVE,-6.5,-6.5,1.8,1.8334,0,0,1,1
-2026-10-07T18:17:22.670683+00:00,17693214,FIU Panthers vs. New Mexico St Aggies,2026-10-07T23:30:00Z,spread,New Mexico St Aggies (+6.5),New Mexico St Aggies,MAIN_PRICE_MOVE,6.5,6.5,1.8696,1.8334,0,0,1,1
-2026-10-07T18:17:22.670683+00:00,17724265,Missouri Tigers vs. Texas A&M Aggies,2026-10-10T16:00:00Z,spread,Missouri Tigers (-3.5),Missouri Tigers,MAIN_PRICE_MOVE,-3.5,-3.5,1.8334,1.8696,0,0,1,1
-2026-10-07T18:17:22.670683+00:00,17724265,Missouri Tigers vs. Texas A&M Aggies,2026-10-10T16:00:00Z,spread,Texas A&M Aggies (+3.5),Texas A&M Aggies,MAIN_PRICE_MOVE,3.5,3.5,1.8334,1.8,0,0,1,1
-2026-10-07T18:17:22.670683+00:00,17724256,Kansas State Wildcats vs. Houston Cougars,2026-10-10T19:30:00Z,spread,Houston Cougars (+2.5),Houston Cougars,MAIN_PRICE_MOVE,2.5,2.5,1.8696,1.9091,0,0,1,1
-2026-10-07T18:17:22.670683+00:00,17724256,Kansas State Wildcats vs. Houston Cougars,2026-10-10T19:30:00Z,spread,Kansas State Wildcats (-2.5),Kansas State Wildcats,MAIN_PRICE_MOVE,-2.5,-2.5,1.8,1.7693,0,0,1,1
-2026-10-07T18:17:22.670683+00:00,17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T02:15:00Z,total,Plus de 51.5,over,MAIN_PRICE_MOVE,51.5,51.5,1.8334,1.8696,0,0,1,1
-2026-10-07T18:17:22.670683+00:00,17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T02:15:00Z,total,Moins de 51.5,under,MAIN_PRICE_MOVE,51.5,51.5,1.8334,1.8,0,0,1,1
+2026-10-07T18:50:26.294291+00:00,17693215,Kennesaw State Owls vs. Jacksonville State Gamecocks,2026-10-07T23:00:00Z,spread,Jacksonville State Gamecocks (-2.5),Jacksonville State Gamecocks,MAIN_SWITCH,-2.5,-2.5,1.7143,1.7143,0,0.0,0,1.0
+2026-10-07T18:50:26.294291+00:00,17693215,Kennesaw State Owls vs. Jacksonville State Gamecocks,2026-10-07T23:00:00Z,spread,Kennesaw State Owls (+2.5),Kennesaw State Owls,MAIN_SWITCH,2.5,2.5,2.0,2.0,0,0.0,0,1.0
+2026-10-07T18:50:26.294291+00:00,17693215,Kennesaw State Owls vs. Jacksonville State Gamecocks,2026-10-07T23:00:00Z,spread,Kennesaw State Owls (+3.5),Kennesaw State Owls,MAIN_SWITCH,3.5,3.5,1.7143,1.7143,0,0.0,1,0.0
+2026-10-07T18:50:26.294291+00:00,17693215,Kennesaw State Owls vs. Jacksonville State Gamecocks,2026-10-07T23:00:00Z,spread,Jacksonville State Gamecocks (-3.5),Jacksonville State Gamecocks,MAIN_SWITCH,-3.5,-3.5,2.0,2.0,0,0.0,1,0.0
+2026-10-07T18:50:26.294291+00:00,17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T02:15:00Z,total,Plus de 51.5,over,MAIN_PRICE_MOVE,51.5,51.5,1.8696,1.9091,0,0.0,1,1.0
+2026-10-07T18:50:26.294291+00:00,17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T02:15:00Z,total,Moins de 51.5,under,MAIN_PRICE_MOVE,51.5,51.5,1.8,1.7693,0,0.0,1,1.0

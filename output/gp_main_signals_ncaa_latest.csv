@@ -1,13 +1,15 @@
 captured_at,event_id,match,start_date,market,selection,side,signal,old_line,new_line,old_price,new_price,old_status,new_status,old_is_main_bet,new_is_main_bet
-2026-10-07T16:48:13.329229+00:00,17955742,Marist Red Foxes vs. Columbia Lions,2026-10-09T23:00:00Z,spread,Marist Red Foxes (-1.5),Marist Red Foxes,MAIN_PRICE_MOVE,-1.5,-1.5,1.9091,2.0,0,0.0,1,1.0
-2026-10-07T16:48:13.329229+00:00,17955742,Marist Red Foxes vs. Columbia Lions,2026-10-09T23:00:00Z,spread,Columbia Lions (+1.5),Columbia Lions,MAIN_PRICE_MOVE,1.5,1.5,1.7693,1.7143,0,0.0,1,1.0
-2026-10-07T16:48:13.329229+00:00,17714567,Washington Huskies vs. Iowa Hawkeyes,2026-10-10T01:00:00Z,spread,Washington Huskies (-3.5),Washington Huskies,MAIN_PRICE_MOVE,-3.5,-3.5,1.9091,1.8696,0,0.0,1,1.0
-2026-10-07T16:48:13.329229+00:00,17714567,Washington Huskies vs. Iowa Hawkeyes,2026-10-10T01:00:00Z,spread,Iowa Hawkeyes (+3.5),Iowa Hawkeyes,MAIN_PRICE_MOVE,3.5,3.5,1.7693,1.8,0,0.0,1,1.0
-2026-10-07T16:48:13.329229+00:00,17724266,Vanderbilt Commodores vs. Ole Miss Rebels,2026-10-10T19:30:00Z,total,Moins de 58.5,under,MAIN_SWITCH,58.5,58.5,1.7693,1.7693,0,0.0,1,0.0
-2026-10-07T16:48:13.329229+00:00,17724266,Vanderbilt Commodores vs. Ole Miss Rebels,2026-10-10T19:30:00Z,total,Plus de 58.5,over,MAIN_SWITCH,58.5,58.5,1.9091,1.9091,0,0.0,1,0.0
-2026-10-07T16:48:13.329229+00:00,17933644,Temple Owls vs. Connecticut Huskies,2026-10-10T19:45:00Z,total,Plus de 54.5,over,MAIN_PRICE_MOVE,54.5,54.5,1.7693,1.8,0,0.0,1,1.0
-2026-10-07T16:48:13.329229+00:00,17933644,Temple Owls vs. Connecticut Huskies,2026-10-10T19:45:00Z,total,Moins de 54.5,under,MAIN_PRICE_MOVE,54.5,54.5,1.9091,1.8696,0,0.0,1,1.0
-2026-10-07T16:48:13.329229+00:00,17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Plus de 52.5,over,MAIN_PRICE_MOVE,52.5,52.5,1.8334,1.8696,0,0.0,1,1.0
-2026-10-07T16:48:13.329229+00:00,17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Moins de 52.5,under,MAIN_PRICE_MOVE,52.5,52.5,1.8334,1.8,0,0.0,1,1.0
-2026-10-07T16:48:13.329229+00:00,17932498,Memphis Tigers vs. UAB Blazers,2026-10-10T23:00:00Z,total,Moins de 54.5,under,MAIN_PRICE_MOVE,54.5,54.5,1.8334,1.8,0,0.0,1,1.0
-2026-10-07T16:48:13.329229+00:00,17932498,Memphis Tigers vs. UAB Blazers,2026-10-10T23:00:00Z,total,Plus de 54.5,over,MAIN_PRICE_MOVE,54.5,54.5,1.8334,1.8696,0,0.0,1,1.0
+2026-10-07T17:20:59.281661+00:00,17702594,Western Kentucky Hilltoppers vs. Missouri State Bears,2026-10-08T23:00:00Z,spread,Missouri State Bears (+2.5),Missouri State Bears,MAIN_PRICE_MOVE,2.5,2.5,1.8696,1.8334,0,0.0,1,1.0
+2026-10-07T17:20:59.281661+00:00,17702594,Western Kentucky Hilltoppers vs. Missouri State Bears,2026-10-08T23:00:00Z,spread,Western Kentucky Hilltoppers (-2.5),Western Kentucky Hilltoppers,MAIN_PRICE_MOVE,-2.5,-2.5,1.8,1.8334,0,0.0,1,1.0
+2026-10-07T17:20:59.281661+00:00,17955742,Marist Red Foxes vs. Columbia Lions,2026-10-09T23:00:00Z,spread,Marist Red Foxes (-1.5),Marist Red Foxes,MAIN_PRICE_MOVE,-1.5,-1.5,2.0,1.9524,0,0.0,1,1.0
+2026-10-07T17:20:59.281661+00:00,17955742,Marist Red Foxes vs. Columbia Lions,2026-10-09T23:00:00Z,spread,Columbia Lions (+1.5),Columbia Lions,MAIN_PRICE_MOVE,1.5,1.5,1.7143,1.7408,0,0.0,1,1.0
+2026-10-07T17:20:59.281661+00:00,17932012,Appalachian State Mountaineers vs. Old Dominion Monarchs,2026-10-10T17:00:00Z,total,Plus de 49.5,over,MAIN_SWITCH,49.5,49.5,1.8,1.8,0,0.0,0,1.0
+2026-10-07T17:20:59.281661+00:00,17932012,Appalachian State Mountaineers vs. Old Dominion Monarchs,2026-10-10T17:00:00Z,total,Moins de 49.5,under,MAIN_SWITCH,49.5,49.5,1.8696,1.8696,0,0.0,0,1.0
+2026-10-07T17:20:59.281661+00:00,17724251,Michigan State Spartans vs. Illinois Fighting Illini,2026-10-10T19:30:00Z,total,Moins de 47.5,under,MAIN_SWITCH,47.5,47.5,1.8696,1.8696,0,0.0,0,1.0
+2026-10-07T17:20:59.281661+00:00,17724251,Michigan State Spartans vs. Illinois Fighting Illini,2026-10-10T19:30:00Z,total,Plus de 47.5,over,MAIN_SWITCH,47.5,47.5,1.8,1.8,0,0.0,0,1.0
+2026-10-07T17:20:59.281661+00:00,17724266,Vanderbilt Commodores vs. Ole Miss Rebels,2026-10-10T19:30:00Z,total,Moins de 57.5,under,MAIN_PRICE_MOVE,57.5,57.5,1.8334,1.8,0,0.0,1,1.0
+2026-10-07T17:20:59.281661+00:00,17724266,Vanderbilt Commodores vs. Ole Miss Rebels,2026-10-10T19:30:00Z,total,Plus de 57.5,over,MAIN_PRICE_MOVE,57.5,57.5,1.8334,1.8696,0,0.0,1,1.0
+2026-10-07T17:20:59.281661+00:00,16722004,Alabama Crimson Tide vs. GEORGIE BULLDOGS,2026-10-10T23:30:00Z,total,Moins de 52.5,under,MAIN_PRICE_MOVE,52.5,52.5,1.8334,1.8,0,0.0,1,1.0
+2026-10-07T17:20:59.281661+00:00,16722004,Alabama Crimson Tide vs. GEORGIE BULLDOGS,2026-10-10T23:30:00Z,total,Plus de 52.5,over,MAIN_PRICE_MOVE,52.5,52.5,1.8334,1.8696,0,0.0,1,1.0
+2026-10-07T17:20:59.281661+00:00,17955742,Marist Red Foxes vs. Columbia Lions,2026-10-09T23:00:00Z,total,Moins de 44.5,under,REMOVED_MAIN,44.5,,1.8334,,0,,1,
+2026-10-07T17:20:59.281661+00:00,17955742,Marist Red Foxes vs. Columbia Lions,2026-10-09T23:00:00Z,total,Plus de 44.5,over,REMOVED_MAIN,44.5,,1.8334,,0,,1,

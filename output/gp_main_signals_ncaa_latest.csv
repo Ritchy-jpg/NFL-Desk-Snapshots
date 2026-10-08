@@ -1,9 +1,11 @@
 captured_at,event_id,match,start_date,market,selection,side,signal,old_line,new_line,old_price,new_price,old_status,new_status,old_is_main_bet,new_is_main_bet
-2026-10-08T19:15:30.346904+00:00,17724251,Michigan State Spartans vs. Illinois Fighting Illini,2026-10-10T19:30:00Z,spread,Illinois Fighting Illini (-2.5),Illinois Fighting Illini,MAIN_PRICE_MOVE,-2.5,-2.5,1.8334,1.7693,0,0.0,1,1.0
-2026-10-08T19:15:30.346904+00:00,17724251,Michigan State Spartans vs. Illinois Fighting Illini,2026-10-10T19:30:00Z,spread,Michigan State Spartans (+2.5),Michigan State Spartans,MAIN_PRICE_MOVE,2.5,2.5,1.8334,1.9091,0,0.0,1,1.0
-2026-10-08T19:15:30.346904+00:00,17724250,Oregon Ducks vs. UCLA Bruins,2026-10-10T19:30:00Z,total,Moins de 59.5,under,MAIN_PRICE_MOVE,59.5,59.5,1.7408,1.7693,0,0.0,1,1.0
-2026-10-08T19:15:30.346904+00:00,17724250,Oregon Ducks vs. UCLA Bruins,2026-10-10T19:30:00Z,total,Plus de 59.5,over,MAIN_PRICE_MOVE,59.5,59.5,1.9524,1.9091,0,0.0,1,1.0
-2026-10-08T19:15:30.346904+00:00,17955742,Marist Red Foxes vs. Columbia Lions,2026-10-09T23:00:00Z,total,Moins de 44.5,under,REMOVED_MAIN,44.5,,1.7408,,0,,1,
-2026-10-08T19:15:30.346904+00:00,17955742,Marist Red Foxes vs. Columbia Lions,2026-10-09T23:00:00Z,total,Plus de 44.5,over,REMOVED_MAIN,44.5,,1.9524,,0,,1,
-2026-10-08T19:15:30.346904+00:00,17955946,Alabama State Hornets vs. Florida A&M Rattlers,2026-10-09T16:00:00Z,total,Plus de 52.5,over,REMOVED_MAIN,52.5,,1.8334,,0,,1,
-2026-10-08T19:15:30.346904+00:00,17955946,Alabama State Hornets vs. Florida A&M Rattlers,2026-10-09T16:00:00Z,total,Moins de 52.5,under,REMOVED_MAIN,52.5,,1.8334,,0,,1,
+2026-10-08T19:46:40.320213+00:00,17724249,Nebraska Cornhuskers vs. Indiana Hoosiers,2026-10-10T16:00:00Z,total,Moins de 48.5,under,MAIN_SWITCH,48.5,48.5,1.7693,1.7693,0,0.0,1,0.0
+2026-10-08T19:46:40.320213+00:00,17724249,Nebraska Cornhuskers vs. Indiana Hoosiers,2026-10-10T16:00:00Z,total,Plus de 48.5,over,MAIN_SWITCH,48.5,48.5,1.9091,1.9091,0,0.0,1,0.0
+2026-10-08T19:46:40.320213+00:00,17724263,West Virginia Mountaineers vs. Arizona Wildcats,2026-10-10T16:00:00Z,spread,West Virginia Mountaineers (+3.5),West Virginia Mountaineers,MAIN_PRICE_MOVE,3.5,3.5,1.7693,1.7408,0,0.0,1,1.0
+2026-10-08T19:46:40.320213+00:00,17724263,West Virginia Mountaineers vs. Arizona Wildcats,2026-10-10T16:00:00Z,spread,Arizona Wildcats (-3.5),Arizona Wildcats,MAIN_PRICE_MOVE,-3.5,-3.5,1.9091,1.9524,0,0.0,1,1.0
+2026-10-08T19:46:40.320213+00:00,17724263,West Virginia Mountaineers vs. Arizona Wildcats,2026-10-10T16:00:00Z,total,Plus de 62.5,over,MAIN_SWITCH,62.5,62.5,1.9524,1.9524,0,0.0,0,1.0
+2026-10-08T19:46:40.320213+00:00,17724263,West Virginia Mountaineers vs. Arizona Wildcats,2026-10-10T16:00:00Z,total,Moins de 62.5,under,MAIN_SWITCH,62.5,62.5,1.7408,1.7408,0,0.0,0,1.0
+2026-10-08T19:46:40.320213+00:00,17724259,Georgia Tech vs. Duke Blue Devils,2026-10-10T19:30:00Z,total,Moins de 44.5,under,MAIN_SWITCH,44.5,44.5,1.7408,1.7408,0,0.0,1,0.0
+2026-10-08T19:46:40.320213+00:00,17724259,Georgia Tech vs. Duke Blue Devils,2026-10-10T19:30:00Z,total,Plus de 44.5,over,MAIN_SWITCH,44.5,44.5,1.9524,1.9524,0,0.0,1,0.0
+2026-10-08T19:46:40.320213+00:00,17724263,West Virginia Mountaineers vs. Arizona Wildcats,2026-10-10T16:00:00Z,total,Plus de 61.5,over,REMOVED_MAIN,61.5,,1.8334,,0,,1,
+2026-10-08T19:46:40.320213+00:00,17724263,West Virginia Mountaineers vs. Arizona Wildcats,2026-10-10T16:00:00Z,total,Moins de 61.5,under,REMOVED_MAIN,61.5,,1.8334,,0,,1,

@@ -1,16 +1,13 @@
 captured_at,event_id,match,start_date,market,selection,side,signal,old_line,new_line,old_price,new_price,old_status,new_status,old_is_main_bet,new_is_main_bet
-2026-10-08T18:17:00.364738+00:00,17702594,Western Kentucky Hilltoppers vs. Missouri State Bears,2026-10-08T23:00:00Z,spread,Missouri State Bears (-14.5),Missouri State Bears,STATUS_CHANGE,-14.5,-14.5,7.0,7.0,0,7.0,0,0.0
-2026-10-08T18:17:00.364738+00:00,17714567,Washington Huskies vs. Iowa Hawkeyes,2026-10-10T01:00:00Z,spread,Washington Huskies (-3.5),Washington Huskies,MAIN_PRICE_MOVE,-3.5,-3.5,1.9091,1.9524,0,0.0,1,1.0
-2026-10-08T18:17:00.364738+00:00,17714567,Washington Huskies vs. Iowa Hawkeyes,2026-10-10T01:00:00Z,spread,Iowa Hawkeyes (+3.5),Iowa Hawkeyes,MAIN_PRICE_MOVE,3.5,3.5,1.7693,1.7408,0,0.0,1,1.0
-2026-10-08T18:17:00.364738+00:00,17714567,Washington Huskies vs. Iowa Hawkeyes,2026-10-10T01:00:00Z,total,Plus de 42.5,over,MAIN_PRICE_MOVE,42.5,42.5,1.9091,1.8696,0,0.0,1,1.0
-2026-10-08T18:17:00.364738+00:00,17714567,Washington Huskies vs. Iowa Hawkeyes,2026-10-10T01:00:00Z,total,Moins de 42.5,under,MAIN_PRICE_MOVE,42.5,42.5,1.7693,1.8,0,0.0,1,1.0
-2026-10-08T18:17:00.364738+00:00,17714568,BYU Cougars vs. Iowa State Cyclones,2026-10-10T02:15:00Z,spread,BYU Cougars (-10.5),BYU Cougars,MAIN_PRICE_MOVE,-10.5,-10.5,1.8696,1.8334,0,0.0,1,1.0
-2026-10-08T18:17:00.364738+00:00,17714568,BYU Cougars vs. Iowa State Cyclones,2026-10-10T02:15:00Z,spread,Iowa State Cyclones (+10.5),Iowa State Cyclones,MAIN_PRICE_MOVE,10.5,10.5,1.8,1.8334,0,0.0,1,1.0
-2026-10-08T18:17:00.364738+00:00,17714568,BYU Cougars vs. Iowa State Cyclones,2026-10-10T02:15:00Z,total,Plus de 46.5,over,MAIN_PRICE_MOVE,46.5,46.5,1.8696,1.8334,0,0.0,1,1.0
-2026-10-08T18:17:00.364738+00:00,17714568,BYU Cougars vs. Iowa State Cyclones,2026-10-10T02:15:00Z,total,Moins de 46.5,under,MAIN_PRICE_MOVE,46.5,46.5,1.8,1.8334,0,0.0,1,1.0
-2026-10-08T18:17:00.364738+00:00,17724267,Florida Gators vs. South Carolina Gamecocks,2026-10-10T16:45:00Z,total,Plus de 60.5,over,MAIN_PRICE_MOVE,60.5,60.5,1.9091,1.8696,0,0.0,1,1.0
-2026-10-08T18:17:00.364738+00:00,17724267,Florida Gators vs. South Carolina Gamecocks,2026-10-10T16:45:00Z,total,Moins de 60.5,under,MAIN_PRICE_MOVE,60.5,60.5,1.7693,1.8,0,0.0,1,1.0
-2026-10-08T18:17:00.364738+00:00,17724269,Arkansas Razorbacks vs. Tennessee Volunteers,2026-10-10T20:15:00Z,total,Moins de 50.5,under,MAIN_SWITCH,50.5,50.5,1.9524,1.9524,0,0.0,0,1.0
-2026-10-08T18:17:00.364738+00:00,17724269,Arkansas Razorbacks vs. Tennessee Volunteers,2026-10-10T20:15:00Z,total,Plus de 50.5,over,MAIN_SWITCH,50.5,50.5,1.7408,1.7408,0,0.0,0,1.0
-2026-10-08T18:17:00.364738+00:00,17724269,Arkansas Razorbacks vs. Tennessee Volunteers,2026-10-10T20:15:00Z,total,Moins de 51.5,under,REMOVED_MAIN,51.5,,1.8334,,0,,1,
-2026-10-08T18:17:00.364738+00:00,17724269,Arkansas Razorbacks vs. Tennessee Volunteers,2026-10-10T20:15:00Z,total,Plus de 51.5,over,REMOVED_MAIN,51.5,,1.8334,,0,,1,
+2026-10-08T18:50:35.898432+00:00,17702594,Western Kentucky Hilltoppers vs. Missouri State Bears,2026-10-08T23:00:00Z,spread,Western Kentucky Hilltoppers (+1.5),Western Kentucky Hilltoppers,MAIN_PRICE_MOVE,1.5,1.5,1.8,1.8334,0,0.0,1,1.0
+2026-10-08T18:50:35.898432+00:00,17702594,Western Kentucky Hilltoppers vs. Missouri State Bears,2026-10-08T23:00:00Z,spread,Missouri State Bears (-1.5),Missouri State Bears,MAIN_PRICE_MOVE,-1.5,-1.5,1.8696,1.8334,0,0.0,1,1.0
+2026-10-08T18:50:35.898432+00:00,17714566,Utah State Aggies vs. Wash State Cougars,2026-10-10T01:00:00Z,total,Moins de 43.5,under,MAIN_PRICE_MOVE,43.5,43.5,1.9091,1.8696,0,0.0,1,1.0
+2026-10-08T18:50:35.898432+00:00,17714566,Utah State Aggies vs. Wash State Cougars,2026-10-10T01:00:00Z,total,Plus de 43.5,over,MAIN_PRICE_MOVE,43.5,43.5,1.7693,1.8,0,0.0,1,1.0
+2026-10-08T18:50:35.898432+00:00,17714567,Washington Huskies vs. Iowa Hawkeyes,2026-10-10T01:00:00Z,total,Plus de 42.5,over,MAIN_PRICE_MOVE,42.5,42.5,1.8696,1.9091,0,0.0,1,1.0
+2026-10-08T18:50:35.898432+00:00,17714567,Washington Huskies vs. Iowa Hawkeyes,2026-10-10T01:00:00Z,total,Moins de 42.5,under,MAIN_PRICE_MOVE,42.5,42.5,1.8,1.7693,0,0.0,1,1.0
+2026-10-08T18:50:35.898432+00:00,17724249,Nebraska Cornhuskers vs. Indiana Hoosiers,2026-10-10T16:00:00Z,total,Moins de 48.5,under,MAIN_PRICE_MOVE,48.5,48.5,1.8334,1.7693,0,0.0,1,1.0
+2026-10-08T18:50:35.898432+00:00,17724249,Nebraska Cornhuskers vs. Indiana Hoosiers,2026-10-10T16:00:00Z,total,Plus de 48.5,over,MAIN_PRICE_MOVE,48.5,48.5,1.8334,1.9091,0,0.0,1,1.0
+2026-10-08T18:50:35.898432+00:00,17724267,Florida Gators vs. South Carolina Gamecocks,2026-10-10T16:45:00Z,total,Plus de 60.5,over,MAIN_PRICE_MOVE,60.5,60.5,1.8696,1.9091,0,0.0,1,1.0
+2026-10-08T18:50:35.898432+00:00,17724267,Florida Gators vs. South Carolina Gamecocks,2026-10-10T16:45:00Z,total,Moins de 60.5,under,MAIN_PRICE_MOVE,60.5,60.5,1.8,1.7693,0,0.0,1,1.0
+2026-10-08T18:50:35.898432+00:00,17724250,Oregon Ducks vs. UCLA Bruins,2026-10-10T19:30:00Z,total,Moins de 59.5,under,MAIN_PRICE_MOVE,59.5,59.5,1.7693,1.7408,0,0.0,1,1.0
+2026-10-08T18:50:35.898432+00:00,17724250,Oregon Ducks vs. UCLA Bruins,2026-10-10T19:30:00Z,total,Plus de 59.5,over,MAIN_PRICE_MOVE,59.5,59.5,1.9091,1.9524,0,0.0,1,1.0

@@ -176,8 +176,8 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17702594,Western Kentucky Hilltoppers vs. Missouri State Bears,2026-10-08T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Missouri State Bears (-9.5),9.5,4.75,4600500703,0,False
 17702594,Western Kentucky Hilltoppers vs. Missouri State Bears,2026-10-08T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Western Kentucky Hilltoppers (+10.5),10.5,1.125,4600500705,0,False
 17702594,Western Kentucky Hilltoppers vs. Missouri State Bears,2026-10-08T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Missouri State Bears (-10.5),10.5,5.5,4600500706,0,False
-17702594,Western Kentucky Hilltoppers vs. Missouri State Bears,2026-10-08T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Missouri State Bears (-12.5),12.5,6.75,4600500709,7,False
-17702594,Western Kentucky Hilltoppers vs. Missouri State Bears,2026-10-08T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Western Kentucky Hilltoppers (+12.5),12.5,1.083,4600500712,0,False
+17702594,Western Kentucky Hilltoppers vs. Missouri State Bears,2026-10-08T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Missouri State Bears (-12.5),12.5,7.0,4600500709,0,False
+17702594,Western Kentucky Hilltoppers vs. Missouri State Bears,2026-10-08T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Western Kentucky Hilltoppers (+12.5),12.5,1.0834,4600500712,0,False
 17702594,Western Kentucky Hilltoppers vs. Missouri State Bears,2026-10-08T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Missouri State Bears (+17.5),-17.5,1.02,4600500714,0,False
 17702594,Western Kentucky Hilltoppers vs. Missouri State Bears,2026-10-08T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Western Kentucky Hilltoppers (-17.5),-17.5,11.0,4600500716,0,False
 17702594,Western Kentucky Hilltoppers vs. Missouri State Bears,2026-10-08T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Western Kentucky Hilltoppers (-5.5),-5.5,2.65,4600500718,0,False
@@ -251,14 +251,16 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17702594,Western Kentucky Hilltoppers vs. Missouri State Bears,2026-10-08T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 55.5,55.5,1.8696,4596176744,0,True
 17702594,Western Kentucky Hilltoppers vs. Missouri State Bears,2026-10-08T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 55.5,55.5,1.8,4596176745,0,True
 17702594,Western Kentucky Hilltoppers vs. Missouri State Bears,2026-10-08T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 62.5,62.5,1.4762,4600500807,0,False
-17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Arkansas St Red Wolves,,1.6897,4595987981,0,False
-17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,South Alabama Jaguars,,2.0,4595987982,0,False
-17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,South Alabama Jaguars (+3.5),-3.5,1.6667,4600502277,0,False
-17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas St Red Wolves (-3.5),-3.5,2.1,4600502280,0,False
-17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,South Alabama Jaguars (+9.5),-9.5,1.3125,4600502282,0,False
-17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas St Red Wolves (-9.5),-9.5,3.2,4600502285,0,False
-17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,South Alabama Jaguars (+5.5),-5.5,1.5556,4600502287,0,False
-17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas St Red Wolves (-5.5),-5.5,2.3,4600502288,0,False
+17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Arkansas St Red Wolves,,1.625,4595987981,0,False
+17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,South Alabama Jaguars,,2.1,4595987982,0,False
+17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas St Red Wolves (-18.5),-18.5,6.5,4612307970,0,False
+17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,South Alabama Jaguars (+18.5),-18.5,1.1,4612307971,0,False
+17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,South Alabama Jaguars (+3.5),-3.5,1.6897,4600502277,0,False
+17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas St Red Wolves (-3.5),-3.5,2.05,4600502280,0,False
+17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,South Alabama Jaguars (+9.5),-9.5,1.3334,4600502282,0,False
+17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas St Red Wolves (-9.5),-9.5,3.1,4600502285,0,False
+17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,South Alabama Jaguars (+5.5),-5.5,1.5715,4600502287,0,False
+17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas St Red Wolves (-5.5),-5.5,2.25,4600502288,0,False
 17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas St Red Wolves (-7.5),-7.5,2.85,4600502289,0,False
 17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas St Red Wolves (-1.5),-1.5,1.6897,4595987986,0,False
 17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,South Alabama Jaguars (+1.5),-1.5,2.05,4595987985,0,False
@@ -267,193 +269,239 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas St Red Wolves (-6.5),-6.5,2.5,4600502295,0,False
 17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas St Red Wolves (+10.5),10.5,1.1334,4600502297,0,False
 17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,South Alabama Jaguars (-10.5),10.5,5.25,4600502299,0,False
-17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,South Alabama Jaguars (-9.5),9.5,4.75,4600502184,0,False
-17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas St Red Wolves (+9.5),9.5,1.1539,4600502187,0,False
+17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas St Red Wolves (+11.5),11.5,1.125,4600502301,0,False
+17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,South Alabama Jaguars (-11.5),11.5,5.5,4600502302,0,False
+17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,South Alabama Jaguars (-13.5),13.5,6.5,4600502305,0,False
+17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas St Red Wolves (+13.5),13.5,1.1,4600502307,0,False
+17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,South Alabama Jaguars (-9.5),9.5,4.5,4600502184,0,False
+17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas St Red Wolves (+9.5),9.5,1.1667,4600502187,0,False
 17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas St Red Wolves (-13.5),-13.5,4.2,4600502190,0,False
 17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,South Alabama Jaguars (+13.5),-13.5,1.2,4600502191,0,False
-17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas St Red Wolves (+2.5),2.5,1.5455,4600502199,0,False
-17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,South Alabama Jaguars (-2.5),2.5,2.35,4600502201,0,False
+17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,South Alabama Jaguars (-12.5),12.5,6.0,4600502193,0,False
+17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas St Red Wolves (+12.5),12.5,1.1112,4600502196,0,False
+17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas St Red Wolves (+2.5),2.5,1.5264,4600502199,0,False
+17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,South Alabama Jaguars (-2.5),2.5,2.4,4600502201,0,False
 17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas St Red Wolves (-10.5),-10.5,3.5,4600502202,0,False
 17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,South Alabama Jaguars (+10.5),-10.5,1.2667,4600502204,0,False
 17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas St Red Wolves (-12.5),-12.5,4.0,4600502206,0,False
 17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,South Alabama Jaguars (+12.5),-12.5,1.2223,4600502210,0,False
-17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas St Red Wolves (-11.5),-11.5,3.75,4600502212,0,False
-17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,South Alabama Jaguars (+11.5),-11.5,1.2353,4600502215,0,False
-17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas St Red Wolves (-14.5),-14.5,5.0,4600502224,0,False
-17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,South Alabama Jaguars (+14.5),-14.5,1.1429,4600502226,0,False
-17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas St Red Wolves (-15.5),-15.5,5.25,4600502228,0,False
-17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,South Alabama Jaguars (+15.5),-15.5,1.1334,4600502230,0,False
-17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,South Alabama Jaguars (+4.5),-4.5,1.625,4600502233,0,False
-17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas St Red Wolves (-4.5),-4.5,2.2,4600502234,0,False
+17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas St Red Wolves (-11.5),-11.5,3.7,4600502212,0,False
+17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,South Alabama Jaguars (+11.5),-11.5,1.25,4600502215,0,False
+17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,South Alabama Jaguars (+16.5),-16.5,1.1334,4600502217,0,False
+17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas St Red Wolves (-16.5),-16.5,5.25,4600502219,0,False
+17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas St Red Wolves (-17.5),-17.5,6.0,4600502221,0,False
+17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,South Alabama Jaguars (+17.5),-17.5,1.1112,4600502222,0,False
+17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas St Red Wolves (-14.5),-14.5,4.75,4600502224,0,False
+17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,South Alabama Jaguars (+14.5),-14.5,1.1539,4600502226,0,False
+17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas St Red Wolves (-15.5),-15.5,5.0,4600502228,0,False
+17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,South Alabama Jaguars (+15.5),-15.5,1.1429,4600502230,0,False
+17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,South Alabama Jaguars (+4.5),-4.5,1.6451,4600502233,0,False
+17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas St Red Wolves (-4.5),-4.5,2.15,4600502234,0,False
 17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,South Alabama Jaguars (-5.5),5.5,3.2,4600502236,0,False
 17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas St Red Wolves (+5.5),5.5,1.3125,4600502237,0,False
 17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,South Alabama Jaguars (+2.5),-2.5,1.9091,4600502239,0,True
 17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas St Red Wolves (-2.5),-2.5,1.7693,4600502241,0,True
 17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,South Alabama Jaguars (-8.5),8.5,4.4,4600502243,0,False
 17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas St Red Wolves (+8.5),8.5,1.1819,4600502244,0,False
-17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas St Red Wolves (+3.5),3.5,1.4,4600502246,0,False
-17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,South Alabama Jaguars (-3.5),3.5,2.75,4600502249,0,False
-17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,South Alabama Jaguars (+8.5),-8.5,1.3334,4600502251,0,False
-17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas St Red Wolves (-8.5),-8.5,3.1,4600502252,0,False
+17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas St Red Wolves (+3.5),3.5,1.3847,4600502246,0,False
+17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,South Alabama Jaguars (-3.5),3.5,2.85,4600502249,0,False
+17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,South Alabama Jaguars (+8.5),-8.5,1.3572,4600502251,0,False
+17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas St Red Wolves (-8.5),-8.5,3.0,4600502252,0,False
 17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas St Red Wolves (+1.5),1.5,1.5715,4600502253,0,False
 17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,South Alabama Jaguars (-1.5),1.5,2.25,4600502255,0,False
-17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas St Red Wolves (+6.5),6.5,1.2858,4600502259,0,False
-17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,South Alabama Jaguars (-6.5),6.5,3.4,4600502261,0,False
+17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas St Red Wolves (+6.5),6.5,1.2667,4600502259,0,False
+17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,South Alabama Jaguars (-6.5),6.5,3.5,4600502261,0,False
 17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas St Red Wolves (+7.5),7.5,1.2,4600502263,0,False
 17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,South Alabama Jaguars (-7.5),7.5,4.2,4600502266,0,False
-17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,South Alabama Jaguars (-4.5),4.5,3.0,4600502269,0,False
-17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas St Red Wolves (+4.5),4.5,1.3572,4600502271,0,False
-17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 61.5,61.5,2.0,4600502016,0,False
+17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,South Alabama Jaguars (-4.5),4.5,3.1,4600502269,0,False
+17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas St Red Wolves (+4.5),4.5,1.3334,4600502271,0,False
+17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 46.5,46.5,1.1539,4600502144,0,False
 17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 57.5,57.5,1.6451,4596924161,0,False
+17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 61.5,61.5,1.9524,4600502016,0,False
 17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 57.5,57.5,2.15,4596924162,0,False
-17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 61.5,61.5,1.7143,4600502019,0,False
+17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 44.5,44.5,5.5,4600502148,0,False
 17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 60.5,60.5,1.8,4600502020,0,True
+17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 44.5,44.5,1.125,4600502150,0,False
 17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 60.5,60.5,1.8696,4600502023,0,True
+17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 61.5,61.5,1.7408,4600502019,0,False
 17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 48.5,48.5,4.0,4600502153,0,False
 17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 48.5,48.5,1.2223,4600502155,0,False
-17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 63.5,63.5,1.5715,4600502028,0,False
-17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 63.5,63.5,2.25,4600502031,0,False
+17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 63.5,63.5,1.625,4600502028,0,False
+17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 63.5,63.5,2.2,4600502031,0,False
 17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 56.5,56.5,1.5715,4595987984,0,False
 17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 56.5,56.5,2.25,4595987983,0,False
 17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 62.5,62.5,1.6667,4600502033,0,False
 17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 62.5,62.5,2.1,4600502036,0,False
 17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 52.5,52.5,2.85,4600502041,0,False
 17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 52.5,52.5,1.3847,4600502043,0,False
-17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 53.5,53.5,2.75,4600502045,0,False
-17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 53.5,53.5,1.4,4600502046,0,False
-17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 50.5,50.5,1.2667,4600502056,0,False
-17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 50.5,50.5,3.5,4600502060,0,False
+17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 53.5,53.5,2.7,4600502045,0,False
+17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 53.5,53.5,1.4167,4600502046,0,False
+17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 73.5,73.5,1.2,4605038114,0,False
+17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 73.5,73.5,4.2,4605038115,0,False
+17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 50.5,50.5,1.2858,4600502056,0,False
+17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 50.5,50.5,3.4,4600502060,0,False
+17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 46.5,46.5,4.75,4600502141,0,False
 17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 51.5,51.5,1.3334,4600502066,0,False
 17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 51.5,51.5,3.1,4600502067,0,False
-17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 54.5,54.5,2.6,4600502069,0,False
-17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 54.5,54.5,1.4546,4600502071,0,False
-17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 55.5,55.5,2.4,4600502072,0,False
-17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 55.5,55.5,1.5264,4600502075,0,False
-17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 58.5,58.5,2.0,4600502078,0,False
-17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 58.5,58.5,1.7143,4600502080,0,False
+17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 54.5,54.5,2.55,4600502069,0,False
+17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 54.5,54.5,1.4762,4600502071,0,False
+17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 55.5,55.5,2.35,4600502072,0,False
+17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 55.5,55.5,1.5455,4600502075,0,False
+17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 58.5,58.5,2.05,4600502078,0,False
+17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 58.5,58.5,1.6897,4600502080,0,False
 17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 59.5,59.5,1.8,4600502083,0,False
 17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 59.5,59.5,1.8696,4600502086,0,False
-17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 71.5,71.5,1.25,4600502095,0,False
-17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 71.5,71.5,3.7,4600502096,0,False
+17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 71.5,71.5,1.2667,4600502095,0,False
+17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 71.5,71.5,3.5,4600502096,0,False
+17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 45.5,45.5,5.0,4600502098,0,False
+17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 45.5,45.5,1.1429,4600502100,0,False
 17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 49.5,49.5,1.25,4600502103,0,False
 17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 49.5,49.5,3.7,4600502110,0,False
-17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 69.5,69.5,3.25,4600501984,0,False
-17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 69.5,69.5,1.3031,4600501987,0,False
-17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 68.5,68.5,1.3572,4600501988,0,False
-17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 68.5,68.5,3.0,4600501990,0,False
+17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 69.5,69.5,3.2,4600501984,0,False
+17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 47.5,47.5,1.2,4600502114,0,False
+17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 69.5,69.5,1.3125,4600501987,0,False
+17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 47.5,47.5,4.2,4600502116,0,False
+17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 68.5,68.5,1.3637,4600501988,0,False
+17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 68.5,68.5,2.9,4600501990,0,False
 17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 70.5,70.5,1.2858,4600502120,0,False
-17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 65.5,65.5,1.4762,4600501993,0,False
-17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 65.5,65.5,2.55,4600501994,0,False
+17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 65.5,65.5,1.5,4600501993,0,False
+17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 65.5,65.5,2.5,4600501994,0,False
 17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 70.5,70.5,3.4,4600502123,0,False
 17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 64.5,64.5,1.5556,4600501996,0,False
-17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 72.5,72.5,1.2223,4600502126,0,False
+17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 72.5,72.5,1.2353,4600502126,0,False
 17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 64.5,64.5,2.3,4600501999,0,False
-17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 72.5,72.5,4.0,4600502128,0,False
+17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 72.5,72.5,3.75,4600502128,0,False
 17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 67.5,67.5,2.75,4600502002,0,False
+17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 74.5,74.5,1.1819,4611445621,0,False
+17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 74.5,74.5,4.4,4611445622,0,False
 17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 67.5,67.5,1.4,4600502006,0,False
 17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 66.5,66.5,1.4348,4600502010,0,False
 17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 66.5,66.5,2.65,4600502013,0,False
 17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,FLORIDE DU SUD,,2.95,4596016610,0,False
 17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,UT San Antonio Roadrunners,,1.3334,4596016611,0,False
+17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,UT San Antonio Roadrunners (-21.5),-21.5,6.5,4600502272,0,False
+17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,FLORIDE DU SUD (+21.5),-21.5,1.1,4600502275,0,False
+17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,FLORIDE DU SUD (-7.5),7.5,6.5,4600502276,0,False
+17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,UT San Antonio Roadrunners (+7.5),7.5,1.1,4600502278,0,False
 17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,UT San Antonio Roadrunners (+2.5),2.5,1.2858,4600502279,0,False
 17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,FLORIDE DU SUD (-2.5),2.5,3.4,4600502281,0,False
 17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,FLORIDE DU SUD (-6.5),6.5,5.25,4600502283,0,False
 17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,UT San Antonio Roadrunners (+6.5),6.5,1.1334,4600502284,0,False
-17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,FLORIDE DU SUD (-3.5),3.5,4.2,4600502286,0,False
-17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,UT San Antonio Roadrunners (+3.5),3.5,1.2,4600502290,0,False
-17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,FLORIDE DU SUD (-1.5),1.5,3.25,4600502292,0,False
-17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,UT San Antonio Roadrunners (+1.5),1.5,1.3031,4600502294,0,False
+17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,FLORIDE DU SUD (-3.5),3.5,4.0,4600502286,0,False
+17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,UT San Antonio Roadrunners (+3.5),3.5,1.2223,4600502290,0,False
+17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,FLORIDE DU SUD (-1.5),1.5,3.2,4600502292,0,False
+17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,FLORIDE DU SUD (-8.5),8.5,7.0,4600502165,0,False
+17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,UT San Antonio Roadrunners (+1.5),1.5,1.3125,4600502294,0,False
+17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,UT San Antonio Roadrunners (+8.5),8.5,1.0834,4600502167,0,False
 17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,FLORIDE DU SUD (-4.5),4.5,4.4,4600502169,0,False
 17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,UT San Antonio Roadrunners (+4.5),4.5,1.1819,4600502174,0,False
-17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,FLORIDE DU SUD (+13.5),-13.5,1.3847,4600502177,0,False
-17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,UT San Antonio Roadrunners (-13.5),-13.5,2.85,4600502181,0,False
-17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,FLORIDE DU SUD (+2.5),-2.5,2.7,4600502195,0,False
-17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,UT San Antonio Roadrunners (-2.5),-2.5,1.4167,4600502197,0,False
-17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,FLORIDE DU SUD (+10.5),-10.5,1.5264,4600502198,0,False
-17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,UT San Antonio Roadrunners (-10.5),-10.5,2.4,4600502200,0,False
-17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,FLORIDE DU SUD (+19.5),-19.5,1.1539,4600502207,0,False
-17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,UT San Antonio Roadrunners (-19.5),-19.5,4.75,4600502208,0,False
-17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,FLORIDE DU SUD (+18.5),-18.5,1.1819,4600502209,0,False
-17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,UT San Antonio Roadrunners (-18.5),-18.5,4.4,4600502211,0,False
-17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,FLORIDE DU SUD (+17.5),-17.5,1.2223,4600502213,0,False
-17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,UT San Antonio Roadrunners (-17.5),-17.5,4.0,4600502214,0,False
+17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,FLORIDE DU SUD (+13.5),-13.5,1.3637,4600502177,0,False
+17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,UT San Antonio Roadrunners (-13.5),-13.5,2.9,4600502181,0,False
+17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,FLORIDE DU SUD (+2.5),-2.5,2.65,4600502195,0,False
+17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,UT San Antonio Roadrunners (-2.5),-2.5,1.4348,4600502197,0,False
+17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,FLORIDE DU SUD (+10.5),-10.5,1.5,4600502198,0,False
+17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,UT San Antonio Roadrunners (-10.5),-10.5,2.5,4600502200,0,False
+17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,UT San Antonio Roadrunners (-20.5),-20.5,5.5,4600502203,0,False
+17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,FLORIDE DU SUD (+20.5),-20.5,1.125,4600502205,0,False
+17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,FLORIDE DU SUD (+19.5),-19.5,1.1429,4600502207,0,False
+17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,UT San Antonio Roadrunners (-19.5),-19.5,5.0,4600502208,0,False
+17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,FLORIDE DU SUD (+18.5),-18.5,1.1667,4600502209,0,False
+17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,UT San Antonio Roadrunners (-18.5),-18.5,4.5,4600502211,0,False
+17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,FLORIDE DU SUD (+17.5),-17.5,1.2,4600502213,0,False
+17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,UT San Antonio Roadrunners (-17.5),-17.5,4.2,4600502214,0,False
 17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,FLORIDE DU SUD (+1.5),-1.5,2.85,4600502216,0,False
 17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,UT San Antonio Roadrunners (-1.5),-1.5,1.3847,4600502218,0,False
-17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,FLORIDE DU SUD (+16.5),-16.5,1.2667,4600502220,0,False
-17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,UT San Antonio Roadrunners (-16.5),-16.5,3.5,4600502223,0,False
-17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,FLORIDE DU SUD (+15.5),-15.5,1.2858,4600502225,0,False
-17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,UT San Antonio Roadrunners (-15.5),-15.5,3.4,4600502227,0,False
-17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,FLORIDE DU SUD (+14.5),-14.5,1.3125,4600502229,0,False
-17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,UT San Antonio Roadrunners (-14.5),-14.5,3.2,4600502231,0,False
-17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,FLORIDE DU SUD (+12.5),-12.5,1.4348,4600502232,0,False
-17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,UT San Antonio Roadrunners (-12.5),-12.5,2.65,4600502235,0,False
-17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,UT San Antonio Roadrunners (-11.5),-11.5,2.55,4600502238,0,False
-17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,FLORIDE DU SUD (+11.5),-11.5,1.4762,4600502240,0,False
-17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,FLORIDE DU SUD (+7.5),-7.5,1.7143,4600502242,0,False
-17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,UT San Antonio Roadrunners (-6.5),-6.5,1.7693,4596016612,0,True
-17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,UT San Antonio Roadrunners (-7.5),-7.5,2.0,4600502245,0,False
-17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,FLORIDE DU SUD (+6.5),-6.5,1.9091,4596016613,0,True
-17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,UT San Antonio Roadrunners (-3.5),-3.5,1.5556,4600502247,0,False
-17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,FLORIDE DU SUD (+3.5),-3.5,2.3,4600502248,0,False
+17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,FLORIDE DU SUD (+16.5),-16.5,1.25,4600502220,0,False
+17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,UT San Antonio Roadrunners (-16.5),-16.5,3.7,4600502223,0,False
+17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,FLORIDE DU SUD (+15.5),-15.5,1.2667,4600502225,0,False
+17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,UT San Antonio Roadrunners (-15.5),-15.5,3.5,4600502227,0,False
+17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,FLORIDE DU SUD (+14.5),-14.5,1.3031,4600502229,0,False
+17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,UT San Antonio Roadrunners (-14.5),-14.5,3.25,4600502231,0,False
+17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,FLORIDE DU SUD (+12.5),-12.5,1.4167,4600502232,0,False
+17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,UT San Antonio Roadrunners (-12.5),-12.5,2.7,4600502235,0,False
+17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,UT San Antonio Roadrunners (-11.5),-11.5,2.6,4600502238,0,False
+17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,FLORIDE DU SUD (+11.5),-11.5,1.4546,4600502240,0,False
+17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,FLORIDE DU SUD (+7.5),-7.5,1.6897,4600502242,0,False
+17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,UT San Antonio Roadrunners (-6.5),-6.5,1.8,4596016612,0,True
+17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,UT San Antonio Roadrunners (-7.5),-7.5,2.05,4600502245,0,False
+17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,FLORIDE DU SUD (+6.5),-6.5,1.8696,4596016613,0,True
+17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,UT San Antonio Roadrunners (-3.5),-3.5,1.5715,4600502247,0,False
+17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,FLORIDE DU SUD (+3.5),-3.5,2.25,4600502248,0,False
 17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,UT San Antonio Roadrunners (-4.5),-4.5,1.6451,4600502250,0,False
 17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,FLORIDE DU SUD (+4.5),-4.5,2.15,4600502254,0,False
-17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,FLORIDE DU SUD (+5.5),-5.5,2.05,4600502256,0,False
-17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,UT San Antonio Roadrunners (-5.5),-5.5,1.6897,4600502257,0,False
-17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,UT San Antonio Roadrunners (-8.5),-8.5,2.1,4600502258,0,False
-17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,FLORIDE DU SUD (+8.5),-8.5,1.6667,4600502260,0,False
-17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,UT San Antonio Roadrunners (-9.5),-9.5,2.2,4600502262,0,False
-17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,FLORIDE DU SUD (+9.5),-9.5,1.625,4600502264,0,False
-17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,UT San Antonio Roadrunners (+5.5),5.5,1.1429,4600502265,0,False
-17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,FLORIDE DU SUD (-5.5),5.5,5.0,4600502267,0,False
+17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,FLORIDE DU SUD (+5.5),-5.5,2.0,4600502256,0,False
+17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,UT San Antonio Roadrunners (-5.5),-5.5,1.7143,4600502257,0,False
+17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,UT San Antonio Roadrunners (-8.5),-8.5,2.15,4600502258,0,False
+17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,UT San Antonio Roadrunners (+9.5),9.5,1.0715,4611598323,0,False
+17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,FLORIDE DU SUD (-9.5),9.5,7.5,4611598321,0,False
+17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,FLORIDE DU SUD (+8.5),-8.5,1.6451,4600502260,0,False
+17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,UT San Antonio Roadrunners (-9.5),-9.5,2.25,4600502262,0,False
+17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,FLORIDE DU SUD (+9.5),-9.5,1.5715,4600502264,0,False
+17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,UT San Antonio Roadrunners (+5.5),5.5,1.1539,4600502265,0,False
+17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,FLORIDE DU SUD (-5.5),5.5,4.75,4600502267,0,False
+17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,UT San Antonio Roadrunners (-22.5),-22.5,7.0,4600502268,0,False
+17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,FLORIDE DU SUD (+22.5),-22.5,1.0834,4600502270,0,False
 17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 40.5,40.5,1.2858,4600502145,0,False
-17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 57.5,57.5,2.9,4600502017,0,False
-17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 42.5,42.5,2.85,4600502149,0,False
-17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 57.5,57.5,1.3637,4600502021,0,False
-17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 42.5,42.5,1.3847,4600502151,0,False
-17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 47.5,47.5,2.1,4600502024,0,False
-17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 47.5,47.5,1.6667,4600502026,0,False
-17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 59.5,59.5,3.5,4600502029,0,False
+17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 57.5,57.5,2.85,4600502017,0,False
+17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 42.5,42.5,2.9,4600502149,0,False
+17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 57.5,57.5,1.3847,4600502021,0,False
+17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 42.5,42.5,1.3637,4600502151,0,False
+17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 47.5,47.5,2.15,4600502024,0,False
+17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 47.5,47.5,1.6451,4600502026,0,False
+17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 59.5,59.5,3.4,4600502029,0,False
 17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 46.5,46.5,2.25,4600502161,0,False
-17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 59.5,59.5,1.2667,4600502034,0,False
+17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 59.5,59.5,1.2858,4600502034,0,False
 17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 46.5,46.5,1.5715,4600502163,0,False
-17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 58.5,58.5,3.2,4600502037,0,False
-17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 58.5,58.5,1.3125,4600502040,0,False
-17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 56.5,56.5,2.75,4600502044,0,False
-17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 56.5,56.5,1.4,4600502047,0,False
+17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 58.5,58.5,3.1,4600502037,0,False
+17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 35.5,35.5,5.25,4601687318,0,False
+17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 35.5,35.5,1.1334,4601687319,0,False
+17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 58.5,58.5,1.3334,4600502040,0,False
+17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 56.5,56.5,2.7,4600502044,0,False
+17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 37.5,37.5,4.2,4600502011,0,False
 17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 50.5,50.5,1.8696,4600502048,0,True
 17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 50.5,50.5,1.8,4600502049,0,True
-17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 61.5,61.5,4.0,4600502051,0,False
-17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 61.5,61.5,1.2223,4600502055,0,False
+17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 56.5,56.5,1.4167,4600502047,0,False
+17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 61.5,61.5,3.75,4600502051,0,False
+17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 61.5,61.5,1.2353,4600502055,0,False
 17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 41.5,41.5,3.1,4600502057,0,False
 17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 41.5,41.5,1.3334,4600502058,0,False
+17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 66.5,66.5,5.5,4600502061,0,False
 17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 51.5,51.5,2.05,4597276334,0,False
+17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 65.5,65.5,5.25,4600502063,0,False
 17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 51.5,51.5,1.6897,4597276335,0,False
+17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 65.5,65.5,1.1334,4600502064,0,False
 17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 40.5,40.5,3.4,4600502142,0,False
+17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 66.5,66.5,1.125,4600502062,0,False
+17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 64.5,64.5,1.1539,4600502068,0,False
+17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 64.5,64.5,4.75,4600502070,0,False
+17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 63.5,63.5,4.4,4600502073,0,False
+17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 63.5,63.5,1.1819,4600502076,0,False
 17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 62.5,62.5,4.2,4600502081,0,False
 17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 54.5,54.5,1.5264,4596079812,0,False
 17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 54.5,54.5,2.4,4596079813,0,False
 17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 62.5,62.5,1.2,4600502084,0,False
-17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 60.5,60.5,3.7,4600502088,0,False
-17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 60.5,60.5,1.25,4600502091,0,False
-17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 45.5,45.5,2.3,4600502094,0,False
-17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 45.5,45.5,1.5556,4600502101,0,False
-17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 43.5,43.5,2.7,4600502104,0,False
-17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 43.5,43.5,1.4167,4600502105,0,False
+17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 60.5,60.5,3.5,4600502088,0,False
+17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 60.5,60.5,1.2667,4600502091,0,False
+17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 45.5,45.5,2.35,4600502094,0,False
+17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 45.5,45.5,1.5455,4600502101,0,False
+17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 43.5,43.5,2.75,4600502104,0,False
+17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 43.5,43.5,1.4,4600502105,0,False
 17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 39.5,39.5,1.25,4600502106,0,False
 17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 39.5,39.5,3.7,4600502108,0,False
 17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 53.5,53.5,2.25,4596158560,0,False
 17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 53.5,53.5,1.5715,4596158561,0,False
 17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 52.5,52.5,2.2,4596921955,0,False
 17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 52.5,52.5,1.625,4596921956,0,False
-17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 55.5,55.5,2.65,4596016614,0,False
+17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 55.5,55.5,2.6,4596016614,0,False
 17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 48.5,48.5,1.7408,4600502119,0,False
-17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 55.5,55.5,1.4348,4596016615,0,False
+17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 55.5,55.5,1.4546,4596016615,0,False
 17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 48.5,48.5,1.9524,4600502122,0,False
 17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 38.5,38.5,1.2353,4600502125,0,False
 17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 38.5,38.5,3.75,4600502131,0,False
-17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 44.5,44.5,2.5,4600502135,0,False
-17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 44.5,44.5,1.5,4600502137,0,False
-17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 37.5,37.5,4.2,4600502011,0,False
+17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 44.5,44.5,2.55,4600502135,0,False
+17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 44.5,44.5,1.4762,4600502137,0,False
+17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 36.5,36.5,5.0,4600502138,0,False
+17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 36.5,36.5,1.1429,4600502139,0,False
 17702596,UT San Antonio Roadrunners vs. FLORIDE DU SUD,2026-10-08T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 37.5,37.5,1.2,4600502014,0,False
 17955946,Alabama State Hornets vs. Florida A&M Rattlers,2026-10-09T16:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Florida A&M Rattlers,,5.25,4611312481,0,False
 17955946,Alabama State Hornets vs. Florida A&M Rattlers,2026-10-09T16:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Alabama State Hornets,,1.1112,4611312482,0,False
@@ -1314,19 +1362,19 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17724251,Michigan State Spartans vs. Illinois Fighting Illini,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Michigan State Spartans (+5.5),5.5,1.4762,4600500221,0,False
 17724251,Michigan State Spartans vs. Illinois Fighting Illini,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Illinois Fighting Illini (-5.5),5.5,2.55,4600500223,0,False
 17724251,Michigan State Spartans vs. Illinois Fighting Illini,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 45.5,45.5,2.1,4600500326,0,False
-17724251,Michigan State Spartans vs. Illinois Fighting Illini,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 49.5,49.5,2.05,4596927495,0,False
-17724251,Michigan State Spartans vs. Illinois Fighting Illini,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 49.5,49.5,1.6897,4596927496,0,False
+17724251,Michigan State Spartans vs. Illinois Fighting Illini,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 49.5,49.5,2.0,4596927495,0,False
+17724251,Michigan State Spartans vs. Illinois Fighting Illini,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 49.5,49.5,1.7143,4596927496,0,False
 17724251,Michigan State Spartans vs. Illinois Fighting Illini,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 45.5,45.5,1.6667,4600500330,0,False
-17724251,Michigan State Spartans vs. Illinois Fighting Illini,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 47.5,47.5,1.8696,4600500332,0,True
-17724251,Michigan State Spartans vs. Illinois Fighting Illini,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 47.5,47.5,1.8,4600500334,0,True
-17724251,Michigan State Spartans vs. Illinois Fighting Illini,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 44.5,44.5,1.5715,4600500303,0,False
 17724251,Michigan State Spartans vs. Illinois Fighting Illini,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 44.5,44.5,2.25,4600500302,0,False
+17724251,Michigan State Spartans vs. Illinois Fighting Illini,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 44.5,44.5,1.5715,4600500303,0,False
 17724251,Michigan State Spartans vs. Illinois Fighting Illini,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 50.5,50.5,2.1,4596103570,0,False
 17724251,Michigan State Spartans vs. Illinois Fighting Illini,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 50.5,50.5,1.6667,4596103571,0,False
 17724251,Michigan State Spartans vs. Illinois Fighting Illini,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 46.5,46.5,2.0,4600500340,0,False
-17724251,Michigan State Spartans vs. Illinois Fighting Illini,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 48.5,48.5,1.9091,4600500310,0,False
+17724251,Michigan State Spartans vs. Illinois Fighting Illini,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 48.5,48.5,1.9091,4600500310,0,True
 17724251,Michigan State Spartans vs. Illinois Fighting Illini,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 46.5,46.5,1.7143,4600500342,0,False
-17724251,Michigan State Spartans vs. Illinois Fighting Illini,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 48.5,48.5,1.7693,4600500311,0,False
+17724251,Michigan State Spartans vs. Illinois Fighting Illini,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 48.5,48.5,1.7693,4600500311,0,True
+17724251,Michigan State Spartans vs. Illinois Fighting Illini,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 51.5,51.5,2.25,4596074654,0,False
+17724251,Michigan State Spartans vs. Illinois Fighting Illini,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 51.5,51.5,1.5715,4596074655,0,False
 17933648,MICHIGAN vs. Kent St Golden Flashes,2026-10-10T19:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,MICHIGAN,,1.1539,4596470106,0,False
 17933648,MICHIGAN vs. Kent St Golden Flashes,2026-10-10T19:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Kent St Golden Flashes,,4.5,4596470107,0,False
 17933648,MICHIGAN vs. Kent St Golden Flashes,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Kent St Golden Flashes (+16.5),-16.5,1.6451,4600450563,0,False
@@ -1392,31 +1440,31 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17933342,North Texas vs. Charlotte 49ers,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,North Texas (-29.5),-29.5,1.8696,4600497696,0,False
 17933342,North Texas vs. Charlotte 49ers,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Charlotte 49ers (+29.5),-29.5,1.8,4600497697,0,False
 17933342,North Texas vs. Charlotte 49ers,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Charlotte 49ers (+28.5),-28.5,1.8334,4600497687,0,True
-17933342,North Texas vs. Charlotte 49ers,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,North Texas (-31.5),-31.5,2.15,4600497736,0,False
-17933342,North Texas vs. Charlotte 49ers,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Charlotte 49ers (+31.5),-31.5,1.6451,4600497737,0,False
+17933342,North Texas vs. Charlotte 49ers,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,North Texas (-31.5),-31.5,2.2,4600497736,0,False
+17933342,North Texas vs. Charlotte 49ers,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Charlotte 49ers (+31.5),-31.5,1.625,4600497737,0,False
 17933342,North Texas vs. Charlotte 49ers,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,North Texas (-30.5),-30.5,1.9524,4600497738,0,False
 17933342,North Texas vs. Charlotte 49ers,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Charlotte 49ers (+30.5),-30.5,1.7408,4600497739,0,False
-17933342,North Texas vs. Charlotte 49ers,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,North Texas (-26.5),-26.5,1.6451,4600497716,0,False
+17933342,North Texas vs. Charlotte 49ers,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,North Texas (-26.5),-26.5,1.625,4600497716,0,False
 17933342,North Texas vs. Charlotte 49ers,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,North Texas (-25.5),-25.5,1.5715,4596919701,0,False
-17933342,North Texas vs. Charlotte 49ers,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,North Texas (-27.5),-27.5,1.6897,4597236150,0,False
+17933342,North Texas vs. Charlotte 49ers,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,North Texas (-27.5),-27.5,1.6667,4597236150,0,False
 17933342,North Texas vs. Charlotte 49ers,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,North Texas (-28.5),-28.5,1.8334,4600497686,0,True
 17933342,North Texas vs. Charlotte 49ers,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Charlotte 49ers (+25.5),-25.5,2.25,4596919700,0,False
-17933342,North Texas vs. Charlotte 49ers,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Charlotte 49ers (+26.5),-26.5,2.15,4600497717,0,False
-17933342,North Texas vs. Charlotte 49ers,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Charlotte 49ers (+27.5),-27.5,2.05,4597236149,0,False
+17933342,North Texas vs. Charlotte 49ers,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Charlotte 49ers (+26.5),-26.5,2.2,4600497717,0,False
+17933342,North Texas vs. Charlotte 49ers,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Charlotte 49ers (+27.5),-27.5,2.1,4597236149,0,False
 17933342,North Texas vs. Charlotte 49ers,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 60.5,60.5,1.625,4596810689,0,False
-17933342,North Texas vs. Charlotte 49ers,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 55.5,55.5,1.6667,4600497794,0,False
 17933342,North Texas vs. Charlotte 49ers,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 60.5,60.5,2.2,4596810690,0,False
+17933342,North Texas vs. Charlotte 49ers,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 55.5,55.5,1.6667,4600497794,0,False
 17933342,North Texas vs. Charlotte 49ers,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 55.5,55.5,2.1,4600497795,0,False
-17933342,North Texas vs. Charlotte 49ers,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 54.5,54.5,1.5556,4600497770,0,False
-17933342,North Texas vs. Charlotte 49ers,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 54.5,54.5,2.3,4600497771,0,False
 17933342,North Texas vs. Charlotte 49ers,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 59.5,59.5,2.15,4597291820,0,False
 17933342,North Texas vs. Charlotte 49ers,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 59.5,59.5,1.6451,4597291821,0,False
-17933342,North Texas vs. Charlotte 49ers,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 58.5,58.5,1.9524,4600497774,0,False
-17933342,North Texas vs. Charlotte 49ers,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 58.5,58.5,1.7408,4600497775,0,False
+17933342,North Texas vs. Charlotte 49ers,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 58.5,58.5,1.9091,4600497774,0,True
+17933342,North Texas vs. Charlotte 49ers,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 58.5,58.5,1.7693,4600497775,0,True
+17933342,North Texas vs. Charlotte 49ers,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 61.5,61.5,1.5556,4600497780,0,False
+17933342,North Texas vs. Charlotte 49ers,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 61.5,61.5,2.3,4600497781,0,False
+17933342,North Texas vs. Charlotte 49ers,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 62.5,62.5,1.4762,4596318074,0,False
+17933342,North Texas vs. Charlotte 49ers,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 62.5,62.5,2.55,4596318075,0,False
 17933342,North Texas vs. Charlotte 49ers,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 56.5,56.5,1.7408,4600497788,0,False
 17933342,North Texas vs. Charlotte 49ers,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 56.5,56.5,1.9524,4600497789,0,False
-17933342,North Texas vs. Charlotte 49ers,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 57.5,57.5,1.8,4600497790,0,True
-17933342,North Texas vs. Charlotte 49ers,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 57.5,57.5,1.8696,4600497791,0,True
 17724272,Notre Dame Fighting Irish vs. Stanford Cardinal,2026-10-10T19:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Notre Dame Fighting Irish,,1.0,4595462193,7,False
 17724272,Notre Dame Fighting Irish vs. Stanford Cardinal,2026-10-10T19:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Stanford Cardinal,,11.0,4595462194,0,False
 17724272,Notre Dame Fighting Irish vs. Stanford Cardinal,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Notre Dame Fighting Irish (-38.5),-38.5,1.8334,4600500576,0,True
@@ -1693,26 +1741,26 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Ohio State Buckeyes (-35.5),-35.5,2.0,4594179107,0,False
 17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Maryland Terrapins (+35.5),-35.5,1.7143,4594179106,0,False
 17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Maryland Terrapins (+36.5),-36.5,1.6667,4594111523,0,False
-17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Ohio State Buckeyes (-31.5),-31.5,1.6667,4600501830,0,False
-17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Maryland Terrapins (+31.5),-31.5,2.1,4600501831,0,False
+17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Ohio State Buckeyes (-31.5),-31.5,1.6451,4600501830,0,False
+17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Maryland Terrapins (+31.5),-31.5,2.15,4600501831,0,False
 17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Ohio State Buckeyes (-33.5),-33.5,1.7408,4600501800,0,False
 17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Ohio State Buckeyes (-37.5),-37.5,2.2,4593787209,0,False
 17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Maryland Terrapins (+33.5),-33.5,1.9524,4600501801,0,False
 17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Maryland Terrapins (+37.5),-37.5,1.625,4593787210,0,False
 17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Maryland Terrapins (+34.5),-34.5,1.8334,4597287247,0,True
 17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Ohio State Buckeyes (-34.5),-34.5,1.8334,4597287248,0,True
-17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Ohio State Buckeyes (-32.5),-32.5,1.7143,4600501812,0,False
-17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Maryland Terrapins (+32.5),-32.5,2.0,4600501813,0,False
+17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Ohio State Buckeyes (-32.5),-32.5,1.6897,4600501812,0,False
+17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Maryland Terrapins (+32.5),-32.5,2.05,4600501813,0,False
 17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 55.5,55.5,1.9524,4593789477,0,False
 17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 55.5,55.5,1.7408,4593789478,0,False
 17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 54.5,54.5,2.15,4593787207,0,False
 17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 54.5,54.5,1.6451,4593787208,0,False
 17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 59.5,59.5,1.5715,4600501772,0,False
 17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 59.5,59.5,2.25,4600501773,0,False
-17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 57.5,57.5,1.8,4600501774,0,False
-17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 57.5,57.5,1.8696,4600501775,0,False
-17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 58.5,58.5,1.6667,4600501776,0,False
-17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 58.5,58.5,2.1,4600501777,0,False
+17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 57.5,57.5,1.7693,4600501774,0,False
+17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 57.5,57.5,1.9091,4600501775,0,False
+17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 58.5,58.5,1.6897,4600501776,0,False
+17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 58.5,58.5,2.05,4600501777,0,False
 17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 56.5,56.5,1.8334,4597287250,0,True
 17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 56.5,56.5,1.8334,4597287249,0,True
 17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 53.5,53.5,2.25,4600501752,0,False

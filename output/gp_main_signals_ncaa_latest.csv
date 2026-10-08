@@ -1,5 +1,19 @@
 captured_at,event_id,match,start_date,market,selection,side,signal,old_line,new_line,old_price,new_price,old_status,new_status,old_is_main_bet,new_is_main_bet
-2026-10-08T15:48:40.934479+00:00,17724254,Virginia Cavaliers vs. Syracuse Orange,2026-10-10T23:30:00Z,total,Plus de 49.5,over,MAIN_SWITCH,49.5,49.5,1.7693,1.7693,0,0.0,0,1.0
-2026-10-08T15:48:40.934479+00:00,17724254,Virginia Cavaliers vs. Syracuse Orange,2026-10-10T23:30:00Z,total,Moins de 49.5,under,MAIN_SWITCH,49.5,49.5,1.9091,1.9091,0,0.0,0,1.0
-2026-10-08T15:48:40.934479+00:00,17724254,Virginia Cavaliers vs. Syracuse Orange,2026-10-10T23:30:00Z,total,Moins de 50.5,under,REMOVED_MAIN,50.5,,1.8334,,0,,1,
-2026-10-08T15:48:40.934479+00:00,17724254,Virginia Cavaliers vs. Syracuse Orange,2026-10-10T23:30:00Z,total,Plus de 50.5,over,REMOVED_MAIN,50.5,,1.8334,,0,,1,
+2026-10-08T16:17:38.861498+00:00,17702594,Western Kentucky Hilltoppers vs. Missouri State Bears,2026-10-08T23:00:00Z,spread,Missouri State Bears (+1.5),Missouri State Bears,MAIN_PRICE_MOVE,1.5,1.5,1.8334,1.7693,0,0.0,1,1.0
+2026-10-08T16:17:38.861498+00:00,17702594,Western Kentucky Hilltoppers vs. Missouri State Bears,2026-10-08T23:00:00Z,spread,Western Kentucky Hilltoppers (-1.5),Western Kentucky Hilltoppers,MAIN_PRICE_MOVE,-1.5,-1.5,1.8334,1.9091,0,0.0,1,1.0
+2026-10-08T16:17:38.861498+00:00,17702594,Western Kentucky Hilltoppers vs. Missouri State Bears,2026-10-08T23:00:00Z,total,Moins de 55.5,under,MAIN_PRICE_MOVE,55.5,55.5,1.8696,1.9091,0,0.0,1,1.0
+2026-10-08T16:17:38.861498+00:00,17702594,Western Kentucky Hilltoppers vs. Missouri State Bears,2026-10-08T23:00:00Z,total,Plus de 55.5,over,MAIN_PRICE_MOVE,55.5,55.5,1.8,1.7693,0,0.0,1,1.0
+2026-10-08T16:17:38.861498+00:00,17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,spread,South Alabama Jaguars (+2.5),South Alabama Jaguars,MAIN_PRICE_MOVE,2.5,2.5,1.9091,1.9524,0,0.0,1,1.0
+2026-10-08T16:17:38.861498+00:00,17702593,Arkansas St Red Wolves vs. South Alabama Jaguars,2026-10-08T23:30:00Z,spread,Arkansas St Red Wolves (-2.5),Arkansas St Red Wolves,MAIN_PRICE_MOVE,-2.5,-2.5,1.7693,1.7408,0,0.0,1,1.0
+2026-10-08T16:17:38.861498+00:00,17932012,Appalachian State Mountaineers vs. Old Dominion Monarchs,2026-10-10T17:00:00Z,total,Moins de 48.5,under,MAIN_PRICE_MOVE,48.5,48.5,1.8334,1.8,0,0.0,1,1.0
+2026-10-08T16:17:38.861498+00:00,17932012,Appalachian State Mountaineers vs. Old Dominion Monarchs,2026-10-10T17:00:00Z,total,Plus de 48.5,over,MAIN_PRICE_MOVE,48.5,48.5,1.8334,1.8696,0,0.0,1,1.0
+2026-10-08T16:17:38.861498+00:00,17724272,Notre Dame Fighting Irish vs. Stanford Cardinal,2026-10-10T19:30:00Z,total,Moins de 53.5,under,MAIN_PRICE_MOVE,53.5,53.5,1.9091,1.9524,0,0.0,1,1.0
+2026-10-08T16:17:38.861498+00:00,17724272,Notre Dame Fighting Irish vs. Stanford Cardinal,2026-10-10T19:30:00Z,total,Plus de 53.5,over,MAIN_PRICE_MOVE,53.5,53.5,1.7693,1.7408,0,0.0,1,1.0
+2026-10-08T16:17:38.861498+00:00,16634499,Oklahoma Sooners vs. Texas Longhorns,2026-10-10T19:30:00Z,total,Plus de 39.5,over,MAIN_PRICE_MOVE,39.5,39.5,1.8334,1.8696,0,0.0,1,1.0
+2026-10-08T16:17:38.861498+00:00,16634499,Oklahoma Sooners vs. Texas Longhorns,2026-10-10T19:30:00Z,total,Moins de 39.5,under,MAIN_PRICE_MOVE,39.5,39.5,1.8334,1.8,0,0.0,1,1.0
+2026-10-08T16:17:38.861498+00:00,17724266,Vanderbilt Commodores vs. Ole Miss Rebels,2026-10-10T19:30:00Z,total,Moins de 55.5,under,MAIN_PRICE_MOVE,55.5,55.5,1.8334,1.8,0,0.0,1,1.0
+2026-10-08T16:17:38.861498+00:00,17724266,Vanderbilt Commodores vs. Ole Miss Rebels,2026-10-10T19:30:00Z,total,Plus de 55.5,over,MAIN_PRICE_MOVE,55.5,55.5,1.8334,1.8696,0,0.0,1,1.0
+2026-10-08T16:17:38.861498+00:00,17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Plus de 52.5,over,MAIN_SWITCH,52.5,52.5,1.9091,1.9091,0,0.0,0,1.0
+2026-10-08T16:17:38.861498+00:00,17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Moins de 52.5,under,MAIN_SWITCH,52.5,52.5,1.7693,1.7693,0,0.0,0,1.0
+2026-10-08T16:17:38.861498+00:00,17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Plus de 51.5,over,REMOVED_MAIN,51.5,,1.8,,0,,1,
+2026-10-08T16:17:38.861498+00:00,17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Moins de 51.5,under,REMOVED_MAIN,51.5,,1.8696,,0,,1,

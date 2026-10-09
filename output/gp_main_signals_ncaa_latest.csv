@@ -1,3 +1,13 @@
 captured_at,event_id,match,start_date,market,selection,side,signal,old_line,new_line,old_price,new_price,old_status,new_status,old_is_main_bet,new_is_main_bet
-2026-10-09T15:18:25.163692+00:00,17955742,Marist Red Foxes vs. Columbia Lions,2026-10-09T23:00:00Z,spread,Marist Red Foxes (+2.5),Marist Red Foxes,REMOVED_MAIN,2.5,,1.8,,0,,1,
-2026-10-09T15:18:25.163692+00:00,17955742,Marist Red Foxes vs. Columbia Lions,2026-10-09T23:00:00Z,spread,Columbia Lions (-2.5),Columbia Lions,REMOVED_MAIN,-2.5,,1.8696,,0,,1,
+2026-10-09T15:50:17.175593+00:00,17955742,Marist Red Foxes vs. Columbia Lions,2026-10-09T23:00:00Z,spread,Columbia Lions (-3.5),Columbia Lions,MAIN_PRICE_MOVE,-3.5,-3.5,1.8334,1.8,0,0.0,1,1.0
+2026-10-09T15:50:17.175593+00:00,17955742,Marist Red Foxes vs. Columbia Lions,2026-10-09T23:00:00Z,spread,Marist Red Foxes (+3.5),Marist Red Foxes,MAIN_PRICE_MOVE,3.5,3.5,1.8334,1.8696,0,0.0,1,1.0
+2026-10-09T15:50:17.175593+00:00,17724257,North Carolina State Wolfpack vs. Wake Forest Demon Deacons,2026-10-10T16:00:00Z,total,Plus de 58.5,over,MAIN_PRICE_MOVE,58.5,58.5,1.7693,1.8334,0,0.0,1,1.0
+2026-10-09T15:50:17.175593+00:00,17724257,North Carolina State Wolfpack vs. Wake Forest Demon Deacons,2026-10-10T16:00:00Z,total,Moins de 58.5,under,MAIN_PRICE_MOVE,58.5,58.5,1.9091,1.8334,0,0.0,1,1.0
+2026-10-09T15:50:17.175593+00:00,17724266,Vanderbilt Commodores vs. Ole Miss Rebels,2026-10-10T19:30:00Z,total,Moins de 54.5,under,MAIN_PRICE_MOVE,54.5,54.5,1.8696,1.8334,0,0.0,1,1.0
+2026-10-09T15:50:17.175593+00:00,17724266,Vanderbilt Commodores vs. Ole Miss Rebels,2026-10-10T19:30:00Z,total,Plus de 54.5,over,MAIN_PRICE_MOVE,54.5,54.5,1.8,1.8334,0,0.0,1,1.0
+2026-10-09T15:50:17.175593+00:00,17933655,CAROLINE DE L´EST vs. Rice Owls,2026-10-10T20:00:00Z,total,Plus de 46.5,over,MAIN_PRICE_MOVE,46.5,46.5,1.7693,1.8,0,0.0,1,1.0
+2026-10-09T15:50:17.175593+00:00,17933655,CAROLINE DE L´EST vs. Rice Owls,2026-10-10T20:00:00Z,total,Moins de 46.5,under,MAIN_PRICE_MOVE,46.5,46.5,1.9091,1.8696,0,0.0,1,1.0
+2026-10-09T15:50:17.175593+00:00,17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Plus de 51.5,over,MAIN_SWITCH,51.5,51.5,1.9091,1.9091,0,0.0,1,0.0
+2026-10-09T15:50:17.175593+00:00,17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Moins de 51.5,under,MAIN_SWITCH,51.5,51.5,1.7693,1.7693,0,0.0,1,0.0
+2026-10-09T15:50:17.175593+00:00,17933667,Northern Illinois Huskies vs. Air Force Falcons,2026-10-10T23:30:00Z,total,Moins de 45.5,under,MAIN_SWITCH,45.5,45.5,1.9091,1.9091,0,0.0,0,1.0
+2026-10-09T15:50:17.175593+00:00,17933667,Northern Illinois Huskies vs. Air Force Falcons,2026-10-10T23:30:00Z,total,Plus de 45.5,over,MAIN_SWITCH,45.5,45.5,1.7693,1.7693,0,0.0,0,1.0

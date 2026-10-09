@@ -1,10 +1,16 @@
 event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id,selection,line,price,odd_id,odd_status,is_main_bet
 17724263,West Virginia Mountaineers vs. Arizona Wildcats,2026-10-10T16:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Arizona Wildcats,,1.5715,4596100136,0,False
 17724263,West Virginia Mountaineers vs. Arizona Wildcats,2026-10-10T16:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,West Virginia Mountaineers,,2.2,4596100135,0,False
+17724263,West Virginia Mountaineers vs. Arizona Wildcats,2026-10-10T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,Arizona Wildcats (+8.5),-8.5,1.1429,4600501888,0,False
+17724263,West Virginia Mountaineers vs. Arizona Wildcats,2026-10-10T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,West Virginia Mountaineers (-8.5),-8.5,5.0,4600501889,0,False
 17724263,West Virginia Mountaineers vs. Arizona Wildcats,2026-10-10T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,Arizona Wildcats (+5.5),-5.5,1.2858,4600501890,0,False
 17724263,West Virginia Mountaineers vs. Arizona Wildcats,2026-10-10T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,West Virginia Mountaineers (-5.5),-5.5,3.4,4600501891,0,False
 17724263,West Virginia Mountaineers vs. Arizona Wildcats,2026-10-10T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,Arizona Wildcats (+4.5),-4.5,1.3125,4600501892,0,False
 17724263,West Virginia Mountaineers vs. Arizona Wildcats,2026-10-10T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,West Virginia Mountaineers (-4.5),-4.5,3.2,4600501893,0,False
+17724263,West Virginia Mountaineers vs. Arizona Wildcats,2026-10-10T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,Arizona Wildcats (+7.5),-7.5,1.1819,4600501894,0,False
+17724263,West Virginia Mountaineers vs. Arizona Wildcats,2026-10-10T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,West Virginia Mountaineers (-7.5),-7.5,4.4,4600501895,0,False
+17724263,West Virginia Mountaineers vs. Arizona Wildcats,2026-10-10T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,West Virginia Mountaineers (-6.5),-6.5,3.7,4600501896,0,False
+17724263,West Virginia Mountaineers vs. Arizona Wildcats,2026-10-10T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,Arizona Wildcats (+6.5),-6.5,1.25,4600501897,0,False
 17724263,West Virginia Mountaineers vs. Arizona Wildcats,2026-10-10T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,West Virginia Mountaineers (-3.5),-3.5,2.9,4600501898,0,False
 17724263,West Virginia Mountaineers vs. Arizona Wildcats,2026-10-10T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,Arizona Wildcats (+3.5),-3.5,1.3637,4600501899,0,False
 17724263,West Virginia Mountaineers vs. Arizona Wildcats,2026-10-10T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,Arizona Wildcats (+2.5),-2.5,1.5,4600501900,0,False
@@ -29,31 +35,51 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17724263,West Virginia Mountaineers vs. Arizona Wildcats,2026-10-10T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,Arizona Wildcats (-12.5),12.5,4.0,4600501924,0,False
 17724263,West Virginia Mountaineers vs. Arizona Wildcats,2026-10-10T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,West Virginia Mountaineers (+11.5),11.5,1.25,4600501926,0,False
 17724263,West Virginia Mountaineers vs. Arizona Wildcats,2026-10-10T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,Arizona Wildcats (-11.5),11.5,3.7,4600501927,0,False
+17724263,West Virginia Mountaineers vs. Arizona Wildcats,2026-10-10T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,Arizona Wildcats (-15.5),15.5,5.25,4600501929,0,False
+17724263,West Virginia Mountaineers vs. Arizona Wildcats,2026-10-10T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,West Virginia Mountaineers (+15.5),15.5,1.1334,4600501930,0,False
+17724263,West Virginia Mountaineers vs. Arizona Wildcats,2026-10-10T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,West Virginia Mountaineers (+16.5),16.5,1.125,4600501936,0,False
+17724263,West Virginia Mountaineers vs. Arizona Wildcats,2026-10-10T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,Arizona Wildcats (-16.5),16.5,5.5,4600501938,0,False
 17724263,West Virginia Mountaineers vs. Arizona Wildcats,2026-10-10T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,Arizona Wildcats (-9.5),9.5,3.1,4600501941,0,False
 17724263,West Virginia Mountaineers vs. Arizona Wildcats,2026-10-10T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,West Virginia Mountaineers (+9.5),9.5,1.3334,4600501943,0,False
 17724263,West Virginia Mountaineers vs. Arizona Wildcats,2026-10-10T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,Arizona Wildcats (-5.5),5.5,2.2,4600501944,0,False
 17724263,West Virginia Mountaineers vs. Arizona Wildcats,2026-10-10T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,West Virginia Mountaineers (+5.5),5.5,1.625,4600501947,0,False
+17724263,West Virginia Mountaineers vs. Arizona Wildcats,2026-10-10T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,Arizona Wildcats (-14.5),14.5,5.0,4600501954,0,False
+17724263,West Virginia Mountaineers vs. Arizona Wildcats,2026-10-10T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,West Virginia Mountaineers (+14.5),14.5,1.1429,4600501957,0,False
+17724263,West Virginia Mountaineers vs. Arizona Wildcats,2026-10-10T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,West Virginia Mountaineers (+13.5),13.5,1.2,4600501959,0,False
+17724263,West Virginia Mountaineers vs. Arizona Wildcats,2026-10-10T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,Arizona Wildcats (-13.5),13.5,4.2,4600501961,0,False
 17724263,West Virginia Mountaineers vs. Arizona Wildcats,2026-10-10T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,Arizona Wildcats (+1.5),-1.5,1.5455,4600501884,0,False
 17724263,West Virginia Mountaineers vs. Arizona Wildcats,2026-10-10T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,West Virginia Mountaineers (-1.5),-1.5,2.35,4600501885,0,False
+17724263,West Virginia Mountaineers vs. Arizona Wildcats,2026-10-10T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,Arizona Wildcats (+9.5),-9.5,1.1429,4600501886,0,False
+17724263,West Virginia Mountaineers vs. Arizona Wildcats,2026-10-10T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,West Virginia Mountaineers (-9.5),-9.5,5.0,4600501887,0,False
 17724263,West Virginia Mountaineers vs. Arizona Wildcats,2026-10-10T16:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 66.5,66.5,2.55,4600502018,0,False
 17724263,West Virginia Mountaineers vs. Arizona Wildcats,2026-10-10T16:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 66.5,66.5,1.4762,4600502022,0,False
+17724263,West Virginia Mountaineers vs. Arizona Wildcats,2026-10-10T16:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 48.5,48.5,1.2223,4600502152,0,False
 17724263,West Virginia Mountaineers vs. Arizona Wildcats,2026-10-10T16:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 59.5,59.5,1.9524,4596466556,0,False
-17724263,West Virginia Mountaineers vs. Arizona Wildcats,2026-10-10T16:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 67.5,67.5,1.4348,4600502025,0,False
+17724263,West Virginia Mountaineers vs. Arizona Wildcats,2026-10-10T16:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 48.5,48.5,4.0,4600502154,0,False
 17724263,West Virginia Mountaineers vs. Arizona Wildcats,2026-10-10T16:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 67.5,67.5,2.65,4600502027,0,False
+17724263,West Virginia Mountaineers vs. Arizona Wildcats,2026-10-10T16:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 67.5,67.5,1.4348,4600502025,0,False
 17724263,West Virginia Mountaineers vs. Arizona Wildcats,2026-10-10T16:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 64.5,64.5,1.625,4600502030,0,False
 17724263,West Virginia Mountaineers vs. Arizona Wildcats,2026-10-10T16:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 64.5,64.5,2.2,4600502032,0,False
 17724263,West Virginia Mountaineers vs. Arizona Wildcats,2026-10-10T16:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 65.5,65.5,1.5264,4600502035,0,False
 17724263,West Virginia Mountaineers vs. Arizona Wildcats,2026-10-10T16:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 65.5,65.5,2.4,4600502038,0,False
 17724263,West Virginia Mountaineers vs. Arizona Wildcats,2026-10-10T16:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 68.5,68.5,2.75,4600502039,0,False
 17724263,West Virginia Mountaineers vs. Arizona Wildcats,2026-10-10T16:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 68.5,68.5,1.4,4600502042,0,False
+17724263,West Virginia Mountaineers vs. Arizona Wildcats,2026-10-10T16:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 69.5,69.5,3.0,4600502050,0,False
 17724263,West Virginia Mountaineers vs. Arizona Wildcats,2026-10-10T16:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 60.5,60.5,1.8,4597284131,0,True
 17724263,West Virginia Mountaineers vs. Arizona Wildcats,2026-10-10T16:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 60.5,60.5,1.8696,4597284132,0,True
 17724263,West Virginia Mountaineers vs. Arizona Wildcats,2026-10-10T16:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 52.5,52.5,1.3637,4600502053,0,False
 17724263,West Virginia Mountaineers vs. Arizona Wildcats,2026-10-10T16:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 52.5,52.5,2.9,4600502054,0,False
+17724263,West Virginia Mountaineers vs. Arizona Wildcats,2026-10-10T16:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 69.5,69.5,1.3572,4600502052,0,False
+17724263,West Virginia Mountaineers vs. Arizona Wildcats,2026-10-10T16:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 49.5,49.5,1.25,4600502140,0,False
 17724263,West Virginia Mountaineers vs. Arizona Wildcats,2026-10-10T16:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 58.5,58.5,1.6667,4596100137,0,False
 17724263,West Virginia Mountaineers vs. Arizona Wildcats,2026-10-10T16:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 58.5,58.5,2.1,4596100138,0,False
 17724263,West Virginia Mountaineers vs. Arizona Wildcats,2026-10-10T16:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 53.5,53.5,2.75,4600502059,0,False
 17724263,West Virginia Mountaineers vs. Arizona Wildcats,2026-10-10T16:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 53.5,53.5,1.4,4600502065,0,False
+17724263,West Virginia Mountaineers vs. Arizona Wildcats,2026-10-10T16:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 61.5,61.5,1.7693,4600502015,0,False
+17724263,West Virginia Mountaineers vs. Arizona Wildcats,2026-10-10T16:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 50.5,50.5,1.2667,4600502074,0,False
+17724263,West Virginia Mountaineers vs. Arizona Wildcats,2026-10-10T16:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 50.5,50.5,3.5,4600502077,0,False
+17724263,West Virginia Mountaineers vs. Arizona Wildcats,2026-10-10T16:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 51.5,51.5,1.3334,4600502079,0,False
+17724263,West Virginia Mountaineers vs. Arizona Wildcats,2026-10-10T16:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 51.5,51.5,3.1,4600502082,0,False
 17724263,West Virginia Mountaineers vs. Arizona Wildcats,2026-10-10T16:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 56.5,56.5,1.5455,4600502085,0,False
 17724263,West Virginia Mountaineers vs. Arizona Wildcats,2026-10-10T16:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 56.5,56.5,2.35,4600502087,0,False
 17724263,West Virginia Mountaineers vs. Arizona Wildcats,2026-10-10T16:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 57.5,57.5,2.2,4600502090,0,False
@@ -62,10 +88,16 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17724263,West Virginia Mountaineers vs. Arizona Wildcats,2026-10-10T16:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 54.5,54.5,1.4348,4600502099,0,False
 17724263,West Virginia Mountaineers vs. Arizona Wildcats,2026-10-10T16:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 55.5,55.5,2.4,4600502102,0,False
 17724263,West Virginia Mountaineers vs. Arizona Wildcats,2026-10-10T16:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 55.5,55.5,1.5264,4600502107,0,False
+17724263,West Virginia Mountaineers vs. Arizona Wildcats,2026-10-10T16:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 71.5,71.5,3.4,4600502118,0,False
+17724263,West Virginia Mountaineers vs. Arizona Wildcats,2026-10-10T16:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 71.5,71.5,1.2858,4600502121,0,False
+17724263,West Virginia Mountaineers vs. Arizona Wildcats,2026-10-10T16:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 70.5,70.5,3.1,4600502124,0,False
+17724263,West Virginia Mountaineers vs. Arizona Wildcats,2026-10-10T16:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 70.5,70.5,1.3334,4600502127,0,False
 17724263,West Virginia Mountaineers vs. Arizona Wildcats,2026-10-10T16:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 62.5,62.5,2.0,4600502001,0,False
 17724263,West Virginia Mountaineers vs. Arizona Wildcats,2026-10-10T16:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 62.5,62.5,1.7143,4600502003,0,False
+17724263,West Virginia Mountaineers vs. Arizona Wildcats,2026-10-10T16:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 72.5,72.5,3.7,4600502134,0,False
 17724263,West Virginia Mountaineers vs. Arizona Wildcats,2026-10-10T16:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 63.5,63.5,2.15,4600502007,0,False
+17724263,West Virginia Mountaineers vs. Arizona Wildcats,2026-10-10T16:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 72.5,72.5,1.25,4600502136,0,False
 17724263,West Virginia Mountaineers vs. Arizona Wildcats,2026-10-10T16:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 63.5,63.5,1.6451,4600502009,0,False
 17724263,West Virginia Mountaineers vs. Arizona Wildcats,2026-10-10T16:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 59.5,59.5,1.7408,4596466555,0,False
 17724263,West Virginia Mountaineers vs. Arizona Wildcats,2026-10-10T16:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 61.5,61.5,1.9091,4600502012,0,False
-17724263,West Virginia Mountaineers vs. Arizona Wildcats,2026-10-10T16:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 61.5,61.5,1.7693,4600502015,0,False
+17724263,West Virginia Mountaineers vs. Arizona Wildcats,2026-10-10T16:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 49.5,49.5,3.7,4600502143,0,False

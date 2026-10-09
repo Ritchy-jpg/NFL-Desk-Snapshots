@@ -1,7 +1,15 @@
 captured_at,event_id,match,start_date,market,selection,side,signal,old_line,new_line,old_price,new_price,old_status,new_status,old_is_main_bet,new_is_main_bet
-2026-10-09T16:18:53.670981+00:00,17714567,Washington Huskies vs. Iowa Hawkeyes,2026-10-10T01:00:00Z,total,Moins de 41.5,under,MAIN_PRICE_MOVE,41.5,41.5,1.8,1.7693,0,0.0,1,1.0
-2026-10-09T16:18:53.670981+00:00,17714567,Washington Huskies vs. Iowa Hawkeyes,2026-10-10T01:00:00Z,total,Plus de 41.5,over,MAIN_PRICE_MOVE,41.5,41.5,1.8696,1.9091,0,0.0,1,1.0
-2026-10-09T16:18:53.670981+00:00,17932502,Akron Zips vs. MICHIGAN EST,2026-10-10T19:30:00Z,spread,MICHIGAN EST (-6.5),MICHIGAN EST,MAIN_PRICE_MOVE,-6.5,-6.5,1.7693,1.8334,0,0.0,1,1.0
-2026-10-09T16:18:53.670981+00:00,17932502,Akron Zips vs. MICHIGAN EST,2026-10-10T19:30:00Z,spread,Akron Zips (+6.5),Akron Zips,MAIN_PRICE_MOVE,6.5,6.5,1.9091,1.8334,0,0.0,1,1.0
-2026-10-09T16:18:53.670981+00:00,17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Moins de 49.5,under,MAIN_PRICE_MOVE,49.5,49.5,1.9091,1.8696,0,0.0,1,1.0
-2026-10-09T16:18:53.670981+00:00,17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Plus de 49.5,over,MAIN_PRICE_MOVE,49.5,49.5,1.7693,1.8,0,0.0,1,1.0
+2026-10-09T16:49:53.085117+00:00,17714565,Louisville Cardinals vs. Florida State Seminoles,2026-10-09T23:00:00Z,spread,Florida State Seminoles (+4.5),Florida State Seminoles,MAIN_SWITCH,4.5,4.5,1.8,1.8,0,0.0,0,1.0
+2026-10-09T16:49:53.085117+00:00,17714565,Louisville Cardinals vs. Florida State Seminoles,2026-10-09T23:00:00Z,spread,Louisville Cardinals (-4.5),Louisville Cardinals,MAIN_SWITCH,-4.5,-4.5,1.8696,1.8696,0,0.0,0,1.0
+2026-10-09T16:49:53.085117+00:00,17724260,Pittsburgh Panthers vs. North Carolina Tar Heels,2026-10-10T16:00:00Z,total,Plus de 47.5,over,MAIN_SWITCH,47.5,47.5,1.9091,1.9091,0,0.0,1,0.0
+2026-10-09T16:49:53.085117+00:00,17724260,Pittsburgh Panthers vs. North Carolina Tar Heels,2026-10-10T16:00:00Z,total,Moins de 47.5,under,MAIN_SWITCH,47.5,47.5,1.7693,1.7693,0,0.0,1,0.0
+2026-10-09T16:49:53.085117+00:00,17724260,Pittsburgh Panthers vs. North Carolina Tar Heels,2026-10-10T16:00:00Z,total,Plus de 46.5,over,MAIN_SWITCH,46.5,46.5,1.7693,1.7693,0,0.0,0,1.0
+2026-10-09T16:49:53.085117+00:00,17724260,Pittsburgh Panthers vs. North Carolina Tar Heels,2026-10-10T16:00:00Z,total,Moins de 46.5,under,MAIN_SWITCH,46.5,46.5,1.9091,1.9091,0,0.0,0,1.0
+2026-10-09T16:49:53.085117+00:00,17933660,UMass Minutemen vs. Miami Redhawks,2026-10-10T18:00:00Z,spread,Miami Redhawks (-2.5),Miami Redhawks,MAIN_PRICE_MOVE,-2.5,-2.5,1.8334,1.7408,0,0.0,1,1.0
+2026-10-09T16:49:53.085117+00:00,17933660,UMass Minutemen vs. Miami Redhawks,2026-10-10T18:00:00Z,spread,UMass Minutemen (+2.5),UMass Minutemen,MAIN_PRICE_MOVE,2.5,2.5,1.8334,1.9524,0,0.0,1,1.0
+2026-10-09T16:49:53.085117+00:00,17933660,UMass Minutemen vs. Miami Redhawks,2026-10-10T18:00:00Z,total,Plus de 46.5,over,MAIN_PRICE_MOVE,46.5,46.5,1.7408,1.8334,0,0.0,1,1.0
+2026-10-09T16:49:53.085117+00:00,17933660,UMass Minutemen vs. Miami Redhawks,2026-10-10T18:00:00Z,total,Moins de 46.5,under,MAIN_PRICE_MOVE,46.5,46.5,1.9524,1.8334,0,0.0,1,1.0
+2026-10-09T16:49:53.085117+00:00,16722004,Alabama Crimson Tide vs. GEORGIE BULLDOGS,2026-10-10T23:30:00Z,total,Plus de 50.5,over,MAIN_PRICE_MOVE,50.5,50.5,1.7693,1.7408,0,0.0,1,1.0
+2026-10-09T16:49:53.085117+00:00,16722004,Alabama Crimson Tide vs. GEORGIE BULLDOGS,2026-10-10T23:30:00Z,total,Moins de 50.5,under,MAIN_PRICE_MOVE,50.5,50.5,1.9091,1.9524,0,0.0,1,1.0
+2026-10-09T16:49:53.085117+00:00,17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Moins de 49.5,under,MAIN_PRICE_MOVE,49.5,49.5,1.8696,1.8334,0,0.0,1,1.0
+2026-10-09T16:49:53.085117+00:00,17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Plus de 49.5,over,MAIN_PRICE_MOVE,49.5,49.5,1.8,1.8334,0,0.0,1,1.0

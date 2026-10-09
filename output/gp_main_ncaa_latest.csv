@@ -1,8 +1,8 @@
 event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id,market_id,market_sv,odd_id,selection,line,price,odd_status,is_main_bet
 17955946,Alabama State Hornets vs. Florida A&M Rattlers,2026-10-09T16:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1767864145,,4611312481,Florida A&M Rattlers,,5.0,0,False
 17955946,Alabama State Hornets vs. Florida A&M Rattlers,2026-10-09T16:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1767864145,,4611312482,Alabama State Hornets,,1.125,0,False
-17955946,Alabama State Hornets vs. Florida A&M Rattlers,2026-10-09T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,1770126765,-13.5,4618760105,Alabama State Hornets (-13.5),-13.5,1.7693,0,True
-17955946,Alabama State Hornets vs. Florida A&M Rattlers,2026-10-09T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,1770126765,-13.5,4618760106,Florida A&M Rattlers (+13.5),-13.5,1.9091,0,True
+17955946,Alabama State Hornets vs. Florida A&M Rattlers,2026-10-09T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,1767864144,-14.5,4611312480,Florida A&M Rattlers (+14.5),-14.5,1.8,0,True
+17955946,Alabama State Hornets vs. Florida A&M Rattlers,2026-10-09T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,1767864144,-14.5,4611312479,Alabama State Hornets (-14.5),-14.5,1.8696,0,True
 17955946,Alabama State Hornets vs. Florida A&M Rattlers,2026-10-09T16:00:00Z,total,Total (prolongations incluses),225,70803,1770550278,46.5,4620238235,Plus de 46.5,46.5,1.7693,0,True
 17955946,Alabama State Hornets vs. Florida A&M Rattlers,2026-10-09T16:00:00Z,total,Total (prolongations incluses),225,70803,1770550278,46.5,4620238236,Moins de 46.5,46.5,1.9091,0,True
 17714565,Louisville Cardinals vs. Florida State Seminoles,2026-10-09T23:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1762000786,,4593754878,Florida State Seminoles,,2.3,0,False
@@ -131,10 +131,10 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17714565,Louisville Cardinals vs. Florida State Seminoles,2026-10-09T23:00:00Z,total,Total (prolongations incluses),225,70803,1763379618,59.5,4600499707,Moins de 73.5,73.5,1.2,0,False
 17714565,Louisville Cardinals vs. Florida State Seminoles,2026-10-09T23:00:00Z,total,Total (prolongations incluses),225,70803,1763379618,59.5,4593754876,Moins de 58.5,58.5,1.9524,0,False
 17714565,Louisville Cardinals vs. Florida State Seminoles,2026-10-09T23:00:00Z,total,Total (prolongations incluses),225,70803,1763379618,59.5,4593754877,Plus de 58.5,58.5,1.7408,0,False
-17955742,Marist Red Foxes vs. Columbia Lions,2026-10-09T23:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1767454857,,4610106936,Marist Red Foxes,,2.05,0,False
-17955742,Marist Red Foxes vs. Columbia Lions,2026-10-09T23:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1767454857,,4610106937,Columbia Lions,,1.6667,0,False
-17955742,Marist Red Foxes vs. Columbia Lions,2026-10-09T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,1767454855,+1.5,4610106932,Marist Red Foxes (+1.5),+1.5,1.9091,0,True
-17955742,Marist Red Foxes vs. Columbia Lions,2026-10-09T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,1767454855,+1.5,4610106933,Columbia Lions (-1.5),+1.5,1.7693,0,True
+17955742,Marist Red Foxes vs. Columbia Lions,2026-10-09T23:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1767454857,,4610106936,Marist Red Foxes,,2.1,0,False
+17955742,Marist Red Foxes vs. Columbia Lions,2026-10-09T23:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1767454857,,4610106937,Columbia Lions,,1.625,0,False
+17955742,Marist Red Foxes vs. Columbia Lions,2026-10-09T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,1770765118,+2.5,4620837337,Marist Red Foxes (+2.5),+2.5,1.8,0,True
+17955742,Marist Red Foxes vs. Columbia Lions,2026-10-09T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,1770765118,+2.5,4620837338,Columbia Lions (-2.5),+2.5,1.8696,0,True
 17955742,Marist Red Foxes vs. Columbia Lions,2026-10-09T23:00:00Z,total,Total (prolongations incluses),225,70803,1767481260,43.5,4610174922,Moins de 43.5,43.5,1.8334,0,True
 17955742,Marist Red Foxes vs. Columbia Lions,2026-10-09T23:00:00Z,total,Total (prolongations incluses),225,70803,1767481260,43.5,4610174923,Plus de 43.5,43.5,1.8334,0,True
 17714564,San Jose State Spartans vs. Wyoming Cowboys,2026-10-10T01:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1762838679,,4596297398,San Jose State Spartans,,1.4762,0,False
@@ -603,40 +603,40 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17714568,BYU Cougars vs. Iowa State Cyclones,2026-10-10T02:15:00Z,total,Total (prolongations incluses),225,70803,1764255142,46.5,4600495999,Moins de 44.5,44.5,2.0,0,False
 17931813,Army Black Knights vs. Tulane Green Wave,2026-10-10T16:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1762734118,,4596056165,Army Black Knights,,1.5556,0,False
 17931813,Army Black Knights vs. Tulane Green Wave,2026-10-10T16:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1762734118,,4596056166,Tulane Green Wave,,2.25,0,False
-17931813,Army Black Knights vs. Tulane Green Wave,2026-10-10T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762909963,-4.5,4600502664,Tulane Green Wave (+12.5),-12.5,1.2353,0,False
-17931813,Army Black Knights vs. Tulane Green Wave,2026-10-10T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762909963,-4.5,4600502665,Army Black Knights (-12.5),-12.5,3.75,0,False
-17931813,Army Black Knights vs. Tulane Green Wave,2026-10-10T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762909963,-4.5,4600502668,Army Black Knights (-7.5),-7.5,2.7,0,False
-17931813,Army Black Knights vs. Tulane Green Wave,2026-10-10T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762909963,-4.5,4600502672,Tulane Green Wave (+7.5),-7.5,1.4167,0,False
-17931813,Army Black Knights vs. Tulane Green Wave,2026-10-10T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762909963,-4.5,4600502675,Tulane Green Wave (+1.5),-1.5,2.15,0,False
-17931813,Army Black Knights vs. Tulane Green Wave,2026-10-10T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762909963,-4.5,4600502677,Army Black Knights (-1.5),-1.5,1.6451,0,False
-17931813,Army Black Knights vs. Tulane Green Wave,2026-10-10T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762909963,-4.5,4600502686,Army Black Knights (-10.5),-10.5,3.4,0,False
-17931813,Army Black Knights vs. Tulane Green Wave,2026-10-10T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762909963,-4.5,4600502688,Tulane Green Wave (+10.5),-10.5,1.2858,0,False
-17931813,Army Black Knights vs. Tulane Green Wave,2026-10-10T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762909963,-4.5,4597285169,Tulane Green Wave (+3.5),-3.5,1.7408,0,True
-17931813,Army Black Knights vs. Tulane Green Wave,2026-10-10T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762909963,-4.5,4597285170,Army Black Knights (-3.5),-3.5,1.9524,0,True
-17931813,Army Black Knights vs. Tulane Green Wave,2026-10-10T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762909963,-4.5,4600502586,Army Black Knights (-9.5),-9.5,3.0,0,False
-17931813,Army Black Knights vs. Tulane Green Wave,2026-10-10T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762909963,-4.5,4600502588,Tulane Green Wave (+9.5),-9.5,1.3572,0,False
-17931813,Army Black Knights vs. Tulane Green Wave,2026-10-10T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762909963,-4.5,4600502594,Tulane Green Wave (-1.5),+1.5,2.4,0,False
-17931813,Army Black Knights vs. Tulane Green Wave,2026-10-10T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762909963,-4.5,4600502596,Army Black Knights (+1.5),+1.5,1.5264,0,False
-17931813,Army Black Knights vs. Tulane Green Wave,2026-10-10T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762909963,-4.5,4600502605,Tulane Green Wave (-2.5),+2.5,2.55,0,False
-17931813,Army Black Knights vs. Tulane Green Wave,2026-10-10T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762909963,-4.5,4596158542,Army Black Knights (-5.5),-5.5,2.2,0,False
-17931813,Army Black Knights vs. Tulane Green Wave,2026-10-10T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762909963,-4.5,4600502607,Army Black Knights (+2.5),+2.5,1.4762,0,False
-17931813,Army Black Knights vs. Tulane Green Wave,2026-10-10T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762909963,-4.5,4596158543,Tulane Green Wave (+5.5),-5.5,1.625,0,False
-17931813,Army Black Knights vs. Tulane Green Wave,2026-10-10T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762909963,-4.5,4600502613,Tulane Green Wave (-3.5),+3.5,3.1,0,False
-17931813,Army Black Knights vs. Tulane Green Wave,2026-10-10T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762909963,-4.5,4600502615,Army Black Knights (+3.5),+3.5,1.3334,0,False
-17931813,Army Black Knights vs. Tulane Green Wave,2026-10-10T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762909963,-4.5,4600502621,Tulane Green Wave (-5.5),+5.5,3.5,0,False
-17931813,Army Black Knights vs. Tulane Green Wave,2026-10-10T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762909963,-4.5,4600502623,Army Black Knights (+5.5),+5.5,1.2667,0,False
-17931813,Army Black Knights vs. Tulane Green Wave,2026-10-10T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762909963,-4.5,4596056163,Tulane Green Wave (+6.5),-6.5,1.5556,0,False
-17931813,Army Black Knights vs. Tulane Green Wave,2026-10-10T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762909963,-4.5,4596056164,Army Black Knights (-6.5),-6.5,2.3,0,False
-17931813,Army Black Knights vs. Tulane Green Wave,2026-10-10T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762909963,-4.5,4600502629,Army Black Knights (-2.5),-2.5,1.6897,0,False
-17931813,Army Black Knights vs. Tulane Green Wave,2026-10-10T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762909963,-4.5,4600502632,Tulane Green Wave (+2.5),-2.5,2.05,0,False
-17931813,Army Black Knights vs. Tulane Green Wave,2026-10-10T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762909963,-4.5,4600502633,Tulane Green Wave (-4.5),+4.5,3.25,0,False
-17931813,Army Black Knights vs. Tulane Green Wave,2026-10-10T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762909963,-4.5,4600502636,Army Black Knights (+4.5),+4.5,1.3031,0,False
-17931813,Army Black Knights vs. Tulane Green Wave,2026-10-10T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762909963,-4.5,4600502638,Army Black Knights (-8.5),-8.5,2.85,0,False
-17931813,Army Black Knights vs. Tulane Green Wave,2026-10-10T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762909963,-4.5,4596463344,Tulane Green Wave (+4.5),-4.5,1.6667,0,False
-17931813,Army Black Knights vs. Tulane Green Wave,2026-10-10T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762909963,-4.5,4596463345,Army Black Knights (-4.5),-4.5,2.1,0,False
-17931813,Army Black Knights vs. Tulane Green Wave,2026-10-10T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762909963,-4.5,4600502640,Tulane Green Wave (+8.5),-8.5,1.3847,0,False
-17931813,Army Black Knights vs. Tulane Green Wave,2026-10-10T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762909963,-4.5,4600502650,Army Black Knights (-11.5),-11.5,3.7,0,False
-17931813,Army Black Knights vs. Tulane Green Wave,2026-10-10T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762909963,-4.5,4600502651,Tulane Green Wave (+11.5),-11.5,1.25,0,False
+17931813,Army Black Knights vs. Tulane Green Wave,2026-10-10T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762779247,-5.5,4600502664,Tulane Green Wave (+12.5),-12.5,1.2353,0,False
+17931813,Army Black Knights vs. Tulane Green Wave,2026-10-10T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762779247,-5.5,4600502665,Army Black Knights (-12.5),-12.5,3.75,0,False
+17931813,Army Black Knights vs. Tulane Green Wave,2026-10-10T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762779247,-5.5,4600502668,Army Black Knights (-7.5),-7.5,2.7,0,False
+17931813,Army Black Knights vs. Tulane Green Wave,2026-10-10T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762779247,-5.5,4600502672,Tulane Green Wave (+7.5),-7.5,1.4167,0,False
+17931813,Army Black Knights vs. Tulane Green Wave,2026-10-10T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762779247,-5.5,4600502675,Tulane Green Wave (+1.5),-1.5,2.15,0,False
+17931813,Army Black Knights vs. Tulane Green Wave,2026-10-10T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762779247,-5.5,4600502677,Army Black Knights (-1.5),-1.5,1.6451,0,False
+17931813,Army Black Knights vs. Tulane Green Wave,2026-10-10T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762779247,-5.5,4600502686,Army Black Knights (-10.5),-10.5,3.4,0,False
+17931813,Army Black Knights vs. Tulane Green Wave,2026-10-10T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762779247,-5.5,4600502688,Tulane Green Wave (+10.5),-10.5,1.2858,0,False
+17931813,Army Black Knights vs. Tulane Green Wave,2026-10-10T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762779247,-5.5,4597285169,Tulane Green Wave (+3.5),-3.5,1.7408,0,True
+17931813,Army Black Knights vs. Tulane Green Wave,2026-10-10T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762779247,-5.5,4597285170,Army Black Knights (-3.5),-3.5,1.9524,0,True
+17931813,Army Black Knights vs. Tulane Green Wave,2026-10-10T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762779247,-5.5,4600502586,Army Black Knights (-9.5),-9.5,3.0,0,False
+17931813,Army Black Knights vs. Tulane Green Wave,2026-10-10T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762779247,-5.5,4600502588,Tulane Green Wave (+9.5),-9.5,1.3572,0,False
+17931813,Army Black Knights vs. Tulane Green Wave,2026-10-10T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762779247,-5.5,4600502594,Tulane Green Wave (-1.5),+1.5,2.4,0,False
+17931813,Army Black Knights vs. Tulane Green Wave,2026-10-10T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762779247,-5.5,4600502596,Army Black Knights (+1.5),+1.5,1.5264,0,False
+17931813,Army Black Knights vs. Tulane Green Wave,2026-10-10T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762779247,-5.5,4600502605,Tulane Green Wave (-2.5),+2.5,2.55,0,False
+17931813,Army Black Knights vs. Tulane Green Wave,2026-10-10T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762779247,-5.5,4596158542,Army Black Knights (-5.5),-5.5,2.2,0,False
+17931813,Army Black Knights vs. Tulane Green Wave,2026-10-10T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762779247,-5.5,4600502607,Army Black Knights (+2.5),+2.5,1.4762,0,False
+17931813,Army Black Knights vs. Tulane Green Wave,2026-10-10T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762779247,-5.5,4596158543,Tulane Green Wave (+5.5),-5.5,1.625,0,False
+17931813,Army Black Knights vs. Tulane Green Wave,2026-10-10T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762779247,-5.5,4600502613,Tulane Green Wave (-3.5),+3.5,3.1,0,False
+17931813,Army Black Knights vs. Tulane Green Wave,2026-10-10T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762779247,-5.5,4600502615,Army Black Knights (+3.5),+3.5,1.3334,0,False
+17931813,Army Black Knights vs. Tulane Green Wave,2026-10-10T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762779247,-5.5,4600502621,Tulane Green Wave (-5.5),+5.5,3.5,0,False
+17931813,Army Black Knights vs. Tulane Green Wave,2026-10-10T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762779247,-5.5,4600502623,Army Black Knights (+5.5),+5.5,1.2667,0,False
+17931813,Army Black Knights vs. Tulane Green Wave,2026-10-10T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762779247,-5.5,4596056163,Tulane Green Wave (+6.5),-6.5,1.5556,0,False
+17931813,Army Black Knights vs. Tulane Green Wave,2026-10-10T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762779247,-5.5,4596056164,Army Black Knights (-6.5),-6.5,2.3,0,False
+17931813,Army Black Knights vs. Tulane Green Wave,2026-10-10T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762779247,-5.5,4600502629,Army Black Knights (-2.5),-2.5,1.6897,0,False
+17931813,Army Black Knights vs. Tulane Green Wave,2026-10-10T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762779247,-5.5,4600502632,Tulane Green Wave (+2.5),-2.5,2.05,0,False
+17931813,Army Black Knights vs. Tulane Green Wave,2026-10-10T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762779247,-5.5,4600502633,Tulane Green Wave (-4.5),+4.5,3.25,0,False
+17931813,Army Black Knights vs. Tulane Green Wave,2026-10-10T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762779247,-5.5,4600502636,Army Black Knights (+4.5),+4.5,1.3031,0,False
+17931813,Army Black Knights vs. Tulane Green Wave,2026-10-10T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762779247,-5.5,4600502638,Army Black Knights (-8.5),-8.5,2.85,0,False
+17931813,Army Black Knights vs. Tulane Green Wave,2026-10-10T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762779247,-5.5,4596463344,Tulane Green Wave (+4.5),-4.5,1.6667,0,False
+17931813,Army Black Knights vs. Tulane Green Wave,2026-10-10T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762779247,-5.5,4596463345,Army Black Knights (-4.5),-4.5,2.1,0,False
+17931813,Army Black Knights vs. Tulane Green Wave,2026-10-10T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762779247,-5.5,4600502640,Tulane Green Wave (+8.5),-8.5,1.3847,0,False
+17931813,Army Black Knights vs. Tulane Green Wave,2026-10-10T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762779247,-5.5,4600502650,Army Black Knights (-11.5),-11.5,3.7,0,False
+17931813,Army Black Knights vs. Tulane Green Wave,2026-10-10T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762779247,-5.5,4600502651,Tulane Green Wave (+11.5),-11.5,1.25,0,False
 17931813,Army Black Knights vs. Tulane Green Wave,2026-10-10T16:00:00Z,total,Total (prolongations incluses),225,70803,1762734116,44.5,4600502529,Plus de 55.5,55.5,3.1,0,False
 17931813,Army Black Knights vs. Tulane Green Wave,2026-10-10T16:00:00Z,total,Total (prolongations incluses),225,70803,1762734116,44.5,4597027845,Moins de 46.5,46.5,2.05,0,False
 17931813,Army Black Knights vs. Tulane Green Wave,2026-10-10T16:00:00Z,total,Total (prolongations incluses),225,70803,1762734116,44.5,4597027846,Plus de 46.5,46.5,1.6897,0,False
@@ -1233,10 +1233,10 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17724261,Northwestern Wildcats vs. Ball State Cardinals,2026-10-10T16:30:00Z,total,Total (prolongations incluses),225,70803,1762760955,52.5,4600497147,Moins de 45.5,45.5,3.0,0,False
 17724267,Florida Gators vs. South Carolina Gamecocks,2026-10-10T16:45:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1758966904,,4584684361,South Carolina Gamecocks,,4.0,0,False
 17724267,Florida Gators vs. South Carolina Gamecocks,2026-10-10T16:45:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1758966904,,4584684362,Florida Gators,,1.1819,0,False
-17724267,Florida Gators vs. South Carolina Gamecocks,2026-10-10T16:45:00Z,spread,Handicap (inclus prolongations),223,70799,1764257884,-11.5,4600501512,Florida Gators (-6.5),-6.5,1.4546,0,False
-17724267,Florida Gators vs. South Carolina Gamecocks,2026-10-10T16:45:00Z,spread,Handicap (inclus prolongations),223,70799,1764257884,-11.5,4600501518,South Carolina Gamecocks (+6.5),-6.5,2.6,0,False
-17724267,Florida Gators vs. South Carolina Gamecocks,2026-10-10T16:45:00Z,spread,Handicap (inclus prolongations),223,70799,1764257884,-11.5,4600501521,Florida Gators (-16.5),-16.5,2.4,0,False
-17724267,Florida Gators vs. South Carolina Gamecocks,2026-10-10T16:45:00Z,spread,Handicap (inclus prolongations),223,70799,1764257884,-11.5,4600501525,South Carolina Gamecocks (+16.5),-16.5,1.5264,0,False
+17724267,Florida Gators vs. South Carolina Gamecocks,2026-10-10T16:45:00Z,spread,Handicap (inclus prolongations),223,70799,1764257884,-11.5,4600501512,Florida Gators (-6.5),-6.5,1.4762,0,False
+17724267,Florida Gators vs. South Carolina Gamecocks,2026-10-10T16:45:00Z,spread,Handicap (inclus prolongations),223,70799,1764257884,-11.5,4600501518,South Carolina Gamecocks (+6.5),-6.5,2.55,0,False
+17724267,Florida Gators vs. South Carolina Gamecocks,2026-10-10T16:45:00Z,spread,Handicap (inclus prolongations),223,70799,1764257884,-11.5,4600501521,Florida Gators (-16.5),-16.5,2.5,0,False
+17724267,Florida Gators vs. South Carolina Gamecocks,2026-10-10T16:45:00Z,spread,Handicap (inclus prolongations),223,70799,1764257884,-11.5,4600501525,South Carolina Gamecocks (+16.5),-16.5,1.5,0,False
 17724267,Florida Gators vs. South Carolina Gamecocks,2026-10-10T16:45:00Z,spread,Handicap (inclus prolongations),223,70799,1764257884,-11.5,4600501528,South Carolina Gamecocks (+19.5),-19.5,1.3572,0,False
 17724267,Florida Gators vs. South Carolina Gamecocks,2026-10-10T16:45:00Z,spread,Handicap (inclus prolongations),223,70799,1764257884,-11.5,4600501530,Florida Gators (-19.5),-19.5,3.0,0,False
 17724267,Florida Gators vs. South Carolina Gamecocks,2026-10-10T16:45:00Z,spread,Handicap (inclus prolongations),223,70799,1764257884,-11.5,4600501538,South Carolina Gamecocks (+15.5),-15.5,1.5455,0,False
@@ -1275,10 +1275,10 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17724267,Florida Gators vs. South Carolina Gamecocks,2026-10-10T16:45:00Z,total,Total (prolongations incluses),225,70803,1762000282,58.5,4600501686,Plus de 51.5,51.5,1.3847,0,False
 17724267,Florida Gators vs. South Carolina Gamecocks,2026-10-10T16:45:00Z,total,Total (prolongations incluses),225,70803,1762000282,58.5,4600501693,Moins de 52.5,52.5,2.65,0,False
 17724267,Florida Gators vs. South Carolina Gamecocks,2026-10-10T16:45:00Z,total,Total (prolongations incluses),225,70803,1762000282,58.5,4600501694,Plus de 52.5,52.5,1.4348,0,False
-17724267,Florida Gators vs. South Carolina Gamecocks,2026-10-10T16:45:00Z,total,Total (prolongations incluses),225,70803,1762000282,58.5,4600501706,Moins de 63.5,63.5,1.5264,0,False
-17724267,Florida Gators vs. South Carolina Gamecocks,2026-10-10T16:45:00Z,total,Total (prolongations incluses),225,70803,1762000282,58.5,4600501707,Plus de 63.5,63.5,2.4,0,False
-17724267,Florida Gators vs. South Carolina Gamecocks,2026-10-10T16:45:00Z,total,Total (prolongations incluses),225,70803,1762000282,58.5,4600501708,Moins de 53.5,53.5,2.6,0,False
-17724267,Florida Gators vs. South Carolina Gamecocks,2026-10-10T16:45:00Z,total,Total (prolongations incluses),225,70803,1762000282,58.5,4600501709,Plus de 53.5,53.5,1.4546,0,False
+17724267,Florida Gators vs. South Carolina Gamecocks,2026-10-10T16:45:00Z,total,Total (prolongations incluses),225,70803,1762000282,58.5,4600501706,Moins de 63.5,63.5,1.5455,0,False
+17724267,Florida Gators vs. South Carolina Gamecocks,2026-10-10T16:45:00Z,total,Total (prolongations incluses),225,70803,1762000282,58.5,4600501707,Plus de 63.5,63.5,2.35,0,False
+17724267,Florida Gators vs. South Carolina Gamecocks,2026-10-10T16:45:00Z,total,Total (prolongations incluses),225,70803,1762000282,58.5,4600501708,Moins de 53.5,53.5,2.55,0,False
+17724267,Florida Gators vs. South Carolina Gamecocks,2026-10-10T16:45:00Z,total,Total (prolongations incluses),225,70803,1762000282,58.5,4600501709,Plus de 53.5,53.5,1.4762,0,False
 17724267,Florida Gators vs. South Carolina Gamecocks,2026-10-10T16:45:00Z,total,Total (prolongations incluses),225,70803,1762000282,58.5,4584684365,Plus de 57.5,57.5,1.6897,0,False
 17724267,Florida Gators vs. South Carolina Gamecocks,2026-10-10T16:45:00Z,total,Total (prolongations incluses),225,70803,1762000282,58.5,4600501711,Plus de 56.5,56.5,1.6451,0,False
 17724267,Florida Gators vs. South Carolina Gamecocks,2026-10-10T16:45:00Z,total,Total (prolongations incluses),225,70803,1762000282,58.5,4600501712,Plus de 54.5,54.5,1.5264,0,False
@@ -1287,13 +1287,13 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17724267,Florida Gators vs. South Carolina Gamecocks,2026-10-10T16:45:00Z,total,Total (prolongations incluses),225,70803,1762000282,58.5,4596714707,Plus de 60.5,60.5,2.0,0,False
 17724267,Florida Gators vs. South Carolina Gamecocks,2026-10-10T16:45:00Z,total,Total (prolongations incluses),225,70803,1762000282,58.5,4600501716,Plus de 64.5,64.5,2.5,0,False
 17724267,Florida Gators vs. South Carolina Gamecocks,2026-10-10T16:45:00Z,total,Total (prolongations incluses),225,70803,1762000282,58.5,4600501715,Moins de 55.5,55.5,2.2,0,False
-17724267,Florida Gators vs. South Carolina Gamecocks,2026-10-10T16:45:00Z,total,Total (prolongations incluses),225,70803,1762000282,58.5,4600501718,Plus de 66.5,66.5,2.9,0,False
+17724267,Florida Gators vs. South Carolina Gamecocks,2026-10-10T16:45:00Z,total,Total (prolongations incluses),225,70803,1762000282,58.5,4600501718,Plus de 66.5,66.5,2.85,0,False
 17724267,Florida Gators vs. South Carolina Gamecocks,2026-10-10T16:45:00Z,total,Total (prolongations incluses),225,70803,1762000282,58.5,4600501710,Moins de 56.5,56.5,2.15,0,False
 17724267,Florida Gators vs. South Carolina Gamecocks,2026-10-10T16:45:00Z,total,Total (prolongations incluses),225,70803,1762000282,58.5,4596714706,Moins de 60.5,60.5,1.7143,0,False
 17724267,Florida Gators vs. South Carolina Gamecocks,2026-10-10T16:45:00Z,total,Total (prolongations incluses),225,70803,1762000282,58.5,4600501717,Moins de 64.5,64.5,1.5,0,False
-17724267,Florida Gators vs. South Carolina Gamecocks,2026-10-10T16:45:00Z,total,Total (prolongations incluses),225,70803,1762000282,58.5,4600501722,Plus de 65.5,65.5,2.7,0,False
-17724267,Florida Gators vs. South Carolina Gamecocks,2026-10-10T16:45:00Z,total,Total (prolongations incluses),225,70803,1762000282,58.5,4600501723,Moins de 65.5,65.5,1.4167,0,False
-17724267,Florida Gators vs. South Carolina Gamecocks,2026-10-10T16:45:00Z,total,Total (prolongations incluses),225,70803,1762000282,58.5,4600501719,Moins de 66.5,66.5,1.3637,0,False
+17724267,Florida Gators vs. South Carolina Gamecocks,2026-10-10T16:45:00Z,total,Total (prolongations incluses),225,70803,1762000282,58.5,4600501722,Plus de 65.5,65.5,2.65,0,False
+17724267,Florida Gators vs. South Carolina Gamecocks,2026-10-10T16:45:00Z,total,Total (prolongations incluses),225,70803,1762000282,58.5,4600501723,Moins de 65.5,65.5,1.4348,0,False
+17724267,Florida Gators vs. South Carolina Gamecocks,2026-10-10T16:45:00Z,total,Total (prolongations incluses),225,70803,1762000282,58.5,4600501719,Moins de 66.5,66.5,1.3847,0,False
 17724267,Florida Gators vs. South Carolina Gamecocks,2026-10-10T16:45:00Z,total,Total (prolongations incluses),225,70803,1762000282,58.5,4584684366,Moins de 57.5,57.5,2.05,0,False
 17724267,Florida Gators vs. South Carolina Gamecocks,2026-10-10T16:45:00Z,total,Total (prolongations incluses),225,70803,1762000282,58.5,4596942307,Moins de 61.5,61.5,1.6667,0,False
 17724267,Florida Gators vs. South Carolina Gamecocks,2026-10-10T16:45:00Z,total,Total (prolongations incluses),225,70803,1762000282,58.5,4596942308,Plus de 61.5,61.5,2.1,0,False
@@ -1407,40 +1407,40 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17933660,UMass Minutemen vs. Miami Redhawks,2026-10-10T18:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762908247,+2.5,4600450042,UMass Minutemen (-5.5),-5.5,2.9,0,False
 17933660,UMass Minutemen vs. Miami Redhawks,2026-10-10T18:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762908247,+2.5,4600450043,UMass Minutemen (-1.5),-1.5,2.1,0,False
 17933660,UMass Minutemen vs. Miami Redhawks,2026-10-10T18:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762908247,+2.5,4600450044,Miami Redhawks (+1.5),-1.5,1.6667,0,False
-17933660,UMass Minutemen vs. Miami Redhawks,2026-10-10T18:00:00Z,total,Total (prolongations incluses),225,70803,1764234744,41.5,4600449985,Plus de 48.5,48.5,2.0,0,False
-17933660,UMass Minutemen vs. Miami Redhawks,2026-10-10T18:00:00Z,total,Total (prolongations incluses),225,70803,1764234744,41.5,4600449986,Moins de 48.5,48.5,1.7143,0,False
-17933660,UMass Minutemen vs. Miami Redhawks,2026-10-10T18:00:00Z,total,Total (prolongations incluses),225,70803,1764234744,41.5,4600449987,Moins de 41.5,41.5,2.65,0,False
-17933660,UMass Minutemen vs. Miami Redhawks,2026-10-10T18:00:00Z,total,Total (prolongations incluses),225,70803,1764234744,41.5,4600449988,Plus de 41.5,41.5,1.4348,0,False
-17933660,UMass Minutemen vs. Miami Redhawks,2026-10-10T18:00:00Z,total,Total (prolongations incluses),225,70803,1764234744,41.5,4600449989,Plus de 40.5,40.5,1.3572,0,False
-17933660,UMass Minutemen vs. Miami Redhawks,2026-10-10T18:00:00Z,total,Total (prolongations incluses),225,70803,1764234744,41.5,4600449990,Moins de 40.5,40.5,3.0,0,False
-17933660,UMass Minutemen vs. Miami Redhawks,2026-10-10T18:00:00Z,total,Total (prolongations incluses),225,70803,1764234744,41.5,4600449991,Moins de 43.5,43.5,2.4,0,False
-17933660,UMass Minutemen vs. Miami Redhawks,2026-10-10T18:00:00Z,total,Total (prolongations incluses),225,70803,1764234744,41.5,4600449992,Plus de 43.5,43.5,1.5264,0,False
-17933660,UMass Minutemen vs. Miami Redhawks,2026-10-10T18:00:00Z,total,Total (prolongations incluses),225,70803,1764234744,41.5,4600449993,Plus de 42.5,42.5,1.4762,0,False
-17933660,UMass Minutemen vs. Miami Redhawks,2026-10-10T18:00:00Z,total,Total (prolongations incluses),225,70803,1764234744,41.5,4600449994,Moins de 42.5,42.5,2.55,0,False
-17933660,UMass Minutemen vs. Miami Redhawks,2026-10-10T18:00:00Z,total,Total (prolongations incluses),225,70803,1764234744,41.5,4600449995,Plus de 45.5,45.5,1.6897,0,False
-17933660,UMass Minutemen vs. Miami Redhawks,2026-10-10T18:00:00Z,total,Total (prolongations incluses),225,70803,1764234744,41.5,4600449996,Moins de 45.5,45.5,2.05,0,False
-17933660,UMass Minutemen vs. Miami Redhawks,2026-10-10T18:00:00Z,total,Total (prolongations incluses),225,70803,1764234744,41.5,4600449997,Plus de 44.5,44.5,1.625,0,False
-17933660,UMass Minutemen vs. Miami Redhawks,2026-10-10T18:00:00Z,total,Total (prolongations incluses),225,70803,1764234744,41.5,4600449998,Moins de 44.5,44.5,2.2,0,False
-17933660,UMass Minutemen vs. Miami Redhawks,2026-10-10T18:00:00Z,total,Total (prolongations incluses),225,70803,1764234744,41.5,4600449999,Plus de 46.5,46.5,1.7408,0,True
-17933660,UMass Minutemen vs. Miami Redhawks,2026-10-10T18:00:00Z,total,Total (prolongations incluses),225,70803,1764234744,41.5,4600450000,Moins de 46.5,46.5,1.9524,0,True
-17933660,UMass Minutemen vs. Miami Redhawks,2026-10-10T18:00:00Z,total,Total (prolongations incluses),225,70803,1764234744,41.5,4600450001,Moins de 53.5,53.5,1.4167,0,False
-17933660,UMass Minutemen vs. Miami Redhawks,2026-10-10T18:00:00Z,total,Total (prolongations incluses),225,70803,1764234744,41.5,4600450002,Plus de 53.5,53.5,2.7,0,False
-17933660,UMass Minutemen vs. Miami Redhawks,2026-10-10T18:00:00Z,total,Total (prolongations incluses),225,70803,1764234744,41.5,4600450003,Plus de 52.5,52.5,2.6,0,False
-17933660,UMass Minutemen vs. Miami Redhawks,2026-10-10T18:00:00Z,total,Total (prolongations incluses),225,70803,1764234744,41.5,4600450004,Moins de 52.5,52.5,1.4546,0,False
-17933660,UMass Minutemen vs. Miami Redhawks,2026-10-10T18:00:00Z,total,Total (prolongations incluses),225,70803,1764234744,41.5,4600450005,Moins de 51.5,51.5,1.5264,0,False
-17933660,UMass Minutemen vs. Miami Redhawks,2026-10-10T18:00:00Z,total,Total (prolongations incluses),225,70803,1764234744,41.5,4600450006,Plus de 51.5,51.5,2.4,0,False
-17933660,UMass Minutemen vs. Miami Redhawks,2026-10-10T18:00:00Z,total,Total (prolongations incluses),225,70803,1764234744,41.5,4600450007,Moins de 37.5,37.5,3.7,0,False
-17933660,UMass Minutemen vs. Miami Redhawks,2026-10-10T18:00:00Z,total,Total (prolongations incluses),225,70803,1764234744,41.5,4600450008,Plus de 37.5,37.5,1.25,0,False
-17933660,UMass Minutemen vs. Miami Redhawks,2026-10-10T18:00:00Z,total,Total (prolongations incluses),225,70803,1764234744,41.5,4600450009,Plus de 38.5,38.5,1.2858,0,False
-17933660,UMass Minutemen vs. Miami Redhawks,2026-10-10T18:00:00Z,total,Total (prolongations incluses),225,70803,1764234744,41.5,4600450010,Moins de 38.5,38.5,3.4,0,False
-17933660,UMass Minutemen vs. Miami Redhawks,2026-10-10T18:00:00Z,total,Total (prolongations incluses),225,70803,1764234744,41.5,4600450011,Moins de 39.5,39.5,3.25,0,False
-17933660,UMass Minutemen vs. Miami Redhawks,2026-10-10T18:00:00Z,total,Total (prolongations incluses),225,70803,1764234744,41.5,4600450012,Plus de 39.5,39.5,1.3031,0,False
-17933660,UMass Minutemen vs. Miami Redhawks,2026-10-10T18:00:00Z,total,Total (prolongations incluses),225,70803,1764234744,41.5,4600450013,Moins de 50.5,50.5,1.625,0,False
-17933660,UMass Minutemen vs. Miami Redhawks,2026-10-10T18:00:00Z,total,Total (prolongations incluses),225,70803,1764234744,41.5,4600450014,Plus de 50.5,50.5,2.2,0,False
-17933660,UMass Minutemen vs. Miami Redhawks,2026-10-10T18:00:00Z,total,Total (prolongations incluses),225,70803,1764234744,41.5,4600450015,Plus de 54.5,54.5,2.85,0,False
-17933660,UMass Minutemen vs. Miami Redhawks,2026-10-10T18:00:00Z,total,Total (prolongations incluses),225,70803,1764234744,41.5,4600450016,Moins de 54.5,54.5,1.3847,0,False
-17933660,UMass Minutemen vs. Miami Redhawks,2026-10-10T18:00:00Z,total,Total (prolongations incluses),225,70803,1764234744,41.5,4596459517,Plus de 49.5,49.5,2.1,0,False
-17933660,UMass Minutemen vs. Miami Redhawks,2026-10-10T18:00:00Z,total,Total (prolongations incluses),225,70803,1764234744,41.5,4596459518,Moins de 49.5,49.5,1.6667,0,False
+17933660,UMass Minutemen vs. Miami Redhawks,2026-10-10T18:00:00Z,total,Total (prolongations incluses),225,70803,1764234743,48.5,4600449985,Plus de 48.5,48.5,2.0,0,False
+17933660,UMass Minutemen vs. Miami Redhawks,2026-10-10T18:00:00Z,total,Total (prolongations incluses),225,70803,1764234743,48.5,4600449986,Moins de 48.5,48.5,1.7143,0,False
+17933660,UMass Minutemen vs. Miami Redhawks,2026-10-10T18:00:00Z,total,Total (prolongations incluses),225,70803,1764234743,48.5,4600449987,Moins de 41.5,41.5,2.65,0,False
+17933660,UMass Minutemen vs. Miami Redhawks,2026-10-10T18:00:00Z,total,Total (prolongations incluses),225,70803,1764234743,48.5,4600449988,Plus de 41.5,41.5,1.4348,0,False
+17933660,UMass Minutemen vs. Miami Redhawks,2026-10-10T18:00:00Z,total,Total (prolongations incluses),225,70803,1764234743,48.5,4600449989,Plus de 40.5,40.5,1.3572,0,False
+17933660,UMass Minutemen vs. Miami Redhawks,2026-10-10T18:00:00Z,total,Total (prolongations incluses),225,70803,1764234743,48.5,4600449990,Moins de 40.5,40.5,3.0,0,False
+17933660,UMass Minutemen vs. Miami Redhawks,2026-10-10T18:00:00Z,total,Total (prolongations incluses),225,70803,1764234743,48.5,4600449991,Moins de 43.5,43.5,2.4,0,False
+17933660,UMass Minutemen vs. Miami Redhawks,2026-10-10T18:00:00Z,total,Total (prolongations incluses),225,70803,1764234743,48.5,4600449992,Plus de 43.5,43.5,1.5264,0,False
+17933660,UMass Minutemen vs. Miami Redhawks,2026-10-10T18:00:00Z,total,Total (prolongations incluses),225,70803,1764234743,48.5,4600449993,Plus de 42.5,42.5,1.4762,0,False
+17933660,UMass Minutemen vs. Miami Redhawks,2026-10-10T18:00:00Z,total,Total (prolongations incluses),225,70803,1764234743,48.5,4600449994,Moins de 42.5,42.5,2.55,0,False
+17933660,UMass Minutemen vs. Miami Redhawks,2026-10-10T18:00:00Z,total,Total (prolongations incluses),225,70803,1764234743,48.5,4600449995,Plus de 45.5,45.5,1.6897,0,False
+17933660,UMass Minutemen vs. Miami Redhawks,2026-10-10T18:00:00Z,total,Total (prolongations incluses),225,70803,1764234743,48.5,4600449996,Moins de 45.5,45.5,2.05,0,False
+17933660,UMass Minutemen vs. Miami Redhawks,2026-10-10T18:00:00Z,total,Total (prolongations incluses),225,70803,1764234743,48.5,4600449997,Plus de 44.5,44.5,1.625,0,False
+17933660,UMass Minutemen vs. Miami Redhawks,2026-10-10T18:00:00Z,total,Total (prolongations incluses),225,70803,1764234743,48.5,4600449998,Moins de 44.5,44.5,2.2,0,False
+17933660,UMass Minutemen vs. Miami Redhawks,2026-10-10T18:00:00Z,total,Total (prolongations incluses),225,70803,1764234743,48.5,4600449999,Plus de 46.5,46.5,1.7408,0,True
+17933660,UMass Minutemen vs. Miami Redhawks,2026-10-10T18:00:00Z,total,Total (prolongations incluses),225,70803,1764234743,48.5,4600450000,Moins de 46.5,46.5,1.9524,0,True
+17933660,UMass Minutemen vs. Miami Redhawks,2026-10-10T18:00:00Z,total,Total (prolongations incluses),225,70803,1764234743,48.5,4600450001,Moins de 53.5,53.5,1.4167,0,False
+17933660,UMass Minutemen vs. Miami Redhawks,2026-10-10T18:00:00Z,total,Total (prolongations incluses),225,70803,1764234743,48.5,4600450002,Plus de 53.5,53.5,2.7,0,False
+17933660,UMass Minutemen vs. Miami Redhawks,2026-10-10T18:00:00Z,total,Total (prolongations incluses),225,70803,1764234743,48.5,4600450003,Plus de 52.5,52.5,2.6,0,False
+17933660,UMass Minutemen vs. Miami Redhawks,2026-10-10T18:00:00Z,total,Total (prolongations incluses),225,70803,1764234743,48.5,4600450004,Moins de 52.5,52.5,1.4546,0,False
+17933660,UMass Minutemen vs. Miami Redhawks,2026-10-10T18:00:00Z,total,Total (prolongations incluses),225,70803,1764234743,48.5,4600450005,Moins de 51.5,51.5,1.5264,0,False
+17933660,UMass Minutemen vs. Miami Redhawks,2026-10-10T18:00:00Z,total,Total (prolongations incluses),225,70803,1764234743,48.5,4600450006,Plus de 51.5,51.5,2.4,0,False
+17933660,UMass Minutemen vs. Miami Redhawks,2026-10-10T18:00:00Z,total,Total (prolongations incluses),225,70803,1764234743,48.5,4600450007,Moins de 37.5,37.5,3.7,0,False
+17933660,UMass Minutemen vs. Miami Redhawks,2026-10-10T18:00:00Z,total,Total (prolongations incluses),225,70803,1764234743,48.5,4600450008,Plus de 37.5,37.5,1.25,0,False
+17933660,UMass Minutemen vs. Miami Redhawks,2026-10-10T18:00:00Z,total,Total (prolongations incluses),225,70803,1764234743,48.5,4600450009,Plus de 38.5,38.5,1.2858,0,False
+17933660,UMass Minutemen vs. Miami Redhawks,2026-10-10T18:00:00Z,total,Total (prolongations incluses),225,70803,1764234743,48.5,4600450010,Moins de 38.5,38.5,3.4,0,False
+17933660,UMass Minutemen vs. Miami Redhawks,2026-10-10T18:00:00Z,total,Total (prolongations incluses),225,70803,1764234743,48.5,4600450011,Moins de 39.5,39.5,3.25,0,False
+17933660,UMass Minutemen vs. Miami Redhawks,2026-10-10T18:00:00Z,total,Total (prolongations incluses),225,70803,1764234743,48.5,4600450012,Plus de 39.5,39.5,1.3031,0,False
+17933660,UMass Minutemen vs. Miami Redhawks,2026-10-10T18:00:00Z,total,Total (prolongations incluses),225,70803,1764234743,48.5,4600450013,Moins de 50.5,50.5,1.625,0,False
+17933660,UMass Minutemen vs. Miami Redhawks,2026-10-10T18:00:00Z,total,Total (prolongations incluses),225,70803,1764234743,48.5,4600450014,Plus de 50.5,50.5,2.2,0,False
+17933660,UMass Minutemen vs. Miami Redhawks,2026-10-10T18:00:00Z,total,Total (prolongations incluses),225,70803,1764234743,48.5,4600450015,Plus de 54.5,54.5,2.85,0,False
+17933660,UMass Minutemen vs. Miami Redhawks,2026-10-10T18:00:00Z,total,Total (prolongations incluses),225,70803,1764234743,48.5,4600450016,Moins de 54.5,54.5,1.3847,0,False
+17933660,UMass Minutemen vs. Miami Redhawks,2026-10-10T18:00:00Z,total,Total (prolongations incluses),225,70803,1764234743,48.5,4596459517,Plus de 49.5,49.5,2.1,0,False
+17933660,UMass Minutemen vs. Miami Redhawks,2026-10-10T18:00:00Z,total,Total (prolongations incluses),225,70803,1764234743,48.5,4596459518,Moins de 49.5,49.5,1.6667,0,False
 17932502,Akron Zips vs. MICHIGAN EST,2026-10-10T19:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1762812411,,4596235637,MICHIGAN EST,,1.3449,0,False
 17932502,Akron Zips vs. MICHIGAN EST,2026-10-10T19:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1762812411,,4596235638,Akron Zips,,2.9,0,False
 17932502,Akron Zips vs. MICHIGAN EST,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,1763241652,+6.5,4600450177,MICHIGAN EST (-12.5),+12.5,2.7,0,False
@@ -1810,8 +1810,8 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17933648,MICHIGAN vs. Kent St Golden Flashes,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,1763265637,-13.5,4600450536,MICHIGAN (-20.5),-20.5,2.75,0,False
 17933648,MICHIGAN vs. Kent St Golden Flashes,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,1763265637,-13.5,4600450537,MICHIGAN (-21.5),-21.5,3.1,0,False
 17933648,MICHIGAN vs. Kent St Golden Flashes,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,1763265637,-13.5,4600450538,Kent St Golden Flashes (+21.5),-21.5,1.3334,0,False
-17933648,MICHIGAN vs. Kent St Golden Flashes,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,1763265637,-13.5,4600450541,Kent St Golden Flashes (+11.5),-11.5,2.1,0,False
-17933648,MICHIGAN vs. Kent St Golden Flashes,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,1763265637,-13.5,4600450542,MICHIGAN (-11.5),-11.5,1.6667,0,False
+17933648,MICHIGAN vs. Kent St Golden Flashes,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,1763265637,-13.5,4600450541,Kent St Golden Flashes (+11.5),-11.5,2.05,0,False
+17933648,MICHIGAN vs. Kent St Golden Flashes,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,1763265637,-13.5,4600450542,MICHIGAN (-11.5),-11.5,1.6897,0,False
 17933648,MICHIGAN vs. Kent St Golden Flashes,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,1763265637,-13.5,4600450545,MICHIGAN (-5.5),-5.5,1.3334,0,False
 17933648,MICHIGAN vs. Kent St Golden Flashes,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,1763265637,-13.5,4600450546,Kent St Golden Flashes (+5.5),-5.5,3.1,0,False
 17933648,MICHIGAN vs. Kent St Golden Flashes,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,1763265637,-13.5,4600450547,MICHIGAN (-6.5),-6.5,1.3847,0,False
@@ -2003,12 +2003,12 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17933342,North Texas vs. Charlotte 49ers,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,1762847589,62.5,4600497789,Moins de 56.5,56.5,1.9524,0,False
 17724272,Notre Dame Fighting Irish vs. Stanford Cardinal,2026-10-10T19:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1762493013,,4595462193,Notre Dame Fighting Irish,,1.0,7,False
 17724272,Notre Dame Fighting Irish vs. Stanford Cardinal,2026-10-10T19:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1762493013,,4595462194,Stanford Cardinal,,11.0,0,False
-17724272,Notre Dame Fighting Irish vs. Stanford Cardinal,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,1764257422,-38.5,4600500618,Stanford Cardinal (+32.5),-32.5,2.75,0,False
-17724272,Notre Dame Fighting Irish vs. Stanford Cardinal,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,1764257422,-38.5,4600500619,Notre Dame Fighting Irish (-32.5),-32.5,1.4,0,False
+17724272,Notre Dame Fighting Irish vs. Stanford Cardinal,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,1764257422,-38.5,4600500618,Stanford Cardinal (+32.5),-32.5,2.7,0,False
+17724272,Notre Dame Fighting Irish vs. Stanford Cardinal,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,1764257422,-38.5,4600500619,Notre Dame Fighting Irish (-32.5),-32.5,1.4167,0,False
 17724272,Notre Dame Fighting Irish vs. Stanford Cardinal,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,1764257422,-38.5,4600500623,Notre Dame Fighting Irish (-39.5),-39.5,1.8696,0,False
 17724272,Notre Dame Fighting Irish vs. Stanford Cardinal,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,1764257422,-38.5,4600500624,Stanford Cardinal (+39.5),-39.5,1.8,0,False
 17724272,Notre Dame Fighting Irish vs. Stanford Cardinal,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,1764257422,-38.5,4600500626,Notre Dame Fighting Irish (-30.5),-30.5,1.3031,0,False
-17724272,Notre Dame Fighting Irish vs. Stanford Cardinal,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,1764257422,-38.5,4596921850,Stanford Cardinal (+37.5),-37.5,2.05,0,False
+17724272,Notre Dame Fighting Irish vs. Stanford Cardinal,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,1764257422,-38.5,4596921850,Stanford Cardinal (+37.5),-37.5,2.1,0,False
 17724272,Notre Dame Fighting Irish vs. Stanford Cardinal,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,1764257422,-38.5,4600500628,Stanford Cardinal (+30.5),-30.5,3.25,0,False
 17724272,Notre Dame Fighting Irish vs. Stanford Cardinal,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,1764257422,-38.5,4595846565,Notre Dame Fighting Irish (-36.5),-36.5,1.6451,0,False
 17724272,Notre Dame Fighting Irish vs. Stanford Cardinal,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,1764257422,-38.5,4595846566,Stanford Cardinal (+36.5),-36.5,2.15,0,False
@@ -2026,29 +2026,29 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17724272,Notre Dame Fighting Irish vs. Stanford Cardinal,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,1764257422,-38.5,4600500587,Notre Dame Fighting Irish (-43.5),-43.5,2.35,0,False
 17724272,Notre Dame Fighting Irish vs. Stanford Cardinal,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,1764257422,-38.5,4600500588,Notre Dame Fighting Irish (-41.5),-41.5,2.1,0,False
 17724272,Notre Dame Fighting Irish vs. Stanford Cardinal,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,1764257422,-38.5,4600500589,Stanford Cardinal (+41.5),-41.5,1.6667,0,False
-17724272,Notre Dame Fighting Irish vs. Stanford Cardinal,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,1764257422,-38.5,4600500592,Stanford Cardinal (+40.5),-40.5,1.7693,0,False
-17724272,Notre Dame Fighting Irish vs. Stanford Cardinal,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,1764257422,-38.5,4600500593,Notre Dame Fighting Irish (-40.5),-40.5,1.9091,0,False
-17724272,Notre Dame Fighting Irish vs. Stanford Cardinal,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,1764257422,-38.5,4600500594,Notre Dame Fighting Irish (-31.5),-31.5,1.3637,0,False
-17724272,Notre Dame Fighting Irish vs. Stanford Cardinal,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,1764257422,-38.5,4600500595,Stanford Cardinal (+31.5),-31.5,2.9,0,False
+17724272,Notre Dame Fighting Irish vs. Stanford Cardinal,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,1764257422,-38.5,4600500592,Stanford Cardinal (+40.5),-40.5,1.7408,0,False
+17724272,Notre Dame Fighting Irish vs. Stanford Cardinal,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,1764257422,-38.5,4600500593,Notre Dame Fighting Irish (-40.5),-40.5,1.9524,0,False
+17724272,Notre Dame Fighting Irish vs. Stanford Cardinal,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,1764257422,-38.5,4600500594,Notre Dame Fighting Irish (-31.5),-31.5,1.3847,0,False
+17724272,Notre Dame Fighting Irish vs. Stanford Cardinal,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,1764257422,-38.5,4600500595,Stanford Cardinal (+31.5),-31.5,2.85,0,False
 17724272,Notre Dame Fighting Irish vs. Stanford Cardinal,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,1764257422,-38.5,4600500596,Stanford Cardinal (+42.5),-42.5,1.5715,0,False
 17724272,Notre Dame Fighting Irish vs. Stanford Cardinal,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,1764257422,-38.5,4600500597,Notre Dame Fighting Irish (-42.5),-42.5,2.25,0,False
-17724272,Notre Dame Fighting Irish vs. Stanford Cardinal,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,1764257422,-38.5,4600500598,Stanford Cardinal (+45.5),-45.5,1.4348,0,False
-17724272,Notre Dame Fighting Irish vs. Stanford Cardinal,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,1764257422,-38.5,4600500599,Notre Dame Fighting Irish (-45.5),-45.5,2.65,0,False
-17724272,Notre Dame Fighting Irish vs. Stanford Cardinal,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,1764257422,-38.5,4596921849,Notre Dame Fighting Irish (-37.5),-37.5,1.6897,0,False
+17724272,Notre Dame Fighting Irish vs. Stanford Cardinal,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,1764257422,-38.5,4600500598,Stanford Cardinal (+45.5),-45.5,1.4167,0,False
+17724272,Notre Dame Fighting Irish vs. Stanford Cardinal,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,1764257422,-38.5,4600500599,Notre Dame Fighting Irish (-45.5),-45.5,2.7,0,False
+17724272,Notre Dame Fighting Irish vs. Stanford Cardinal,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,1764257422,-38.5,4596921849,Notre Dame Fighting Irish (-37.5),-37.5,1.6667,0,False
 17724272,Notre Dame Fighting Irish vs. Stanford Cardinal,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,1764257422,-38.5,4600500602,Notre Dame Fighting Irish (-46.5),-46.5,2.85,0,False
 17724272,Notre Dame Fighting Irish vs. Stanford Cardinal,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,1764257422,-38.5,4600500603,Stanford Cardinal (+46.5),-46.5,1.3847,0,False
 17724272,Notre Dame Fighting Irish vs. Stanford Cardinal,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,1762506998,55.5,4600500737,Plus de 46.5,46.5,1.3125,0,False
-17724272,Notre Dame Fighting Irish vs. Stanford Cardinal,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,1762506998,55.5,4600500738,Moins de 47.5,47.5,3.0,0,False
-17724272,Notre Dame Fighting Irish vs. Stanford Cardinal,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,1762506998,55.5,4600500740,Plus de 47.5,47.5,1.3572,0,False
+17724272,Notre Dame Fighting Irish vs. Stanford Cardinal,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,1762506998,55.5,4600500738,Moins de 47.5,47.5,2.9,0,False
+17724272,Notre Dame Fighting Irish vs. Stanford Cardinal,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,1762506998,55.5,4600500740,Plus de 47.5,47.5,1.3637,0,False
 17724272,Notre Dame Fighting Irish vs. Stanford Cardinal,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,1762506998,55.5,4597289629,Plus de 53.5,53.5,1.7408,0,True
 17724272,Notre Dame Fighting Irish vs. Stanford Cardinal,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,1762506998,55.5,4597289630,Moins de 53.5,53.5,1.9524,0,True
 17724272,Notre Dame Fighting Irish vs. Stanford Cardinal,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,1762506998,55.5,4600500647,Plus de 61.5,61.5,2.85,0,False
 17724272,Notre Dame Fighting Irish vs. Stanford Cardinal,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,1762506998,55.5,4600500649,Moins de 61.5,61.5,1.3847,0,False
 17724272,Notre Dame Fighting Irish vs. Stanford Cardinal,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,1762506998,55.5,4600500651,Plus de 60.5,60.5,2.7,0,False
 17724272,Notre Dame Fighting Irish vs. Stanford Cardinal,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,1762506998,55.5,4600500653,Moins de 60.5,60.5,1.4167,0,False
-17724272,Notre Dame Fighting Irish vs. Stanford Cardinal,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,1762506998,55.5,4595508530,Plus de 55.5,55.5,2.0,0,False
+17724272,Notre Dame Fighting Irish vs. Stanford Cardinal,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,1762506998,55.5,4595508530,Plus de 55.5,55.5,2.05,0,False
 17724272,Notre Dame Fighting Irish vs. Stanford Cardinal,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,1762506998,55.5,4600500658,Plus de 62.5,62.5,3.2,0,False
-17724272,Notre Dame Fighting Irish vs. Stanford Cardinal,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,1762506998,55.5,4595508531,Moins de 55.5,55.5,1.7143,0,False
+17724272,Notre Dame Fighting Irish vs. Stanford Cardinal,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,1762506998,55.5,4595508531,Moins de 55.5,55.5,1.6897,0,False
 17724272,Notre Dame Fighting Irish vs. Stanford Cardinal,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,1762506998,55.5,4600500660,Moins de 62.5,62.5,1.3125,0,False
 17724272,Notre Dame Fighting Irish vs. Stanford Cardinal,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,1762506998,55.5,4600500691,Plus de 51.5,51.5,1.625,0,False
 17724272,Notre Dame Fighting Irish vs. Stanford Cardinal,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,1762506998,55.5,4600500692,Moins de 51.5,51.5,2.2,0,False
@@ -2060,8 +2060,8 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17724272,Notre Dame Fighting Irish vs. Stanford Cardinal,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,1762506998,55.5,4600500710,Moins de 57.5,57.5,1.625,0,False
 17724272,Notre Dame Fighting Irish vs. Stanford Cardinal,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,1762506998,55.5,4600500711,Moins de 56.5,56.5,1.6451,0,False
 17724272,Notre Dame Fighting Irish vs. Stanford Cardinal,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,1762506998,55.5,4600500713,Plus de 56.5,56.5,2.15,0,False
-17724272,Notre Dame Fighting Irish vs. Stanford Cardinal,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,1762506998,55.5,4600500715,Moins de 59.5,59.5,1.4348,0,False
-17724272,Notre Dame Fighting Irish vs. Stanford Cardinal,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,1762506998,55.5,4600500717,Plus de 59.5,59.5,2.65,0,False
+17724272,Notre Dame Fighting Irish vs. Stanford Cardinal,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,1762506998,55.5,4600500715,Moins de 59.5,59.5,1.4546,0,False
+17724272,Notre Dame Fighting Irish vs. Stanford Cardinal,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,1762506998,55.5,4600500717,Plus de 59.5,59.5,2.6,0,False
 17724272,Notre Dame Fighting Irish vs. Stanford Cardinal,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,1762506998,55.5,4600500719,Moins de 58.5,58.5,1.5264,0,False
 17724272,Notre Dame Fighting Irish vs. Stanford Cardinal,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,1762506998,55.5,4600500721,Plus de 58.5,58.5,2.4,0,False
 17724272,Notre Dame Fighting Irish vs. Stanford Cardinal,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,1762506998,55.5,4600500723,Moins de 49.5,49.5,2.5,0,False
@@ -2737,40 +2737,40 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,1764236327,-15.5,4600454350,Oregon State Beavers (-20.5),-20.5,2.35,0,False
 17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,1764236327,-15.5,4598020347,Oregon State Beavers (-14.5),-14.5,1.7408,0,False
 17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,1764236327,-15.5,4598020348,San Diego State Aztecs (+14.5),-14.5,1.9524,0,False
-17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,1763261074,55.5,4597580163,Moins de 56.5,56.5,1.5715,0,False
-17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,1763261074,55.5,4597580164,Plus de 56.5,56.5,2.25,0,False
-17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,1763261074,55.5,4604619202,Plus de 44.5,44.5,1.2858,0,False
-17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,1763261074,55.5,4596537795,Plus de 57.5,57.5,2.35,0,False
-17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,1763261074,55.5,4604619203,Moins de 44.5,44.5,3.4,0,False
-17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,1763261074,55.5,4596537794,Moins de 57.5,57.5,1.5455,0,False
-17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,1763261074,55.5,4600454351,Moins de 47.5,47.5,2.7,0,False
-17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,1763261074,55.5,4600454352,Plus de 47.5,47.5,1.4167,0,False
-17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,1763261074,55.5,4600454353,Moins de 60.5,60.5,1.3637,0,False
-17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,1763261074,55.5,4600454354,Plus de 60.5,60.5,2.9,0,False
-17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,1763261074,55.5,4600454355,Moins de 50.5,50.5,2.2,0,False
-17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,1763261074,55.5,4600454356,Plus de 50.5,50.5,1.625,0,False
-17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,1763261074,55.5,4600454357,Moins de 49.5,49.5,2.3,0,False
-17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,1763261074,55.5,4600454358,Plus de 49.5,49.5,1.5556,0,False
-17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,1763261074,55.5,4600454359,Moins de 59.5,59.5,1.4,0,False
-17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,1763261074,55.5,4601346392,Moins de 45.5,45.5,3.1,0,False
-17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,1763261074,55.5,4600454360,Plus de 59.5,59.5,2.75,0,False
-17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,1763261074,55.5,4601346393,Plus de 45.5,45.5,1.3334,0,False
-17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,1763261074,55.5,4600454365,Moins de 52.5,52.5,1.8696,0,True
-17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,1763261074,55.5,4600454366,Plus de 52.5,52.5,1.8,0,True
-17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,1763261074,55.5,4600454367,Plus de 46.5,46.5,1.3637,0,False
-17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,1763261074,55.5,4600454368,Moins de 46.5,46.5,2.9,0,False
-17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,1763261074,55.5,4600454369,Plus de 48.5,48.5,1.5,0,False
-17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,1763261074,55.5,4600454370,Moins de 48.5,48.5,2.5,0,False
-17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,1763261074,55.5,4600454377,Plus de 54.5,54.5,1.9524,0,False
-17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,1763261074,55.5,4600454378,Moins de 54.5,54.5,1.7408,0,False
-17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,1763261074,55.5,4597285227,Plus de 55.5,55.5,2.15,0,False
-17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,1763261074,55.5,4600454379,Plus de 58.5,58.5,2.55,0,False
-17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,1763261074,55.5,4600454381,Plus de 51.5,51.5,1.6897,0,False
-17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,1763261074,55.5,4600454382,Moins de 51.5,51.5,2.05,0,False
-17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,1763261074,55.5,4600454383,Plus de 61.5,61.5,3.1,0,False
-17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,1763261074,55.5,4597285226,Moins de 55.5,55.5,1.6451,0,False
-17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,1763261074,55.5,4600454380,Moins de 58.5,58.5,1.4762,0,False
-17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,1763261074,55.5,4600454384,Moins de 61.5,61.5,1.3334,0,False
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,1762942854,57.5,4597580163,Moins de 56.5,56.5,1.5715,0,False
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,1762942854,57.5,4597580164,Plus de 56.5,56.5,2.25,0,False
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,1762942854,57.5,4604619202,Plus de 44.5,44.5,1.2858,0,False
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,1762942854,57.5,4596537795,Plus de 57.5,57.5,2.35,0,False
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,1762942854,57.5,4604619203,Moins de 44.5,44.5,3.4,0,False
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,1762942854,57.5,4596537794,Moins de 57.5,57.5,1.5455,0,False
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,1762942854,57.5,4600454351,Moins de 47.5,47.5,2.7,0,False
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,1762942854,57.5,4600454352,Plus de 47.5,47.5,1.4167,0,False
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,1762942854,57.5,4600454353,Moins de 60.5,60.5,1.3637,0,False
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,1762942854,57.5,4600454354,Plus de 60.5,60.5,2.9,0,False
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,1762942854,57.5,4600454355,Moins de 50.5,50.5,2.2,0,False
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,1762942854,57.5,4600454356,Plus de 50.5,50.5,1.625,0,False
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,1762942854,57.5,4600454357,Moins de 49.5,49.5,2.3,0,False
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,1762942854,57.5,4600454358,Plus de 49.5,49.5,1.5556,0,False
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,1762942854,57.5,4600454359,Moins de 59.5,59.5,1.4,0,False
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,1762942854,57.5,4601346392,Moins de 45.5,45.5,3.1,0,False
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,1762942854,57.5,4600454360,Plus de 59.5,59.5,2.75,0,False
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,1762942854,57.5,4601346393,Plus de 45.5,45.5,1.3334,0,False
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,1762942854,57.5,4600454365,Moins de 52.5,52.5,1.8696,0,True
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,1762942854,57.5,4600454366,Plus de 52.5,52.5,1.8,0,True
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,1762942854,57.5,4600454367,Plus de 46.5,46.5,1.3637,0,False
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,1762942854,57.5,4600454368,Moins de 46.5,46.5,2.9,0,False
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,1762942854,57.5,4600454369,Plus de 48.5,48.5,1.5,0,False
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,1762942854,57.5,4600454370,Moins de 48.5,48.5,2.5,0,False
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,1762942854,57.5,4600454377,Plus de 54.5,54.5,1.9524,0,False
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,1762942854,57.5,4600454378,Moins de 54.5,54.5,1.7408,0,False
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,1762942854,57.5,4597285227,Plus de 55.5,55.5,2.15,0,False
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,1762942854,57.5,4600454379,Plus de 58.5,58.5,2.55,0,False
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,1762942854,57.5,4600454381,Plus de 51.5,51.5,1.6897,0,False
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,1762942854,57.5,4600454382,Moins de 51.5,51.5,2.05,0,False
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,1762942854,57.5,4600454383,Plus de 61.5,61.5,3.1,0,False
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,1762942854,57.5,4597285226,Moins de 55.5,55.5,1.6451,0,False
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,1762942854,57.5,4600454380,Moins de 58.5,58.5,1.4762,0,False
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,1762942854,57.5,4600454384,Moins de 61.5,61.5,1.3334,0,False
 17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1758963732,,4584676780,LSU Tigers,,1.25,0,False
 17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1758963732,,4584676781,Kentucky Wildcats,,3.4,0,False
 17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,1764255419,+8.5,4600496518,Kentucky Wildcats (+14.5),+14.5,1.4348,0,False
@@ -2921,14 +2921,14 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17932498,Memphis Tigers vs. UAB Blazers,2026-10-10T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762820138,-15.5,4600498333,Memphis Tigers (-17.5),-17.5,2.25,0,False
 17932498,Memphis Tigers vs. UAB Blazers,2026-10-10T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762820138,-15.5,4600498336,UAB Blazers (+18.5),-18.5,1.5264,0,False
 17932498,Memphis Tigers vs. UAB Blazers,2026-10-10T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762820138,-15.5,4600498337,Memphis Tigers (-18.5),-18.5,2.4,0,False
-17932498,Memphis Tigers vs. UAB Blazers,2026-10-10T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762820138,-15.5,4600498340,Memphis Tigers (-21.5),-21.5,3.1,0,False
-17932498,Memphis Tigers vs. UAB Blazers,2026-10-10T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762820138,-15.5,4600498341,UAB Blazers (+21.5),-21.5,1.3334,0,False
+17932498,Memphis Tigers vs. UAB Blazers,2026-10-10T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762820138,-15.5,4600498340,Memphis Tigers (-21.5),-21.5,3.0,0,False
+17932498,Memphis Tigers vs. UAB Blazers,2026-10-10T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762820138,-15.5,4600498341,UAB Blazers (+21.5),-21.5,1.3572,0,False
 17932498,Memphis Tigers vs. UAB Blazers,2026-10-10T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762820138,-15.5,4600498342,UAB Blazers (+11.5),-11.5,2.1,0,False
 17932498,Memphis Tigers vs. UAB Blazers,2026-10-10T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762820138,-15.5,4600498343,Memphis Tigers (-11.5),-11.5,1.6667,0,False
 17932498,Memphis Tigers vs. UAB Blazers,2026-10-10T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762820138,-15.5,4597284139,UAB Blazers (+14.5),-14.5,1.7693,0,True
 17932498,Memphis Tigers vs. UAB Blazers,2026-10-10T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762820138,-15.5,4597284140,Memphis Tigers (-14.5),-14.5,1.9091,0,True
-17932498,Memphis Tigers vs. UAB Blazers,2026-10-10T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762820138,-15.5,4600498352,UAB Blazers (+6.5),-6.5,3.1,0,False
-17932498,Memphis Tigers vs. UAB Blazers,2026-10-10T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762820138,-15.5,4600498353,Memphis Tigers (-6.5),-6.5,1.3334,0,False
+17932498,Memphis Tigers vs. UAB Blazers,2026-10-10T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762820138,-15.5,4600498352,UAB Blazers (+6.5),-6.5,3.0,0,False
+17932498,Memphis Tigers vs. UAB Blazers,2026-10-10T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762820138,-15.5,4600498353,Memphis Tigers (-6.5),-6.5,1.3572,0,False
 17932498,Memphis Tigers vs. UAB Blazers,2026-10-10T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762820138,-15.5,4600498356,Memphis Tigers (-9.5),-9.5,1.5264,0,False
 17932498,Memphis Tigers vs. UAB Blazers,2026-10-10T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762820138,-15.5,4600498357,UAB Blazers (+9.5),-9.5,2.4,0,False
 17932498,Memphis Tigers vs. UAB Blazers,2026-10-10T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762820138,-15.5,4600498358,Memphis Tigers (-8.5),-8.5,1.5,0,False
@@ -2953,20 +2953,20 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17932498,Memphis Tigers vs. UAB Blazers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,1764256339,53.5,4600498437,Plus de 56.5,56.5,2.25,0,False
 17932498,Memphis Tigers vs. UAB Blazers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,1764256339,53.5,4600498438,Moins de 50.5,50.5,2.25,0,False
 17932498,Memphis Tigers vs. UAB Blazers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,1764256339,53.5,4600498439,Plus de 50.5,50.5,1.5715,0,False
-17932498,Memphis Tigers vs. UAB Blazers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,1764256339,53.5,4600498440,Moins de 52.5,52.5,1.9091,0,False
-17932498,Memphis Tigers vs. UAB Blazers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,1764256339,53.5,4600498441,Plus de 52.5,52.5,1.7693,0,False
-17932498,Memphis Tigers vs. UAB Blazers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,1764256339,53.5,4596229905,Moins de 59.5,59.5,1.4,0,False
-17932498,Memphis Tigers vs. UAB Blazers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,1764256339,53.5,4596229906,Plus de 59.5,59.5,2.75,0,False
-17932498,Memphis Tigers vs. UAB Blazers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,1764256339,53.5,4597580180,Plus de 57.5,57.5,2.35,0,False
-17932498,Memphis Tigers vs. UAB Blazers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,1764256339,53.5,4597580181,Moins de 57.5,57.5,1.5455,0,False
-17932498,Memphis Tigers vs. UAB Blazers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,1764256339,53.5,4596315714,Moins de 58.5,58.5,1.4762,0,False
-17932498,Memphis Tigers vs. UAB Blazers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,1764256339,53.5,4596315715,Plus de 58.5,58.5,2.55,0,False
+17932498,Memphis Tigers vs. UAB Blazers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,1764256339,53.5,4600498440,Moins de 52.5,52.5,1.8696,0,False
+17932498,Memphis Tigers vs. UAB Blazers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,1764256339,53.5,4600498441,Plus de 52.5,52.5,1.8,0,False
+17932498,Memphis Tigers vs. UAB Blazers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,1764256339,53.5,4596229905,Moins de 59.5,59.5,1.3847,0,False
+17932498,Memphis Tigers vs. UAB Blazers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,1764256339,53.5,4596229906,Plus de 59.5,59.5,2.85,0,False
+17932498,Memphis Tigers vs. UAB Blazers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,1764256339,53.5,4597580180,Plus de 57.5,57.5,2.4,0,False
+17932498,Memphis Tigers vs. UAB Blazers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,1764256339,53.5,4597580181,Moins de 57.5,57.5,1.5264,0,False
+17932498,Memphis Tigers vs. UAB Blazers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,1764256339,53.5,4596315714,Moins de 58.5,58.5,1.4546,0,False
+17932498,Memphis Tigers vs. UAB Blazers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,1764256339,53.5,4596315715,Plus de 58.5,58.5,2.6,0,False
 17932498,Memphis Tigers vs. UAB Blazers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,1764256339,53.5,4600498386,Plus de 47.5,47.5,1.4167,0,False
 17932498,Memphis Tigers vs. UAB Blazers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,1764256339,53.5,4600498387,Moins de 47.5,47.5,2.7,0,False
 17932498,Memphis Tigers vs. UAB Blazers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,1764256339,53.5,4600498396,Moins de 51.5,51.5,2.05,0,False
 17932498,Memphis Tigers vs. UAB Blazers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,1764256339,53.5,4600498397,Plus de 51.5,51.5,1.6897,0,False
-17932498,Memphis Tigers vs. UAB Blazers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,1764256339,53.5,4600498398,Moins de 61.5,61.5,1.3334,0,False
-17932498,Memphis Tigers vs. UAB Blazers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,1764256339,53.5,4600498399,Plus de 61.5,61.5,3.1,0,False
+17932498,Memphis Tigers vs. UAB Blazers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,1764256339,53.5,4600498398,Moins de 61.5,61.5,1.3125,0,False
+17932498,Memphis Tigers vs. UAB Blazers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,1764256339,53.5,4600498399,Plus de 61.5,61.5,3.2,0,False
 17932498,Memphis Tigers vs. UAB Blazers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,1764256339,53.5,4600498400,Moins de 45.5,45.5,3.1,0,False
 17932498,Memphis Tigers vs. UAB Blazers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,1764256339,53.5,4600498401,Plus de 45.5,45.5,1.3334,0,False
 17932498,Memphis Tigers vs. UAB Blazers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,1764256339,53.5,4600498404,Moins de 55.5,55.5,1.6451,0,False
@@ -2975,8 +2975,8 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17932498,Memphis Tigers vs. UAB Blazers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,1764256339,53.5,4600498407,Plus de 49.5,49.5,1.5455,0,False
 17932498,Memphis Tigers vs. UAB Blazers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,1764256339,53.5,4600498410,Plus de 53.5,53.5,1.8334,0,True
 17932498,Memphis Tigers vs. UAB Blazers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,1764256339,53.5,4600498411,Moins de 53.5,53.5,1.8334,0,True
-17932498,Memphis Tigers vs. UAB Blazers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,1764256339,53.5,4600498418,Moins de 48.5,48.5,2.5,0,False
-17932498,Memphis Tigers vs. UAB Blazers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,1764256339,53.5,4600498419,Plus de 48.5,48.5,1.5,0,False
+17932498,Memphis Tigers vs. UAB Blazers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,1764256339,53.5,4600498418,Moins de 48.5,48.5,2.55,0,False
+17932498,Memphis Tigers vs. UAB Blazers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,1764256339,53.5,4600498419,Plus de 48.5,48.5,1.4762,0,False
 17932498,Memphis Tigers vs. UAB Blazers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,1764256339,53.5,4600498420,Moins de 54.5,54.5,1.7408,0,False
 17932498,Memphis Tigers vs. UAB Blazers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,1764256339,53.5,4600498421,Plus de 54.5,54.5,1.9524,0,False
 17932498,Memphis Tigers vs. UAB Blazers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,1764256339,53.5,4600498428,Moins de 46.5,46.5,3.0,0,False
@@ -3087,40 +3087,40 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17933662,UTEP Miners vs. Nevada Wolf Pack,2026-10-10T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762940014,+9.5,4600496380,UTEP Miners (+2.5),+2.5,3.25,0,False
 17933662,UTEP Miners vs. Nevada Wolf Pack,2026-10-10T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762940014,+9.5,4600496381,Nevada Wolf Pack (-16.5),+16.5,2.7,0,False
 17933662,UTEP Miners vs. Nevada Wolf Pack,2026-10-10T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762940014,+9.5,4600496382,UTEP Miners (+16.5),+16.5,1.4167,0,False
-17933662,UTEP Miners vs. Nevada Wolf Pack,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,1762940015,52.5,4600496257,Moins de 44.5,44.5,2.5,0,False
-17933662,UTEP Miners vs. Nevada Wolf Pack,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,1762940015,52.5,4600496260,Moins de 42.5,42.5,2.9,0,False
-17933662,UTEP Miners vs. Nevada Wolf Pack,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,1762940015,52.5,4600496262,Plus de 42.5,42.5,1.3637,0,False
-17933662,UTEP Miners vs. Nevada Wolf Pack,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,1762940015,52.5,4600496270,Plus de 48.5,48.5,1.7693,0,False
-17933662,UTEP Miners vs. Nevada Wolf Pack,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,1762940015,52.5,4600496271,Moins de 48.5,48.5,1.9091,0,False
-17933662,UTEP Miners vs. Nevada Wolf Pack,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,1762940015,52.5,4600496199,Plus de 57.5,57.5,3.1,0,False
-17933662,UTEP Miners vs. Nevada Wolf Pack,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,1762940015,52.5,4600496201,Moins de 57.5,57.5,1.3334,0,False
-17933662,UTEP Miners vs. Nevada Wolf Pack,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,1762940015,52.5,4600496203,Plus de 47.5,47.5,1.6667,0,False
-17933662,UTEP Miners vs. Nevada Wolf Pack,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,1762940015,52.5,4600496205,Moins de 47.5,47.5,2.1,0,False
-17933662,UTEP Miners vs. Nevada Wolf Pack,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,1762940015,52.5,4600496211,Plus de 59.5,59.5,3.75,0,False
-17933662,UTEP Miners vs. Nevada Wolf Pack,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,1762940015,52.5,4596531540,Moins de 52.5,52.5,1.5715,0,False
-17933662,UTEP Miners vs. Nevada Wolf Pack,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,1762940015,52.5,4596531541,Plus de 52.5,52.5,2.25,0,False
-17933662,UTEP Miners vs. Nevada Wolf Pack,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,1762940015,52.5,4600496213,Moins de 59.5,59.5,1.2353,0,False
-17933662,UTEP Miners vs. Nevada Wolf Pack,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,1762940015,52.5,4600496217,Moins de 55.5,55.5,1.4,0,False
-17933662,UTEP Miners vs. Nevada Wolf Pack,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,1762940015,52.5,4600496219,Plus de 55.5,55.5,2.75,0,False
-17933662,UTEP Miners vs. Nevada Wolf Pack,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,1762940015,52.5,4600496221,Plus de 45.5,45.5,1.5556,0,False
-17933662,UTEP Miners vs. Nevada Wolf Pack,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,1762940015,52.5,4600496222,Moins de 45.5,45.5,2.3,0,False
-17933662,UTEP Miners vs. Nevada Wolf Pack,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,1762940015,52.5,4600496224,Plus de 58.5,58.5,3.4,0,False
-17933662,UTEP Miners vs. Nevada Wolf Pack,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,1762940015,52.5,4600496226,Moins de 58.5,58.5,1.2858,0,False
-17933662,UTEP Miners vs. Nevada Wolf Pack,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,1762940015,52.5,4600496229,Plus de 51.5,51.5,2.1,0,False
-17933662,UTEP Miners vs. Nevada Wolf Pack,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,1762940015,52.5,4600496230,Moins de 51.5,51.5,1.6667,0,False
-17933662,UTEP Miners vs. Nevada Wolf Pack,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,1762940015,52.5,4600496232,Plus de 50.5,50.5,1.9091,0,True
-17933662,UTEP Miners vs. Nevada Wolf Pack,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,1762940015,52.5,4600496234,Moins de 50.5,50.5,1.7693,0,True
-17933662,UTEP Miners vs. Nevada Wolf Pack,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,1762940015,52.5,4600496235,Plus de 53.5,53.5,2.35,0,False
-17933662,UTEP Miners vs. Nevada Wolf Pack,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,1762940015,52.5,4600496236,Moins de 53.5,53.5,1.5455,0,False
-17933662,UTEP Miners vs. Nevada Wolf Pack,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,1762940015,52.5,4600496238,Plus de 54.5,54.5,2.55,0,False
-17933662,UTEP Miners vs. Nevada Wolf Pack,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,1762940015,52.5,4600496240,Moins de 54.5,54.5,1.4762,0,False
-17933662,UTEP Miners vs. Nevada Wolf Pack,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,1762940015,52.5,4600496242,Plus de 56.5,56.5,3.0,0,False
-17933662,UTEP Miners vs. Nevada Wolf Pack,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,1762940015,52.5,4600496243,Moins de 56.5,56.5,1.3572,0,False
-17933662,UTEP Miners vs. Nevada Wolf Pack,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,1762940015,52.5,4600496245,Plus de 43.5,43.5,1.4167,0,False
-17933662,UTEP Miners vs. Nevada Wolf Pack,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,1762940015,52.5,4600496247,Moins de 43.5,43.5,2.7,0,False
-17933662,UTEP Miners vs. Nevada Wolf Pack,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,1762940015,52.5,4600496251,Plus de 46.5,46.5,1.5715,0,False
-17933662,UTEP Miners vs. Nevada Wolf Pack,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,1762940015,52.5,4600496253,Moins de 46.5,46.5,2.25,0,False
-17933662,UTEP Miners vs. Nevada Wolf Pack,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,1762940015,52.5,4600496255,Plus de 44.5,44.5,1.5,0,False
+17933662,UTEP Miners vs. Nevada Wolf Pack,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,1764255304,57.5,4600496257,Moins de 44.5,44.5,2.5,0,False
+17933662,UTEP Miners vs. Nevada Wolf Pack,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,1764255304,57.5,4600496260,Moins de 42.5,42.5,2.9,0,False
+17933662,UTEP Miners vs. Nevada Wolf Pack,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,1764255304,57.5,4600496262,Plus de 42.5,42.5,1.3637,0,False
+17933662,UTEP Miners vs. Nevada Wolf Pack,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,1764255304,57.5,4600496270,Plus de 48.5,48.5,1.7693,0,False
+17933662,UTEP Miners vs. Nevada Wolf Pack,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,1764255304,57.5,4600496271,Moins de 48.5,48.5,1.9091,0,False
+17933662,UTEP Miners vs. Nevada Wolf Pack,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,1764255304,57.5,4600496199,Plus de 57.5,57.5,3.1,0,False
+17933662,UTEP Miners vs. Nevada Wolf Pack,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,1764255304,57.5,4600496201,Moins de 57.5,57.5,1.3334,0,False
+17933662,UTEP Miners vs. Nevada Wolf Pack,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,1764255304,57.5,4600496203,Plus de 47.5,47.5,1.6667,0,False
+17933662,UTEP Miners vs. Nevada Wolf Pack,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,1764255304,57.5,4600496205,Moins de 47.5,47.5,2.1,0,False
+17933662,UTEP Miners vs. Nevada Wolf Pack,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,1764255304,57.5,4600496211,Plus de 59.5,59.5,3.75,0,False
+17933662,UTEP Miners vs. Nevada Wolf Pack,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,1764255304,57.5,4596531540,Moins de 52.5,52.5,1.5715,0,False
+17933662,UTEP Miners vs. Nevada Wolf Pack,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,1764255304,57.5,4596531541,Plus de 52.5,52.5,2.25,0,False
+17933662,UTEP Miners vs. Nevada Wolf Pack,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,1764255304,57.5,4600496213,Moins de 59.5,59.5,1.2353,0,False
+17933662,UTEP Miners vs. Nevada Wolf Pack,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,1764255304,57.5,4600496217,Moins de 55.5,55.5,1.4,0,False
+17933662,UTEP Miners vs. Nevada Wolf Pack,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,1764255304,57.5,4600496219,Plus de 55.5,55.5,2.75,0,False
+17933662,UTEP Miners vs. Nevada Wolf Pack,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,1764255304,57.5,4600496221,Plus de 45.5,45.5,1.5556,0,False
+17933662,UTEP Miners vs. Nevada Wolf Pack,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,1764255304,57.5,4600496222,Moins de 45.5,45.5,2.3,0,False
+17933662,UTEP Miners vs. Nevada Wolf Pack,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,1764255304,57.5,4600496224,Plus de 58.5,58.5,3.4,0,False
+17933662,UTEP Miners vs. Nevada Wolf Pack,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,1764255304,57.5,4600496226,Moins de 58.5,58.5,1.2858,0,False
+17933662,UTEP Miners vs. Nevada Wolf Pack,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,1764255304,57.5,4600496229,Plus de 51.5,51.5,2.1,0,False
+17933662,UTEP Miners vs. Nevada Wolf Pack,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,1764255304,57.5,4600496230,Moins de 51.5,51.5,1.6667,0,False
+17933662,UTEP Miners vs. Nevada Wolf Pack,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,1764255304,57.5,4600496232,Plus de 50.5,50.5,1.9091,0,True
+17933662,UTEP Miners vs. Nevada Wolf Pack,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,1764255304,57.5,4600496234,Moins de 50.5,50.5,1.7693,0,True
+17933662,UTEP Miners vs. Nevada Wolf Pack,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,1764255304,57.5,4600496235,Plus de 53.5,53.5,2.35,0,False
+17933662,UTEP Miners vs. Nevada Wolf Pack,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,1764255304,57.5,4600496236,Moins de 53.5,53.5,1.5455,0,False
+17933662,UTEP Miners vs. Nevada Wolf Pack,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,1764255304,57.5,4600496238,Plus de 54.5,54.5,2.55,0,False
+17933662,UTEP Miners vs. Nevada Wolf Pack,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,1764255304,57.5,4600496240,Moins de 54.5,54.5,1.4762,0,False
+17933662,UTEP Miners vs. Nevada Wolf Pack,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,1764255304,57.5,4600496242,Plus de 56.5,56.5,3.0,0,False
+17933662,UTEP Miners vs. Nevada Wolf Pack,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,1764255304,57.5,4600496243,Moins de 56.5,56.5,1.3572,0,False
+17933662,UTEP Miners vs. Nevada Wolf Pack,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,1764255304,57.5,4600496245,Plus de 43.5,43.5,1.4167,0,False
+17933662,UTEP Miners vs. Nevada Wolf Pack,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,1764255304,57.5,4600496247,Moins de 43.5,43.5,2.7,0,False
+17933662,UTEP Miners vs. Nevada Wolf Pack,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,1764255304,57.5,4600496251,Plus de 46.5,46.5,1.5715,0,False
+17933662,UTEP Miners vs. Nevada Wolf Pack,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,1764255304,57.5,4600496253,Moins de 46.5,46.5,2.25,0,False
+17933662,UTEP Miners vs. Nevada Wolf Pack,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,1764255304,57.5,4600496255,Plus de 44.5,44.5,1.5,0,False
 16722004,Alabama Crimson Tide vs. GEORGIE BULLDOGS,2026-10-10T23:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1599038918,,4082007322,Alabama Crimson Tide,,1.7693,0,False
 16722004,Alabama Crimson Tide vs. GEORGIE BULLDOGS,2026-10-10T23:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1599038918,,4082007323,GEORGIE BULLDOGS,,1.9091,0,False
 16722004,Alabama Crimson Tide vs. GEORGIE BULLDOGS,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1763259620,-1.5,4600496393,Alabama Crimson Tide (+6.5),+6.5,1.3847,0,False
@@ -3343,30 +3343,30 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17933667,Northern Illinois Huskies vs. Air Force Falcons,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1764256760,+7.5,4600499218,Air Force Falcons (-2.5),+2.5,1.3847,0,False
 17933667,Northern Illinois Huskies vs. Air Force Falcons,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1764256760,+7.5,4600499224,Northern Illinois Huskies (+3.5),+3.5,2.4,0,False
 17933667,Northern Illinois Huskies vs. Air Force Falcons,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1764256760,+7.5,4600499226,Air Force Falcons (-3.5),+3.5,1.5264,0,False
-17933667,Northern Illinois Huskies vs. Air Force Falcons,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1764256760,+7.5,4600499227,Northern Illinois Huskies (+8.5),+8.5,1.7143,0,False
-17933667,Northern Illinois Huskies vs. Air Force Falcons,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1764256760,+7.5,4600499231,Air Force Falcons (-8.5),+8.5,2.0,0,False
-17933667,Northern Illinois Huskies vs. Air Force Falcons,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1764256760,+7.5,4600499232,Northern Illinois Huskies (+9.5),+9.5,1.6897,0,False
-17933667,Northern Illinois Huskies vs. Air Force Falcons,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1764256760,+7.5,4600499234,Air Force Falcons (-9.5),+9.5,2.05,0,False
-17933667,Northern Illinois Huskies vs. Air Force Falcons,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1764256760,+7.5,4596548007,Air Force Falcons (-12.5),+12.5,2.5,0,False
-17933667,Northern Illinois Huskies vs. Air Force Falcons,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1764256760,+7.5,4596548008,Northern Illinois Huskies (+12.5),+12.5,1.5,0,False
-17933667,Northern Illinois Huskies vs. Air Force Falcons,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1764256760,+7.5,4600499245,Air Force Falcons (+1.5),-1.5,1.2667,0,False
-17933667,Northern Illinois Huskies vs. Air Force Falcons,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1764256760,+7.5,4600499248,Northern Illinois Huskies (-1.5),-1.5,3.5,0,False
-17933667,Northern Illinois Huskies vs. Air Force Falcons,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1764256760,+7.5,4600499262,Air Force Falcons (-16.5),+16.5,3.2,0,False
-17933667,Northern Illinois Huskies vs. Air Force Falcons,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1764256760,+7.5,4597280702,Northern Illinois Huskies (+11.5),+11.5,1.5264,0,False
-17933667,Northern Illinois Huskies vs. Air Force Falcons,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1764256760,+7.5,4600499263,Northern Illinois Huskies (+16.5),+16.5,1.3125,0,False
-17933667,Northern Illinois Huskies vs. Air Force Falcons,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1764256760,+7.5,4597280703,Air Force Falcons (-11.5),+11.5,2.4,0,False
-17933667,Northern Illinois Huskies vs. Air Force Falcons,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1764256760,+7.5,4597581395,Air Force Falcons (-10.5),+10.5,2.25,0,False
-17933667,Northern Illinois Huskies vs. Air Force Falcons,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1764256760,+7.5,4597581396,Northern Illinois Huskies (+10.5),+10.5,1.5715,0,False
-17933667,Northern Illinois Huskies vs. Air Force Falcons,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1764256760,+7.5,4600499292,Northern Illinois Huskies (+14.5),+14.5,1.3637,0,False
-17933667,Northern Illinois Huskies vs. Air Force Falcons,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1764256760,+7.5,4600499293,Air Force Falcons (-14.5),+14.5,2.9,0,False
-17933667,Northern Illinois Huskies vs. Air Force Falcons,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1764256760,+7.5,4600499296,Northern Illinois Huskies (+15.5),+15.5,1.3334,0,False
-17933667,Northern Illinois Huskies vs. Air Force Falcons,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1764256760,+7.5,4600499297,Air Force Falcons (-15.5),+15.5,3.1,0,False
-17933667,Northern Illinois Huskies vs. Air Force Falcons,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1764256760,+7.5,4600499300,Air Force Falcons (-13.5),+13.5,2.6,0,False
-17933667,Northern Illinois Huskies vs. Air Force Falcons,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1764256760,+7.5,4600499301,Northern Illinois Huskies (+13.5),+13.5,1.4546,0,False
+17933667,Northern Illinois Huskies vs. Air Force Falcons,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1764256760,+7.5,4600499227,Northern Illinois Huskies (+8.5),+8.5,1.6897,0,False
+17933667,Northern Illinois Huskies vs. Air Force Falcons,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1764256760,+7.5,4600499231,Air Force Falcons (-8.5),+8.5,2.05,0,False
+17933667,Northern Illinois Huskies vs. Air Force Falcons,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1764256760,+7.5,4600499232,Northern Illinois Huskies (+9.5),+9.5,1.6667,0,False
+17933667,Northern Illinois Huskies vs. Air Force Falcons,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1764256760,+7.5,4600499234,Air Force Falcons (-9.5),+9.5,2.1,0,False
+17933667,Northern Illinois Huskies vs. Air Force Falcons,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1764256760,+7.5,4596548007,Air Force Falcons (-12.5),+12.5,2.55,0,False
+17933667,Northern Illinois Huskies vs. Air Force Falcons,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1764256760,+7.5,4596548008,Northern Illinois Huskies (+12.5),+12.5,1.4762,0,False
+17933667,Northern Illinois Huskies vs. Air Force Falcons,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1764256760,+7.5,4600499245,Air Force Falcons (+1.5),-1.5,1.2858,0,False
+17933667,Northern Illinois Huskies vs. Air Force Falcons,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1764256760,+7.5,4600499248,Northern Illinois Huskies (-1.5),-1.5,3.4,0,False
+17933667,Northern Illinois Huskies vs. Air Force Falcons,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1764256760,+7.5,4600499262,Air Force Falcons (-16.5),+16.5,3.4,0,False
+17933667,Northern Illinois Huskies vs. Air Force Falcons,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1764256760,+7.5,4597280702,Northern Illinois Huskies (+11.5),+11.5,1.5,0,False
+17933667,Northern Illinois Huskies vs. Air Force Falcons,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1764256760,+7.5,4600499263,Northern Illinois Huskies (+16.5),+16.5,1.2858,0,False
+17933667,Northern Illinois Huskies vs. Air Force Falcons,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1764256760,+7.5,4597280703,Air Force Falcons (-11.5),+11.5,2.5,0,False
+17933667,Northern Illinois Huskies vs. Air Force Falcons,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1764256760,+7.5,4597581395,Air Force Falcons (-10.5),+10.5,2.3,0,False
+17933667,Northern Illinois Huskies vs. Air Force Falcons,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1764256760,+7.5,4597581396,Northern Illinois Huskies (+10.5),+10.5,1.5556,0,False
+17933667,Northern Illinois Huskies vs. Air Force Falcons,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1764256760,+7.5,4600499292,Northern Illinois Huskies (+14.5),+14.5,1.3334,0,False
+17933667,Northern Illinois Huskies vs. Air Force Falcons,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1764256760,+7.5,4600499293,Air Force Falcons (-14.5),+14.5,3.1,0,False
+17933667,Northern Illinois Huskies vs. Air Force Falcons,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1764256760,+7.5,4600499296,Northern Illinois Huskies (+15.5),+15.5,1.3125,0,False
+17933667,Northern Illinois Huskies vs. Air Force Falcons,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1764256760,+7.5,4600499297,Air Force Falcons (-15.5),+15.5,3.2,0,False
+17933667,Northern Illinois Huskies vs. Air Force Falcons,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1764256760,+7.5,4600499300,Air Force Falcons (-13.5),+13.5,2.65,0,False
+17933667,Northern Illinois Huskies vs. Air Force Falcons,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1764256760,+7.5,4600499301,Northern Illinois Huskies (+13.5),+13.5,1.4348,0,False
 17933667,Northern Illinois Huskies vs. Air Force Falcons,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1764256760,+7.5,4600499191,Northern Illinois Huskies (+4.5),+4.5,2.25,0,False
 17933667,Northern Illinois Huskies vs. Air Force Falcons,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1764256760,+7.5,4600499194,Air Force Falcons (-4.5),+4.5,1.5715,0,False
-17933667,Northern Illinois Huskies vs. Air Force Falcons,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1764256760,+7.5,4600499196,Northern Illinois Huskies (+5.5),+5.5,2.2,0,False
-17933667,Northern Illinois Huskies vs. Air Force Falcons,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1764256760,+7.5,4600499199,Air Force Falcons (-5.5),+5.5,1.625,0,False
+17933667,Northern Illinois Huskies vs. Air Force Falcons,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1764256760,+7.5,4600499196,Northern Illinois Huskies (+5.5),+5.5,2.15,0,False
+17933667,Northern Illinois Huskies vs. Air Force Falcons,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1764256760,+7.5,4600499199,Air Force Falcons (-5.5),+5.5,1.6451,0,False
 17933667,Northern Illinois Huskies vs. Air Force Falcons,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,1762947100,47.5,4600499328,Moins de 45.5,45.5,1.9091,0,False
 17933667,Northern Illinois Huskies vs. Air Force Falcons,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,1762947100,47.5,4600499329,Plus de 45.5,45.5,1.7693,0,False
 17933667,Northern Illinois Huskies vs. Air Force Falcons,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,1762947100,47.5,4600499332,Plus de 41.5,41.5,1.4762,0,False
@@ -3823,12 +3823,12 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,1762951785,48.5,4600454143,Plus de 42.5,42.5,1.4167,0,False
 17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1770021166,,4618341979,Jacksonville State Gamecocks,,1.6897,0,False
 17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1770021166,,4618341980,FIU Panthers,,2.0,0,False
-17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1770021294,-2.5,4618342247,Jacksonville State Gamecocks (-1.5),-1.5,1.7408,7,False
-17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1770021294,-2.5,4618342248,FIU Panthers (+1.5),-1.5,1.9524,7,False
-17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1770021294,-2.5,4618342249,Jacksonville State Gamecocks (-2.5),-2.5,1.8,7,True
-17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1770021294,-2.5,4618342250,FIU Panthers (+2.5),-2.5,1.8696,7,True
-17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1770021294,-2.5,4618342251,Jacksonville State Gamecocks (-3.5),-3.5,2.05,7,False
-17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1770021294,-2.5,4618342252,FIU Panthers (+3.5),-3.5,1.6897,7,False
+17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1770021295,-3.5,4618342247,Jacksonville State Gamecocks (-1.5),-1.5,1.7408,7,False
+17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1770021295,-3.5,4618342248,FIU Panthers (+1.5),-1.5,1.9524,7,False
+17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1770021295,-3.5,4618342249,Jacksonville State Gamecocks (-2.5),-2.5,1.8,7,True
+17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1770021295,-3.5,4618342250,FIU Panthers (+2.5),-2.5,1.8696,7,True
+17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1770021295,-3.5,4618342251,Jacksonville State Gamecocks (-3.5),-3.5,2.05,7,False
+17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1770021295,-3.5,4618342252,FIU Panthers (+3.5),-3.5,1.6897,7,False
 17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,total,Total (prolongations incluses),225,70803,1770021228,46.5,4618342297,Plus de 45.5,45.5,1.8,0,False
 17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,total,Total (prolongations incluses),225,70803,1770021228,46.5,4618342298,Moins de 45.5,45.5,1.8696,0,False
 17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,total,Total (prolongations incluses),225,70803,1770021228,46.5,4618342299,Plus de 47.5,47.5,1.9524,0,False

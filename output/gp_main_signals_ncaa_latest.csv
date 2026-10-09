@@ -1,7 +1,5 @@
 captured_at,event_id,match,start_date,market,selection,side,signal,old_line,new_line,old_price,new_price,old_status,new_status,old_is_main_bet,new_is_main_bet
-2026-10-09T14:20:51.677778+00:00,17955742,Marist Red Foxes vs. Columbia Lions,2026-10-09T23:00:00Z,spread,Marist Red Foxes (+1.5),Marist Red Foxes,MAIN_PRICE_MOVE,1.5,1.5,1.8334,1.9091,0,0.0,1,1.0
-2026-10-09T14:20:51.677778+00:00,17955742,Marist Red Foxes vs. Columbia Lions,2026-10-09T23:00:00Z,spread,Columbia Lions (-1.5),Columbia Lions,MAIN_PRICE_MOVE,-1.5,-1.5,1.8334,1.7693,0,0.0,1,1.0
-2026-10-09T14:20:51.677778+00:00,17714567,Washington Huskies vs. Iowa Hawkeyes,2026-10-10T01:00:00Z,spread,Iowa Hawkeyes (+1.5),Iowa Hawkeyes,MAIN_SWITCH,1.5,1.5,2.05,2.05,0,0.0,1,0.0
-2026-10-09T14:20:51.677778+00:00,17714567,Washington Huskies vs. Iowa Hawkeyes,2026-10-10T01:00:00Z,spread,Washington Huskies (-1.5),Washington Huskies,MAIN_SWITCH,-1.5,-1.5,1.6897,1.6897,0,0.0,1,0.0
-2026-10-09T14:20:51.677778+00:00,17933667,Northern Illinois Huskies vs. Air Force Falcons,2026-10-10T23:30:00Z,spread,Northern Illinois Huskies (+7.5),Northern Illinois Huskies,MAIN_PRICE_MOVE,7.5,7.5,1.8334,1.7693,0,0.0,1,1.0
-2026-10-09T14:20:51.677778+00:00,17933667,Northern Illinois Huskies vs. Air Force Falcons,2026-10-10T23:30:00Z,spread,Air Force Falcons (-7.5),Air Force Falcons,MAIN_PRICE_MOVE,-7.5,-7.5,1.8334,1.9091,0,0.0,1,1.0
+2026-10-09T14:51:40.966523+00:00,17955742,Marist Red Foxes vs. Columbia Lions,2026-10-09T23:00:00Z,spread,Marist Red Foxes (+1.5),Marist Red Foxes,REMOVED_MAIN,1.5,,1.9091,,0,,1,
+2026-10-09T14:51:40.966523+00:00,17955742,Marist Red Foxes vs. Columbia Lions,2026-10-09T23:00:00Z,spread,Columbia Lions (-1.5),Columbia Lions,REMOVED_MAIN,-1.5,,1.7693,,0,,1,
+2026-10-09T14:51:40.966523+00:00,17955946,Alabama State Hornets vs. Florida A&M Rattlers,2026-10-09T16:00:00Z,spread,Alabama State Hornets (-13.5),Alabama State Hornets,REMOVED_MAIN,-13.5,,1.7693,,0,,1,
+2026-10-09T14:51:40.966523+00:00,17955946,Alabama State Hornets vs. Florida A&M Rattlers,2026-10-09T16:00:00Z,spread,Florida A&M Rattlers (+13.5),Florida A&M Rattlers,REMOVED_MAIN,13.5,,1.9091,,0,,1,

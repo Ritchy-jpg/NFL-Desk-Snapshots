@@ -1,23 +1,14 @@
 captured_at,event_id,match,start_date,market,selection,side,signal,old_line,new_line,old_price,new_price,old_status,new_status,old_is_main_bet,new_is_main_bet
-2026-10-09T21:17:33.638988+00:00,17931813,Army Black Knights vs. Tulane Green Wave,2026-10-10T16:00:00Z,spread,Tulane Green Wave (+3.5),Tulane Green Wave,MAIN_PRICE_MOVE,3.5,3.5,1.7693,1.8334,0,0.0,1,1.0
-2026-10-09T21:17:33.638988+00:00,17931813,Army Black Knights vs. Tulane Green Wave,2026-10-10T16:00:00Z,spread,Army Black Knights (-3.5),Army Black Knights,MAIN_PRICE_MOVE,-3.5,-3.5,1.9091,1.8334,0,0.0,1,1.0
-2026-10-09T21:17:33.638988+00:00,17955929,The Citadel Bulldogs vs. East Tennessee State Buccaneers,2026-10-10T16:00:00Z,total,Plus de 50.5,over,MAIN_PRICE_MOVE,50.5,50.5,1.8334,1.7693,0,0.0,1,1.0
-2026-10-09T21:17:33.638988+00:00,17955929,The Citadel Bulldogs vs. East Tennessee State Buccaneers,2026-10-10T16:00:00Z,total,Moins de 50.5,under,MAIN_PRICE_MOVE,50.5,50.5,1.8334,1.9091,0,0.0,1,1.0
-2026-10-09T21:17:33.638988+00:00,17724263,West Virginia Mountaineers vs. Arizona Wildcats,2026-10-10T16:00:00Z,spread,West Virginia Mountaineers (+3.5),West Virginia Mountaineers,MAIN_PRICE_MOVE,3.5,3.5,1.7143,1.8,0,0.0,1,1.0
-2026-10-09T21:17:33.638988+00:00,17724263,West Virginia Mountaineers vs. Arizona Wildcats,2026-10-10T16:00:00Z,spread,Arizona Wildcats (-3.5),Arizona Wildcats,MAIN_PRICE_MOVE,-3.5,-3.5,2.0,1.8696,0,0.0,1,1.0
-2026-10-09T21:17:33.638988+00:00,17724267,Florida Gators vs. South Carolina Gamecocks,2026-10-10T16:45:00Z,spread,South Carolina Gamecocks (+10.5),South Carolina Gamecocks,MAIN_SWITCH,10.5,10.5,1.8696,1.8696,0,0.0,0,1.0
-2026-10-09T21:17:33.638988+00:00,17724267,Florida Gators vs. South Carolina Gamecocks,2026-10-10T16:45:00Z,spread,Florida Gators (-10.5),Florida Gators,MAIN_SWITCH,-10.5,-10.5,1.8,1.8,0,0.0,0,1.0
-2026-10-09T21:17:33.638988+00:00,17955933,North Carolina Central Eagles vs. William & Mary Tribe,2026-10-10T17:00:00Z,total,Moins de 57.5,under,MAIN_PRICE_MOVE,57.5,57.5,1.8696,1.8,0,0.0,1,1.0
-2026-10-09T21:17:33.638988+00:00,17955933,North Carolina Central Eagles vs. William & Mary Tribe,2026-10-10T17:00:00Z,total,Plus de 57.5,over,MAIN_PRICE_MOVE,57.5,57.5,1.8,1.8696,0,0.0,1,1.0
-2026-10-09T21:17:33.638988+00:00,17955936,Mercer Bears vs. Western Carolina Catamounts,2026-10-10T19:00:00Z,total,Plus de 57.5,over,MAIN_PRICE_MOVE,57.5,57.5,1.8334,1.7693,0,0.0,1,1.0
-2026-10-09T21:17:33.638988+00:00,17955936,Mercer Bears vs. Western Carolina Catamounts,2026-10-10T19:00:00Z,total,Moins de 57.5,under,MAIN_PRICE_MOVE,57.5,57.5,1.8334,1.9091,0,0.0,1,1.0
-2026-10-09T21:17:33.638988+00:00,17928696,Navy Midshipmen vs. Tulsa Golden Hurricane,2026-10-10T19:30:00Z,total,Plus de 49.5,over,MAIN_SWITCH,49.5,49.5,1.9524,1.9524,0,0.0,1,0.0
-2026-10-09T21:17:33.638988+00:00,17928696,Navy Midshipmen vs. Tulsa Golden Hurricane,2026-10-10T19:30:00Z,total,Moins de 49.5,under,MAIN_SWITCH,49.5,49.5,1.7408,1.7408,0,0.0,1,0.0
-2026-10-09T21:17:33.638988+00:00,17724254,Virginia Cavaliers vs. Syracuse Orange,2026-10-10T23:30:00Z,spread,Syracuse Orange (+9.5),Syracuse Orange,MAIN_PRICE_MOVE,9.5,9.5,1.8334,1.9091,0,0.0,1,1.0
-2026-10-09T21:17:33.638988+00:00,17724254,Virginia Cavaliers vs. Syracuse Orange,2026-10-10T23:30:00Z,spread,Virginia Cavaliers (-9.5),Virginia Cavaliers,MAIN_PRICE_MOVE,-9.5,-9.5,1.8334,1.7693,0,0.0,1,1.0
-2026-10-09T21:17:33.638988+00:00,17714565,Louisville Cardinals vs. Florida State Seminoles,2026-10-09T23:00:00Z,spread,Louisville Cardinals (-3.5),Louisville Cardinals,REMOVED_MAIN,-3.5,,1.8,,0,,1,
-2026-10-09T21:17:33.638988+00:00,17714565,Louisville Cardinals vs. Florida State Seminoles,2026-10-09T23:00:00Z,spread,Florida State Seminoles (+3.5),Florida State Seminoles,REMOVED_MAIN,3.5,,1.8696,,0,,1,
-2026-10-09T21:17:33.638988+00:00,17714565,Louisville Cardinals vs. Florida State Seminoles,2026-10-09T23:00:00Z,total,Plus de 60.5,over,REMOVED_MAIN,60.5,,1.8334,,0,,1,
-2026-10-09T21:17:33.638988+00:00,17714565,Louisville Cardinals vs. Florida State Seminoles,2026-10-09T23:00:00Z,total,Moins de 60.5,under,REMOVED_MAIN,60.5,,1.8334,,0,,1,
-2026-10-09T21:17:33.638988+00:00,17956215,Charleston Southern Buccaneers vs. South Carolina State Bulldogs,2026-10-10T16:00:00Z,total,Plus de 38.5,over,REMOVED_MAIN,38.5,,1.8334,,0,,1,
-2026-10-09T21:17:33.638988+00:00,17956215,Charleston Southern Buccaneers vs. South Carolina State Bulldogs,2026-10-10T16:00:00Z,total,Moins de 38.5,under,REMOVED_MAIN,38.5,,1.8334,,0,,1,
+2026-10-09T21:48:15.307424+00:00,17714566,Utah State Aggies vs. Wash State Cougars,2026-10-10T01:00:00Z,spread,Wash State Cougars (+3.5),Wash State Cougars,MAIN_PRICE_MOVE,3.5,3.5,1.8334,1.8696,0,0.0,1,1.0
+2026-10-09T21:48:15.307424+00:00,17714566,Utah State Aggies vs. Wash State Cougars,2026-10-10T01:00:00Z,spread,Utah State Aggies (-3.5),Utah State Aggies,MAIN_PRICE_MOVE,-3.5,-3.5,1.8334,1.8,0,0.0,1,1.0
+2026-10-09T21:48:15.307424+00:00,17714567,Washington Huskies vs. Iowa Hawkeyes,2026-10-10T01:00:00Z,spread,Washington Huskies (-18.5),Washington Huskies,STATUS_CHANGE,-18.5,-18.5,9.0,9.0,7,0.0,0,0.0
+2026-10-09T21:48:15.307424+00:00,17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,spread,Central Mich Chippewas (+2.5),Central Mich Chippewas,MAIN_PRICE_MOVE,2.5,2.5,1.9524,1.8334,0,0.0,1,1.0
+2026-10-09T21:48:15.307424+00:00,17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,spread,Ohio Bobcats (-2.5),Ohio Bobcats,MAIN_PRICE_MOVE,-2.5,-2.5,1.7408,1.8334,0,0.0,1,1.0
+2026-10-09T21:48:15.307424+00:00,17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Moins de 52.5,under,MAIN_PRICE_MOVE,52.5,52.5,1.8696,1.8334,0,0.0,1,1.0
+2026-10-09T21:48:15.307424+00:00,17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Plus de 52.5,over,MAIN_PRICE_MOVE,52.5,52.5,1.8,1.8334,0,0.0,1,1.0
+2026-10-09T21:48:15.307424+00:00,17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Moins de 50.5,under,MAIN_PRICE_MOVE,50.5,50.5,1.9091,1.8334,0,0.0,1,1.0
+2026-10-09T21:48:15.307424+00:00,17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Plus de 50.5,over,MAIN_PRICE_MOVE,50.5,50.5,1.7693,1.8334,0,0.0,1,1.0
+2026-10-09T21:48:15.307424+00:00,17933668,UNLV Rebels vs. DAKOTA DU NORD ETAT DU BISON,2026-10-10T23:00:00Z,spread,UNLV Rebels (+2.5),UNLV Rebels,MAIN_PRICE_MOVE,2.5,2.5,1.9524,1.8334,0,0.0,1,1.0
+2026-10-09T21:48:15.307424+00:00,17933668,UNLV Rebels vs. DAKOTA DU NORD ETAT DU BISON,2026-10-10T23:00:00Z,spread,DAKOTA DU NORD ETAT DU BISON (-2.5),DAKOTA DU NORD ETAT DU BISON,MAIN_PRICE_MOVE,-2.5,-2.5,1.7408,1.8334,0,0.0,1,1.0
+2026-10-09T21:48:15.307424+00:00,16722004,Alabama Crimson Tide vs. GEORGIE BULLDOGS,2026-10-10T23:30:00Z,total,Plus de 50.5,over,MAIN_PRICE_MOVE,50.5,50.5,1.7693,1.7408,0,0.0,1,1.0
+2026-10-09T21:48:15.307424+00:00,16722004,Alabama Crimson Tide vs. GEORGIE BULLDOGS,2026-10-10T23:30:00Z,total,Moins de 50.5,under,MAIN_PRICE_MOVE,50.5,50.5,1.9091,1.9524,0,0.0,1,1.0

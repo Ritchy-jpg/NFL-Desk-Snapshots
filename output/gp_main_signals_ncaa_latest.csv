@@ -1,3 +1,5 @@
 captured_at,event_id,match,start_date,market,selection,side,signal,old_line,new_line,old_price,new_price,old_status,new_status,old_is_main_bet,new_is_main_bet
-2026-10-09T12:22:02.164386+00:00,17955946,Alabama State Hornets vs. Florida A&M Rattlers,2026-10-09T16:00:00Z,total,Moins de 48.5,under,REMOVED_MAIN,48.5,,1.7693,,0,,1,
-2026-10-09T12:22:02.164386+00:00,17955946,Alabama State Hornets vs. Florida A&M Rattlers,2026-10-09T16:00:00Z,total,Plus de 48.5,over,REMOVED_MAIN,48.5,,1.9091,,0,,1,
+2026-10-09T12:54:10.342118+00:00,17955946,Alabama State Hornets vs. Florida A&M Rattlers,2026-10-09T16:00:00Z,total,Plus de 46.5,over,MAIN_PRICE_MOVE,46.5,46.5,1.8,1.7693,0,0.0,1,1.0
+2026-10-09T12:54:10.342118+00:00,17955946,Alabama State Hornets vs. Florida A&M Rattlers,2026-10-09T16:00:00Z,total,Moins de 46.5,under,MAIN_PRICE_MOVE,46.5,46.5,1.8696,1.9091,0,0.0,1,1.0
+2026-10-09T12:54:10.342118+00:00,17933663,Louisiana Tech Bulldogs vs. Louisiana-Lafayette Ragin Cajuns,2026-10-10T23:30:00Z,total,Moins de 47.5,under,MAIN_PRICE_MOVE,47.5,47.5,1.8696,1.9091,0,0.0,1,1.0
+2026-10-09T12:54:10.342118+00:00,17933663,Louisiana Tech Bulldogs vs. Louisiana-Lafayette Ragin Cajuns,2026-10-10T23:30:00Z,total,Plus de 47.5,over,MAIN_PRICE_MOVE,47.5,47.5,1.8,1.7693,0,0.0,1,1.0

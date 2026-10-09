@@ -1,15 +1,13 @@
 captured_at,event_id,match,start_date,market,selection,side,signal,old_line,new_line,old_price,new_price,old_status,new_status,old_is_main_bet,new_is_main_bet
-2026-10-09T16:49:53.085117+00:00,17714565,Louisville Cardinals vs. Florida State Seminoles,2026-10-09T23:00:00Z,spread,Florida State Seminoles (+4.5),Florida State Seminoles,MAIN_SWITCH,4.5,4.5,1.8,1.8,0,0.0,0,1.0
-2026-10-09T16:49:53.085117+00:00,17714565,Louisville Cardinals vs. Florida State Seminoles,2026-10-09T23:00:00Z,spread,Louisville Cardinals (-4.5),Louisville Cardinals,MAIN_SWITCH,-4.5,-4.5,1.8696,1.8696,0,0.0,0,1.0
-2026-10-09T16:49:53.085117+00:00,17724260,Pittsburgh Panthers vs. North Carolina Tar Heels,2026-10-10T16:00:00Z,total,Plus de 47.5,over,MAIN_SWITCH,47.5,47.5,1.9091,1.9091,0,0.0,1,0.0
-2026-10-09T16:49:53.085117+00:00,17724260,Pittsburgh Panthers vs. North Carolina Tar Heels,2026-10-10T16:00:00Z,total,Moins de 47.5,under,MAIN_SWITCH,47.5,47.5,1.7693,1.7693,0,0.0,1,0.0
-2026-10-09T16:49:53.085117+00:00,17724260,Pittsburgh Panthers vs. North Carolina Tar Heels,2026-10-10T16:00:00Z,total,Plus de 46.5,over,MAIN_SWITCH,46.5,46.5,1.7693,1.7693,0,0.0,0,1.0
-2026-10-09T16:49:53.085117+00:00,17724260,Pittsburgh Panthers vs. North Carolina Tar Heels,2026-10-10T16:00:00Z,total,Moins de 46.5,under,MAIN_SWITCH,46.5,46.5,1.9091,1.9091,0,0.0,0,1.0
-2026-10-09T16:49:53.085117+00:00,17933660,UMass Minutemen vs. Miami Redhawks,2026-10-10T18:00:00Z,spread,Miami Redhawks (-2.5),Miami Redhawks,MAIN_PRICE_MOVE,-2.5,-2.5,1.8334,1.7408,0,0.0,1,1.0
-2026-10-09T16:49:53.085117+00:00,17933660,UMass Minutemen vs. Miami Redhawks,2026-10-10T18:00:00Z,spread,UMass Minutemen (+2.5),UMass Minutemen,MAIN_PRICE_MOVE,2.5,2.5,1.8334,1.9524,0,0.0,1,1.0
-2026-10-09T16:49:53.085117+00:00,17933660,UMass Minutemen vs. Miami Redhawks,2026-10-10T18:00:00Z,total,Plus de 46.5,over,MAIN_PRICE_MOVE,46.5,46.5,1.7408,1.8334,0,0.0,1,1.0
-2026-10-09T16:49:53.085117+00:00,17933660,UMass Minutemen vs. Miami Redhawks,2026-10-10T18:00:00Z,total,Moins de 46.5,under,MAIN_PRICE_MOVE,46.5,46.5,1.9524,1.8334,0,0.0,1,1.0
-2026-10-09T16:49:53.085117+00:00,16722004,Alabama Crimson Tide vs. GEORGIE BULLDOGS,2026-10-10T23:30:00Z,total,Plus de 50.5,over,MAIN_PRICE_MOVE,50.5,50.5,1.7693,1.7408,0,0.0,1,1.0
-2026-10-09T16:49:53.085117+00:00,16722004,Alabama Crimson Tide vs. GEORGIE BULLDOGS,2026-10-10T23:30:00Z,total,Moins de 50.5,under,MAIN_PRICE_MOVE,50.5,50.5,1.9091,1.9524,0,0.0,1,1.0
-2026-10-09T16:49:53.085117+00:00,17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Moins de 49.5,under,MAIN_PRICE_MOVE,49.5,49.5,1.8696,1.8334,0,0.0,1,1.0
-2026-10-09T16:49:53.085117+00:00,17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Plus de 49.5,over,MAIN_PRICE_MOVE,49.5,49.5,1.8,1.8334,0,0.0,1,1.0
+2026-10-09T17:16:40.324594+00:00,17931813,Army Black Knights vs. Tulane Green Wave,2026-10-10T16:00:00Z,spread,Tulane Green Wave (+3.5),Tulane Green Wave,MAIN_PRICE_MOVE,3.5,3.5,1.7408,1.7693,0,0.0,1,1.0
+2026-10-09T17:16:40.324594+00:00,17931813,Army Black Knights vs. Tulane Green Wave,2026-10-10T16:00:00Z,spread,Army Black Knights (-3.5),Army Black Knights,MAIN_PRICE_MOVE,-3.5,-3.5,1.9524,1.9091,0,0.0,1,1.0
+2026-10-09T17:16:40.324594+00:00,17931943,Bowling Green Falcons vs. Sacramento State Hornets,2026-10-10T16:00:00Z,total,Plus de 44.5,over,MAIN_PRICE_MOVE,44.5,44.5,1.9524,1.9091,0,0.0,1,1.0
+2026-10-09T17:16:40.324594+00:00,17931943,Bowling Green Falcons vs. Sacramento State Hornets,2026-10-10T16:00:00Z,total,Moins de 44.5,under,MAIN_PRICE_MOVE,44.5,44.5,1.7408,1.7693,0,0.0,1,1.0
+2026-10-09T17:16:40.324594+00:00,17955743,Dayton Flyers vs. Morehead State Eagles,2026-10-10T16:00:00Z,spread,Dayton Flyers (-20.5),Dayton Flyers,MAIN_PRICE_MOVE,-20.5,-20.5,1.8334,1.8696,0,0.0,1,1.0
+2026-10-09T17:16:40.324594+00:00,17955743,Dayton Flyers vs. Morehead State Eagles,2026-10-10T16:00:00Z,spread,Morehead State Eagles (+20.5),Morehead State Eagles,MAIN_PRICE_MOVE,20.5,20.5,1.8334,1.8,0,0.0,1,1.0
+2026-10-09T17:16:40.324594+00:00,17933342,North Texas vs. Charlotte 49ers,2026-10-10T19:30:00Z,total,Plus de 58.5,over,MAIN_PRICE_MOVE,58.5,58.5,1.9524,1.9091,0,0.0,1,1.0
+2026-10-09T17:16:40.324594+00:00,17933342,North Texas vs. Charlotte 49ers,2026-10-10T19:30:00Z,total,Moins de 58.5,under,MAIN_PRICE_MOVE,58.5,58.5,1.7408,1.7693,0,0.0,1,1.0
+2026-10-09T17:16:40.324594+00:00,17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T02:15:00Z,total,Plus de 50.5,over,MAIN_PRICE_MOVE,50.5,50.5,1.7408,1.7693,0,0.0,1,1.0
+2026-10-09T17:16:40.324594+00:00,17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T02:15:00Z,total,Moins de 50.5,under,MAIN_PRICE_MOVE,50.5,50.5,1.9524,1.9091,0,0.0,1,1.0
+2026-10-09T17:16:40.324594+00:00,17955933,North Carolina Central Eagles vs. William & Mary Tribe,2026-10-10T17:00:00Z,spread,William & Mary Tribe (+4.0),William & Mary Tribe,REMOVED_MAIN,4.0,,1.8334,,0,,1,
+2026-10-09T17:16:40.324594+00:00,17955933,North Carolina Central Eagles vs. William & Mary Tribe,2026-10-10T17:00:00Z,spread,North Carolina Central Eagles (-4.0),North Carolina Central Eagles,REMOVED_MAIN,-4.0,,1.8334,,0,,1,

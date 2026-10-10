@@ -1,49 +1,87 @@
 event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id,selection,line,price,odd_id,odd_status,is_main_bet
 17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Ohio Bobcats,,1.6897,4596164595,0,False
 17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Central Mich Chippewas,,2.0,4596164596,0,False
-17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Central Mich Chippewas (+2.5),-2.5,1.7693,4600450475,0,True
-17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Ohio Bobcats (-2.5),-2.5,1.9091,4600450476,0,True
-17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 38.5,38.5,2.75,4596324224,0,False
-17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 39.5,39.5,1.4348,4596324225,0,False
-17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 39.5,39.5,2.65,4596324226,0,False
-17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 40.5,40.5,1.5,4596324227,0,False
-17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 40.5,40.5,2.5,4596324228,0,False
-17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 41.5,41.5,1.5556,4596324229,0,False
-17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 41.5,41.5,2.3,4596324230,0,False
-17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 42.5,42.5,1.5715,4596324231,0,False
-17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 42.5,42.5,2.25,4596324232,0,False
-17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 43.5,43.5,1.6667,4596324233,0,False
-17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 43.5,43.5,2.1,4596324234,0,False
-17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 44.5,44.5,1.7408,4596324235,0,False
-17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 44.5,44.5,1.9524,4596324236,0,False
-17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 45.5,45.5,1.8,4596324237,0,True
-17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 45.5,45.5,1.8696,4596324238,0,True
-17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 46.5,46.5,1.8696,4596324239,0,False
-17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 46.5,46.5,1.8,4596324240,0,False
-17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 47.5,47.5,2.0,4596324241,0,False
-17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 47.5,47.5,1.7143,4596324242,0,False
-17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 48.5,48.5,2.1,4596324243,0,False
-17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 48.5,48.5,1.6667,4596324244,0,False
-17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 49.5,49.5,2.2,4596324245,0,False
-17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 49.5,49.5,1.625,4596324246,0,False
-17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 50.5,50.5,2.3,4596324247,0,False
-17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 50.5,50.5,1.5556,4596324248,0,False
-17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 51.5,51.5,2.5,4596324249,0,False
-17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 51.5,51.5,1.5,4596324250,0,False
-17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 52.5,52.5,2.65,4596324251,0,False
-17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 52.5,52.5,1.4348,4596324252,0,False
-17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 53.5,53.5,2.75,4596324253,0,False
-17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 53.5,53.5,1.4,4596324254,0,False
-17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 54.5,54.5,2.9,4596324255,0,False
-17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 54.5,54.5,1.3637,4596324256,0,False
-17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 55.5,55.5,3.15,4596324257,0,False
-17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 55.5,55.5,1.3226,4596324258,0,False
-17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 56.5,56.5,3.25,4596324259,0,False
-17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 56.5,56.5,1.3031,4596324260,0,False
-17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 57.5,57.5,3.5,4596324261,7,False
-17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 57.5,57.5,1.2667,4596324262,7,False
-17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 36.5,36.5,1.3031,4604258902,0,False
-17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 36.5,36.5,3.25,4604258903,0,False
-17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 37.5,37.5,1.3572,4596324221,0,False
-17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 37.5,37.5,3.0,4596324222,0,False
-17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 38.5,38.5,1.4,4596324223,0,False
+17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Central Mich Chippewas (-8.5),8.5,5.25,4600476933,0,False
+17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Ohio Bobcats (+8.5),8.5,1.1334,4600476934,0,False
+17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Central Mich Chippewas (-2.5),2.5,2.3,4600450473,0,False
+17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Ohio Bobcats (+2.5),2.5,1.5556,4600450474,0,False
+17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Central Mich Chippewas (+2.5),-2.5,1.7693,4600450475,0,False
+17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Ohio Bobcats (-2.5),-2.5,1.9091,4600450476,0,False
+17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Ohio Bobcats (-4.5),-4.5,2.5,4600450477,0,False
+17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Central Mich Chippewas (+4.5),-4.5,1.5,4600450478,0,False
+17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Central Mich Chippewas (-7.5),7.5,4.75,4600450479,0,False
+17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Ohio Bobcats (+7.5),7.5,1.1539,4600450480,0,False
+17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Central Mich Chippewas (-4.5),4.5,3.1,4600450483,0,False
+17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Ohio Bobcats (+4.5),4.5,1.3334,4600450484,0,False
+17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Ohio Bobcats (+5.5),5.5,1.2858,4600450485,0,False
+17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Central Mich Chippewas (-5.5),5.5,3.4,4600450486,0,False
+17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Ohio Bobcats (-8.5),-8.5,4.0,4600450487,0,False
+17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Central Mich Chippewas (+8.5),-8.5,1.2223,4600450488,0,False
+17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Ohio Bobcats (-11.5),-11.5,5.25,4600450489,0,False
+17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Central Mich Chippewas (+11.5),-11.5,1.1334,4600450490,0,False
+17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Central Mich Chippewas (+12.5),-12.5,1.1112,4600450491,0,False
+17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Ohio Bobcats (-12.5),-12.5,6.0,4600450492,0,False
+17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Ohio Bobcats (-10.5),-10.5,4.75,4600450493,0,False
+17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Central Mich Chippewas (+10.5),-10.5,1.1539,4600450494,0,False
+17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Central Mich Chippewas (+5.5),-5.5,1.4348,4600450497,0,False
+17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Ohio Bobcats (-5.5),-5.5,2.65,4600450498,0,False
+17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Central Mich Chippewas (-3.5),3.5,2.85,4600450499,0,False
+17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Ohio Bobcats (+3.5),3.5,1.3847,4600450500,0,False
+17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Central Mich Chippewas (+1.5),-1.5,1.9091,4600450501,0,True
+17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Ohio Bobcats (-1.5),-1.5,1.7693,4600450502,0,True
+17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Ohio Bobcats (+1.5),1.5,1.625,4600450503,0,False
+17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Central Mich Chippewas (-1.5),1.5,2.2,4600450504,0,False
+17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Ohio Bobcats (+6.5),6.5,1.2353,4600450505,0,False
+17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Central Mich Chippewas (-6.5),6.5,3.75,4600450506,0,False
+17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Central Mich Chippewas (+9.5),-9.5,1.2223,4600450507,0,False
+17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Ohio Bobcats (-9.5),-9.5,4.0,4600450508,0,False
+17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Ohio Bobcats (-6.5),-6.5,2.85,4600450509,0,False
+17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Central Mich Chippewas (+6.5),-6.5,1.3847,4600450510,0,False
+17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Central Mich Chippewas (+7.5),-7.5,1.2667,4600450511,0,False
+17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Ohio Bobcats (-7.5),-7.5,3.5,4600450512,0,False
+17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Central Mich Chippewas (-9.5),9.5,5.5,4622996973,0,False
+17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Ohio Bobcats (+9.5),9.5,1.125,4622996974,0,False
+17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Central Mich Chippewas (+3.5),-3.5,1.5715,4596164591,0,False
+17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Ohio Bobcats (-3.5),-3.5,2.25,4596164592,0,False
+17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 36.5,36.5,3.7,4600450432,0,False
+17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 37.5,37.5,1.3125,4600450433,0,False
+17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 37.5,37.5,3.2,4600450434,0,False
+17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 38.5,38.5,1.3572,4600450435,0,False
+17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 38.5,38.5,3.0,4600450436,0,False
+17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 39.5,39.5,1.3847,4600450437,0,False
+17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 39.5,39.5,2.85,4600450438,0,False
+17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 41.5,41.5,2.4,4600450439,0,False
+17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 41.5,41.5,1.5264,4600450440,0,False
+17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 51.5,51.5,1.4762,4600450441,0,False
+17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 51.5,51.5,2.55,4600450442,0,False
+17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 54.5,54.5,1.3334,4600450443,0,False
+17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 54.5,54.5,3.1,4600450444,0,False
+17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 44.5,44.5,2.05,4600450445,0,False
+17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 44.5,44.5,1.6897,4600450446,0,False
+17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 47.5,47.5,1.9524,4596456719,0,False
+17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 40.5,40.5,1.4348,4600450448,0,False
+17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 40.5,40.5,2.65,4600450447,0,False
+17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 50.5,50.5,2.3,4600450450,0,False
+17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 47.5,47.5,1.7408,4596456718,0,False
+17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 55.5,55.5,3.4,4600450452,0,False
+17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 45.5,45.5,1.8696,4600450453,0,True
+17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 45.5,45.5,1.8,4600450454,0,True
+17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 49.5,49.5,1.5715,4600450455,0,False
+17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 49.5,49.5,2.25,4600450456,0,False
+17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 50.5,50.5,1.5556,4600450449,0,False
+17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 55.5,55.5,1.2858,4600450451,0,False
+17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 34.5,34.5,1.2,4615166807,0,False
+17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 34.5,34.5,4.2,4615166808,0,False
+17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 35.5,35.5,4.0,4615166809,0,False
+17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 35.5,35.5,1.2223,4615166810,0,False
+17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 48.5,48.5,1.6667,4596164593,0,False
+17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 48.5,48.5,2.1,4596164594,0,False
+17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 43.5,43.5,2.2,4600450423,0,False
+17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 43.5,43.5,1.625,4600450424,0,False
+17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 53.5,53.5,1.3847,4600450425,0,False
+17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 53.5,53.5,2.85,4600450426,0,False
+17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 42.5,42.5,2.35,4600450427,0,False
+17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 42.5,42.5,1.5455,4600450428,0,False
+17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 52.5,52.5,2.7,4600450429,0,False
+17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 52.5,52.5,1.4167,4600450430,0,False
+17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 36.5,36.5,1.25,4600450431,0,False

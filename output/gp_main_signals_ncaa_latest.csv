@@ -1,9 +1,7 @@
 captured_at,event_id,match,start_date,market,selection,side,signal,old_line,new_line,old_price,new_price,old_status,new_status,old_is_main_bet,new_is_main_bet
-2026-10-10T17:38:25.328456+00:00,17933660,UMass Minutemen vs. Miami Redhawks,2026-10-10T18:00:00Z,spread,Miami Redhawks (-6.5),Miami Redhawks,MAIN_PRICE_MOVE,-6.5,-6.5,1.8334,1.8696,0,0.0,1,1.0
-2026-10-10T17:38:25.328456+00:00,17933660,UMass Minutemen vs. Miami Redhawks,2026-10-10T18:00:00Z,spread,UMass Minutemen (+6.5),UMass Minutemen,MAIN_PRICE_MOVE,6.5,6.5,1.8334,1.8,0,0.0,1,1.0
-2026-10-10T17:38:25.328456+00:00,17932345,Toledo Rockets vs. Buffalo Bulls,2026-10-10T19:30:00Z,total,Plus de 55.5,over,MAIN_PRICE_MOVE,55.5,55.5,1.8334,1.8696,0,0.0,1,1.0
-2026-10-10T17:38:25.328456+00:00,17932345,Toledo Rockets vs. Buffalo Bulls,2026-10-10T19:30:00Z,total,Moins de 55.5,under,MAIN_PRICE_MOVE,55.5,55.5,1.8334,1.8,0,0.0,1,1.0
-2026-10-10T17:38:25.328456+00:00,17956051,Portland State Vikings vs. Utah Tech Trailblaizers,2026-10-10T20:00:00Z,total,Moins de 60.5,under,MAIN_PRICE_MOVE,60.5,60.5,1.8334,1.8,0,0.0,1,1.0
-2026-10-10T17:38:25.328456+00:00,17956051,Portland State Vikings vs. Utah Tech Trailblaizers,2026-10-10T20:00:00Z,total,Plus de 60.5,over,MAIN_PRICE_MOVE,60.5,60.5,1.8334,1.8696,0,0.0,1,1.0
-2026-10-10T17:38:25.328456+00:00,17724254,Virginia Cavaliers vs. Syracuse Orange,2026-10-10T23:30:00Z,spread,Virginia Cavaliers (-13.5),Virginia Cavaliers,MAIN_PRICE_MOVE,-13.5,-13.5,1.8334,1.7693,0,0.0,1,1.0
-2026-10-10T17:38:25.328456+00:00,17724254,Virginia Cavaliers vs. Syracuse Orange,2026-10-10T23:30:00Z,spread,Syracuse Orange (+13.5),Syracuse Orange,MAIN_PRICE_MOVE,13.5,13.5,1.8334,1.9091,0,0.0,1,1.0
+2026-10-10T17:49:30.701016+00:00,17933660,UMass Minutemen vs. Miami Redhawks,2026-10-10T18:00:00Z,spread,Miami Redhawks (-6.5),Miami Redhawks,MAIN_SWITCH,-6.5,-6.5,1.8696,1.8696,0,0.0,1,0.0
+2026-10-10T17:49:30.701016+00:00,17933660,UMass Minutemen vs. Miami Redhawks,2026-10-10T18:00:00Z,spread,UMass Minutemen (+6.5),UMass Minutemen,MAIN_SWITCH,6.5,6.5,1.8,1.8,0,0.0,1,0.0
+2026-10-10T17:49:30.701016+00:00,17724250,Oregon Ducks vs. UCLA Bruins,2026-10-10T19:30:00Z,spread,Oregon Ducks (-10.5),Oregon Ducks,MAIN_PRICE_MOVE,-10.5,-10.5,1.8696,1.8334,0,0.0,1,1.0
+2026-10-10T17:49:30.701016+00:00,17724250,Oregon Ducks vs. UCLA Bruins,2026-10-10T19:30:00Z,spread,UCLA Bruins (+10.5),UCLA Bruins,MAIN_PRICE_MOVE,10.5,10.5,1.8,1.8334,0,0.0,1,1.0
+2026-10-10T17:49:30.701016+00:00,17803700,LSU Tigers vs. Mississippi St Bulldogs,2026-10-17T16:00:00Z,total,Plus de 60.5,over,MAIN_PRICE_MOVE,60.5,60.5,1.8696,1.8334,0,0.0,1,1.0
+2026-10-10T17:49:30.701016+00:00,17803700,LSU Tigers vs. Mississippi St Bulldogs,2026-10-17T16:00:00Z,total,Moins de 60.5,under,MAIN_PRICE_MOVE,60.5,60.5,1.8,1.8334,0,0.0,1,1.0

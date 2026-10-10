@@ -1,9 +1,32 @@
 captured_at,event_id,match,start_date,market,selection,side,signal,old_line,new_line,old_price,new_price,old_status,new_status,old_is_main_bet,new_is_main_bet
-2026-10-10T19:12:53.865689+00:00,17724256,Kansas State Wildcats vs. Houston Cougars,2026-10-10T19:30:00Z,spread,Kansas State Wildcats (-2.5),Kansas State Wildcats,MAIN_PRICE_MOVE,-2.5,-2.5,1.8334,1.8,0,0.0,1,1.0
-2026-10-10T19:12:53.865689+00:00,17724256,Kansas State Wildcats vs. Houston Cougars,2026-10-10T19:30:00Z,spread,Houston Cougars (+2.5),Houston Cougars,MAIN_PRICE_MOVE,2.5,2.5,1.8334,1.8696,0,0.0,1,1.0
-2026-10-10T19:12:53.865689+00:00,17724256,Kansas State Wildcats vs. Houston Cougars,2026-10-10T19:30:00Z,total,Plus de 55.5,over,MAIN_PRICE_MOVE,55.5,55.5,1.9091,1.8696,0,0.0,1,1.0
-2026-10-10T19:12:53.865689+00:00,17724256,Kansas State Wildcats vs. Houston Cougars,2026-10-10T19:30:00Z,total,Moins de 55.5,under,MAIN_PRICE_MOVE,55.5,55.5,1.7693,1.8,0,0.0,1,1.0
-2026-10-10T19:12:53.865689+00:00,17933648,MICHIGAN vs. Kent St Golden Flashes,2026-10-10T19:30:00Z,spread,Kent St Golden Flashes (+13.5),Kent St Golden Flashes,MAIN_PRICE_MOVE,13.5,13.5,1.9091,1.8696,0,0.0,1,1.0
-2026-10-10T19:12:53.865689+00:00,17933648,MICHIGAN vs. Kent St Golden Flashes,2026-10-10T19:30:00Z,spread,MICHIGAN (-13.5),MICHIGAN,MAIN_PRICE_MOVE,-13.5,-13.5,1.7693,1.8,0,0.0,1,1.0
-2026-10-10T19:12:53.865689+00:00,17724250,Oregon Ducks vs. UCLA Bruins,2026-10-10T19:30:00Z,spread,Oregon Ducks (-10.5),Oregon Ducks,MAIN_PRICE_MOVE,-10.5,-10.5,1.8696,1.9091,0,0.0,1,1.0
-2026-10-10T19:12:53.865689+00:00,17724250,Oregon Ducks vs. UCLA Bruins,2026-10-10T19:30:00Z,spread,UCLA Bruins (+10.5),UCLA Bruins,MAIN_PRICE_MOVE,10.5,10.5,1.8,1.7693,0,0.0,1,1.0
+2026-10-10T19:26:53.609301+00:00,17955926,Fordham Rams vs. Richmond Spiders,2026-10-10T19:30:00Z,spread,Fordham Rams (+8.5),Fordham Rams,MAIN_SWITCH,8.5,8.5,1.9524,1.9524,0,0.0,1,0.0
+2026-10-10T19:26:53.609301+00:00,17955926,Fordham Rams vs. Richmond Spiders,2026-10-10T19:30:00Z,spread,Richmond Spiders (-8.5),Richmond Spiders,MAIN_SWITCH,-8.5,-8.5,1.7408,1.7408,0,0.0,1,0.0
+2026-10-10T19:26:53.609301+00:00,17724259,Georgia Tech vs. Duke Blue Devils,2026-10-10T19:30:00Z,total,Plus de 45.5,over,MAIN_SWITCH,45.5,45.5,1.8696,1.8696,0,0.0,1,0.0
+2026-10-10T19:26:53.609301+00:00,17724259,Georgia Tech vs. Duke Blue Devils,2026-10-10T19:30:00Z,total,Moins de 45.5,under,MAIN_SWITCH,45.5,45.5,1.8,1.8,0,0.0,1,0.0
+2026-10-10T19:26:53.609301+00:00,17724251,Michigan State Spartans vs. Illinois Fighting Illini,2026-10-10T19:30:00Z,total,Plus de 48.5,over,MAIN_PRICE_MOVE,48.5,48.5,1.8696,1.8334,0,0.0,1,1.0
+2026-10-10T19:26:53.609301+00:00,17724251,Michigan State Spartans vs. Illinois Fighting Illini,2026-10-10T19:30:00Z,total,Moins de 48.5,under,MAIN_PRICE_MOVE,48.5,48.5,1.8,1.8334,0,0.0,1,1.0
+2026-10-10T19:26:53.609301+00:00,17724272,Notre Dame Fighting Irish vs. Stanford Cardinal,2026-10-10T19:30:00Z,moneyline,Stanford Cardinal,Stanford Cardinal,STATUS_CHANGE,,,11.0,11.0,0,7.0,0,0.0
+2026-10-10T19:26:53.609301+00:00,17724272,Notre Dame Fighting Irish vs. Stanford Cardinal,2026-10-10T19:30:00Z,spread,Notre Dame Fighting Irish (-39.5),Notre Dame Fighting Irish,MAIN_SWITCH,-39.5,-39.5,1.8334,1.8334,0,0.0,1,0.0
+2026-10-10T19:26:53.609301+00:00,17724272,Notre Dame Fighting Irish vs. Stanford Cardinal,2026-10-10T19:30:00Z,spread,Stanford Cardinal (+39.5),Stanford Cardinal,MAIN_SWITCH,39.5,39.5,1.8334,1.8334,0,0.0,1,0.0
+2026-10-10T19:26:53.609301+00:00,17724272,Notre Dame Fighting Irish vs. Stanford Cardinal,2026-10-10T19:30:00Z,total,Plus de 55.5,over,MAIN_PRICE_MOVE,55.5,55.5,1.8696,1.8334,0,0.0,1,1.0
+2026-10-10T19:26:53.609301+00:00,17724272,Notre Dame Fighting Irish vs. Stanford Cardinal,2026-10-10T19:30:00Z,total,Moins de 55.5,under,MAIN_PRICE_MOVE,55.5,55.5,1.8,1.8334,0,0.0,1,1.0
+2026-10-10T19:26:53.609301+00:00,17724250,Oregon Ducks vs. UCLA Bruins,2026-10-10T19:30:00Z,spread,Oregon Ducks (-10.5),Oregon Ducks,MAIN_PRICE_MOVE,-10.5,-10.5,1.9091,1.8334,0,0.0,1,1.0
+2026-10-10T19:26:53.609301+00:00,17724250,Oregon Ducks vs. UCLA Bruins,2026-10-10T19:30:00Z,spread,UCLA Bruins (+10.5),UCLA Bruins,MAIN_PRICE_MOVE,10.5,10.5,1.7693,1.8334,0,0.0,1,1.0
+2026-10-10T19:26:53.609301+00:00,17724250,Oregon Ducks vs. UCLA Bruins,2026-10-10T19:30:00Z,total,Moins de 57.5,under,MAIN_PRICE_MOVE,57.5,57.5,1.8696,1.8334,0,0.0,1,1.0
+2026-10-10T19:26:53.609301+00:00,17724250,Oregon Ducks vs. UCLA Bruins,2026-10-10T19:30:00Z,total,Plus de 57.5,over,MAIN_PRICE_MOVE,57.5,57.5,1.8,1.8334,0,0.0,1,1.0
+2026-10-10T19:26:53.609301+00:00,17932345,Toledo Rockets vs. Buffalo Bulls,2026-10-10T19:30:00Z,total,Plus de 54.5,over,MAIN_PRICE_MOVE,54.5,54.5,1.7693,1.8334,0,0.0,1,1.0
+2026-10-10T19:26:53.609301+00:00,17932345,Toledo Rockets vs. Buffalo Bulls,2026-10-10T19:30:00Z,total,Moins de 54.5,under,MAIN_PRICE_MOVE,54.5,54.5,1.9091,1.8334,0,0.0,1,1.0
+2026-10-10T19:26:53.609301+00:00,17724266,Vanderbilt Commodores vs. Ole Miss Rebels,2026-10-10T19:30:00Z,total,Moins de 54.5,under,MAIN_PRICE_MOVE,54.5,54.5,1.8696,1.8334,0,0.0,1,1.0
+2026-10-10T19:26:53.609301+00:00,17724266,Vanderbilt Commodores vs. Ole Miss Rebels,2026-10-10T19:30:00Z,total,Plus de 54.5,over,MAIN_PRICE_MOVE,54.5,54.5,1.8,1.8334,0,0.0,1,1.0
+2026-10-10T19:26:53.609301+00:00,17956051,Portland State Vikings vs. Utah Tech Trailblaizers,2026-10-10T20:00:00Z,spread,Portland State Vikings (-3.0),Portland State Vikings,MAIN_PRICE_MOVE,-3.0,-3.0,1.9091,1.9524,0,0.0,1,1.0
+2026-10-10T19:26:53.609301+00:00,17956051,Portland State Vikings vs. Utah Tech Trailblaizers,2026-10-10T20:00:00Z,spread,Utah Tech Trailblaizers (+3.0),Utah Tech Trailblaizers,MAIN_PRICE_MOVE,3.0,3.0,1.7693,1.7408,0,0.0,1,1.0
+2026-10-10T19:26:53.609301+00:00,17956212,Grambling State Tigers vs. Jackson State Tigers,2026-10-10T21:00:00Z,total,Moins de 55.5,under,MAIN_PRICE_MOVE,55.5,55.5,2.2,2.1,0,0.0,1,1.0
+2026-10-10T19:26:53.609301+00:00,17956212,Grambling State Tigers vs. Jackson State Tigers,2026-10-10T21:00:00Z,total,Plus de 55.5,over,MAIN_PRICE_MOVE,55.5,55.5,1.625,1.6667,0,0.0,1,1.0
+2026-10-10T19:26:53.609301+00:00,17724253,California Golden Bears vs. Virginia Tech Hokies,2026-10-10T19:30:00Z,spread,California Golden Bears (+9.5),California Golden Bears,REMOVED_MAIN,9.5,,1.9091,,0,,1,
+2026-10-10T19:26:53.609301+00:00,17724253,California Golden Bears vs. Virginia Tech Hokies,2026-10-10T19:30:00Z,spread,Virginia Tech Hokies (-9.5),Virginia Tech Hokies,REMOVED_MAIN,-9.5,,1.7693,,0,,1,
+2026-10-10T19:26:53.609301+00:00,17724253,California Golden Bears vs. Virginia Tech Hokies,2026-10-10T19:30:00Z,total,Plus de 53.5,over,REMOVED_MAIN,53.5,,1.8334,,0,,1,
+2026-10-10T19:26:53.609301+00:00,17724253,California Golden Bears vs. Virginia Tech Hokies,2026-10-10T19:30:00Z,total,Moins de 53.5,under,REMOVED_MAIN,53.5,,1.8334,,0,,1,
+2026-10-10T19:26:53.609301+00:00,17955926,Fordham Rams vs. Richmond Spiders,2026-10-10T19:30:00Z,total,Plus de 45.5,over,REMOVED_MAIN,45.5,,1.8334,,0,,1,
+2026-10-10T19:26:53.609301+00:00,17955926,Fordham Rams vs. Richmond Spiders,2026-10-10T19:30:00Z,total,Moins de 45.5,under,REMOVED_MAIN,45.5,,1.8334,,0,,1,
+2026-10-10T19:26:53.609301+00:00,17956051,Portland State Vikings vs. Utah Tech Trailblaizers,2026-10-10T20:00:00Z,total,Moins de 60.5,under,REMOVED_MAIN,60.5,,1.8,,0,,1,
+2026-10-10T19:26:53.609301+00:00,17956051,Portland State Vikings vs. Utah Tech Trailblaizers,2026-10-10T20:00:00Z,total,Plus de 60.5,over,REMOVED_MAIN,60.5,,1.8696,,0,,1,

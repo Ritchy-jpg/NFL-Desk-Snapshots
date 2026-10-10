@@ -1,7 +1,7 @@
 captured_at,event_id,match,start_date,market,selection,side,signal,old_line,new_line,old_price,new_price,old_status,new_status,old_is_main_bet,new_is_main_bet
-2026-10-10T21:12:24.598271+00:00,17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Moins de 52.5,under,MAIN_PRICE_MOVE,52.5,52.5,1.8334,1.8,0,0.0,1,1.0
-2026-10-10T21:12:24.598271+00:00,17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Plus de 52.5,over,MAIN_PRICE_MOVE,52.5,52.5,1.8334,1.8696,0,0.0,1,1.0
-2026-10-10T21:12:24.598271+00:00,17956218,Abilene Christian Wildcats vs. Central Arkansas Bears,2026-10-11T00:00:00Z,total,Plus de 51.5,over,MAIN_PRICE_MOVE,51.5,51.5,1.8334,1.8,0,0.0,1,1.0
-2026-10-10T21:12:24.598271+00:00,17956218,Abilene Christian Wildcats vs. Central Arkansas Bears,2026-10-11T00:00:00Z,total,Moins de 51.5,under,MAIN_PRICE_MOVE,51.5,51.5,1.8334,1.8696,0,0.0,1,1.0
-2026-10-10T21:12:24.598271+00:00,17956218,Abilene Christian Wildcats vs. Central Arkansas Bears,2026-10-11T00:00:00Z,spread,Central Arkansas Bears (+9.5),Central Arkansas Bears,REMOVED_MAIN,9.5,,1.9091,,0,,1,
-2026-10-10T21:12:24.598271+00:00,17956218,Abilene Christian Wildcats vs. Central Arkansas Bears,2026-10-11T00:00:00Z,spread,Abilene Christian Wildcats (-9.5),Abilene Christian Wildcats,REMOVED_MAIN,-9.5,,1.7693,,0,,1,
+2026-10-10T21:26:38.003134+00:00,17226435,Penn St Nittany Lions vs. USC Trojans,2026-10-10T23:30:00Z,spread,USC Trojans (-1.5),USC Trojans,MAIN_PRICE_MOVE,-1.5,-1.5,1.8696,1.8334,0,0.0,1,1.0
+2026-10-10T21:26:38.003134+00:00,17226435,Penn St Nittany Lions vs. USC Trojans,2026-10-10T23:30:00Z,spread,Penn St Nittany Lions (+1.5),Penn St Nittany Lions,MAIN_PRICE_MOVE,1.5,1.5,1.8,1.8334,0,0.0,1,1.0
+2026-10-10T21:26:38.003134+00:00,17226435,Penn St Nittany Lions vs. USC Trojans,2026-10-10T23:30:00Z,total,Plus de 54.5,over,MAIN_SWITCH,54.5,54.5,1.7693,1.7693,0,0.0,0,1.0
+2026-10-10T21:26:38.003134+00:00,17226435,Penn St Nittany Lions vs. USC Trojans,2026-10-10T23:30:00Z,total,Moins de 54.5,under,MAIN_SWITCH,54.5,54.5,1.9091,1.9091,0,0.0,0,1.0
+2026-10-10T21:26:38.003134+00:00,17724254,Virginia Cavaliers vs. Syracuse Orange,2026-10-10T23:30:00Z,spread,Virginia Cavaliers (-14.5),Virginia Cavaliers,MAIN_SWITCH,-14.5,-14.5,1.9091,1.9091,0,0.0,1,0.0
+2026-10-10T21:26:38.003134+00:00,17724254,Virginia Cavaliers vs. Syracuse Orange,2026-10-10T23:30:00Z,spread,Syracuse Orange (+14.5),Syracuse Orange,MAIN_SWITCH,14.5,14.5,1.7693,1.7693,0,0.0,1,0.0

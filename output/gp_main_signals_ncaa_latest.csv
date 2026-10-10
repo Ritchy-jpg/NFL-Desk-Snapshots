@@ -1,7 +1,11 @@
 captured_at,event_id,match,start_date,market,selection,side,signal,old_line,new_line,old_price,new_price,old_status,new_status,old_is_main_bet,new_is_main_bet
-2026-10-10T17:49:30.701016+00:00,17933660,UMass Minutemen vs. Miami Redhawks,2026-10-10T18:00:00Z,spread,Miami Redhawks (-6.5),Miami Redhawks,MAIN_SWITCH,-6.5,-6.5,1.8696,1.8696,0,0.0,1,0.0
-2026-10-10T17:49:30.701016+00:00,17933660,UMass Minutemen vs. Miami Redhawks,2026-10-10T18:00:00Z,spread,UMass Minutemen (+6.5),UMass Minutemen,MAIN_SWITCH,6.5,6.5,1.8,1.8,0,0.0,1,0.0
-2026-10-10T17:49:30.701016+00:00,17724250,Oregon Ducks vs. UCLA Bruins,2026-10-10T19:30:00Z,spread,Oregon Ducks (-10.5),Oregon Ducks,MAIN_PRICE_MOVE,-10.5,-10.5,1.8696,1.8334,0,0.0,1,1.0
-2026-10-10T17:49:30.701016+00:00,17724250,Oregon Ducks vs. UCLA Bruins,2026-10-10T19:30:00Z,spread,UCLA Bruins (+10.5),UCLA Bruins,MAIN_PRICE_MOVE,10.5,10.5,1.8,1.8334,0,0.0,1,1.0
-2026-10-10T17:49:30.701016+00:00,17803700,LSU Tigers vs. Mississippi St Bulldogs,2026-10-17T16:00:00Z,total,Plus de 60.5,over,MAIN_PRICE_MOVE,60.5,60.5,1.8696,1.8334,0,0.0,1,1.0
-2026-10-10T17:49:30.701016+00:00,17803700,LSU Tigers vs. Mississippi St Bulldogs,2026-10-17T16:00:00Z,total,Moins de 60.5,under,MAIN_PRICE_MOVE,60.5,60.5,1.8,1.8334,0,0.0,1,1.0
+2026-10-10T17:58:38.490591+00:00,17955947,Lindenwood Lions vs. Southeast Missouri State Redhawks,2026-10-10T18:00:00Z,spread,Southeast Missouri State Redhawks (-4.5),Southeast Missouri State Redhawks,MAIN_PRICE_MOVE,-4.5,-4.5,1.8696,1.8,0,0.0,1,1.0
+2026-10-10T17:58:38.490591+00:00,17955947,Lindenwood Lions vs. Southeast Missouri State Redhawks,2026-10-10T18:00:00Z,spread,Lindenwood Lions (+4.5),Lindenwood Lions,MAIN_PRICE_MOVE,4.5,4.5,1.8,1.8696,0,0.0,1,1.0
+2026-10-10T17:58:38.490591+00:00,17724251,Michigan State Spartans vs. Illinois Fighting Illini,2026-10-10T19:30:00Z,spread,Illinois Fighting Illini (-2.5),Illinois Fighting Illini,MAIN_PRICE_MOVE,-2.5,-2.5,1.7693,1.8,0,0.0,1,1.0
+2026-10-10T17:58:38.490591+00:00,17724251,Michigan State Spartans vs. Illinois Fighting Illini,2026-10-10T19:30:00Z,spread,Michigan State Spartans (+2.5),Michigan State Spartans,MAIN_PRICE_MOVE,2.5,2.5,1.9091,1.8696,0,0.0,1,1.0
+2026-10-10T17:58:38.490591+00:00,17724254,Virginia Cavaliers vs. Syracuse Orange,2026-10-10T23:30:00Z,spread,Virginia Cavaliers (-13.5),Virginia Cavaliers,MAIN_PRICE_MOVE,-13.5,-13.5,1.7693,1.8,0,0.0,1,1.0
+2026-10-10T17:58:38.490591+00:00,17724254,Virginia Cavaliers vs. Syracuse Orange,2026-10-10T23:30:00Z,spread,Syracuse Orange (+13.5),Syracuse Orange,MAIN_PRICE_MOVE,13.5,13.5,1.9091,1.8696,0,0.0,1,1.0
+2026-10-10T17:58:38.490591+00:00,17933660,UMass Minutemen vs. Miami Redhawks,2026-10-10T18:00:00Z,spread,UMass Minutemen (+4.5),UMass Minutemen,REMOVED_MAIN,4.5,,1.8334,,0,,1,
+2026-10-10T17:58:38.490591+00:00,17933660,UMass Minutemen vs. Miami Redhawks,2026-10-10T18:00:00Z,spread,Miami Redhawks (-4.5),Miami Redhawks,REMOVED_MAIN,-4.5,,1.8334,,0,,1,
+2026-10-10T17:58:38.490591+00:00,17955947,Lindenwood Lions vs. Southeast Missouri State Redhawks,2026-10-10T18:00:00Z,total,Plus de 45.5,over,REMOVED_MAIN,45.5,,1.8334,,0,,1,
+2026-10-10T17:58:38.490591+00:00,17955947,Lindenwood Lions vs. Southeast Missouri State Redhawks,2026-10-10T18:00:00Z,total,Moins de 45.5,under,REMOVED_MAIN,45.5,,1.8334,,0,,1,

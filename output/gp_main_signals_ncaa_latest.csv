@@ -1,17 +1,21 @@
 captured_at,event_id,match,start_date,market,selection,side,signal,old_line,new_line,old_price,new_price,old_status,new_status,old_is_main_bet,new_is_main_bet
-2026-10-10T16:37:42.635579+00:00,17932012,Appalachian State Mountaineers vs. Old Dominion Monarchs,2026-10-10T17:00:00Z,spread,Appalachian State Mountaineers (-9.5),Appalachian State Mountaineers,MAIN_PRICE_MOVE,-9.5,-9.5,1.8,1.8334,0,0.0,1,1.0
-2026-10-10T16:37:42.635579+00:00,17932012,Appalachian State Mountaineers vs. Old Dominion Monarchs,2026-10-10T17:00:00Z,spread,Old Dominion Monarchs (+9.5),Old Dominion Monarchs,MAIN_PRICE_MOVE,9.5,9.5,1.8696,1.8334,0,0.0,1,1.0
-2026-10-10T16:37:42.635579+00:00,17932012,Appalachian State Mountaineers vs. Old Dominion Monarchs,2026-10-10T17:00:00Z,total,Plus de 46.5,over,MAIN_SWITCH,46.5,46.5,1.8696,1.8696,0,0.0,0,1.0
-2026-10-10T16:37:42.635579+00:00,17932012,Appalachian State Mountaineers vs. Old Dominion Monarchs,2026-10-10T17:00:00Z,total,Moins de 46.5,under,MAIN_SWITCH,46.5,46.5,1.8,1.8,0,0.0,0,1.0
-2026-10-10T16:37:42.635579+00:00,17932502,Akron Zips vs. MICHIGAN EST,2026-10-10T19:30:00Z,total,Plus de 51.5,over,MAIN_PRICE_MOVE,51.5,51.5,1.8,1.8334,0,0.0,1,1.0
-2026-10-10T16:37:42.635579+00:00,17932502,Akron Zips vs. MICHIGAN EST,2026-10-10T19:30:00Z,total,Moins de 51.5,under,MAIN_PRICE_MOVE,51.5,51.5,1.8696,1.8334,0,0.0,1,1.0
-2026-10-10T16:37:42.635579+00:00,16634499,Oklahoma Sooners vs. Texas Longhorns,2026-10-10T19:30:00Z,total,Plus de 40.5,over,MAIN_PRICE_MOVE,40.5,40.5,1.8334,1.8,0,0.0,1,1.0
-2026-10-10T16:37:42.635579+00:00,16634499,Oklahoma Sooners vs. Texas Longhorns,2026-10-10T19:30:00Z,total,Moins de 40.5,under,MAIN_PRICE_MOVE,40.5,40.5,1.8334,1.8696,0,0.0,1,1.0
-2026-10-10T16:37:42.635579+00:00,17956215,Charleston Southern Buccaneers vs. South Carolina State Bulldogs,2026-10-10T22:00:00Z,spread,Charleston Southern Buccaneers (+7.5),Charleston Southern Buccaneers,MAIN_PRICE_MOVE,7.5,7.5,1.8,1.7408,0,0.0,1,1.0
-2026-10-10T16:37:42.635579+00:00,17956215,Charleston Southern Buccaneers vs. South Carolina State Bulldogs,2026-10-10T22:00:00Z,spread,South Carolina State Bulldogs (-7.5),South Carolina State Bulldogs,MAIN_PRICE_MOVE,-7.5,-7.5,1.8696,1.9524,0,0.0,1,1.0
-2026-10-10T16:37:42.635579+00:00,17932498,Memphis Tigers vs. UAB Blazers,2026-10-10T23:00:00Z,total,Plus de 53.5,over,MAIN_SWITCH,53.5,53.5,1.8,1.8,0,0.0,0,1.0
-2026-10-10T16:37:42.635579+00:00,17932498,Memphis Tigers vs. UAB Blazers,2026-10-10T23:00:00Z,total,Moins de 53.5,under,MAIN_SWITCH,53.5,53.5,1.8696,1.8696,0,0.0,0,1.0
-2026-10-10T16:37:42.635579+00:00,17955920,Texas Southern Tigers vs. Mississippi Valley State Delta Devils,2026-10-10T19:00:00Z,total,Moins de 54.5,under,REMOVED_MAIN,54.5,,1.8334,,0,,1,
-2026-10-10T16:37:42.635579+00:00,17955920,Texas Southern Tigers vs. Mississippi Valley State Delta Devils,2026-10-10T19:00:00Z,total,Plus de 54.5,over,REMOVED_MAIN,54.5,,1.8334,,0,,1,
-2026-10-10T16:37:42.635579+00:00,17955924,South Dakota Coyotes vs. Southern Illinois Salukis,2026-10-10T18:00:00Z,total,Plus de 58.5,over,REMOVED_MAIN,58.5,,1.8334,,0,,1,
-2026-10-10T16:37:42.635579+00:00,17955924,South Dakota Coyotes vs. Southern Illinois Salukis,2026-10-10T18:00:00Z,total,Moins de 58.5,under,REMOVED_MAIN,58.5,,1.8334,,0,,1,
+2026-10-10T16:51:13.050647+00:00,17933660,UMass Minutemen vs. Miami Redhawks,2026-10-10T18:00:00Z,spread,Miami Redhawks (-6.5),Miami Redhawks,MAIN_SWITCH,-6.5,-6.5,1.8696,1.8696,0,0.0,0,1.0
+2026-10-10T16:51:13.050647+00:00,17933660,UMass Minutemen vs. Miami Redhawks,2026-10-10T18:00:00Z,spread,UMass Minutemen (+6.5),UMass Minutemen,MAIN_SWITCH,6.5,6.5,1.8,1.8,0,0.0,0,1.0
+2026-10-10T16:51:13.050647+00:00,17955934,Gardner Webb Runnin Bulldogs vs. Eastern Illinois Panthers,2026-10-10T19:30:00Z,spread,Gardner Webb Runnin Bulldogs (-13.5),Gardner Webb Runnin Bulldogs,MAIN_PRICE_MOVE,-13.5,-13.5,1.8696,1.9524,0,0.0,1,1.0
+2026-10-10T16:51:13.050647+00:00,17955934,Gardner Webb Runnin Bulldogs vs. Eastern Illinois Panthers,2026-10-10T19:30:00Z,spread,Eastern Illinois Panthers (+13.5),Eastern Illinois Panthers,MAIN_PRICE_MOVE,13.5,13.5,1.8,1.7408,0,0.0,1,1.0
+2026-10-10T16:51:13.050647+00:00,16634498,Indiana Hoosiers vs. Ohio State Buckeyes,2026-10-17T16:00:00Z,total,Plus de 48.5,over,REMOVED_MAIN,48.5,,1.8,,0,,1,
+2026-10-10T16:51:13.050647+00:00,16634498,Indiana Hoosiers vs. Ohio State Buckeyes,2026-10-17T16:00:00Z,total,Moins de 48.5,under,REMOVED_MAIN,48.5,,1.8696,,0,,1,
+2026-10-10T16:51:13.050647+00:00,16634498,Indiana Hoosiers vs. Ohio State Buckeyes,2026-10-17T16:00:00Z,spread,Indiana Hoosiers (+2.5),Indiana Hoosiers,REMOVED_MAIN,2.5,,1.9091,,0,,1,
+2026-10-10T16:51:13.050647+00:00,16634498,Indiana Hoosiers vs. Ohio State Buckeyes,2026-10-17T16:00:00Z,spread,Ohio State Buckeyes (-2.5),Ohio State Buckeyes,REMOVED_MAIN,-2.5,,1.7693,,0,,1,
+2026-10-10T16:51:13.050647+00:00,17803700,LSU Tigers vs. Mississippi St Bulldogs,2026-10-17T16:00:00Z,total,Moins de 59.5,under,REMOVED_MAIN,59.5,,1.8334,,0,,1,
+2026-10-10T16:51:13.050647+00:00,17803700,LSU Tigers vs. Mississippi St Bulldogs,2026-10-17T16:00:00Z,total,Plus de 59.5,over,REMOVED_MAIN,59.5,,1.8334,,0,,1,
+2026-10-10T16:51:13.050647+00:00,17803700,LSU Tigers vs. Mississippi St Bulldogs,2026-10-17T16:00:00Z,spread,LSU Tigers (-12.5),LSU Tigers,REMOVED_MAIN,-12.5,,1.8696,,0,,1,
+2026-10-10T16:51:13.050647+00:00,17803700,LSU Tigers vs. Mississippi St Bulldogs,2026-10-17T16:00:00Z,spread,Mississippi St Bulldogs (+12.5),Mississippi St Bulldogs,REMOVED_MAIN,12.5,,1.8,,0,,1,
+2026-10-10T16:51:13.050647+00:00,17955876,Tennessee Tech Golden Eagles vs. Furman Paladins,2026-10-10T19:30:00Z,total,Moins de 45.5,under,REMOVED_MAIN,45.5,,1.7143,,0,,1,
+2026-10-10T16:51:13.050647+00:00,17955876,Tennessee Tech Golden Eagles vs. Furman Paladins,2026-10-10T19:30:00Z,total,Plus de 45.5,over,REMOVED_MAIN,45.5,,2.0,,0,,1,
+2026-10-10T16:51:13.050647+00:00,17955925,Weber State Wildcats vs. Idaho Vandals,2026-10-10T19:00:00Z,spread,Idaho Vandals (-3.5),Idaho Vandals,REMOVED_MAIN,-3.5,,1.8,,0,,1,
+2026-10-10T16:51:13.050647+00:00,17955925,Weber State Wildcats vs. Idaho Vandals,2026-10-10T19:00:00Z,spread,Weber State Wildcats (+3.5),Weber State Wildcats,REMOVED_MAIN,3.5,,1.8696,,0,,1,
+2026-10-10T16:51:13.050647+00:00,17955934,Gardner Webb Runnin Bulldogs vs. Eastern Illinois Panthers,2026-10-10T19:30:00Z,total,Moins de 44.5,under,REMOVED_MAIN,44.5,,1.9091,,0,,1,
+2026-10-10T16:51:13.050647+00:00,17955934,Gardner Webb Runnin Bulldogs vs. Eastern Illinois Panthers,2026-10-10T19:30:00Z,total,Plus de 44.5,over,REMOVED_MAIN,44.5,,1.7693,,0,,1,
+2026-10-10T16:51:13.050647+00:00,17956225,Alabama A&M Bulldogs vs. Bethune-Cookman Wildcats,2026-10-10T17:00:00Z,total,Moins de 45.5,under,REMOVED_MAIN,45.5,,1.8696,,0,,1,
+2026-10-10T16:51:13.050647+00:00,17956225,Alabama A&M Bulldogs vs. Bethune-Cookman Wildcats,2026-10-10T17:00:00Z,total,Plus de 45.5,over,REMOVED_MAIN,45.5,,1.8,,0,,1,

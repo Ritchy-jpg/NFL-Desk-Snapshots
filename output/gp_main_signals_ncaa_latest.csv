@@ -1,15 +1,19 @@
 captured_at,event_id,match,start_date,market,selection,side,signal,old_line,new_line,old_price,new_price,old_status,new_status,old_is_main_bet,new_is_main_bet
-2026-10-10T14:02:25.006313+00:00,17955916,Georgetown Hoyas vs. Bucknell Bison,2026-10-10T16:30:00Z,total,Plus de 45.5,over,MAIN_PRICE_MOVE,45.5,45.5,1.9524,1.9091,0,0.0,1,1.0
-2026-10-10T14:02:25.006313+00:00,17955916,Georgetown Hoyas vs. Bucknell Bison,2026-10-10T16:30:00Z,total,Moins de 45.5,under,MAIN_PRICE_MOVE,45.5,45.5,1.7408,1.7693,0,0.0,1,1.0
-2026-10-10T14:02:25.006313+00:00,17932012,Appalachian State Mountaineers vs. Old Dominion Monarchs,2026-10-10T17:00:00Z,total,Plus de 46.5,over,MAIN_PRICE_MOVE,46.5,46.5,1.8,1.8334,0,0.0,1,1.0
-2026-10-10T14:02:25.006313+00:00,17932012,Appalachian State Mountaineers vs. Old Dominion Monarchs,2026-10-10T17:00:00Z,total,Moins de 46.5,under,MAIN_PRICE_MOVE,46.5,46.5,1.8696,1.8334,0,0.0,1,1.0
-2026-10-10T14:02:25.006313+00:00,17955947,Lindenwood Lions vs. Southeast Missouri State Redhawks,2026-10-10T18:00:00Z,spread,Southeast Missouri State Redhawks (-2.5),Southeast Missouri State Redhawks,MAIN_PRICE_MOVE,-2.5,-2.5,1.6897,1.6667,0,0.0,1,1.0
-2026-10-10T14:02:25.006313+00:00,17955947,Lindenwood Lions vs. Southeast Missouri State Redhawks,2026-10-10T18:00:00Z,spread,Lindenwood Lions (+2.5),Lindenwood Lions,MAIN_PRICE_MOVE,2.5,2.5,2.05,2.1,0,0.0,1,1.0
-2026-10-10T14:02:25.006313+00:00,17955918,Valparaiso Beacons vs. Drake Bulldogs,2026-10-10T18:00:00Z,total,Plus de 55.5,over,MAIN_PRICE_MOVE,55.5,55.5,1.7408,1.7143,0,0.0,1,1.0
-2026-10-10T14:02:25.006313+00:00,17955918,Valparaiso Beacons vs. Drake Bulldogs,2026-10-10T18:00:00Z,total,Moins de 55.5,under,MAIN_PRICE_MOVE,55.5,55.5,1.9524,2.0,0,0.0,1,1.0
-2026-10-10T14:02:25.006313+00:00,17955930,Towson Tigers vs. Stony Brook Seawolves,2026-10-10T20:00:00Z,spread,Towson Tigers (+6.5),Towson Tigers,MAIN_PRICE_MOVE,6.5,6.5,1.8,1.6897,0,0.0,1,1.0
-2026-10-10T14:02:25.006313+00:00,17955930,Towson Tigers vs. Stony Brook Seawolves,2026-10-10T20:00:00Z,spread,Stony Brook Seawolves (-6.5),Stony Brook Seawolves,MAIN_PRICE_MOVE,-6.5,-6.5,1.8696,2.05,0,0.0,1,1.0
-2026-10-10T14:02:25.006313+00:00,17933326,Marshall Herd vs. Coastal Carolina,2026-10-10T23:00:00Z,total,Plus de 58.5,over,MAIN_PRICE_MOVE,58.5,58.5,1.8334,1.8696,0,0.0,1,1.0
-2026-10-10T14:02:25.006313+00:00,17933326,Marshall Herd vs. Coastal Carolina,2026-10-10T23:00:00Z,total,Moins de 58.5,under,MAIN_PRICE_MOVE,58.5,58.5,1.8334,1.8,0,0.0,1,1.0
-2026-10-10T14:02:25.006313+00:00,17933663,Louisiana Tech Bulldogs vs. Louisiana-Lafayette Ragin Cajuns,2026-10-10T23:30:00Z,spread,Louisiana Tech Bulldogs (-3.5),Louisiana Tech Bulldogs,REMOVED_MAIN,-3.5,,1.9091,,0,,1,
-2026-10-10T14:02:25.006313+00:00,17933663,Louisiana Tech Bulldogs vs. Louisiana-Lafayette Ragin Cajuns,2026-10-10T23:30:00Z,spread,Louisiana-Lafayette Ragin Cajuns (+3.5),Louisiana-Lafayette Ragin Cajuns,REMOVED_MAIN,3.5,,1.7693,,0,,1,
+2026-10-10T14:17:15.803656+00:00,17955743,Dayton Flyers vs. Morehead State Eagles,2026-10-10T16:00:00Z,spread,Dayton Flyers (-21.5),Dayton Flyers,MAIN_PRICE_MOVE,-21.5,-21.5,1.6667,1.6451,0,0.0,1,1.0
+2026-10-10T14:17:15.803656+00:00,17955743,Dayton Flyers vs. Morehead State Eagles,2026-10-10T16:00:00Z,spread,Morehead State Eagles (+21.5),Morehead State Eagles,MAIN_PRICE_MOVE,21.5,21.5,2.1,2.15,0,0.0,1,1.0
+2026-10-10T14:17:15.803656+00:00,17955916,Georgetown Hoyas vs. Bucknell Bison,2026-10-10T16:30:00Z,total,Plus de 45.5,over,MAIN_PRICE_MOVE,45.5,45.5,1.9091,2.0,0,0.0,1,1.0
+2026-10-10T14:17:15.803656+00:00,17955916,Georgetown Hoyas vs. Bucknell Bison,2026-10-10T16:30:00Z,total,Moins de 45.5,under,MAIN_PRICE_MOVE,45.5,45.5,1.7693,1.7143,0,0.0,1,1.0
+2026-10-10T14:17:15.803656+00:00,17955922,Butler Bulldogs vs. San Diego Toreros,2026-10-10T17:00:00Z,total,Plus de 58.5,over,MAIN_PRICE_MOVE,58.5,58.5,1.7408,1.7143,0,0.0,1,1.0
+2026-10-10T14:17:15.803656+00:00,17955922,Butler Bulldogs vs. San Diego Toreros,2026-10-10T17:00:00Z,total,Moins de 58.5,under,MAIN_PRICE_MOVE,58.5,58.5,1.9524,2.0,0,0.0,1,1.0
+2026-10-10T14:17:15.803656+00:00,17955917,Chattanooga Mocs vs. Samford Bulldogs,2026-10-10T17:00:00Z,spread,Samford Bulldogs (+11.5),Samford Bulldogs,MAIN_PRICE_MOVE,11.5,11.5,1.9524,1.8,0,0.0,1,1.0
+2026-10-10T14:17:15.803656+00:00,17955917,Chattanooga Mocs vs. Samford Bulldogs,2026-10-10T17:00:00Z,spread,Chattanooga Mocs (-11.5),Chattanooga Mocs,MAIN_PRICE_MOVE,-11.5,-11.5,1.7408,1.8696,0,0.0,1,1.0
+2026-10-10T14:17:15.803656+00:00,17955917,Chattanooga Mocs vs. Samford Bulldogs,2026-10-10T17:00:00Z,total,Plus de 40.5,over,MAIN_PRICE_MOVE,40.5,40.5,1.7693,1.9091,0,0.0,1,1.0
+2026-10-10T14:17:15.803656+00:00,17955917,Chattanooga Mocs vs. Samford Bulldogs,2026-10-10T17:00:00Z,total,Moins de 40.5,under,MAIN_PRICE_MOVE,40.5,40.5,1.9091,1.7693,0,0.0,1,1.0
+2026-10-10T14:17:15.803656+00:00,17955935,Elon Phoenix vs. Wofford Terriers,2026-10-10T18:00:00Z,total,Plus de 46.5,over,MAIN_PRICE_MOVE,46.5,46.5,1.7408,1.8696,0,0.0,1,1.0
+2026-10-10T14:17:15.803656+00:00,17955935,Elon Phoenix vs. Wofford Terriers,2026-10-10T18:00:00Z,total,Moins de 46.5,under,MAIN_PRICE_MOVE,46.5,46.5,1.9524,1.8,0,0.0,1,1.0
+2026-10-10T14:17:15.803656+00:00,17933660,UMass Minutemen vs. Miami Redhawks,2026-10-10T18:00:00Z,spread,Miami Redhawks (-6.5),Miami Redhawks,MAIN_SWITCH,-6.5,-6.5,1.8696,1.8696,0,0.0,1,0.0
+2026-10-10T14:17:15.803656+00:00,17933660,UMass Minutemen vs. Miami Redhawks,2026-10-10T18:00:00Z,spread,UMass Minutemen (+6.5),UMass Minutemen,MAIN_SWITCH,6.5,6.5,1.8,1.8,0,0.0,1,0.0
+2026-10-10T14:17:15.803656+00:00,17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Moins de 51.5,under,MAIN_PRICE_MOVE,51.5,51.5,1.8334,1.8,0,0.0,1,1.0
+2026-10-10T14:17:15.803656+00:00,17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Plus de 51.5,over,MAIN_PRICE_MOVE,51.5,51.5,1.8334,1.8696,0,0.0,1,1.0
+2026-10-10T14:17:15.803656+00:00,17955738,Yale Bulldogs vs. Dartmouth Big Green,2026-10-10T16:00:00Z,total,Plus de 53.5,over,REMOVED_MAIN,53.5,,1.8696,,0,,1,
+2026-10-10T14:17:15.803656+00:00,17955738,Yale Bulldogs vs. Dartmouth Big Green,2026-10-10T16:00:00Z,total,Moins de 53.5,under,REMOVED_MAIN,53.5,,1.8,,0,,1,

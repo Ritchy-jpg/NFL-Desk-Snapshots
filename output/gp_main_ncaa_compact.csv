@@ -5,12 +5,14 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17955945,Lamar Cardinals vs. Incarnate Word Cardinals,2026-10-10T20:00:00Z,spread,Handicap (inclus prolongations),223,70799,Incarnate Word Cardinals (+7.0),-7.0,1.9524,4627381446,0,True
 17955945,Lamar Cardinals vs. Incarnate Word Cardinals,2026-10-10T20:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 49.5,49.5,1.9524,4621797910,0,True
 17955945,Lamar Cardinals vs. Incarnate Word Cardinals,2026-10-10T20:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 49.5,49.5,1.7408,4621797911,0,True
-17956051,Portland State Vikings vs. Utah Tech Trailblaizers,2026-10-10T20:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Utah Tech Trailblaizers,,2.25,4621800736,0,False
-17956051,Portland State Vikings vs. Utah Tech Trailblaizers,2026-10-10T20:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Portland State Vikings,,1.5556,4621800735,0,False
+17956051,Portland State Vikings vs. Utah Tech Trailblaizers,2026-10-10T20:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Utah Tech Trailblaizers,,2.2,4621800736,0,False
+17956051,Portland State Vikings vs. Utah Tech Trailblaizers,2026-10-10T20:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Portland State Vikings,,1.5715,4621800735,0,False
 17956051,Portland State Vikings vs. Utah Tech Trailblaizers,2026-10-10T20:00:00Z,spread,Handicap (inclus prolongations),223,70799,Utah Tech Trailblaizers (+2.5),-2.5,1.8334,4628185925,0,True
+17956051,Portland State Vikings vs. Utah Tech Trailblaizers,2026-10-10T20:00:00Z,spread,Handicap (inclus prolongations),223,70799,Portland State Vikings (-3.5),-3.5,1.9524,4627415837,0,False
 17956051,Portland State Vikings vs. Utah Tech Trailblaizers,2026-10-10T20:00:00Z,spread,Handicap (inclus prolongations),223,70799,Portland State Vikings (-2.5),-2.5,1.8334,4628185926,0,True
-17956051,Portland State Vikings vs. Utah Tech Trailblaizers,2026-10-10T20:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 60.5,60.5,1.8,4625987714,0,True
-17956051,Portland State Vikings vs. Utah Tech Trailblaizers,2026-10-10T20:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 60.5,60.5,1.8696,4625987715,0,True
+17956051,Portland State Vikings vs. Utah Tech Trailblaizers,2026-10-10T20:00:00Z,spread,Handicap (inclus prolongations),223,70799,Utah Tech Trailblaizers (+3.5),-3.5,1.7408,4627415838,0,False
+17956051,Portland State Vikings vs. Utah Tech Trailblaizers,2026-10-10T20:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 60.5,60.5,1.8334,4625987714,0,True
+17956051,Portland State Vikings vs. Utah Tech Trailblaizers,2026-10-10T20:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 60.5,60.5,1.8334,4625987715,0,True
 17955930,Towson Tigers vs. Stony Brook Seawolves,2026-10-10T20:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Towson Tigers,,2.2,4621800154,0,False
 17955930,Towson Tigers vs. Stony Brook Seawolves,2026-10-10T20:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Stony Brook Seawolves,,1.5715,4621800155,0,False
 17955930,Towson Tigers vs. Stony Brook Seawolves,2026-10-10T20:00:00Z,spread,Handicap (inclus prolongations),223,70799,Towson Tigers (+3.5),3.5,1.8,4627447524,0,True
@@ -145,128 +147,128 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17724269,Arkansas Razorbacks vs. Tennessee Volunteers,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 60.5,60.5,1.3125,4600498047,0,False
 17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Ohio State Buckeyes,,1.0,4593785016,7,False
 17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Maryland Terrapins,,11.0,4593785017,0,False
-17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Maryland Terrapins (+43.5),-43.5,1.2353,4600501803,0,False
-17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Ohio State Buckeyes (-36.5),-36.5,2.4,4594111522,0,False
-17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Ohio State Buckeyes (-35.5),-35.5,2.3,4594179107,0,False
-17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Maryland Terrapins (+35.5),-35.5,1.5556,4594179106,0,False
-17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Maryland Terrapins (+36.5),-36.5,1.5264,4594111523,0,False
-17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Ohio State Buckeyes (-17.5),-17.5,1.1819,4616913959,0,False
-17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Ohio State Buckeyes (-33.5),-33.5,2.0,4600501800,0,False
-17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Maryland Terrapins (+17.5),-17.5,4.4,4616913960,0,False
-17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Ohio State Buckeyes (-43.5),-43.5,3.75,4600501802,0,False
-17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Maryland Terrapins (+33.5),-33.5,1.7143,4600501801,0,False
+17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Maryland Terrapins (+43.5),-43.5,1.2223,4600501803,0,False
+17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Ohio State Buckeyes (-36.5),-36.5,2.5,4594111522,0,False
+17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Ohio State Buckeyes (-35.5),-35.5,2.4,4594179107,0,False
+17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Maryland Terrapins (+35.5),-35.5,1.5264,4594179106,0,False
+17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Maryland Terrapins (+36.5),-36.5,1.5,4594111523,0,False
+17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Ohio State Buckeyes (-17.5),-17.5,1.1667,4616913959,0,False
+17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Ohio State Buckeyes (-33.5),-33.5,2.05,4600501800,0,False
+17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Maryland Terrapins (+17.5),-17.5,4.5,4616913960,0,False
+17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Ohio State Buckeyes (-43.5),-43.5,4.0,4600501802,0,False
+17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Maryland Terrapins (+33.5),-33.5,1.6897,4600501801,0,False
 17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Ohio State Buckeyes (-23.5),-23.5,1.3334,4600501804,0,False
 17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Maryland Terrapins (+23.5),-23.5,3.1,4600501805,0,False
 17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Ohio State Buckeyes (-20.5),-20.5,1.25,4600501806,0,False
 17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Maryland Terrapins (+20.5),-20.5,3.7,4600501807,0,False
-17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Ohio State Buckeyes (-40.5),-40.5,3.0,4600501808,0,False
-17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Maryland Terrapins (+40.5),-40.5,1.3572,4600501809,0,False
+17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Ohio State Buckeyes (-40.5),-40.5,3.2,4600501808,0,False
+17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Maryland Terrapins (+40.5),-40.5,1.3125,4600501809,0,False
 17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Ohio State Buckeyes (-30.5),-30.5,1.7408,4600501810,0,False
-17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Maryland Terrapins (+16.5),-16.5,5.0,4616915251,0,False
-17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Ohio State Buckeyes (-16.5),-16.5,1.1429,4616915252,0,False
-17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Ohio State Buckeyes (-32.5),-32.5,1.9524,4600501812,0,False
+17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Maryland Terrapins (+16.5),-16.5,5.25,4616915251,0,False
+17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Ohio State Buckeyes (-16.5),-16.5,1.1334,4616915252,0,False
+17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Ohio State Buckeyes (-32.5),-32.5,2.0,4600501812,0,False
 17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Maryland Terrapins (+30.5),-30.5,1.9524,4600501811,0,False
-17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Ohio State Buckeyes (-42.5),-42.5,3.7,4600501815,0,False
+17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Ohio State Buckeyes (-42.5),-42.5,3.75,4600501815,0,False
 17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Ohio State Buckeyes (-22.5),-22.5,1.3125,4600501816,0,False
 17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Maryland Terrapins (+22.5),-22.5,3.2,4600501817,0,False
-17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Maryland Terrapins (+32.5),-32.5,1.7408,4600501813,0,False
-17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Ohio State Buckeyes (-39.5),-39.5,2.85,4600501819,0,False
+17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Maryland Terrapins (+32.5),-32.5,1.7143,4600501813,0,False
+17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Ohio State Buckeyes (-39.5),-39.5,3.1,4600501819,0,False
 17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Ohio State Buckeyes (-21.5),-21.5,1.2858,4600501820,0,False
 17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Maryland Terrapins (+21.5),-21.5,3.4,4600501821,0,False
-17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Maryland Terrapins (+39.5),-39.5,1.3847,4600501818,0,False
-17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Maryland Terrapins (+42.5),-42.5,1.25,4600501814,0,False
+17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Maryland Terrapins (+39.5),-39.5,1.3334,4600501818,0,False
+17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Maryland Terrapins (+42.5),-42.5,1.2353,4600501814,0,False
 17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Ohio State Buckeyes (-19.5),-19.5,1.2223,4600501824,0,False
 17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Maryland Terrapins (+19.5),-19.5,4.0,4600501825,0,False
-17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Ohio State Buckeyes (-41.5),-41.5,3.25,4600501826,0,False
-17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Maryland Terrapins (+41.5),-41.5,1.3031,4600501827,0,False
+17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Ohio State Buckeyes (-41.5),-41.5,3.4,4600501826,0,False
+17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Maryland Terrapins (+41.5),-41.5,1.2858,4600501827,0,False
 17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Ohio State Buckeyes (-29.5),-29.5,1.6897,4600501828,0,False
 17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Maryland Terrapins (+29.5),-29.5,2.05,4600501829,0,False
-17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Ohio State Buckeyes (-31.5),-31.5,1.8334,4600501830,0,True
-17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Maryland Terrapins (+31.5),-31.5,1.8334,4600501831,0,True
-17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Maryland Terrapins (+45.5),-45.5,1.1819,4600501832,0,False
-17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Ohio State Buckeyes (-37.5),-37.5,2.55,4593787209,0,False
+17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Ohio State Buckeyes (-31.5),-31.5,1.8696,4600501830,0,True
+17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Maryland Terrapins (+31.5),-31.5,1.8,4600501831,0,True
+17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Maryland Terrapins (+45.5),-45.5,1.1539,4600501832,0,False
+17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Ohio State Buckeyes (-37.5),-37.5,2.6,4593787209,0,False
 17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Ohio State Buckeyes (-25.5),-25.5,1.4762,4600501834,0,False
-17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Ohio State Buckeyes (-45.5),-45.5,4.4,4600501833,0,False
+17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Ohio State Buckeyes (-45.5),-45.5,4.75,4600501833,0,False
 17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Ohio State Buckeyes (-24.5),-24.5,1.4167,4600501836,0,False
 17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Maryland Terrapins (+24.5),-24.5,2.7,4600501837,0,False
 17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Ohio State Buckeyes (-26.5),-26.5,1.5,4600501838,0,False
 17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Maryland Terrapins (+25.5),-25.5,2.55,4600501835,0,False
-17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Ohio State Buckeyes (-28.5),-28.5,1.6451,4600501840,0,False
-17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Ohio State Buckeyes (-34.5),-34.5,2.15,4597287248,0,False
+17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Ohio State Buckeyes (-28.5),-28.5,1.6667,4600501840,0,False
+17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Ohio State Buckeyes (-34.5),-34.5,2.2,4597287248,0,False
 17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Ohio State Buckeyes (-27.5),-27.5,1.5556,4600501842,0,False
 17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Maryland Terrapins (+26.5),-26.5,2.5,4600501839,0,False
 17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Maryland Terrapins (+27.5),-27.5,2.3,4600501843,0,False
-17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Ohio State Buckeyes (-38.5),-38.5,2.7,4600501845,0,False
-17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Maryland Terrapins (+28.5),-28.5,2.15,4600501841,0,False
-17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Maryland Terrapins (+34.5),-34.5,1.6451,4597287247,0,False
-17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Maryland Terrapins (+38.5),-38.5,1.4167,4600501844,0,False
-17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Ohio State Buckeyes (-44.5),-44.5,4.0,4600501849,0,False
-17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Ohio State Buckeyes (-46.5),-46.5,4.75,4600501850,0,False
-17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Maryland Terrapins (+44.5),-44.5,1.2223,4600501848,0,False
-17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Maryland Terrapins (+46.5),-46.5,1.1539,4600501851,0,False
+17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Ohio State Buckeyes (-38.5),-38.5,2.85,4600501845,0,False
+17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Maryland Terrapins (+28.5),-28.5,2.1,4600501841,0,False
+17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Maryland Terrapins (+34.5),-34.5,1.625,4597287247,0,False
+17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Maryland Terrapins (+38.5),-38.5,1.3847,4600501844,0,False
+17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Ohio State Buckeyes (-44.5),-44.5,4.2,4600501849,0,False
+17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Ohio State Buckeyes (-46.5),-46.5,5.25,4600501850,0,False
+17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Maryland Terrapins (+44.5),-44.5,1.2,4600501848,0,False
+17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Maryland Terrapins (+46.5),-46.5,1.1334,4600501851,0,False
 17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Ohio State Buckeyes (-18.5),-18.5,1.2,4616912250,0,False
 17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Maryland Terrapins (+18.5),-18.5,4.2,4616912251,0,False
-17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Maryland Terrapins (+37.5),-37.5,1.4762,4593787210,0,False
-17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 65.5,65.5,1.3125,4600501760,0,False
-17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 65.5,65.5,3.2,4600501761,0,False
-17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 66.5,66.5,1.2667,4600501762,0,False
-17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 66.5,66.5,3.5,4600501763,0,False
-17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 64.5,64.5,3.0,4600501764,0,False
-17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 64.5,64.5,1.3572,4600501765,0,False
-17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 44.5,44.5,1.1819,4600501766,0,False
-17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 44.5,44.5,4.4,4600501767,0,False
+17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Handicap (inclus prolongations),223,70799,Maryland Terrapins (+37.5),-37.5,1.4546,4593787210,0,False
+17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 65.5,65.5,1.3031,4600501760,0,False
+17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 65.5,65.5,3.25,4600501761,0,False
+17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 66.5,66.5,1.25,4600501762,0,False
+17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 66.5,66.5,3.7,4600501763,0,False
+17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 64.5,64.5,3.1,4600501764,0,False
+17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 64.5,64.5,1.3334,4600501765,0,False
+17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 44.5,44.5,1.2,4600501766,0,False
+17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 44.5,44.5,4.2,4600501767,0,False
 17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 45.5,45.5,1.2353,4600501768,0,False
 17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 45.5,45.5,3.75,4600501769,0,False
 17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 46.5,46.5,1.25,4600501770,0,False
 17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 46.5,46.5,3.7,4600501771,0,False
 17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 59.5,59.5,1.5715,4600501772,0,False
 17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 59.5,59.5,2.25,4600501773,0,False
-17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 57.5,57.5,1.7693,4600501774,0,False
-17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 57.5,57.5,1.9091,4600501775,0,False
-17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 58.5,58.5,1.6897,4600501776,0,False
-17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 58.5,58.5,2.05,4600501777,0,False
+17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 57.5,57.5,1.7408,4600501774,0,False
+17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 57.5,57.5,1.9524,4600501775,0,False
+17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 58.5,58.5,1.6667,4600501776,0,False
+17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 58.5,58.5,2.1,4600501777,0,False
 17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 49.5,49.5,1.3847,4600501778,0,False
 17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 49.5,49.5,2.85,4600501779,0,False
 17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 47.5,47.5,3.4,4600501780,0,False
 17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 47.5,47.5,1.2858,4600501781,0,False
 17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 48.5,48.5,3.1,4600501782,0,False
 17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 48.5,48.5,1.3334,4600501783,0,False
-17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 55.5,55.5,1.9091,4593789477,0,False
-17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 55.5,55.5,1.7693,4593789478,0,False
+17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 55.5,55.5,1.8696,4593789477,0,True
+17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 55.5,55.5,1.8,4593789478,0,True
 17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 54.5,54.5,2.1,4593787207,0,False
 17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 54.5,54.5,1.6667,4593787208,0,False
-17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 56.5,56.5,1.8334,4597287249,0,True
-17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 56.5,56.5,1.8334,4597287250,0,True
-17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 71.5,71.5,1.1429,4600501728,0,False
-17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 71.5,71.5,5.0,4600501729,0,False
-17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 51.5,51.5,2.55,4600501730,0,False
-17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 51.5,51.5,1.4762,4600501731,0,False
+17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 56.5,56.5,1.8,4597287249,0,False
+17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 56.5,56.5,1.8696,4597287250,0,False
+17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 71.5,71.5,1.1334,4600501728,0,False
+17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 71.5,71.5,5.25,4600501729,0,False
+17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 51.5,51.5,2.5,4600501730,0,False
+17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 51.5,51.5,1.5,4600501731,0,False
 17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 61.5,61.5,1.5,4600501732,0,False
 17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 61.5,61.5,2.5,4600501733,0,False
-17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 41.5,41.5,6.0,4600501734,0,False
-17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 41.5,41.5,1.1112,4600501735,0,False
-17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 42.5,42.5,5.25,4600501736,0,False
-17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 42.5,42.5,1.1334,4600501737,0,False
-17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 62.5,62.5,1.4348,4600501738,0,False
-17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 62.5,62.5,2.65,4600501739,0,False
-17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 52.5,52.5,2.3,4600501740,0,False
-17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 52.5,52.5,1.5556,4600501741,0,False
-17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 70.5,70.5,1.1539,4600501742,0,False
-17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 70.5,70.5,4.75,4600501743,0,False
+17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 41.5,41.5,5.5,4600501734,0,False
+17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 41.5,41.5,1.125,4600501735,0,False
+17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 42.5,42.5,5.0,4600501736,0,False
+17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 42.5,42.5,1.1429,4600501737,0,False
+17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 62.5,62.5,1.4167,4600501738,0,False
+17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 62.5,62.5,2.7,4600501739,0,False
+17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 52.5,52.5,2.25,4600501740,0,False
+17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 52.5,52.5,1.5715,4600501741,0,False
+17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 70.5,70.5,1.1429,4600501742,0,False
+17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 70.5,70.5,5.0,4600501743,0,False
 17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 50.5,50.5,2.7,4600501744,0,False
 17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 50.5,50.5,1.4167,4600501745,0,False
-17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 60.5,60.5,1.5556,4600501746,0,False
-17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 60.5,60.5,2.3,4600501747,0,False
-17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 43.5,43.5,5.0,4600501748,0,False
-17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 43.5,43.5,1.1429,4600501749,0,False
+17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 60.5,60.5,1.5455,4600501746,0,False
+17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 60.5,60.5,2.35,4600501747,0,False
+17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 43.5,43.5,4.75,4600501748,0,False
+17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 43.5,43.5,1.1539,4600501749,0,False
 17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 63.5,63.5,1.3847,4600501750,0,False
 17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 63.5,63.5,2.85,4600501751,0,False
-17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 53.5,53.5,2.25,4600501752,0,False
-17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 53.5,53.5,1.5715,4600501753,0,False
+17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 53.5,53.5,2.2,4600501752,0,False
+17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 53.5,53.5,1.625,4600501753,0,False
 17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 69.5,69.5,4.4,4600501754,0,False
 17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 69.5,69.5,1.1819,4600501755,0,False
-17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 67.5,67.5,1.25,4600501756,0,False
-17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 67.5,67.5,3.7,4600501757,0,False
+17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 67.5,67.5,1.2353,4600501756,0,False
+17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 67.5,67.5,3.75,4600501757,0,False
 17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 68.5,68.5,1.2223,4600501758,0,False
 17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 68.5,68.5,4.0,4600501759,0,False
 17956212,Grambling State Tigers vs. Jackson State Tigers,2026-10-10T21:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Grambling State Tigers,,3.2,4621813061,0,False
@@ -301,60 +303,90 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17956224,Idaho State Bengals vs. Cal Poly Mustangs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 63.5,63.5,1.9091,4621837043,0,True
 17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,San Diego State Aztecs,,5.25,4596537792,0,False
 17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Oregon State Beavers,,1.1112,4596537793,0,False
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,San Diego State Aztecs (+24.5),-24.5,1.3334,4600454335,0,False
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Oregon State Beavers (-19.5),-19.5,2.2,4600454313,0,False
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,San Diego State Aztecs (+19.5),-19.5,1.625,4600454314,0,False
 17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Oregon State Beavers (-16.5),-16.5,1.8334,4600454315,0,True
 17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,San Diego State Aztecs (+16.5),-16.5,1.8334,4600454316,0,True
-17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 62.5,62.5,1.3572,4595170234,0,False
-17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 65.5,65.5,1.2353,4595445050,7,False
-17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 42.5,42.5,1.2858,4623768845,7,False
-17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 42.5,42.5,3.4,4623768846,7,False
-17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 64.5,64.5,3.4,4595194007,7,False
-17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 64.5,64.5,1.2858,4595194008,7,False
-17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 66.5,66.5,4.0,4595464488,7,False
-17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 66.5,66.5,1.2223,4595464489,7,False
-17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 44.5,44.5,1.3572,4595170219,0,False
-17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 44.5,44.5,3.0,4595170220,0,False
-17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 46.5,46.5,1.4348,4595170221,0,False
-17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 46.5,46.5,2.65,4595170222,0,False
-17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 48.5,48.5,1.5556,4595170223,0,False
-17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 48.5,48.5,2.3,4595170224,0,False
-17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 51.5,51.5,1.7143,4595170225,0,False
-17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 51.5,51.5,2.0,4595170226,0,False
-17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 52.5,52.5,1.8,4595170227,0,False
-17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 52.5,52.5,1.8696,4595170228,0,False
-17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 43.5,43.5,1.3125,4595170101,0,False
-17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 58.5,58.5,2.4,4595170229,0,False
-17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 59.5,59.5,2.6,4595170231,0,False
-17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 45.5,45.5,1.4,4595170103,0,False
-17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 47.5,47.5,1.5,4595170105,0,False
-17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 62.5,62.5,3.0,4595170233,0,False
-17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 49.5,49.5,1.625,4595170107,0,False
-17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 65.5,65.5,3.75,4595445049,7,False
-17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 50.5,50.5,1.6451,4595170109,0,False
-17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 43.5,43.5,3.2,4595170102,0,False
-17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 53.5,53.5,1.8334,4595170111,0,True
-17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 45.5,45.5,2.75,4595170104,0,False
-17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 54.5,54.5,1.9524,4595170113,0,False
-17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 47.5,47.5,2.5,4595170106,0,False
-17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 55.5,55.5,2.1,4595170115,0,False
-17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 49.5,49.5,2.2,4595170108,0,False
-17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 56.5,56.5,2.2,4595170117,0,False
-17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 50.5,50.5,2.15,4595170110,0,False
-17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 57.5,57.5,2.25,4595170119,0,False
-17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 53.5,53.5,1.8334,4595170112,0,True
-17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 60.5,60.5,2.65,4595170121,0,False
-17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 54.5,54.5,1.7408,4595170114,0,False
-17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 61.5,61.5,2.85,4595170123,0,False
-17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 55.5,55.5,1.6667,4595170116,0,False
-17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 63.5,63.5,3.2,4595170125,0,False
-17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 56.5,56.5,1.625,4595170118,0,False
-17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 57.5,57.5,1.5715,4595170120,0,False
-17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 60.5,60.5,1.4348,4595170122,0,False
-17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 61.5,61.5,1.3847,4595170124,0,False
-17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 63.5,63.5,1.3125,4595170126,0,False
-17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 67.5,67.5,4.2,4595467998,7,False
-17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 67.5,67.5,1.2,4595467999,7,False
-17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 58.5,58.5,1.5264,4595170230,0,False
-17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 59.5,59.5,1.4546,4595170232,0,False
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,San Diego State Aztecs (+8.5),-8.5,2.85,4600454317,0,False
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Oregon State Beavers (-8.5),-8.5,1.3847,4600454318,0,False
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,San Diego State Aztecs (+9.5),-9.5,2.7,4600454319,0,False
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Oregon State Beavers (-9.5),-9.5,1.4167,4600454320,0,False
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Oregon State Beavers (-6.5),-6.5,1.2858,4600454325,0,False
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,San Diego State Aztecs (+6.5),-6.5,3.4,4600454326,0,False
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,San Diego State Aztecs (+7.5),-7.5,3.0,4600454327,0,False
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Oregon State Beavers (-7.5),-7.5,1.3572,4600454328,0,False
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Oregon State Beavers (-15.5),-15.5,1.7693,4600454329,0,False
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,San Diego State Aztecs (+15.5),-15.5,1.9091,4600454330,0,False
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Oregon State Beavers (-18.5),-18.5,2.1,4600454331,0,False
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,San Diego State Aztecs (+18.5),-18.5,1.6667,4600454332,0,False
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Oregon State Beavers (-17.5),-17.5,1.9524,4600454333,0,False
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,San Diego State Aztecs (+13.5),-13.5,2.2,4596537790,0,False
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Oregon State Beavers (-13.5),-13.5,1.625,4596537791,0,False
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Oregon State Beavers (-24.5),-24.5,3.1,4600454336,0,False
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Oregon State Beavers (-12.5),-12.5,1.5556,4600454337,0,False
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,San Diego State Aztecs (+12.5),-12.5,2.3,4600454338,0,False
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,San Diego State Aztecs (+11.5),-11.5,2.4,4600454339,0,False
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Oregon State Beavers (-11.5),-11.5,1.5264,4600454340,0,False
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Oregon State Beavers (-10.5),-10.5,1.4762,4600454341,0,False
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,San Diego State Aztecs (+10.5),-10.5,2.55,4600454342,0,False
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,San Diego State Aztecs (+17.5),-17.5,1.7408,4600454334,0,False
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Oregon State Beavers (-23.5),-23.5,2.75,4600454344,0,False
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Oregon State Beavers (-22.5),-22.5,2.65,4600454345,0,False
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,San Diego State Aztecs (+22.5),-22.5,1.4348,4600454346,0,False
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,San Diego State Aztecs (+21.5),-21.5,1.4762,4600454347,0,False
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Oregon State Beavers (-21.5),-21.5,2.55,4600454348,0,False
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,San Diego State Aztecs (+20.5),-20.5,1.5556,4600454349,0,False
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Oregon State Beavers (-20.5),-20.5,2.3,4600454350,0,False
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,San Diego State Aztecs (+23.5),-23.5,1.4,4600454343,0,False
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Oregon State Beavers (-26.5),-26.5,3.5,4622498650,0,False
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,San Diego State Aztecs (+26.5),-26.5,1.2667,4622498651,0,False
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,San Diego State Aztecs (+25.5),-25.5,1.2858,4612054109,0,False
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Oregon State Beavers (-25.5),-25.5,3.4,4612054110,0,False
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Oregon State Beavers (-14.5),-14.5,1.7143,4598020347,0,False
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,San Diego State Aztecs (+14.5),-14.5,2.0,4598020348,0,False
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 56.5,56.5,1.5715,4597580163,0,False
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 56.5,56.5,2.25,4597580164,0,False
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 43.5,43.5,1.25,4605131161,0,False
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 43.5,43.5,3.7,4605131162,0,False
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 44.5,44.5,1.3125,4604619202,0,False
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 57.5,57.5,2.35,4596537795,0,False
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 44.5,44.5,3.2,4604619203,0,False
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 57.5,57.5,1.5455,4596537794,0,False
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 42.5,42.5,4.0,4615025225,0,False
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 42.5,42.5,1.2223,4615025226,0,False
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 41.5,41.5,1.2,4615025227,0,False
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 41.5,41.5,4.2,4615025228,0,False
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 47.5,47.5,2.65,4600454351,0,False
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 47.5,47.5,1.4348,4600454352,0,False
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 60.5,60.5,1.3847,4600454353,0,False
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 60.5,60.5,2.85,4600454354,0,False
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 50.5,50.5,2.2,4600454355,0,False
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 50.5,50.5,1.625,4600454356,0,False
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 49.5,49.5,2.3,4600454357,0,False
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 49.5,49.5,1.5556,4600454358,0,False
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 59.5,59.5,1.4167,4600454359,0,False
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 59.5,59.5,2.7,4600454360,0,False
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 45.5,45.5,1.3572,4601346393,0,False
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 45.5,45.5,3.0,4601346392,0,False
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 62.5,62.5,1.3031,4600454363,0,False
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 62.5,62.5,3.25,4600454364,0,False
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 52.5,52.5,1.8696,4600454365,0,True
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 52.5,52.5,1.8,4600454366,0,True
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 46.5,46.5,1.3847,4600454367,0,False
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 46.5,46.5,2.85,4600454368,0,False
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 48.5,48.5,1.5264,4600454369,0,False
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 48.5,48.5,2.4,4600454370,0,False
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 54.5,54.5,1.9524,4600454377,0,False
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 54.5,54.5,1.7408,4600454378,0,False
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 55.5,55.5,2.15,4597285227,0,False
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 58.5,58.5,2.55,4600454379,0,False
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 51.5,51.5,1.6897,4600454381,0,False
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 51.5,51.5,2.05,4600454382,0,False
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 61.5,61.5,3.1,4600454383,0,False
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 55.5,55.5,1.6451,4597285226,0,False
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 58.5,58.5,1.4762,4600454380,0,False
+17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 61.5,61.5,1.3334,4600454384,0,False
 17956223,Austin Peay State Governors vs. Tarleton State Texans,2026-10-10T23:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Tarleton State Texans,,2.05,4621842505,0,False
 17956223,Austin Peay State Governors vs. Tarleton State Texans,2026-10-10T23:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Austin Peay State Governors,,1.6667,4621842506,0,False
 17956223,Austin Peay State Governors vs. Tarleton State Texans,2026-10-10T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Tarleton State Texans (+1.5),-1.5,1.9091,4621842504,0,True
@@ -403,12 +435,12 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Kentucky Wildcats (+22.5),22.5,1.1429,4600496545,0,False
 17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Kentucky Wildcats (+16.5),16.5,1.3847,4600496546,0,False
 17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,LSU Tigers (-16.5),16.5,2.85,4600496547,0,False
-17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Kentucky Wildcats (+12.5),12.5,1.625,4600496548,0,False
-17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,LSU Tigers (-12.5),12.5,2.2,4600496549,0,False
+17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Kentucky Wildcats (+12.5),12.5,1.5715,4600496548,0,False
+17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,LSU Tigers (-12.5),12.5,2.25,4600496549,0,False
 17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Kentucky Wildcats (+8.5),8.5,1.8696,4600496550,0,False
 17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,LSU Tigers (-8.5),8.5,1.8,4600496551,0,False
-17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Kentucky Wildcats (-6.5),-6.5,6.0,4600496552,0,False
-17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,LSU Tigers (+6.5),-6.5,1.1112,4600496553,0,False
+17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Kentucky Wildcats (-6.5),-6.5,6.5,4600496552,0,False
+17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,LSU Tigers (+6.5),-6.5,1.1,4600496553,0,False
 17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Kentucky Wildcats (-4.5),-4.5,5.25,4600496554,0,False
 17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,LSU Tigers (+4.5),-4.5,1.1334,4600496555,0,False
 17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Kentucky Wildcats (-5.5),-5.5,5.5,4600496556,0,False
@@ -419,80 +451,80 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,LSU Tigers (-4.5),4.5,1.4762,4600496561,0,False
 17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Kentucky Wildcats (+5.5),5.5,2.4,4600496562,0,False
 17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,LSU Tigers (-5.5),5.5,1.5264,4600496563,0,False
-17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Kentucky Wildcats (+2.5),2.5,3.15,4600496564,0,False
+17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Kentucky Wildcats (+2.5),2.5,3.2,4600496564,0,False
 17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Kentucky Wildcats (+10.5),10.5,1.6897,4584676789,0,False
 17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,LSU Tigers (-10.5),10.5,2.05,4584676788,0,False
-17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Kentucky Wildcats (+3.5),3.5,2.65,4600496567,0,False
+17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Kentucky Wildcats (+3.5),3.5,2.7,4600496567,0,False
 17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Kentucky Wildcats (+17.5),17.5,1.3125,4600496568,0,False
 17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,LSU Tigers (-17.5),17.5,3.2,4600496569,0,False
 17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Kentucky Wildcats (+11.5),11.5,1.6451,4600496570,0,False
 17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,LSU Tigers (-11.5),11.5,2.15,4600496571,0,False
-17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,LSU Tigers (-3.5),3.5,1.4348,4600496566,0,False
-17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,LSU Tigers (-2.5),2.5,1.3226,4600496565,0,False
+17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,LSU Tigers (-3.5),3.5,1.4167,4600496566,0,False
+17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,LSU Tigers (-2.5),2.5,1.3125,4600496565,0,False
 17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Kentucky Wildcats (+9.5),9.5,1.8334,4593746156,0,True
 17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,LSU Tigers (-9.5),9.5,1.8334,4593746157,0,True
-17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 50.5,50.5,1.9091,4588528662,0,True
-17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 50.5,50.5,1.7693,4588528663,0,True
-17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 53.5,53.5,2.15,4593819160,0,False
-17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 53.5,53.5,1.6451,4593819161,0,False
-17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 38.5,38.5,4.2,4605131163,0,False
-17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 38.5,38.5,1.2,4605131164,0,False
-17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 37.5,37.5,1.1667,4605133865,0,False
-17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 37.5,37.5,4.5,4605133866,0,False
-17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 54.5,54.5,1.5715,4595927247,0,False
-17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 49.5,49.5,1.7143,4584676790,0,False
-17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 49.5,49.5,2.0,4584676791,0,False
-17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 39.5,39.5,4.0,4600496454,0,False
-17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 39.5,39.5,1.2223,4600496455,0,False
-17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 59.5,59.5,3.1,4600496456,0,False
-17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 59.5,59.5,1.3334,4600496457,0,False
-17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 46.5,46.5,1.5264,4600496460,0,False
-17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 46.5,46.5,2.4,4600496461,0,False
-17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 47.5,47.5,1.5715,4600496462,0,False
-17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 47.5,47.5,2.25,4600496463,0,False
-17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 54.5,54.5,2.25,4595927248,0,False
-17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 44.5,44.5,1.4348,4600496465,0,False
-17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 45.5,45.5,1.4762,4600496466,0,False
-17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 44.5,44.5,2.65,4600496464,0,False
-17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 42.5,42.5,1.3334,4600496468,0,False
-17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 42.5,42.5,3.1,4600496469,0,False
-17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 43.5,43.5,1.3637,4600496470,0,False
-17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 43.5,43.5,2.9,4600496471,0,False
-17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 40.5,40.5,3.7,4600496472,0,False
-17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 40.5,40.5,1.25,4600496473,0,False
-17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 41.5,41.5,3.25,4600496474,0,False
-17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 41.5,41.5,1.3031,4600496475,0,False
-17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 45.5,45.5,2.55,4600496467,0,False
-17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 48.5,48.5,1.6667,4600496477,0,False
-17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 55.5,55.5,2.4,4600496478,0,False
-17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 48.5,48.5,2.1,4600496476,0,False
-17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 65.5,65.5,4.75,4600496480,0,False
-17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 55.5,55.5,1.5264,4600496479,0,False
-17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 62.5,62.5,3.75,4600496482,0,False
-17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 62.5,62.5,1.2353,4600496483,0,False
-17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 57.5,57.5,2.65,4600496484,0,False
-17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 57.5,57.5,1.4348,4600496485,0,False
-17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 64.5,64.5,1.2,4600496503,0,False
-17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 65.5,65.5,1.1539,4600496481,0,False
-17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 58.5,58.5,2.85,4600496488,0,False
-17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 58.5,58.5,1.3847,4600496489,0,False
-17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 51.5,51.5,1.9091,4600496490,0,False
-17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 52.5,52.5,2.05,4593746154,0,False
-17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 56.5,56.5,2.55,4600496492,0,False
-17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 51.5,51.5,1.7693,4600496491,0,False
-17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 60.5,60.5,3.2,4600496494,0,False
-17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 52.5,52.5,1.6897,4593746155,0,False
-17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 56.5,56.5,1.4762,4600496493,0,False
-17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 60.5,60.5,1.3125,4600496495,0,False
-17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 61.5,61.5,3.5,4600496498,0,False
-17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 36.5,36.5,1.1334,4610917235,0,False
-17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 63.5,63.5,4.0,4600496500,0,False
+17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 50.5,50.5,1.8334,4588528662,0,True
+17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 50.5,50.5,1.8334,4588528663,0,True
+17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 53.5,53.5,2.2,4593819160,0,False
+17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 53.5,53.5,1.625,4593819161,0,False
+17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 38.5,38.5,4.0,4605131163,0,False
+17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 38.5,38.5,1.2223,4605131164,0,False
+17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 37.5,37.5,1.2,4605133865,0,False
+17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 37.5,37.5,4.2,4605133866,0,False
+17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 54.5,54.5,1.5455,4595927247,0,False
+17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 49.5,49.5,1.7693,4584676790,0,False
+17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 49.5,49.5,1.9091,4584676791,0,False
+17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 39.5,39.5,3.75,4600496454,0,False
+17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 39.5,39.5,1.2353,4600496455,0,False
+17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 59.5,59.5,3.2,4600496456,0,False
+17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 59.5,59.5,1.3125,4600496457,0,False
+17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 46.5,46.5,1.5556,4600496460,0,False
+17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 46.5,46.5,2.3,4600496461,0,False
+17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 47.5,47.5,1.6451,4600496462,0,False
+17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 47.5,47.5,2.15,4600496463,0,False
+17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 54.5,54.5,2.35,4595927248,0,False
+17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 44.5,44.5,1.4762,4600496465,0,False
+17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 45.5,45.5,1.5264,4600496466,0,False
+17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 44.5,44.5,2.55,4600496464,0,False
+17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 42.5,42.5,1.3572,4600496468,0,False
+17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 42.5,42.5,3.0,4600496469,0,False
+17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 43.5,43.5,1.4,4600496470,0,False
+17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 43.5,43.5,2.75,4600496471,0,False
+17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 40.5,40.5,3.5,4600496472,0,False
+17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 40.5,40.5,1.2667,4600496473,0,False
+17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 41.5,41.5,3.1,4600496474,0,False
+17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 41.5,41.5,1.3334,4600496475,0,False
+17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 45.5,45.5,2.4,4600496467,0,False
+17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 48.5,48.5,1.7143,4600496477,0,False
+17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 55.5,55.5,2.55,4600496478,0,False
+17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 48.5,48.5,2.0,4600496476,0,False
+17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 65.5,65.5,5.0,4600496480,0,False
+17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 55.5,55.5,1.4762,4600496479,0,False
+17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 62.5,62.5,4.0,4600496482,0,False
+17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 62.5,62.5,1.2223,4600496483,0,False
+17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 57.5,57.5,2.75,4600496484,0,False
+17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 57.5,57.5,1.4,4600496485,0,False
+17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 64.5,64.5,1.1819,4600496503,0,False
+17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 65.5,65.5,1.1429,4600496481,0,False
+17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 58.5,58.5,3.0,4600496488,0,False
+17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 58.5,58.5,1.3572,4600496489,0,False
+17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 51.5,51.5,2.0,4600496490,0,False
+17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 52.5,52.5,2.15,4593746154,0,False
+17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 56.5,56.5,2.65,4600496492,0,False
+17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 51.5,51.5,1.7143,4600496491,0,False
+17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 60.5,60.5,3.4,4600496494,0,False
+17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 52.5,52.5,1.6451,4593746155,0,False
+17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 56.5,56.5,1.4348,4600496493,0,False
+17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 60.5,60.5,1.2858,4600496495,0,False
+17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 61.5,61.5,3.7,4600496498,0,False
+17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 36.5,36.5,1.1429,4610917235,0,False
+17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 63.5,63.5,4.2,4600496500,0,False
 17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 35.5,35.5,1.125,4621253877,0,False
-17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 64.5,64.5,4.2,4600496502,0,False
+17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 64.5,64.5,4.4,4600496502,0,False
 17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 35.5,35.5,5.5,4621253878,0,False
-17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 36.5,36.5,5.25,4610917236,0,False
-17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 61.5,61.5,1.2667,4600496499,0,False
-17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 63.5,63.5,1.2223,4600496501,0,False
+17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 36.5,36.5,5.0,4610917236,0,False
+17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 61.5,61.5,1.25,4600496499,0,False
+17724268,Kentucky Wildcats vs. LSU Tigers,2026-10-10T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 63.5,63.5,1.2,4600496501,0,False
 17933326,Marshall Herd vs. Coastal Carolina,2026-10-10T23:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Marshall Herd,,1.4762,4596306442,0,False
 17933326,Marshall Herd vs. Coastal Carolina,2026-10-10T23:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Coastal Carolina,,2.4,4596306443,0,False
 17933326,Marshall Herd vs. Coastal Carolina,2026-10-10T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Coastal Carolina (+17.5),-17.5,1.1429,4600496901,0,False
@@ -1130,33 +1162,33 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Georgia Southern Eagles (-2.5),-2.5,3.7,4600500360,0,False
 17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Georgia Southern Eagles (-8.5),-8.5,7.5,4600500362,0,False
 17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,James Madison Dukes (+8.5),-8.5,1.0715,4600500364,0,False
-17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Georgia Southern Eagles (+17.5),17.5,1.2223,4600500366,0,False
-17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,James Madison Dukes (-17.5),17.5,4.0,4600500369,0,False
-17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Georgia Southern Eagles (+18.5),18.5,1.1819,4600500372,0,False
-17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,James Madison Dukes (-18.5),18.5,4.4,4600500374,0,False
-17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Georgia Southern Eagles (+12.5),12.5,1.4546,4600500375,0,False
-17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,James Madison Dukes (-12.5),12.5,2.6,4600500376,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Georgia Southern Eagles (+17.5),17.5,1.2353,4600500366,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,James Madison Dukes (-17.5),17.5,3.75,4600500369,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Georgia Southern Eagles (+18.5),18.5,1.2,4600500372,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,James Madison Dukes (-18.5),18.5,4.2,4600500374,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Georgia Southern Eagles (+12.5),12.5,1.4762,4600500375,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,James Madison Dukes (-12.5),12.5,2.55,4600500376,0,False
 17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Georgia Southern Eagles (+13.5),13.5,1.4167,4600500378,0,False
 17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,James Madison Dukes (-13.5),13.5,2.7,4600500380,0,False
-17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Georgia Southern Eagles (+11.5),11.5,1.5,4600500382,0,False
-17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,James Madison Dukes (-11.5),11.5,2.5,4600500384,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Georgia Southern Eagles (+11.5),11.5,1.5264,4600500382,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,James Madison Dukes (-11.5),11.5,2.4,4600500384,0,False
 17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,James Madison Dukes (-14.5),14.5,3.1,4600500385,0,False
 17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Georgia Southern Eagles (+14.5),14.5,1.3334,4600500386,0,False
-17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Georgia Southern Eagles (+23.5),23.5,1.0834,4600500388,0,False
-17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,James Madison Dukes (-23.5),23.5,7.0,4600500391,0,False
-17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,James Madison Dukes (-22.5),22.5,6.5,4600500392,0,False
-17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Georgia Southern Eagles (+22.5),22.5,1.1,4600500394,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Georgia Southern Eagles (+23.5),23.5,1.1,4600500388,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,James Madison Dukes (-23.5),23.5,6.5,4600500391,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,James Madison Dukes (-22.5),22.5,6.0,4600500392,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Georgia Southern Eagles (+22.5),22.5,1.1112,4600500394,0,False
 17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Georgia Southern Eagles (+21.5),21.5,1.1112,4600500395,0,False
 17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,James Madison Dukes (-21.5),21.5,6.0,4600500397,0,False
-17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,James Madison Dukes (-19.5),19.5,4.75,4600500276,0,False
-17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Georgia Southern Eagles (+19.5),19.5,1.1539,4600500278,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,James Madison Dukes (-19.5),19.5,4.4,4600500276,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Georgia Southern Eagles (+19.5),19.5,1.1819,4600500278,0,False
 17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Georgia Southern Eagles (-6.5),-6.5,5.5,4600500280,0,False
 17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,James Madison Dukes (+6.5),-6.5,1.125,4600500283,0,False
-17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,James Madison Dukes (-15.5),15.5,3.25,4600500285,0,False
-17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Georgia Southern Eagles (+15.5),15.5,1.3031,4600500287,0,False
-17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Georgia Southern Eagles (+16.5),16.5,1.2667,4600500289,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,James Madison Dukes (-15.5),15.5,3.2,4600500285,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Georgia Southern Eagles (+15.5),15.5,1.3125,4600500287,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Georgia Southern Eagles (+16.5),16.5,1.2858,4600500289,0,False
 17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Georgia Southern Eagles (+7.5),7.5,1.8,4597923138,0,True
-17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,James Madison Dukes (-16.5),16.5,3.5,4600500291,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,James Madison Dukes (-16.5),16.5,3.4,4600500291,0,False
 17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,James Madison Dukes (-7.5),7.5,1.8696,4597923139,0,True
 17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,James Madison Dukes (+1.5),-1.5,1.2667,4600500293,0,False
 17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Georgia Southern Eagles (-1.5),-1.5,3.5,4600500295,0,False
@@ -1166,18 +1198,18 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,James Madison Dukes (-8.5),8.5,2.0,4597289549,0,False
 17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Georgia Southern Eagles (+9.5),9.5,1.6667,4596158544,0,False
 17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,James Madison Dukes (-9.5),9.5,2.1,4596158545,0,False
-17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Georgia Southern Eagles (+3.5),3.5,2.4,4600500306,0,False
-17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,James Madison Dukes (-3.5),3.5,1.5264,4600500304,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Georgia Southern Eagles (+3.5),3.5,2.5,4600500306,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,James Madison Dukes (-3.5),3.5,1.5,4600500304,0,False
 17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Georgia Southern Eagles (+6.5),6.5,2.05,4600500312,0,False
 17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,James Madison Dukes (-6.5),6.5,1.6897,4600500315,0,False
 17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Georgia Southern Eagles (+1.5),1.5,3.1,4600500317,0,False
 17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,James Madison Dukes (-1.5),1.5,1.3334,4600500319,0,False
 17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,James Madison Dukes (-4.5),4.5,1.5556,4600500322,0,False
 17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Georgia Southern Eagles (+4.5),4.5,2.3,4600500325,0,False
-17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Georgia Southern Eagles (+5.5),5.5,2.15,4600500327,0,False
-17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,James Madison Dukes (-5.5),5.5,1.6451,4600500328,0,False
-17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Georgia Southern Eagles (+20.5),20.5,1.1429,4600500329,0,False
-17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,James Madison Dukes (-20.5),20.5,5.0,4600500331,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Georgia Southern Eagles (+5.5),5.5,2.2,4600500327,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,James Madison Dukes (-5.5),5.5,1.625,4600500328,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Georgia Southern Eagles (+20.5),20.5,1.1539,4600500329,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,James Madison Dukes (-20.5),20.5,4.75,4600500331,0,False
 17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Georgia Southern Eagles (+10.5),10.5,1.5556,4600500333,0,False
 17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,James Madison Dukes (-10.5),10.5,2.3,4600500335,0,False
 17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,James Madison Dukes (+3.5),-3.5,1.1819,4600500338,0,False
@@ -1187,68 +1219,68 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,James Madison Dukes (+7.5),-7.5,1.0834,4600500348,0,False
 17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Georgia Southern Eagles (-7.5),-7.5,7.0,4600500349,0,False
 17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Georgia Southern Eagles (-4.5),-4.5,4.75,4600500351,0,False
-17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 55.5,55.5,2.35,4600500225,0,False
-17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 55.5,55.5,1.5455,4600500227,0,False
-17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 57.5,57.5,1.4546,4600500229,0,False
-17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 57.5,57.5,2.6,4600500230,0,False
-17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 51.5,51.5,1.8,4600500232,0,True
-17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 51.5,51.5,1.8696,4600500233,0,True
-17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 56.5,56.5,2.5,4600500235,0,False
-17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 56.5,56.5,1.5,4600500236,0,False
-17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 66.5,66.5,5.0,4600500245,0,False
-17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 66.5,66.5,1.1429,4600500246,0,False
-17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 65.5,65.5,4.5,4600500248,0,False
-17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 65.5,65.5,1.1667,4600500250,0,False
-17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 61.5,61.5,3.4,4600500252,0,False
-17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 61.5,61.5,1.2858,4600500253,0,False
-17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 63.5,63.5,4.0,4600500254,0,False
-17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 63.5,63.5,1.2223,4600500257,0,False
-17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 54.5,54.5,2.2,4596157091,0,False
-17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 54.5,54.5,1.625,4596157092,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 55.5,55.5,2.3,4600500225,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 55.5,55.5,1.5556,4600500227,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 57.5,57.5,1.4762,4600500229,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 57.5,57.5,2.55,4600500230,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 51.5,51.5,1.8334,4600500232,0,True
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 51.5,51.5,1.8334,4600500233,0,True
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 56.5,56.5,2.4,4600500235,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 56.5,56.5,1.5264,4600500236,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 66.5,66.5,4.75,4600500245,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 66.5,66.5,1.1539,4600500246,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 65.5,65.5,4.4,4600500248,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 65.5,65.5,1.1819,4600500250,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 61.5,61.5,3.2,4600500252,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 61.5,61.5,1.3125,4600500253,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 63.5,63.5,3.7,4600500254,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 63.5,63.5,1.25,4600500257,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 54.5,54.5,2.15,4596157091,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 54.5,54.5,1.6451,4596157092,0,False
 17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 36.5,36.5,1.125,4610989736,0,False
 17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 36.5,36.5,5.5,4610989737,0,False
-17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 60.5,60.5,3.2,4600500143,0,False
-17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 60.5,60.5,1.3125,4600500145,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 60.5,60.5,3.1,4600500143,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 60.5,60.5,1.3334,4600500145,0,False
 17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 40.5,40.5,3.75,4600500147,0,False
 17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 40.5,40.5,1.2353,4600500148,0,False
-17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 50.5,50.5,1.9524,4600500150,0,False
-17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 50.5,50.5,1.7408,4600500152,0,False
-17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 48.5,48.5,1.6451,4600500155,0,False
-17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 48.5,48.5,2.15,4600500156,0,False
-17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 49.5,49.5,1.6897,4600500158,0,False
-17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 49.5,49.5,2.05,4600500160,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 50.5,50.5,2.0,4600500150,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 50.5,50.5,1.7143,4600500152,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 48.5,48.5,1.625,4600500155,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 48.5,48.5,2.2,4600500156,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 49.5,49.5,1.6667,4600500158,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 49.5,49.5,2.1,4600500160,0,False
 17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 42.5,42.5,1.3031,4600500164,0,False
 17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 42.5,42.5,3.25,4600500166,0,False
 17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 43.5,43.5,3.1,4600500168,0,False
 17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 43.5,43.5,1.3334,4600500169,0,False
-17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 46.5,46.5,1.5,4600500171,0,False
-17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 46.5,46.5,2.5,4600500172,0,False
-17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 53.5,53.5,1.6667,4597289551,0,False
-17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 53.5,53.5,2.1,4597289552,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 46.5,46.5,1.4762,4600500171,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 46.5,46.5,2.55,4600500172,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 53.5,53.5,1.7143,4597289551,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 53.5,53.5,2.0,4597289552,0,False
 17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 41.5,41.5,3.4,4600500179,0,False
 17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 41.5,41.5,1.2858,4600500181,0,False
-17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 37.5,37.5,1.1539,4610970966,0,False
-17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 44.5,44.5,1.4,4600500183,0,False
-17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 37.5,37.5,4.75,4610970965,0,False
-17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 44.5,44.5,2.75,4600500184,0,False
-17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 47.5,47.5,2.3,4600500186,0,False
-17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 47.5,47.5,1.5556,4600500189,0,False
-17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 45.5,45.5,1.4546,4600500191,0,False
-17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 45.5,45.5,2.6,4600500193,0,False
-17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 62.5,62.5,3.7,4600500195,0,False
-17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 62.5,62.5,1.25,4600500196,0,False
-17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 52.5,52.5,2.0,4600500198,0,False
-17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 52.5,52.5,1.7143,4600500200,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 37.5,37.5,1.1429,4610970966,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 44.5,44.5,1.3847,4600500183,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 37.5,37.5,5.0,4610970965,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 44.5,44.5,2.85,4600500184,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 47.5,47.5,2.35,4600500186,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 47.5,47.5,1.5455,4600500189,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 45.5,45.5,1.4348,4600500191,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 45.5,45.5,2.65,4600500193,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 62.5,62.5,3.5,4600500195,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 62.5,62.5,1.2667,4600500196,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 52.5,52.5,1.9091,4600500198,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 52.5,52.5,1.7693,4600500200,0,False
 17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 39.5,39.5,1.2,4600500201,0,False
 17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 39.5,39.5,4.2,4600500202,0,False
-17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 59.5,59.5,1.3334,4600500203,0,False
-17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 59.5,59.5,3.1,4600500205,0,False
-17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 58.5,58.5,1.3847,4600500207,0,False
-17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 58.5,58.5,2.85,4600500212,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 59.5,59.5,1.3637,4600500203,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 59.5,59.5,2.9,4600500205,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 58.5,58.5,1.4167,4600500207,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 58.5,58.5,2.7,4600500212,0,False
 17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 38.5,38.5,1.1819,4600500217,0,False
 17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 38.5,38.5,4.4,4600500219,0,False
-17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 64.5,64.5,4.2,4600500220,0,False
-17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 64.5,64.5,1.2,4600500222,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 64.5,64.5,4.0,4600500220,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 64.5,64.5,1.2223,4600500222,0,False
 17933663,Louisiana Tech Bulldogs vs. Louisiana-Lafayette Ragin Cajuns,2026-10-10T23:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Louisiana Tech Bulldogs,,1.5715,4596476422,0,False
 17933663,Louisiana Tech Bulldogs vs. Louisiana-Lafayette Ragin Cajuns,2026-10-10T23:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Louisiana-Lafayette Ragin Cajuns,,2.2,4596476423,0,False
 17933663,Louisiana Tech Bulldogs vs. Louisiana-Lafayette Ragin Cajuns,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana Tech Bulldogs (-9.5),-9.5,2.9,4600497537,0,False
@@ -1635,7 +1667,7 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17724254,Virginia Cavaliers vs. Syracuse Orange,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Virginia Cavaliers (+2.5),2.5,1.1334,4600501652,0,False
 17724254,Virginia Cavaliers vs. Syracuse Orange,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Syracuse Orange (-1.5),1.5,5.0,4600501654,0,False
 17724254,Virginia Cavaliers vs. Syracuse Orange,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Virginia Cavaliers (+1.5),1.5,1.1429,4600501656,0,False
-17724254,Virginia Cavaliers vs. Syracuse Orange,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Syracuse Orange (+25.5),-25.5,1.2,4600501628,0,False
+17724254,Virginia Cavaliers vs. Syracuse Orange,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Syracuse Orange (+25.5),-25.5,1.2223,4600501628,0,False
 17724254,Virginia Cavaliers vs. Syracuse Orange,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Virginia Cavaliers (-18.5),-18.5,2.5,4600501658,0,False
 17724254,Virginia Cavaliers vs. Syracuse Orange,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Syracuse Orange (+18.5),-18.5,1.5,4600501661,0,False
 17724254,Virginia Cavaliers vs. Syracuse Orange,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Virginia Cavaliers (-10.5),-10.5,1.6451,4600501663,0,False
@@ -1648,18 +1680,18 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17724254,Virginia Cavaliers vs. Syracuse Orange,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Syracuse Orange (+29.5),-29.5,1.1112,4626627753,0,False
 17724254,Virginia Cavaliers vs. Syracuse Orange,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Virginia Cavaliers (-16.5),-16.5,2.1,4600501678,0,False
 17724254,Virginia Cavaliers vs. Syracuse Orange,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Syracuse Orange (+16.5),-16.5,1.6667,4600501679,0,False
-17724254,Virginia Cavaliers vs. Syracuse Orange,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Virginia Cavaliers (-14.5),-14.5,1.9091,4600501680,0,False
-17724254,Virginia Cavaliers vs. Syracuse Orange,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Syracuse Orange (+14.5),-14.5,1.7693,4600501682,0,False
+17724254,Virginia Cavaliers vs. Syracuse Orange,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Virginia Cavaliers (-14.5),-14.5,1.9524,4600501680,0,False
+17724254,Virginia Cavaliers vs. Syracuse Orange,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Syracuse Orange (+14.5),-14.5,1.7408,4600501682,0,False
 17724254,Virginia Cavaliers vs. Syracuse Orange,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Virginia Cavaliers (-11.5),-11.5,1.6897,4600501685,0,False
 17724254,Virginia Cavaliers vs. Syracuse Orange,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Syracuse Orange (+11.5),-11.5,2.05,4600501687,0,False
-17724254,Virginia Cavaliers vs. Syracuse Orange,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Virginia Cavaliers (-24.5),-24.5,3.75,4600501688,0,False
-17724254,Virginia Cavaliers vs. Syracuse Orange,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Syracuse Orange (+24.5),-24.5,1.2353,4600501690,0,False
+17724254,Virginia Cavaliers vs. Syracuse Orange,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Virginia Cavaliers (-24.5),-24.5,3.7,4600501688,0,False
+17724254,Virginia Cavaliers vs. Syracuse Orange,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Syracuse Orange (+24.5),-24.5,1.25,4600501690,0,False
 17724254,Virginia Cavaliers vs. Syracuse Orange,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Virginia Cavaliers (-21.5),-21.5,3.0,4600501691,0,False
 17724254,Virginia Cavaliers vs. Syracuse Orange,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Syracuse Orange (+21.5),-21.5,1.3572,4600501697,0,False
 17724254,Virginia Cavaliers vs. Syracuse Orange,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Syracuse Orange (+4.5),-4.5,3.2,4600501575,0,False
 17724254,Virginia Cavaliers vs. Syracuse Orange,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Virginia Cavaliers (-4.5),-4.5,1.3125,4600501579,0,False
-17724254,Virginia Cavaliers vs. Syracuse Orange,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Virginia Cavaliers (-22.5),-22.5,3.15,4600501581,0,False
-17724254,Virginia Cavaliers vs. Syracuse Orange,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Syracuse Orange (+22.5),-22.5,1.3226,4600501583,0,False
+17724254,Virginia Cavaliers vs. Syracuse Orange,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Virginia Cavaliers (-22.5),-22.5,3.1,4600501581,0,False
+17724254,Virginia Cavaliers vs. Syracuse Orange,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Syracuse Orange (+22.5),-22.5,1.3334,4600501583,0,False
 17724254,Virginia Cavaliers vs. Syracuse Orange,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Virginia Cavaliers (-12.5),-12.5,1.7408,4600501586,0,False
 17724254,Virginia Cavaliers vs. Syracuse Orange,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Syracuse Orange (+12.5),-12.5,1.9524,4600501588,0,False
 17724254,Virginia Cavaliers vs. Syracuse Orange,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Virginia Cavaliers (-13.5),-13.5,1.8,4600501591,0,True
@@ -1674,10 +1706,10 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17724254,Virginia Cavaliers vs. Syracuse Orange,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Virginia Cavaliers (-6.5),-6.5,1.3847,4600501605,0,False
 17724254,Virginia Cavaliers vs. Syracuse Orange,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Syracuse Orange (+5.5),-5.5,3.1,4600501607,0,False
 17724254,Virginia Cavaliers vs. Syracuse Orange,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Virginia Cavaliers (-5.5),-5.5,1.3334,4600501609,0,False
-17724254,Virginia Cavaliers vs. Syracuse Orange,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Virginia Cavaliers (-3.5),-3.5,1.2858,4600501612,0,False
-17724254,Virginia Cavaliers vs. Syracuse Orange,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Syracuse Orange (+3.5),-3.5,3.4,4600501614,0,False
-17724254,Virginia Cavaliers vs. Syracuse Orange,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Virginia Cavaliers (-2.5),-2.5,1.2223,4600501616,0,False
-17724254,Virginia Cavaliers vs. Syracuse Orange,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Syracuse Orange (+2.5),-2.5,4.0,4600501618,0,False
+17724254,Virginia Cavaliers vs. Syracuse Orange,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Virginia Cavaliers (-3.5),-3.5,1.2667,4600501612,0,False
+17724254,Virginia Cavaliers vs. Syracuse Orange,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Syracuse Orange (+3.5),-3.5,3.5,4600501614,0,False
+17724254,Virginia Cavaliers vs. Syracuse Orange,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Virginia Cavaliers (-2.5),-2.5,1.2,4600501616,0,False
+17724254,Virginia Cavaliers vs. Syracuse Orange,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Syracuse Orange (+2.5),-2.5,4.2,4600501618,0,False
 17724254,Virginia Cavaliers vs. Syracuse Orange,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Virginia Cavaliers (-28.5),-28.5,5.5,4625980019,0,False
 17724254,Virginia Cavaliers vs. Syracuse Orange,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Syracuse Orange (+28.5),-28.5,1.125,4625980020,0,False
 17724254,Virginia Cavaliers vs. Syracuse Orange,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Syracuse Orange (+1.5),-1.5,4.4,4600501621,0,False
@@ -1685,9 +1717,9 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17724254,Virginia Cavaliers vs. Syracuse Orange,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Virginia Cavaliers (-9.5),-9.5,1.5455,4597277687,0,False
 17724254,Virginia Cavaliers vs. Syracuse Orange,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Virginia Cavaliers (-19.5),-19.5,2.55,4600501625,0,False
 17724254,Virginia Cavaliers vs. Syracuse Orange,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Syracuse Orange (+19.5),-19.5,1.4762,4600501626,0,False
-17724254,Virginia Cavaliers vs. Syracuse Orange,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Syracuse Orange (+26.5),-26.5,1.1819,4623301243,0,False
-17724254,Virginia Cavaliers vs. Syracuse Orange,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Virginia Cavaliers (-26.5),-26.5,4.4,4623301244,0,False
-17724254,Virginia Cavaliers vs. Syracuse Orange,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Virginia Cavaliers (-25.5),-25.5,4.2,4600501630,0,False
+17724254,Virginia Cavaliers vs. Syracuse Orange,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Syracuse Orange (+26.5),-26.5,1.2,4623301243,0,False
+17724254,Virginia Cavaliers vs. Syracuse Orange,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Virginia Cavaliers (-26.5),-26.5,4.2,4623301244,0,False
+17724254,Virginia Cavaliers vs. Syracuse Orange,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Virginia Cavaliers (-25.5),-25.5,4.0,4600501630,0,False
 17724254,Virginia Cavaliers vs. Syracuse Orange,2026-10-10T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Virginia Cavaliers (-1.5),-1.5,1.1819,4600501623,0,False
 17724254,Virginia Cavaliers vs. Syracuse Orange,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 39.5,39.5,3.7,4600501376,0,False
 17724254,Virginia Cavaliers vs. Syracuse Orange,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 34.5,34.5,1.125,4600501379,0,False
@@ -1732,8 +1764,8 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17724254,Virginia Cavaliers vs. Syracuse Orange,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 51.5,51.5,1.6667,4600501463,0,False
 17724254,Virginia Cavaliers vs. Syracuse Orange,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 59.5,59.5,1.2667,4600501466,0,False
 17724254,Virginia Cavaliers vs. Syracuse Orange,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 59.5,59.5,3.5,4600501468,0,False
-17724254,Virginia Cavaliers vs. Syracuse Orange,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 58.5,58.5,1.3031,4600501471,0,False
-17724254,Virginia Cavaliers vs. Syracuse Orange,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 58.5,58.5,3.25,4600501473,0,False
+17724254,Virginia Cavaliers vs. Syracuse Orange,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 58.5,58.5,1.3125,4600501471,0,False
+17724254,Virginia Cavaliers vs. Syracuse Orange,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 58.5,58.5,3.2,4600501473,0,False
 17724254,Virginia Cavaliers vs. Syracuse Orange,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 43.5,43.5,2.7,4600501476,0,False
 17724254,Virginia Cavaliers vs. Syracuse Orange,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 43.5,43.5,1.4167,4600501478,0,False
 17724254,Virginia Cavaliers vs. Syracuse Orange,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 42.5,42.5,2.85,4600501480,0,False
@@ -1743,10 +1775,10 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17724254,Virginia Cavaliers vs. Syracuse Orange,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 41.5,41.5,3.1,4600501486,0,False
 17724254,Virginia Cavaliers vs. Syracuse Orange,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 41.5,41.5,1.3334,4600501490,0,False
 17724254,Virginia Cavaliers vs. Syracuse Orange,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 40.5,40.5,3.4,4600501493,0,False
-17724254,Virginia Cavaliers vs. Syracuse Orange,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 38.5,38.5,1.2353,4600501366,0,False
+17724254,Virginia Cavaliers vs. Syracuse Orange,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 38.5,38.5,1.2223,4600501366,0,False
 17724254,Virginia Cavaliers vs. Syracuse Orange,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 40.5,40.5,1.2858,4600501495,0,False
 17724254,Virginia Cavaliers vs. Syracuse Orange,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 47.5,47.5,2.1,4600501496,0,False
-17724254,Virginia Cavaliers vs. Syracuse Orange,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 38.5,38.5,3.75,4600501369,0,False
+17724254,Virginia Cavaliers vs. Syracuse Orange,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 38.5,38.5,4.0,4600501369,0,False
 17724254,Virginia Cavaliers vs. Syracuse Orange,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 47.5,47.5,1.6667,4600501498,0,False
 17724254,Virginia Cavaliers vs. Syracuse Orange,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 39.5,39.5,1.25,4600501372,0,False
 17724254,Virginia Cavaliers vs. Syracuse Orange,2026-10-10T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 48.5,48.5,1.9091,4600501501,0,False

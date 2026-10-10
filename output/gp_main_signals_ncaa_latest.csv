@@ -1,29 +1,23 @@
 captured_at,event_id,match,start_date,market,selection,side,signal,old_line,new_line,old_price,new_price,old_status,new_status,old_is_main_bet,new_is_main_bet
-2026-10-10T13:00:10.448881+00:00,17955743,Dayton Flyers vs. Morehead State Eagles,2026-10-10T16:00:00Z,spread,Dayton Flyers (-21.5),Dayton Flyers,MAIN_PRICE_MOVE,-21.5,-21.5,1.8,1.6667,0,0.0,1,1.0
-2026-10-10T13:00:10.448881+00:00,17955743,Dayton Flyers vs. Morehead State Eagles,2026-10-10T16:00:00Z,spread,Morehead State Eagles (+21.5),Morehead State Eagles,MAIN_PRICE_MOVE,21.5,21.5,1.8696,2.1,0,0.0,1,1.0
-2026-10-10T13:00:10.448881+00:00,17955741,Morgan State Bears vs. Robert Morris Colonials,2026-10-10T16:00:00Z,total,Moins de 53.5,under,MAIN_PRICE_MOVE,53.5,53.5,1.8334,1.6897,0,0.0,1,1.0
-2026-10-10T13:00:10.448881+00:00,17955741,Morgan State Bears vs. Robert Morris Colonials,2026-10-10T16:00:00Z,total,Plus de 53.5,over,MAIN_PRICE_MOVE,53.5,53.5,1.8334,2.05,0,0.0,1,1.0
-2026-10-10T13:00:10.448881+00:00,17724267,Florida Gators vs. South Carolina Gamecocks,2026-10-10T16:45:00Z,spread,South Carolina Gamecocks (+10.5),South Carolina Gamecocks,MAIN_PRICE_MOVE,10.5,10.5,1.8696,1.8334,0,0.0,1,1.0
-2026-10-10T13:00:10.448881+00:00,17724267,Florida Gators vs. South Carolina Gamecocks,2026-10-10T16:45:00Z,spread,Florida Gators (-10.5),Florida Gators,MAIN_PRICE_MOVE,-10.5,-10.5,1.8,1.8334,0,0.0,1,1.0
-2026-10-10T13:00:10.448881+00:00,17956225,Alabama A&M Bulldogs vs. Bethune-Cookman Wildcats,2026-10-10T17:00:00Z,total,Moins de 47.5,under,MAIN_PRICE_MOVE,47.5,47.5,1.8696,1.8,0,0.0,1,1.0
-2026-10-10T13:00:10.448881+00:00,17956225,Alabama A&M Bulldogs vs. Bethune-Cookman Wildcats,2026-10-10T17:00:00Z,total,Plus de 47.5,over,MAIN_PRICE_MOVE,47.5,47.5,1.8,1.8696,0,0.0,1,1.0
-2026-10-10T13:00:10.448881+00:00,17932012,Appalachian State Mountaineers vs. Old Dominion Monarchs,2026-10-10T17:00:00Z,spread,Appalachian State Mountaineers (-9.5),Appalachian State Mountaineers,MAIN_PRICE_MOVE,-9.5,-9.5,1.7693,1.8,0,0.0,1,1.0
-2026-10-10T13:00:10.448881+00:00,17932012,Appalachian State Mountaineers vs. Old Dominion Monarchs,2026-10-10T17:00:00Z,spread,Old Dominion Monarchs (+9.5),Old Dominion Monarchs,MAIN_PRICE_MOVE,9.5,9.5,1.9091,1.8696,0,0.0,1,1.0
-2026-10-10T13:00:10.448881+00:00,17933660,UMass Minutemen vs. Miami Redhawks,2026-10-10T18:00:00Z,spread,Miami Redhawks (-5.5),Miami Redhawks,MAIN_SWITCH,-5.5,-5.5,1.8696,1.8696,0,0.0,0,1.0
-2026-10-10T13:00:10.448881+00:00,17933660,UMass Minutemen vs. Miami Redhawks,2026-10-10T18:00:00Z,spread,UMass Minutemen (+5.5),UMass Minutemen,MAIN_SWITCH,5.5,5.5,1.8,1.8,0,0.0,0,1.0
-2026-10-10T13:00:10.448881+00:00,17955876,Tennessee Tech Golden Eagles vs. Furman Paladins,2026-10-10T19:30:00Z,total,Moins de 45.5,under,MAIN_PRICE_MOVE,45.5,45.5,1.9091,1.8334,0,0.0,1,1.0
-2026-10-10T13:00:10.448881+00:00,17955876,Tennessee Tech Golden Eagles vs. Furman Paladins,2026-10-10T19:30:00Z,total,Plus de 45.5,over,MAIN_PRICE_MOVE,45.5,45.5,1.7693,1.8334,0,0.0,1,1.0
-2026-10-10T13:00:10.448881+00:00,17955945,Lamar Cardinals vs. Incarnate Word Cardinals,2026-10-10T20:00:00Z,spread,Lamar Cardinals (-6.5),Lamar Cardinals,MAIN_PRICE_MOVE,-6.5,-6.5,1.7693,1.7143,0,0.0,1,1.0
-2026-10-10T13:00:10.448881+00:00,17955945,Lamar Cardinals vs. Incarnate Word Cardinals,2026-10-10T20:00:00Z,spread,Incarnate Word Cardinals (+6.5),Incarnate Word Cardinals,MAIN_PRICE_MOVE,6.5,6.5,1.9091,2.0,0,0.0,1,1.0
-2026-10-10T13:00:10.448881+00:00,17956051,Portland State Vikings vs. Utah Tech Trailblaizers,2026-10-10T20:00:00Z,spread,Portland State Vikings (-9.5),Portland State Vikings,MAIN_PRICE_MOVE,-9.5,-9.5,2.0,2.05,0,0.0,1,1.0
-2026-10-10T13:00:10.448881+00:00,17956051,Portland State Vikings vs. Utah Tech Trailblaizers,2026-10-10T20:00:00Z,spread,Utah Tech Trailblaizers (+9.5),Utah Tech Trailblaizers,MAIN_PRICE_MOVE,9.5,9.5,1.7143,1.6897,0,0.0,1,1.0
-2026-10-10T13:00:10.448881+00:00,17956214,Eastern Kentucky Colonels vs. West Georgia Wolves,2026-10-10T22:00:00Z,total,Moins de 45.5,under,MAIN_PRICE_MOVE,45.5,45.5,1.8,1.7143,0,0.0,1,1.0
-2026-10-10T13:00:10.448881+00:00,17956214,Eastern Kentucky Colonels vs. West Georgia Wolves,2026-10-10T22:00:00Z,total,Plus de 45.5,over,MAIN_PRICE_MOVE,45.5,45.5,1.8696,2.0,0,0.0,1,1.0
-2026-10-10T13:00:10.448881+00:00,17933667,Northern Illinois Huskies vs. Air Force Falcons,2026-10-10T23:30:00Z,spread,Northern Illinois Huskies (+7.5),Northern Illinois Huskies,MAIN_PRICE_MOVE,7.5,7.5,1.7693,1.7408,0,0.0,1,1.0
-2026-10-10T13:00:10.448881+00:00,17933667,Northern Illinois Huskies vs. Air Force Falcons,2026-10-10T23:30:00Z,spread,Air Force Falcons (-7.5),Air Force Falcons,MAIN_PRICE_MOVE,-7.5,-7.5,1.9091,1.9524,0,0.0,1,1.0
-2026-10-10T13:00:10.448881+00:00,17955738,Yale Bulldogs vs. Dartmouth Big Green,2026-10-10T16:00:00Z,spread,Dartmouth Big Green (+6.0),Dartmouth Big Green,REMOVED_MAIN,6.0,,1.8696,,0,,1,
-2026-10-10T13:00:10.448881+00:00,17955738,Yale Bulldogs vs. Dartmouth Big Green,2026-10-10T16:00:00Z,spread,Yale Bulldogs (-6.0),Yale Bulldogs,REMOVED_MAIN,-6.0,,1.8,,0,,1,
-2026-10-10T13:00:10.448881+00:00,17955738,Yale Bulldogs vs. Dartmouth Big Green,2026-10-10T16:00:00Z,total,Plus de 52.5,over,REMOVED_MAIN,52.5,,1.8334,,0,,1,
-2026-10-10T13:00:10.448881+00:00,17955738,Yale Bulldogs vs. Dartmouth Big Green,2026-10-10T16:00:00Z,total,Moins de 52.5,under,REMOVED_MAIN,52.5,,1.8334,,0,,1,
-2026-10-10T13:00:10.448881+00:00,17955752,Sacred Heart Pioneers vs. Stonehill Skyhawks,2026-10-10T16:00:00Z,spread,Stonehill Skyhawks (+8.5),Stonehill Skyhawks,REMOVED_MAIN,8.5,,1.8334,,0,,1,
-2026-10-10T13:00:10.448881+00:00,17955752,Sacred Heart Pioneers vs. Stonehill Skyhawks,2026-10-10T16:00:00Z,spread,Sacred Heart Pioneers (-8.5),Sacred Heart Pioneers,REMOVED_MAIN,-8.5,,1.8334,,0,,1,
+2026-10-10T13:13:37.883227+00:00,17955922,Butler Bulldogs vs. San Diego Toreros,2026-10-10T17:00:00Z,spread,Butler Bulldogs (+2.5),Butler Bulldogs,MAIN_PRICE_MOVE,2.5,2.5,1.8696,1.9524,0,0.0,1,1.0
+2026-10-10T13:13:37.883227+00:00,17955922,Butler Bulldogs vs. San Diego Toreros,2026-10-10T17:00:00Z,spread,San Diego Toreros (-2.5),San Diego Toreros,MAIN_PRICE_MOVE,-2.5,-2.5,1.8,1.7408,0,0.0,1,1.0
+2026-10-10T13:13:37.883227+00:00,17955919,Cornell Big Red vs. Harvard Crimson,2026-10-10T17:00:00Z,spread,Cornell Big Red (+7.0),Cornell Big Red,MAIN_PRICE_MOVE,7.0,7.0,1.8,1.7408,0,0.0,1,1.0
+2026-10-10T13:13:37.883227+00:00,17955919,Cornell Big Red vs. Harvard Crimson,2026-10-10T17:00:00Z,spread,Harvard Crimson (-7.0),Harvard Crimson,MAIN_PRICE_MOVE,-7.0,-7.0,1.8696,1.9524,0,0.0,1,1.0
+2026-10-10T13:13:37.883227+00:00,17928696,Navy Midshipmen vs. Tulsa Golden Hurricane,2026-10-10T19:30:00Z,total,Moins de 47.5,under,MAIN_PRICE_MOVE,47.5,47.5,1.9091,1.8696,0,0.0,1,1.0
+2026-10-10T13:13:37.883227+00:00,17928696,Navy Midshipmen vs. Tulsa Golden Hurricane,2026-10-10T19:30:00Z,total,Plus de 47.5,over,MAIN_PRICE_MOVE,47.5,47.5,1.7693,1.8,0,0.0,1,1.0
+2026-10-10T13:13:37.883227+00:00,17933342,North Texas vs. Charlotte 49ers,2026-10-10T19:30:00Z,total,Plus de 58.5,over,MAIN_PRICE_MOVE,58.5,58.5,1.8696,1.9091,0,0.0,1,1.0
+2026-10-10T13:13:37.883227+00:00,17933342,North Texas vs. Charlotte 49ers,2026-10-10T19:30:00Z,total,Moins de 58.5,under,MAIN_PRICE_MOVE,58.5,58.5,1.8,1.7693,0,0.0,1,1.0
+2026-10-10T13:13:37.883227+00:00,17955876,Tennessee Tech Golden Eagles vs. Furman Paladins,2026-10-10T19:30:00Z,total,Moins de 45.5,under,MAIN_PRICE_MOVE,45.5,45.5,1.8334,1.8,0,0.0,1,1.0
+2026-10-10T13:13:37.883227+00:00,17955876,Tennessee Tech Golden Eagles vs. Furman Paladins,2026-10-10T19:30:00Z,total,Plus de 45.5,over,MAIN_PRICE_MOVE,45.5,45.5,1.8334,1.8696,0,0.0,1,1.0
+2026-10-10T13:13:37.883227+00:00,17955945,Lamar Cardinals vs. Incarnate Word Cardinals,2026-10-10T20:00:00Z,spread,Lamar Cardinals (-6.5),Lamar Cardinals,MAIN_PRICE_MOVE,-6.5,-6.5,1.7143,1.6451,0,0.0,1,1.0
+2026-10-10T13:13:37.883227+00:00,17955945,Lamar Cardinals vs. Incarnate Word Cardinals,2026-10-10T20:00:00Z,spread,Incarnate Word Cardinals (+6.5),Incarnate Word Cardinals,MAIN_PRICE_MOVE,6.5,6.5,2.0,2.15,0,0.0,1,1.0
+2026-10-10T13:13:37.883227+00:00,17956214,Eastern Kentucky Colonels vs. West Georgia Wolves,2026-10-10T22:00:00Z,total,Moins de 45.5,under,MAIN_PRICE_MOVE,45.5,45.5,1.7143,1.6451,0,0.0,1,1.0
+2026-10-10T13:13:37.883227+00:00,17956214,Eastern Kentucky Colonels vs. West Georgia Wolves,2026-10-10T22:00:00Z,total,Plus de 45.5,over,MAIN_PRICE_MOVE,45.5,45.5,2.0,2.15,0,0.0,1,1.0
+2026-10-10T13:13:37.883227+00:00,16722004,Alabama Crimson Tide vs. GEORGIE BULLDOGS,2026-10-10T23:30:00Z,spread,Alabama Crimson Tide (-2.5),Alabama Crimson Tide,MAIN_SWITCH,-2.5,-2.5,1.8696,1.8696,0,0.0,0,1.0
+2026-10-10T13:13:37.883227+00:00,16722004,Alabama Crimson Tide vs. GEORGIE BULLDOGS,2026-10-10T23:30:00Z,spread,GEORGIE BULLDOGS (+2.5),GEORGIE BULLDOGS,MAIN_SWITCH,2.5,2.5,1.8,1.8,0,0.0,0,1.0
+2026-10-10T13:13:37.883227+00:00,17955757,Wagner Seahawks vs. Princeton Tigers,2026-10-10T16:00:00Z,spread,Wagner Seahawks (+24.5),Wagner Seahawks,REMOVED_MAIN,24.5,,1.9091,,0,,1,
+2026-10-10T13:13:37.883227+00:00,17955757,Wagner Seahawks vs. Princeton Tigers,2026-10-10T16:00:00Z,spread,Princeton Tigers (-24.5),Princeton Tigers,REMOVED_MAIN,-24.5,,1.7693,,0,,1,
+2026-10-10T13:13:37.883227+00:00,17955916,Georgetown Hoyas vs. Bucknell Bison,2026-10-10T16:30:00Z,total,Plus de 47.5,over,REMOVED_MAIN,47.5,,1.8334,,0,,1,
+2026-10-10T13:13:37.883227+00:00,17955916,Georgetown Hoyas vs. Bucknell Bison,2026-10-10T16:30:00Z,total,Moins de 47.5,under,REMOVED_MAIN,47.5,,1.8334,,0,,1,
+2026-10-10T13:13:37.883227+00:00,17955922,Butler Bulldogs vs. San Diego Toreros,2026-10-10T17:00:00Z,total,Plus de 57.5,over,REMOVED_MAIN,57.5,,1.7693,,0,,1,
+2026-10-10T13:13:37.883227+00:00,17955922,Butler Bulldogs vs. San Diego Toreros,2026-10-10T17:00:00Z,total,Moins de 57.5,under,REMOVED_MAIN,57.5,,1.9091,,0,,1,

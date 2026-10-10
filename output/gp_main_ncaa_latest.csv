@@ -5,264 +5,390 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17956218,Abilene Christian Wildcats vs. Central Arkansas Bears,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1773429267,-10.0,4628517997,Abilene Christian Wildcats (-10.0),-10.0,1.8334,0,True
 17956218,Abilene Christian Wildcats vs. Central Arkansas Bears,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1770996730,51.5,4621867725,Plus de 51.5,51.5,1.8,0,True
 17956218,Abilene Christian Wildcats vs. Central Arkansas Bears,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1770996730,51.5,4621867726,Moins de 51.5,51.5,1.8696,0,True
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1762802458,,4596212069,Minnesota U Gophers,,1.625,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1762802458,,4596212070,Purdue Boilermakers,,2.1,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1763149638,+2.5,4600502528,Purdue Boilermakers (-10.5),-10.5,5.0,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1763149638,+2.5,4600502534,Minnesota U Gophers (+9.5),-9.5,1.1819,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1763149638,+2.5,4600502535,Purdue Boilermakers (-9.5),-9.5,4.4,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1763149638,+2.5,4600502537,Minnesota U Gophers (-12.5),+12.5,4.0,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1763149638,+2.5,4600502540,Purdue Boilermakers (+12.5),+12.5,1.2223,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1763149638,+2.5,4600502543,Purdue Boilermakers (+11.5),+11.5,1.2353,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1763149638,+2.5,4600502545,Minnesota U Gophers (-11.5),+11.5,3.75,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1763149638,+2.5,4600502546,Minnesota U Gophers (+11.5),-11.5,1.125,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1763149638,+2.5,4600502547,Purdue Boilermakers (-11.5),-11.5,5.5,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1763149638,+2.5,4600502550,Purdue Boilermakers (-5.5),-5.5,3.1,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1763149638,+2.5,4600502552,Minnesota U Gophers (+5.5),-5.5,1.3334,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1763149638,+2.5,4600502554,Minnesota U Gophers (+7.5),-7.5,1.2223,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1763149638,+2.5,4600502556,Purdue Boilermakers (-7.5),-7.5,4.0,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1763149638,+2.5,4600502558,Purdue Boilermakers (-6.5),-6.5,3.4,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1763149638,+2.5,4600502560,Minnesota U Gophers (+6.5),-6.5,1.2858,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1763149638,+2.5,4600502562,Minnesota U Gophers (-1.5),+1.5,1.6897,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1763149638,+2.5,4600502564,Purdue Boilermakers (+1.5),+1.5,2.05,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1763149638,+2.5,4600502566,Minnesota U Gophers (-6.5),+6.5,2.5,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1763149638,+2.5,4600502568,Purdue Boilermakers (+6.5),+6.5,1.5,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1763149638,+2.5,4600502569,Minnesota U Gophers (-13.5),+13.5,4.4,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1763149638,+2.5,4600502572,Purdue Boilermakers (+13.5),+13.5,1.1819,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1763149638,+2.5,4597017389,Purdue Boilermakers (+2.5),+2.5,1.8696,0,True
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1763149638,+2.5,4600502574,Minnesota U Gophers (-7.5),+7.5,2.85,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1763149638,+2.5,4597017388,Minnesota U Gophers (-2.5),+2.5,1.8,0,True
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1763149638,+2.5,4600502577,Purdue Boilermakers (+7.5),+7.5,1.3847,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1763149638,+2.5,4600502579,Minnesota U Gophers (-5.5),+5.5,2.35,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1763149638,+2.5,4600502581,Purdue Boilermakers (+5.5),+5.5,1.5455,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1763149638,+2.5,4600502583,Minnesota U Gophers (-8.5),+8.5,3.1,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1763149638,+2.5,4600502585,Purdue Boilermakers (+8.5),+8.5,1.3334,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1763149638,+2.5,4600502587,Purdue Boilermakers (+10.5),+10.5,1.2667,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1763149638,+2.5,4600502589,Minnesota U Gophers (-10.5),+10.5,3.5,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1763149638,+2.5,4600502591,Minnesota U Gophers (-9.5),+9.5,3.2,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1763149638,+2.5,4600502593,Purdue Boilermakers (+9.5),+9.5,1.3125,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1763149638,+2.5,4600502595,Purdue Boilermakers (-2.5),-2.5,2.35,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1763149638,+2.5,4600502598,Minnesota U Gophers (+2.5),-2.5,1.5455,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1763149638,+2.5,4600502599,Purdue Boilermakers (-3.5),-3.5,2.7,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1763149638,+2.5,4600502602,Minnesota U Gophers (+3.5),-3.5,1.4167,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1763149638,+2.5,4600502604,Purdue Boilermakers (-1.5),-1.5,2.2,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1763149638,+2.5,4600502606,Minnesota U Gophers (+1.5),-1.5,1.625,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1763149638,+2.5,4600502608,Purdue Boilermakers (-4.5),-4.5,2.9,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1763149638,+2.5,4600502610,Minnesota U Gophers (+4.5),-4.5,1.3637,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1763149638,+2.5,4600502612,Minnesota U Gophers (+8.5),-8.5,1.2,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1763149638,+2.5,4600502614,Purdue Boilermakers (-8.5),-8.5,4.2,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1763149638,+2.5,4600502616,Minnesota U Gophers (-18.5),+18.5,7.5,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1763149638,+2.5,4600502618,Purdue Boilermakers (+18.5),+18.5,1.0715,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1763149638,+2.5,4600502620,Purdue Boilermakers (-12.5),-12.5,6.0,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1763149638,+2.5,4600502622,Minnesota U Gophers (+12.5),-12.5,1.1112,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1763149638,+2.5,4600502624,Purdue Boilermakers (+17.5),+17.5,1.1,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1763149638,+2.5,4600502626,Minnesota U Gophers (-17.5),+17.5,6.5,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1763149638,+2.5,4596212067,Minnesota U Gophers (-4.5),+4.5,2.2,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1763149638,+2.5,4596212068,Purdue Boilermakers (+4.5),+4.5,1.625,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1763149638,+2.5,4600502628,Minnesota U Gophers (-14.5),+14.5,5.0,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1763149638,+2.5,4600502630,Purdue Boilermakers (+14.5),+14.5,1.1429,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1763149638,+2.5,4600502631,Purdue Boilermakers (-13.5),-13.5,6.5,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1763149638,+2.5,4600502634,Minnesota U Gophers (+13.5),-13.5,1.1,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1763149638,+2.5,4600502635,Purdue Boilermakers (+16.5),+16.5,1.1112,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1763149638,+2.5,4600502637,Minnesota U Gophers (-16.5),+16.5,6.0,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1763149638,+2.5,4600502639,Purdue Boilermakers (+15.5),+15.5,1.1334,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1763149638,+2.5,4596277104,Purdue Boilermakers (+3.5),+3.5,1.6667,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1763149638,+2.5,4600502641,Minnesota U Gophers (-15.5),+15.5,5.25,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1763149638,+2.5,4596277103,Minnesota U Gophers (-3.5),+3.5,2.1,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1763149638,+2.5,4600502526,Minnesota U Gophers (+10.5),-10.5,1.1429,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802456,49.5,4600502657,Plus de 56.5,56.5,2.85,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802456,49.5,4600502659,Plus de 54.5,54.5,2.5,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802456,49.5,4600502663,Moins de 54.5,54.5,1.5,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802456,49.5,4600502666,Plus de 57.5,57.5,3.1,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802456,49.5,4600502667,Moins de 57.5,57.5,1.3334,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802456,49.5,4600502669,Plus de 55.5,55.5,2.7,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802456,49.5,4600502670,Moins de 55.5,55.5,1.4167,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802456,49.5,4600502671,Moins de 58.5,58.5,1.3031,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802456,49.5,4600502673,Plus de 58.5,58.5,3.25,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802456,49.5,4600502674,Moins de 59.5,59.5,1.2667,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802456,49.5,4600502676,Plus de 59.5,59.5,3.5,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802456,49.5,4600502678,Plus de 62.5,62.5,4.4,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802456,49.5,4600502679,Moins de 62.5,62.5,1.1819,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802456,49.5,4600502680,Plus de 60.5,60.5,3.7,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802456,49.5,4601224218,Plus de 35.5,35.5,1.1429,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802456,49.5,4601224219,Moins de 35.5,35.5,5.0,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802456,49.5,4600502684,Plus de 63.5,63.5,4.75,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802456,49.5,4600502682,Moins de 60.5,60.5,1.25,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802456,49.5,4600502685,Moins de 63.5,63.5,1.1539,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802456,49.5,4600502691,Moins de 61.5,61.5,1.2223,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802456,49.5,4600502694,Plus de 61.5,61.5,4.0,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802456,49.5,4600502695,Plus de 64.5,64.5,5.0,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802456,49.5,4600502649,Moins de 52.5,52.5,1.5715,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802456,49.5,4600502697,Moins de 64.5,64.5,1.1429,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802456,49.5,4600502703,Plus de 46.5,46.5,1.625,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802456,49.5,4600502705,Moins de 46.5,46.5,2.2,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802456,49.5,4600502707,Plus de 36.5,36.5,1.1539,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802456,49.5,4600502710,Moins de 36.5,36.5,4.75,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802456,49.5,4600502711,Plus de 48.5,48.5,1.7693,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802456,49.5,4600502713,Moins de 48.5,48.5,1.9091,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802456,49.5,4600502715,Plus de 38.5,38.5,1.25,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802456,49.5,4600502717,Moins de 38.5,38.5,3.7,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802456,49.5,4600502718,Plus de 44.5,44.5,1.5,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802456,49.5,4600502719,Moins de 44.5,44.5,2.5,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802456,49.5,4600502720,Moins de 41.5,41.5,3.0,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802456,49.5,4600502721,Plus de 41.5,41.5,1.3572,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802456,49.5,4600502722,Plus de 42.5,42.5,1.3847,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802456,49.5,4600502723,Moins de 42.5,42.5,2.85,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802456,49.5,4600502724,Plus de 45.5,45.5,1.5715,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802456,49.5,4600502725,Moins de 45.5,45.5,2.25,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802456,49.5,4600502726,Plus de 47.5,47.5,1.6667,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802456,49.5,4600502727,Moins de 47.5,47.5,2.1,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802456,49.5,4600502728,Plus de 43.5,43.5,1.4348,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802456,49.5,4600502729,Moins de 43.5,43.5,2.65,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802456,49.5,4600502730,Plus de 40.5,40.5,1.2858,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802456,49.5,4597277642,Plus de 51.5,51.5,2.1,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802456,49.5,4600502732,Plus de 39.5,39.5,1.2667,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802456,49.5,4600502733,Moins de 39.5,39.5,3.5,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802456,49.5,4600502734,Plus de 37.5,37.5,1.2,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802456,49.5,4600502735,Moins de 37.5,37.5,4.2,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802456,49.5,4600502731,Moins de 40.5,40.5,3.4,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802456,49.5,4597277641,Moins de 51.5,51.5,1.6667,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802456,49.5,4596529757,Plus de 50.5,50.5,1.9091,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802456,49.5,4596529758,Moins de 50.5,50.5,1.7693,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802456,49.5,4596212065,Moins de 49.5,49.5,1.8334,0,True
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802456,49.5,4596212066,Plus de 49.5,49.5,1.8334,0,True
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802456,49.5,4600502647,Plus de 52.5,52.5,2.25,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802456,49.5,4613995641,Plus de 34.5,34.5,1.125,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802456,49.5,4613995642,Moins de 34.5,34.5,5.5,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802456,49.5,4600502652,Plus de 53.5,53.5,2.35,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802456,49.5,4600502654,Moins de 53.5,53.5,1.5455,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802456,49.5,4600502655,Moins de 56.5,56.5,1.3847,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1762802458,,4596212069,Minnesota U Gophers,,1.6667,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1762802458,,4596212070,Purdue Boilermakers,,2.05,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802457,+4.5,4600502528,Purdue Boilermakers (-10.5),-10.5,5.25,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802457,+4.5,4600502534,Minnesota U Gophers (+9.5),-9.5,1.1819,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802457,+4.5,4600502535,Purdue Boilermakers (-9.5),-9.5,4.4,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802457,+4.5,4600502537,Minnesota U Gophers (-12.5),+12.5,4.0,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802457,+4.5,4600502540,Purdue Boilermakers (+12.5),+12.5,1.2223,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802457,+4.5,4600502543,Purdue Boilermakers (+11.5),+11.5,1.2353,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802457,+4.5,4600502545,Minnesota U Gophers (-11.5),+11.5,3.75,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802457,+4.5,4600502546,Minnesota U Gophers (+11.5),-11.5,1.125,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802457,+4.5,4600502547,Purdue Boilermakers (-11.5),-11.5,5.5,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802457,+4.5,4600502550,Purdue Boilermakers (-5.5),-5.5,3.1,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802457,+4.5,4600502552,Minnesota U Gophers (+5.5),-5.5,1.3334,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802457,+4.5,4600502554,Minnesota U Gophers (+7.5),-7.5,1.2223,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802457,+4.5,4600502556,Purdue Boilermakers (-7.5),-7.5,4.0,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802457,+4.5,4600502558,Purdue Boilermakers (-6.5),-6.5,3.4,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802457,+4.5,4600502560,Minnesota U Gophers (+6.5),-6.5,1.2858,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802457,+4.5,4600502562,Minnesota U Gophers (-1.5),+1.5,1.6897,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802457,+4.5,4600502564,Purdue Boilermakers (+1.5),+1.5,2.05,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802457,+4.5,4600502566,Minnesota U Gophers (-6.5),+6.5,2.55,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802457,+4.5,4600502568,Purdue Boilermakers (+6.5),+6.5,1.4762,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802457,+4.5,4600502569,Minnesota U Gophers (-13.5),+13.5,4.4,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802457,+4.5,4600502572,Purdue Boilermakers (+13.5),+13.5,1.1819,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802457,+4.5,4597017389,Purdue Boilermakers (+2.5),+2.5,1.8696,0,True
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802457,+4.5,4600502574,Minnesota U Gophers (-7.5),+7.5,2.85,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802457,+4.5,4597017388,Minnesota U Gophers (-2.5),+2.5,1.8,0,True
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802457,+4.5,4600502577,Purdue Boilermakers (+7.5),+7.5,1.3847,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802457,+4.5,4600502579,Minnesota U Gophers (-5.5),+5.5,2.25,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802457,+4.5,4600502581,Purdue Boilermakers (+5.5),+5.5,1.5715,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802457,+4.5,4600502583,Minnesota U Gophers (-8.5),+8.5,3.1,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802457,+4.5,4600502585,Purdue Boilermakers (+8.5),+8.5,1.3334,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802457,+4.5,4600502587,Purdue Boilermakers (+10.5),+10.5,1.2667,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802457,+4.5,4600502589,Minnesota U Gophers (-10.5),+10.5,3.5,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802457,+4.5,4600502591,Minnesota U Gophers (-9.5),+9.5,3.15,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802457,+4.5,4600502593,Purdue Boilermakers (+9.5),+9.5,1.3226,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802457,+4.5,4600502595,Purdue Boilermakers (-2.5),-2.5,2.35,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802457,+4.5,4600502598,Minnesota U Gophers (+2.5),-2.5,1.5455,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802457,+4.5,4600502599,Purdue Boilermakers (-3.5),-3.5,2.75,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802457,+4.5,4600502602,Minnesota U Gophers (+3.5),-3.5,1.4,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802457,+4.5,4600502604,Purdue Boilermakers (-1.5),-1.5,2.15,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802457,+4.5,4600502606,Minnesota U Gophers (+1.5),-1.5,1.6451,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802457,+4.5,4600502608,Purdue Boilermakers (-4.5),-4.5,2.75,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802457,+4.5,4600502610,Minnesota U Gophers (+4.5),-4.5,1.4,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802457,+4.5,4600502612,Minnesota U Gophers (+8.5),-8.5,1.1819,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802457,+4.5,4600502614,Purdue Boilermakers (-8.5),-8.5,4.4,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802457,+4.5,4600502616,Minnesota U Gophers (-18.5),+18.5,7.5,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802457,+4.5,4600502618,Purdue Boilermakers (+18.5),+18.5,1.0715,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802457,+4.5,4600502620,Purdue Boilermakers (-12.5),-12.5,6.0,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802457,+4.5,4600502622,Minnesota U Gophers (+12.5),-12.5,1.1112,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802457,+4.5,4600502624,Purdue Boilermakers (+17.5),+17.5,1.1,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802457,+4.5,4600502626,Minnesota U Gophers (-17.5),+17.5,6.5,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802457,+4.5,4596212067,Minnesota U Gophers (-4.5),+4.5,2.2,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802457,+4.5,4596212068,Purdue Boilermakers (+4.5),+4.5,1.625,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802457,+4.5,4600502628,Minnesota U Gophers (-14.5),+14.5,5.0,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802457,+4.5,4600502630,Purdue Boilermakers (+14.5),+14.5,1.1429,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802457,+4.5,4600502631,Purdue Boilermakers (-13.5),-13.5,6.5,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802457,+4.5,4600502634,Minnesota U Gophers (+13.5),-13.5,1.1,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802457,+4.5,4600502635,Purdue Boilermakers (+16.5),+16.5,1.1112,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802457,+4.5,4600502637,Minnesota U Gophers (-16.5),+16.5,6.0,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802457,+4.5,4600502639,Purdue Boilermakers (+15.5),+15.5,1.125,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802457,+4.5,4596277104,Purdue Boilermakers (+3.5),+3.5,1.6897,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802457,+4.5,4600502641,Minnesota U Gophers (-15.5),+15.5,5.5,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802457,+4.5,4596277103,Minnesota U Gophers (-3.5),+3.5,2.05,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802457,+4.5,4600502526,Minnesota U Gophers (+10.5),-10.5,1.1334,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762939232,50.5,4600502657,Plus de 56.5,56.5,2.7,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762939232,50.5,4600502659,Plus de 54.5,54.5,2.5,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762939232,50.5,4600502663,Moins de 54.5,54.5,1.5,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762939232,50.5,4600502666,Plus de 57.5,57.5,3.1,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762939232,50.5,4600502667,Moins de 57.5,57.5,1.3334,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762939232,50.5,4600502669,Plus de 55.5,55.5,2.7,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762939232,50.5,4600502670,Moins de 55.5,55.5,1.4167,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762939232,50.5,4600502671,Moins de 58.5,58.5,1.3031,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762939232,50.5,4600502673,Plus de 58.5,58.5,3.25,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762939232,50.5,4600502674,Moins de 59.5,59.5,1.2667,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762939232,50.5,4600502676,Plus de 59.5,59.5,3.5,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762939232,50.5,4600502678,Plus de 62.5,62.5,4.4,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762939232,50.5,4600502679,Moins de 62.5,62.5,1.1819,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762939232,50.5,4600502680,Plus de 60.5,60.5,3.75,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762939232,50.5,4601224218,Plus de 35.5,35.5,1.1429,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762939232,50.5,4601224219,Moins de 35.5,35.5,5.0,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762939232,50.5,4600502684,Plus de 63.5,63.5,4.75,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762939232,50.5,4600502682,Moins de 60.5,60.5,1.2353,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762939232,50.5,4600502685,Moins de 63.5,63.5,1.1539,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762939232,50.5,4600502691,Moins de 61.5,61.5,1.2223,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762939232,50.5,4600502694,Plus de 61.5,61.5,4.0,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762939232,50.5,4600502649,Moins de 52.5,52.5,1.5556,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762939232,50.5,4600502703,Plus de 46.5,46.5,1.6451,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762939232,50.5,4600502705,Moins de 46.5,46.5,2.15,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762939232,50.5,4600502707,Plus de 36.5,36.5,1.1539,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762939232,50.5,4600502710,Moins de 36.5,36.5,4.75,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762939232,50.5,4600502711,Plus de 48.5,48.5,1.8,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762939232,50.5,4600502713,Moins de 48.5,48.5,1.8696,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762939232,50.5,4600502715,Plus de 38.5,38.5,1.25,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762939232,50.5,4600502717,Moins de 38.5,38.5,3.7,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762939232,50.5,4600502718,Plus de 44.5,44.5,1.5264,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762939232,50.5,4600502719,Moins de 44.5,44.5,2.4,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762939232,50.5,4600502720,Moins de 41.5,41.5,2.9,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762939232,50.5,4600502721,Plus de 41.5,41.5,1.3637,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762939232,50.5,4600502722,Plus de 42.5,42.5,1.4348,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762939232,50.5,4600502723,Moins de 42.5,42.5,2.65,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762939232,50.5,4600502724,Plus de 45.5,45.5,1.6451,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762939232,50.5,4600502725,Moins de 45.5,45.5,2.15,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762939232,50.5,4600502726,Plus de 47.5,47.5,1.6897,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762939232,50.5,4600502727,Moins de 47.5,47.5,2.05,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762939232,50.5,4600502728,Plus de 43.5,43.5,1.4348,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762939232,50.5,4600502729,Moins de 43.5,43.5,2.65,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762939232,50.5,4600502730,Plus de 40.5,40.5,1.3031,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762939232,50.5,4597277642,Plus de 51.5,51.5,2.15,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762939232,50.5,4600502732,Plus de 39.5,39.5,1.2667,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762939232,50.5,4600502733,Moins de 39.5,39.5,3.5,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762939232,50.5,4600502734,Plus de 37.5,37.5,1.2223,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762939232,50.5,4600502735,Moins de 37.5,37.5,4.0,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762939232,50.5,4600502731,Moins de 40.5,40.5,3.25,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762939232,50.5,4597277641,Moins de 51.5,51.5,1.6451,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762939232,50.5,4596529757,Plus de 50.5,50.5,1.9524,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762939232,50.5,4596529758,Moins de 50.5,50.5,1.7408,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762939232,50.5,4596212065,Moins de 49.5,49.5,1.8334,0,True
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762939232,50.5,4596212066,Plus de 49.5,49.5,1.8334,0,True
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762939232,50.5,4628870760,Plus de 33.5,33.5,1.1112,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762939232,50.5,4628870761,Moins de 33.5,33.5,6.0,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762939232,50.5,4600502647,Plus de 52.5,52.5,2.3,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762939232,50.5,4613995641,Plus de 34.5,34.5,1.125,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762939232,50.5,4613995642,Moins de 34.5,34.5,5.5,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762939232,50.5,4600502652,Plus de 53.5,53.5,2.3,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762939232,50.5,4600502654,Moins de 53.5,53.5,1.5556,0,False
+17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762939232,50.5,4600502655,Moins de 56.5,56.5,1.4167,0,False
 17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1762802476,,4596212115,Utah Utes,,1.1112,0,False
 17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1762802476,,4596212116,Kansas Jayhawks,,5.25,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762939855,-15.5,4600498817,Utah Utes (-31.5),-31.5,6.5,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762939855,-15.5,4600498821,Kansas Jayhawks (+31.5),-31.5,1.1,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762939855,-15.5,4600498822,Kansas Jayhawks (+10.5),-10.5,2.4,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762939855,-15.5,4600498824,Utah Utes (-10.5),-10.5,1.5264,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762939855,-15.5,4600498825,Kansas Jayhawks (+5.5),-5.5,3.5,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762939855,-15.5,4600498827,Utah Utes (-5.5),-5.5,1.2667,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762939855,-15.5,4600498829,Kansas Jayhawks (+9.5),-9.5,2.65,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762939855,-15.5,4600498830,Utah Utes (-9.5),-9.5,1.4348,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762939855,-15.5,4600498831,Kansas Jayhawks (+11.5),-11.5,2.3,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762939855,-15.5,4600498832,Utah Utes (-11.5),-11.5,1.5556,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762939855,-15.5,4596212112,Utah Utes (-16.5),-16.5,1.9091,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762939855,-15.5,4596212111,Kansas Jayhawks (+16.5),-16.5,1.7693,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762939855,-15.5,4600498723,Utah Utes (-25.5),-25.5,3.5,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762939855,-15.5,4600498726,Kansas Jayhawks (+25.5),-25.5,1.2667,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762939855,-15.5,4600498729,Kansas Jayhawks (+29.5),-29.5,1.1429,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762939855,-15.5,4600498731,Utah Utes (-29.5),-29.5,5.0,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762939855,-15.5,4600498734,Utah Utes (-19.5),-19.5,2.3,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762939855,-15.5,4600498735,Kansas Jayhawks (+19.5),-19.5,1.5556,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762939855,-15.5,4600498736,Utah Utes (-18.5),-18.5,2.2,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762939855,-15.5,4600498737,Kansas Jayhawks (+18.5),-18.5,1.625,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762939855,-15.5,4600498739,Kansas Jayhawks (+28.5),-28.5,1.1539,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762939855,-15.5,4600498744,Utah Utes (-28.5),-28.5,4.75,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762939855,-15.5,4600498746,Kansas Jayhawks (+1.5),-1.5,5.25,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762939855,-15.5,4600498747,Utah Utes (-1.5),-1.5,1.1334,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762939855,-15.5,4600498748,Kansas Jayhawks (+14.5),-14.5,1.9091,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762939855,-15.5,4600498749,Utah Utes (-14.5),-14.5,1.7693,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762939855,-15.5,4600498750,Kansas Jayhawks (+24.5),-24.5,1.2858,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762939855,-15.5,4600498751,Utah Utes (-24.5),-24.5,3.4,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762939855,-15.5,4600498753,Kansas Jayhawks (+22.5),-22.5,1.3847,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762939855,-15.5,4600498754,Utah Utes (-22.5),-22.5,2.85,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762939855,-15.5,4600498756,Kansas Jayhawks (+12.5),-12.5,2.2,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762939855,-15.5,4600498758,Utah Utes (-12.5),-12.5,1.625,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762939855,-15.5,4600498760,Kansas Jayhawks (+4.5),-4.5,3.7,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762939855,-15.5,4600498761,Utah Utes (-4.5),-4.5,1.25,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762939855,-15.5,4600498762,Kansas Jayhawks (+6.5),-6.5,3.25,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762939855,-15.5,4600498764,Utah Utes (-6.5),-6.5,1.3031,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762939855,-15.5,4600498766,Utah Utes (-8.5),-8.5,1.4167,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762939855,-15.5,4600498768,Kansas Jayhawks (+8.5),-8.5,2.7,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762939855,-15.5,4600498773,Kansas Jayhawks (+7.5),-7.5,2.85,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762939855,-15.5,4600498774,Utah Utes (-7.5),-7.5,1.3847,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762939855,-15.5,4600498776,Kansas Jayhawks (+23.5),-23.5,1.3572,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762939855,-15.5,4600498778,Utah Utes (-23.5),-23.5,3.0,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762939855,-15.5,4600498780,Kansas Jayhawks (+13.5),-13.5,2.1,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762939855,-15.5,4600498782,Utah Utes (-13.5),-13.5,1.6667,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762939855,-15.5,4600498785,Kansas Jayhawks (+17.5),-17.5,1.6667,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762939855,-15.5,4600498786,Utah Utes (-17.5),-17.5,2.1,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762939855,-15.5,4600498788,Kansas Jayhawks (+27.5),-27.5,1.2,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762939855,-15.5,4600498790,Utah Utes (-27.5),-27.5,4.2,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762939855,-15.5,4600498791,Kansas Jayhawks (+20.5),-20.5,1.5264,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762939855,-15.5,4600498794,Utah Utes (-20.5),-20.5,2.4,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762939855,-15.5,4596531179,Kansas Jayhawks (+15.5),-15.5,1.8334,0,True
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762939855,-15.5,4596531180,Utah Utes (-15.5),-15.5,1.8334,0,True
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762939855,-15.5,4600498796,Kansas Jayhawks (+21.5),-21.5,1.4348,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762939855,-15.5,4600498798,Utah Utes (-21.5),-21.5,2.65,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762939855,-15.5,4600498800,Kansas Jayhawks (+26.5),-26.5,1.2353,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762939855,-15.5,4600498802,Utah Utes (-26.5),-26.5,3.75,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762939855,-15.5,4600498804,Kansas Jayhawks (+2.5),-2.5,5.0,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762939855,-15.5,4600498806,Utah Utes (-2.5),-2.5,1.1429,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762939855,-15.5,4600498808,Kansas Jayhawks (+3.5),-3.5,4.0,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762939855,-15.5,4600498810,Utah Utes (-3.5),-3.5,1.2223,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762939855,-15.5,4600498812,Utah Utes (-30.5),-30.5,5.5,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762939855,-15.5,4600498815,Kansas Jayhawks (+30.5),-30.5,1.125,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1764256721,49.5,4605067776,Plus de 36.5,36.5,1.1429,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1764256721,49.5,4605067777,Moins de 36.5,36.5,5.0,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1764256721,49.5,4596212113,Plus de 52.5,52.5,2.25,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1764256721,49.5,4596212114,Moins de 52.5,52.5,1.5715,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1764256721,49.5,4600498838,Plus de 51.5,51.5,2.1,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1764256721,49.5,4600498839,Moins de 51.5,51.5,1.6667,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1764256721,49.5,4600498840,Plus de 41.5,41.5,1.3334,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1764256721,49.5,4600498841,Moins de 41.5,41.5,3.1,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1764256721,49.5,4600498842,Moins de 61.5,61.5,1.2223,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1764256721,49.5,4600498843,Plus de 61.5,61.5,4.0,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1764256721,49.5,4600498844,Plus de 47.5,47.5,1.6667,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1764256721,49.5,4600498846,Moins de 47.5,47.5,2.1,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1764256721,49.5,4600498847,Plus de 46.5,46.5,1.625,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1764256721,49.5,4600498848,Moins de 46.5,46.5,2.2,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1764256721,49.5,4600498849,Plus de 45.5,45.5,1.5556,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1764256721,49.5,4600498851,Moins de 45.5,45.5,2.3,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1764256721,49.5,4600498853,Plus de 44.5,44.5,1.4762,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1764256721,49.5,4600498855,Moins de 44.5,44.5,2.55,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1764256721,49.5,4600498856,Plus de 43.5,43.5,1.4167,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1764256721,49.5,4626329257,Plus de 34.5,34.5,1.1112,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1764256721,49.5,4626329258,Moins de 34.5,34.5,6.0,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1764256721,49.5,4600498859,Plus de 42.5,42.5,1.3847,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1764256721,49.5,4600498860,Moins de 42.5,42.5,2.85,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1764256721,49.5,4600498861,Plus de 40.5,40.5,1.2858,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1764256721,49.5,4600498858,Moins de 43.5,43.5,2.7,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1764256721,49.5,4600498863,Moins de 40.5,40.5,3.4,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1764256721,49.5,4600498864,Plus de 49.5,49.5,1.8334,0,True
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1764256721,49.5,4600498866,Moins de 49.5,49.5,1.8334,0,True
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1764256721,49.5,4600498868,Plus de 48.5,48.5,1.7693,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1764256721,49.5,4600498870,Moins de 48.5,48.5,1.9091,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1764256721,49.5,4600498873,Moins de 63.5,63.5,1.1429,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1764256721,49.5,4600498875,Plus de 63.5,63.5,5.0,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1764256721,49.5,4600498876,Plus de 53.5,53.5,2.35,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1764256721,49.5,4600498877,Moins de 53.5,53.5,1.5455,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1764256721,49.5,4600498878,Plus de 56.5,56.5,2.85,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1764256721,49.5,4600498879,Moins de 56.5,56.5,1.3847,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1764256721,49.5,4613992257,Plus de 35.5,35.5,1.125,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1764256721,49.5,4600498882,Plus de 54.5,54.5,2.5,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1764256721,49.5,4613992258,Moins de 35.5,35.5,5.5,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1764256721,49.5,4600498884,Plus de 64.5,64.5,5.25,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1764256721,49.5,4600498883,Moins de 54.5,54.5,1.5,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1764256721,49.5,4600498885,Moins de 64.5,64.5,1.1334,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1764256721,49.5,4600498888,Plus de 55.5,55.5,2.7,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1764256721,49.5,4600498889,Moins de 55.5,55.5,1.4167,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1764256721,49.5,4600498890,Moins de 39.5,39.5,3.7,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1764256721,49.5,4600498891,Plus de 39.5,39.5,1.25,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1764256721,49.5,4600498892,Moins de 59.5,59.5,1.25,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1764256721,49.5,4600498893,Plus de 59.5,59.5,3.7,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1764256721,49.5,4600498894,Plus de 37.5,37.5,1.1819,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1764256721,49.5,4600498895,Moins de 37.5,37.5,4.4,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1764256721,49.5,4600498896,Moins de 38.5,38.5,4.0,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1764256721,49.5,4600498897,Plus de 38.5,38.5,1.2223,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1764256721,49.5,4600498900,Plus de 57.5,57.5,3.1,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1764256721,49.5,4600498901,Moins de 57.5,57.5,1.3334,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1764256721,49.5,4600498902,Plus de 62.5,62.5,4.4,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1764256721,49.5,4600498903,Moins de 62.5,62.5,1.1819,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1764256721,49.5,4600498904,Moins de 58.5,58.5,1.2858,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1764256721,49.5,4600498905,Plus de 58.5,58.5,3.4,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1764256721,49.5,4600498906,Plus de 50.5,50.5,1.9091,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1764256721,49.5,4600498907,Moins de 50.5,50.5,1.7693,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1764256721,49.5,4600498908,Moins de 60.5,60.5,1.2353,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1764256721,49.5,4600498909,Plus de 60.5,60.5,3.75,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802474,-16.5,4600498817,Utah Utes (-31.5),-31.5,6.5,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802474,-16.5,4600498821,Kansas Jayhawks (+31.5),-31.5,1.1,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802474,-16.5,4600498822,Kansas Jayhawks (+10.5),-10.5,2.4,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802474,-16.5,4600498824,Utah Utes (-10.5),-10.5,1.5264,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802474,-16.5,4600498825,Kansas Jayhawks (+5.5),-5.5,3.5,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802474,-16.5,4600498827,Utah Utes (-5.5),-5.5,1.2667,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802474,-16.5,4600498829,Kansas Jayhawks (+9.5),-9.5,2.65,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802474,-16.5,4600498830,Utah Utes (-9.5),-9.5,1.4348,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802474,-16.5,4600498831,Kansas Jayhawks (+11.5),-11.5,2.25,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802474,-16.5,4600498832,Utah Utes (-11.5),-11.5,1.5715,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802474,-16.5,4596212112,Utah Utes (-16.5),-16.5,1.9091,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802474,-16.5,4596212111,Kansas Jayhawks (+16.5),-16.5,1.7693,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802474,-16.5,4600498723,Utah Utes (-25.5),-25.5,3.5,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802474,-16.5,4600498726,Kansas Jayhawks (+25.5),-25.5,1.2667,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802474,-16.5,4600498729,Kansas Jayhawks (+29.5),-29.5,1.1429,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802474,-16.5,4600498731,Utah Utes (-29.5),-29.5,5.0,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802474,-16.5,4600498734,Utah Utes (-19.5),-19.5,2.25,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802474,-16.5,4600498735,Kansas Jayhawks (+19.5),-19.5,1.5715,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802474,-16.5,4600498736,Utah Utes (-18.5),-18.5,2.2,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802474,-16.5,4600498737,Kansas Jayhawks (+18.5),-18.5,1.625,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802474,-16.5,4600498739,Kansas Jayhawks (+28.5),-28.5,1.1539,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802474,-16.5,4600498744,Utah Utes (-28.5),-28.5,4.75,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802474,-16.5,4600498746,Kansas Jayhawks (+1.5),-1.5,5.25,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802474,-16.5,4600498747,Utah Utes (-1.5),-1.5,1.1334,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802474,-16.5,4600498748,Kansas Jayhawks (+14.5),-14.5,1.9091,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802474,-16.5,4600498749,Utah Utes (-14.5),-14.5,1.7693,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802474,-16.5,4600498750,Kansas Jayhawks (+24.5),-24.5,1.2858,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802474,-16.5,4600498751,Utah Utes (-24.5),-24.5,3.4,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802474,-16.5,4600498753,Kansas Jayhawks (+22.5),-22.5,1.4167,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802474,-16.5,4600498754,Utah Utes (-22.5),-22.5,2.7,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802474,-16.5,4600498756,Kansas Jayhawks (+12.5),-12.5,2.2,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802474,-16.5,4600498758,Utah Utes (-12.5),-12.5,1.625,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802474,-16.5,4600498760,Kansas Jayhawks (+4.5),-4.5,3.7,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802474,-16.5,4600498761,Utah Utes (-4.5),-4.5,1.25,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802474,-16.5,4600498762,Kansas Jayhawks (+6.5),-6.5,3.25,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802474,-16.5,4600498764,Utah Utes (-6.5),-6.5,1.3031,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802474,-16.5,4600498766,Utah Utes (-8.5),-8.5,1.4348,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802474,-16.5,4600498768,Kansas Jayhawks (+8.5),-8.5,2.65,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802474,-16.5,4600498773,Kansas Jayhawks (+7.5),-7.5,2.85,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802474,-16.5,4600498774,Utah Utes (-7.5),-7.5,1.3847,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802474,-16.5,4600498776,Kansas Jayhawks (+23.5),-23.5,1.3572,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802474,-16.5,4600498778,Utah Utes (-23.5),-23.5,3.0,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802474,-16.5,4600498780,Kansas Jayhawks (+13.5),-13.5,2.1,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802474,-16.5,4600498782,Utah Utes (-13.5),-13.5,1.6667,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802474,-16.5,4600498785,Kansas Jayhawks (+17.5),-17.5,1.6667,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802474,-16.5,4600498786,Utah Utes (-17.5),-17.5,2.1,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802474,-16.5,4600498788,Kansas Jayhawks (+27.5),-27.5,1.2,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802474,-16.5,4600498790,Utah Utes (-27.5),-27.5,4.2,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802474,-16.5,4600498791,Kansas Jayhawks (+20.5),-20.5,1.5264,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802474,-16.5,4600498794,Utah Utes (-20.5),-20.5,2.4,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802474,-16.5,4596531179,Kansas Jayhawks (+15.5),-15.5,1.8334,0,True
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802474,-16.5,4596531180,Utah Utes (-15.5),-15.5,1.8334,0,True
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802474,-16.5,4600498796,Kansas Jayhawks (+21.5),-21.5,1.4348,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802474,-16.5,4600498798,Utah Utes (-21.5),-21.5,2.65,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802474,-16.5,4600498800,Kansas Jayhawks (+26.5),-26.5,1.2353,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802474,-16.5,4600498802,Utah Utes (-26.5),-26.5,3.75,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802474,-16.5,4600498804,Kansas Jayhawks (+2.5),-2.5,5.0,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802474,-16.5,4600498806,Utah Utes (-2.5),-2.5,1.1429,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802474,-16.5,4600498808,Kansas Jayhawks (+3.5),-3.5,4.0,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802474,-16.5,4600498810,Utah Utes (-3.5),-3.5,1.2223,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802474,-16.5,4600498812,Utah Utes (-30.5),-30.5,5.5,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1762802474,-16.5,4600498815,Kansas Jayhawks (+30.5),-30.5,1.125,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802475,52.5,4605067776,Plus de 36.5,36.5,1.1429,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802475,52.5,4605067777,Moins de 36.5,36.5,5.0,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802475,52.5,4596212113,Plus de 52.5,52.5,2.25,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802475,52.5,4596212114,Moins de 52.5,52.5,1.5715,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802475,52.5,4600498838,Plus de 51.5,51.5,2.1,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802475,52.5,4600498839,Moins de 51.5,51.5,1.6667,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802475,52.5,4600498840,Plus de 41.5,41.5,1.3334,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802475,52.5,4600498841,Moins de 41.5,41.5,3.1,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802475,52.5,4600498842,Moins de 61.5,61.5,1.2223,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802475,52.5,4600498843,Plus de 61.5,61.5,4.0,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802475,52.5,4600498844,Plus de 47.5,47.5,1.6667,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802475,52.5,4600498846,Moins de 47.5,47.5,2.1,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802475,52.5,4600498847,Plus de 46.5,46.5,1.625,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802475,52.5,4600498848,Moins de 46.5,46.5,2.2,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802475,52.5,4600498849,Plus de 45.5,45.5,1.5715,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802475,52.5,4600498851,Moins de 45.5,45.5,2.25,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802475,52.5,4600498853,Plus de 44.5,44.5,1.4762,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802475,52.5,4600498855,Moins de 44.5,44.5,2.55,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802475,52.5,4600498856,Plus de 43.5,43.5,1.4167,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802475,52.5,4626329257,Plus de 34.5,34.5,1.1112,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802475,52.5,4626329258,Moins de 34.5,34.5,6.0,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802475,52.5,4600498859,Plus de 42.5,42.5,1.4167,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802475,52.5,4600498860,Moins de 42.5,42.5,2.7,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802475,52.5,4600498861,Plus de 40.5,40.5,1.2858,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802475,52.5,4600498858,Moins de 43.5,43.5,2.7,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802475,52.5,4600498863,Moins de 40.5,40.5,3.4,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802475,52.5,4600498864,Plus de 49.5,49.5,1.8334,0,True
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802475,52.5,4600498866,Moins de 49.5,49.5,1.8334,0,True
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802475,52.5,4600498868,Plus de 48.5,48.5,1.7693,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802475,52.5,4600498870,Moins de 48.5,48.5,1.9091,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802475,52.5,4600498873,Moins de 63.5,63.5,1.1429,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802475,52.5,4600498875,Plus de 63.5,63.5,5.0,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802475,52.5,4600498876,Plus de 53.5,53.5,2.25,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802475,52.5,4600498877,Moins de 53.5,53.5,1.5715,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802475,52.5,4600498878,Plus de 56.5,56.5,2.7,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802475,52.5,4600498879,Moins de 56.5,56.5,1.4167,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802475,52.5,4613992257,Plus de 35.5,35.5,1.125,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802475,52.5,4600498882,Plus de 54.5,54.5,2.5,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802475,52.5,4613992258,Moins de 35.5,35.5,5.5,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802475,52.5,4600498884,Plus de 64.5,64.5,5.25,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802475,52.5,4600498883,Moins de 54.5,54.5,1.5,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802475,52.5,4600498885,Moins de 64.5,64.5,1.1334,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802475,52.5,4600498888,Plus de 55.5,55.5,2.7,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802475,52.5,4600498889,Moins de 55.5,55.5,1.4167,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802475,52.5,4600498890,Moins de 39.5,39.5,3.7,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802475,52.5,4600498891,Plus de 39.5,39.5,1.25,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802475,52.5,4600498892,Moins de 59.5,59.5,1.25,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802475,52.5,4600498893,Plus de 59.5,59.5,3.7,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802475,52.5,4600498894,Plus de 37.5,37.5,1.1819,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802475,52.5,4600498895,Moins de 37.5,37.5,4.4,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802475,52.5,4600498896,Moins de 38.5,38.5,4.0,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802475,52.5,4600498897,Plus de 38.5,38.5,1.2223,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802475,52.5,4600498900,Plus de 57.5,57.5,3.1,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802475,52.5,4600498901,Moins de 57.5,57.5,1.3334,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802475,52.5,4600498902,Plus de 62.5,62.5,4.4,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802475,52.5,4600498903,Moins de 62.5,62.5,1.1819,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802475,52.5,4600498904,Moins de 58.5,58.5,1.2858,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802475,52.5,4600498905,Plus de 58.5,58.5,3.4,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802475,52.5,4600498906,Plus de 50.5,50.5,1.9091,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802475,52.5,4600498907,Moins de 50.5,50.5,1.7693,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802475,52.5,4600498908,Moins de 60.5,60.5,1.2353,0,False
+17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1762802475,52.5,4600498909,Plus de 60.5,60.5,3.75,0,False
 17956878,Vallée du Rio Grande de l'UT vs. Southeastern Louisiana Lions,2026-10-11T00:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1770996750,,4621867769,Vallée du Rio Grande de l'UT,,2.0,0,False
 17956878,Vallée du Rio Grande de l'UT vs. Southeastern Louisiana Lions,2026-10-11T00:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1770996750,,4621867770,Southeastern Louisiana Lions,,1.6897,0,False
 17956878,Vallée du Rio Grande de l'UT vs. Southeastern Louisiana Lions,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1772603613,+3.0,4626362117,Vallée du Rio Grande de l'UT (+3.0),+3.0,1.7408,0,True
 17956878,Vallée du Rio Grande de l'UT vs. Southeastern Louisiana Lions,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1772603613,+3.0,4626362118,Southeastern Louisiana Lions (-3.0),+3.0,1.9524,0,True
 17956878,Vallée du Rio Grande de l'UT vs. Southeastern Louisiana Lions,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1773410299,54.5,4628435600,Moins de 54.5,54.5,1.8696,0,True
 17956878,Vallée du Rio Grande de l'UT vs. Southeastern Louisiana Lions,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,1773410299,54.5,4628435599,Plus de 54.5,54.5,1.8,0,True
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1762778697,,4596157096,James Madison Dukes,,1.3077,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1762778697,,4596157095,Georgia Southern Eagles,,3.1,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,spread,Handicap (inclus prolongations),223,70799,1763262888,+8.5,4600500357,James Madison Dukes (+4.5),-4.5,1.1667,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,spread,Handicap (inclus prolongations),223,70799,1763262888,+8.5,4600500359,James Madison Dukes (+2.5),-2.5,1.2667,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,spread,Handicap (inclus prolongations),223,70799,1763262888,+8.5,4600500360,Georgia Southern Eagles (-2.5),-2.5,3.5,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,spread,Handicap (inclus prolongations),223,70799,1763262888,+8.5,4600500362,Georgia Southern Eagles (-8.5),-8.5,7.5,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,spread,Handicap (inclus prolongations),223,70799,1763262888,+8.5,4600500364,James Madison Dukes (+8.5),-8.5,1.0715,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,spread,Handicap (inclus prolongations),223,70799,1763262888,+8.5,4600500366,Georgia Southern Eagles (+17.5),+17.5,1.2223,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,spread,Handicap (inclus prolongations),223,70799,1763262888,+8.5,4600500369,James Madison Dukes (-17.5),+17.5,4.0,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,spread,Handicap (inclus prolongations),223,70799,1763262888,+8.5,4600500372,Georgia Southern Eagles (+18.5),+18.5,1.1819,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,spread,Handicap (inclus prolongations),223,70799,1763262888,+8.5,4600500374,James Madison Dukes (-18.5),+18.5,4.4,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,spread,Handicap (inclus prolongations),223,70799,1763262888,+8.5,4600500375,Georgia Southern Eagles (+12.5),+12.5,1.4348,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,spread,Handicap (inclus prolongations),223,70799,1763262888,+8.5,4600500376,James Madison Dukes (-12.5),+12.5,2.65,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,spread,Handicap (inclus prolongations),223,70799,1763262888,+8.5,4600500378,Georgia Southern Eagles (+13.5),+13.5,1.4,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,spread,Handicap (inclus prolongations),223,70799,1763262888,+8.5,4600500380,James Madison Dukes (-13.5),+13.5,2.75,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,spread,Handicap (inclus prolongations),223,70799,1763262888,+8.5,4600500382,Georgia Southern Eagles (+11.5),+11.5,1.5,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,spread,Handicap (inclus prolongations),223,70799,1763262888,+8.5,4600500384,James Madison Dukes (-11.5),+11.5,2.5,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,spread,Handicap (inclus prolongations),223,70799,1763262888,+8.5,4600500385,James Madison Dukes (-14.5),+14.5,3.0,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,spread,Handicap (inclus prolongations),223,70799,1763262888,+8.5,4600500386,Georgia Southern Eagles (+14.5),+14.5,1.3572,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,spread,Handicap (inclus prolongations),223,70799,1763262888,+8.5,4600500388,Georgia Southern Eagles (+23.5),+23.5,1.0715,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,spread,Handicap (inclus prolongations),223,70799,1763262888,+8.5,4600500391,James Madison Dukes (-23.5),+23.5,7.5,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,spread,Handicap (inclus prolongations),223,70799,1763262888,+8.5,4600500392,James Madison Dukes (-22.5),+22.5,7.0,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,spread,Handicap (inclus prolongations),223,70799,1763262888,+8.5,4600500394,Georgia Southern Eagles (+22.5),+22.5,1.0834,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,spread,Handicap (inclus prolongations),223,70799,1763262888,+8.5,4600500395,Georgia Southern Eagles (+21.5),+21.5,1.1,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,spread,Handicap (inclus prolongations),223,70799,1763262888,+8.5,4600500397,James Madison Dukes (-21.5),+21.5,6.5,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,spread,Handicap (inclus prolongations),223,70799,1763262888,+8.5,4600500276,James Madison Dukes (-19.5),+19.5,4.75,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,spread,Handicap (inclus prolongations),223,70799,1763262888,+8.5,4600500278,Georgia Southern Eagles (+19.5),+19.5,1.1539,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,spread,Handicap (inclus prolongations),223,70799,1763262888,+8.5,4600500280,Georgia Southern Eagles (-6.5),-6.5,5.25,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,spread,Handicap (inclus prolongations),223,70799,1763262888,+8.5,4600500283,James Madison Dukes (+6.5),-6.5,1.1334,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,spread,Handicap (inclus prolongations),223,70799,1763262888,+8.5,4600500285,James Madison Dukes (-15.5),+15.5,3.4,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,spread,Handicap (inclus prolongations),223,70799,1763262888,+8.5,4600500287,Georgia Southern Eagles (+15.5),+15.5,1.2858,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,spread,Handicap (inclus prolongations),223,70799,1763262888,+8.5,4600500289,Georgia Southern Eagles (+16.5),+16.5,1.2667,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,spread,Handicap (inclus prolongations),223,70799,1763262888,+8.5,4597923138,Georgia Southern Eagles (+7.5),+7.5,1.8,0,True
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,spread,Handicap (inclus prolongations),223,70799,1763262888,+8.5,4600500291,James Madison Dukes (-16.5),+16.5,3.5,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,spread,Handicap (inclus prolongations),223,70799,1763262888,+8.5,4597923139,James Madison Dukes (-7.5),+7.5,1.8696,0,True
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,spread,Handicap (inclus prolongations),223,70799,1763262888,+8.5,4600500293,James Madison Dukes (+1.5),-1.5,1.2858,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,spread,Handicap (inclus prolongations),223,70799,1763262888,+8.5,4600500295,Georgia Southern Eagles (-1.5),-1.5,3.4,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,spread,Handicap (inclus prolongations),223,70799,1763262888,+8.5,4600500297,James Madison Dukes (-2.5),+2.5,1.4,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,spread,Handicap (inclus prolongations),223,70799,1763262888,+8.5,4600500301,Georgia Southern Eagles (+2.5),+2.5,2.75,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,spread,Handicap (inclus prolongations),223,70799,1763262888,+8.5,4597289550,Georgia Southern Eagles (+8.5),+8.5,1.6897,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,spread,Handicap (inclus prolongations),223,70799,1763262888,+8.5,4597289549,James Madison Dukes (-8.5),+8.5,2.05,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,spread,Handicap (inclus prolongations),223,70799,1763262888,+8.5,4596158544,Georgia Southern Eagles (+9.5),+9.5,1.6451,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,spread,Handicap (inclus prolongations),223,70799,1763262888,+8.5,4596158545,James Madison Dukes (-9.5),+9.5,2.15,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,spread,Handicap (inclus prolongations),223,70799,1763262888,+8.5,4600500306,Georgia Southern Eagles (+3.5),+3.5,2.4,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,spread,Handicap (inclus prolongations),223,70799,1763262888,+8.5,4600500304,James Madison Dukes (-3.5),+3.5,1.5264,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,spread,Handicap (inclus prolongations),223,70799,1763262888,+8.5,4600500312,Georgia Southern Eagles (+6.5),+6.5,1.9524,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,spread,Handicap (inclus prolongations),223,70799,1763262888,+8.5,4600500315,James Madison Dukes (-6.5),+6.5,1.7408,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,spread,Handicap (inclus prolongations),223,70799,1763262888,+8.5,4600500317,Georgia Southern Eagles (+1.5),+1.5,3.1,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,spread,Handicap (inclus prolongations),223,70799,1763262888,+8.5,4600500319,James Madison Dukes (-1.5),+1.5,1.3334,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,spread,Handicap (inclus prolongations),223,70799,1763262888,+8.5,4600500322,James Madison Dukes (-4.5),+4.5,1.5715,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,spread,Handicap (inclus prolongations),223,70799,1763262888,+8.5,4600500325,Georgia Southern Eagles (+4.5),+4.5,2.25,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,spread,Handicap (inclus prolongations),223,70799,1763262888,+8.5,4600500327,Georgia Southern Eagles (+5.5),+5.5,2.15,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,spread,Handicap (inclus prolongations),223,70799,1763262888,+8.5,4600500328,James Madison Dukes (-5.5),+5.5,1.6451,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,spread,Handicap (inclus prolongations),223,70799,1763262888,+8.5,4600500329,Georgia Southern Eagles (+20.5),+20.5,1.1429,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,spread,Handicap (inclus prolongations),223,70799,1763262888,+8.5,4600500331,James Madison Dukes (-20.5),+20.5,5.0,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,spread,Handicap (inclus prolongations),223,70799,1763262888,+8.5,4600500333,Georgia Southern Eagles (+10.5),+10.5,1.5455,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,spread,Handicap (inclus prolongations),223,70799,1763262888,+8.5,4600500335,James Madison Dukes (-10.5),+10.5,2.35,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,spread,Handicap (inclus prolongations),223,70799,1763262888,+8.5,4600500338,James Madison Dukes (+3.5),-3.5,1.2,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,spread,Handicap (inclus prolongations),223,70799,1763262888,+8.5,4600500339,Georgia Southern Eagles (-3.5),-3.5,4.2,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,spread,Handicap (inclus prolongations),223,70799,1763262888,+8.5,4600500341,Georgia Southern Eagles (-5.5),-5.5,5.0,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,spread,Handicap (inclus prolongations),223,70799,1763262888,+8.5,4600500343,James Madison Dukes (+5.5),-5.5,1.1429,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,spread,Handicap (inclus prolongations),223,70799,1763262888,+8.5,4600500348,James Madison Dukes (+7.5),-7.5,1.1,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,spread,Handicap (inclus prolongations),223,70799,1763262888,+8.5,4600500349,Georgia Southern Eagles (-7.5),-7.5,6.5,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,spread,Handicap (inclus prolongations),223,70799,1763262888,+8.5,4600500351,Georgia Southern Eagles (-4.5),-4.5,4.5,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,total,Total (prolongations incluses),225,70803,1762778695,54.5,4600500225,Plus de 55.5,55.5,2.35,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,total,Total (prolongations incluses),225,70803,1762778695,54.5,4600500227,Moins de 55.5,55.5,1.5455,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,total,Total (prolongations incluses),225,70803,1762778695,54.5,4600500229,Moins de 57.5,57.5,1.4762,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,total,Total (prolongations incluses),225,70803,1762778695,54.5,4600500230,Plus de 57.5,57.5,2.55,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,total,Total (prolongations incluses),225,70803,1762778695,54.5,4600500232,Moins de 51.5,51.5,1.8334,0,True
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,total,Total (prolongations incluses),225,70803,1762778695,54.5,4600500233,Plus de 51.5,51.5,1.8334,0,True
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,total,Total (prolongations incluses),225,70803,1762778695,54.5,4600500235,Plus de 56.5,56.5,2.4,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,total,Total (prolongations incluses),225,70803,1762778695,54.5,4600500236,Moins de 56.5,56.5,1.5264,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,total,Total (prolongations incluses),225,70803,1762778695,54.5,4600500245,Plus de 66.5,66.5,5.0,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,total,Total (prolongations incluses),225,70803,1762778695,54.5,4600500246,Moins de 66.5,66.5,1.1429,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,total,Total (prolongations incluses),225,70803,1762778695,54.5,4600500248,Plus de 65.5,65.5,4.4,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,total,Total (prolongations incluses),225,70803,1762778695,54.5,4600500250,Moins de 65.5,65.5,1.1819,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,total,Total (prolongations incluses),225,70803,1762778695,54.5,4600500252,Plus de 61.5,61.5,3.25,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,total,Total (prolongations incluses),225,70803,1762778695,54.5,4600500253,Moins de 61.5,61.5,1.3031,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,total,Total (prolongations incluses),225,70803,1762778695,54.5,4600500254,Plus de 63.5,63.5,3.75,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,total,Total (prolongations incluses),225,70803,1762778695,54.5,4600500257,Moins de 63.5,63.5,1.2353,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,total,Total (prolongations incluses),225,70803,1762778695,54.5,4596157091,Plus de 54.5,54.5,2.15,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,total,Total (prolongations incluses),225,70803,1762778695,54.5,4596157092,Moins de 54.5,54.5,1.6451,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,total,Total (prolongations incluses),225,70803,1762778695,54.5,4610989736,Plus de 36.5,36.5,1.125,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,total,Total (prolongations incluses),225,70803,1762778695,54.5,4610989737,Moins de 36.5,36.5,5.5,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,total,Total (prolongations incluses),225,70803,1762778695,54.5,4600500143,Plus de 60.5,60.5,3.1,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,total,Total (prolongations incluses),225,70803,1762778695,54.5,4600500145,Moins de 60.5,60.5,1.3334,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,total,Total (prolongations incluses),225,70803,1762778695,54.5,4600500147,Moins de 40.5,40.5,3.75,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,total,Total (prolongations incluses),225,70803,1762778695,54.5,4600500148,Plus de 40.5,40.5,1.2353,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,total,Total (prolongations incluses),225,70803,1762778695,54.5,4600500150,Moins de 50.5,50.5,2.0,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,total,Total (prolongations incluses),225,70803,1762778695,54.5,4600500152,Plus de 50.5,50.5,1.7143,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,total,Total (prolongations incluses),225,70803,1762778695,54.5,4600500155,Plus de 48.5,48.5,1.625,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,total,Total (prolongations incluses),225,70803,1762778695,54.5,4600500156,Moins de 48.5,48.5,2.2,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,total,Total (prolongations incluses),225,70803,1762778695,54.5,4600500158,Plus de 49.5,49.5,1.6667,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,total,Total (prolongations incluses),225,70803,1762778695,54.5,4600500160,Moins de 49.5,49.5,2.1,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,total,Total (prolongations incluses),225,70803,1762778695,54.5,4600500164,Plus de 42.5,42.5,1.3031,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,total,Total (prolongations incluses),225,70803,1762778695,54.5,4600500166,Moins de 42.5,42.5,3.25,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,total,Total (prolongations incluses),225,70803,1762778695,54.5,4600500168,Moins de 43.5,43.5,3.1,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,total,Total (prolongations incluses),225,70803,1762778695,54.5,4600500169,Plus de 43.5,43.5,1.3334,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,total,Total (prolongations incluses),225,70803,1762778695,54.5,4600500171,Plus de 46.5,46.5,1.4762,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,total,Total (prolongations incluses),225,70803,1762778695,54.5,4600500172,Moins de 46.5,46.5,2.55,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,total,Total (prolongations incluses),225,70803,1762778695,54.5,4597289551,Moins de 53.5,53.5,1.6897,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,total,Total (prolongations incluses),225,70803,1762778695,54.5,4597289552,Plus de 53.5,53.5,2.05,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,total,Total (prolongations incluses),225,70803,1762778695,54.5,4600500179,Moins de 41.5,41.5,3.4,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,total,Total (prolongations incluses),225,70803,1762778695,54.5,4600500181,Plus de 41.5,41.5,1.2858,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,total,Total (prolongations incluses),225,70803,1762778695,54.5,4610970966,Plus de 37.5,37.5,1.1539,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,total,Total (prolongations incluses),225,70803,1762778695,54.5,4600500183,Plus de 44.5,44.5,1.4348,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,total,Total (prolongations incluses),225,70803,1762778695,54.5,4610970965,Moins de 37.5,37.5,4.75,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,total,Total (prolongations incluses),225,70803,1762778695,54.5,4600500184,Moins de 44.5,44.5,2.65,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,total,Total (prolongations incluses),225,70803,1762778695,54.5,4600500186,Moins de 47.5,47.5,2.25,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,total,Total (prolongations incluses),225,70803,1762778695,54.5,4600500189,Plus de 47.5,47.5,1.5715,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,total,Total (prolongations incluses),225,70803,1762778695,54.5,4600500191,Plus de 45.5,45.5,1.4348,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,total,Total (prolongations incluses),225,70803,1762778695,54.5,4600500193,Moins de 45.5,45.5,2.65,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,total,Total (prolongations incluses),225,70803,1762778695,54.5,4600500195,Plus de 62.5,62.5,3.5,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,total,Total (prolongations incluses),225,70803,1762778695,54.5,4600500196,Moins de 62.5,62.5,1.2667,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,total,Total (prolongations incluses),225,70803,1762778695,54.5,4600500198,Plus de 52.5,52.5,1.9091,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,total,Total (prolongations incluses),225,70803,1762778695,54.5,4600500200,Moins de 52.5,52.5,1.7693,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,total,Total (prolongations incluses),225,70803,1762778695,54.5,4600500201,Plus de 39.5,39.5,1.2,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,total,Total (prolongations incluses),225,70803,1762778695,54.5,4600500202,Moins de 39.5,39.5,4.2,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,total,Total (prolongations incluses),225,70803,1762778695,54.5,4600500203,Moins de 59.5,59.5,1.3637,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,total,Total (prolongations incluses),225,70803,1762778695,54.5,4600500205,Plus de 59.5,59.5,2.9,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,total,Total (prolongations incluses),225,70803,1762778695,54.5,4600500207,Moins de 58.5,58.5,1.4167,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,total,Total (prolongations incluses),225,70803,1762778695,54.5,4600500212,Plus de 58.5,58.5,2.7,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,total,Total (prolongations incluses),225,70803,1762778695,54.5,4600500217,Plus de 38.5,38.5,1.1819,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,total,Total (prolongations incluses),225,70803,1762778695,54.5,4600500219,Moins de 38.5,38.5,4.4,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,total,Total (prolongations incluses),225,70803,1762778695,54.5,4600500220,Plus de 64.5,64.5,4.0,0,False
+17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,total,Total (prolongations incluses),225,70803,1762778695,54.5,4600500222,Moins de 64.5,64.5,1.2223,0,False
 17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1762935153,,4596520381,Arizona State Sun Devils,,1.04,0,False
 17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1762935153,,4596520382,Hawaii Rainbow Warriors,,7.75,0,False
 17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1762935152,-20.5,4600500505,Hawaii Rainbow Warriors (+33.5),-33.5,1.1667,0,False

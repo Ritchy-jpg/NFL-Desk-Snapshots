@@ -1,13 +1,17 @@
 captured_at,event_id,match,start_date,market,selection,side,signal,old_line,new_line,old_price,new_price,old_status,new_status,old_is_main_bet,new_is_main_bet
-2026-10-10T17:12:43.160282+00:00,17955926,Fordham Rams vs. Richmond Spiders,2026-10-10T19:30:00Z,spread,Fordham Rams (+8.5),Fordham Rams,MAIN_PRICE_MOVE,8.5,8.5,1.9091,1.9524,0,0.0,1,1.0
-2026-10-10T17:12:43.160282+00:00,17955926,Fordham Rams vs. Richmond Spiders,2026-10-10T19:30:00Z,spread,Richmond Spiders (-8.5),Richmond Spiders,MAIN_PRICE_MOVE,-8.5,-8.5,1.7693,1.7408,0,0.0,1,1.0
-2026-10-10T17:12:43.160282+00:00,17933644,Temple Owls vs. Connecticut Huskies,2026-10-10T19:45:00Z,total,Plus de 54.5,over,MAIN_SWITCH,54.5,54.5,1.7408,1.7408,0,0.0,1,0.0
-2026-10-10T17:12:43.160282+00:00,17933644,Temple Owls vs. Connecticut Huskies,2026-10-10T19:45:00Z,total,Moins de 54.5,under,MAIN_SWITCH,54.5,54.5,1.9524,1.9524,0,0.0,1,0.0
-2026-10-10T17:12:43.160282+00:00,17956051,Portland State Vikings vs. Utah Tech Trailblaizers,2026-10-10T20:00:00Z,spread,Portland State Vikings (-4.5),Portland State Vikings,MAIN_PRICE_MOVE,-4.5,-4.5,1.8334,2.0,0,0.0,1,1.0
-2026-10-10T17:12:43.160282+00:00,17956051,Portland State Vikings vs. Utah Tech Trailblaizers,2026-10-10T20:00:00Z,spread,Utah Tech Trailblaizers (+4.5),Utah Tech Trailblaizers,MAIN_PRICE_MOVE,4.5,4.5,1.8334,1.7143,0,0.0,1,1.0
-2026-10-10T17:12:43.160282+00:00,17955934,Gardner Webb Runnin Bulldogs vs. Eastern Illinois Panthers,2026-10-10T19:30:00Z,spread,Gardner Webb Runnin Bulldogs (-13.5),Gardner Webb Runnin Bulldogs,REMOVED_MAIN,-13.5,,1.9524,,0,,1,
-2026-10-10T17:12:43.160282+00:00,17955934,Gardner Webb Runnin Bulldogs vs. Eastern Illinois Panthers,2026-10-10T19:30:00Z,spread,Eastern Illinois Panthers (+13.5),Eastern Illinois Panthers,REMOVED_MAIN,13.5,,1.7408,,0,,1,
-2026-10-10T17:12:43.160282+00:00,17955936,Mercer Bears vs. Western Carolina Catamounts,2026-10-10T19:00:00Z,spread,Mercer Bears (-7.0),Mercer Bears,REMOVED_MAIN,-7.0,,1.8,,0,,1,
-2026-10-10T17:12:43.160282+00:00,17955936,Mercer Bears vs. Western Carolina Catamounts,2026-10-10T19:00:00Z,spread,Western Carolina Catamounts (+7.0),Western Carolina Catamounts,REMOVED_MAIN,7.0,,1.8696,,0,,1,
-2026-10-10T17:12:43.160282+00:00,17955945,Lamar Cardinals vs. Incarnate Word Cardinals,2026-10-10T20:00:00Z,spread,Lamar Cardinals (-6.5),Lamar Cardinals,REMOVED_MAIN,-6.5,,1.6897,,0,,1,
-2026-10-10T17:12:43.160282+00:00,17955945,Lamar Cardinals vs. Incarnate Word Cardinals,2026-10-10T20:00:00Z,spread,Incarnate Word Cardinals (+6.5),Incarnate Word Cardinals,REMOVED_MAIN,6.5,,2.05,,0,,1,
+2026-10-10T17:26:01.648942+00:00,17724256,Kansas State Wildcats vs. Houston Cougars,2026-10-10T19:30:00Z,total,Plus de 54.5,over,MAIN_PRICE_MOVE,54.5,54.5,1.8,1.8334,0,0.0,1,1.0
+2026-10-10T17:26:01.648942+00:00,17724256,Kansas State Wildcats vs. Houston Cougars,2026-10-10T19:30:00Z,total,Moins de 54.5,under,MAIN_PRICE_MOVE,54.5,54.5,1.8696,1.8334,0,0.0,1,1.0
+2026-10-10T17:26:01.648942+00:00,17932345,Toledo Rockets vs. Buffalo Bulls,2026-10-10T19:30:00Z,total,Plus de 55.5,over,MAIN_PRICE_MOVE,55.5,55.5,1.8696,1.8334,0,0.0,1,1.0
+2026-10-10T17:26:01.648942+00:00,17932345,Toledo Rockets vs. Buffalo Bulls,2026-10-10T19:30:00Z,total,Moins de 55.5,under,MAIN_PRICE_MOVE,55.5,55.5,1.8,1.8334,0,0.0,1,1.0
+2026-10-10T17:26:01.648942+00:00,17933644,Temple Owls vs. Connecticut Huskies,2026-10-10T19:45:00Z,total,Moins de 56.5,under,MAIN_PRICE_MOVE,56.5,56.5,1.7693,1.7408,0,0.0,1,1.0
+2026-10-10T17:26:01.648942+00:00,17933644,Temple Owls vs. Connecticut Huskies,2026-10-10T19:45:00Z,total,Plus de 56.5,over,MAIN_PRICE_MOVE,56.5,56.5,1.9091,1.9524,0,0.0,1,1.0
+2026-10-10T17:26:01.648942+00:00,17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Ohio State Buckeyes (-31.5),Ohio State Buckeyes,MAIN_PRICE_MOVE,-31.5,-31.5,1.7693,1.8334,0,0.0,1,1.0
+2026-10-10T17:26:01.648942+00:00,17724255,Ohio State Buckeyes vs. Maryland Terrapins,2026-10-10T20:15:00Z,spread,Maryland Terrapins (+31.5),Maryland Terrapins,MAIN_PRICE_MOVE,31.5,31.5,1.9091,1.8334,0,0.0,1,1.0
+2026-10-10T17:26:01.648942+00:00,17803700,LSU Tigers vs. Mississippi St Bulldogs,2026-10-17T16:00:00Z,total,Plus de 60.5,over,MAIN_PRICE_MOVE,60.5,60.5,1.8334,1.8696,0,0.0,1,1.0
+2026-10-10T17:26:01.648942+00:00,17803700,LSU Tigers vs. Mississippi St Bulldogs,2026-10-17T16:00:00Z,total,Moins de 60.5,under,MAIN_PRICE_MOVE,60.5,60.5,1.8334,1.8,0,0.0,1,1.0
+2026-10-10T17:26:01.648942+00:00,17955930,Towson Tigers vs. Stony Brook Seawolves,2026-10-10T20:00:00Z,spread,Towson Tigers (+4.5),Towson Tigers,REMOVED_MAIN,4.5,,1.8334,,0,,1,
+2026-10-10T17:26:01.648942+00:00,17955930,Towson Tigers vs. Stony Brook Seawolves,2026-10-10T20:00:00Z,spread,Stony Brook Seawolves (-4.5),Stony Brook Seawolves,REMOVED_MAIN,-4.5,,1.8334,,0,,1,
+2026-10-10T17:26:01.648942+00:00,17956051,Portland State Vikings vs. Utah Tech Trailblaizers,2026-10-10T20:00:00Z,total,Moins de 61.5,under,REMOVED_MAIN,61.5,,1.8,,0,,1,
+2026-10-10T17:26:01.648942+00:00,17956051,Portland State Vikings vs. Utah Tech Trailblaizers,2026-10-10T20:00:00Z,total,Plus de 61.5,over,REMOVED_MAIN,61.5,,1.8696,,0,,1,
+2026-10-10T17:26:01.648942+00:00,17956051,Portland State Vikings vs. Utah Tech Trailblaizers,2026-10-10T20:00:00Z,spread,Portland State Vikings (-4.5),Portland State Vikings,REMOVED_MAIN,-4.5,,2.0,,0,,1,
+2026-10-10T17:26:01.648942+00:00,17956051,Portland State Vikings vs. Utah Tech Trailblaizers,2026-10-10T20:00:00Z,spread,Utah Tech Trailblaizers (+4.5),Utah Tech Trailblaizers,REMOVED_MAIN,4.5,,1.7143,,0,,1,

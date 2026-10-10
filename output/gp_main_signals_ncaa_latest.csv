@@ -1,11 +1,15 @@
 captured_at,event_id,match,start_date,market,selection,side,signal,old_line,new_line,old_price,new_price,old_status,new_status,old_is_main_bet,new_is_main_bet
-2026-10-10T18:46:15.159938+00:00,17724256,Kansas State Wildcats vs. Houston Cougars,2026-10-10T19:30:00Z,total,Plus de 54.5,over,MAIN_PRICE_MOVE,54.5,54.5,1.8,1.7693,0,0.0,1,1.0
-2026-10-10T18:46:15.159938+00:00,17724256,Kansas State Wildcats vs. Houston Cougars,2026-10-10T19:30:00Z,total,Moins de 54.5,under,MAIN_PRICE_MOVE,54.5,54.5,1.8696,1.9091,0,0.0,1,1.0
-2026-10-10T18:46:15.159938+00:00,17933342,North Texas vs. Charlotte 49ers,2026-10-10T19:30:00Z,total,Plus de 57.5,over,MAIN_PRICE_MOVE,57.5,57.5,1.8,1.8334,0,0.0,1,1.0
-2026-10-10T18:46:15.159938+00:00,17933342,North Texas vs. Charlotte 49ers,2026-10-10T19:30:00Z,total,Moins de 57.5,under,MAIN_PRICE_MOVE,57.5,57.5,1.8696,1.8334,0,0.0,1,1.0
-2026-10-10T18:46:15.159938+00:00,17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,spread,Central Mich Chippewas (+2.5),Central Mich Chippewas,MAIN_PRICE_MOVE,2.5,2.5,1.9091,1.8334,0,0.0,1,1.0
-2026-10-10T18:46:15.159938+00:00,17932387,Ohio Bobcats vs. Central Mich Chippewas,2026-10-10T19:30:00Z,spread,Ohio Bobcats (-2.5),Ohio Bobcats,MAIN_PRICE_MOVE,-2.5,-2.5,1.7693,1.8334,0,0.0,1,1.0
-2026-10-10T18:46:15.159938+00:00,17724250,Oregon Ducks vs. UCLA Bruins,2026-10-10T19:30:00Z,total,Moins de 57.5,under,MAIN_PRICE_MOVE,57.5,57.5,1.8334,1.8696,0,0.0,1,1.0
-2026-10-10T18:46:15.159938+00:00,17724250,Oregon Ducks vs. UCLA Bruins,2026-10-10T19:30:00Z,total,Plus de 57.5,over,MAIN_PRICE_MOVE,57.5,57.5,1.8334,1.8,0,0.0,1,1.0
-2026-10-10T18:46:15.159938+00:00,17956212,Grambling State Tigers vs. Jackson State Tigers,2026-10-10T21:00:00Z,total,Moins de 55.5,under,MAIN_PRICE_MOVE,55.5,55.5,2.1,2.2,0,0.0,1,1.0
-2026-10-10T18:46:15.159938+00:00,17956212,Grambling State Tigers vs. Jackson State Tigers,2026-10-10T21:00:00Z,total,Plus de 55.5,over,MAIN_PRICE_MOVE,55.5,55.5,1.6667,1.625,0,0.0,1,1.0
+2026-10-10T19:00:12.976436+00:00,17724256,Kansas State Wildcats vs. Houston Cougars,2026-10-10T19:30:00Z,total,Plus de 54.5,over,MAIN_SWITCH,54.5,54.5,1.7693,1.7693,0,0.0,1,0.0
+2026-10-10T19:00:12.976436+00:00,17724256,Kansas State Wildcats vs. Houston Cougars,2026-10-10T19:30:00Z,total,Moins de 54.5,under,MAIN_SWITCH,54.5,54.5,1.9091,1.9091,0,0.0,1,0.0
+2026-10-10T19:00:12.976436+00:00,17933648,MICHIGAN vs. Kent St Golden Flashes,2026-10-10T19:30:00Z,spread,Kent St Golden Flashes (+13.5),Kent St Golden Flashes,MAIN_PRICE_MOVE,13.5,13.5,1.8696,1.9091,0,0.0,1,1.0
+2026-10-10T19:00:12.976436+00:00,17933648,MICHIGAN vs. Kent St Golden Flashes,2026-10-10T19:30:00Z,spread,MICHIGAN (-13.5),MICHIGAN,MAIN_PRICE_MOVE,-13.5,-13.5,1.8,1.7693,0,0.0,1,1.0
+2026-10-10T19:00:12.976436+00:00,17724250,Oregon Ducks vs. UCLA Bruins,2026-10-10T19:30:00Z,spread,Oregon Ducks (-10.5),Oregon Ducks,MAIN_PRICE_MOVE,-10.5,-10.5,1.8334,1.8696,0,0.0,1,1.0
+2026-10-10T19:00:12.976436+00:00,17724250,Oregon Ducks vs. UCLA Bruins,2026-10-10T19:30:00Z,spread,UCLA Bruins (+10.5),UCLA Bruins,MAIN_PRICE_MOVE,10.5,10.5,1.8334,1.8,0,0.0,1,1.0
+2026-10-10T19:00:12.976436+00:00,17932345,Toledo Rockets vs. Buffalo Bulls,2026-10-10T19:30:00Z,total,Plus de 54.5,over,MAIN_PRICE_MOVE,54.5,54.5,1.8334,1.7693,0,0.0,1,1.0
+2026-10-10T19:00:12.976436+00:00,17932345,Toledo Rockets vs. Buffalo Bulls,2026-10-10T19:30:00Z,total,Moins de 54.5,under,MAIN_PRICE_MOVE,54.5,54.5,1.8334,1.9091,0,0.0,1,1.0
+2026-10-10T19:00:12.976436+00:00,17956051,Portland State Vikings vs. Utah Tech Trailblaizers,2026-10-10T20:00:00Z,spread,Portland State Vikings (-3.0),Portland State Vikings,MAIN_PRICE_MOVE,-3.0,-3.0,1.8696,1.9091,0,0.0,1,1.0
+2026-10-10T19:00:12.976436+00:00,17956051,Portland State Vikings vs. Utah Tech Trailblaizers,2026-10-10T20:00:00Z,spread,Utah Tech Trailblaizers (+3.0),Utah Tech Trailblaizers,MAIN_PRICE_MOVE,3.0,3.0,1.8,1.7693,0,0.0,1,1.0
+2026-10-10T19:00:12.976436+00:00,17226435,Penn St Nittany Lions vs. USC Trojans,2026-10-10T23:30:00Z,total,Plus de 54.5,over,MAIN_PRICE_MOVE,54.5,54.5,1.8334,1.8,0,0.0,1,1.0
+2026-10-10T19:00:12.976436+00:00,17226435,Penn St Nittany Lions vs. USC Trojans,2026-10-10T23:30:00Z,total,Moins de 54.5,under,MAIN_PRICE_MOVE,54.5,54.5,1.8334,1.8696,0,0.0,1,1.0
+2026-10-10T19:00:12.976436+00:00,17956051,Portland State Vikings vs. Utah Tech Trailblaizers,2026-10-10T20:00:00Z,total,Moins de 59.5,under,REMOVED_MAIN,59.5,,1.8696,,0,,1,
+2026-10-10T19:00:12.976436+00:00,17956051,Portland State Vikings vs. Utah Tech Trailblaizers,2026-10-10T20:00:00Z,total,Plus de 59.5,over,REMOVED_MAIN,59.5,,1.8,,0,,1,

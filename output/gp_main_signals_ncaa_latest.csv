@@ -1,5 +1,19 @@
 captured_at,event_id,match,start_date,market,selection,side,signal,old_line,new_line,old_price,new_price,old_status,new_status,old_is_main_bet,new_is_main_bet
-2026-10-10T20:38:38.834583+00:00,17985683,Northern Arizona Lumberjacks vs. Montana Grizzlies,2026-10-10T21:00:00Z,spread,Northern Arizona Lumberjacks (+9.5),Northern Arizona Lumberjacks,MAIN_PRICE_MOVE,9.5,9.5,1.6897,1.7408,0,0.0,1,1.0
-2026-10-10T20:38:38.834583+00:00,17985683,Northern Arizona Lumberjacks vs. Montana Grizzlies,2026-10-10T21:00:00Z,spread,Montana Grizzlies (-9.5),Montana Grizzlies,MAIN_PRICE_MOVE,-9.5,-9.5,2.05,1.9524,0,0.0,1,1.0
-2026-10-10T20:38:38.834583+00:00,17932498,Memphis Tigers vs. UAB Blazers,2026-10-10T23:00:00Z,total,Moins de 54.5,under,MAIN_SWITCH,54.5,54.5,1.8,1.8,0,0.0,0,1.0
-2026-10-10T20:38:38.834583+00:00,17932498,Memphis Tigers vs. UAB Blazers,2026-10-10T23:00:00Z,total,Plus de 54.5,over,MAIN_SWITCH,54.5,54.5,1.8696,1.8696,0,0.0,0,1.0
+2026-10-10T20:50:42.358345+00:00,17956214,Eastern Kentucky Colonels vs. West Georgia Wolves,2026-10-10T22:00:00Z,spread,West Georgia Wolves (+5.5),West Georgia Wolves,MAIN_PRICE_MOVE,5.5,5.5,2.0,1.9524,0,0.0,1,1.0
+2026-10-10T20:50:42.358345+00:00,17956214,Eastern Kentucky Colonels vs. West Georgia Wolves,2026-10-10T22:00:00Z,spread,Eastern Kentucky Colonels (-5.5),Eastern Kentucky Colonels,MAIN_PRICE_MOVE,-5.5,-5.5,1.7143,1.7408,0,0.0,1,1.0
+2026-10-10T20:50:42.358345+00:00,17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Moins de 52.5,under,MAIN_PRICE_MOVE,52.5,52.5,1.8696,1.8334,0,0.0,1,1.0
+2026-10-10T20:50:42.358345+00:00,17724270,Oregon State Beavers vs. San Diego State Aztecs,2026-10-10T22:00:00Z,total,Plus de 52.5,over,MAIN_PRICE_MOVE,52.5,52.5,1.8,1.8334,0,0.0,1,1.0
+2026-10-10T20:50:42.358345+00:00,17932498,Memphis Tigers vs. UAB Blazers,2026-10-10T23:00:00Z,total,Moins de 54.5,under,MAIN_PRICE_MOVE,54.5,54.5,1.8,1.8696,0,0.0,1,1.0
+2026-10-10T20:50:42.358345+00:00,17932498,Memphis Tigers vs. UAB Blazers,2026-10-10T23:00:00Z,total,Plus de 54.5,over,MAIN_PRICE_MOVE,54.5,54.5,1.8696,1.8,0,0.0,1,1.0
+2026-10-10T20:50:42.358345+00:00,17226435,Penn St Nittany Lions vs. USC Trojans,2026-10-10T23:30:00Z,total,Plus de 54.5,over,MAIN_PRICE_MOVE,54.5,54.5,1.8,1.7693,0,0.0,1,1.0
+2026-10-10T20:50:42.358345+00:00,17226435,Penn St Nittany Lions vs. USC Trojans,2026-10-10T23:30:00Z,total,Moins de 54.5,under,MAIN_PRICE_MOVE,54.5,54.5,1.8696,1.9091,0,0.0,1,1.0
+2026-10-10T20:50:42.358345+00:00,17724254,Virginia Cavaliers vs. Syracuse Orange,2026-10-10T23:30:00Z,spread,Virginia Cavaliers (-14.5),Virginia Cavaliers,MAIN_PRICE_MOVE,-14.5,-14.5,1.8696,1.9091,0,0.0,1,1.0
+2026-10-10T20:50:42.358345+00:00,17724254,Virginia Cavaliers vs. Syracuse Orange,2026-10-10T23:30:00Z,spread,Syracuse Orange (+14.5),Syracuse Orange,MAIN_PRICE_MOVE,14.5,14.5,1.8,1.7693,0,0.0,1,1.0
+2026-10-10T20:50:42.358345+00:00,17956878,Vallée du Rio Grande de l'UT vs. Southeastern Louisiana Lions,2026-10-11T00:00:00Z,spread,Vallée du Rio Grande de l'UT (+3.0),Vallée du Rio Grande de l'UT,MAIN_PRICE_MOVE,3.0,3.0,1.8,1.7408,0,0.0,1,1.0
+2026-10-10T20:50:42.358345+00:00,17956878,Vallée du Rio Grande de l'UT vs. Southeastern Louisiana Lions,2026-10-11T00:00:00Z,spread,Southeastern Louisiana Lions (-3.0),Southeastern Louisiana Lions,MAIN_PRICE_MOVE,-3.0,-3.0,1.8696,1.9524,0,0.0,1,1.0
+2026-10-10T20:50:42.358345+00:00,17956214,Eastern Kentucky Colonels vs. West Georgia Wolves,2026-10-10T22:00:00Z,total,Moins de 45.5,under,REMOVED_MAIN,45.5,,1.5715,,0,,1,
+2026-10-10T20:50:42.358345+00:00,17956214,Eastern Kentucky Colonels vs. West Georgia Wolves,2026-10-10T22:00:00Z,total,Plus de 45.5,over,REMOVED_MAIN,45.5,,2.25,,0,,1,
+2026-10-10T20:50:42.358345+00:00,17956222,Northern Iowa Panthers vs. North Dakota Fighting Hawks,2026-10-10T21:00:00Z,spread,North Dakota Fighting Hawks (-14.0),North Dakota Fighting Hawks,REMOVED_MAIN,-14.0,,1.8334,,0,,1,
+2026-10-10T20:50:42.358345+00:00,17956222,Northern Iowa Panthers vs. North Dakota Fighting Hawks,2026-10-10T21:00:00Z,spread,Northern Iowa Panthers (+14.0),Northern Iowa Panthers,REMOVED_MAIN,14.0,,1.8334,,0,,1,
+2026-10-10T20:50:42.358345+00:00,17956878,Vallée du Rio Grande de l'UT vs. Southeastern Louisiana Lions,2026-10-11T00:00:00Z,total,Plus de 56.5,over,REMOVED_MAIN,56.5,,1.8334,,0,,1,
+2026-10-10T20:50:42.358345+00:00,17956878,Vallée du Rio Grande de l'UT vs. Southeastern Louisiana Lions,2026-10-11T00:00:00Z,total,Moins de 56.5,under,REMOVED_MAIN,56.5,,1.8334,,0,,1,

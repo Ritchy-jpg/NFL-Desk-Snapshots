@@ -1,1 +1,9 @@
 captured_at,event_id,match,start_date,market,selection,side,signal,old_line,new_line,old_price,new_price,old_status,new_status,old_is_main_bet,new_is_main_bet
+2026-10-11T01:30:40.905685+00:00,17803694,Texas Longhorns vs. Florida Gators,2026-10-17T16:00:00Z,moneyline,Texas Longhorns,Texas Longhorns,STATUS_CHANGE,,,1.2667,1.2667,0,7.0,0,0.0
+2026-10-11T01:30:40.905685+00:00,17803694,Texas Longhorns vs. Florida Gators,2026-10-17T16:00:00Z,moneyline,Florida Gators,Florida Gators,STATUS_CHANGE,,,3.3,3.3,0,7.0,0,0.0
+2026-10-11T01:30:40.905685+00:00,17803694,Texas Longhorns vs. Florida Gators,2026-10-17T16:00:00Z,spread,Texas Longhorns (-8.5),Texas Longhorns,STATUS_CHANGE,-8.5,-8.5,1.8334,1.8334,0,7.0,1,1.0
+2026-10-11T01:30:40.905685+00:00,17803694,Texas Longhorns vs. Florida Gators,2026-10-17T16:00:00Z,spread,Florida Gators (+8.5),Florida Gators,STATUS_CHANGE,8.5,8.5,1.8334,1.8334,0,7.0,1,1.0
+2026-10-11T01:30:40.905685+00:00,17803694,Texas Longhorns vs. Florida Gators,2026-10-17T16:00:00Z,total,Plus de 52.5,over,STATUS_CHANGE,52.5,52.5,1.8,1.8,0,7.0,1,1.0
+2026-10-11T01:30:40.905685+00:00,17803694,Texas Longhorns vs. Florida Gators,2026-10-17T16:00:00Z,total,Moins de 52.5,under,STATUS_CHANGE,52.5,52.5,1.8696,1.8696,0,7.0,1,1.0
+2026-10-11T01:30:40.905685+00:00,16634498,Indiana Hoosiers vs. Ohio State Buckeyes,2026-10-17T16:00:00Z,spread,Indiana Hoosiers (+3.5),Indiana Hoosiers,REMOVED_MAIN,3.5,,1.7693,,0,,1,
+2026-10-11T01:30:40.905685+00:00,16634498,Indiana Hoosiers vs. Ohio State Buckeyes,2026-10-17T16:00:00Z,spread,Ohio State Buckeyes (-3.5),Ohio State Buckeyes,REMOVED_MAIN,-3.5,,1.9091,,0,,1,

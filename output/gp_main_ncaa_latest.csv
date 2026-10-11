@@ -229,10 +229,10 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17783360,Texas State Bobcats vs. COLORADO,2026-10-16T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1771537305,-12.5,4623271797,COLORADO (+12.5),-12.5,1.8,0,True
 17783360,Texas State Bobcats vs. COLORADO,2026-10-16T00:00:00Z,total,Total (prolongations incluses),225,70803,1771537304,67.5,4623271794,Moins de 67.5,67.5,1.8334,0,True
 17783360,Texas State Bobcats vs. COLORADO,2026-10-16T00:00:00Z,total,Total (prolongations incluses),225,70803,1771537304,67.5,4623271795,Plus de 67.5,67.5,1.8334,0,True
-16634498,Indiana Hoosiers vs. Ohio State Buckeyes,2026-10-17T16:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1605096072,,4100817140,Indiana Hoosiers,,2.15,0,False
-16634498,Indiana Hoosiers vs. Ohio State Buckeyes,2026-10-17T16:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1605096072,,4100817141,Ohio State Buckeyes,,1.6061,0,False
-16634498,Indiana Hoosiers vs. Ohio State Buckeyes,2026-10-17T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,1698814985,+3.5,4395054264,Ohio State Buckeyes (-3.5),+3.5,1.9091,0,True
-16634498,Indiana Hoosiers vs. Ohio State Buckeyes,2026-10-17T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,1698814985,+3.5,4395054263,Indiana Hoosiers (+3.5),+3.5,1.7693,0,True
+16634498,Indiana Hoosiers vs. Ohio State Buckeyes,2026-10-17T16:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1605096072,,4100817140,Indiana Hoosiers,,2.4,0,False
+16634498,Indiana Hoosiers vs. Ohio State Buckeyes,2026-10-17T16:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1605096072,,4100817141,Ohio State Buckeyes,,1.4762,0,False
+16634498,Indiana Hoosiers vs. Ohio State Buckeyes,2026-10-17T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,1698814986,+4.5,4395054265,Indiana Hoosiers (+4.5),+4.5,1.8334,0,True
+16634498,Indiana Hoosiers vs. Ohio State Buckeyes,2026-10-17T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,1698814986,+4.5,4395054266,Ohio State Buckeyes (-4.5),+4.5,1.8334,0,True
 16634498,Indiana Hoosiers vs. Ohio State Buckeyes,2026-10-17T16:00:00Z,total,Total (prolongations incluses),225,70803,1620417644,49.5,4150249971,Plus de 49.5,49.5,1.8334,0,True
 16634498,Indiana Hoosiers vs. Ohio State Buckeyes,2026-10-17T16:00:00Z,total,Total (prolongations incluses),225,70803,1620417644,49.5,4150249972,Moins de 49.5,49.5,1.8334,0,True
 17803700,LSU Tigers vs. Mississippi St Bulldogs,2026-10-17T16:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1769682688,,4617317056,LSU Tigers,,1.1819,0,False
@@ -241,12 +241,12 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17803700,LSU Tigers vs. Mississippi St Bulldogs,2026-10-17T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,1769682905,-12.5,4617317599,Mississippi St Bulldogs (+12.5),-12.5,1.8334,0,True
 17803700,LSU Tigers vs. Mississippi St Bulldogs,2026-10-17T16:00:00Z,total,Total (prolongations incluses),225,70803,1769683221,60.5,4617318306,Plus de 60.5,60.5,1.8334,0,True
 17803700,LSU Tigers vs. Mississippi St Bulldogs,2026-10-17T16:00:00Z,total,Total (prolongations incluses),225,70803,1769683221,60.5,4617318307,Moins de 60.5,60.5,1.8334,0,True
-17803694,Texas Longhorns vs. Florida Gators,2026-10-17T16:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1768567651,,4613631883,Texas Longhorns,,1.2667,0,False
-17803694,Texas Longhorns vs. Florida Gators,2026-10-17T16:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1768567651,,4613631884,Florida Gators,,3.3,0,False
-17803694,Texas Longhorns vs. Florida Gators,2026-10-17T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,1768566985,-8.5,4613630272,Texas Longhorns (-8.5),-8.5,1.8334,0,True
-17803694,Texas Longhorns vs. Florida Gators,2026-10-17T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,1768566985,-8.5,4613630273,Florida Gators (+8.5),-8.5,1.8334,0,True
-17803694,Texas Longhorns vs. Florida Gators,2026-10-17T16:00:00Z,total,Total (prolongations incluses),225,70803,1768567088,52.5,4613630505,Plus de 52.5,52.5,1.8,0,True
-17803694,Texas Longhorns vs. Florida Gators,2026-10-17T16:00:00Z,total,Total (prolongations incluses),225,70803,1768567088,52.5,4613630506,Moins de 52.5,52.5,1.8696,0,True
+17803694,Texas Longhorns vs. Florida Gators,2026-10-17T16:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1768567651,,4613631883,Texas Longhorns,,1.2667,7,False
+17803694,Texas Longhorns vs. Florida Gators,2026-10-17T16:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1768567651,,4613631884,Florida Gators,,3.3,7,False
+17803694,Texas Longhorns vs. Florida Gators,2026-10-17T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,1768566985,-8.5,4613630272,Texas Longhorns (-8.5),-8.5,1.8334,7,True
+17803694,Texas Longhorns vs. Florida Gators,2026-10-17T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,1768566985,-8.5,4613630273,Florida Gators (+8.5),-8.5,1.8334,7,True
+17803694,Texas Longhorns vs. Florida Gators,2026-10-17T16:00:00Z,total,Total (prolongations incluses),225,70803,1768567088,52.5,4613630505,Plus de 52.5,52.5,1.8,7,True
+17803694,Texas Longhorns vs. Florida Gators,2026-10-17T16:00:00Z,total,Total (prolongations incluses),225,70803,1768567088,52.5,4613630506,Moins de 52.5,52.5,1.8696,7,True
 17218305,Oregon Ducks vs. Nebraska Cornhuskers,2026-10-17T17:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1659307707,,4272128864,Nebraska Cornhuskers,,4.3,7,False
 17218305,Oregon Ducks vs. Nebraska Cornhuskers,2026-10-17T17:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1659307707,,4272128863,Oregon Ducks,,1.1667,7,False
 17218305,Oregon Ducks vs. Nebraska Cornhuskers,2026-10-17T17:00:00Z,spread,Handicap (inclus prolongations),223,70799,1698811313,-13.5,4395046824,Nebraska Cornhuskers (+13.5),-13.5,1.8,7,True

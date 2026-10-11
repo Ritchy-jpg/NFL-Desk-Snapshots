@@ -1,11 +1,7 @@
 captured_at,event_id,match,start_date,market,selection,side,signal,old_line,new_line,old_price,new_price,old_status,new_status,old_is_main_bet,new_is_main_bet
-2026-10-11T01:49:49.801009+00:00,17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,spread,Arizona State Sun Devils (-20.5),Arizona State Sun Devils,MAIN_PRICE_MOVE,-20.5,-20.5,1.8,1.8334,0,0.0,1,1.0
-2026-10-11T01:49:49.801009+00:00,17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,spread,Hawaii Rainbow Warriors (+20.5),Hawaii Rainbow Warriors,MAIN_PRICE_MOVE,20.5,20.5,1.8696,1.8334,0,0.0,1,1.0
-2026-10-11T01:49:49.801009+00:00,16634498,Indiana Hoosiers vs. Ohio State Buckeyes,2026-10-17T16:00:00Z,moneyline,Indiana Hoosiers,Indiana Hoosiers,STATUS_CHANGE,,,2.4,2.4,0,7.0,0,0.0
-2026-10-11T01:49:49.801009+00:00,16634498,Indiana Hoosiers vs. Ohio State Buckeyes,2026-10-17T16:00:00Z,moneyline,Ohio State Buckeyes,Ohio State Buckeyes,STATUS_CHANGE,,,1.4762,1.4762,0,7.0,0,0.0
-2026-10-11T01:49:49.801009+00:00,16634498,Indiana Hoosiers vs. Ohio State Buckeyes,2026-10-17T16:00:00Z,spread,Indiana Hoosiers (+4.5),Indiana Hoosiers,STATUS_CHANGE,4.5,4.5,1.8334,1.8334,0,7.0,1,1.0
-2026-10-11T01:49:49.801009+00:00,16634498,Indiana Hoosiers vs. Ohio State Buckeyes,2026-10-17T16:00:00Z,spread,Ohio State Buckeyes (-4.5),Ohio State Buckeyes,STATUS_CHANGE,-4.5,-4.5,1.8334,1.8334,0,7.0,1,1.0
-2026-10-11T01:49:49.801009+00:00,16634498,Indiana Hoosiers vs. Ohio State Buckeyes,2026-10-17T16:00:00Z,total,Plus de 49.5,over,STATUS_CHANGE,49.5,49.5,1.8334,1.8334,0,7.0,1,1.0
-2026-10-11T01:49:49.801009+00:00,16634498,Indiana Hoosiers vs. Ohio State Buckeyes,2026-10-17T16:00:00Z,total,Moins de 49.5,under,STATUS_CHANGE,49.5,49.5,1.8334,1.8334,0,7.0,1,1.0
-2026-10-11T01:49:49.801009+00:00,17803701,Ole Miss Rebels vs. Missouri Tigers,2026-10-17T19:30:00Z,total,Plus de 58.5,over,REMOVED_MAIN,58.5,,1.8334,,0,,1,
-2026-10-11T01:49:49.801009+00:00,17803701,Ole Miss Rebels vs. Missouri Tigers,2026-10-17T19:30:00Z,total,Moins de 58.5,under,REMOVED_MAIN,58.5,,1.8334,,0,,1,
+2026-10-11T02:04:35.332173+00:00,17803687,Houston Cougars vs. Oklahoma St Cowboys,2026-10-17T23:30:00Z,moneyline,Houston Cougars,Houston Cougars,STATUS_CHANGE,,,1.625,1.625,0,7,0,0
+2026-10-11T02:04:35.332173+00:00,17803687,Houston Cougars vs. Oklahoma St Cowboys,2026-10-17T23:30:00Z,moneyline,Oklahoma St Cowboys,Oklahoma St Cowboys,STATUS_CHANGE,,,2.1,2.1,0,7,0,0
+2026-10-11T02:04:35.332173+00:00,17803687,Houston Cougars vs. Oklahoma St Cowboys,2026-10-17T23:30:00Z,spread,Houston Cougars (-2.5),Houston Cougars,STATUS_CHANGE,-2.5,-2.5,1.7693,1.7693,0,7,1,1
+2026-10-11T02:04:35.332173+00:00,17803687,Houston Cougars vs. Oklahoma St Cowboys,2026-10-17T23:30:00Z,spread,Oklahoma St Cowboys (+2.5),Oklahoma St Cowboys,STATUS_CHANGE,2.5,2.5,1.9091,1.9091,0,7,1,1
+2026-10-11T02:04:35.332173+00:00,17803687,Houston Cougars vs. Oklahoma St Cowboys,2026-10-17T23:30:00Z,total,Plus de 57.5,over,STATUS_CHANGE,57.5,57.5,1.8334,1.8334,0,7,1,1
+2026-10-11T02:04:35.332173+00:00,17803687,Houston Cougars vs. Oklahoma St Cowboys,2026-10-17T23:30:00Z,total,Moins de 57.5,under,STATUS_CHANGE,57.5,57.5,1.8334,1.8334,0,7,1,1

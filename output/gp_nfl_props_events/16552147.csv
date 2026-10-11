@@ -39,8 +39,8 @@ event_id,match,player,market,market_type_id,sport_market_id,child_market_id,odd_
 16552147,GB Packers vs. CHI Bears,MarShawn Lloyd,Total de Touchdowns du joueur (Incl. Prolongations) (MarShawn Lloyd (GB)),2145,72900,1765635760,4604428032,2+,2+,9.0,0,False
 16552147,GB Packers vs. CHI Bears,MarShawn Lloyd,Total de Touchdowns du joueur (Incl. Prolongations) (MarShawn Lloyd (GB)),2145,72900,1765635760,4604428033,3+,3+,41.0,0,False
 16552147,GB Packers vs. CHI Bears,MarShawn Lloyd,Total de Touchdowns du joueur (Incl. Prolongations) (MarShawn Lloyd (GB)),2145,72900,1765635760,4604428031,1+,1+,2.2,0,False
-16552147,GB Packers vs. CHI Bears,Christian Watson,Total de Touchdowns du joueur (Incl. Prolongations) (Christian Watson (GB)),2145,72900,1764733678,4601660997,1+,1+,2.7,0,False
-16552147,GB Packers vs. CHI Bears,Christian Watson,Total de Touchdowns du joueur (Incl. Prolongations) (Christian Watson (GB)),2145,72900,1764733678,4601660998,2+,2+,14.0,0,False
+16552147,GB Packers vs. CHI Bears,Christian Watson,Total de Touchdowns du joueur (Incl. Prolongations) (Christian Watson (GB)),2145,72900,1764733678,4601660997,1+,1+,2.8,0,False
+16552147,GB Packers vs. CHI Bears,Christian Watson,Total de Touchdowns du joueur (Incl. Prolongations) (Christian Watson (GB)),2145,72900,1764733678,4601660998,2+,2+,15.0,0,False
 16552147,GB Packers vs. CHI Bears,Christian Watson,Total de Touchdowns du joueur (Incl. Prolongations) (Christian Watson (GB)),2145,72900,1764733678,4601660999,3+,3+,71.0,0,False
 16552147,GB Packers vs. CHI Bears,Kaleb Johnson,Total de Touchdowns du joueur (Incl. Prolongations) (Kaleb Johnson (GB)),2145,72900,1765635759,4604428028,1+,1+,2.9,0,False
 16552147,GB Packers vs. CHI Bears,Kaleb Johnson,Total de Touchdowns du joueur (Incl. Prolongations) (Kaleb Johnson (GB)),2145,72900,1765635759,4604428029,2+,2+,16.0,0,False
@@ -259,6 +259,14 @@ event_id,match,player,market,market_type_id,sport_market_id,child_market_id,odd_
 16552147,GB Packers vs. CHI Bears,Tyson Bagent,Joueur total de yards par la course (Tyson Bagent (CHI)) (prolongations incluses),2140,72895,1769110513,4621231077,72+,72+,18.0,0,False
 16552147,GB Packers vs. CHI Bears,Tyson Bagent,Joueur total de yards par la course (Tyson Bagent (CHI)) (prolongations incluses),2140,72895,1769110513,4621231078,82+,82+,31.0,0,False
 16552147,GB Packers vs. CHI Bears,Tyson Bagent,Joueur total de yards par la course (Tyson Bagent (CHI)) (prolongations incluses),2140,72895,1769110513,4621231071,12+,12+,1.9091,0,False
+16552147,GB Packers vs. CHI Bears,Roschon Johnson,Joueur total de yards par la course (Roschon Johnson (CHI)) (prolongations incluses),2140,72895,1774548371,4631784448,28+,28+,2.45,0,False
+16552147,GB Packers vs. CHI Bears,Roschon Johnson,Joueur total de yards par la course (Roschon Johnson (CHI)) (prolongations incluses),2140,72895,1774548371,4631784449,38+,38+,3.3,0,False
+16552147,GB Packers vs. CHI Bears,Roschon Johnson,Joueur total de yards par la course (Roschon Johnson (CHI)) (prolongations incluses),2140,72895,1774548371,4631784450,48+,48+,4.75,0,False
+16552147,GB Packers vs. CHI Bears,Roschon Johnson,Joueur total de yards par la course (Roschon Johnson (CHI)) (prolongations incluses),2140,72895,1774548371,4631785121,58+,58+,7.5,0,False
+16552147,GB Packers vs. CHI Bears,Roschon Johnson,Joueur total de yards par la course (Roschon Johnson (CHI)) (prolongations incluses),2140,72895,1774548371,4631785122,68+,68+,12.0,0,False
+16552147,GB Packers vs. CHI Bears,Roschon Johnson,Joueur total de yards par la course (Roschon Johnson (CHI)) (prolongations incluses),2140,72895,1774548371,4631785123,78+,78+,21.0,0,False
+16552147,GB Packers vs. CHI Bears,Roschon Johnson,Joueur total de yards par la course (Roschon Johnson (CHI)) (prolongations incluses),2140,72895,1774548371,4631785124,88+,88+,41.0,0,False
+16552147,GB Packers vs. CHI Bears,Roschon Johnson,Joueur total de yards par la course (Roschon Johnson (CHI)) (prolongations incluses),2140,72895,1774548371,4631784447,18+,18+,1.9091,0,False
 16552147,GB Packers vs. CHI Bears,Jordan Love,Joueur total de yards par la course (Jordan Love (GB)) (prolongations incluses),2140,72895,1769460928,4616738497,17+,17+,3.5,0,False
 16552147,GB Packers vs. CHI Bears,Jordan Love,Joueur total de yards par la course (Jordan Love (GB)) (prolongations incluses),2140,72895,1769460928,4616738498,27+,27+,8.5,0,False
 16552147,GB Packers vs. CHI Bears,Jordan Love,Joueur total de yards par la course (Jordan Love (GB)) (prolongations incluses),2140,72895,1769460928,4616738499,37+,37+,26.0,0,False
@@ -1112,10 +1120,10 @@ event_id,match,player,market,market_type_id,sport_market_id,child_market_id,odd_
 16552147,GB Packers vs. CHI Bears,Jordan Love,Joueur total nombre de tentatives de passes(Jordan Love (GB)) (prolongations incluses),2248,73698,1767228750,4609507866,33+,33+,1.6061,0,False
 16552147,GB Packers vs. CHI Bears,D'Andre Swift,Joueur total de réception (D'Andre Swift (CHI)) (incl. OT),2142,72897,1767228998,4622123981,8+,8+,41.0,0,False
 16552147,GB Packers vs. CHI Bears,D'Andre Swift,Joueur total de réception (D'Andre Swift (CHI)) (incl. OT),2142,72897,1767228998,4609476855,3+,3+,1.8334,0,False
-16552147,GB Packers vs. CHI Bears,D'Andre Swift,Joueur total de réception (D'Andre Swift (CHI)) (incl. OT),2142,72897,1767228998,4609476856,4+,4+,2.8,0,False
+16552147,GB Packers vs. CHI Bears,D'Andre Swift,Joueur total de réception (D'Andre Swift (CHI)) (incl. OT),2142,72897,1767228998,4609476856,4+,4+,2.75,0,False
 16552147,GB Packers vs. CHI Bears,D'Andre Swift,Joueur total de réception (D'Andre Swift (CHI)) (incl. OT),2142,72897,1767228998,4609476857,5+,5+,4.75,0,False
 16552147,GB Packers vs. CHI Bears,D'Andre Swift,Joueur total de réception (D'Andre Swift (CHI)) (incl. OT),2142,72897,1767228998,4609476858,6+,6+,9.0,0,False
-16552147,GB Packers vs. CHI Bears,D'Andre Swift,Joueur total de réception (D'Andre Swift (CHI)) (incl. OT),2142,72897,1767228998,4609476859,7+,7+,19.0,0,False
+16552147,GB Packers vs. CHI Bears,D'Andre Swift,Joueur total de réception (D'Andre Swift (CHI)) (incl. OT),2142,72897,1767228998,4609476859,7+,7+,18.0,0,False
 16552147,GB Packers vs. CHI Bears,D'Andre Swift,Joueur total de réception (D'Andre Swift (CHI)) (incl. OT),2142,72897,1767228998,4609476860,2+,2+,1.2106,0,False
 16552147,GB Packers vs. CHI Bears,Matthew Golden,Joueur total de réception (Matthew Golden (GB)) (incl. OT),2142,72897,1767228741,4609476130,5+,5+,1.8334,0,False
 16552147,GB Packers vs. CHI Bears,Matthew Golden,Joueur total de réception (Matthew Golden (GB)) (incl. OT),2142,72897,1767228741,4609476131,6+,6+,2.7,0,False
@@ -1124,13 +1132,6 @@ event_id,match,player,market,market_type_id,sport_market_id,child_market_id,odd_
 16552147,GB Packers vs. CHI Bears,Matthew Golden,Joueur total de réception (Matthew Golden (GB)) (incl. OT),2142,72897,1767228741,4609476134,9+,9+,15.0,0,False
 16552147,GB Packers vs. CHI Bears,Matthew Golden,Joueur total de réception (Matthew Golden (GB)) (incl. OT),2142,72897,1767228741,4609476135,10+,10+,31.0,0,False
 16552147,GB Packers vs. CHI Bears,Matthew Golden,Joueur total de réception (Matthew Golden (GB)) (incl. OT),2142,72897,1767228741,4609476136,4+,4+,1.25,0,False
-16552147,GB Packers vs. CHI Bears,Luther Burden,Joueur total de réception (Luther Burden (CHI)) (incl. OT),2142,72897,1767228746,4609476169,5+,5+,2.0,0,False
-16552147,GB Packers vs. CHI Bears,Luther Burden,Joueur total de réception (Luther Burden (CHI)) (incl. OT),2142,72897,1767228746,4609476170,6+,6+,2.75,0,False
-16552147,GB Packers vs. CHI Bears,Luther Burden,Joueur total de réception (Luther Burden (CHI)) (incl. OT),2142,72897,1767228746,4609476171,7+,7+,4.25,0,False
-16552147,GB Packers vs. CHI Bears,Luther Burden,Joueur total de réception (Luther Burden (CHI)) (incl. OT),2142,72897,1767228746,4609476172,8+,8+,6.75,0,False
-16552147,GB Packers vs. CHI Bears,Luther Burden,Joueur total de réception (Luther Burden (CHI)) (incl. OT),2142,72897,1767228746,4609476173,9+,9+,12.0,0,False
-16552147,GB Packers vs. CHI Bears,Luther Burden,Joueur total de réception (Luther Burden (CHI)) (incl. OT),2142,72897,1767228746,4609476174,10+,10+,21.0,0,False
-16552147,GB Packers vs. CHI Bears,Luther Burden,Joueur total de réception (Luther Burden (CHI)) (incl. OT),2142,72897,1767228746,4609476175,4+,4+,1.3449,0,False
 16552147,GB Packers vs. CHI Bears,Christian Watson,Joueur total de réception (Christian Watson (GB)) (incl. OT),2142,72897,1767228744,4609476160,10+,10+,36.0,0,False
 16552147,GB Packers vs. CHI Bears,Christian Watson,Joueur total de réception (Christian Watson (GB)) (incl. OT),2142,72897,1767228744,4609476161,4+,4+,1.3449,0,False
 16552147,GB Packers vs. CHI Bears,Christian Watson,Joueur total de réception (Christian Watson (GB)) (incl. OT),2142,72897,1767228744,4609476155,5+,5+,2.05,0,False
@@ -1152,6 +1153,13 @@ event_id,match,player,market,market_type_id,sport_market_id,child_market_id,odd_
 16552147,GB Packers vs. CHI Bears,MarShawn Lloyd,Joueur total de réception (MarShawn Lloyd (GB)) (incl. OT),2142,72897,1769112781,4615622640,6+,6+,8.5,0,False
 16552147,GB Packers vs. CHI Bears,MarShawn Lloyd,Joueur total de réception (MarShawn Lloyd (GB)) (incl. OT),2142,72897,1769112781,4615622641,7+,7+,17.0,0,False
 16552147,GB Packers vs. CHI Bears,MarShawn Lloyd,Joueur total de réception (MarShawn Lloyd (GB)) (incl. OT),2142,72897,1769112781,4615622642,2+,2+,1.3572,0,False
+16552147,GB Packers vs. CHI Bears,Luther Burden,Joueur total de réception (Luther Burden (CHI)) (incl. OT),2142,72897,1767228746,4609476169,5+,5+,2.05,0,False
+16552147,GB Packers vs. CHI Bears,Luther Burden,Joueur total de réception (Luther Burden (CHI)) (incl. OT),2142,72897,1767228746,4609476170,6+,6+,2.8,0,False
+16552147,GB Packers vs. CHI Bears,Luther Burden,Joueur total de réception (Luther Burden (CHI)) (incl. OT),2142,72897,1767228746,4609476171,7+,7+,4.25,0,False
+16552147,GB Packers vs. CHI Bears,Luther Burden,Joueur total de réception (Luther Burden (CHI)) (incl. OT),2142,72897,1767228746,4609476172,8+,8+,6.75,0,False
+16552147,GB Packers vs. CHI Bears,Luther Burden,Joueur total de réception (Luther Burden (CHI)) (incl. OT),2142,72897,1767228746,4609476173,9+,9+,12.0,0,False
+16552147,GB Packers vs. CHI Bears,Luther Burden,Joueur total de réception (Luther Burden (CHI)) (incl. OT),2142,72897,1767228746,4609476174,10+,10+,21.0,0,False
+16552147,GB Packers vs. CHI Bears,Luther Burden,Joueur total de réception (Luther Burden (CHI)) (incl. OT),2142,72897,1767228746,4609476175,4+,4+,1.3637,0,False
 16552147,GB Packers vs. CHI Bears,Rome Odunze,Joueur total de réception (Rome Odunze (CHI)) (incl. OT),2142,72897,1767228749,4609476194,3+,3+,1.4445,0,False
 16552147,GB Packers vs. CHI Bears,Rome Odunze,Joueur total de réception (Rome Odunze (CHI)) (incl. OT),2142,72897,1767228749,4609476195,4+,4+,2.25,0,False
 16552147,GB Packers vs. CHI Bears,Rome Odunze,Joueur total de réception (Rome Odunze (CHI)) (incl. OT),2142,72897,1767228749,4609476196,5+,5+,3.2,0,False
@@ -1160,7 +1168,7 @@ event_id,match,player,market,market_type_id,sport_market_id,child_market_id,odd_
 16552147,GB Packers vs. CHI Bears,Rome Odunze,Joueur total de réception (Rome Odunze (CHI)) (incl. OT),2142,72897,1767228749,4609476199,8+,8+,18.0,0,False
 16552147,GB Packers vs. CHI Bears,Rome Odunze,Joueur total de réception (Rome Odunze (CHI)) (incl. OT),2142,72897,1767228749,4609507565,9+,9+,36.0,0,False
 16552147,GB Packers vs. CHI Bears,Colston Loveland,Joueur total de réception (Colston Loveland (CHI)) (incl. OT),2142,72897,1767228994,4621006265,10+,10+,21.0,0,False
-16552147,GB Packers vs. CHI Bears,Colston Loveland,Joueur total de réception (Colston Loveland (CHI)) (incl. OT),2142,72897,1767228994,4609476821,4+,4+,1.5,0,False
+16552147,GB Packers vs. CHI Bears,Colston Loveland,Joueur total de réception (Colston Loveland (CHI)) (incl. OT),2142,72897,1767228994,4609476821,4+,4+,1.5264,0,False
 16552147,GB Packers vs. CHI Bears,Colston Loveland,Joueur total de réception (Colston Loveland (CHI)) (incl. OT),2142,72897,1767228994,4609476822,5+,5+,2.2,0,False
 16552147,GB Packers vs. CHI Bears,Colston Loveland,Joueur total de réception (Colston Loveland (CHI)) (incl. OT),2142,72897,1767228994,4609476823,6+,6+,2.95,0,False
 16552147,GB Packers vs. CHI Bears,Colston Loveland,Joueur total de réception (Colston Loveland (CHI)) (incl. OT),2142,72897,1767228994,4609476824,7+,7+,4.4,0,False
@@ -1188,17 +1196,6 @@ event_id,match,player,market,market_type_id,sport_market_id,child_market_id,odd_
 16552147,GB Packers vs. CHI Bears,Jonnu Smith,Joueur total de réception (Jonnu Smith (GB)) (incl. OT),2142,72897,1770701880,4620654091,4+,4+,7.25,0,False
 16552147,GB Packers vs. CHI Bears,Jonnu Smith,Joueur total de réception (Jonnu Smith (GB)) (incl. OT),2142,72897,1770701880,4620654092,5+,5+,15.0,0,False
 16552147,GB Packers vs. CHI Bears,Jonnu Smith,Joueur total de réception (Jonnu Smith (GB)) (incl. OT),2142,72897,1770701880,4620654093,6+,6+,31.0,0,False
-16552147,GB Packers vs. CHI Bears,D'Andre Swift,Joueur total de courses (D'Andre Swift (CHI)) (prolongations incluses),2133,72890,1772625599,4626413930,20+,20+,1.8696,0,False
-16552147,GB Packers vs. CHI Bears,D'Andre Swift,Joueur total de courses (D'Andre Swift (CHI)) (prolongations incluses),2133,72890,1772625599,4626413931,21+,21+,2.15,0,False
-16552147,GB Packers vs. CHI Bears,D'Andre Swift,Joueur total de courses (D'Andre Swift (CHI)) (prolongations incluses),2133,72890,1772625599,4626413932,22+,22+,2.45,0,False
-16552147,GB Packers vs. CHI Bears,D'Andre Swift,Joueur total de courses (D'Andre Swift (CHI)) (prolongations incluses),2133,72890,1772625599,4626413933,23+,23+,2.9,0,False
-16552147,GB Packers vs. CHI Bears,D'Andre Swift,Joueur total de courses (D'Andre Swift (CHI)) (prolongations incluses),2133,72890,1772625599,4626413934,24+,24+,3.4,0,False
-16552147,GB Packers vs. CHI Bears,D'Andre Swift,Joueur total de courses (D'Andre Swift (CHI)) (prolongations incluses),2133,72890,1772625599,4626413935,25+,25+,4.25,0,False
-16552147,GB Packers vs. CHI Bears,D'Andre Swift,Joueur total de courses (D'Andre Swift (CHI)) (prolongations incluses),2133,72890,1772625599,4626413936,26+,26+,5.0,0,False
-16552147,GB Packers vs. CHI Bears,D'Andre Swift,Joueur total de courses (D'Andre Swift (CHI)) (prolongations incluses),2133,72890,1772625599,4626413937,27+,27+,6.5,0,False
-16552147,GB Packers vs. CHI Bears,D'Andre Swift,Joueur total de courses (D'Andre Swift (CHI)) (prolongations incluses),2133,72890,1772625599,4626413938,28+,28+,8.5,0,False
-16552147,GB Packers vs. CHI Bears,D'Andre Swift,Joueur total de courses (D'Andre Swift (CHI)) (prolongations incluses),2133,72890,1772625599,4626413939,19+,19+,1.6061,0,False
-16552147,GB Packers vs. CHI Bears,D'Andre Swift,Joueur total de courses (D'Andre Swift (CHI)) (prolongations incluses),2133,72890,1772625599,4626413940,18+,18+,1.4167,0,False
 16552147,GB Packers vs. CHI Bears,MarShawn Lloyd,Joueur total de courses (MarShawn Lloyd (GB)) (prolongations incluses),2133,72890,1772625601,4626413952,9+,9+,2.05,0,False
 16552147,GB Packers vs. CHI Bears,MarShawn Lloyd,Joueur total de courses (MarShawn Lloyd (GB)) (prolongations incluses),2133,72890,1772625601,4626413953,10+,10+,2.35,0,False
 16552147,GB Packers vs. CHI Bears,MarShawn Lloyd,Joueur total de courses (MarShawn Lloyd (GB)) (prolongations incluses),2133,72890,1772625601,4626413954,11+,11+,2.8,0,False
@@ -1221,6 +1218,17 @@ event_id,match,player,market,market_type_id,sport_market_id,child_market_id,odd_
 16552147,GB Packers vs. CHI Bears,Kaleb Johnson,Joueur total de courses (Kaleb Johnson (GB)) (prolongations incluses),2133,72890,1772625600,4626413949,18+,18+,13.0,0,False
 16552147,GB Packers vs. CHI Bears,Kaleb Johnson,Joueur total de courses (Kaleb Johnson (GB)) (prolongations incluses),2133,72890,1772625600,4626413950,9+,9+,1.6897,0,False
 16552147,GB Packers vs. CHI Bears,Kaleb Johnson,Joueur total de courses (Kaleb Johnson (GB)) (prolongations incluses),2133,72890,1772625600,4626413951,8+,8+,1.4167,0,False
+16552147,GB Packers vs. CHI Bears,D'Andre Swift,Joueur total de courses (D'Andre Swift (CHI)) (prolongations incluses),2133,72890,1772625599,4626413930,20+,20+,2.0,0,False
+16552147,GB Packers vs. CHI Bears,D'Andre Swift,Joueur total de courses (D'Andre Swift (CHI)) (prolongations incluses),2133,72890,1772625599,4626413931,21+,21+,2.25,0,False
+16552147,GB Packers vs. CHI Bears,D'Andre Swift,Joueur total de courses (D'Andre Swift (CHI)) (prolongations incluses),2133,72890,1772625599,4626413932,22+,22+,2.6,0,False
+16552147,GB Packers vs. CHI Bears,D'Andre Swift,Joueur total de courses (D'Andre Swift (CHI)) (prolongations incluses),2133,72890,1772625599,4626413933,23+,23+,3.1,0,False
+16552147,GB Packers vs. CHI Bears,D'Andre Swift,Joueur total de courses (D'Andre Swift (CHI)) (prolongations incluses),2133,72890,1772625599,4626413934,24+,24+,3.75,0,False
+16552147,GB Packers vs. CHI Bears,D'Andre Swift,Joueur total de courses (D'Andre Swift (CHI)) (prolongations incluses),2133,72890,1772625599,4626413935,25+,25+,4.5,0,False
+16552147,GB Packers vs. CHI Bears,D'Andre Swift,Joueur total de courses (D'Andre Swift (CHI)) (prolongations incluses),2133,72890,1772625599,4626413936,26+,26+,5.5,0,False
+16552147,GB Packers vs. CHI Bears,D'Andre Swift,Joueur total de courses (D'Andre Swift (CHI)) (prolongations incluses),2133,72890,1772625599,4626413937,27+,27+,7.0,0,False
+16552147,GB Packers vs. CHI Bears,D'Andre Swift,Joueur total de courses (D'Andre Swift (CHI)) (prolongations incluses),2133,72890,1772625599,4626413938,28+,28+,9.0,0,False
+16552147,GB Packers vs. CHI Bears,D'Andre Swift,Joueur total de courses (D'Andre Swift (CHI)) (prolongations incluses),2133,72890,1772625599,4626413939,19+,19+,1.7143,0,False
+16552147,GB Packers vs. CHI Bears,D'Andre Swift,Joueur total de courses (D'Andre Swift (CHI)) (prolongations incluses),2133,72890,1772625599,4626413940,18+,18+,1.4762,0,False
 16552147,GB Packers vs. CHI Bears,Montez Sweat,Player total sacks (Montez Sweat (CHI)) (incl. OT),2250,73700,1773449878,4628594784,2+,2+,10.0,0,False
 16552147,GB Packers vs. CHI Bears,Montez Sweat,Player total sacks (Montez Sweat (CHI)) (incl. OT),2250,73700,1773449878,4628594783,1+,1+,2.5,0,False
 16552147,GB Packers vs. CHI Bears,Lukas Van Ness,Player total sacks (Lukas Van Ness (GB)) (incl. OT),2250,73700,1773450727,4628596680,1+,1+,3.25,0,False
@@ -1239,12 +1247,12 @@ event_id,match,player,market,market_type_id,sport_market_id,child_market_id,odd_
 16552147,GB Packers vs. CHI Bears,T.J. Edwards,Total de plaqués du joueur au moins (prolongations incluses) (T.J. Edwards (CHI)),2131,73697,1773145686,4627808355,4+,4+,1.3077,0,False
 16552147,GB Packers vs. CHI Bears,T.J. Edwards,Total de plaqués du joueur au moins (prolongations incluses) (T.J. Edwards (CHI)),2131,73697,1773145686,4627808350,5+,5+,1.6897,0,False
 16552147,GB Packers vs. CHI Bears,T.J. Edwards,Total de plaqués du joueur au moins (prolongations incluses) (T.J. Edwards (CHI)),2131,73697,1773145686,4627808351,6+,6+,2.1,0,False
-16552147,GB Packers vs. CHI Bears,Evan Williams,Total de plaqués du joueur au moins (prolongations incluses) (Evan Williams (GB)),2131,73697,1773356646,4628310737,7+,7+,1.6897,0,False
+16552147,GB Packers vs. CHI Bears,Evan Williams,Total de plaqués du joueur au moins (prolongations incluses) (Evan Williams (GB)),2131,73697,1773356646,4628310737,7+,7+,1.7143,0,False
 16552147,GB Packers vs. CHI Bears,Evan Williams,Total de plaqués du joueur au moins (prolongations incluses) (Evan Williams (GB)),2131,73697,1773356646,4628310738,8+,8+,2.15,0,False
-16552147,GB Packers vs. CHI Bears,Evan Williams,Total de plaqués du joueur au moins (prolongations incluses) (Evan Williams (GB)),2131,73697,1773356646,4628310739,9+,9+,2.8,0,False
+16552147,GB Packers vs. CHI Bears,Evan Williams,Total de plaqués du joueur au moins (prolongations incluses) (Evan Williams (GB)),2131,73697,1773356646,4628310739,9+,9+,2.85,0,False
 16552147,GB Packers vs. CHI Bears,Evan Williams,Total de plaqués du joueur au moins (prolongations incluses) (Evan Williams (GB)),2131,73697,1773356646,4628310740,10+,10+,3.85,0,False
 16552147,GB Packers vs. CHI Bears,Evan Williams,Total de plaqués du joueur au moins (prolongations incluses) (Evan Williams (GB)),2131,73697,1773356646,4628310741,11+,11+,5.5,0,False
-16552147,GB Packers vs. CHI Bears,Evan Williams,Total de plaqués du joueur au moins (prolongations incluses) (Evan Williams (GB)),2131,73697,1773356646,4628310742,6+,6+,1.3125,0,False
+16552147,GB Packers vs. CHI Bears,Evan Williams,Total de plaqués du joueur au moins (prolongations incluses) (Evan Williams (GB)),2131,73697,1773356646,4628310742,6+,6+,1.3449,0,False
 16552147,GB Packers vs. CHI Bears,Dillon Thieneman,Total de plaqués du joueur au moins (prolongations incluses) (Dillon Thieneman (CHI)),2131,73697,1773145536,4627808014,7+,7+,1.8334,0,False
 16552147,GB Packers vs. CHI Bears,Dillon Thieneman,Total de plaqués du joueur au moins (prolongations incluses) (Dillon Thieneman (CHI)),2131,73697,1773145536,4627808015,8+,8+,2.35,0,False
 16552147,GB Packers vs. CHI Bears,Dillon Thieneman,Total de plaqués du joueur au moins (prolongations incluses) (Dillon Thieneman (CHI)),2131,73697,1773145536,4627808016,9+,9+,3.1,0,False

@@ -1,268 +1,4 @@
 event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id,selection,line,price,odd_id,odd_status,is_main_bet
-17956218,Abilene Christian Wildcats vs. Central Arkansas Bears,2026-10-11T00:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Central Arkansas Bears,,3.6,4621867729,0,False
-17956218,Abilene Christian Wildcats vs. Central Arkansas Bears,2026-10-11T00:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Abilene Christian Wildcats,,1.2353,4621867730,0,False
-17956218,Abilene Christian Wildcats vs. Central Arkansas Bears,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Central Arkansas Bears (+10.0),-10.0,1.8334,4628517996,0,True
-17956218,Abilene Christian Wildcats vs. Central Arkansas Bears,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Abilene Christian Wildcats (-10.0),-10.0,1.8334,4628517997,0,True
-17956218,Abilene Christian Wildcats vs. Central Arkansas Bears,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 51.5,51.5,1.8,4621867725,0,True
-17956218,Abilene Christian Wildcats vs. Central Arkansas Bears,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 51.5,51.5,1.8696,4621867726,0,True
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Minnesota U Gophers,,1.6667,4596212069,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Purdue Boilermakers,,2.05,4596212070,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Purdue Boilermakers (-10.5),-10.5,5.25,4600502528,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Minnesota U Gophers (+9.5),-9.5,1.1819,4600502534,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Purdue Boilermakers (-9.5),-9.5,4.4,4600502535,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Minnesota U Gophers (-12.5),12.5,4.0,4600502537,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Purdue Boilermakers (+12.5),12.5,1.2223,4600502540,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Purdue Boilermakers (+11.5),11.5,1.2353,4600502543,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Minnesota U Gophers (-11.5),11.5,3.75,4600502545,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Minnesota U Gophers (+11.5),-11.5,1.125,4600502546,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Purdue Boilermakers (-11.5),-11.5,5.5,4600502547,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Purdue Boilermakers (-5.5),-5.5,3.1,4600502550,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Minnesota U Gophers (+5.5),-5.5,1.3334,4600502552,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Minnesota U Gophers (+7.5),-7.5,1.2223,4600502554,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Purdue Boilermakers (-7.5),-7.5,4.0,4600502556,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Purdue Boilermakers (-6.5),-6.5,3.4,4600502558,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Minnesota U Gophers (+6.5),-6.5,1.2858,4600502560,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Minnesota U Gophers (-1.5),1.5,1.6897,4600502562,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Purdue Boilermakers (+1.5),1.5,2.05,4600502564,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Minnesota U Gophers (-6.5),6.5,2.55,4600502566,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Purdue Boilermakers (+6.5),6.5,1.4762,4600502568,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Minnesota U Gophers (-13.5),13.5,4.4,4600502569,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Purdue Boilermakers (+13.5),13.5,1.1819,4600502572,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Purdue Boilermakers (+2.5),2.5,1.8696,4597017389,0,True
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Minnesota U Gophers (-7.5),7.5,2.85,4600502574,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Minnesota U Gophers (-2.5),2.5,1.8,4597017388,0,True
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Purdue Boilermakers (+7.5),7.5,1.3847,4600502577,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Minnesota U Gophers (-5.5),5.5,2.25,4600502579,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Purdue Boilermakers (+5.5),5.5,1.5715,4600502581,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Minnesota U Gophers (-8.5),8.5,3.1,4600502583,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Purdue Boilermakers (+8.5),8.5,1.3334,4600502585,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Purdue Boilermakers (+10.5),10.5,1.2667,4600502587,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Minnesota U Gophers (-10.5),10.5,3.5,4600502589,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Minnesota U Gophers (-9.5),9.5,3.15,4600502591,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Purdue Boilermakers (+9.5),9.5,1.3226,4600502593,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Purdue Boilermakers (-2.5),-2.5,2.35,4600502595,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Minnesota U Gophers (+2.5),-2.5,1.5455,4600502598,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Purdue Boilermakers (-3.5),-3.5,2.75,4600502599,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Minnesota U Gophers (+3.5),-3.5,1.4,4600502602,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Purdue Boilermakers (-1.5),-1.5,2.15,4600502604,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Minnesota U Gophers (+1.5),-1.5,1.6451,4600502606,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Purdue Boilermakers (-4.5),-4.5,2.75,4600502608,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Minnesota U Gophers (+4.5),-4.5,1.4,4600502610,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Minnesota U Gophers (+8.5),-8.5,1.1819,4600502612,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Purdue Boilermakers (-8.5),-8.5,4.4,4600502614,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Minnesota U Gophers (-18.5),18.5,7.5,4600502616,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Purdue Boilermakers (+18.5),18.5,1.0715,4600502618,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Purdue Boilermakers (-12.5),-12.5,6.0,4600502620,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Minnesota U Gophers (+12.5),-12.5,1.1112,4600502622,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Purdue Boilermakers (+17.5),17.5,1.1,4600502624,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Minnesota U Gophers (-17.5),17.5,6.5,4600502626,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Minnesota U Gophers (-4.5),4.5,2.2,4596212067,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Purdue Boilermakers (+4.5),4.5,1.625,4596212068,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Minnesota U Gophers (-14.5),14.5,5.0,4600502628,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Purdue Boilermakers (+14.5),14.5,1.1429,4600502630,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Purdue Boilermakers (-13.5),-13.5,6.5,4600502631,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Minnesota U Gophers (+13.5),-13.5,1.1,4600502634,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Purdue Boilermakers (+16.5),16.5,1.1112,4600502635,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Minnesota U Gophers (-16.5),16.5,6.0,4600502637,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Purdue Boilermakers (+15.5),15.5,1.125,4600502639,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Purdue Boilermakers (+3.5),3.5,1.6897,4596277104,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Minnesota U Gophers (-15.5),15.5,5.5,4600502641,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Minnesota U Gophers (-3.5),3.5,2.05,4596277103,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Minnesota U Gophers (+10.5),-10.5,1.1334,4600502526,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 56.5,56.5,2.7,4600502657,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 54.5,54.5,2.5,4600502659,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 54.5,54.5,1.5,4600502663,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 57.5,57.5,3.1,4600502666,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 57.5,57.5,1.3334,4600502667,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 55.5,55.5,2.7,4600502669,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 55.5,55.5,1.4167,4600502670,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 58.5,58.5,1.3031,4600502671,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 58.5,58.5,3.25,4600502673,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 59.5,59.5,1.2667,4600502674,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 59.5,59.5,3.5,4600502676,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 62.5,62.5,4.4,4600502678,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 62.5,62.5,1.1819,4600502679,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 60.5,60.5,3.75,4600502680,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 35.5,35.5,1.1429,4601224218,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 35.5,35.5,5.0,4601224219,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 63.5,63.5,4.75,4600502684,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 60.5,60.5,1.2353,4600502682,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 63.5,63.5,1.1539,4600502685,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 61.5,61.5,1.2223,4600502691,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 61.5,61.5,4.0,4600502694,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 52.5,52.5,1.5556,4600502649,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 46.5,46.5,1.6451,4600502703,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 46.5,46.5,2.15,4600502705,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 36.5,36.5,1.1539,4600502707,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 36.5,36.5,4.75,4600502710,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 48.5,48.5,1.8,4600502711,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 48.5,48.5,1.8696,4600502713,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 38.5,38.5,1.25,4600502715,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 38.5,38.5,3.7,4600502717,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 44.5,44.5,1.5264,4600502718,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 44.5,44.5,2.4,4600502719,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 41.5,41.5,2.9,4600502720,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 41.5,41.5,1.3637,4600502721,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 42.5,42.5,1.4348,4600502722,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 42.5,42.5,2.65,4600502723,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 45.5,45.5,1.6451,4600502724,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 45.5,45.5,2.15,4600502725,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 47.5,47.5,1.6897,4600502726,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 47.5,47.5,2.05,4600502727,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 43.5,43.5,1.4348,4600502728,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 43.5,43.5,2.65,4600502729,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 40.5,40.5,1.3031,4600502730,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 51.5,51.5,2.15,4597277642,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 39.5,39.5,1.2667,4600502732,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 39.5,39.5,3.5,4600502733,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 37.5,37.5,1.2223,4600502734,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 37.5,37.5,4.0,4600502735,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 40.5,40.5,3.25,4600502731,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 51.5,51.5,1.6451,4597277641,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 50.5,50.5,1.9524,4596529757,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 50.5,50.5,1.7408,4596529758,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 49.5,49.5,1.8334,4596212065,0,True
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 49.5,49.5,1.8334,4596212066,0,True
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 33.5,33.5,1.1112,4628870760,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 33.5,33.5,6.0,4628870761,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 52.5,52.5,2.3,4600502647,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 34.5,34.5,1.125,4613995641,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 34.5,34.5,5.5,4613995642,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 53.5,53.5,2.3,4600502652,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 53.5,53.5,1.5556,4600502654,0,False
-17724252,Purdue Boilermakers vs. Minnesota U Gophers,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 56.5,56.5,1.4167,4600502655,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Utah Utes,,1.1112,4596212115,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Kansas Jayhawks,,5.25,4596212116,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Utah Utes (-31.5),-31.5,6.5,4600498817,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Kansas Jayhawks (+31.5),-31.5,1.1,4600498821,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Kansas Jayhawks (+10.5),-10.5,2.4,4600498822,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Utah Utes (-10.5),-10.5,1.5264,4600498824,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Kansas Jayhawks (+5.5),-5.5,3.5,4600498825,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Utah Utes (-5.5),-5.5,1.2667,4600498827,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Kansas Jayhawks (+9.5),-9.5,2.65,4600498829,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Utah Utes (-9.5),-9.5,1.4348,4600498830,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Kansas Jayhawks (+11.5),-11.5,2.25,4600498831,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Utah Utes (-11.5),-11.5,1.5715,4600498832,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Utah Utes (-16.5),-16.5,1.9091,4596212112,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Kansas Jayhawks (+16.5),-16.5,1.7693,4596212111,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Utah Utes (-25.5),-25.5,3.5,4600498723,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Kansas Jayhawks (+25.5),-25.5,1.2667,4600498726,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Kansas Jayhawks (+29.5),-29.5,1.1429,4600498729,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Utah Utes (-29.5),-29.5,5.0,4600498731,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Utah Utes (-19.5),-19.5,2.25,4600498734,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Kansas Jayhawks (+19.5),-19.5,1.5715,4600498735,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Utah Utes (-18.5),-18.5,2.2,4600498736,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Kansas Jayhawks (+18.5),-18.5,1.625,4600498737,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Kansas Jayhawks (+28.5),-28.5,1.1539,4600498739,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Utah Utes (-28.5),-28.5,4.75,4600498744,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Kansas Jayhawks (+1.5),-1.5,5.25,4600498746,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Utah Utes (-1.5),-1.5,1.1334,4600498747,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Kansas Jayhawks (+14.5),-14.5,1.9091,4600498748,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Utah Utes (-14.5),-14.5,1.7693,4600498749,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Kansas Jayhawks (+24.5),-24.5,1.2858,4600498750,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Utah Utes (-24.5),-24.5,3.4,4600498751,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Kansas Jayhawks (+22.5),-22.5,1.4167,4600498753,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Utah Utes (-22.5),-22.5,2.7,4600498754,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Kansas Jayhawks (+12.5),-12.5,2.2,4600498756,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Utah Utes (-12.5),-12.5,1.625,4600498758,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Kansas Jayhawks (+4.5),-4.5,3.7,4600498760,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Utah Utes (-4.5),-4.5,1.25,4600498761,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Kansas Jayhawks (+6.5),-6.5,3.25,4600498762,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Utah Utes (-6.5),-6.5,1.3031,4600498764,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Utah Utes (-8.5),-8.5,1.4348,4600498766,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Kansas Jayhawks (+8.5),-8.5,2.65,4600498768,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Kansas Jayhawks (+7.5),-7.5,2.85,4600498773,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Utah Utes (-7.5),-7.5,1.3847,4600498774,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Kansas Jayhawks (+23.5),-23.5,1.3572,4600498776,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Utah Utes (-23.5),-23.5,3.0,4600498778,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Kansas Jayhawks (+13.5),-13.5,2.1,4600498780,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Utah Utes (-13.5),-13.5,1.6667,4600498782,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Kansas Jayhawks (+17.5),-17.5,1.6667,4600498785,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Utah Utes (-17.5),-17.5,2.1,4600498786,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Kansas Jayhawks (+27.5),-27.5,1.2,4600498788,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Utah Utes (-27.5),-27.5,4.2,4600498790,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Kansas Jayhawks (+20.5),-20.5,1.5264,4600498791,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Utah Utes (-20.5),-20.5,2.4,4600498794,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Kansas Jayhawks (+15.5),-15.5,1.8334,4596531179,0,True
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Utah Utes (-15.5),-15.5,1.8334,4596531180,0,True
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Kansas Jayhawks (+21.5),-21.5,1.4348,4600498796,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Utah Utes (-21.5),-21.5,2.65,4600498798,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Kansas Jayhawks (+26.5),-26.5,1.2353,4600498800,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Utah Utes (-26.5),-26.5,3.75,4600498802,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Kansas Jayhawks (+2.5),-2.5,5.0,4600498804,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Utah Utes (-2.5),-2.5,1.1429,4600498806,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Kansas Jayhawks (+3.5),-3.5,4.0,4600498808,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Utah Utes (-3.5),-3.5,1.2223,4600498810,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Utah Utes (-30.5),-30.5,5.5,4600498812,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Kansas Jayhawks (+30.5),-30.5,1.125,4600498815,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 36.5,36.5,1.1429,4605067776,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 36.5,36.5,5.0,4605067777,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 52.5,52.5,2.25,4596212113,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 52.5,52.5,1.5715,4596212114,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 51.5,51.5,2.1,4600498838,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 51.5,51.5,1.6667,4600498839,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 41.5,41.5,1.3334,4600498840,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 41.5,41.5,3.1,4600498841,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 61.5,61.5,1.2223,4600498842,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 61.5,61.5,4.0,4600498843,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 47.5,47.5,1.6667,4600498844,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 47.5,47.5,2.1,4600498846,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 46.5,46.5,1.625,4600498847,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 46.5,46.5,2.2,4600498848,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 45.5,45.5,1.5715,4600498849,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 45.5,45.5,2.25,4600498851,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 44.5,44.5,1.4762,4600498853,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 44.5,44.5,2.55,4600498855,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 43.5,43.5,1.4167,4600498856,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 34.5,34.5,1.1112,4626329257,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 34.5,34.5,6.0,4626329258,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 42.5,42.5,1.4167,4600498859,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 42.5,42.5,2.7,4600498860,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 40.5,40.5,1.2858,4600498861,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 43.5,43.5,2.7,4600498858,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 40.5,40.5,3.4,4600498863,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 49.5,49.5,1.8334,4600498864,0,True
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 49.5,49.5,1.8334,4600498866,0,True
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 48.5,48.5,1.7693,4600498868,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 48.5,48.5,1.9091,4600498870,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 63.5,63.5,1.1429,4600498873,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 63.5,63.5,5.0,4600498875,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 53.5,53.5,2.25,4600498876,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 53.5,53.5,1.5715,4600498877,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 56.5,56.5,2.7,4600498878,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 56.5,56.5,1.4167,4600498879,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 35.5,35.5,1.125,4613992257,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 54.5,54.5,2.5,4600498882,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 35.5,35.5,5.5,4613992258,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 64.5,64.5,5.25,4600498884,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 54.5,54.5,1.5,4600498883,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 64.5,64.5,1.1334,4600498885,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 55.5,55.5,2.7,4600498888,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 55.5,55.5,1.4167,4600498889,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 39.5,39.5,3.7,4600498890,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 39.5,39.5,1.25,4600498891,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 59.5,59.5,1.25,4600498892,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 59.5,59.5,3.7,4600498893,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 37.5,37.5,1.1819,4600498894,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 37.5,37.5,4.4,4600498895,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 38.5,38.5,4.0,4600498896,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 38.5,38.5,1.2223,4600498897,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 57.5,57.5,3.1,4600498900,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 57.5,57.5,1.3334,4600498901,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 62.5,62.5,4.4,4600498902,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 62.5,62.5,1.1819,4600498903,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 58.5,58.5,1.2858,4600498904,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 58.5,58.5,3.4,4600498905,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 50.5,50.5,1.9091,4600498906,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 50.5,50.5,1.7693,4600498907,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 60.5,60.5,1.2353,4600498908,0,False
-17724258,Utah Utes vs. Kansas Jayhawks,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 60.5,60.5,3.75,4600498909,0,False
-17956878,Vallée du Rio Grande de l'UT vs. Southeastern Louisiana Lions,2026-10-11T00:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Vallée du Rio Grande de l'UT,,2.0,4621867769,0,False
-17956878,Vallée du Rio Grande de l'UT vs. Southeastern Louisiana Lions,2026-10-11T00:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Southeastern Louisiana Lions,,1.6897,4621867770,0,False
-17956878,Vallée du Rio Grande de l'UT vs. Southeastern Louisiana Lions,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Vallée du Rio Grande de l'UT (+3.0),3.0,1.7408,4626362117,0,True
-17956878,Vallée du Rio Grande de l'UT vs. Southeastern Louisiana Lions,2026-10-11T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Southeastern Louisiana Lions (-3.0),3.0,1.9524,4626362118,0,True
-17956878,Vallée du Rio Grande de l'UT vs. Southeastern Louisiana Lions,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 54.5,54.5,1.8696,4628435600,0,True
-17956878,Vallée du Rio Grande de l'UT vs. Southeastern Louisiana Lions,2026-10-11T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 54.5,54.5,1.8,4628435599,0,True
 17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,James Madison Dukes,,1.3077,4596157096,0,False
 17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Georgia Southern Eagles,,3.1,4596157095,0,False
 17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,spread,Handicap (inclus prolongations),223,70799,James Madison Dukes (+4.5),-4.5,1.1667,4600500357,0,False
@@ -391,22 +127,22 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17932368,Georgia Southern Eagles vs. James Madison Dukes,2026-10-11T00:10:00Z,total,Total (prolongations incluses),225,70803,Moins de 64.5,64.5,1.2223,4600500222,0,False
 17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Arizona State Sun Devils,,1.04,4596520381,0,False
 17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Hawaii Rainbow Warriors,,7.75,4596520382,0,False
-17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Hawaii Rainbow Warriors (+33.5),-33.5,1.1667,4600500505,0,False
+17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Hawaii Rainbow Warriors (+33.5),-33.5,1.1539,4600500505,0,False
 17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Arizona State Sun Devils (-14.5),-14.5,1.4546,4600500490,0,False
 17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Hawaii Rainbow Warriors (+14.5),-14.5,2.6,4600500491,0,False
-17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Arizona State Sun Devils (-34.5),-34.5,5.0,4600500492,0,False
-17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Hawaii Rainbow Warriors (+34.5),-34.5,1.1429,4600500493,0,False
+17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Arizona State Sun Devils (-34.5),-34.5,5.25,4600500492,0,False
+17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Hawaii Rainbow Warriors (+34.5),-34.5,1.1334,4600500493,0,False
 17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Arizona State Sun Devils (-24.5),-24.5,2.4,4600500494,0,False
 17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Hawaii Rainbow Warriors (+24.5),-24.5,1.5264,4600500495,0,False
 17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Arizona State Sun Devils (-7.5),-7.5,1.2,4600500496,0,False
 17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Hawaii Rainbow Warriors (+7.5),-7.5,4.2,4600500497,0,False
-17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Hawaii Rainbow Warriors (+18.5),-18.5,2.1,4600500498,0,False
-17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Arizona State Sun Devils (-18.5),-18.5,1.6667,4600500499,0,False
+17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Hawaii Rainbow Warriors (+18.5),-18.5,2.05,4600500498,0,False
+17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Arizona State Sun Devils (-18.5),-18.5,1.6897,4600500499,0,False
 17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Arizona State Sun Devils (-21.5),-21.5,2.0,4596538132,0,False
-17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Arizona State Sun Devils (-28.5),-28.5,3.2,4600500501,0,False
-17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Arizona State Sun Devils (-13.5),-13.5,1.3637,4600500502,0,False
-17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Hawaii Rainbow Warriors (+13.5),-13.5,2.9,4600500503,0,False
-17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Arizona State Sun Devils (-33.5),-33.5,4.5,4600500504,0,False
+17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Arizona State Sun Devils (-28.5),-28.5,3.25,4600500501,0,False
+17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Arizona State Sun Devils (-13.5),-13.5,1.3847,4600500502,0,False
+17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Hawaii Rainbow Warriors (+13.5),-13.5,2.85,4600500503,0,False
+17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Arizona State Sun Devils (-33.5),-33.5,4.75,4600500504,0,False
 17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Hawaii Rainbow Warriors (+21.5),-21.5,1.7143,4596538131,0,False
 17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Hawaii Rainbow Warriors (+5.5),-5.5,5.25,4600500506,0,False
 17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Arizona State Sun Devils (-5.5),-5.5,1.1334,4600500507,0,False
@@ -416,10 +152,10 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Arizona State Sun Devils (-9.5),-9.5,1.2353,4600500511,0,False
 17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Hawaii Rainbow Warriors (+8.5),-8.5,4.0,4600500512,0,False
 17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Arizona State Sun Devils (-8.5),-8.5,1.2223,4600500513,0,False
-17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Hawaii Rainbow Warriors (+31.5),-31.5,1.2223,4600500514,0,False
-17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Arizona State Sun Devils (-31.5),-31.5,4.0,4600500515,0,False
-17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Arizona State Sun Devils (-30.5),-30.5,3.5,4600500516,0,False
-17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Hawaii Rainbow Warriors (+30.5),-30.5,1.2667,4600500517,0,False
+17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Hawaii Rainbow Warriors (+31.5),-31.5,1.2,4600500514,0,False
+17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Arizona State Sun Devils (-31.5),-31.5,4.2,4600500515,0,False
+17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Arizona State Sun Devils (-30.5),-30.5,3.7,4600500516,0,False
+17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Hawaii Rainbow Warriors (+30.5),-30.5,1.25,4600500517,0,False
 17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Arizona State Sun Devils (-32.5),-32.5,4.4,4600500518,0,False
 17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Hawaii Rainbow Warriors (+32.5),-32.5,1.1819,4600500519,0,False
 17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Arizona State Sun Devils (-35.5),-35.5,6.0,4600500520,0,False
@@ -434,39 +170,39 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Hawaii Rainbow Warriors (+15.5),-15.5,2.5,4600500529,0,False
 17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Arizona State Sun Devils (-17.5),-17.5,1.625,4600500530,0,False
 17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Hawaii Rainbow Warriors (+17.5),-17.5,2.2,4600500531,0,False
-17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Arizona State Sun Devils (-16.5),-16.5,1.5264,4600500532,0,False
-17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Hawaii Rainbow Warriors (+16.5),-16.5,2.4,4600500533,0,False
+17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Arizona State Sun Devils (-16.5),-16.5,1.5455,4600500532,0,False
+17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Hawaii Rainbow Warriors (+16.5),-16.5,2.35,4600500533,0,False
 17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Arizona State Sun Devils (-19.5),-19.5,1.7408,4600500534,0,False
 17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Hawaii Rainbow Warriors (+19.5),-19.5,1.9524,4600500535,0,False
-17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Arizona State Sun Devils (-26.5),-26.5,2.65,4600500536,0,False
-17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Hawaii Rainbow Warriors (+26.5),-26.5,1.4348,4600500537,0,False
-17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Arizona State Sun Devils (-25.5),-25.5,2.55,4600500538,0,False
-17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Arizona State Sun Devils (-20.5),-20.5,1.8,4596520379,0,True
+17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Arizona State Sun Devils (-26.5),-26.5,2.7,4600500536,0,False
+17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Hawaii Rainbow Warriors (+26.5),-26.5,1.4167,4600500537,0,False
+17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Arizona State Sun Devils (-25.5),-25.5,2.6,4600500538,0,False
+17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Arizona State Sun Devils (-20.5),-20.5,1.8334,4596520379,0,True
 17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Arizona State Sun Devils (-29.5),-29.5,3.4,4600500540,0,False
-17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Hawaii Rainbow Warriors (+20.5),-20.5,1.8696,4596520380,0,True
-17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Hawaii Rainbow Warriors (+25.5),-25.5,1.4762,4600500539,0,False
-17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Arizona State Sun Devils (-27.5),-27.5,2.85,4600500543,0,False
-17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Arizona State Sun Devils (-23.5),-23.5,2.15,4596902976,0,False
-17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Hawaii Rainbow Warriors (+23.5),-23.5,1.6451,4596902977,0,False
-17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Hawaii Rainbow Warriors (+27.5),-27.5,1.3847,4600500542,0,False
+17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Hawaii Rainbow Warriors (+20.5),-20.5,1.8334,4596520380,0,True
+17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Hawaii Rainbow Warriors (+25.5),-25.5,1.4546,4600500539,0,False
+17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Arizona State Sun Devils (-27.5),-27.5,2.9,4600500543,0,False
+17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Arizona State Sun Devils (-23.5),-23.5,2.2,4596902976,0,False
+17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Hawaii Rainbow Warriors (+23.5),-23.5,1.625,4596902977,0,False
+17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Hawaii Rainbow Warriors (+27.5),-27.5,1.3637,4600500542,0,False
 17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Arizona State Sun Devils (-22.5),-22.5,2.1,4596620355,0,False
 17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Hawaii Rainbow Warriors (+22.5),-22.5,1.6667,4596620356,0,False
 17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Hawaii Rainbow Warriors (+29.5),-29.5,1.2858,4600500541,0,False
-17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Hawaii Rainbow Warriors (+28.5),-28.5,1.3125,4600500500,0,False
+17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Hawaii Rainbow Warriors (+28.5),-28.5,1.3031,4600500500,0,False
 17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 65.5,65.5,1.1429,4600500440,0,False
 17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 51.5,51.5,1.9091,4596520383,0,True
-17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 37.5,37.5,1.1334,4600500416,0,False
-17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 37.5,37.5,5.25,4600500417,0,False
-17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 57.5,57.5,2.7,4600500418,0,False
+17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 37.5,37.5,1.1429,4600500416,0,False
+17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 37.5,37.5,5.0,4600500417,0,False
+17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 57.5,57.5,2.65,4600500418,0,False
 17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 51.5,51.5,1.7693,4596520384,0,True
-17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 47.5,47.5,2.35,4600500420,0,False
-17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 47.5,47.5,1.5455,4600500421,0,False
+17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 47.5,47.5,2.3,4600500420,0,False
+17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 47.5,47.5,1.5556,4600500421,0,False
 17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 36.5,36.5,1.1112,4600500422,0,False
 17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 36.5,36.5,6.0,4600500423,0,False
 17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 56.5,56.5,2.55,4600500424,0,False
 17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 56.5,56.5,1.4762,4600500425,0,False
-17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 46.5,46.5,2.55,4600500426,0,False
-17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 46.5,46.5,1.4762,4600500427,0,False
+17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 46.5,46.5,2.5,4600500426,0,False
+17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 46.5,46.5,1.5,4600500427,0,False
 17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 66.5,66.5,5.5,4600500428,0,False
 17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 66.5,66.5,1.125,4600500429,0,False
 17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 60.5,60.5,3.4,4600500430,0,False
@@ -479,16 +215,16 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 55.5,55.5,2.5,4600500437,0,False
 17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 45.5,45.5,2.6,4600500438,0,False
 17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 45.5,45.5,1.4546,4600500439,0,False
-17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 57.5,57.5,1.4167,4600500419,0,False
+17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 57.5,57.5,1.4348,4600500419,0,False
 17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 65.5,65.5,5.0,4600500441,0,False
 17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 61.5,61.5,3.5,4600500442,0,False
 17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 61.5,61.5,1.2667,4600500443,0,False
-17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 41.5,41.5,3.5,4600500444,0,False
-17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 41.5,41.5,1.2667,4600500445,0,False
+17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 41.5,41.5,3.4,4600500444,0,False
+17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 41.5,41.5,1.2858,4600500445,0,False
 17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 54.5,54.5,1.5715,4600500446,0,False
 17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 54.5,54.5,2.25,4600500447,0,False
-17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 44.5,44.5,2.85,4600500448,0,False
-17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 44.5,44.5,1.3847,4600500449,0,False
+17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 44.5,44.5,2.75,4600500448,0,False
+17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 44.5,44.5,1.4,4600500449,0,False
 17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 64.5,64.5,1.1819,4600500450,0,False
 17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 64.5,64.5,4.4,4600500451,0,False
 17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 62.5,62.5,1.2223,4600500452,0,False
@@ -507,10 +243,10 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 48.5,48.5,1.6451,4600500465,0,False
 17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 49.5,49.5,2.05,4600500466,0,False
 17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 49.5,49.5,1.6897,4600500467,0,False
-17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 39.5,39.5,1.1819,4600500468,0,False
-17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 39.5,39.5,4.4,4600500469,0,False
-17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 38.5,38.5,1.1539,4600500470,0,False
-17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 38.5,38.5,4.75,4600500471,0,False
+17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 39.5,39.5,1.2,4600500468,0,False
+17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 39.5,39.5,4.2,4600500469,0,False
+17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 38.5,38.5,1.1819,4600500470,0,False
+17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 38.5,38.5,4.4,4600500471,0,False
 17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 58.5,58.5,2.9,4600500472,0,False
 17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 58.5,58.5,1.3637,4600500473,0,False
 17724264,Arizona State Sun Devils vs. Hawaii Rainbow Warriors,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 59.5,59.5,3.2,4600500474,0,False
@@ -521,14 +257,14 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,FRESNO (+3.5),3.5,2.55,4600454148,0,False
 17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Boise State Broncos (-15.5),15.5,2.65,4600454151,0,False
 17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,FRESNO (+15.5),15.5,1.4348,4600454152,0,False
-17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Boise State Broncos (+2.5),-2.5,1.25,4600454155,0,False
-17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,FRESNO (-2.5),-2.5,3.7,4600454156,0,False
+17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Boise State Broncos (+2.5),-2.5,1.2667,4600454155,0,False
+17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,FRESNO (-2.5),-2.5,3.5,4600454156,0,False
 17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,FRESNO (-1.5),-1.5,3.4,4600454159,0,False
 17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Boise State Broncos (+1.5),-1.5,1.2858,4600454160,0,False
 17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Boise State Broncos (-12.5),12.5,2.2,4600454161,0,False
 17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,FRESNO (+12.5),12.5,1.625,4600454162,0,False
-17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,FRESNO (+2.5),2.5,3.0,4600454163,0,False
-17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Boise State Broncos (-2.5),2.5,1.3572,4600454164,0,False
+17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,FRESNO (+2.5),2.5,2.9,4600454163,0,False
+17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Boise State Broncos (-2.5),2.5,1.3637,4600454164,0,False
 17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Boise State Broncos (-10.5),10.5,2.05,4600454165,0,False
 17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,FRESNO (+10.5),10.5,1.6897,4600454166,0,False
 17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Boise State Broncos (-13.5),13.5,2.3,4600454167,0,False
@@ -541,8 +277,8 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,FRESNO (+14.5),14.5,1.4762,4600454174,0,False
 17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Boise State Broncos (-11.5),11.5,2.15,4600454175,0,False
 17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,FRESNO (+11.5),11.5,1.6451,4600454176,0,False
-17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Boise State Broncos (-16.5),16.5,2.75,4600454177,0,False
-17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,FRESNO (+16.5),16.5,1.4,4600454178,0,False
+17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Boise State Broncos (-16.5),16.5,2.85,4600454177,0,False
+17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,FRESNO (+16.5),16.5,1.3847,4600454178,0,False
 17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Boise State Broncos (-8.5),8.5,1.8334,4600454179,0,True
 17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,FRESNO (+8.5),8.5,1.8334,4600454180,0,True
 17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Boise State Broncos (-4.5),4.5,1.5264,4600362153,0,False
@@ -557,50 +293,50 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,FRESNO (+17.5),17.5,1.3334,4600982880,0,False
 17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Boise State Broncos (-5.5),5.5,1.5556,4598005227,0,False
 17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,FRESNO (+5.5),5.5,2.3,4598005228,0,False
-17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Boise State Broncos (-7.5),7.5,1.7693,4596559480,0,False
-17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,FRESNO (+7.5),7.5,1.9091,4596559481,0,False
-17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 42.5,42.5,2.7,4600454144,0,False
-17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 40.5,40.5,1.3125,4600454145,0,False
-17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 40.5,40.5,3.2,4600454146,0,False
-17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 58.5,58.5,1.2667,4600454131,0,False
+17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Boise State Broncos (-7.5),7.5,1.7408,4596559480,0,False
+17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,FRESNO (+7.5),7.5,1.9524,4596559481,0,False
+17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 42.5,42.5,2.75,4600454144,0,False
+17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 40.5,40.5,1.3031,4600454145,0,False
+17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 40.5,40.5,3.25,4600454146,0,False
+17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 58.5,58.5,1.2858,4600454131,0,False
 17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 44.5,44.5,2.4,4600454140,0,False
-17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 47.5,47.5,1.7408,4600454107,0,False
-17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 47.5,47.5,1.9524,4600454108,0,False
+17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 47.5,47.5,1.7143,4600454107,0,False
+17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 47.5,47.5,2.0,4600454108,0,False
 17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 57.5,57.5,1.3125,4600454109,0,False
 17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 57.5,57.5,3.2,4600454110,0,False
-17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 55.5,55.5,1.3637,4600454111,0,False
-17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 55.5,55.5,2.9,4600454112,0,False
-17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 45.5,45.5,1.6451,4600454113,0,False
-17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 45.5,45.5,2.15,4600454114,0,False
-17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 39.5,39.5,1.2858,4600454115,0,False
-17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 39.5,39.5,3.4,4600454116,0,False
-17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 49.5,49.5,1.9524,4600454117,0,False
+17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 55.5,55.5,1.3847,4600454111,0,False
+17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 55.5,55.5,2.85,4600454112,0,False
+17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 45.5,45.5,1.625,4600454113,0,False
+17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 45.5,45.5,2.2,4600454114,0,False
+17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 39.5,39.5,1.2667,4600454115,0,False
+17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 39.5,39.5,3.5,4600454116,0,False
+17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 49.5,49.5,1.9091,4600454117,0,False
 17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 48.5,48.5,1.8334,4596559485,0,True
-17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 49.5,49.5,1.7408,4600454118,0,False
-17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 51.5,51.5,2.25,4600454120,0,False
-17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 50.5,50.5,1.6897,4600454121,0,False
-17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 50.5,50.5,2.05,4600454122,0,False
-17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 51.5,51.5,1.5715,4600454119,0,False
+17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 49.5,49.5,1.7693,4600454118,0,False
+17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 51.5,51.5,2.2,4600454120,0,False
+17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 50.5,50.5,1.7143,4600454121,0,False
+17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 50.5,50.5,2.0,4600454122,0,False
+17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 51.5,51.5,1.625,4600454119,0,False
 17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 53.5,53.5,2.5,4600454124,0,False
-17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 52.5,52.5,1.5264,4600454125,0,False
-17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 52.5,52.5,2.4,4600454126,0,False
+17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 52.5,52.5,1.5455,4600454125,0,False
+17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 52.5,52.5,2.35,4600454126,0,False
 17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 53.5,53.5,1.5,4600454123,0,False
-17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 54.5,54.5,2.65,4600454128,0,False
-17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 54.5,54.5,1.4348,4600454127,0,False
-17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 56.5,56.5,3.1,4600454130,0,False
-17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 56.5,56.5,1.3334,4600454129,0,False
-17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 58.5,58.5,3.5,4600454132,0,False
-17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 38.5,38.5,1.2667,4600454133,0,False
-17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 38.5,38.5,3.5,4600454134,0,False
-17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 41.5,41.5,1.3847,4600454135,0,False
-17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 41.5,41.5,2.85,4600454136,0,False
-17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 43.5,43.5,1.4546,4600454137,0,False
-17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 43.5,43.5,2.6,4600454138,0,False
+17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 54.5,54.5,2.6,4600454128,0,False
+17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 54.5,54.5,1.4546,4600454127,0,False
+17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 56.5,56.5,3.0,4600454130,0,False
+17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 56.5,56.5,1.3572,4600454129,0,False
+17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 58.5,58.5,3.4,4600454132,0,False
+17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 38.5,38.5,1.25,4600454133,0,False
+17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 38.5,38.5,3.7,4600454134,0,False
+17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 41.5,41.5,1.3637,4600454135,0,False
+17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 41.5,41.5,2.9,4600454136,0,False
+17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 43.5,43.5,1.4348,4600454137,0,False
+17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 43.5,43.5,2.65,4600454138,0,False
 17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 44.5,44.5,1.5264,4600454139,0,False
 17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 48.5,48.5,1.8334,4596559484,0,True
-17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 46.5,46.5,1.6667,4600454141,0,False
-17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 46.5,46.5,2.1,4600454142,0,False
-17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 42.5,42.5,1.4167,4600454143,0,False
+17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 46.5,46.5,1.6451,4600454141,0,False
+17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 46.5,46.5,2.15,4600454142,0,False
+17724271,FRESNO vs. Boise State Broncos,2026-10-11T02:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 42.5,42.5,1.4,4600454143,0,False
 17764172,Middle Tennessee Blue Raiders vs. DEL Blue Hens,2026-10-13T23:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,DEL Blue Hens,,1.7693,4623261171,0,False
 17764172,Middle Tennessee Blue Raiders vs. DEL Blue Hens,2026-10-13T23:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Middle Tennessee Blue Raiders,,1.9091,4623261172,0,False
 17764172,Middle Tennessee Blue Raiders vs. DEL Blue Hens,2026-10-13T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Middle Tennessee Blue Raiders (+1.5),1.5,1.8334,4623261208,0,True

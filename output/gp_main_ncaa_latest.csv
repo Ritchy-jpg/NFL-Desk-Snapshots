@@ -43,8 +43,8 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17783360,Texas State Bobcats vs. COLORADO,2026-10-16T00:00:00Z,total,Total (prolongations incluses),225,70803,1775343666,68.5,4633770191,Moins de 68.5,68.5,1.8334,0,True
 17794098,Tulane Green Wave vs. Memphis Tigers,2026-10-16T23:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1774742222,,4632249198,Tulane Green Wave,,2.8,0,False
 17794098,Tulane Green Wave vs. Memphis Tigers,2026-10-16T23:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1774742222,,4632249199,Memphis Tigers,,1.3637,0,False
-17794098,Tulane Green Wave vs. Memphis Tigers,2026-10-16T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774742223,+7.0,4632249200,Tulane Green Wave (+7.0),+7.0,1.8334,0,True
-17794098,Tulane Green Wave vs. Memphis Tigers,2026-10-16T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774742223,+7.0,4632249201,Memphis Tigers (-7.0),+7.0,1.8334,0,True
+17794098,Tulane Green Wave vs. Memphis Tigers,2026-10-16T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774742223,+7.0,4632249200,Tulane Green Wave (+7.0),+7.0,1.8,0,True
+17794098,Tulane Green Wave vs. Memphis Tigers,2026-10-16T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774742223,+7.0,4632249201,Memphis Tigers (-7.0),+7.0,1.8696,0,True
 17794098,Tulane Green Wave vs. Memphis Tigers,2026-10-16T23:30:00Z,total,Total (prolongations incluses),225,70803,1774742221,53.5,4632249196,Moins de 53.5,53.5,1.8334,0,True
 17794098,Tulane Green Wave vs. Memphis Tigers,2026-10-16T23:30:00Z,total,Total (prolongations incluses),225,70803,1774742221,53.5,4632249197,Plus de 53.5,53.5,1.8334,0,True
 17794096,Coastal Carolina vs. Appalachian State Mountaineers,2026-10-17T00:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1774742277,,4632249307,Appalachian State Mountaineers,,1.7693,0,False
@@ -71,10 +71,10 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17803705,Boston College Eagles vs. Pittsburgh Panthers,2026-10-17T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,1774918548,+6.5,4632665370,Pittsburgh Panthers (-6.5),+6.5,1.8696,0,True
 17803705,Boston College Eagles vs. Pittsburgh Panthers,2026-10-17T16:00:00Z,total,Total (prolongations incluses),225,70803,1775263511,44.5,4633592304,Moins de 44.5,44.5,1.7693,0,True
 17803705,Boston College Eagles vs. Pittsburgh Panthers,2026-10-17T16:00:00Z,total,Total (prolongations incluses),225,70803,1775263511,44.5,4633592303,Plus de 44.5,44.5,1.9091,0,True
-18005370,Bowling Green Falcons vs. Ball State Cardinals,2026-10-17T16:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1774863985,,4632538629,Bowling Green Falcons,,1.3125,0,False
-18005370,Bowling Green Falcons vs. Ball State Cardinals,2026-10-17T16:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1774863985,,4632538630,Ball State Cardinals,,3.05,0,False
-18005370,Bowling Green Falcons vs. Ball State Cardinals,2026-10-17T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,1774868104,-7.5,4632548413,Bowling Green Falcons (-7.5),-7.5,1.8696,0,True
-18005370,Bowling Green Falcons vs. Ball State Cardinals,2026-10-17T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,1774868104,-7.5,4632548414,Ball State Cardinals (+7.5),-7.5,1.8,0,True
+18005370,Bowling Green Falcons vs. Ball State Cardinals,2026-10-17T16:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1774863985,,4632538629,Bowling Green Falcons,,1.3334,0,False
+18005370,Bowling Green Falcons vs. Ball State Cardinals,2026-10-17T16:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1774863985,,4632538630,Ball State Cardinals,,2.95,0,False
+18005370,Bowling Green Falcons vs. Ball State Cardinals,2026-10-17T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,1774883908,-7.0,4632585726,Bowling Green Falcons (-7.0),-7.0,1.8334,0,True
+18005370,Bowling Green Falcons vs. Ball State Cardinals,2026-10-17T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,1774883908,-7.0,4632585727,Ball State Cardinals (+7.0),-7.0,1.8334,0,True
 18005370,Bowling Green Falcons vs. Ball State Cardinals,2026-10-17T16:00:00Z,total,Total (prolongations incluses),225,70803,1774863974,44.5,4632538608,Plus de 44.5,44.5,1.8334,0,True
 18005370,Bowling Green Falcons vs. Ball State Cardinals,2026-10-17T16:00:00Z,total,Total (prolongations incluses),225,70803,1774863974,44.5,4632538607,Moins de 44.5,44.5,1.8334,0,True
 16634498,Indiana Hoosiers vs. Ohio State Buckeyes,2026-10-17T16:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1691482869,,4372299102,Ohio State Buckeyes,,1.5264,0,False
@@ -131,10 +131,10 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17803698,Maryland Terrapins vs. Rutgers Scarlet Knights,2026-10-17T16:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774786428,-4.5,4632352287,Rutgers Scarlet Knights (+4.5),-4.5,1.8334,0,True
 17803698,Maryland Terrapins vs. Rutgers Scarlet Knights,2026-10-17T16:30:00Z,total,Total (prolongations incluses),225,70803,1774786430,58.5,4632352291,Plus de 58.5,58.5,1.8334,0,True
 17803698,Maryland Terrapins vs. Rutgers Scarlet Knights,2026-10-17T16:30:00Z,total,Total (prolongations incluses),225,70803,1774786430,58.5,4632352292,Moins de 58.5,58.5,1.8334,0,True
-18006675,Buffalo Bulls vs. UMass Minutemen,2026-10-17T17:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1775002080,,4632956592,UMass Minutemen,,2.25,0,False
-18006675,Buffalo Bulls vs. UMass Minutemen,2026-10-17T17:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1775002080,,4632956593,Buffalo Bulls,,1.5556,0,False
-18006675,Buffalo Bulls vs. UMass Minutemen,2026-10-17T17:00:00Z,spread,Handicap (inclus prolongations),223,70799,1775267823,-3.0,4633602258,Buffalo Bulls (-3.0),-3.0,1.7693,0,True
-18006675,Buffalo Bulls vs. UMass Minutemen,2026-10-17T17:00:00Z,spread,Handicap (inclus prolongations),223,70799,1775267823,-3.0,4633602259,UMass Minutemen (+3.0),-3.0,1.9091,0,True
+18006675,Buffalo Bulls vs. UMass Minutemen,2026-10-17T17:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1775002080,,4632956592,UMass Minutemen,,2.3,0,False
+18006675,Buffalo Bulls vs. UMass Minutemen,2026-10-17T17:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1775002080,,4632956593,Buffalo Bulls,,1.5264,0,False
+18006675,Buffalo Bulls vs. UMass Minutemen,2026-10-17T17:00:00Z,spread,Handicap (inclus prolongations),223,70799,1775004871,-3.5,4632963024,UMass Minutemen (+3.5),-3.5,1.7693,0,True
+18006675,Buffalo Bulls vs. UMass Minutemen,2026-10-17T17:00:00Z,spread,Handicap (inclus prolongations),223,70799,1775004871,-3.5,4632963023,Buffalo Bulls (-3.5),-3.5,1.9091,0,True
 18006675,Buffalo Bulls vs. UMass Minutemen,2026-10-17T17:00:00Z,total,Total (prolongations incluses),225,70803,1775432429,42.5,4634063568,Moins de 42.5,42.5,1.8696,0,True
 18006675,Buffalo Bulls vs. UMass Minutemen,2026-10-17T17:00:00Z,total,Total (prolongations incluses),225,70803,1775432429,42.5,4634063569,Plus de 42.5,42.5,1.8,0,True
 18005340,Temple Owls vs. Charlotte 49ers,2026-10-17T17:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1774968520,,4632877960,Charlotte 49ers,,7.75,0,False
@@ -205,8 +205,8 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17803690,Texas Tech Red Raiders vs. Arizona State Sun Devils,2026-10-17T19:30:00Z,total,Total (prolongations incluses),225,70803,1775184141,48.5,4633392010,Plus de 48.5,48.5,1.8,0,True
 17803697,Virginia Tech Hokies vs. Georgia Tech,2026-10-17T19:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1774789146,,4632358741,Georgia Tech,,3.6,0,False
 17803697,Virginia Tech Hokies vs. Georgia Tech,2026-10-17T19:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1774789146,,4632358742,Virginia Tech Hokies,,1.2353,0,False
-17803697,Virginia Tech Hokies vs. Georgia Tech,2026-10-17T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774972124,-9.5,4632886321,Virginia Tech Hokies (-9.5),-9.5,1.8,0,True
-17803697,Virginia Tech Hokies vs. Georgia Tech,2026-10-17T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774972124,-9.5,4632886322,Georgia Tech (+9.5),-9.5,1.8696,0,True
+17803697,Virginia Tech Hokies vs. Georgia Tech,2026-10-17T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774789148,-10.0,4632358745,Georgia Tech (+10.0),-10.0,1.8334,0,True
+17803697,Virginia Tech Hokies vs. Georgia Tech,2026-10-17T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774789148,-10.0,4632358746,Virginia Tech Hokies (-10.0),-10.0,1.8334,0,True
 17803697,Virginia Tech Hokies vs. Georgia Tech,2026-10-17T19:30:00Z,total,Total (prolongations incluses),225,70803,1774789147,55.5,4632358744,Moins de 55.5,55.5,1.7693,0,True
 17803697,Virginia Tech Hokies vs. Georgia Tech,2026-10-17T19:30:00Z,total,Total (prolongations incluses),225,70803,1774789147,55.5,4632358743,Plus de 55.5,55.5,1.9091,0,True
 18006651,Wyoming Cowboys vs. Northern Illinois Huskies,2026-10-17T19:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1775002376,,4632957275,Northern Illinois Huskies,,3.2,0,False
@@ -261,8 +261,8 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 18006704,Southern Miss Golden Eagles vs. Arkansas St Red Wolves,2026-10-17T23:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1775009004,,4632972333,Arkansas St Red Wolves,,1.3125,0,False
 18006704,Southern Miss Golden Eagles vs. Arkansas St Red Wolves,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,1775009003,+7.0,4632972330,Arkansas St Red Wolves (-7.0),+7.0,1.8334,0,True
 18006704,Southern Miss Golden Eagles vs. Arkansas St Red Wolves,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,1775009003,+7.0,4632972331,Southern Miss Golden Eagles (+7.0),+7.0,1.8334,0,True
-18006704,Southern Miss Golden Eagles vs. Arkansas St Red Wolves,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,1775281451,61.5,4633633219,Plus de 61.5,61.5,1.8334,0,True
-18006704,Southern Miss Golden Eagles vs. Arkansas St Red Wolves,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,1775281451,61.5,4633633220,Moins de 61.5,61.5,1.8334,0,True
+18006704,Southern Miss Golden Eagles vs. Arkansas St Red Wolves,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,1775281451,61.5,4633633219,Plus de 61.5,61.5,1.8696,0,True
+18006704,Southern Miss Golden Eagles vs. Arkansas St Red Wolves,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,1775281451,61.5,4633633220,Moins de 61.5,61.5,1.8,0,True
 17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1774790487,,4632362270,Vanderbilt Commodores,,1.4,0,False
 17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1774790487,,4632362271,Arkansas Razorbacks,,2.65,0,False
 17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,1775262466,-6.0,4633589730,Arkansas Razorbacks (+6.0),-6.0,1.8334,0,True
@@ -331,8 +331,8 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17803689,Colorado Buffaloes vs. Utah Utes,2026-10-18T02:15:00Z,total,Total (prolongations incluses),225,70803,1775605788,48.5,4634603391,Plus de 48.5,48.5,1.8,0,True
 17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1774810205,,4632410840,California Golden Bears,,3.6,0,False
 17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1774810205,,4632410841,Wake Forest Demon Deacons,,1.2353,0,False
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1775196426,+9.5,4633420472,California Golden Bears (+9.5),+9.5,1.8334,0,True
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1775196426,+9.5,4633420471,Wake Forest Demon Deacons (-9.5),+9.5,1.8334,0,True
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1776379221,+10.0,4637179612,Wake Forest Demon Deacons (-10.0),+10.0,1.8334,0,True
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1776379221,+10.0,4637179613,California Golden Bears (+10.0),+10.0,1.8334,0,True
 17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1774810206,53.5,4632410842,Moins de 53.5,53.5,1.8334,0,True
 17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1774810206,53.5,4632410843,Plus de 53.5,53.5,1.8334,0,True
 18005378,Hawaii Rainbow Warriors vs. NOUVEAU MEXIQUE,2026-10-18T02:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1775000597,,4632953166,NOUVEAU MEXIQUE,,1.125,0,False

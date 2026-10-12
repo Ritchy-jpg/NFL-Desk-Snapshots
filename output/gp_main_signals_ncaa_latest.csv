@@ -1,5 +1,11 @@
 captured_at,event_id,match,start_date,market,selection,side,signal,old_line,new_line,old_price,new_price,old_status,new_status,old_is_main_bet,new_is_main_bet
-2026-10-12T18:16:00.173920+00:00,17218303,Duke Blue Devils vs. North Carolina Tar Heels,2026-10-17T19:30:00Z,spread,Duke Blue Devils (-3.5),Duke Blue Devils,MAIN_PRICE_MOVE,-3.5,-3.5,1.8334,1.9524,0,0.0,1,1.0
-2026-10-12T18:16:00.173920+00:00,17218303,Duke Blue Devils vs. North Carolina Tar Heels,2026-10-17T19:30:00Z,spread,North Carolina Tar Heels (+3.5),North Carolina Tar Heels,MAIN_PRICE_MOVE,3.5,3.5,1.8334,1.7408,0,0.0,1,1.0
-2026-10-12T18:16:00.173920+00:00,17280720,Michigan Wolverines vs. Penn St Nittany Lions,2026-10-17T19:30:00Z,spread,Michigan Wolverines (-5.5),Michigan Wolverines,REMOVED_MAIN,-5.5,,1.8,,0,,1,
-2026-10-12T18:16:00.173920+00:00,17280720,Michigan Wolverines vs. Penn St Nittany Lions,2026-10-17T19:30:00Z,spread,Penn St Nittany Lions (+5.5),Penn St Nittany Lions,REMOVED_MAIN,5.5,,1.8696,,0,,1,
+2026-10-12T18:52:56.737943+00:00,17783359,Old Dominion Monarchs vs. Georgia Southern Eagles,2026-10-15T23:30:00Z,total,Moins de 47.5,under,MAIN_SWITCH,47.5,47.5,1.7693,1.7693,0,0.0,0,1.0
+2026-10-12T18:52:56.737943+00:00,17783359,Old Dominion Monarchs vs. Georgia Southern Eagles,2026-10-15T23:30:00Z,total,Plus de 47.5,over,MAIN_SWITCH,47.5,47.5,1.9091,1.9091,0,0.0,0,1.0
+2026-10-12T18:52:56.737943+00:00,17783359,Old Dominion Monarchs vs. Georgia Southern Eagles,2026-10-15T23:30:00Z,total,Moins de 46.5,under,MAIN_SWITCH,46.5,46.5,1.9091,1.9091,0,0.0,1,0.0
+2026-10-12T18:52:56.737943+00:00,17783359,Old Dominion Monarchs vs. Georgia Southern Eagles,2026-10-15T23:30:00Z,total,Plus de 46.5,over,MAIN_SWITCH,46.5,46.5,1.7693,1.7693,0,0.0,1,0.0
+2026-10-12T18:52:56.737943+00:00,17803686,Syracuse Orange vs. Louisville Cardinals,2026-10-17T23:30:00Z,spread,Syracuse Orange (+14.5),Syracuse Orange,MAIN_PRICE_MOVE,14.5,14.5,1.8696,1.8334,0,0.0,1,1.0
+2026-10-12T18:52:56.737943+00:00,17803686,Syracuse Orange vs. Louisville Cardinals,2026-10-17T23:30:00Z,spread,Louisville Cardinals (-14.5),Louisville Cardinals,MAIN_PRICE_MOVE,-14.5,-14.5,1.8,1.8334,0,0.0,1,1.0
+2026-10-12T18:52:56.737943+00:00,17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,spread,Wisconsin Badgers (+3.5),Wisconsin Badgers,REMOVED_MAIN,3.5,,1.7143,,0,,1,
+2026-10-12T18:52:56.737943+00:00,17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,spread,UCLA Bruins (-3.5),UCLA Bruins,REMOVED_MAIN,-3.5,,2.0,,0,,1,
+2026-10-12T18:52:56.737943+00:00,17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Plus de 46.5,over,REMOVED_MAIN,46.5,,1.8334,,0,,1,
+2026-10-12T18:52:56.737943+00:00,17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Moins de 46.5,under,REMOVED_MAIN,46.5,,1.8334,,0,,1,

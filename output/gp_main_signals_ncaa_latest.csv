@@ -1,7 +1,9 @@
 captured_at,event_id,match,start_date,market,selection,side,signal,old_line,new_line,old_price,new_price,old_status,new_status,old_is_main_bet,new_is_main_bet
-2026-10-13T15:18:34.322326+00:00,17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,spread,Jacksonville State Gamecocks (-3.5),Jacksonville State Gamecocks,MAIN_SWITCH,-3.5,-3.5,1.9524,1.9524,0,0.0,0,1.0
-2026-10-13T15:18:34.322326+00:00,17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,spread,FIU Panthers (+3.5),FIU Panthers,MAIN_SWITCH,3.5,3.5,1.7408,1.7408,0,0.0,0,1.0
-2026-10-13T15:18:34.322326+00:00,17794098,Tulane Green Wave vs. Memphis Tigers,2026-10-16T23:30:00Z,total,Moins de 54.5,under,MAIN_PRICE_MOVE,54.5,54.5,1.8,1.8334,0,0.0,1,1.0
-2026-10-13T15:18:34.322326+00:00,17794098,Tulane Green Wave vs. Memphis Tigers,2026-10-16T23:30:00Z,total,Plus de 54.5,over,MAIN_PRICE_MOVE,54.5,54.5,1.8696,1.8334,0,0.0,1,1.0
-2026-10-13T15:18:34.322326+00:00,18006124,DAKOTA DU NORD ETAT DU BISON vs. Nevada Wolf Pack,2026-10-17T23:00:00Z,total,Plus de 43.5,over,MAIN_SWITCH,43.5,43.5,1.7693,1.7693,0,0.0,0,1.0
-2026-10-13T15:18:34.322326+00:00,18006124,DAKOTA DU NORD ETAT DU BISON vs. Nevada Wolf Pack,2026-10-17T23:00:00Z,total,Moins de 43.5,under,MAIN_SWITCH,43.5,43.5,1.9091,1.9091,0,0.0,0,1.0
+2026-10-13T15:50:42.060060+00:00,18005370,Bowling Green Falcons vs. Ball State Cardinals,2026-10-17T16:00:00Z,spread,Bowling Green Falcons (-6.5),Bowling Green Falcons,MAIN_PRICE_MOVE,-6.5,-6.5,1.7693,1.8,0,0.0,1,1.0
+2026-10-13T15:50:42.060060+00:00,18005370,Bowling Green Falcons vs. Ball State Cardinals,2026-10-17T16:00:00Z,spread,Ball State Cardinals (+6.5),Ball State Cardinals,MAIN_PRICE_MOVE,6.5,6.5,1.9091,1.8696,0,0.0,1,1.0
+2026-10-13T15:50:42.060060+00:00,18006286,Miami Redhawks vs. Akron Zips,2026-10-17T19:30:00Z,total,Plus de 46.5,over,MAIN_PRICE_MOVE,46.5,46.5,1.8334,1.8696,0,0.0,1,1.0
+2026-10-13T15:50:42.060060+00:00,18006286,Miami Redhawks vs. Akron Zips,2026-10-17T19:30:00Z,total,Moins de 46.5,under,MAIN_PRICE_MOVE,46.5,46.5,1.8334,1.8,0,0.0,1,1.0
+2026-10-13T15:50:42.060060+00:00,17803701,Ole Miss Rebels vs. Missouri Tigers,2026-10-17T19:30:00Z,total,Plus de 59.5,over,REMOVED_MAIN,59.5,,1.8334,,0,,1,
+2026-10-13T15:50:42.060060+00:00,17803701,Ole Miss Rebels vs. Missouri Tigers,2026-10-17T19:30:00Z,total,Moins de 59.5,under,REMOVED_MAIN,59.5,,1.8334,,0,,1,
+2026-10-13T15:50:42.060060+00:00,18005370,Bowling Green Falcons vs. Ball State Cardinals,2026-10-17T16:00:00Z,total,Moins de 45.5,under,REMOVED_MAIN,45.5,,1.8334,,0,,1,
+2026-10-13T15:50:42.060060+00:00,18005370,Bowling Green Falcons vs. Ball State Cardinals,2026-10-17T16:00:00Z,total,Plus de 45.5,over,REMOVED_MAIN,45.5,,1.8334,,0,,1,

@@ -1,6 +1,10 @@
 event_id,match,player,market,market_type_id,sport_market_id,child_market_id,odd_id,selection,line,price,odd_status,is_main_bet
 16552483,KC Chiefs vs. LA Chargers,Patrick Mahomes,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1778110643,4642234661,Patrick Mahomes (KC) Plus de 228.5,Patrick Mahomes (KC) Plus de 228.5,1.8,0,False
 16552483,KC Chiefs vs. LA Chargers,Patrick Mahomes,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1778110643,4642234662,Patrick Mahomes (KC) moins de 228.5,Patrick Mahomes (KC) moins de 228.5,1.8334,0,False
+16552483,KC Chiefs vs. LA Chargers,Patrick Mahomes,"Passes complétées, Joueur (prolongations incluses)",760,71921,1776326775,4637050981,Patrick Mahomes (KC) Plus de 19.5,Patrick Mahomes (KC) Plus de 19.5,1.7408,0,False
+16552483,KC Chiefs vs. LA Chargers,Patrick Mahomes,"Passes complétées, Joueur (prolongations incluses)",760,71921,1776326775,4637050982,Patrick Mahomes (KC) moins de 19.5,Patrick Mahomes (KC) moins de 19.5,1.9091,0,False
+16552483,KC Chiefs vs. LA Chargers,Patrick Mahomes,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1775512609,4634314588,Patrick Mahomes (KC) Plus de 1.5,Patrick Mahomes (KC) Plus de 1.5,1.8696,0,False
+16552483,KC Chiefs vs. LA Chargers,Patrick Mahomes,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1775512609,4634314589,Patrick Mahomes (KC) moins de 1.5,Patrick Mahomes (KC) moins de 1.5,1.7693,0,False
 16552483,KC Chiefs vs. LA Chargers,Kenneth Walker III,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1777212688,4639337121,Kenneth Walker III (KC) Plus de 83.5,Kenneth Walker III (KC) Plus de 83.5,1.8,0,False
 16552483,KC Chiefs vs. LA Chargers,Kenneth Walker III,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1777212688,4639337122,Kenneth Walker III (KC) moins de 83.5,Kenneth Walker III (KC) moins de 83.5,1.8334,0,False
 16552483,KC Chiefs vs. LA Chargers,Emmett Johnson,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1777161963,4639211282,Emmett Johnson (KC) Plus de 14.5,Emmett Johnson (KC) Plus de 14.5,1.8696,0,False
@@ -11,6 +15,12 @@ event_id,match,player,market,market_type_id,sport_market_id,child_market_id,odd_
 16552483,KC Chiefs vs. LA Chargers,Kenneth Walker III,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1777157477,4639200082,Kenneth Walker III (KC) moins de 20.5,Kenneth Walker III (KC) moins de 20.5,1.7693,0,False
 16552483,KC Chiefs vs. LA Chargers,Emmett Johnson,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1777181589,4639261488,Emmett Johnson (KC) Plus de 7.5,Emmett Johnson (KC) Plus de 7.5,1.8696,0,False
 16552483,KC Chiefs vs. LA Chargers,Emmett Johnson,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1777181589,4639261489,Emmett Johnson (KC) moins de 7.5,Emmett Johnson (KC) moins de 7.5,1.7693,0,False
+16552483,KC Chiefs vs. LA Chargers,Kenneth Walker III,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1777126348,4639054604,Kenneth Walker III (KC) Plus de 3.5,Kenneth Walker III (KC) Plus de 3.5,2.25,0,False
+16552483,KC Chiefs vs. LA Chargers,Kenneth Walker III,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1777126348,4639054605,Kenneth Walker III (KC) moins de 3.5,Kenneth Walker III (KC) moins de 3.5,1.5264,0,False
+16552483,KC Chiefs vs. LA Chargers,Emmett Johnson,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1775513582,4634316402,Emmett Johnson (KC) Plus de 1.5,Emmett Johnson (KC) Plus de 1.5,2.15,0,False
+16552483,KC Chiefs vs. LA Chargers,Emmett Johnson,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1775513582,4634316403,Emmett Johnson (KC) moins de 1.5,Emmett Johnson (KC) moins de 1.5,1.5715,0,False
+16552483,KC Chiefs vs. LA Chargers,Patrick Mahomes,Tentatives de passes du joueur Plus/Moins (Incl. Prolongations),2252,73702,1776326774,4637050979,Patrick Mahomes (KC) Plus de 31.5,Patrick Mahomes (KC) Plus de 31.5,1.9091,0,False
+16552483,KC Chiefs vs. LA Chargers,Patrick Mahomes,Tentatives de passes du joueur Plus/Moins (Incl. Prolongations),2252,73702,1776326774,4637050980,Patrick Mahomes (KC) moins de 31.5,Patrick Mahomes (KC) moins de 31.5,1.7408,0,False
 16552483,KC Chiefs vs. LA Chargers,Kenneth Walker III,Yards de course et de réception du joueur Plus/Moins (prolongations incluses),3317,73841,1777212693,4639337131,Kenneth Walker III (KC) Plus de 107.5,Kenneth Walker III (KC) Plus de 107.5,1.8,0,False
 16552483,KC Chiefs vs. LA Chargers,Kenneth Walker III,Yards de course et de réception du joueur Plus/Moins (prolongations incluses),3317,73841,1777212693,4639337132,Kenneth Walker III (KC) moins de 107.5,Kenneth Walker III (KC) moins de 107.5,1.8334,0,False
 16552483,KC Chiefs vs. LA Chargers,Emmett Johnson,Yards de course et de réception du joueur Plus/Moins (prolongations incluses),3317,73841,1777161965,4639211286,Emmett Johnson (KC) Plus de 24.5,Emmett Johnson (KC) Plus de 24.5,1.7693,0,False
@@ -27,97 +37,9 @@ event_id,match,player,market,market_type_id,sport_market_id,child_market_id,odd_
 16552483,KC Chiefs vs. LA Chargers,Emmett Johnson,Joueur tentative de gain par la course (prolongations incluses),2012,72303,1775513595,4634316429,Emmett Johnson (KC) moins de 3.5,Emmett Johnson (KC) moins de 3.5,2.15,0,False
 16552483,KC Chiefs vs. LA Chargers,Patrick Mahomes,Joueur tentative de gain par la course (prolongations incluses),2012,72303,1775512637,4634314644,Patrick Mahomes (KC) Plus de 2.5,Patrick Mahomes (KC) Plus de 2.5,1.5715,0,False
 16552483,KC Chiefs vs. LA Chargers,Patrick Mahomes,Joueur tentative de gain par la course (prolongations incluses),2012,72303,1775512637,4634314645,Patrick Mahomes (KC) moins de 2.5,Patrick Mahomes (KC) moins de 2.5,2.15,0,False
-16552483,KC Chiefs vs. LA Chargers,Kenneth Walker III,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1777126348,4639054604,Kenneth Walker III (KC) Plus de 3.5,Kenneth Walker III (KC) Plus de 3.5,2.25,0,False
-16552483,KC Chiefs vs. LA Chargers,Kenneth Walker III,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1777126348,4639054605,Kenneth Walker III (KC) moins de 3.5,Kenneth Walker III (KC) moins de 3.5,1.5264,0,False
-16552483,KC Chiefs vs. LA Chargers,Emmett Johnson,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1775513582,4634316402,Emmett Johnson (KC) Plus de 1.5,Emmett Johnson (KC) Plus de 1.5,2.15,0,False
-16552483,KC Chiefs vs. LA Chargers,Emmett Johnson,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1775513582,4634316403,Emmett Johnson (KC) moins de 1.5,Emmett Johnson (KC) moins de 1.5,1.5715,0,False
-16552483,KC Chiefs vs. LA Chargers,Patrick Mahomes,"Passes complétées, Joueur (prolongations incluses)",760,71921,1776326775,4637050981,Patrick Mahomes (KC) Plus de 19.5,Patrick Mahomes (KC) Plus de 19.5,1.7693,0,False
-16552483,KC Chiefs vs. LA Chargers,Patrick Mahomes,"Passes complétées, Joueur (prolongations incluses)",760,71921,1776326775,4637050982,Patrick Mahomes (KC) moins de 19.5,Patrick Mahomes (KC) moins de 19.5,1.8696,0,False
-16552483,KC Chiefs vs. LA Chargers,Patrick Mahomes,Tentatives de passes du joueur Plus/Moins (Incl. Prolongations),2252,73702,1776326774,4637050979,Patrick Mahomes (KC) Plus de 31.5,Patrick Mahomes (KC) Plus de 31.5,1.9091,0,False
-16552483,KC Chiefs vs. LA Chargers,Patrick Mahomes,Tentatives de passes du joueur Plus/Moins (Incl. Prolongations),2252,73702,1776326774,4637050980,Patrick Mahomes (KC) moins de 31.5,Patrick Mahomes (KC) moins de 31.5,1.7408,0,False
 16552483,KC Chiefs vs. LA Chargers,Kenneth Walker III,Joueuer Plus longue réception (prolongations incluses),2009,72300,1775513053,4634315422,Kenneth Walker III (KC) Plus de 11.5,Kenneth Walker III (KC) Plus de 11.5,1.8696,0,False
 16552483,KC Chiefs vs. LA Chargers,Kenneth Walker III,Joueuer Plus longue réception (prolongations incluses),2009,72300,1775513053,4634315423,Kenneth Walker III (KC) moins de 11.5,Kenneth Walker III (KC) moins de 11.5,1.7693,0,False
 16552483,KC Chiefs vs. LA Chargers,Emmett Johnson,Joueuer Plus longue réception (prolongations incluses),2009,72300,1777181590,4639261490,Emmett Johnson (KC) Plus de 6.5,Emmett Johnson (KC) Plus de 6.5,1.8,0,False
 16552483,KC Chiefs vs. LA Chargers,Emmett Johnson,Joueuer Plus longue réception (prolongations incluses),2009,72300,1777181590,4639261491,Emmett Johnson (KC) moins de 6.5,Emmett Johnson (KC) moins de 6.5,1.8334,0,False
-16552483,KC Chiefs vs. LA Chargers,Patrick Mahomes,Joueur Plus longue passe complétée (prolongations incluses),2001,72292,1775512613,4634314596,Patrick Mahomes (KC) Plus de 38.5,Patrick Mahomes (KC) Plus de 38.5,1.8334,0,False
-16552483,KC Chiefs vs. LA Chargers,Patrick Mahomes,Joueur Plus longue passe complétée (prolongations incluses),2001,72292,1775512613,4634314597,Patrick Mahomes (KC) moins de 38.5,Patrick Mahomes (KC) moins de 38.5,1.8,0,False
-16552483,KC Chiefs vs. LA Chargers,Patrick Mahomes,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1775512609,4634314588,Patrick Mahomes (KC) Plus de 1.5,Patrick Mahomes (KC) Plus de 1.5,1.8696,0,False
-16552483,KC Chiefs vs. LA Chargers,Patrick Mahomes,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1775512609,4634314589,Patrick Mahomes (KC) moins de 1.5,Patrick Mahomes (KC) moins de 1.5,1.7693,0,False
-16552483,KC Chiefs vs. LA Chargers,Kenneth Walker III,Total de Touchdowns du joueur (Incl. Prolongations) (Kenneth Walker III (KC)),2145,72900,1776531647,4637585138,1+,1+,1.5,0,False
-16552483,KC Chiefs vs. LA Chargers,Kenneth Walker III,Total de Touchdowns du joueur (Incl. Prolongations) (Kenneth Walker III (KC)),2145,72900,1776531647,4637585139,2+,2+,3.75,0,False
-16552483,KC Chiefs vs. LA Chargers,Kenneth Walker III,Total de Touchdowns du joueur (Incl. Prolongations) (Kenneth Walker III (KC)),2145,72900,1776531647,4637585140,3+,3+,15.0,0,False
-16552483,KC Chiefs vs. LA Chargers,Rashee Rice,Total de Touchdowns du joueur (Incl. Prolongations) (Rashee Rice (KC)),2145,72900,1776531323,4637584453,1+,1+,2.2,0,False
-16552483,KC Chiefs vs. LA Chargers,Rashee Rice,Total de Touchdowns du joueur (Incl. Prolongations) (Rashee Rice (KC)),2145,72900,1776531323,4637584454,2+,2+,9.0,0,False
-16552483,KC Chiefs vs. LA Chargers,Rashee Rice,Total de Touchdowns du joueur (Incl. Prolongations) (Rashee Rice (KC)),2145,72900,1776531323,4637584455,3+,3+,41.0,0,False
-16552483,KC Chiefs vs. LA Chargers,Travis Kelce,Total de Touchdowns du joueur (Incl. Prolongations) (Travis Kelce (KC)),2145,72900,1776531095,4637583912,2+,2+,10.0,0,False
-16552483,KC Chiefs vs. LA Chargers,Travis Kelce,Total de Touchdowns du joueur (Incl. Prolongations) (Travis Kelce (KC)),2145,72900,1776531095,4637583913,3+,3+,41.0,0,False
-16552483,KC Chiefs vs. LA Chargers,Travis Kelce,Total de Touchdowns du joueur (Incl. Prolongations) (Travis Kelce (KC)),2145,72900,1776531095,4637583911,1+,1+,2.3,0,False
-16552483,KC Chiefs vs. LA Chargers,Xavier Worthy,Total de Touchdowns du joueur (Incl. Prolongations) (Xavier Worthy (KC)),2145,72900,1776531326,4637584464,3+,3+,71.0,0,False
-16552483,KC Chiefs vs. LA Chargers,Xavier Worthy,Total de Touchdowns du joueur (Incl. Prolongations) (Xavier Worthy (KC)),2145,72900,1776531326,4637584462,1+,1+,2.8,0,False
-16552483,KC Chiefs vs. LA Chargers,Xavier Worthy,Total de Touchdowns du joueur (Incl. Prolongations) (Xavier Worthy (KC)),2145,72900,1776531326,4637584463,2+,2+,15.0,0,False
-16552483,KC Chiefs vs. LA Chargers,Omarion Hampton,Total de Touchdowns du joueur (Incl. Prolongations) (Omarion Hampton (LAC)),2145,72900,1776531644,4637585129,1+,1+,3.1,0,False
-16552483,KC Chiefs vs. LA Chargers,Omarion Hampton,Total de Touchdowns du joueur (Incl. Prolongations) (Omarion Hampton (LAC)),2145,72900,1776531644,4637585130,2+,2+,20.0,0,False
-16552483,KC Chiefs vs. LA Chargers,Omarion Hampton,Total de Touchdowns du joueur (Incl. Prolongations) (Omarion Hampton (LAC)),2145,72900,1776531644,4637585131,3+,3+,91.0,0,False
-16552483,KC Chiefs vs. LA Chargers,Ladd McConkey,Total de Touchdowns du joueur (Incl. Prolongations) (Ladd McConkey (LAC)),2145,72900,1776531327,4637584465,1+,1+,3.4,0,False
-16552483,KC Chiefs vs. LA Chargers,Ladd McConkey,Total de Touchdowns du joueur (Incl. Prolongations) (Ladd McConkey (LAC)),2145,72900,1776531327,4637584466,2+,2+,21.0,0,False
-16552483,KC Chiefs vs. LA Chargers,Ladd McConkey,Total de Touchdowns du joueur (Incl. Prolongations) (Ladd McConkey (LAC)),2145,72900,1776531327,4637584467,3+,3+,101.0,0,False
-16552483,KC Chiefs vs. LA Chargers,Emmett Johnson,Total de Touchdowns du joueur (Incl. Prolongations) (Emmett Johnson (KC)),2145,72900,1776531650,4637585147,1+,1+,4.25,0,False
-16552483,KC Chiefs vs. LA Chargers,Emmett Johnson,Total de Touchdowns du joueur (Incl. Prolongations) (Emmett Johnson (KC)),2145,72900,1776531650,4637585148,2+,2+,31.0,0,False
-16552483,KC Chiefs vs. LA Chargers,Emmett Johnson,Total de Touchdowns du joueur (Incl. Prolongations) (Emmett Johnson (KC)),2145,72900,1776531650,4637585149,3+,3+,101.0,0,False
-16552483,KC Chiefs vs. LA Chargers,Kimani Vidal,Total de Touchdowns du joueur (Incl. Prolongations) (Kimani Vidal (LAC)),2145,72900,1776531324,4637584456,1+,1+,4.25,0,False
-16552483,KC Chiefs vs. LA Chargers,Kimani Vidal,Total de Touchdowns du joueur (Incl. Prolongations) (Kimani Vidal (LAC)),2145,72900,1776531324,4637584457,2+,2+,31.0,0,False
-16552483,KC Chiefs vs. LA Chargers,Kimani Vidal,Total de Touchdowns du joueur (Incl. Prolongations) (Kimani Vidal (LAC)),2145,72900,1776531324,4637584458,3+,3+,101.0,0,False
-16552483,KC Chiefs vs. LA Chargers,Tre Harris,Total de Touchdowns du joueur (Incl. Prolongations) (Tre Harris (LAC)),2145,72900,1776531645,4637585132,1+,1+,4.25,0,False
-16552483,KC Chiefs vs. LA Chargers,Tre Harris,Total de Touchdowns du joueur (Incl. Prolongations) (Tre Harris (LAC)),2145,72900,1776531645,4637585133,2+,2+,31.0,0,False
-16552483,KC Chiefs vs. LA Chargers,Tre Harris,Total de Touchdowns du joueur (Incl. Prolongations) (Tre Harris (LAC)),2145,72900,1776531645,4637585134,3+,3+,101.0,0,False
-16552483,KC Chiefs vs. LA Chargers,Patrick Mahomes,Total de Touchdowns du joueur (Incl. Prolongations) (Patrick Mahomes (KC)),2145,72900,1776531096,4637583914,1+,1+,4.5,0,False
-16552483,KC Chiefs vs. LA Chargers,Patrick Mahomes,Total de Touchdowns du joueur (Incl. Prolongations) (Patrick Mahomes (KC)),2145,72900,1776531096,4637583915,2+,2+,36.0,0,False
-16552483,KC Chiefs vs. LA Chargers,Patrick Mahomes,Total de Touchdowns du joueur (Incl. Prolongations) (Patrick Mahomes (KC)),2145,72900,1776531096,4637583916,3+,3+,151.0,0,False
-16552483,KC Chiefs vs. LA Chargers,Brashard Smith,Total de Touchdowns du joueur (Incl. Prolongations) (Brashard Smith (KC)),2145,72900,1776531330,4637584474,1+,1+,4.5,0,False
-16552483,KC Chiefs vs. LA Chargers,Brashard Smith,Total de Touchdowns du joueur (Incl. Prolongations) (Brashard Smith (KC)),2145,72900,1776531330,4637584475,2+,2+,36.0,0,False
-16552483,KC Chiefs vs. LA Chargers,Brashard Smith,Total de Touchdowns du joueur (Incl. Prolongations) (Brashard Smith (KC)),2145,72900,1776531330,4637584476,3+,3+,151.0,0,False
-16552483,KC Chiefs vs. LA Chargers,Oronde Gadsden,Total de Touchdowns du joueur (Incl. Prolongations) (Oronde Gadsden (LAC)),2145,72900,1776531331,4637584477,1+,1+,4.5,0,False
-16552483,KC Chiefs vs. LA Chargers,Oronde Gadsden,Total de Touchdowns du joueur (Incl. Prolongations) (Oronde Gadsden (LAC)),2145,72900,1776531331,4637584478,2+,2+,36.0,0,False
-16552483,KC Chiefs vs. LA Chargers,Oronde Gadsden,Total de Touchdowns du joueur (Incl. Prolongations) (Oronde Gadsden (LAC)),2145,72900,1776531331,4637584479,3+,3+,151.0,0,False
-16552483,KC Chiefs vs. LA Chargers,Keaton Mitchell,Total de Touchdowns du joueur (Incl. Prolongations) (Keaton Mitchell (LAC)),2145,72900,1776531649,4637585144,1+,1+,4.5,0,False
-16552483,KC Chiefs vs. LA Chargers,Keaton Mitchell,Total de Touchdowns du joueur (Incl. Prolongations) (Keaton Mitchell (LAC)),2145,72900,1776531649,4637585145,2+,2+,36.0,0,False
-16552483,KC Chiefs vs. LA Chargers,Keaton Mitchell,Total de Touchdowns du joueur (Incl. Prolongations) (Keaton Mitchell (LAC)),2145,72900,1776531649,4637585146,3+,3+,151.0,0,False
-16552483,KC Chiefs vs. LA Chargers,Marquez Valdes-Scantling,Total de Touchdowns du joueur (Incl. Prolongations) (Marquez Valdes-Scantling (LAC)),2145,72900,1776532487,4637587057,1+,1+,4.5,0,False
-16552483,KC Chiefs vs. LA Chargers,Marquez Valdes-Scantling,Total de Touchdowns du joueur (Incl. Prolongations) (Marquez Valdes-Scantling (LAC)),2145,72900,1776532487,4637587058,2+,2+,36.0,0,False
-16552483,KC Chiefs vs. LA Chargers,Marquez Valdes-Scantling,Total de Touchdowns du joueur (Incl. Prolongations) (Marquez Valdes-Scantling (LAC)),2145,72900,1776532487,4637587059,3+,3+,151.0,0,False
-16552483,KC Chiefs vs. LA Chargers,Justin Herbert,Total de Touchdowns du joueur (Incl. Prolongations) (Justin Herbert (LAC)),2145,72900,1776531097,4637583917,1+,1+,6.0,0,False
-16552483,KC Chiefs vs. LA Chargers,Justin Herbert,Total de Touchdowns du joueur (Incl. Prolongations) (Justin Herbert (LAC)),2145,72900,1776531097,4637583918,2+,2+,61.0,0,False
-16552483,KC Chiefs vs. LA Chargers,Justin Herbert,Total de Touchdowns du joueur (Incl. Prolongations) (Justin Herbert (LAC)),2145,72900,1776531097,4637583919,3+,3+,201.0,0,False
-16552483,KC Chiefs vs. LA Chargers,Charlie Kolar,Total de Touchdowns du joueur (Incl. Prolongations) (Charlie Kolar (LAC)),2145,72900,1776531648,4637585141,1+,1+,6.0,0,False
-16552483,KC Chiefs vs. LA Chargers,Charlie Kolar,Total de Touchdowns du joueur (Incl. Prolongations) (Charlie Kolar (LAC)),2145,72900,1776531648,4637585142,2+,2+,61.0,0,False
-16552483,KC Chiefs vs. LA Chargers,Charlie Kolar,Total de Touchdowns du joueur (Incl. Prolongations) (Charlie Kolar (LAC)),2145,72900,1776531648,4637585143,3+,3+,201.0,0,False
-16552483,KC Chiefs vs. LA Chargers,Noah Gray,Total de Touchdowns du joueur (Incl. Prolongations) (Noah Gray (KC)),2145,72900,1776531098,4637583920,1+,1+,8.0,0,False
-16552483,KC Chiefs vs. LA Chargers,Noah Gray,Total de Touchdowns du joueur (Incl. Prolongations) (Noah Gray (KC)),2145,72900,1776531098,4637583921,2+,2+,101.0,0,False
-16552483,KC Chiefs vs. LA Chargers,Noah Gray,Total de Touchdowns du joueur (Incl. Prolongations) (Noah Gray (KC)),2145,72900,1776531098,4637583922,3+,3+,251.0,0,False
-16552483,KC Chiefs vs. LA Chargers,Derius Davis,Total de Touchdowns du joueur (Incl. Prolongations) (Derius Davis (LAC)),2145,72900,1776531100,4637583928,3+,3+,251.0,0,False
-16552483,KC Chiefs vs. LA Chargers,Derius Davis,Total de Touchdowns du joueur (Incl. Prolongations) (Derius Davis (LAC)),2145,72900,1776531100,4637583926,1+,1+,8.5,0,False
-16552483,KC Chiefs vs. LA Chargers,Derius Davis,Total de Touchdowns du joueur (Incl. Prolongations) (Derius Davis (LAC)),2145,72900,1776531100,4637583927,2+,2+,101.0,0,False
-16552483,KC Chiefs vs. LA Chargers,Jalen Royals,Total de Touchdowns du joueur (Incl. Prolongations) (Jalen Royals (KC)),2145,72900,1776531332,4637584480,1+,1+,9.0,0,False
-16552483,KC Chiefs vs. LA Chargers,Jalen Royals,Total de Touchdowns du joueur (Incl. Prolongations) (Jalen Royals (KC)),2145,72900,1776531332,4637584481,2+,2+,101.0,0,False
-16552483,KC Chiefs vs. LA Chargers,Jalen Royals,Total de Touchdowns du joueur (Incl. Prolongations) (Jalen Royals (KC)),2145,72900,1776531332,4637584482,3+,3+,251.0,0,False
-16552483,KC Chiefs vs. LA Chargers,Nikko Remigio,Total de Touchdowns du joueur (Incl. Prolongations) (Nikko Remigio (KC)),2145,72900,1776531099,4637583923,1+,1+,20.0,0,False
-16552483,KC Chiefs vs. LA Chargers,Nikko Remigio,Total de Touchdowns du joueur (Incl. Prolongations) (Nikko Remigio (KC)),2145,72900,1776531099,4637583924,2+,2+,251.0,0,False
-16552483,KC Chiefs vs. LA Chargers,Nikko Remigio,Total de Touchdowns du joueur (Incl. Prolongations) (Nikko Remigio (KC)),2145,72900,1776531099,4637583925,3+,3+,251.0,0,False
-16552483,KC Chiefs vs. LA Chargers,Jared Wiley,Total de Touchdowns du joueur (Incl. Prolongations) (Jared Wiley (KC)),2145,72900,1776531325,4637584459,1+,1+,20.0,0,False
-16552483,KC Chiefs vs. LA Chargers,Jared Wiley,Total de Touchdowns du joueur (Incl. Prolongations) (Jared Wiley (KC)),2145,72900,1776531325,4637584460,2+,2+,251.0,0,False
-16552483,KC Chiefs vs. LA Chargers,Jared Wiley,Total de Touchdowns du joueur (Incl. Prolongations) (Jared Wiley (KC)),2145,72900,1776531325,4637584461,3+,3+,251.0,0,False
-16552483,KC Chiefs vs. LA Chargers,Jake Briningstool,Total de Touchdowns du joueur (Incl. Prolongations) (Jake Briningstool (KC)),2145,72900,1776531329,4637584472,2+,2+,251.0,0,False
-16552483,KC Chiefs vs. LA Chargers,Jake Briningstool,Total de Touchdowns du joueur (Incl. Prolongations) (Jake Briningstool (KC)),2145,72900,1776531329,4637584473,3+,3+,251.0,0,False
-16552483,KC Chiefs vs. LA Chargers,Jake Briningstool,Total de Touchdowns du joueur (Incl. Prolongations) (Jake Briningstool (KC)),2145,72900,1776531329,4637584471,1+,1+,20.0,0,False
-16552483,KC Chiefs vs. LA Chargers,Cyrus Allen,Total de Touchdowns du joueur (Incl. Prolongations) (Cyrus Allen (KC)),2145,72900,1776531651,4637585152,3+,3+,251.0,0,False
-16552483,KC Chiefs vs. LA Chargers,Cyrus Allen,Total de Touchdowns du joueur (Incl. Prolongations) (Cyrus Allen (KC)),2145,72900,1776531651,4637585150,1+,1+,20.0,0,False
-16552483,KC Chiefs vs. LA Chargers,Cyrus Allen,Total de Touchdowns du joueur (Incl. Prolongations) (Cyrus Allen (KC)),2145,72900,1776531651,4637585151,2+,2+,251.0,0,False
-16552483,KC Chiefs vs. LA Chargers,Ben VanSumeren,Total de Touchdowns du joueur (Incl. Prolongations) (Ben VanSumeren (KC)),2145,72900,1776531652,4637585153,1+,1+,20.0,0,False
-16552483,KC Chiefs vs. LA Chargers,Ben VanSumeren,Total de Touchdowns du joueur (Incl. Prolongations) (Ben VanSumeren (KC)),2145,72900,1776531652,4637585154,2+,2+,251.0,0,False
-16552483,KC Chiefs vs. LA Chargers,Ben VanSumeren,Total de Touchdowns du joueur (Incl. Prolongations) (Ben VanSumeren (KC)),2145,72900,1776531652,4637585155,3+,3+,251.0,0,False
-16552483,KC Chiefs vs. LA Chargers,Alec Ingold,Total de Touchdowns du joueur (Incl. Prolongations) (Alec Ingold (LAC)),2145,72900,1776531646,4637585136,2+,2+,251.0,0,False
-16552483,KC Chiefs vs. LA Chargers,Alec Ingold,Total de Touchdowns du joueur (Incl. Prolongations) (Alec Ingold (LAC)),2145,72900,1776531646,4637585137,3+,3+,251.0,0,False
-16552483,KC Chiefs vs. LA Chargers,Alec Ingold,Total de Touchdowns du joueur (Incl. Prolongations) (Alec Ingold (LAC)),2145,72900,1776531646,4637585135,1+,1+,26.0,0,False
-16552483,KC Chiefs vs. LA Chargers,Hayden Rucci,Total de Touchdowns du joueur (Incl. Prolongations) (Hayden Rucci (LAC)),2145,72900,1776532486,4637587056,3+,3+,251.0,0,False
-16552483,KC Chiefs vs. LA Chargers,Hayden Rucci,Total de Touchdowns du joueur (Incl. Prolongations) (Hayden Rucci (LAC)),2145,72900,1776532486,4637587054,1+,1+,26.0,0,False
-16552483,KC Chiefs vs. LA Chargers,Hayden Rucci,Total de Touchdowns du joueur (Incl. Prolongations) (Hayden Rucci (LAC)),2145,72900,1776532486,4637587055,2+,2+,251.0,0,False
+16552483,KC Chiefs vs. LA Chargers,Patrick Mahomes,Joueur Plus longue passe complétée (prolongations incluses),2001,72292,1775512613,4634314596,Patrick Mahomes (KC) Plus de 38.5,Patrick Mahomes (KC) Plus de 38.5,1.8696,0,False
+16552483,KC Chiefs vs. LA Chargers,Patrick Mahomes,Joueur Plus longue passe complétée (prolongations incluses),2001,72292,1775512613,4634314597,Patrick Mahomes (KC) moins de 38.5,Patrick Mahomes (KC) moins de 38.5,1.7693,0,False

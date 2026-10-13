@@ -1,5 +1,13 @@
 captured_at,event_id,match,start_date,market,selection,side,signal,old_line,new_line,old_price,new_price,old_status,new_status,old_is_main_bet,new_is_main_bet
-2026-10-13T19:00:13.212993+00:00,17764172,Middle Tennessee Blue Raiders vs. DEL Blue Hens,2026-10-13T23:00:00Z,total,Moins de 48.5,under,MAIN_PRICE_MOVE,48.5,48.5,1.8,1.8334,0,0,1,1
-2026-10-13T19:00:13.212993+00:00,17764172,Middle Tennessee Blue Raiders vs. DEL Blue Hens,2026-10-13T23:00:00Z,total,Plus de 48.5,over,MAIN_PRICE_MOVE,48.5,48.5,1.8696,1.8334,0,0,1,1
-2026-10-13T19:00:13.212993+00:00,17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,total,Plus de 43.5,over,MAIN_PRICE_MOVE,43.5,43.5,1.8334,1.8,0,0,1,1
-2026-10-13T19:00:13.212993+00:00,17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,total,Moins de 43.5,under,MAIN_PRICE_MOVE,43.5,43.5,1.8334,1.8696,0,0,1,1
+2026-10-13T19:31:49.357052+00:00,17773664,Missouri State Bears vs. Kennesaw State Owls,2026-10-14T23:30:00Z,spread,Kennesaw State Owls (-3.5),Kennesaw State Owls,MAIN_PRICE_MOVE,-3.5,-3.5,2.0,1.9524,0,0.0,1,1.0
+2026-10-13T19:31:49.357052+00:00,17773664,Missouri State Bears vs. Kennesaw State Owls,2026-10-14T23:30:00Z,spread,Missouri State Bears (+3.5),Missouri State Bears,MAIN_PRICE_MOVE,3.5,3.5,1.7143,1.7408,0,0.0,1,1.0
+2026-10-13T19:31:49.357052+00:00,17803697,Virginia Tech Hokies vs. Georgia Tech,2026-10-17T19:30:00Z,spread,Georgia Tech (+10.5),Georgia Tech,MAIN_PRICE_MOVE,10.5,10.5,1.7693,1.8,0,0.0,1,1.0
+2026-10-13T19:31:49.357052+00:00,17803697,Virginia Tech Hokies vs. Georgia Tech,2026-10-17T19:30:00Z,spread,Virginia Tech Hokies (-10.5),Virginia Tech Hokies,MAIN_PRICE_MOVE,-10.5,-10.5,1.9091,1.8696,0,0.0,1,1.0
+2026-10-13T19:31:49.357052+00:00,17803697,Virginia Tech Hokies vs. Georgia Tech,2026-10-17T19:30:00Z,total,Plus de 56.5,over,MAIN_SWITCH,56.5,56.5,1.8,1.8,0,0.0,0,1.0
+2026-10-13T19:31:49.357052+00:00,17803697,Virginia Tech Hokies vs. Georgia Tech,2026-10-17T19:30:00Z,total,Moins de 56.5,under,MAIN_SWITCH,56.5,56.5,1.8696,1.8696,0,0.0,0,1.0
+2026-10-13T19:31:49.357052+00:00,17803688,Baylor Bears vs. TCU Horned Frogs,2026-10-17T23:00:00Z,spread,TCU Horned Frogs (+6.5),TCU Horned Frogs,MAIN_SWITCH,6.5,6.5,1.8,1.8,0,0.0,1,0.0
+2026-10-13T19:31:49.357052+00:00,17803688,Baylor Bears vs. TCU Horned Frogs,2026-10-17T23:00:00Z,spread,Baylor Bears (-6.5),Baylor Bears,MAIN_SWITCH,-6.5,-6.5,1.8696,1.8696,0,0.0,1,0.0
+2026-10-13T19:31:49.357052+00:00,17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,spread,Notre Dame Fighting Irish (-10.5),Notre Dame Fighting Irish,MAIN_PRICE_MOVE,-10.5,-10.5,1.9091,1.8334,0,0.0,1,1.0
+2026-10-13T19:31:49.357052+00:00,17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,spread,BYU Cougars (+10.5),BYU Cougars,MAIN_PRICE_MOVE,10.5,10.5,1.7693,1.8334,0,0.0,1,1.0
+2026-10-13T19:31:49.357052+00:00,17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Moins de 43.5,under,MAIN_SWITCH,43.5,43.5,1.9091,1.9091,0,0.0,0,1.0
+2026-10-13T19:31:49.357052+00:00,17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Plus de 43.5,over,MAIN_SWITCH,43.5,43.5,1.7693,1.7693,0,0.0,0,1.0

@@ -17,8 +17,8 @@ event_id,match,player,market,market_type_id,sport_market_id,child_market_id,odd_
 16552477,SF 49ers vs. WAS Commanders,Jacory Merritt,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1775563784,4634488559,Jacory Merritt (WAS) Plus de 4.5,Jacory Merritt (WAS) Plus de 4.5,1.8696,0,False
 16552477,SF 49ers vs. WAS Commanders,Jacory Merritt,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1775563786,4634488563,Jacory Merritt (WAS) Plus de 0.5,Jacory Merritt (WAS) Plus de 0.5,1.3847,0,False
 16552477,SF 49ers vs. WAS Commanders,Jacory Merritt,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1775563786,4634488564,Jacory Merritt (WAS) moins de 0.5,Jacory Merritt (WAS) moins de 0.5,2.65,0,False
-16552477,SF 49ers vs. WAS Commanders,Brock Purdy,Tentatives de passes du joueur Plus/Moins (Incl. Prolongations),2252,73702,1778445979,4643215738,Brock Purdy (SF) Plus de 31.5,Brock Purdy (SF) Plus de 31.5,1.7693,0,False
-16552477,SF 49ers vs. WAS Commanders,Brock Purdy,Tentatives de passes du joueur Plus/Moins (Incl. Prolongations),2252,73702,1778445979,4643215739,Brock Purdy (SF) moins de 31.5,Brock Purdy (SF) moins de 31.5,1.8696,0,False
+16552477,SF 49ers vs. WAS Commanders,Brock Purdy,Tentatives de passes du joueur Plus/Moins (Incl. Prolongations),2252,73702,1778445979,4643215738,Brock Purdy (SF) Plus de 31.5,Brock Purdy (SF) Plus de 31.5,1.8334,0,False
+16552477,SF 49ers vs. WAS Commanders,Brock Purdy,Tentatives de passes du joueur Plus/Moins (Incl. Prolongations),2252,73702,1778445979,4643215739,Brock Purdy (SF) moins de 31.5,Brock Purdy (SF) moins de 31.5,1.8,0,False
 16552477,SF 49ers vs. WAS Commanders,Jayden Daniels,Tentatives de passes du joueur Plus/Moins (Incl. Prolongations),2252,73702,1778228959,4642533380,Jayden Daniels (WAS) Plus de 30.5,Jayden Daniels (WAS) Plus de 30.5,1.8696,0,False
 16552477,SF 49ers vs. WAS Commanders,Jayden Daniels,Tentatives de passes du joueur Plus/Moins (Incl. Prolongations),2252,73702,1778228959,4642533381,Jayden Daniels (WAS) moins de 30.5,Jayden Daniels (WAS) moins de 30.5,1.7693,0,False
 16552477,SF 49ers vs. WAS Commanders,Jacory Merritt,Yards de course et de réception du joueur Plus/Moins (prolongations incluses),3317,73841,1778111063,4642235677,Jacory Merritt (WAS) Plus de 48.5,Jacory Merritt (WAS) Plus de 48.5,1.8,0,False
@@ -188,14 +188,14 @@ event_id,match,player,market,market_type_id,sport_market_id,child_market_id,odd_
 16552477,SF 49ers vs. WAS Commanders,Brock Purdy,Passes réussis du joueur (Incl. Prolongations) (Brock Purdy (SF)),2137,72892,1778228947,4642533419,32+,32+,14.0,0,False
 16552477,SF 49ers vs. WAS Commanders,Brock Purdy,Passes réussis du joueur (Incl. Prolongations) (Brock Purdy (SF)),2137,72892,1778228947,4642533420,34+,34+,26.0,0,False
 16552477,SF 49ers vs. WAS Commanders,Brock Purdy,Passes réussis du joueur (Incl. Prolongations) (Brock Purdy (SF)),2137,72892,1778228947,4642533421,20+,20+,1.4546,0,False
-16552477,SF 49ers vs. WAS Commanders,Brock Purdy,Joueur total nombre de tentatives de passes(Brock Purdy (SF)) (prolongations incluses),2248,73698,1778228935,4643215718,32+,32+,1.8,0,False
-16552477,SF 49ers vs. WAS Commanders,Brock Purdy,Joueur total nombre de tentatives de passes(Brock Purdy (SF)) (prolongations incluses),2248,73698,1778228935,4643215719,34+,34+,2.2,0,False
-16552477,SF 49ers vs. WAS Commanders,Brock Purdy,Joueur total nombre de tentatives de passes(Brock Purdy (SF)) (prolongations incluses),2248,73698,1778228935,4643215720,36+,36+,2.75,0,False
-16552477,SF 49ers vs. WAS Commanders,Brock Purdy,Joueur total nombre de tentatives de passes(Brock Purdy (SF)) (prolongations incluses),2248,73698,1778228935,4643215721,38+,38+,3.5,0,False
-16552477,SF 49ers vs. WAS Commanders,Brock Purdy,Joueur total nombre de tentatives de passes(Brock Purdy (SF)) (prolongations incluses),2248,73698,1778228935,4643215722,40+,40+,4.75,0,False
-16552477,SF 49ers vs. WAS Commanders,Brock Purdy,Joueur total nombre de tentatives de passes(Brock Purdy (SF)) (prolongations incluses),2248,73698,1778228935,4643215723,42+,42+,6.5,0,False
-16552477,SF 49ers vs. WAS Commanders,Brock Purdy,Joueur total nombre de tentatives de passes(Brock Purdy (SF)) (prolongations incluses),2248,73698,1778228935,4643215724,44+,44+,9.0,0,False
-16552477,SF 49ers vs. WAS Commanders,Brock Purdy,Joueur total nombre de tentatives de passes(Brock Purdy (SF)) (prolongations incluses),2248,73698,1778228935,4643215725,30+,30+,1.4762,0,False
+16552477,SF 49ers vs. WAS Commanders,Brock Purdy,Joueur total nombre de tentatives de passes(Brock Purdy (SF)) (prolongations incluses),2248,73698,1778228935,4643215718,32+,32+,1.8696,0,False
+16552477,SF 49ers vs. WAS Commanders,Brock Purdy,Joueur total nombre de tentatives de passes(Brock Purdy (SF)) (prolongations incluses),2248,73698,1778228935,4643215719,34+,34+,2.25,0,False
+16552477,SF 49ers vs. WAS Commanders,Brock Purdy,Joueur total nombre de tentatives de passes(Brock Purdy (SF)) (prolongations incluses),2248,73698,1778228935,4643215720,36+,36+,2.85,0,False
+16552477,SF 49ers vs. WAS Commanders,Brock Purdy,Joueur total nombre de tentatives de passes(Brock Purdy (SF)) (prolongations incluses),2248,73698,1778228935,4643215721,38+,38+,3.75,0,False
+16552477,SF 49ers vs. WAS Commanders,Brock Purdy,Joueur total nombre de tentatives de passes(Brock Purdy (SF)) (prolongations incluses),2248,73698,1778228935,4643215722,40+,40+,5.0,0,False
+16552477,SF 49ers vs. WAS Commanders,Brock Purdy,Joueur total nombre de tentatives de passes(Brock Purdy (SF)) (prolongations incluses),2248,73698,1778228935,4643215723,42+,42+,6.75,0,False
+16552477,SF 49ers vs. WAS Commanders,Brock Purdy,Joueur total nombre de tentatives de passes(Brock Purdy (SF)) (prolongations incluses),2248,73698,1778228935,4643215724,44+,44+,10.0,0,False
+16552477,SF 49ers vs. WAS Commanders,Brock Purdy,Joueur total nombre de tentatives de passes(Brock Purdy (SF)) (prolongations incluses),2248,73698,1778228935,4643215725,30+,30+,1.5,0,False
 16552477,SF 49ers vs. WAS Commanders,Jayden Daniels,Joueur total nombre de tentatives de passes(Jayden Daniels (WAS)) (prolongations incluses),2248,73698,1778228940,4642533297,31+,31+,1.9091,0,False
 16552477,SF 49ers vs. WAS Commanders,Jayden Daniels,Joueur total nombre de tentatives de passes(Jayden Daniels (WAS)) (prolongations incluses),2248,73698,1778228940,4642533298,33+,33+,2.25,0,False
 16552477,SF 49ers vs. WAS Commanders,Jayden Daniels,Joueur total nombre de tentatives de passes(Jayden Daniels (WAS)) (prolongations incluses),2248,73698,1778228940,4642533299,35+,35+,2.65,0,False

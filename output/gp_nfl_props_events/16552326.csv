@@ -133,8 +133,8 @@ event_id,match,player,market,market_type_id,sport_market_id,child_market_id,odd_
 16552326,DEN Broncos vs. SEA Seahawks,J.K. Dobbins,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1775582487,4634531690,J.K. Dobbins (DEN) moins de 1.5,J.K. Dobbins (DEN) moins de 1.5,1.5715,0,False
 16552326,DEN Broncos vs. SEA Seahawks,Tory Horton,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1775579289,4634525432,Tory Horton (SEA) moins de 0.5,Tory Horton (SEA) moins de 0.5,2.05,0,False
 16552326,DEN Broncos vs. SEA Seahawks,Tory Horton,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1775579289,4634525431,Tory Horton (SEA) Plus de 0.5,Tory Horton (SEA) Plus de 0.5,1.625,0,False
-16552326,DEN Broncos vs. SEA Seahawks,Bo Nix,Passes du joueur interceptées Plus/Moins (Incl. Prolongations),2253,73703,1776535562,4637595525,Bo Nix (DEN) moins de 0.5,Bo Nix (DEN) moins de 0.5,2.0,0,False
-16552326,DEN Broncos vs. SEA Seahawks,Bo Nix,Passes du joueur interceptées Plus/Moins (Incl. Prolongations),2253,73703,1776535562,4637595526,Bo Nix (DEN) Plus de 0.5,Bo Nix (DEN) Plus de 0.5,1.6667,0,False
+16552326,DEN Broncos vs. SEA Seahawks,Bo Nix,Passes du joueur interceptées Plus/Moins (Incl. Prolongations),2253,73703,1776535562,4637595525,Bo Nix (DEN) moins de 0.5,Bo Nix (DEN) moins de 0.5,1.9524,0,False
+16552326,DEN Broncos vs. SEA Seahawks,Bo Nix,Passes du joueur interceptées Plus/Moins (Incl. Prolongations),2253,73703,1776535562,4637595526,Bo Nix (DEN) Plus de 0.5,Bo Nix (DEN) Plus de 0.5,1.6897,0,False
 16552326,DEN Broncos vs. SEA Seahawks,Sam Darnold,Passes du joueur interceptées Plus/Moins (Incl. Prolongations),2253,73703,1776535013,4637594002,Sam Darnold (SEA) Plus de 0.5,Sam Darnold (SEA) Plus de 0.5,1.6897,0,False
 16552326,DEN Broncos vs. SEA Seahawks,Sam Darnold,Passes du joueur interceptées Plus/Moins (Incl. Prolongations),2253,73703,1776535013,4637594003,Sam Darnold (SEA) moins de 0.5,Sam Darnold (SEA) moins de 0.5,1.9524,0,False
 16552326,DEN Broncos vs. SEA Seahawks,Bo Nix,"Passes complétées, Joueur (prolongations incluses)",760,71921,1776619221,4637791320,Bo Nix (DEN) moins de 21.5,Bo Nix (DEN) moins de 21.5,1.7693,0,False
@@ -940,7 +940,7 @@ event_id,match,player,market,market_type_id,sport_market_id,child_market_id,odd_
 16552326,DEN Broncos vs. SEA Seahawks,Sam Darnold,Joueur total de TDs par la passe (Sam Darnold (SEA) (prolongations incluses),2138,72893,1776534999,4637593960,2+,2+,2.3,0,False
 16552326,DEN Broncos vs. SEA Seahawks,Sam Darnold,Joueur total de TDs par la passe (Sam Darnold (SEA) (prolongations incluses),2138,72893,1776534999,4637593961,3+,3+,5.0,0,False
 16552326,DEN Broncos vs. SEA Seahawks,Sam Darnold,Joueur total de TDs par la passe (Sam Darnold (SEA) (prolongations incluses),2138,72893,1776534999,4637593962,4+,4+,15.0,0,False
-16552326,DEN Broncos vs. SEA Seahawks,Sam Darnold,Joueur total de TDs par la passe (Sam Darnold (SEA) (prolongations incluses),2138,72893,1776534999,4637593963,1+,1+,1.2353,0,False
+16552326,DEN Broncos vs. SEA Seahawks,Sam Darnold,Joueur total de TDs par la passe (Sam Darnold (SEA) (prolongations incluses),2138,72893,1776534999,4637593963,1+,1+,1.2223,0,False
 16552326,DEN Broncos vs. SEA Seahawks,Bo Nix,Joueur total de TDs par la passe (Bo Nix (DEN) (prolongations incluses),2138,72893,1776535553,4637595467,2+,2+,2.8,0,False
 16552326,DEN Broncos vs. SEA Seahawks,Bo Nix,Joueur total de TDs par la passe (Bo Nix (DEN) (prolongations incluses),2138,72893,1776535553,4637595468,3+,3+,4.5,0,False
 16552326,DEN Broncos vs. SEA Seahawks,Bo Nix,Joueur total de TDs par la passe (Bo Nix (DEN) (prolongations incluses),2138,72893,1776535553,4637595469,4+,4+,10.0,0,False
@@ -1071,6 +1071,15 @@ event_id,match,player,market,market_type_id,sport_market_id,child_market_id,odd_
 16552326,DEN Broncos vs. SEA Seahawks,Troy Franklin,Total des yards reçus par le joueur (Troy Franklin (DEN)) (prolongations incluses),2143,72898,1776535039,4637653368,77+,77+,9.0,0,False
 16552326,DEN Broncos vs. SEA Seahawks,Troy Franklin,Total des yards reçus par le joueur (Troy Franklin (DEN)) (prolongations incluses),2143,72898,1776535039,4637653369,87+,87+,14.0,0,False
 16552326,DEN Broncos vs. SEA Seahawks,Troy Franklin,Total des yards reçus par le joueur (Troy Franklin (DEN)) (prolongations incluses),2143,72898,1776535039,4637653370,97+,97+,20.0,0,False
+16552326,DEN Broncos vs. SEA Seahawks,George Holani,Total des yards reçus par le joueur (George Holani (SEA)) (prolongations incluses),2143,72898,1776535549,4638489184,90+,90+,51.0,0,False
+16552326,DEN Broncos vs. SEA Seahawks,George Holani,Total des yards reçus par le joueur (George Holani (SEA)) (prolongations incluses),2143,72898,1776535549,4638489176,10+,10+,1.8696,0,False
+16552326,DEN Broncos vs. SEA Seahawks,George Holani,Total des yards reçus par le joueur (George Holani (SEA)) (prolongations incluses),2143,72898,1776535549,4638489177,20+,20+,2.35,0,False
+16552326,DEN Broncos vs. SEA Seahawks,George Holani,Total des yards reçus par le joueur (George Holani (SEA)) (prolongations incluses),2143,72898,1776535549,4638489178,30+,30+,3.1,0,False
+16552326,DEN Broncos vs. SEA Seahawks,George Holani,Total des yards reçus par le joueur (George Holani (SEA)) (prolongations incluses),2143,72898,1776535549,4638489179,40+,40+,4.3,0,False
+16552326,DEN Broncos vs. SEA Seahawks,George Holani,Total des yards reçus par le joueur (George Holani (SEA)) (prolongations incluses),2143,72898,1776535549,4638489180,50+,50+,6.25,0,False
+16552326,DEN Broncos vs. SEA Seahawks,George Holani,Total des yards reçus par le joueur (George Holani (SEA)) (prolongations incluses),2143,72898,1776535549,4638489181,60+,60+,10.0,0,False
+16552326,DEN Broncos vs. SEA Seahawks,George Holani,Total des yards reçus par le joueur (George Holani (SEA)) (prolongations incluses),2143,72898,1776535549,4638489182,70+,70+,16.0,0,False
+16552326,DEN Broncos vs. SEA Seahawks,George Holani,Total des yards reçus par le joueur (George Holani (SEA)) (prolongations incluses),2143,72898,1776535549,4638489183,80+,80+,26.0,0,False
 16552326,DEN Broncos vs. SEA Seahawks,Emanuel Wilson,Total des yards reçus par le joueur (Emanuel Wilson (SEA)) (prolongations incluses),2143,72898,1776535040,4637594065,10+,10+,1.8696,0,False
 16552326,DEN Broncos vs. SEA Seahawks,Emanuel Wilson,Total des yards reçus par le joueur (Emanuel Wilson (SEA)) (prolongations incluses),2143,72898,1776535040,4637594066,20+,20+,2.35,0,False
 16552326,DEN Broncos vs. SEA Seahawks,Emanuel Wilson,Total des yards reçus par le joueur (Emanuel Wilson (SEA)) (prolongations incluses),2143,72898,1776535040,4637594067,30+,30+,3.1,0,False
@@ -1088,14 +1097,6 @@ event_id,match,player,market,market_type_id,sport_market_id,child_market_id,odd_
 16552326,DEN Broncos vs. SEA Seahawks,Tory Horton,Total des yards reçus par le joueur (Tory Horton (SEA)) (prolongations incluses),2143,72898,1776535557,4637595500,66+,66+,12.0,0,False
 16552326,DEN Broncos vs. SEA Seahawks,Tory Horton,Total des yards reçus par le joueur (Tory Horton (SEA)) (prolongations incluses),2143,72898,1776535557,4637595501,76+,76+,18.0,0,False
 16552326,DEN Broncos vs. SEA Seahawks,Tory Horton,Total des yards reçus par le joueur (Tory Horton (SEA)) (prolongations incluses),2143,72898,1776535557,4637595502,86+,86+,31.0,0,False
-16552326,DEN Broncos vs. SEA Seahawks,George Holani,Total des yards reçus par le joueur (George Holani (SEA)) (prolongations incluses),2143,72898,1776535549,4637595442,19+,19+,2.35,0,False
-16552326,DEN Broncos vs. SEA Seahawks,George Holani,Total des yards reçus par le joueur (George Holani (SEA)) (prolongations incluses),2143,72898,1776535549,4637595443,29+,29+,3.0,0,False
-16552326,DEN Broncos vs. SEA Seahawks,George Holani,Total des yards reçus par le joueur (George Holani (SEA)) (prolongations incluses),2143,72898,1776535549,4637595444,39+,39+,4.25,0,False
-16552326,DEN Broncos vs. SEA Seahawks,George Holani,Total des yards reçus par le joueur (George Holani (SEA)) (prolongations incluses),2143,72898,1776535549,4637595445,49+,49+,6.0,0,False
-16552326,DEN Broncos vs. SEA Seahawks,George Holani,Total des yards reçus par le joueur (George Holani (SEA)) (prolongations incluses),2143,72898,1776535549,4637595446,59+,59+,9.0,0,False
-16552326,DEN Broncos vs. SEA Seahawks,George Holani,Total des yards reçus par le joueur (George Holani (SEA)) (prolongations incluses),2143,72898,1776535549,4637595447,69+,69+,14.0,0,False
-16552326,DEN Broncos vs. SEA Seahawks,George Holani,Total des yards reçus par le joueur (George Holani (SEA)) (prolongations incluses),2143,72898,1776535549,4637595448,79+,79+,26.0,0,False
-16552326,DEN Broncos vs. SEA Seahawks,George Holani,Total des yards reçus par le joueur (George Holani (SEA)) (prolongations incluses),2143,72898,1776535549,4637595449,89+,89+,41.0,0,False
 16552326,DEN Broncos vs. SEA Seahawks,J.K. Dobbins,Joueur total de yards par la course (J.K. Dobbins (DEN)) (prolongations incluses),2140,72895,1776535049,4637653896,48+,48+,1.8696,0,False
 16552326,DEN Broncos vs. SEA Seahawks,J.K. Dobbins,Joueur total de yards par la course (J.K. Dobbins (DEN)) (prolongations incluses),2140,72895,1776535049,4637653897,58+,58+,2.25,0,False
 16552326,DEN Broncos vs. SEA Seahawks,J.K. Dobbins,Joueur total de yards par la course (J.K. Dobbins (DEN)) (prolongations incluses),2140,72895,1776535049,4637653898,68+,68+,2.8,0,False
@@ -1117,6 +1118,15 @@ event_id,match,player,market,market_type_id,sport_market_id,child_market_id,odd_
 16552326,DEN Broncos vs. SEA Seahawks,Emanuel Wilson,Joueur total de yards par la course (Emanuel Wilson (SEA)) (prolongations incluses),2140,72895,1776535050,4637989980,127+,127+,10.0,0,False
 16552326,DEN Broncos vs. SEA Seahawks,Emanuel Wilson,Joueur total de yards par la course (Emanuel Wilson (SEA)) (prolongations incluses),2140,72895,1776535050,4637989981,137+,137+,15.0,0,False
 16552326,DEN Broncos vs. SEA Seahawks,Emanuel Wilson,Joueur total de yards par la course (Emanuel Wilson (SEA)) (prolongations incluses),2140,72895,1776535050,4637989983,57+,57+,1.4762,0,False
+16552326,DEN Broncos vs. SEA Seahawks,George Holani,Joueur total de yards par la course (George Holani (SEA)) (prolongations incluses),2140,72895,1776535038,4637990095,24+,24+,2.3,0,False
+16552326,DEN Broncos vs. SEA Seahawks,George Holani,Joueur total de yards par la course (George Holani (SEA)) (prolongations incluses),2140,72895,1776535038,4637990096,34+,34+,3.0,0,False
+16552326,DEN Broncos vs. SEA Seahawks,George Holani,Joueur total de yards par la course (George Holani (SEA)) (prolongations incluses),2140,72895,1776535038,4637990097,44+,44+,4.0,0,False
+16552326,DEN Broncos vs. SEA Seahawks,George Holani,Joueur total de yards par la course (George Holani (SEA)) (prolongations incluses),2140,72895,1776535038,4637990098,54+,54+,5.75,0,False
+16552326,DEN Broncos vs. SEA Seahawks,George Holani,Joueur total de yards par la course (George Holani (SEA)) (prolongations incluses),2140,72895,1776535038,4637990099,64+,64+,8.5,0,False
+16552326,DEN Broncos vs. SEA Seahawks,George Holani,Joueur total de yards par la course (George Holani (SEA)) (prolongations incluses),2140,72895,1776535038,4637990100,74+,74+,13.0,0,False
+16552326,DEN Broncos vs. SEA Seahawks,George Holani,Joueur total de yards par la course (George Holani (SEA)) (prolongations incluses),2140,72895,1776535038,4637989973,14+,14+,1.8334,0,False
+16552326,DEN Broncos vs. SEA Seahawks,George Holani,Joueur total de yards par la course (George Holani (SEA)) (prolongations incluses),2140,72895,1776535038,4637990101,84+,84+,21.0,0,False
+16552326,DEN Broncos vs. SEA Seahawks,George Holani,Joueur total de yards par la course (George Holani (SEA)) (prolongations incluses),2140,72895,1776535038,4637990102,94+,94+,36.0,0,False
 16552326,DEN Broncos vs. SEA Seahawks,RJ Harvey,Joueur total de yards par la course (RJ Harvey (DEN)) (prolongations incluses),2140,72895,1776535045,4638494544,16+,16+,1.8696,0,False
 16552326,DEN Broncos vs. SEA Seahawks,RJ Harvey,Joueur total de yards par la course (RJ Harvey (DEN)) (prolongations incluses),2140,72895,1776535045,4638494545,26+,26+,2.35,0,False
 16552326,DEN Broncos vs. SEA Seahawks,RJ Harvey,Joueur total de yards par la course (RJ Harvey (DEN)) (prolongations incluses),2140,72895,1776535045,4638494546,36+,36+,3.2,0,False
@@ -1133,26 +1143,9 @@ event_id,match,player,market,market_type_id,sport_market_id,child_market_id,odd_
 16552326,DEN Broncos vs. SEA Seahawks,Bo Nix,Joueur total de yards par la course (Bo Nix (DEN)) (prolongations incluses),2140,72895,1776535551,4637618070,64+,64+,10.0,0,False
 16552326,DEN Broncos vs. SEA Seahawks,Bo Nix,Joueur total de yards par la course (Bo Nix (DEN)) (prolongations incluses),2140,72895,1776535551,4637618071,74+,74+,17.0,0,False
 16552326,DEN Broncos vs. SEA Seahawks,Bo Nix,Joueur total de yards par la course (Bo Nix (DEN)) (prolongations incluses),2140,72895,1776535551,4637618072,84+,84+,26.0,0,False
-16552326,DEN Broncos vs. SEA Seahawks,George Holani,Joueur total de yards par la course (George Holani (SEA)) (prolongations incluses),2140,72895,1776535038,4637624770,65+,65+,9.0,0,False
-16552326,DEN Broncos vs. SEA Seahawks,George Holani,Joueur total de yards par la course (George Holani (SEA)) (prolongations incluses),2140,72895,1776535038,4637594051,15+,15+,1.9091,0,False
-16552326,DEN Broncos vs. SEA Seahawks,George Holani,Joueur total de yards par la course (George Holani (SEA)) (prolongations incluses),2140,72895,1776535038,4637594052,25+,25+,2.35,0,False
-16552326,DEN Broncos vs. SEA Seahawks,George Holani,Joueur total de yards par la course (George Holani (SEA)) (prolongations incluses),2140,72895,1776535038,4637594053,35+,35+,3.1,0,False
-16552326,DEN Broncos vs. SEA Seahawks,George Holani,Joueur total de yards par la course (George Holani (SEA)) (prolongations incluses),2140,72895,1776535038,4637594054,45+,45+,4.0,0,False
-16552326,DEN Broncos vs. SEA Seahawks,George Holani,Joueur total de yards par la course (George Holani (SEA)) (prolongations incluses),2140,72895,1776535038,4637594055,55+,55+,5.75,0,False
-16552326,DEN Broncos vs. SEA Seahawks,George Holani,Joueur total de yards par la course (George Holani (SEA)) (prolongations incluses),2140,72895,1776535038,4637624771,75+,75+,14.0,0,False
-16552326,DEN Broncos vs. SEA Seahawks,George Holani,Joueur total de yards par la course (George Holani (SEA)) (prolongations incluses),2140,72895,1776535038,4637624772,85+,85+,21.0,0,False
-16552326,DEN Broncos vs. SEA Seahawks,George Holani,Joueur total de yards par la course (George Holani (SEA)) (prolongations incluses),2140,72895,1776535038,4637624773,95+,95+,36.0,0,False
 16552326,DEN Broncos vs. SEA Seahawks,Sam Darnold,Joueur total de yards par la course (Sam Darnold (SEA)) (prolongations incluses),2140,72895,1776535042,4637594083,15+,15+,3.6,0,False
 16552326,DEN Broncos vs. SEA Seahawks,Sam Darnold,Joueur total de yards par la course (Sam Darnold (SEA)) (prolongations incluses),2140,72895,1776535042,4637594084,25+,25+,9.0,0,False
 16552326,DEN Broncos vs. SEA Seahawks,Sam Darnold,Joueur total de yards par la course (Sam Darnold (SEA)) (prolongations incluses),2140,72895,1776535042,4637594085,35+,35+,31.0,0,False
-16552326,DEN Broncos vs. SEA Seahawks,Sam Darnold,Passes réussis du joueur (Incl. Prolongations) (Sam Darnold (SEA)),2137,72892,1776535555,4637653920,23+,23+,3.2,0,False
-16552326,DEN Broncos vs. SEA Seahawks,Sam Darnold,Passes réussis du joueur (Incl. Prolongations) (Sam Darnold (SEA)),2137,72892,1776535555,4637653921,25+,25+,4.4,0,False
-16552326,DEN Broncos vs. SEA Seahawks,Sam Darnold,Passes réussis du joueur (Incl. Prolongations) (Sam Darnold (SEA)),2137,72892,1776535555,4637653922,27+,27+,6.75,0,False
-16552326,DEN Broncos vs. SEA Seahawks,Sam Darnold,Passes réussis du joueur (Incl. Prolongations) (Sam Darnold (SEA)),2137,72892,1776535555,4637653923,29+,29+,11.0,0,False
-16552326,DEN Broncos vs. SEA Seahawks,Sam Darnold,Passes réussis du joueur (Incl. Prolongations) (Sam Darnold (SEA)),2137,72892,1776535555,4637653924,31+,31+,18.0,0,False
-16552326,DEN Broncos vs. SEA Seahawks,Sam Darnold,Passes réussis du joueur (Incl. Prolongations) (Sam Darnold (SEA)),2137,72892,1776535555,4637653925,17+,17+,1.3847,0,False
-16552326,DEN Broncos vs. SEA Seahawks,Sam Darnold,Passes réussis du joueur (Incl. Prolongations) (Sam Darnold (SEA)),2137,72892,1776535555,4637653918,19+,19+,1.8334,0,False
-16552326,DEN Broncos vs. SEA Seahawks,Sam Darnold,Passes réussis du joueur (Incl. Prolongations) (Sam Darnold (SEA)),2137,72892,1776535555,4637653919,21+,21+,2.35,0,False
 16552326,DEN Broncos vs. SEA Seahawks,Bo Nix,Passes réussis du joueur (Incl. Prolongations) (Bo Nix (DEN)),2137,72892,1776535046,4637594112,24+,24+,2.45,0,False
 16552326,DEN Broncos vs. SEA Seahawks,Bo Nix,Passes réussis du joueur (Incl. Prolongations) (Bo Nix (DEN)),2137,72892,1776535046,4637594113,26+,26+,3.4,0,False
 16552326,DEN Broncos vs. SEA Seahawks,Bo Nix,Passes réussis du joueur (Incl. Prolongations) (Bo Nix (DEN)),2137,72892,1776535046,4637594114,28+,28+,5.0,0,False
@@ -1161,22 +1154,30 @@ event_id,match,player,market,market_type_id,sport_market_id,child_market_id,odd_
 16552326,DEN Broncos vs. SEA Seahawks,Bo Nix,Passes réussis du joueur (Incl. Prolongations) (Bo Nix (DEN)),2137,72892,1776535046,4637594117,34+,34+,21.0,0,False
 16552326,DEN Broncos vs. SEA Seahawks,Bo Nix,Passes réussis du joueur (Incl. Prolongations) (Bo Nix (DEN)),2137,72892,1776535046,4637594118,20+,20+,1.4546,0,False
 16552326,DEN Broncos vs. SEA Seahawks,Bo Nix,Passes réussis du joueur (Incl. Prolongations) (Bo Nix (DEN)),2137,72892,1776535046,4637594111,22+,22+,1.9091,0,False
-16552326,DEN Broncos vs. SEA Seahawks,Bo Nix,Joueur total nombre de tentatives de passes(Bo Nix (DEN)) (prolongations incluses),2248,73698,1776534992,4637593897,35+,35+,1.8334,0,False
+16552326,DEN Broncos vs. SEA Seahawks,Sam Darnold,Passes réussis du joueur (Incl. Prolongations) (Sam Darnold (SEA)),2137,72892,1776535555,4637595478,20+,20+,2.0,0,False
+16552326,DEN Broncos vs. SEA Seahawks,Sam Darnold,Passes réussis du joueur (Incl. Prolongations) (Sam Darnold (SEA)),2137,72892,1776535555,4637595479,22+,22+,2.55,0,False
+16552326,DEN Broncos vs. SEA Seahawks,Sam Darnold,Passes réussis du joueur (Incl. Prolongations) (Sam Darnold (SEA)),2137,72892,1776535555,4637595480,24+,24+,3.5,0,False
+16552326,DEN Broncos vs. SEA Seahawks,Sam Darnold,Passes réussis du joueur (Incl. Prolongations) (Sam Darnold (SEA)),2137,72892,1776535555,4637595481,26+,26+,5.0,0,False
+16552326,DEN Broncos vs. SEA Seahawks,Sam Darnold,Passes réussis du joueur (Incl. Prolongations) (Sam Darnold (SEA)),2137,72892,1776535555,4637595482,28+,28+,7.75,0,False
+16552326,DEN Broncos vs. SEA Seahawks,Sam Darnold,Passes réussis du joueur (Incl. Prolongations) (Sam Darnold (SEA)),2137,72892,1776535555,4637595483,30+,30+,13.0,0,False
+16552326,DEN Broncos vs. SEA Seahawks,Sam Darnold,Passes réussis du joueur (Incl. Prolongations) (Sam Darnold (SEA)),2137,72892,1776535555,4637595484,32+,32+,21.0,0,False
+16552326,DEN Broncos vs. SEA Seahawks,Sam Darnold,Passes réussis du joueur (Incl. Prolongations) (Sam Darnold (SEA)),2137,72892,1776535555,4637595485,18+,18+,1.5,0,False
+16552326,DEN Broncos vs. SEA Seahawks,Bo Nix,Joueur total nombre de tentatives de passes(Bo Nix (DEN)) (prolongations incluses),2248,73698,1776534992,4637593897,35+,35+,1.8,0,False
 16552326,DEN Broncos vs. SEA Seahawks,Bo Nix,Joueur total nombre de tentatives de passes(Bo Nix (DEN)) (prolongations incluses),2248,73698,1776534992,4637593898,37+,37+,2.15,0,False
 16552326,DEN Broncos vs. SEA Seahawks,Bo Nix,Joueur total nombre de tentatives de passes(Bo Nix (DEN)) (prolongations incluses),2248,73698,1776534992,4637593899,39+,39+,2.65,0,False
 16552326,DEN Broncos vs. SEA Seahawks,Bo Nix,Joueur total nombre de tentatives de passes(Bo Nix (DEN)) (prolongations incluses),2248,73698,1776534992,4637593900,41+,41+,3.3,0,False
 16552326,DEN Broncos vs. SEA Seahawks,Bo Nix,Joueur total nombre de tentatives de passes(Bo Nix (DEN)) (prolongations incluses),2248,73698,1776534992,4637593901,43+,43+,4.3,0,False
 16552326,DEN Broncos vs. SEA Seahawks,Bo Nix,Joueur total nombre de tentatives de passes(Bo Nix (DEN)) (prolongations incluses),2248,73698,1776534992,4637593902,45+,45+,5.75,0,False
-16552326,DEN Broncos vs. SEA Seahawks,Bo Nix,Joueur total nombre de tentatives de passes(Bo Nix (DEN)) (prolongations incluses),2248,73698,1776534992,4637593903,47+,47+,8.0,0,False
+16552326,DEN Broncos vs. SEA Seahawks,Bo Nix,Joueur total nombre de tentatives de passes(Bo Nix (DEN)) (prolongations incluses),2248,73698,1776534992,4637593903,47+,47+,7.75,0,False
 16552326,DEN Broncos vs. SEA Seahawks,Bo Nix,Joueur total nombre de tentatives de passes(Bo Nix (DEN)) (prolongations incluses),2248,73698,1776534992,4637593904,33+,33+,1.4762,0,False
-16552326,DEN Broncos vs. SEA Seahawks,Sam Darnold,Joueur total nombre de tentatives de passes(Sam Darnold (SEA)) (prolongations incluses),2248,73698,1776535000,4637593964,30+,30+,1.8334,0,False
-16552326,DEN Broncos vs. SEA Seahawks,Sam Darnold,Joueur total nombre de tentatives de passes(Sam Darnold (SEA)) (prolongations incluses),2248,73698,1776535000,4637593965,32+,32+,2.15,0,False
-16552326,DEN Broncos vs. SEA Seahawks,Sam Darnold,Joueur total nombre de tentatives de passes(Sam Darnold (SEA)) (prolongations incluses),2248,73698,1776535000,4637593966,34+,34+,2.55,0,False
-16552326,DEN Broncos vs. SEA Seahawks,Sam Darnold,Joueur total nombre de tentatives de passes(Sam Darnold (SEA)) (prolongations incluses),2248,73698,1776535000,4637593967,36+,36+,3.1,0,False
-16552326,DEN Broncos vs. SEA Seahawks,Sam Darnold,Joueur total nombre de tentatives de passes(Sam Darnold (SEA)) (prolongations incluses),2248,73698,1776535000,4637593968,38+,38+,3.85,0,False
-16552326,DEN Broncos vs. SEA Seahawks,Sam Darnold,Joueur total nombre de tentatives de passes(Sam Darnold (SEA)) (prolongations incluses),2248,73698,1776535000,4637593969,40+,40+,4.75,0,False
-16552326,DEN Broncos vs. SEA Seahawks,Sam Darnold,Joueur total nombre de tentatives de passes(Sam Darnold (SEA)) (prolongations incluses),2248,73698,1776535000,4637593970,42+,42+,6.25,0,False
-16552326,DEN Broncos vs. SEA Seahawks,Sam Darnold,Joueur total nombre de tentatives de passes(Sam Darnold (SEA)) (prolongations incluses),2248,73698,1776535000,4637593971,28+,28+,1.5264,0,False
+16552326,DEN Broncos vs. SEA Seahawks,Sam Darnold,Joueur total nombre de tentatives de passes(Sam Darnold (SEA)) (prolongations incluses),2248,73698,1776535000,4637784544,33+,33+,2.2,0,False
+16552326,DEN Broncos vs. SEA Seahawks,Sam Darnold,Joueur total nombre de tentatives de passes(Sam Darnold (SEA)) (prolongations incluses),2248,73698,1776535000,4637784545,35+,35+,2.65,0,False
+16552326,DEN Broncos vs. SEA Seahawks,Sam Darnold,Joueur total nombre de tentatives de passes(Sam Darnold (SEA)) (prolongations incluses),2248,73698,1776535000,4637784546,37+,37+,3.2,0,False
+16552326,DEN Broncos vs. SEA Seahawks,Sam Darnold,Joueur total nombre de tentatives de passes(Sam Darnold (SEA)) (prolongations incluses),2248,73698,1776535000,4637784547,39+,39+,4.0,0,False
+16552326,DEN Broncos vs. SEA Seahawks,Sam Darnold,Joueur total nombre de tentatives de passes(Sam Darnold (SEA)) (prolongations incluses),2248,73698,1776535000,4637784548,41+,41+,5.25,0,False
+16552326,DEN Broncos vs. SEA Seahawks,Sam Darnold,Joueur total nombre de tentatives de passes(Sam Darnold (SEA)) (prolongations incluses),2248,73698,1776535000,4637784549,43+,43+,6.75,0,False
+16552326,DEN Broncos vs. SEA Seahawks,Sam Darnold,Joueur total nombre de tentatives de passes(Sam Darnold (SEA)) (prolongations incluses),2248,73698,1776535000,4637784550,29+,29+,1.5715,0,False
+16552326,DEN Broncos vs. SEA Seahawks,Sam Darnold,Joueur total nombre de tentatives de passes(Sam Darnold (SEA)) (prolongations incluses),2248,73698,1776535000,4637784543,31+,31+,1.9091,0,False
 16552326,DEN Broncos vs. SEA Seahawks,Evan Engram,Joueur total de réception (Evan Engram (DEN)) (incl. OT),2142,72897,1776535558,4637595503,3+,3+,1.6897,0,False
 16552326,DEN Broncos vs. SEA Seahawks,Evan Engram,Joueur total de réception (Evan Engram (DEN)) (incl. OT),2142,72897,1776535558,4637595504,4+,4+,2.4,0,False
 16552326,DEN Broncos vs. SEA Seahawks,Evan Engram,Joueur total de réception (Evan Engram (DEN)) (incl. OT),2142,72897,1776535558,4637595505,5+,5+,3.85,0,False
@@ -1184,10 +1185,10 @@ event_id,match,player,market,market_type_id,sport_market_id,child_market_id,odd_
 16552326,DEN Broncos vs. SEA Seahawks,Evan Engram,Joueur total de réception (Evan Engram (DEN)) (incl. OT),2142,72897,1776535558,4637595507,7+,7+,12.0,0,False
 16552326,DEN Broncos vs. SEA Seahawks,Evan Engram,Joueur total de réception (Evan Engram (DEN)) (incl. OT),2142,72897,1776535558,4637595508,8+,8+,26.0,0,False
 16552326,DEN Broncos vs. SEA Seahawks,Evan Engram,Joueur total de réception (Evan Engram (DEN)) (incl. OT),2142,72897,1776535558,4637595509,2+,2+,1.1819,0,False
-16552326,DEN Broncos vs. SEA Seahawks,AJ Barner,Joueur total de réception (AJ Barner (SEA)) (incl. OT),2142,72897,1776535550,4637595456,2+,2+,1.2858,0,False
-16552326,DEN Broncos vs. SEA Seahawks,AJ Barner,Joueur total de réception (AJ Barner (SEA)) (incl. OT),2142,72897,1776535550,4637595450,3+,3+,2.0,0,False
-16552326,DEN Broncos vs. SEA Seahawks,AJ Barner,Joueur total de réception (AJ Barner (SEA)) (incl. OT),2142,72897,1776535550,4637595451,4+,4+,2.8,0,False
-16552326,DEN Broncos vs. SEA Seahawks,AJ Barner,Joueur total de réception (AJ Barner (SEA)) (incl. OT),2142,72897,1776535550,4637595452,5+,5+,4.4,0,False
+16552326,DEN Broncos vs. SEA Seahawks,AJ Barner,Joueur total de réception (AJ Barner (SEA)) (incl. OT),2142,72897,1776535550,4637595456,2+,2+,1.2667,0,False
+16552326,DEN Broncos vs. SEA Seahawks,AJ Barner,Joueur total de réception (AJ Barner (SEA)) (incl. OT),2142,72897,1776535550,4637595450,3+,3+,1.9524,0,False
+16552326,DEN Broncos vs. SEA Seahawks,AJ Barner,Joueur total de réception (AJ Barner (SEA)) (incl. OT),2142,72897,1776535550,4637595451,4+,4+,2.75,0,False
+16552326,DEN Broncos vs. SEA Seahawks,AJ Barner,Joueur total de réception (AJ Barner (SEA)) (incl. OT),2142,72897,1776535550,4637595452,5+,5+,4.3,0,False
 16552326,DEN Broncos vs. SEA Seahawks,AJ Barner,Joueur total de réception (AJ Barner (SEA)) (incl. OT),2142,72897,1776535550,4637595453,6+,6+,7.25,0,False
 16552326,DEN Broncos vs. SEA Seahawks,AJ Barner,Joueur total de réception (AJ Barner (SEA)) (incl. OT),2142,72897,1776535550,4637595454,7+,7+,14.0,0,False
 16552326,DEN Broncos vs. SEA Seahawks,AJ Barner,Joueur total de réception (AJ Barner (SEA)) (incl. OT),2142,72897,1776535550,4637595455,8+,8+,26.0,0,False
@@ -1204,7 +1205,7 @@ event_id,match,player,market,market_type_id,sport_market_id,child_market_id,odd_
 16552326,DEN Broncos vs. SEA Seahawks,Jaxon Smith-Njigba,Joueur total de réception (Jaxon Smith-Njigba (SEA)) (incl. OT),2142,72897,1776535001,4637593975,10+,10+,5.25,0,False
 16552326,DEN Broncos vs. SEA Seahawks,Jaxon Smith-Njigba,Joueur total de réception (Jaxon Smith-Njigba (SEA)) (incl. OT),2142,72897,1776535001,4637593976,11+,11+,8.5,0,False
 16552326,DEN Broncos vs. SEA Seahawks,Jaxon Smith-Njigba,Joueur total de réception (Jaxon Smith-Njigba (SEA)) (incl. OT),2142,72897,1776535001,4637593977,12+,12+,15.0,0,False
-16552326,DEN Broncos vs. SEA Seahawks,Jaxon Smith-Njigba,Joueur total de réception (Jaxon Smith-Njigba (SEA)) (incl. OT),2142,72897,1776535001,4637593978,6+,6+,1.3125,0,False
+16552326,DEN Broncos vs. SEA Seahawks,Jaxon Smith-Njigba,Joueur total de réception (Jaxon Smith-Njigba (SEA)) (incl. OT),2142,72897,1776535001,4637593978,6+,6+,1.3077,0,False
 16552326,DEN Broncos vs. SEA Seahawks,RJ Harvey,Joueur total de réception (RJ Harvey (DEN)) (incl. OT),2142,72897,1776535048,4637594130,4+,4+,1.9091,0,False
 16552326,DEN Broncos vs. SEA Seahawks,RJ Harvey,Joueur total de réception (RJ Harvey (DEN)) (incl. OT),2142,72897,1776535048,4637594131,5+,5+,2.55,0,False
 16552326,DEN Broncos vs. SEA Seahawks,RJ Harvey,Joueur total de réception (RJ Harvey (DEN)) (incl. OT),2142,72897,1776535048,4637594132,6+,6+,3.6,0,False
@@ -1212,10 +1213,10 @@ event_id,match,player,market,market_type_id,sport_market_id,child_market_id,odd_
 16552326,DEN Broncos vs. SEA Seahawks,RJ Harvey,Joueur total de réception (RJ Harvey (DEN)) (incl. OT),2142,72897,1776535048,4637594134,8+,8+,8.5,0,False
 16552326,DEN Broncos vs. SEA Seahawks,RJ Harvey,Joueur total de réception (RJ Harvey (DEN)) (incl. OT),2142,72897,1776535048,4637594135,9+,9+,14.0,0,False
 16552326,DEN Broncos vs. SEA Seahawks,RJ Harvey,Joueur total de réception (RJ Harvey (DEN)) (incl. OT),2142,72897,1776535048,4637594136,3+,3+,1.3449,0,False
-16552326,DEN Broncos vs. SEA Seahawks,Cooper Kupp,Joueur total de réception (Cooper Kupp (SEA)) (incl. OT),2142,72897,1776534994,4637593922,3+,3+,2.15,0,False
+16552326,DEN Broncos vs. SEA Seahawks,Cooper Kupp,Joueur total de réception (Cooper Kupp (SEA)) (incl. OT),2142,72897,1776534994,4637593922,3+,3+,2.1,0,False
 16552326,DEN Broncos vs. SEA Seahawks,Cooper Kupp,Joueur total de réception (Cooper Kupp (SEA)) (incl. OT),2142,72897,1776534994,4637593923,4+,4+,2.95,0,False
 16552326,DEN Broncos vs. SEA Seahawks,Cooper Kupp,Joueur total de réception (Cooper Kupp (SEA)) (incl. OT),2142,72897,1776534994,4637593924,5+,5+,4.5,0,False
-16552326,DEN Broncos vs. SEA Seahawks,Cooper Kupp,Joueur total de réception (Cooper Kupp (SEA)) (incl. OT),2142,72897,1776534994,4637593925,6+,6+,7.75,0,False
+16552326,DEN Broncos vs. SEA Seahawks,Cooper Kupp,Joueur total de réception (Cooper Kupp (SEA)) (incl. OT),2142,72897,1776534994,4637593925,6+,6+,7.5,0,False
 16552326,DEN Broncos vs. SEA Seahawks,Cooper Kupp,Joueur total de réception (Cooper Kupp (SEA)) (incl. OT),2142,72897,1776534994,4637593926,7+,7+,14.0,0,False
 16552326,DEN Broncos vs. SEA Seahawks,Cooper Kupp,Joueur total de réception (Cooper Kupp (SEA)) (incl. OT),2142,72897,1776534994,4637593927,2+,2+,1.3449,0,False
 16552326,DEN Broncos vs. SEA Seahawks,Cooper Kupp,Joueur total de réception (Cooper Kupp (SEA)) (incl. OT),2142,72897,1776534994,4637632540,8+,8+,26.0,0,False

@@ -1,8 +1,6 @@
 event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id,selection,line,price,odd_id,odd_status,is_main_bet
 17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,FIU Panthers,,2.1,4623267466,0,False
 17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Jacksonville State Gamecocks,,1.625,4623267467,0,False
-17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Jacksonville State Gamecocks (-19.5),-19.5,7.0,4642229275,0,False
-17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,FIU Panthers (+19.5),-19.5,1.0834,4642229276,0,False
 17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Jacksonville State Gamecocks (-15.5),-15.5,4.75,4637321506,0,False
 17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,FIU Panthers (+15.5),-15.5,1.1539,4637321507,0,False
 17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,FIU Panthers (+6.5),-6.5,1.5455,4637321508,0,False
@@ -17,10 +15,14 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Jacksonville State Gamecocks (-18.5),-18.5,6.5,4637321517,0,False
 17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,FIU Panthers (-2.5),2.5,2.4,4637321518,0,False
 17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Jacksonville State Gamecocks (+2.5),2.5,1.5264,4637321519,0,False
-17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,FIU Panthers (-10.5),10.5,5.25,4637321520,0,False
-17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Jacksonville State Gamecocks (+10.5),10.5,1.1334,4637321521,0,False
+17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,FIU Panthers (-10.5),10.5,5.5,4637321520,0,False
+17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Jacksonville State Gamecocks (+10.5),10.5,1.125,4637321521,0,False
 17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,FIU Panthers (-11.5),11.5,6.0,4637321522,0,False
 17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Jacksonville State Gamecocks (+11.5),11.5,1.1112,4637321523,0,False
+17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,FIU Panthers (-12.5),12.5,6.0,4637321524,0,False
+17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Jacksonville State Gamecocks (+12.5),12.5,1.1112,4637321525,0,False
+17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,FIU Panthers (-13.5),13.5,7.0,4637321526,0,False
+17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Jacksonville State Gamecocks (+13.5),13.5,1.0834,4637321527,0,False
 17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,FIU Panthers (+7.5),-7.5,1.4348,4637321528,0,False
 17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Jacksonville State Gamecocks (-7.5),-7.5,2.65,4637321529,0,False
 17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,FIU Panthers (-1.5),1.5,2.25,4637321530,0,False
@@ -41,32 +43,32 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Jacksonville State Gamecocks (+6.5),6.5,1.2858,4637321545,0,False
 17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,FIU Panthers (-5.5),5.5,3.2,4637321546,0,False
 17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Jacksonville State Gamecocks (+5.5),5.5,1.3125,4637321547,0,False
-17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,FIU Panthers (-4.5),4.5,3.1,4637321548,0,False
-17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Jacksonville State Gamecocks (+4.5),4.5,1.3334,4637321549,0,False
-17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Jacksonville State Gamecocks (+3.5),3.5,1.4,4637321550,0,False
-17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,FIU Panthers (-3.5),3.5,2.75,4637321551,0,False
-17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,FIU Panthers (-9.5),9.5,4.5,4637321552,0,False
-17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Jacksonville State Gamecocks (+9.5),9.5,1.1667,4637321553,0,False
+17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,FIU Panthers (-4.5),4.5,3.0,4637321548,0,False
+17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Jacksonville State Gamecocks (+4.5),4.5,1.3572,4637321549,0,False
+17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Jacksonville State Gamecocks (+3.5),3.5,1.3847,4637321550,0,False
+17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,FIU Panthers (-3.5),3.5,2.85,4637321551,0,False
+17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,FIU Panthers (-9.5),9.5,4.75,4637321552,0,False
+17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Jacksonville State Gamecocks (+9.5),9.5,1.1539,4637321553,0,False
 17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,FIU Panthers (-8.5),8.5,4.4,4637321554,0,False
 17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Jacksonville State Gamecocks (+8.5),8.5,1.1819,4637321555,0,False
 17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Jacksonville State Gamecocks (-5.5),-5.5,2.2,4637321556,0,False
 17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,FIU Panthers (+5.5),-5.5,1.625,4637321557,0,False
 17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,FIU Panthers (+4.5),-4.5,1.6667,4637321558,0,False
 17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Jacksonville State Gamecocks (-4.5),-4.5,2.1,4637321559,0,False
-17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Jacksonville State Gamecocks (-3.5),-3.5,1.9524,4637321560,0,False
-17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,FIU Panthers (+3.5),-3.5,1.7408,4637321561,0,False
+17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Jacksonville State Gamecocks (-3.5),-3.5,2.0,4637321560,0,False
+17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,FIU Panthers (+3.5),-3.5,1.7143,4637321561,0,False
 17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Jacksonville State Gamecocks (-9.5),-9.5,2.9,4637321562,0,False
 17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,FIU Panthers (+9.5),-9.5,1.3637,4637321563,0,False
-17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Jacksonville State Gamecocks (-8.5),-8.5,2.75,4637321564,0,False
-17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,FIU Panthers (+8.5),-8.5,1.4,4637321565,0,False
+17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Jacksonville State Gamecocks (-8.5),-8.5,2.85,4637321564,0,False
+17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,FIU Panthers (+8.5),-8.5,1.3847,4637321565,0,False
 17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Jacksonville State Gamecocks (-2.5),-2.5,1.7408,4632217720,0,True
 17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,FIU Panthers (+2.5),-2.5,1.9524,4632217721,0,True
-17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 34.5,34.5,3.25,4637321600,0,False
-17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 34.5,34.5,1.3031,4637321601,0,False
+17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 34.5,34.5,3.4,4637321600,0,False
+17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 34.5,34.5,1.2858,4637321601,0,False
 17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 54.5,54.5,1.2223,4637321602,0,False
 17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 54.5,54.5,4.0,4637321603,0,False
-17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 40.5,40.5,1.625,4637321604,0,False
-17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 40.5,40.5,2.2,4637321605,0,False
+17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 40.5,40.5,1.5715,4637321604,0,False
+17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 40.5,40.5,2.25,4637321605,0,False
 17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 50.5,50.5,1.3847,4637321606,0,False
 17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 50.5,50.5,2.85,4637321607,0,False
 17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 30.5,30.5,1.1539,4637321608,0,False
@@ -75,20 +77,20 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 35.5,35.5,3.1,4637321611,0,False
 17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 55.5,55.5,1.1819,4637321612,0,False
 17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 55.5,55.5,4.4,4637321613,0,False
-17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 45.5,45.5,1.625,4623267470,0,False
-17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 45.5,45.5,2.2,4623267471,0,False
+17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 45.5,45.5,1.6451,4623267470,0,False
+17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 45.5,45.5,2.15,4623267471,0,False
 17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 33.5,33.5,1.25,4637321616,0,False
 17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 53.5,53.5,3.7,4637321615,0,False
-17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 38.5,38.5,1.5264,4637321618,0,False
+17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 38.5,38.5,1.5,4637321618,0,False
 17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 33.5,33.5,3.7,4637321617,0,False
 17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 48.5,48.5,2.6,4637321620,0,False
-17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 38.5,38.5,2.4,4637321619,0,False
+17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 38.5,38.5,2.5,4637321619,0,False
 17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 48.5,48.5,1.4546,4637321621,0,False
 17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 52.5,52.5,3.5,4637321623,0,False
 17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 32.5,32.5,1.2223,4637321624,0,False
 17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 32.5,32.5,4.0,4637321625,0,False
-17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 39.5,39.5,1.5556,4637321626,0,False
-17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 39.5,39.5,2.3,4637321627,0,False
+17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 39.5,39.5,1.5455,4637321626,0,False
+17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 39.5,39.5,2.35,4637321627,0,False
 17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 49.5,49.5,1.4167,4637321628,0,False
 17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 49.5,49.5,2.7,4637321629,0,False
 17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 52.5,52.5,1.2667,4637321622,0,False
@@ -101,24 +103,24 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 53.5,53.5,1.25,4637321614,0,False
 17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 44.5,44.5,1.7143,4633641692,0,False
 17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 44.5,44.5,2.0,4633641693,0,False
-17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 36.5,36.5,1.3637,4637321576,0,False
-17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 36.5,36.5,2.9,4637321577,0,False
-17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 56.5,56.5,1.1667,4637321578,0,False
-17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 56.5,56.5,4.5,4637321579,0,False
+17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 36.5,36.5,1.3572,4637321576,0,False
+17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 36.5,36.5,3.0,4637321577,0,False
+17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 56.5,56.5,1.1539,4637321578,0,False
+17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 56.5,56.5,4.75,4637321579,0,False
 17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 46.5,46.5,1.5715,4637321580,0,False
 17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 46.5,46.5,2.25,4637321581,0,False
 17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 28.5,28.5,1.1112,4637321582,0,False
 17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 28.5,28.5,6.0,4637321583,0,False
 17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 29.5,29.5,1.125,4637321584,0,False
 17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 29.5,29.5,5.5,4637321585,0,False
-17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 37.5,37.5,1.4546,4637321588,0,False
-17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 42.5,42.5,1.7693,4635075445,0,False
-17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 37.5,37.5,2.6,4637321589,0,False
+17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 37.5,37.5,1.4348,4637321588,0,False
+17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 42.5,42.5,1.7408,4635075445,0,False
+17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 37.5,37.5,2.65,4637321589,0,False
 17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 57.5,57.5,5.0,4637321591,0,False
-17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 42.5,42.5,1.9091,4635075446,0,False
+17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 42.5,42.5,1.9524,4635075446,0,False
 17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 47.5,47.5,2.4,4637321593,0,False
-17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 41.5,41.5,1.7143,4637321594,0,False
-17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 41.5,41.5,2.0,4637321595,0,False
+17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 41.5,41.5,1.6897,4637321594,0,False
+17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 41.5,41.5,2.05,4637321595,0,False
 17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 51.5,51.5,3.2,4637321596,0,False
 17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 51.5,51.5,1.3125,4637321597,0,False
 17764171,Jacksonville State Gamecocks vs. FIU Panthers,2026-10-14T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 31.5,31.5,1.2,4637321598,0,False

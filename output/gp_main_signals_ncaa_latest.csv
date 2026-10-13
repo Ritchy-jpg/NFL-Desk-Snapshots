@@ -1,3 +1,9 @@
 captured_at,event_id,match,start_date,market,selection,side,signal,old_line,new_line,old_price,new_price,old_status,new_status,old_is_main_bet,new_is_main_bet
-2026-10-13T12:57:20.727001+00:00,17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,spread,BYU Cougars (+10.5),BYU Cougars,REMOVED_MAIN,10.5,,1.7693,,0,,1,
-2026-10-13T12:57:20.727001+00:00,17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,spread,Notre Dame Fighting Irish (-10.5),Notre Dame Fighting Irish,REMOVED_MAIN,-10.5,,1.9091,,0,,1,
+2026-10-13T13:26:34.021986+00:00,17773663,Sam Houston State Bearkats vs. Western Kentucky Hilltoppers,2026-10-15T00:00:00Z,spread,Western Kentucky Hilltoppers (-1.5),Western Kentucky Hilltoppers,MAIN_PRICE_MOVE,-1.5,-1.5,1.9091,1.8696,0,0.0,1,1.0
+2026-10-13T13:26:34.021986+00:00,17773663,Sam Houston State Bearkats vs. Western Kentucky Hilltoppers,2026-10-15T00:00:00Z,spread,Sam Houston State Bearkats (+1.5),Sam Houston State Bearkats,MAIN_PRICE_MOVE,1.5,1.5,1.7693,1.8,0,0.0,1,1.0
+2026-10-13T13:26:34.021986+00:00,17783360,Texas State Bobcats vs. COLORADO,2026-10-16T00:00:00Z,total,Moins de 71.5,under,MAIN_PRICE_MOVE,71.5,71.5,1.8334,1.8696,0,0.0,1,1.0
+2026-10-13T13:26:34.021986+00:00,17783360,Texas State Bobcats vs. COLORADO,2026-10-16T00:00:00Z,total,Plus de 71.5,over,MAIN_PRICE_MOVE,71.5,71.5,1.8334,1.8,0,0.0,1,1.0
+2026-10-13T13:26:34.021986+00:00,17803693,West Virginia Mountaineers vs. Cincinnati Bearcats,2026-10-17T16:00:00Z,total,Moins de 63.5,under,MAIN_SWITCH,63.5,63.5,1.8,1.8,0,0.0,1,0.0
+2026-10-13T13:26:34.021986+00:00,17803693,West Virginia Mountaineers vs. Cincinnati Bearcats,2026-10-17T16:00:00Z,total,Plus de 63.5,over,MAIN_SWITCH,63.5,63.5,1.8696,1.8696,0,0.0,1,0.0
+2026-10-13T13:26:34.021986+00:00,17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,spread,BYU Cougars (+10.5),BYU Cougars,REMOVED_MAIN,10.5,,1.8,,0,,1,
+2026-10-13T13:26:34.021986+00:00,17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,spread,Notre Dame Fighting Irish (-10.5),Notre Dame Fighting Irish,REMOVED_MAIN,-10.5,,1.8696,,0,,1,

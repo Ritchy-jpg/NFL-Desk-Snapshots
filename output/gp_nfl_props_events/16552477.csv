@@ -1,8 +1,8 @@
 event_id,match,player,market,market_type_id,sport_market_id,child_market_id,odd_id,selection,line,price,odd_status,is_main_bet
 16552477,SF 49ers vs. WAS Commanders,Brock Purdy,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1778229013,4642533545,Brock Purdy (SF) moins de 246.5,Brock Purdy (SF) moins de 246.5,1.8334,0,False
 16552477,SF 49ers vs. WAS Commanders,Brock Purdy,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1778229013,4642533546,Brock Purdy (SF) Plus de 246.5,Brock Purdy (SF) Plus de 246.5,1.8,0,False
-16552477,SF 49ers vs. WAS Commanders,Jayden Daniels,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1778744417,4643949870,Jayden Daniels (WAS) moins de 202.5,Jayden Daniels (WAS) moins de 202.5,1.8334,0,False
-16552477,SF 49ers vs. WAS Commanders,Jayden Daniels,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1778744417,4643949871,Jayden Daniels (WAS) Plus de 202.5,Jayden Daniels (WAS) Plus de 202.5,1.8,0,False
+16552477,SF 49ers vs. WAS Commanders,Jayden Daniels,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1778228949,4642533360,Jayden Daniels (WAS) Plus de 205.5,Jayden Daniels (WAS) Plus de 205.5,1.8,0,False
+16552477,SF 49ers vs. WAS Commanders,Jayden Daniels,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1778228949,4642533361,Jayden Daniels (WAS) moins de 205.5,Jayden Daniels (WAS) moins de 205.5,1.8334,0,False
 16552477,SF 49ers vs. WAS Commanders,Brock Purdy,"Passes complétées, Joueur (prolongations incluses)",760,71921,1778228966,4642533394,Brock Purdy (SF) moins de 21.5,Brock Purdy (SF) moins de 21.5,1.8334,0,False
 16552477,SF 49ers vs. WAS Commanders,Brock Purdy,"Passes complétées, Joueur (prolongations incluses)",760,71921,1778228966,4642533395,Brock Purdy (SF) Plus de 21.5,Brock Purdy (SF) Plus de 21.5,1.8,0,False
 16552477,SF 49ers vs. WAS Commanders,Jayden Daniels,"Passes complétées, Joueur (prolongations incluses)",760,71921,1778228967,4642533396,Jayden Daniels (WAS) moins de 18.5,Jayden Daniels (WAS) moins de 18.5,1.8696,0,False
@@ -57,42 +57,43 @@ event_id,match,player,market,market_type_id,sport_market_id,child_market_id,odd_
 16552477,SF 49ers vs. WAS Commanders,Brock Purdy,Joueur total de yards par la passe (Brock Purdy (SF))(prolongations incluses),2136,72891,1778229008,4642533518,237+,237+,1.6667,0,False
 16552477,SF 49ers vs. WAS Commanders,Brock Purdy,Joueur total de yards par la passe (Brock Purdy (SF))(prolongations incluses),2136,72891,1778229008,4642533519,227+,227+,1.5,0,False
 16552477,SF 49ers vs. WAS Commanders,Brock Purdy,Joueur total de yards par la passe (Brock Purdy (SF))(prolongations incluses),2136,72891,1778229008,4642533503,247+,247+,1.8696,0,False
-16552477,SF 49ers vs. WAS Commanders,Jayden Daniels,Joueur total de yards par la passe (Jayden Daniels (WAS))(prolongations incluses),2136,72891,1778228931,4643949856,233+,233+,2.55,0,False
-16552477,SF 49ers vs. WAS Commanders,Jayden Daniels,Joueur total de yards par la passe (Jayden Daniels (WAS))(prolongations incluses),2136,72891,1778228931,4643949857,243+,243+,2.9,0,False
-16552477,SF 49ers vs. WAS Commanders,Jayden Daniels,Joueur total de yards par la passe (Jayden Daniels (WAS))(prolongations incluses),2136,72891,1778228931,4643949858,253+,253+,3.3,0,False
-16552477,SF 49ers vs. WAS Commanders,Jayden Daniels,Joueur total de yards par la passe (Jayden Daniels (WAS))(prolongations incluses),2136,72891,1778228931,4643949859,263+,263+,3.85,0,False
-16552477,SF 49ers vs. WAS Commanders,Jayden Daniels,Joueur total de yards par la passe (Jayden Daniels (WAS))(prolongations incluses),2136,72891,1778228931,4643949860,273+,273+,4.4,0,False
-16552477,SF 49ers vs. WAS Commanders,Jayden Daniels,Joueur total de yards par la passe (Jayden Daniels (WAS))(prolongations incluses),2136,72891,1778228931,4643949861,283+,283+,5.25,0,False
-16552477,SF 49ers vs. WAS Commanders,Jayden Daniels,Joueur total de yards par la passe (Jayden Daniels (WAS))(prolongations incluses),2136,72891,1778228931,4643949862,293+,293+,6.0,0,False
-16552477,SF 49ers vs. WAS Commanders,Jayden Daniels,Joueur total de yards par la passe (Jayden Daniels (WAS))(prolongations incluses),2136,72891,1778228931,4643949863,303+,303+,7.25,0,False
-16552477,SF 49ers vs. WAS Commanders,Jayden Daniels,Joueur total de yards par la passe (Jayden Daniels (WAS))(prolongations incluses),2136,72891,1778228931,4643949864,313+,313+,9.0,0,False
-16552477,SF 49ers vs. WAS Commanders,Jayden Daniels,Joueur total de yards par la passe (Jayden Daniels (WAS))(prolongations incluses),2136,72891,1778228931,4643949865,323+,323+,11.0,0,False
-16552477,SF 49ers vs. WAS Commanders,Jayden Daniels,Joueur total de yards par la passe (Jayden Daniels (WAS))(prolongations incluses),2136,72891,1778228931,4643949866,333+,333+,13.0,0,False
-16552477,SF 49ers vs. WAS Commanders,Jayden Daniels,Joueur total de yards par la passe (Jayden Daniels (WAS))(prolongations incluses),2136,72891,1778228931,4643949867,343+,343+,17.0,0,False
-16552477,SF 49ers vs. WAS Commanders,Jayden Daniels,Joueur total de yards par la passe (Jayden Daniels (WAS))(prolongations incluses),2136,72891,1778228931,4643949868,193+,193+,1.6897,0,False
-16552477,SF 49ers vs. WAS Commanders,Jayden Daniels,Joueur total de yards par la passe (Jayden Daniels (WAS))(prolongations incluses),2136,72891,1778228931,4643949869,183+,183+,1.5264,0,False
-16552477,SF 49ers vs. WAS Commanders,Jayden Daniels,Joueur total de yards par la passe (Jayden Daniels (WAS))(prolongations incluses),2136,72891,1778228931,4643949853,203+,203+,1.8696,0,False
-16552477,SF 49ers vs. WAS Commanders,Jayden Daniels,Joueur total de yards par la passe (Jayden Daniels (WAS))(prolongations incluses),2136,72891,1778228931,4643949854,213+,213+,2.05,0,False
-16552477,SF 49ers vs. WAS Commanders,Jayden Daniels,Joueur total de yards par la passe (Jayden Daniels (WAS))(prolongations incluses),2136,72891,1778228931,4643949855,223+,223+,2.3,0,False
-16552477,SF 49ers vs. WAS Commanders,Christian McCaffrey,Total des yards reçus par le joueur (Christian McCaffrey (SF)) (prolongations incluses),2143,72898,1778229086,4646343873,39+,39+,1.8334,0,False
-16552477,SF 49ers vs. WAS Commanders,Christian McCaffrey,Total des yards reçus par le joueur (Christian McCaffrey (SF)) (prolongations incluses),2143,72898,1778229086,4646343874,49+,49+,2.3,0,False
-16552477,SF 49ers vs. WAS Commanders,Christian McCaffrey,Total des yards reçus par le joueur (Christian McCaffrey (SF)) (prolongations incluses),2143,72898,1778229086,4646343875,59+,59+,2.9,0,False
-16552477,SF 49ers vs. WAS Commanders,Christian McCaffrey,Total des yards reçus par le joueur (Christian McCaffrey (SF)) (prolongations incluses),2143,72898,1778229086,4646343876,69+,69+,3.85,0,False
-16552477,SF 49ers vs. WAS Commanders,Christian McCaffrey,Total des yards reçus par le joueur (Christian McCaffrey (SF)) (prolongations incluses),2143,72898,1778229086,4646343877,79+,79+,5.25,0,False
-16552477,SF 49ers vs. WAS Commanders,Christian McCaffrey,Total des yards reçus par le joueur (Christian McCaffrey (SF)) (prolongations incluses),2143,72898,1778229086,4646343878,89+,89+,7.75,0,False
-16552477,SF 49ers vs. WAS Commanders,Christian McCaffrey,Total des yards reçus par le joueur (Christian McCaffrey (SF)) (prolongations incluses),2143,72898,1778229086,4646343879,99+,99+,12.0,0,False
-16552477,SF 49ers vs. WAS Commanders,Christian McCaffrey,Total des yards reçus par le joueur (Christian McCaffrey (SF)) (prolongations incluses),2143,72898,1778229086,4646343880,109+,109+,19.0,0,False
-16552477,SF 49ers vs. WAS Commanders,Christian McCaffrey,Total des yards reçus par le joueur (Christian McCaffrey (SF)) (prolongations incluses),2143,72898,1778229086,4646343881,119+,119+,31.0,0,False
-16552477,SF 49ers vs. WAS Commanders,Christian McCaffrey,Total des yards reçus par le joueur (Christian McCaffrey (SF)) (prolongations incluses),2143,72898,1778229086,4646343882,29+,29+,1.4,0,False
-16552477,SF 49ers vs. WAS Commanders,George Kittle,Total des yards reçus par le joueur (George Kittle (SF)) (prolongations incluses),2143,72898,1778229009,4647161636,95+,95+,3.5,0,False
-16552477,SF 49ers vs. WAS Commanders,George Kittle,Total des yards reçus par le joueur (George Kittle (SF)) (prolongations incluses),2143,72898,1778229009,4647161637,105+,105+,4.5,0,False
-16552477,SF 49ers vs. WAS Commanders,George Kittle,Total des yards reçus par le joueur (George Kittle (SF)) (prolongations incluses),2143,72898,1778229009,4647161639,125+,125+,9.0,0,False
-16552477,SF 49ers vs. WAS Commanders,George Kittle,Total des yards reçus par le joueur (George Kittle (SF)) (prolongations incluses),2143,72898,1778229009,4647161640,135+,135+,13.0,0,False
-16552477,SF 49ers vs. WAS Commanders,George Kittle,Total des yards reçus par le joueur (George Kittle (SF)) (prolongations incluses),2143,72898,1778229009,4647161641,145+,145+,20.0,0,False
-16552477,SF 49ers vs. WAS Commanders,George Kittle,Total des yards reçus par le joueur (George Kittle (SF)) (prolongations incluses),2143,72898,1778229009,4647161642,55+,55+,1.4762,0,False
-16552477,SF 49ers vs. WAS Commanders,George Kittle,Total des yards reçus par le joueur (George Kittle (SF)) (prolongations incluses),2143,72898,1778229009,4647161420,65+,65+,1.8696,0,False
-16552477,SF 49ers vs. WAS Commanders,George Kittle,Total des yards reçus par le joueur (George Kittle (SF)) (prolongations incluses),2143,72898,1778229009,4647161421,75+,75+,2.25,0,False
-16552477,SF 49ers vs. WAS Commanders,George Kittle,Total des yards reçus par le joueur (George Kittle (SF)) (prolongations incluses),2143,72898,1778229009,4647161422,85+,85+,2.75,0,False
+16552477,SF 49ers vs. WAS Commanders,Jayden Daniels,Joueur total de yards par la passe (Jayden Daniels (WAS))(prolongations incluses),2136,72891,1778228931,4642533248,186+,186+,1.5264,0,False
+16552477,SF 49ers vs. WAS Commanders,Jayden Daniels,Joueur total de yards par la passe (Jayden Daniels (WAS))(prolongations incluses),2136,72891,1778228931,4642533232,206+,206+,1.8696,0,False
+16552477,SF 49ers vs. WAS Commanders,Jayden Daniels,Joueur total de yards par la passe (Jayden Daniels (WAS))(prolongations incluses),2136,72891,1778228931,4642533233,216+,216+,2.05,0,False
+16552477,SF 49ers vs. WAS Commanders,Jayden Daniels,Joueur total de yards par la passe (Jayden Daniels (WAS))(prolongations incluses),2136,72891,1778228931,4642533234,226+,226+,2.3,0,False
+16552477,SF 49ers vs. WAS Commanders,Jayden Daniels,Joueur total de yards par la passe (Jayden Daniels (WAS))(prolongations incluses),2136,72891,1778228931,4642533235,236+,236+,2.55,0,False
+16552477,SF 49ers vs. WAS Commanders,Jayden Daniels,Joueur total de yards par la passe (Jayden Daniels (WAS))(prolongations incluses),2136,72891,1778228931,4642533236,246+,246+,2.9,0,False
+16552477,SF 49ers vs. WAS Commanders,Jayden Daniels,Joueur total de yards par la passe (Jayden Daniels (WAS))(prolongations incluses),2136,72891,1778228931,4642533237,256+,256+,3.3,0,False
+16552477,SF 49ers vs. WAS Commanders,Jayden Daniels,Joueur total de yards par la passe (Jayden Daniels (WAS))(prolongations incluses),2136,72891,1778228931,4642533238,266+,266+,3.85,0,False
+16552477,SF 49ers vs. WAS Commanders,Jayden Daniels,Joueur total de yards par la passe (Jayden Daniels (WAS))(prolongations incluses),2136,72891,1778228931,4642533239,276+,276+,4.4,0,False
+16552477,SF 49ers vs. WAS Commanders,Jayden Daniels,Joueur total de yards par la passe (Jayden Daniels (WAS))(prolongations incluses),2136,72891,1778228931,4642533240,286+,286+,5.25,0,False
+16552477,SF 49ers vs. WAS Commanders,Jayden Daniels,Joueur total de yards par la passe (Jayden Daniels (WAS))(prolongations incluses),2136,72891,1778228931,4642533241,296+,296+,6.25,0,False
+16552477,SF 49ers vs. WAS Commanders,Jayden Daniels,Joueur total de yards par la passe (Jayden Daniels (WAS))(prolongations incluses),2136,72891,1778228931,4642533242,306+,306+,7.5,0,False
+16552477,SF 49ers vs. WAS Commanders,Jayden Daniels,Joueur total de yards par la passe (Jayden Daniels (WAS))(prolongations incluses),2136,72891,1778228931,4642533243,316+,316+,9.0,0,False
+16552477,SF 49ers vs. WAS Commanders,Jayden Daniels,Joueur total de yards par la passe (Jayden Daniels (WAS))(prolongations incluses),2136,72891,1778228931,4642533244,326+,326+,11.0,0,False
+16552477,SF 49ers vs. WAS Commanders,Jayden Daniels,Joueur total de yards par la passe (Jayden Daniels (WAS))(prolongations incluses),2136,72891,1778228931,4642533245,336+,336+,14.0,0,False
+16552477,SF 49ers vs. WAS Commanders,Jayden Daniels,Joueur total de yards par la passe (Jayden Daniels (WAS))(prolongations incluses),2136,72891,1778228931,4642533246,346+,346+,17.0,0,False
+16552477,SF 49ers vs. WAS Commanders,Jayden Daniels,Joueur total de yards par la passe (Jayden Daniels (WAS))(prolongations incluses),2136,72891,1778228931,4642533247,196+,196+,1.6897,0,False
+16552477,SF 49ers vs. WAS Commanders,Christian McCaffrey,Total des yards reçus par le joueur (Christian McCaffrey (SF)) (prolongations incluses),2143,72898,1778229086,4642533760,30+,30+,1.4348,0,False
+16552477,SF 49ers vs. WAS Commanders,Christian McCaffrey,Total des yards reçus par le joueur (Christian McCaffrey (SF)) (prolongations incluses),2143,72898,1778229086,4642533751,40+,40+,1.8696,0,False
+16552477,SF 49ers vs. WAS Commanders,Christian McCaffrey,Total des yards reçus par le joueur (Christian McCaffrey (SF)) (prolongations incluses),2143,72898,1778229086,4642533752,50+,50+,2.3,0,False
+16552477,SF 49ers vs. WAS Commanders,Christian McCaffrey,Total des yards reçus par le joueur (Christian McCaffrey (SF)) (prolongations incluses),2143,72898,1778229086,4642533753,60+,60+,3.0,0,False
+16552477,SF 49ers vs. WAS Commanders,Christian McCaffrey,Total des yards reçus par le joueur (Christian McCaffrey (SF)) (prolongations incluses),2143,72898,1778229086,4642533754,70+,70+,4.0,0,False
+16552477,SF 49ers vs. WAS Commanders,Christian McCaffrey,Total des yards reçus par le joueur (Christian McCaffrey (SF)) (prolongations incluses),2143,72898,1778229086,4642533755,80+,80+,5.5,0,False
+16552477,SF 49ers vs. WAS Commanders,Christian McCaffrey,Total des yards reçus par le joueur (Christian McCaffrey (SF)) (prolongations incluses),2143,72898,1778229086,4642533756,90+,90+,8.0,0,False
+16552477,SF 49ers vs. WAS Commanders,Christian McCaffrey,Total des yards reçus par le joueur (Christian McCaffrey (SF)) (prolongations incluses),2143,72898,1778229086,4642533757,100+,100+,13.0,0,False
+16552477,SF 49ers vs. WAS Commanders,Christian McCaffrey,Total des yards reçus par le joueur (Christian McCaffrey (SF)) (prolongations incluses),2143,72898,1778229086,4642533758,110+,110+,20.0,0,False
+16552477,SF 49ers vs. WAS Commanders,Christian McCaffrey,Total des yards reçus par le joueur (Christian McCaffrey (SF)) (prolongations incluses),2143,72898,1778229086,4642533759,120+,120+,31.0,0,False
+16552477,SF 49ers vs. WAS Commanders,George Kittle,Total des yards reçus par le joueur (George Kittle (SF)) (prolongations incluses),2143,72898,1778229009,4642533520,64+,64+,1.8696,0,False
+16552477,SF 49ers vs. WAS Commanders,George Kittle,Total des yards reçus par le joueur (George Kittle (SF)) (prolongations incluses),2143,72898,1778229009,4642533521,74+,74+,2.25,0,False
+16552477,SF 49ers vs. WAS Commanders,George Kittle,Total des yards reçus par le joueur (George Kittle (SF)) (prolongations incluses),2143,72898,1778229009,4642533522,84+,84+,2.75,0,False
+16552477,SF 49ers vs. WAS Commanders,George Kittle,Total des yards reçus par le joueur (George Kittle (SF)) (prolongations incluses),2143,72898,1778229009,4642533523,94+,94+,3.5,0,False
+16552477,SF 49ers vs. WAS Commanders,George Kittle,Total des yards reçus par le joueur (George Kittle (SF)) (prolongations incluses),2143,72898,1778229009,4642533524,104+,104+,4.5,0,False
+16552477,SF 49ers vs. WAS Commanders,George Kittle,Total des yards reçus par le joueur (George Kittle (SF)) (prolongations incluses),2143,72898,1778229009,4642533525,114+,114+,6.25,0,False
+16552477,SF 49ers vs. WAS Commanders,George Kittle,Total des yards reçus par le joueur (George Kittle (SF)) (prolongations incluses),2143,72898,1778229009,4642533526,124+,124+,9.0,0,False
+16552477,SF 49ers vs. WAS Commanders,George Kittle,Total des yards reçus par le joueur (George Kittle (SF)) (prolongations incluses),2143,72898,1778229009,4642533527,134+,134+,13.0,0,False
+16552477,SF 49ers vs. WAS Commanders,George Kittle,Total des yards reçus par le joueur (George Kittle (SF)) (prolongations incluses),2143,72898,1778229009,4642533528,144+,144+,19.0,0,False
+16552477,SF 49ers vs. WAS Commanders,George Kittle,Total des yards reçus par le joueur (George Kittle (SF)) (prolongations incluses),2143,72898,1778229009,4642533529,54+,54+,1.4762,0,False
 16552477,SF 49ers vs. WAS Commanders,Mike Evans,Total des yards reçus par le joueur (Mike Evans (SF)) (prolongations incluses),2143,72898,1778229007,4644013558,74+,74+,1.8696,0,False
 16552477,SF 49ers vs. WAS Commanders,Mike Evans,Total des yards reçus par le joueur (Mike Evans (SF)) (prolongations incluses),2143,72898,1778229007,4644013559,84+,84+,2.2,0,False
 16552477,SF 49ers vs. WAS Commanders,Mike Evans,Total des yards reçus par le joueur (Mike Evans (SF)) (prolongations incluses),2143,72898,1778229007,4644013560,94+,94+,2.6,0,False
@@ -200,13 +201,6 @@ event_id,match,player,market,market_type_id,sport_market_id,child_market_id,odd_
 16552477,SF 49ers vs. WAS Commanders,Jayden Daniels,Joueur total nombre de tentatives de passes(Jayden Daniels (WAS)) (prolongations incluses),2248,73698,1778228940,4642533302,41+,41+,5.25,0,False
 16552477,SF 49ers vs. WAS Commanders,Jayden Daniels,Joueur total nombre de tentatives de passes(Jayden Daniels (WAS)) (prolongations incluses),2248,73698,1778228940,4642533303,43+,43+,6.75,0,False
 16552477,SF 49ers vs. WAS Commanders,Jayden Daniels,Joueur total nombre de tentatives de passes(Jayden Daniels (WAS)) (prolongations incluses),2248,73698,1778228940,4642533304,29+,29+,1.6061,0,False
-16552477,SF 49ers vs. WAS Commanders,Christian McCaffrey,Joueur total de réception (Christian McCaffrey (SF)) (incl. OT),2142,72897,1778228941,4642533305,5+,5+,1.8,0,False
-16552477,SF 49ers vs. WAS Commanders,Christian McCaffrey,Joueur total de réception (Christian McCaffrey (SF)) (incl. OT),2142,72897,1778228941,4642533306,6+,6+,2.5,0,False
-16552477,SF 49ers vs. WAS Commanders,Christian McCaffrey,Joueur total de réception (Christian McCaffrey (SF)) (incl. OT),2142,72897,1778228941,4642533307,7+,7+,3.75,0,False
-16552477,SF 49ers vs. WAS Commanders,Christian McCaffrey,Joueur total de réception (Christian McCaffrey (SF)) (incl. OT),2142,72897,1778228941,4642533308,8+,8+,6.0,0,False
-16552477,SF 49ers vs. WAS Commanders,Christian McCaffrey,Joueur total de réception (Christian McCaffrey (SF)) (incl. OT),2142,72897,1778228941,4642533309,9+,9+,11.0,0,False
-16552477,SF 49ers vs. WAS Commanders,Christian McCaffrey,Joueur total de réception (Christian McCaffrey (SF)) (incl. OT),2142,72897,1778228941,4642533310,10+,10+,20.0,0,False
-16552477,SF 49ers vs. WAS Commanders,Christian McCaffrey,Joueur total de réception (Christian McCaffrey (SF)) (incl. OT),2142,72897,1778228941,4642533311,4+,4+,1.25,0,False
 16552477,SF 49ers vs. WAS Commanders,Mike Evans,Joueur total de réception (Mike Evans (SF)) (incl. OT),2142,72897,1778229006,4642533486,6+,6+,1.8,0,False
 16552477,SF 49ers vs. WAS Commanders,Mike Evans,Joueur total de réception (Mike Evans (SF)) (incl. OT),2142,72897,1778229006,4642533487,7+,7+,2.5,0,False
 16552477,SF 49ers vs. WAS Commanders,Mike Evans,Joueur total de réception (Mike Evans (SF)) (incl. OT),2142,72897,1778229006,4642533488,8+,8+,3.75,0,False
@@ -214,6 +208,13 @@ event_id,match,player,market,market_type_id,sport_market_id,child_market_id,odd_
 16552477,SF 49ers vs. WAS Commanders,Mike Evans,Joueur total de réception (Mike Evans (SF)) (incl. OT),2142,72897,1778229006,4642533490,10+,10+,10.0,0,False
 16552477,SF 49ers vs. WAS Commanders,Mike Evans,Joueur total de réception (Mike Evans (SF)) (incl. OT),2142,72897,1778229006,4642533491,11+,11+,19.0,0,False
 16552477,SF 49ers vs. WAS Commanders,Mike Evans,Joueur total de réception (Mike Evans (SF)) (incl. OT),2142,72897,1778229006,4642533492,5+,5+,1.25,0,False
+16552477,SF 49ers vs. WAS Commanders,Christian McCaffrey,Joueur total de réception (Christian McCaffrey (SF)) (incl. OT),2142,72897,1778228941,4642533305,5+,5+,1.8334,0,False
+16552477,SF 49ers vs. WAS Commanders,Christian McCaffrey,Joueur total de réception (Christian McCaffrey (SF)) (incl. OT),2142,72897,1778228941,4642533306,6+,6+,2.55,0,False
+16552477,SF 49ers vs. WAS Commanders,Christian McCaffrey,Joueur total de réception (Christian McCaffrey (SF)) (incl. OT),2142,72897,1778228941,4642533307,7+,7+,3.85,0,False
+16552477,SF 49ers vs. WAS Commanders,Christian McCaffrey,Joueur total de réception (Christian McCaffrey (SF)) (incl. OT),2142,72897,1778228941,4642533308,8+,8+,6.25,0,False
+16552477,SF 49ers vs. WAS Commanders,Christian McCaffrey,Joueur total de réception (Christian McCaffrey (SF)) (incl. OT),2142,72897,1778228941,4642533309,9+,9+,11.0,0,False
+16552477,SF 49ers vs. WAS Commanders,Christian McCaffrey,Joueur total de réception (Christian McCaffrey (SF)) (incl. OT),2142,72897,1778228941,4642533310,10+,10+,20.0,0,False
+16552477,SF 49ers vs. WAS Commanders,Christian McCaffrey,Joueur total de réception (Christian McCaffrey (SF)) (incl. OT),2142,72897,1778228941,4642533311,4+,4+,1.2667,0,False
 16552477,SF 49ers vs. WAS Commanders,George Kittle,Joueur total de réception (George Kittle (SF)) (incl. OT),2142,72897,1778228937,4642533280,7+,7+,2.85,0,False
 16552477,SF 49ers vs. WAS Commanders,George Kittle,Joueur total de réception (George Kittle (SF)) (incl. OT),2142,72897,1778228937,4642533281,8+,8+,4.4,0,False
 16552477,SF 49ers vs. WAS Commanders,George Kittle,Joueur total de réception (George Kittle (SF)) (incl. OT),2142,72897,1778228937,4642533282,9+,9+,7.25,0,False
@@ -237,14 +238,14 @@ event_id,match,player,market,market_type_id,sport_market_id,child_market_id,odd_
 16552477,SF 49ers vs. WAS Commanders,Christian McCaffrey,Joueur total de courses (Christian McCaffrey (SF)) (prolongations incluses),2133,72890,1778229010,4642533533,18+,18+,2.8,0,False
 16552477,SF 49ers vs. WAS Commanders,Christian McCaffrey,Joueur total de courses (Christian McCaffrey (SF)) (prolongations incluses),2133,72890,1778229010,4642533534,19+,19+,3.3,0,False
 16552477,SF 49ers vs. WAS Commanders,Christian McCaffrey,Joueur total de courses (Christian McCaffrey (SF)) (prolongations incluses),2133,72890,1778229010,4642533535,20+,20+,3.85,0,False
-16552477,SF 49ers vs. WAS Commanders,Jacory Croskey-Merritt,Joueur total de courses (Jacory Croskey-Merritt (WAS)) (prolongations incluses),2133,72890,1778228944,4642533412,10+,10+,1.4762,0,False
-16552477,SF 49ers vs. WAS Commanders,Jacory Croskey-Merritt,Joueur total de courses (Jacory Croskey-Merritt (WAS)) (prolongations incluses),2133,72890,1778228944,4642533327,12+,12+,2.0,0,False
-16552477,SF 49ers vs. WAS Commanders,Jacory Croskey-Merritt,Joueur total de courses (Jacory Croskey-Merritt (WAS)) (prolongations incluses),2133,72890,1778228944,4642533328,13+,13+,2.25,0,False
-16552477,SF 49ers vs. WAS Commanders,Jacory Croskey-Merritt,Joueur total de courses (Jacory Croskey-Merritt (WAS)) (prolongations incluses),2133,72890,1778228944,4642533329,14+,14+,2.6,0,False
-16552477,SF 49ers vs. WAS Commanders,Jacory Croskey-Merritt,Joueur total de courses (Jacory Croskey-Merritt (WAS)) (prolongations incluses),2133,72890,1778228944,4642533330,15+,15+,3.0,0,False
-16552477,SF 49ers vs. WAS Commanders,Jacory Croskey-Merritt,Joueur total de courses (Jacory Croskey-Merritt (WAS)) (prolongations incluses),2133,72890,1778228944,4642533331,16+,16+,3.6,0,False
-16552477,SF 49ers vs. WAS Commanders,Jacory Croskey-Merritt,Joueur total de courses (Jacory Croskey-Merritt (WAS)) (prolongations incluses),2133,72890,1778228944,4642533332,17+,17+,4.3,0,False
-16552477,SF 49ers vs. WAS Commanders,Jacory Croskey-Merritt,Joueur total de courses (Jacory Croskey-Merritt (WAS)) (prolongations incluses),2133,72890,1778228944,4642533333,18+,18+,5.25,0,False
-16552477,SF 49ers vs. WAS Commanders,Jacory Croskey-Merritt,Joueur total de courses (Jacory Croskey-Merritt (WAS)) (prolongations incluses),2133,72890,1778228944,4642533334,19+,19+,6.5,0,False
+16552477,SF 49ers vs. WAS Commanders,Jacory Croskey-Merritt,Joueur total de courses (Jacory Croskey-Merritt (WAS)) (prolongations incluses),2133,72890,1778228944,4642533412,10+,10+,1.5264,0,False
+16552477,SF 49ers vs. WAS Commanders,Jacory Croskey-Merritt,Joueur total de courses (Jacory Croskey-Merritt (WAS)) (prolongations incluses),2133,72890,1778228944,4642533327,12+,12+,2.05,0,False
+16552477,SF 49ers vs. WAS Commanders,Jacory Croskey-Merritt,Joueur total de courses (Jacory Croskey-Merritt (WAS)) (prolongations incluses),2133,72890,1778228944,4642533328,13+,13+,2.3,0,False
+16552477,SF 49ers vs. WAS Commanders,Jacory Croskey-Merritt,Joueur total de courses (Jacory Croskey-Merritt (WAS)) (prolongations incluses),2133,72890,1778228944,4642533329,14+,14+,2.65,0,False
+16552477,SF 49ers vs. WAS Commanders,Jacory Croskey-Merritt,Joueur total de courses (Jacory Croskey-Merritt (WAS)) (prolongations incluses),2133,72890,1778228944,4642533330,15+,15+,3.1,0,False
+16552477,SF 49ers vs. WAS Commanders,Jacory Croskey-Merritt,Joueur total de courses (Jacory Croskey-Merritt (WAS)) (prolongations incluses),2133,72890,1778228944,4642533331,16+,16+,3.75,0,False
+16552477,SF 49ers vs. WAS Commanders,Jacory Croskey-Merritt,Joueur total de courses (Jacory Croskey-Merritt (WAS)) (prolongations incluses),2133,72890,1778228944,4642533332,17+,17+,4.5,0,False
+16552477,SF 49ers vs. WAS Commanders,Jacory Croskey-Merritt,Joueur total de courses (Jacory Croskey-Merritt (WAS)) (prolongations incluses),2133,72890,1778228944,4642533333,18+,18+,5.5,0,False
+16552477,SF 49ers vs. WAS Commanders,Jacory Croskey-Merritt,Joueur total de courses (Jacory Croskey-Merritt (WAS)) (prolongations incluses),2133,72890,1778228944,4642533334,19+,19+,6.75,0,False
 16552477,SF 49ers vs. WAS Commanders,Jacory Croskey-Merritt,Joueur total de courses (Jacory Croskey-Merritt (WAS)) (prolongations incluses),2133,72890,1778228944,4642533335,20+,20+,8.5,0,False
-16552477,SF 49ers vs. WAS Commanders,Jacory Croskey-Merritt,Joueur total de courses (Jacory Croskey-Merritt (WAS)) (prolongations incluses),2133,72890,1778228944,4642533336,11+,11+,1.7143,0,False
+16552477,SF 49ers vs. WAS Commanders,Jacory Croskey-Merritt,Joueur total de courses (Jacory Croskey-Merritt (WAS)) (prolongations incluses),2133,72890,1778228944,4642533336,11+,11+,1.7693,0,False

@@ -537,6 +537,13 @@ event_id,match,player,market,market_type_id,sport_market_id,child_market_id,odd_
 16552504,IND Colts vs. TEN Titans,Daniel Jones,Joueur total de yards par la course (Daniel Jones (IND)) (prolongations incluses),2140,72895,1779806901,4647673590,37+,37+,8.5,0,False
 16552504,IND Colts vs. TEN Titans,Daniel Jones,Joueur total de yards par la course (Daniel Jones (IND)) (prolongations incluses),2140,72895,1779806901,4647673591,47+,47+,19.0,0,False
 16552504,IND Colts vs. TEN Titans,Daniel Jones,Joueur total de yards par la course (Daniel Jones (IND)) (prolongations incluses),2140,72895,1779806901,4647676923,57+,57+,41.0,0,False
+16552504,IND Colts vs. TEN Titans,Keenan Allen,Joueur total de réception (Keenan Allen (IND)) (incl. OT),2142,72897,1779810921,4647683136,6+,6+,3.75,0,False
+16552504,IND Colts vs. TEN Titans,Keenan Allen,Joueur total de réception (Keenan Allen (IND)) (incl. OT),2142,72897,1779810921,4647683137,7+,7+,6.25,0,False
+16552504,IND Colts vs. TEN Titans,Keenan Allen,Joueur total de réception (Keenan Allen (IND)) (incl. OT),2142,72897,1779810921,4647683138,8+,8+,12.0,0,False
+16552504,IND Colts vs. TEN Titans,Keenan Allen,Joueur total de réception (Keenan Allen (IND)) (incl. OT),2142,72897,1779810921,4647683139,9+,9+,26.0,0,False
+16552504,IND Colts vs. TEN Titans,Keenan Allen,Joueur total de réception (Keenan Allen (IND)) (incl. OT),2142,72897,1779810921,4647683140,3+,3+,1.1539,0,False
+16552504,IND Colts vs. TEN Titans,Keenan Allen,Joueur total de réception (Keenan Allen (IND)) (incl. OT),2142,72897,1779810921,4647683134,4+,4+,1.6471,0,False
+16552504,IND Colts vs. TEN Titans,Keenan Allen,Joueur total de réception (Keenan Allen (IND)) (incl. OT),2142,72897,1779810921,4647683135,5+,5+,2.35,0,False
 16552504,IND Colts vs. TEN Titans,Jonathan Taylor,Joueur total de réception (Jonathan Taylor (IND)) (incl. OT),2142,72897,1779810916,4647683104,4+,4+,2.5,0,False
 16552504,IND Colts vs. TEN Titans,Jonathan Taylor,Joueur total de réception (Jonathan Taylor (IND)) (incl. OT),2142,72897,1779810916,4647683105,5+,5+,4.0,0,False
 16552504,IND Colts vs. TEN Titans,Jonathan Taylor,Joueur total de réception (Jonathan Taylor (IND)) (incl. OT),2142,72897,1779810916,4647683106,6+,6+,6.75,0,False
@@ -544,13 +551,6 @@ event_id,match,player,market,market_type_id,sport_market_id,child_market_id,odd_
 16552504,IND Colts vs. TEN Titans,Jonathan Taylor,Joueur total de réception (Jonathan Taylor (IND)) (incl. OT),2142,72897,1779810916,4647683108,8+,8+,26.0,0,False
 16552504,IND Colts vs. TEN Titans,Jonathan Taylor,Joueur total de réception (Jonathan Taylor (IND)) (incl. OT),2142,72897,1779810916,4647683109,2+,2+,1.2,0,False
 16552504,IND Colts vs. TEN Titans,Jonathan Taylor,Joueur total de réception (Jonathan Taylor (IND)) (incl. OT),2142,72897,1779810916,4647683103,3+,3+,1.7408,0,False
-16552504,IND Colts vs. TEN Titans,Keenan Allen,Joueur total de réception (Keenan Allen (IND)) (incl. OT),2142,72897,1779810921,4647683136,6+,6+,4.0,0,False
-16552504,IND Colts vs. TEN Titans,Keenan Allen,Joueur total de réception (Keenan Allen (IND)) (incl. OT),2142,72897,1779810921,4647683137,7+,7+,7.0,0,False
-16552504,IND Colts vs. TEN Titans,Keenan Allen,Joueur total de réception (Keenan Allen (IND)) (incl. OT),2142,72897,1779810921,4647683138,8+,8+,13.0,0,False
-16552504,IND Colts vs. TEN Titans,Keenan Allen,Joueur total de réception (Keenan Allen (IND)) (incl. OT),2142,72897,1779810921,4647683139,9+,9+,26.0,0,False
-16552504,IND Colts vs. TEN Titans,Keenan Allen,Joueur total de réception (Keenan Allen (IND)) (incl. OT),2142,72897,1779810921,4647683140,3+,3+,1.2106,0,False
-16552504,IND Colts vs. TEN Titans,Keenan Allen,Joueur total de réception (Keenan Allen (IND)) (incl. OT),2142,72897,1779810921,4647683134,4+,4+,1.7693,0,False
-16552504,IND Colts vs. TEN Titans,Keenan Allen,Joueur total de réception (Keenan Allen (IND)) (incl. OT),2142,72897,1779810921,4647683135,5+,5+,2.55,0,False
 16552504,IND Colts vs. TEN Titans,Tyler Warren,Joueur total de réception (Tyler Warren (IND)) (incl. OT),2142,72897,1779810915,4647683096,6+,6+,1.8334,0,False
 16552504,IND Colts vs. TEN Titans,Tyler Warren,Joueur total de réception (Tyler Warren (IND)) (incl. OT),2142,72897,1779810915,4647683097,7+,7+,2.55,0,False
 16552504,IND Colts vs. TEN Titans,Tyler Warren,Joueur total de réception (Tyler Warren (IND)) (incl. OT),2142,72897,1779810915,4647683098,8+,8+,3.85,0,False
@@ -599,13 +599,13 @@ event_id,match,player,market,market_type_id,sport_market_id,child_market_id,odd_
 16552504,IND Colts vs. TEN Titans,Tony Pollard,Joueur total de réception (Tony Pollard (TEN)) (incl. OT),2142,72897,1779810922,4647683144,5+,5+,8.5,0,False
 16552504,IND Colts vs. TEN Titans,Tony Pollard,Joueur total de réception (Tony Pollard (TEN)) (incl. OT),2142,72897,1779810922,4647683145,6+,6+,17.0,0,False
 16552504,IND Colts vs. TEN Titans,Tony Pollard,Joueur total de réception (Tony Pollard (TEN)) (incl. OT),2142,72897,1779810922,4648242667,7+,7+,36.0,0,False
-16552504,IND Colts vs. TEN Titans,Elic Ayomanor,Joueur total de réception (Elic Ayomanor (TEN)) (incl. OT),2142,72897,1779810918,4647683117,2+,2+,2.05,0,False
-16552504,IND Colts vs. TEN Titans,Elic Ayomanor,Joueur total de réception (Elic Ayomanor (TEN)) (incl. OT),2142,72897,1779810918,4647683118,3+,3+,3.3,0,False
-16552504,IND Colts vs. TEN Titans,Elic Ayomanor,Joueur total de réception (Elic Ayomanor (TEN)) (incl. OT),2142,72897,1779810918,4647683119,4+,4+,6.0,0,False
-16552504,IND Colts vs. TEN Titans,Elic Ayomanor,Joueur total de réception (Elic Ayomanor (TEN)) (incl. OT),2142,72897,1779810918,4647683120,5+,5+,13.0,0,False
-16552504,IND Colts vs. TEN Titans,Elic Ayomanor,Joueur total de réception (Elic Ayomanor (TEN)) (incl. OT),2142,72897,1779810918,4647683121,6+,6+,31.0,0,False
 16552504,IND Colts vs. TEN Titans,Calvin Ridley,Joueur total de réception (Calvin Ridley (TEN)) (incl. OT),2142,72897,1779810920,4647683129,2+,2+,2.2,0,False
 16552504,IND Colts vs. TEN Titans,Calvin Ridley,Joueur total de réception (Calvin Ridley (TEN)) (incl. OT),2142,72897,1779810920,4647683130,3+,3+,3.3,0,False
 16552504,IND Colts vs. TEN Titans,Calvin Ridley,Joueur total de réception (Calvin Ridley (TEN)) (incl. OT),2142,72897,1779810920,4647683131,4+,4+,5.75,0,False
 16552504,IND Colts vs. TEN Titans,Calvin Ridley,Joueur total de réception (Calvin Ridley (TEN)) (incl. OT),2142,72897,1779810920,4647683132,5+,5+,11.0,0,False
 16552504,IND Colts vs. TEN Titans,Calvin Ridley,Joueur total de réception (Calvin Ridley (TEN)) (incl. OT),2142,72897,1779810920,4647683133,6+,6+,26.0,0,False
+16552504,IND Colts vs. TEN Titans,Elic Ayomanor,Joueur total de réception (Elic Ayomanor (TEN)) (incl. OT),2142,72897,1779810918,4647683117,2+,2+,2.2,0,False
+16552504,IND Colts vs. TEN Titans,Elic Ayomanor,Joueur total de réception (Elic Ayomanor (TEN)) (incl. OT),2142,72897,1779810918,4647683118,3+,3+,3.4,0,False
+16552504,IND Colts vs. TEN Titans,Elic Ayomanor,Joueur total de réception (Elic Ayomanor (TEN)) (incl. OT),2142,72897,1779810918,4647683119,4+,4+,6.25,0,False
+16552504,IND Colts vs. TEN Titans,Elic Ayomanor,Joueur total de réception (Elic Ayomanor (TEN)) (incl. OT),2142,72897,1779810918,4647683120,5+,5+,13.0,0,False
+16552504,IND Colts vs. TEN Titans,Elic Ayomanor,Joueur total de réception (Elic Ayomanor (TEN)) (incl. OT),2142,72897,1779810918,4647683121,6+,6+,26.0,0,False

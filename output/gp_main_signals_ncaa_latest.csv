@@ -1,5 +1,10 @@
 captured_at,event_id,match,start_date,market,selection,side,signal,old_line,new_line,old_price,new_price,old_status,new_status,old_is_main_bet,new_is_main_bet
-2026-10-14T15:04:46.840353+00:00,18005340,Temple Owls vs. Charlotte 49ers,2026-10-17T17:00:00Z,total,Plus de 47.5,over,MAIN_PRICE_MOVE,47.5,47.5,1.8334,1.8696,0,0.0,1,1.0
-2026-10-14T15:04:46.840353+00:00,18005340,Temple Owls vs. Charlotte 49ers,2026-10-17T17:00:00Z,total,Moins de 47.5,under,MAIN_PRICE_MOVE,47.5,47.5,1.8334,1.8,0,0.0,1,1.0
-2026-10-14T15:04:46.840353+00:00,17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Moins de 43.5,under,MAIN_PRICE_MOVE,43.5,43.5,1.8334,1.8,0,0.0,1,1.0
-2026-10-14T15:04:46.840353+00:00,17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Plus de 43.5,over,MAIN_PRICE_MOVE,43.5,43.5,1.8334,1.8696,0,0.0,1,1.0
+2026-10-14T16:06:53.895738+00:00,17773664,Missouri State Bears vs. Kennesaw State Owls,2026-10-14T23:30:00Z,total,Moins de 52.5,under,MAIN_PRICE_MOVE,52.5,52.5,1.8,1.8334,0,0.0,1,1.0
+2026-10-14T16:06:53.895738+00:00,17773664,Missouri State Bears vs. Kennesaw State Owls,2026-10-14T23:30:00Z,total,Plus de 52.5,over,MAIN_PRICE_MOVE,52.5,52.5,1.8696,1.8334,0,0.0,1,1.0
+2026-10-14T16:06:53.895738+00:00,17773663,Sam Houston State Bearkats vs. Western Kentucky Hilltoppers,2026-10-15T00:00:00Z,spread,Sam Houston State Bearkats (+1.5),Sam Houston State Bearkats,MAIN_PRICE_MOVE,1.5,1.5,1.8,1.7693,0,0.0,1,1.0
+2026-10-14T16:06:53.895738+00:00,17773663,Sam Houston State Bearkats vs. Western Kentucky Hilltoppers,2026-10-15T00:00:00Z,spread,Western Kentucky Hilltoppers (-1.5),Western Kentucky Hilltoppers,MAIN_PRICE_MOVE,-1.5,-1.5,1.8696,1.9091,0,0.0,1,1.0
+2026-10-14T16:06:53.895738+00:00,18024883,Stanford Cardinal vs. Elon Phoenix,2026-10-17T23:30:00Z,moneyline,Elon Phoenix,Elon Phoenix,STATUS_CHANGE,,,11.0,11.0,0,7.0,0,0.0
+2026-10-14T16:06:53.895738+00:00,18024883,Stanford Cardinal vs. Elon Phoenix,2026-10-17T23:30:00Z,spread,Stanford Cardinal (-35.5),Stanford Cardinal,STATUS_CHANGE,-35.5,-35.5,1.8334,1.8334,0,7.0,1,1.0
+2026-10-14T16:06:53.895738+00:00,18024883,Stanford Cardinal vs. Elon Phoenix,2026-10-17T23:30:00Z,spread,Elon Phoenix (+35.5),Elon Phoenix,STATUS_CHANGE,35.5,35.5,1.8334,1.8334,0,7.0,1,1.0
+2026-10-14T16:06:53.895738+00:00,18024883,Stanford Cardinal vs. Elon Phoenix,2026-10-17T23:30:00Z,total,Plus de 55.5,over,STATUS_CHANGE,55.5,55.5,1.8334,1.8334,0,7.0,1,1.0
+2026-10-14T16:06:53.895738+00:00,18024883,Stanford Cardinal vs. Elon Phoenix,2026-10-17T23:30:00Z,total,Moins de 55.5,under,STATUS_CHANGE,55.5,55.5,1.8334,1.8334,0,7.0,1,1.0

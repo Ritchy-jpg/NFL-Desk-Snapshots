@@ -1,3 +1,7 @@
 captured_at,event_id,match,start_date,market,selection,side,signal,old_line,new_line,old_price,new_price,old_status,new_status,old_is_main_bet,new_is_main_bet
-2026-10-15T18:34:41.522744+00:00,17803699,SMU Mustangs vs. Virginia Cavaliers,2026-10-17T16:00:00Z,total,Moins de 51.5,under,MAIN_SWITCH,51.5,51.5,1.8696,1.8696,0,0.0,0,1.0
-2026-10-15T18:34:41.522744+00:00,17803699,SMU Mustangs vs. Virginia Cavaliers,2026-10-17T16:00:00Z,total,Plus de 51.5,over,MAIN_SWITCH,51.5,51.5,1.8,1.8,0,0.0,0,1.0
+2026-10-15T19:28:10.206717+00:00,17794098,Tulane Green Wave vs. Memphis Tigers,2026-10-16T23:30:00Z,spread,Tulane Green Wave (+6.5),Tulane Green Wave,MAIN_PRICE_MOVE,6.5,6.5,1.9524,1.9091,0,0.0,1,1.0
+2026-10-15T19:28:10.206717+00:00,17794098,Tulane Green Wave vs. Memphis Tigers,2026-10-16T23:30:00Z,spread,Memphis Tigers (-6.5),Memphis Tigers,MAIN_PRICE_MOVE,-6.5,-6.5,1.7408,1.7693,0,0.0,1,1.0
+2026-10-15T19:28:10.206717+00:00,17794096,Coastal Carolina vs. Appalachian State Mountaineers,2026-10-17T00:00:00Z,spread,Coastal Carolina (+1.5),Coastal Carolina,MAIN_PRICE_MOVE,1.5,1.5,1.8334,1.8,0,0.0,1,1.0
+2026-10-15T19:28:10.206717+00:00,17794096,Coastal Carolina vs. Appalachian State Mountaineers,2026-10-17T00:00:00Z,spread,Appalachian State Mountaineers (-1.5),Appalachian State Mountaineers,MAIN_PRICE_MOVE,-1.5,-1.5,1.8334,1.8696,0,0.0,1,1.0
+2026-10-15T19:28:10.206717+00:00,17332013,Miami Hurricanes vs. Florida State Seminoles,2026-10-17T23:00:00Z,total,Plus de 56.5,over,MAIN_PRICE_MOVE,56.5,56.5,1.8696,1.8334,0,0.0,1,1.0
+2026-10-15T19:28:10.206717+00:00,17332013,Miami Hurricanes vs. Florida State Seminoles,2026-10-17T23:00:00Z,total,Moins de 56.5,under,MAIN_PRICE_MOVE,56.5,56.5,1.8,1.8334,0,0.0,1,1.0

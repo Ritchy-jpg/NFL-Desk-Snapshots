@@ -1,9 +1,18 @@
 captured_at,event_id,match,start_date,market,selection,side,signal,old_line,new_line,old_price,new_price,old_status,new_status,old_is_main_bet,new_is_main_bet
-2026-10-15T16:03:41.256851+00:00,17803694,Texas Longhorns vs. Florida Gators,2026-10-17T16:00:00Z,spread,Florida Gators (+11.5),Florida Gators,MAIN_PRICE_MOVE,11.5,11.5,1.8,1.8334,0,0.0,1,1.0
-2026-10-15T16:03:41.256851+00:00,17803694,Texas Longhorns vs. Florida Gators,2026-10-17T16:00:00Z,spread,Texas Longhorns (-11.5),Texas Longhorns,MAIN_PRICE_MOVE,-11.5,-11.5,1.8696,1.8334,0,0.0,1,1.0
-2026-10-15T16:03:41.256851+00:00,17332022,GEORGIE BULLDOGS vs. Auburn Tigers,2026-10-17T19:30:00Z,spread,GEORGIE BULLDOGS (-20.5),GEORGIE BULLDOGS,MAIN_SWITCH,-20.5,-20.5,1.7693,1.7693,0,0.0,0,1.0
-2026-10-15T16:03:41.256851+00:00,17332022,GEORGIE BULLDOGS vs. Auburn Tigers,2026-10-17T19:30:00Z,spread,Auburn Tigers (+20.5),Auburn Tigers,MAIN_SWITCH,20.5,20.5,1.9091,1.9091,0,0.0,0,1.0
-2026-10-15T16:03:41.256851+00:00,17332029,Tennessee Volunteers vs. Alabama Crimson Tide,2026-10-17T19:30:00Z,total,Plus de 51.5,over,MAIN_PRICE_MOVE,51.5,51.5,1.8,1.9091,0,0.0,1,1.0
-2026-10-15T16:03:41.256851+00:00,17332029,Tennessee Volunteers vs. Alabama Crimson Tide,2026-10-17T19:30:00Z,total,Moins de 51.5,under,MAIN_PRICE_MOVE,51.5,51.5,1.8696,1.7693,0,0.0,1,1.0
-2026-10-15T16:03:41.256851+00:00,18006722,UTEP Miners vs. San Jose State Spartans,2026-10-18T01:00:00Z,spread,UTEP Miners (+7.5),UTEP Miners,MAIN_PRICE_MOVE,7.5,7.5,1.7693,1.7408,0,0.0,1,1.0
-2026-10-15T16:03:41.256851+00:00,18006722,UTEP Miners vs. San Jose State Spartans,2026-10-18T01:00:00Z,spread,San Jose State Spartans (-7.5),San Jose State Spartans,MAIN_PRICE_MOVE,-7.5,-7.5,1.9091,1.9524,0,0.0,1,1.0
+2026-10-15T17:05:29.922884+00:00,17783360,Texas State Bobcats vs. COLORADO,2026-10-16T00:00:00Z,total,Moins de 70.5,under,MAIN_SWITCH,70.5,70.5,1.8696,1.8696,0,0.0,0,1.0
+2026-10-15T17:05:29.922884+00:00,17783360,Texas State Bobcats vs. COLORADO,2026-10-16T00:00:00Z,total,Plus de 70.5,over,MAIN_SWITCH,70.5,70.5,1.8,1.8,0,0.0,0,1.0
+2026-10-15T17:05:29.922884+00:00,18005353,Army Black Knights vs. Florida Atlantic Owls,2026-10-17T16:00:00Z,spread,Army Black Knights (-2.5),Army Black Knights,MAIN_PRICE_MOVE,-2.5,-2.5,1.7693,1.8,0,0.0,1,1.0
+2026-10-15T17:05:29.922884+00:00,18005353,Army Black Knights vs. Florida Atlantic Owls,2026-10-17T16:00:00Z,spread,Florida Atlantic Owls (+2.5),Florida Atlantic Owls,MAIN_PRICE_MOVE,2.5,2.5,1.9091,1.8696,0,0.0,1,1.0
+2026-10-15T17:05:29.922884+00:00,18005344,James Madison Dukes vs. Georgia State Panthers,2026-10-17T16:00:00Z,spread,James Madison Dukes (-11.5),James Madison Dukes,MAIN_PRICE_MOVE,-11.5,-11.5,1.8334,1.8,0,0.0,1,1.0
+2026-10-15T17:05:29.922884+00:00,18005344,James Madison Dukes vs. Georgia State Panthers,2026-10-17T16:00:00Z,spread,Georgia State Panthers (+11.5),Georgia State Panthers,MAIN_PRICE_MOVE,11.5,11.5,1.8334,1.8696,0,0.0,1,1.0
+2026-10-15T17:05:29.922884+00:00,18000492,Central Mich Chippewas vs. MICHIGAN,2026-10-17T17:30:00Z,spread,Central Mich Chippewas (+6.5),Central Mich Chippewas,MAIN_PRICE_MOVE,6.5,6.5,1.9091,1.8696,0,0.0,1,1.0
+2026-10-15T17:05:29.922884+00:00,18000492,Central Mich Chippewas vs. MICHIGAN,2026-10-17T17:30:00Z,spread,MICHIGAN (-6.5),MICHIGAN,MAIN_PRICE_MOVE,-6.5,-6.5,1.7693,1.8,0,0.0,1,1.0
+2026-10-15T17:05:29.922884+00:00,18024883,Stanford Cardinal vs. Elon Phoenix,2026-10-17T23:30:00Z,moneyline,Elon Phoenix,Elon Phoenix,STATUS_CHANGE,,,11.0,11.0,7,0.0,0,0.0
+2026-10-15T17:05:29.922884+00:00,18024883,Stanford Cardinal vs. Elon Phoenix,2026-10-17T23:30:00Z,spread,Stanford Cardinal (-35.5),Stanford Cardinal,REMOVED_MAIN,-35.5,,1.8334,,7,,1,
+2026-10-15T17:05:29.922884+00:00,18024883,Stanford Cardinal vs. Elon Phoenix,2026-10-17T23:30:00Z,spread,Elon Phoenix (+35.5),Elon Phoenix,REMOVED_MAIN,35.5,,1.8334,,7,,1,
+2026-10-15T17:05:29.922884+00:00,18024883,Stanford Cardinal vs. Elon Phoenix,2026-10-17T23:30:00Z,total,Plus de 55.5,over,REMOVED_MAIN,55.5,,1.8334,,7,,1,
+2026-10-15T17:05:29.922884+00:00,18024883,Stanford Cardinal vs. Elon Phoenix,2026-10-17T23:30:00Z,total,Moins de 55.5,under,REMOVED_MAIN,55.5,,1.8334,,7,,1,
+2026-10-15T17:05:29.922884+00:00,18024885,Clemson Tigers vs. Charleston Southern Buccaneers,2026-10-17T16:00:00Z,total,Plus de 56.5,over,REMOVED_MAIN,56.5,,1.8334,,0,,1,
+2026-10-15T17:05:29.922884+00:00,18024885,Clemson Tigers vs. Charleston Southern Buccaneers,2026-10-17T16:00:00Z,total,Moins de 56.5,under,REMOVED_MAIN,56.5,,1.8334,,0,,1,
+2026-10-15T17:05:29.922884+00:00,18024885,Clemson Tigers vs. Charleston Southern Buccaneers,2026-10-17T16:00:00Z,spread,Clemson Tigers (-42.5),Clemson Tigers,REMOVED_MAIN,-42.5,,1.8334,,0,,1,
+2026-10-15T17:05:29.922884+00:00,18024885,Clemson Tigers vs. Charleston Southern Buccaneers,2026-10-17T16:00:00Z,spread,Charleston Southern Buccaneers (+42.5),Charleston Southern Buccaneers,REMOVED_MAIN,42.5,,1.8334,,0,,1,

@@ -1,25 +1,15 @@
 captured_at,event_id,match,start_date,market,selection,side,signal,old_line,new_line,old_price,new_price,old_status,new_status,old_is_main_bet,new_is_main_bet
-2026-10-16T20:25:51.154151+00:00,17794098,Tulane Green Wave vs. Memphis Tigers,2026-10-16T23:30:00Z,spread,Tulane Green Wave (+6.5),Tulane Green Wave,MAIN_PRICE_MOVE,6.5,6.5,1.8696,1.9091,0,0.0,1,1.0
-2026-10-16T20:25:51.154151+00:00,17794098,Tulane Green Wave vs. Memphis Tigers,2026-10-16T23:30:00Z,spread,Memphis Tigers (-6.5),Memphis Tigers,MAIN_PRICE_MOVE,-6.5,-6.5,1.8,1.7693,0,0.0,1,1.0
-2026-10-16T20:25:51.154151+00:00,17794098,Tulane Green Wave vs. Memphis Tigers,2026-10-16T23:30:00Z,total,Moins de 54.5,under,MAIN_PRICE_MOVE,54.5,54.5,1.8334,1.9091,0,0.0,1,1.0
-2026-10-16T20:25:51.154151+00:00,17794098,Tulane Green Wave vs. Memphis Tigers,2026-10-16T23:30:00Z,total,Plus de 54.5,over,MAIN_PRICE_MOVE,54.5,54.5,1.8334,1.7693,0,0.0,1,1.0
-2026-10-16T20:25:51.154151+00:00,17803700,LSU Tigers vs. Mississippi St Bulldogs,2026-10-17T16:00:00Z,spread,LSU Tigers (-16.5),LSU Tigers,MAIN_SWITCH,-16.5,-16.5,1.8696,1.8696,0,0.0,1,0.0
-2026-10-16T20:25:51.154151+00:00,17803700,LSU Tigers vs. Mississippi St Bulldogs,2026-10-17T16:00:00Z,spread,Mississippi St Bulldogs (+16.5),Mississippi St Bulldogs,MAIN_SWITCH,16.5,16.5,1.8,1.8,0,0.0,1,0.0
-2026-10-16T20:25:51.154151+00:00,17803700,LSU Tigers vs. Mississippi St Bulldogs,2026-10-17T16:00:00Z,spread,LSU Tigers (-15.5),LSU Tigers,MAIN_SWITCH,-15.5,-15.5,1.8,1.8,0,0.0,0,1.0
-2026-10-16T20:25:51.154151+00:00,17803700,LSU Tigers vs. Mississippi St Bulldogs,2026-10-17T16:00:00Z,spread,Mississippi St Bulldogs (+15.5),Mississippi St Bulldogs,MAIN_SWITCH,15.5,15.5,1.8696,1.8696,0,0.0,0,1.0
-2026-10-16T20:25:51.154151+00:00,17332013,Miami Hurricanes vs. Florida State Seminoles,2026-10-17T23:00:00Z,spread,Miami Hurricanes (-20.5),Miami Hurricanes,MAIN_PRICE_MOVE,-20.5,-20.5,1.8,1.8334,0,0.0,1,1.0
-2026-10-16T20:25:51.154151+00:00,17332013,Miami Hurricanes vs. Florida State Seminoles,2026-10-17T23:00:00Z,spread,Florida State Seminoles (+20.5),Florida State Seminoles,MAIN_PRICE_MOVE,20.5,20.5,1.8696,1.8334,0,0.0,1,1.0
-2026-10-16T20:25:51.154151+00:00,17332013,Miami Hurricanes vs. Florida State Seminoles,2026-10-17T23:00:00Z,spread,Miami Hurricanes (-21.0),Miami Hurricanes,REMOVED_MAIN,-21.0,,1.8696,,0,,1,
-2026-10-16T20:25:51.154151+00:00,17332013,Miami Hurricanes vs. Florida State Seminoles,2026-10-17T23:00:00Z,spread,Florida State Seminoles (+21.0),Florida State Seminoles,REMOVED_MAIN,21.0,,1.8,,0,,1,
-2026-10-16T20:25:51.154151+00:00,18045672,Dartmouth Big Green vs. Merrimack Warriors,2026-10-17T17:00:00Z,spread,Merrimack Warriors (+11.5),Merrimack Warriors,REMOVED_MAIN,11.5,,1.8334,,0,,1,
-2026-10-16T20:25:51.154151+00:00,18045672,Dartmouth Big Green vs. Merrimack Warriors,2026-10-17T17:00:00Z,spread,Dartmouth Big Green (-11.5),Dartmouth Big Green,REMOVED_MAIN,-11.5,,1.8334,,0,,1,
-2026-10-16T20:25:51.154151+00:00,18045673,Yale Bulldogs vs. Rhode Island Rams,2026-10-17T16:00:00Z,spread,Yale Bulldogs (-10.0),Yale Bulldogs,REMOVED_MAIN,-10.0,,1.8334,,0,,1,
-2026-10-16T20:25:51.154151+00:00,18045673,Yale Bulldogs vs. Rhode Island Rams,2026-10-17T16:00:00Z,spread,Rhode Island Rams (+10.0),Rhode Island Rams,REMOVED_MAIN,10.0,,1.8334,,0,,1,
-2026-10-16T20:25:51.154151+00:00,18046451,Tennessee Tech Golden Eagles vs. Eastern Kentucky Colonels,2026-10-17T18:30:00Z,total,Plus de 52.5,over,REMOVED_MAIN,52.5,,1.8334,,0,,1,
-2026-10-16T20:25:51.154151+00:00,18046451,Tennessee Tech Golden Eagles vs. Eastern Kentucky Colonels,2026-10-17T18:30:00Z,total,Moins de 52.5,under,REMOVED_MAIN,52.5,,1.8334,,0,,1,
-2026-10-16T20:25:51.154151+00:00,18046452,North Dakota Fighting Hawks vs. South Dakota State Jackrabbits,2026-10-17T18:00:00Z,spread,South Dakota State Jackrabbits (-11.5),South Dakota State Jackrabbits,REMOVED_MAIN,-11.5,,1.8334,,0,,1,
-2026-10-16T20:25:51.154151+00:00,18046452,North Dakota Fighting Hawks vs. South Dakota State Jackrabbits,2026-10-17T18:00:00Z,spread,North Dakota Fighting Hawks (+11.5),North Dakota Fighting Hawks,REMOVED_MAIN,11.5,,1.8334,,0,,1,
-2026-10-16T20:25:51.154151+00:00,18046558,Weber State Wildcats vs. Idaho State Bengals,2026-10-17T19:00:00Z,spread,Weber State Wildcats (+7.0),Weber State Wildcats,REMOVED_MAIN,7.0,,1.8334,,0,,1,
-2026-10-16T20:25:51.154151+00:00,18046558,Weber State Wildcats vs. Idaho State Bengals,2026-10-17T19:00:00Z,spread,Idaho State Bengals (-7.0),Idaho State Bengals,REMOVED_MAIN,-7.0,,1.8334,,0,,1,
-2026-10-16T20:25:51.154151+00:00,18046723,Samford Bulldogs vs. Mercer Bears,2026-10-17T23:00:00Z,total,Moins de 51.5,under,REMOVED_MAIN,51.5,,1.8334,,0,,1,
-2026-10-16T20:25:51.154151+00:00,18046723,Samford Bulldogs vs. Mercer Bears,2026-10-17T23:00:00Z,total,Plus de 51.5,over,REMOVED_MAIN,51.5,,1.8334,,0,,1,
+2026-10-16T21:00:43.322036+00:00,17794098,Tulane Green Wave vs. Memphis Tigers,2026-10-16T23:30:00Z,spread,Tulane Green Wave (+6.5),Tulane Green Wave,MAIN_PRICE_MOVE,6.5,6.5,1.9091,1.8696,0,0.0,1,1.0
+2026-10-16T21:00:43.322036+00:00,17794098,Tulane Green Wave vs. Memphis Tigers,2026-10-16T23:30:00Z,spread,Memphis Tigers (-6.5),Memphis Tigers,MAIN_PRICE_MOVE,-6.5,-6.5,1.7693,1.8,0,0.0,1,1.0
+2026-10-16T21:00:43.322036+00:00,17794098,Tulane Green Wave vs. Memphis Tigers,2026-10-16T23:30:00Z,total,Moins de 54.5,under,MAIN_PRICE_MOVE,54.5,54.5,1.9091,1.8334,0,0.0,1,1.0
+2026-10-16T21:00:43.322036+00:00,17794098,Tulane Green Wave vs. Memphis Tigers,2026-10-16T23:30:00Z,total,Plus de 54.5,over,MAIN_PRICE_MOVE,54.5,54.5,1.7693,1.8334,0,0.0,1,1.0
+2026-10-16T21:00:43.322036+00:00,18005353,Army Black Knights vs. Florida Atlantic Owls,2026-10-17T16:00:00Z,spread,Army Black Knights (-1.5),Army Black Knights,MAIN_PRICE_MOVE,-1.5,-1.5,1.7693,1.8,0,0.0,1,1.0
+2026-10-16T21:00:43.322036+00:00,18005353,Army Black Knights vs. Florida Atlantic Owls,2026-10-17T16:00:00Z,spread,Florida Atlantic Owls (+1.5),Florida Atlantic Owls,MAIN_PRICE_MOVE,1.5,1.5,1.9091,1.8696,0,0.0,1,1.0
+2026-10-16T21:00:43.322036+00:00,17803700,LSU Tigers vs. Mississippi St Bulldogs,2026-10-17T16:00:00Z,spread,LSU Tigers (-16.5),LSU Tigers,MAIN_SWITCH,-16.5,-16.5,1.8696,1.8696,0,0.0,0,1.0
+2026-10-16T21:00:43.322036+00:00,17803700,LSU Tigers vs. Mississippi St Bulldogs,2026-10-17T16:00:00Z,spread,Mississippi St Bulldogs (+16.5),Mississippi St Bulldogs,MAIN_SWITCH,16.5,16.5,1.8,1.8,0,0.0,0,1.0
+2026-10-16T21:00:43.322036+00:00,17803700,LSU Tigers vs. Mississippi St Bulldogs,2026-10-17T16:00:00Z,spread,LSU Tigers (-15.5),LSU Tigers,MAIN_SWITCH,-15.5,-15.5,1.8,1.8,0,0.0,1,0.0
+2026-10-16T21:00:43.322036+00:00,17803700,LSU Tigers vs. Mississippi St Bulldogs,2026-10-17T16:00:00Z,spread,Mississippi St Bulldogs (+15.5),Mississippi St Bulldogs,MAIN_SWITCH,15.5,15.5,1.8696,1.8696,0,0.0,1,0.0
+2026-10-16T21:00:43.322036+00:00,18046464,Alabama A&M Bulldogs vs. Grambling State Tigers,2026-10-17T19:00:00Z,total,Plus de 58.5,over,REMOVED_MAIN,58.5,,1.8334,,0,,1,
+2026-10-16T21:00:43.322036+00:00,18046464,Alabama A&M Bulldogs vs. Grambling State Tigers,2026-10-17T19:00:00Z,total,Moins de 58.5,under,REMOVED_MAIN,58.5,,1.8334,,0,,1,
+2026-10-16T21:00:43.322036+00:00,18046561,UT Martin Skyhawks vs. Gardner Webb Runnin Bulldogs,2026-10-17T19:00:00Z,total,Moins de 48.5,under,REMOVED_MAIN,48.5,,1.8334,,0,,1,
+2026-10-16T21:00:43.322036+00:00,18046561,UT Martin Skyhawks vs. Gardner Webb Runnin Bulldogs,2026-10-17T19:00:00Z,total,Plus de 48.5,over,REMOVED_MAIN,48.5,,1.8334,,0,,1,

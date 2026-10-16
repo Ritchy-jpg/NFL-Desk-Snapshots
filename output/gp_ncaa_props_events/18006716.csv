@@ -1,8 +1,8 @@
 event_id,match,player,market,market_type_id,sport_market_id,child_market_id,odd_id,selection,line,price,odd_status,is_main_bet
 18006716,Air Force Falcons vs. UNLV Rebels,Jackson Arnold,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1781750658,4653850675,Jackson Arnold (UNLV) Plus de 192.5,Jackson Arnold (UNLV) Plus de 192.5,1.8,0,False
 18006716,Air Force Falcons vs. UNLV Rebels,Jackson Arnold,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1781750658,4653850676,Jackson Arnold (UNLV) moins de 192.5,Jackson Arnold (UNLV) moins de 192.5,1.8,0,False
-18006716,Air Force Falcons vs. UNLV Rebels,Jackson Arnold,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1782041934,4654807552,Jackson Arnold (UNLV) Plus de 1.5,Jackson Arnold (UNLV) Plus de 1.5,2.8,0,False
-18006716,Air Force Falcons vs. UNLV Rebels,Jackson Arnold,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1782041934,4654807553,Jackson Arnold (UNLV) moins de 1.5,Jackson Arnold (UNLV) moins de 1.5,1.3334,0,False
+18006716,Air Force Falcons vs. UNLV Rebels,Jackson Arnold,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1782358024,4655770697,Jackson Arnold (UNLV) moins de 0.5,Jackson Arnold (UNLV) moins de 0.5,2.7,0,False
+18006716,Air Force Falcons vs. UNLV Rebels,Jackson Arnold,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1782358024,4655770698,Jackson Arnold (UNLV) Plus de 0.5,Jackson Arnold (UNLV) Plus de 0.5,1.3572,0,False
 18006716,Air Force Falcons vs. UNLV Rebels,Evan Medders,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1782138225,4655049997,Evan Medders (AF) moins de 89.5,Evan Medders (AF) moins de 89.5,1.8,0,False
 18006716,Air Force Falcons vs. UNLV Rebels,Evan Medders,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1782138225,4655049998,Evan Medders (AF) Plus de 89.5,Evan Medders (AF) Plus de 89.5,1.8,0,False
 18006716,Air Force Falcons vs. UNLV Rebels,Jai'den Thomas,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1781554005,4653329633,Jai'den Thomas (UNLV) moins de 77.5,Jai'den Thomas (UNLV) moins de 77.5,1.8,0,False
@@ -17,3 +17,95 @@ event_id,match,player,market,market_type_id,sport_market_id,child_market_id,odd_
 18006716,Air Force Falcons vs. UNLV Rebels,Kayden McGee,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1781571609,4653373738,Kayden McGee (UNLV) moins de 36.5,Kayden McGee (UNLV) moins de 36.5,1.8,0,False
 18006716,Air Force Falcons vs. UNLV Rebels,Jai'den Thomas,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1781563537,4653353186,Jai'den Thomas (UNLV) Plus de 16.5,Jai'den Thomas (UNLV) Plus de 16.5,1.8,0,False
 18006716,Air Force Falcons vs. UNLV Rebels,Jai'den Thomas,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1781563537,4653353187,Jai'den Thomas (UNLV) moins de 16.5,Jai'den Thomas (UNLV) moins de 16.5,1.8,0,False
+18006716,Air Force Falcons vs. UNLV Rebels,Jackson Arnold,Joueur total de TDs par la passe (Jackson Arnold (UNLV) (prolongations incluses),2138,72893,1782041933,4654807548,2+,2+,2.2,0,False
+18006716,Air Force Falcons vs. UNLV Rebels,Jackson Arnold,Joueur total de TDs par la passe (Jackson Arnold (UNLV) (prolongations incluses),2138,72893,1782041933,4654807549,3+,3+,4.0,0,False
+18006716,Air Force Falcons vs. UNLV Rebels,Jackson Arnold,Joueur total de TDs par la passe (Jackson Arnold (UNLV) (prolongations incluses),2138,72893,1782041933,4654807550,4+,4+,9.0,0,False
+18006716,Air Force Falcons vs. UNLV Rebels,Jackson Arnold,Joueur total de TDs par la passe (Jackson Arnold (UNLV) (prolongations incluses),2138,72893,1782041933,4654807551,1+,1+,1.3847,0,False
+18006716,Air Force Falcons vs. UNLV Rebels,Jackson Arnold,Joueur total de yards par la passe (Jackson Arnold (UNLV))(prolongations incluses),2136,72891,1781554043,4653850658,193+,193+,1.8696,0,False
+18006716,Air Force Falcons vs. UNLV Rebels,Jackson Arnold,Joueur total de yards par la passe (Jackson Arnold (UNLV))(prolongations incluses),2136,72891,1781554043,4653850659,203+,203+,2.05,0,False
+18006716,Air Force Falcons vs. UNLV Rebels,Jackson Arnold,Joueur total de yards par la passe (Jackson Arnold (UNLV))(prolongations incluses),2136,72891,1781554043,4653850660,213+,213+,2.25,0,False
+18006716,Air Force Falcons vs. UNLV Rebels,Jackson Arnold,Joueur total de yards par la passe (Jackson Arnold (UNLV))(prolongations incluses),2136,72891,1781554043,4653850661,223+,223+,2.5,0,False
+18006716,Air Force Falcons vs. UNLV Rebels,Jackson Arnold,Joueur total de yards par la passe (Jackson Arnold (UNLV))(prolongations incluses),2136,72891,1781554043,4653850662,233+,233+,2.8,0,False
+18006716,Air Force Falcons vs. UNLV Rebels,Jackson Arnold,Joueur total de yards par la passe (Jackson Arnold (UNLV))(prolongations incluses),2136,72891,1781554043,4653850663,243+,243+,3.1,0,False
+18006716,Air Force Falcons vs. UNLV Rebels,Jackson Arnold,Joueur total de yards par la passe (Jackson Arnold (UNLV))(prolongations incluses),2136,72891,1781554043,4653850664,253+,253+,3.6,0,False
+18006716,Air Force Falcons vs. UNLV Rebels,Jackson Arnold,Joueur total de yards par la passe (Jackson Arnold (UNLV))(prolongations incluses),2136,72891,1781554043,4653850665,263+,263+,4.0,0,False
+18006716,Air Force Falcons vs. UNLV Rebels,Jackson Arnold,Joueur total de yards par la passe (Jackson Arnold (UNLV))(prolongations incluses),2136,72891,1781554043,4653850666,273+,273+,4.75,0,False
+18006716,Air Force Falcons vs. UNLV Rebels,Jackson Arnold,Joueur total de yards par la passe (Jackson Arnold (UNLV))(prolongations incluses),2136,72891,1781554043,4653850667,283+,283+,5.5,0,False
+18006716,Air Force Falcons vs. UNLV Rebels,Jackson Arnold,Joueur total de yards par la passe (Jackson Arnold (UNLV))(prolongations incluses),2136,72891,1781554043,4653850668,293+,293+,6.25,0,False
+18006716,Air Force Falcons vs. UNLV Rebels,Jackson Arnold,Joueur total de yards par la passe (Jackson Arnold (UNLV))(prolongations incluses),2136,72891,1781554043,4653850669,303+,303+,7.5,0,False
+18006716,Air Force Falcons vs. UNLV Rebels,Jackson Arnold,Joueur total de yards par la passe (Jackson Arnold (UNLV))(prolongations incluses),2136,72891,1781554043,4653850670,313+,313+,9.0,0,False
+18006716,Air Force Falcons vs. UNLV Rebels,Jackson Arnold,Joueur total de yards par la passe (Jackson Arnold (UNLV))(prolongations incluses),2136,72891,1781554043,4653850671,323+,323+,11.0,0,False
+18006716,Air Force Falcons vs. UNLV Rebels,Jackson Arnold,Joueur total de yards par la passe (Jackson Arnold (UNLV))(prolongations incluses),2136,72891,1781554043,4653850672,333+,333+,13.0,0,False
+18006716,Air Force Falcons vs. UNLV Rebels,Jackson Arnold,Joueur total de yards par la passe (Jackson Arnold (UNLV))(prolongations incluses),2136,72891,1781554043,4653850673,183+,183+,1.6897,0,False
+18006716,Air Force Falcons vs. UNLV Rebels,Jackson Arnold,Joueur total de yards par la passe (Jackson Arnold (UNLV))(prolongations incluses),2136,72891,1781554043,4653850674,173+,173+,1.5264,0,False
+18006716,Air Force Falcons vs. UNLV Rebels,Kayden McGee,Total des yards reçus par le joueur (Kayden McGee (UNLV)) (prolongations incluses),2143,72898,1781554004,4653373728,47+,47+,2.2,0,False
+18006716,Air Force Falcons vs. UNLV Rebels,Kayden McGee,Total des yards reçus par le joueur (Kayden McGee (UNLV)) (prolongations incluses),2143,72898,1781554004,4653373729,57+,57+,2.6,0,False
+18006716,Air Force Falcons vs. UNLV Rebels,Kayden McGee,Total des yards reçus par le joueur (Kayden McGee (UNLV)) (prolongations incluses),2143,72898,1781554004,4653373730,67+,67+,3.1,0,False
+18006716,Air Force Falcons vs. UNLV Rebels,Kayden McGee,Total des yards reçus par le joueur (Kayden McGee (UNLV)) (prolongations incluses),2143,72898,1781554004,4653373731,77+,77+,3.85,0,False
+18006716,Air Force Falcons vs. UNLV Rebels,Kayden McGee,Total des yards reçus par le joueur (Kayden McGee (UNLV)) (prolongations incluses),2143,72898,1781554004,4653373732,87+,87+,5.0,0,False
+18006716,Air Force Falcons vs. UNLV Rebels,Kayden McGee,Total des yards reçus par le joueur (Kayden McGee (UNLV)) (prolongations incluses),2143,72898,1781554004,4653373733,97+,97+,6.25,0,False
+18006716,Air Force Falcons vs. UNLV Rebels,Kayden McGee,Total des yards reçus par le joueur (Kayden McGee (UNLV)) (prolongations incluses),2143,72898,1781554004,4653373734,107+,107+,8.5,0,False
+18006716,Air Force Falcons vs. UNLV Rebels,Kayden McGee,Total des yards reçus par le joueur (Kayden McGee (UNLV)) (prolongations incluses),2143,72898,1781554004,4653373735,117+,117+,12.0,0,False
+18006716,Air Force Falcons vs. UNLV Rebels,Kayden McGee,Total des yards reçus par le joueur (Kayden McGee (UNLV)) (prolongations incluses),2143,72898,1781554004,4653373736,27+,27+,1.5,0,False
+18006716,Air Force Falcons vs. UNLV Rebels,Kayden McGee,Total des yards reçus par le joueur (Kayden McGee (UNLV)) (prolongations incluses),2143,72898,1781554004,4653373727,37+,37+,1.8696,0,False
+18006716,Air Force Falcons vs. UNLV Rebels,Taz Reddicks,Total des yards reçus par le joueur (Taz Reddicks (UNLV)) (prolongations incluses),2143,72898,1781554042,4653350272,103+,103+,5.0,0,False
+18006716,Air Force Falcons vs. UNLV Rebels,Taz Reddicks,Total des yards reçus par le joueur (Taz Reddicks (UNLV)) (prolongations incluses),2143,72898,1781554042,4653350273,113+,113+,6.0,0,False
+18006716,Air Force Falcons vs. UNLV Rebels,Taz Reddicks,Total des yards reçus par le joueur (Taz Reddicks (UNLV)) (prolongations incluses),2143,72898,1781554042,4653350274,123+,123+,7.5,0,False
+18006716,Air Force Falcons vs. UNLV Rebels,Taz Reddicks,Total des yards reçus par le joueur (Taz Reddicks (UNLV)) (prolongations incluses),2143,72898,1781554042,4653350275,33+,33+,1.5,0,False
+18006716,Air Force Falcons vs. UNLV Rebels,Taz Reddicks,Total des yards reçus par le joueur (Taz Reddicks (UNLV)) (prolongations incluses),2143,72898,1781554042,4653350266,43+,43+,1.8696,0,False
+18006716,Air Force Falcons vs. UNLV Rebels,Taz Reddicks,Total des yards reçus par le joueur (Taz Reddicks (UNLV)) (prolongations incluses),2143,72898,1781554042,4653350267,53+,53+,2.1,0,False
+18006716,Air Force Falcons vs. UNLV Rebels,Taz Reddicks,Total des yards reçus par le joueur (Taz Reddicks (UNLV)) (prolongations incluses),2143,72898,1781554042,4653350268,63+,63+,2.45,0,False
+18006716,Air Force Falcons vs. UNLV Rebels,Taz Reddicks,Total des yards reçus par le joueur (Taz Reddicks (UNLV)) (prolongations incluses),2143,72898,1781554042,4653350269,73+,73+,2.85,0,False
+18006716,Air Force Falcons vs. UNLV Rebels,Taz Reddicks,Total des yards reçus par le joueur (Taz Reddicks (UNLV)) (prolongations incluses),2143,72898,1781554042,4653350270,83+,83+,3.3,0,False
+18006716,Air Force Falcons vs. UNLV Rebels,Taz Reddicks,Total des yards reçus par le joueur (Taz Reddicks (UNLV)) (prolongations incluses),2143,72898,1781554042,4653350271,93+,93+,4.0,0,False
+18006716,Air Force Falcons vs. UNLV Rebels,Jai'den Thomas,Total des yards reçus par le joueur (Jai'den Thomas (UNLV)) (prolongations incluses),2143,72898,1781554001,4653353184,87+,87+,13.0,0,False
+18006716,Air Force Falcons vs. UNLV Rebels,Jai'den Thomas,Total des yards reçus par le joueur (Jai'den Thomas (UNLV)) (prolongations incluses),2143,72898,1781554001,4653353185,97+,97+,18.0,0,False
+18006716,Air Force Falcons vs. UNLV Rebels,Jai'den Thomas,Total des yards reçus par le joueur (Jai'den Thomas (UNLV)) (prolongations incluses),2143,72898,1781554001,4653353177,17+,17+,1.8696,0,False
+18006716,Air Force Falcons vs. UNLV Rebels,Jai'den Thomas,Total des yards reçus par le joueur (Jai'den Thomas (UNLV)) (prolongations incluses),2143,72898,1781554001,4653353178,27+,27+,2.25,0,False
+18006716,Air Force Falcons vs. UNLV Rebels,Jai'den Thomas,Total des yards reçus par le joueur (Jai'den Thomas (UNLV)) (prolongations incluses),2143,72898,1781554001,4653353179,37+,37+,2.75,0,False
+18006716,Air Force Falcons vs. UNLV Rebels,Jai'den Thomas,Total des yards reçus par le joueur (Jai'den Thomas (UNLV)) (prolongations incluses),2143,72898,1781554001,4653353180,47+,47+,3.5,0,False
+18006716,Air Force Falcons vs. UNLV Rebels,Jai'den Thomas,Total des yards reçus par le joueur (Jai'den Thomas (UNLV)) (prolongations incluses),2143,72898,1781554001,4653353181,57+,57+,4.5,0,False
+18006716,Air Force Falcons vs. UNLV Rebels,Jai'den Thomas,Total des yards reçus par le joueur (Jai'den Thomas (UNLV)) (prolongations incluses),2143,72898,1781554001,4653353182,67+,67+,6.25,0,False
+18006716,Air Force Falcons vs. UNLV Rebels,Jai'den Thomas,Total des yards reçus par le joueur (Jai'den Thomas (UNLV)) (prolongations incluses),2143,72898,1781554001,4653353183,77+,77+,8.5,0,False
+18006716,Air Force Falcons vs. UNLV Rebels,Jai'den Thomas,Joueur total de yards par la course (Jai'den Thomas (UNLV)) (prolongations incluses),2140,72895,1781554000,4653329580,78+,78+,1.8696,0,False
+18006716,Air Force Falcons vs. UNLV Rebels,Jai'den Thomas,Joueur total de yards par la course (Jai'den Thomas (UNLV)) (prolongations incluses),2140,72895,1781554000,4653329581,88+,88+,2.2,0,False
+18006716,Air Force Falcons vs. UNLV Rebels,Jai'den Thomas,Joueur total de yards par la course (Jai'den Thomas (UNLV)) (prolongations incluses),2140,72895,1781554000,4653329582,98+,98+,2.7,0,False
+18006716,Air Force Falcons vs. UNLV Rebels,Jai'den Thomas,Joueur total de yards par la course (Jai'den Thomas (UNLV)) (prolongations incluses),2140,72895,1781554000,4653329583,108+,108+,3.3,0,False
+18006716,Air Force Falcons vs. UNLV Rebels,Jai'den Thomas,Joueur total de yards par la course (Jai'den Thomas (UNLV)) (prolongations incluses),2140,72895,1781554000,4653329584,118+,118+,4.3,0,False
+18006716,Air Force Falcons vs. UNLV Rebels,Jai'den Thomas,Joueur total de yards par la course (Jai'den Thomas (UNLV)) (prolongations incluses),2140,72895,1781554000,4653329585,128+,128+,5.5,0,False
+18006716,Air Force Falcons vs. UNLV Rebels,Jai'den Thomas,Joueur total de yards par la course (Jai'den Thomas (UNLV)) (prolongations incluses),2140,72895,1781554000,4653329586,138+,138+,7.5,0,False
+18006716,Air Force Falcons vs. UNLV Rebels,Jai'den Thomas,Joueur total de yards par la course (Jai'den Thomas (UNLV)) (prolongations incluses),2140,72895,1781554000,4653329587,148+,148+,11.0,0,False
+18006716,Air Force Falcons vs. UNLV Rebels,Jai'den Thomas,Joueur total de yards par la course (Jai'den Thomas (UNLV)) (prolongations incluses),2140,72895,1781554000,4653329588,158+,158+,15.0,0,False
+18006716,Air Force Falcons vs. UNLV Rebels,Jai'den Thomas,Joueur total de yards par la course (Jai'den Thomas (UNLV)) (prolongations incluses),2140,72895,1781554000,4653329589,68+,68+,1.5,0,False
+18006716,Air Force Falcons vs. UNLV Rebels,Jai'den Thomas,Joueur total de yards par la course (Jai'den Thomas (UNLV)) (prolongations incluses),2140,72895,1781554000,4653329590,58+,58+,1.2858,0,False
+18006716,Air Force Falcons vs. UNLV Rebels,Evan Medders,Joueur total de yards par la course (Evan Medders (AF)) (prolongations incluses),2140,72895,1781554002,4655049986,90+,90+,1.8696,0,False
+18006716,Air Force Falcons vs. UNLV Rebels,Evan Medders,Joueur total de yards par la course (Evan Medders (AF)) (prolongations incluses),2140,72895,1781554002,4655049987,100+,100+,2.25,0,False
+18006716,Air Force Falcons vs. UNLV Rebels,Evan Medders,Joueur total de yards par la course (Evan Medders (AF)) (prolongations incluses),2140,72895,1781554002,4655049988,110+,110+,2.75,0,False
+18006716,Air Force Falcons vs. UNLV Rebels,Evan Medders,Joueur total de yards par la course (Evan Medders (AF)) (prolongations incluses),2140,72895,1781554002,4655049989,120+,120+,3.5,0,False
+18006716,Air Force Falcons vs. UNLV Rebels,Evan Medders,Joueur total de yards par la course (Evan Medders (AF)) (prolongations incluses),2140,72895,1781554002,4655049992,150+,150+,8.5,0,False
+18006716,Air Force Falcons vs. UNLV Rebels,Evan Medders,Joueur total de yards par la course (Evan Medders (AF)) (prolongations incluses),2140,72895,1781554002,4655049993,160+,160+,12.0,0,False
+18006716,Air Force Falcons vs. UNLV Rebels,Evan Medders,Joueur total de yards par la course (Evan Medders (AF)) (prolongations incluses),2140,72895,1781554002,4655049994,170+,170+,18.0,0,False
+18006716,Air Force Falcons vs. UNLV Rebels,Evan Medders,Joueur total de yards par la course (Evan Medders (AF)) (prolongations incluses),2140,72895,1781554002,4655049995,80+,80+,1.5264,0,False
+18006716,Air Force Falcons vs. UNLV Rebels,Evan Medders,Joueur total de yards par la course (Evan Medders (AF)) (prolongations incluses),2140,72895,1781554002,4655049996,70+,70+,1.3077,0,False
+18006716,Air Force Falcons vs. UNLV Rebels,Jackson Arnold,Joueur total de yards par la course (Jackson Arnold (UNLV)) (prolongations incluses),2140,72895,1781554041,4653329707,54+,54+,1.8696,0,False
+18006716,Air Force Falcons vs. UNLV Rebels,Jackson Arnold,Joueur total de yards par la course (Jackson Arnold (UNLV)) (prolongations incluses),2140,72895,1781554041,4653329708,64+,64+,2.2,0,False
+18006716,Air Force Falcons vs. UNLV Rebels,Jackson Arnold,Joueur total de yards par la course (Jackson Arnold (UNLV)) (prolongations incluses),2140,72895,1781554041,4653329709,74+,74+,2.65,0,False
+18006716,Air Force Falcons vs. UNLV Rebels,Jackson Arnold,Joueur total de yards par la course (Jackson Arnold (UNLV)) (prolongations incluses),2140,72895,1781554041,4653329710,84+,84+,3.3,0,False
+18006716,Air Force Falcons vs. UNLV Rebels,Jackson Arnold,Joueur total de yards par la course (Jackson Arnold (UNLV)) (prolongations incluses),2140,72895,1781554041,4653329711,94+,94+,4.25,0,False
+18006716,Air Force Falcons vs. UNLV Rebels,Jackson Arnold,Joueur total de yards par la course (Jackson Arnold (UNLV)) (prolongations incluses),2140,72895,1781554041,4653329712,104+,104+,5.5,0,False
+18006716,Air Force Falcons vs. UNLV Rebels,Jackson Arnold,Joueur total de yards par la course (Jackson Arnold (UNLV)) (prolongations incluses),2140,72895,1781554041,4653329713,114+,114+,7.25,0,False
+18006716,Air Force Falcons vs. UNLV Rebels,Jackson Arnold,Joueur total de yards par la course (Jackson Arnold (UNLV)) (prolongations incluses),2140,72895,1781554041,4653329714,124+,124+,10.0,0,False
+18006716,Air Force Falcons vs. UNLV Rebels,Jackson Arnold,Joueur total de yards par la course (Jackson Arnold (UNLV)) (prolongations incluses),2140,72895,1781554041,4653329715,134+,134+,15.0,0,False
+18006716,Air Force Falcons vs. UNLV Rebels,Jackson Arnold,Joueur total de yards par la course (Jackson Arnold (UNLV)) (prolongations incluses),2140,72895,1781554041,4653329716,44+,44+,1.5264,0,False
+18006716,Air Force Falcons vs. UNLV Rebels,Jackson Arnold,Joueur total de yards par la course (Jackson Arnold (UNLV)) (prolongations incluses),2140,72895,1781554041,4653329717,34+,34+,1.3077,0,False
+18006716,Air Force Falcons vs. UNLV Rebels,Owen Allen,Joueur total de yards par la course (Owen Allen (AF)) (prolongations incluses),2140,72895,1781554003,4655021456,48+,48+,1.8696,0,False
+18006716,Air Force Falcons vs. UNLV Rebels,Owen Allen,Joueur total de yards par la course (Owen Allen (AF)) (prolongations incluses),2140,72895,1781554003,4655021457,58+,58+,2.1,0,False
+18006716,Air Force Falcons vs. UNLV Rebels,Owen Allen,Joueur total de yards par la course (Owen Allen (AF)) (prolongations incluses),2140,72895,1781554003,4655021458,68+,68+,2.35,0,False
+18006716,Air Force Falcons vs. UNLV Rebels,Owen Allen,Joueur total de yards par la course (Owen Allen (AF)) (prolongations incluses),2140,72895,1781554003,4655021459,78+,78+,2.7,0,False
+18006716,Air Force Falcons vs. UNLV Rebels,Owen Allen,Joueur total de yards par la course (Owen Allen (AF)) (prolongations incluses),2140,72895,1781554003,4655021460,88+,88+,3.1,0,False
+18006716,Air Force Falcons vs. UNLV Rebels,Owen Allen,Joueur total de yards par la course (Owen Allen (AF)) (prolongations incluses),2140,72895,1781554003,4655021461,98+,98+,3.6,0,False
+18006716,Air Force Falcons vs. UNLV Rebels,Owen Allen,Joueur total de yards par la course (Owen Allen (AF)) (prolongations incluses),2140,72895,1781554003,4655021462,108+,108+,4.3,0,False
+18006716,Air Force Falcons vs. UNLV Rebels,Owen Allen,Joueur total de yards par la course (Owen Allen (AF)) (prolongations incluses),2140,72895,1781554003,4655021463,118+,118+,5.25,0,False
+18006716,Air Force Falcons vs. UNLV Rebels,Owen Allen,Joueur total de yards par la course (Owen Allen (AF)) (prolongations incluses),2140,72895,1781554003,4655021464,128+,128+,6.25,0,False
+18006716,Air Force Falcons vs. UNLV Rebels,Owen Allen,Joueur total de yards par la course (Owen Allen (AF)) (prolongations incluses),2140,72895,1781554003,4655021465,38+,38+,1.5556,0,False
+18006716,Air Force Falcons vs. UNLV Rebels,Owen Allen,Joueur total de yards par la course (Owen Allen (AF)) (prolongations incluses),2140,72895,1781554003,4655021466,28+,28+,1.3449,0,False

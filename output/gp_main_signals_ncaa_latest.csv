@@ -1,13 +1,29 @@
 captured_at,event_id,match,start_date,market,selection,side,signal,old_line,new_line,old_price,new_price,old_status,new_status,old_is_main_bet,new_is_main_bet
-2026-10-16T19:14:49.890440+00:00,17803705,Boston College Eagles vs. Pittsburgh Panthers,2026-10-17T16:00:00Z,total,Moins de 42.5,under,MAIN_SWITCH,42.5,42.5,1.8696,1.8696,0,0.0,0,1.0
-2026-10-16T19:14:49.890440+00:00,17803705,Boston College Eagles vs. Pittsburgh Panthers,2026-10-17T16:00:00Z,total,Plus de 42.5,over,MAIN_SWITCH,42.5,42.5,1.8,1.8,0,0.0,0,1.0
-2026-10-16T19:14:49.890440+00:00,18005344,James Madison Dukes vs. Georgia State Panthers,2026-10-17T16:00:00Z,spread,Georgia State Panthers (+10.5),Georgia State Panthers,MAIN_PRICE_MOVE,10.5,10.5,1.8,1.7693,0,0.0,1,1.0
-2026-10-16T19:14:49.890440+00:00,18005344,James Madison Dukes vs. Georgia State Panthers,2026-10-17T16:00:00Z,spread,James Madison Dukes (-10.5),James Madison Dukes,MAIN_PRICE_MOVE,-10.5,-10.5,1.8696,1.9091,0,0.0,1,1.0
-2026-10-16T19:14:49.890440+00:00,17803697,Virginia Tech Hokies vs. Georgia Tech,2026-10-17T19:30:00Z,spread,Virginia Tech Hokies (-9.5),Virginia Tech Hokies,MAIN_PRICE_MOVE,-9.5,-9.5,1.8334,1.8696,0,0.0,1,1.0
-2026-10-16T19:14:49.890440+00:00,17803697,Virginia Tech Hokies vs. Georgia Tech,2026-10-17T19:30:00Z,spread,Georgia Tech (+9.5),Georgia Tech,MAIN_PRICE_MOVE,9.5,9.5,1.8334,1.8,0,0.0,1,1.0
-2026-10-16T19:14:49.890440+00:00,18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,total,Plus de 49.5,over,MAIN_SWITCH,49.5,49.5,1.8696,1.8696,0,0.0,1,0.0
-2026-10-16T19:14:49.890440+00:00,18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,total,Moins de 49.5,under,MAIN_SWITCH,49.5,49.5,1.8,1.8,0,0.0,1,0.0
-2026-10-16T19:14:49.890440+00:00,18006704,Southern Miss Golden Eagles vs. Arkansas St Red Wolves,2026-10-17T23:00:00Z,total,Plus de 63.5,over,MAIN_PRICE_MOVE,63.5,63.5,1.8696,1.8334,0,0.0,1,1.0
-2026-10-16T19:14:49.890440+00:00,18006704,Southern Miss Golden Eagles vs. Arkansas St Red Wolves,2026-10-17T23:00:00Z,total,Moins de 63.5,under,MAIN_PRICE_MOVE,63.5,63.5,1.8,1.8334,0,0.0,1,1.0
-2026-10-16T19:14:49.890440+00:00,17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Moins de 43.5,under,REMOVED_MAIN,43.5,,1.8,,0,,1,
-2026-10-16T19:14:49.890440+00:00,17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Plus de 43.5,over,REMOVED_MAIN,43.5,,1.8696,,0,,1,
+2026-10-16T19:48:31.630007+00:00,17794098,Tulane Green Wave vs. Memphis Tigers,2026-10-16T23:30:00Z,spread,Tulane Green Wave (+6.5),Tulane Green Wave,MAIN_PRICE_MOVE,6.5,6.5,1.9091,1.8696,0,0.0,1,1.0
+2026-10-16T19:48:31.630007+00:00,17794098,Tulane Green Wave vs. Memphis Tigers,2026-10-16T23:30:00Z,spread,Memphis Tigers (-6.5),Memphis Tigers,MAIN_PRICE_MOVE,-6.5,-6.5,1.7693,1.8,0,0.0,1,1.0
+2026-10-16T19:48:31.630007+00:00,18005344,James Madison Dukes vs. Georgia State Panthers,2026-10-17T16:00:00Z,spread,Georgia State Panthers (+10.5),Georgia State Panthers,MAIN_SWITCH,10.5,10.5,1.7693,1.7693,0,0.0,1,0.0
+2026-10-16T19:48:31.630007+00:00,18005344,James Madison Dukes vs. Georgia State Panthers,2026-10-17T16:00:00Z,spread,James Madison Dukes (-10.5),James Madison Dukes,MAIN_SWITCH,-10.5,-10.5,1.9091,1.9091,0,0.0,1,0.0
+2026-10-16T19:48:31.630007+00:00,18005344,James Madison Dukes vs. Georgia State Panthers,2026-10-17T16:00:00Z,spread,Georgia State Panthers (+9.5),Georgia State Panthers,MAIN_SWITCH,9.5,9.5,1.9091,1.9091,0,0.0,0,1.0
+2026-10-16T19:48:31.630007+00:00,18005344,James Madison Dukes vs. Georgia State Panthers,2026-10-17T16:00:00Z,spread,James Madison Dukes (-9.5),James Madison Dukes,MAIN_SWITCH,-9.5,-9.5,1.7693,1.7693,0,0.0,0,1.0
+2026-10-16T19:48:31.630007+00:00,17803700,LSU Tigers vs. Mississippi St Bulldogs,2026-10-17T16:00:00Z,spread,LSU Tigers (-16.5),LSU Tigers,MAIN_SWITCH,-16.5,-16.5,1.8696,1.8696,0,0.0,0,1.0
+2026-10-16T19:48:31.630007+00:00,17803700,LSU Tigers vs. Mississippi St Bulldogs,2026-10-17T16:00:00Z,spread,Mississippi St Bulldogs (+16.5),Mississippi St Bulldogs,MAIN_SWITCH,16.5,16.5,1.8,1.8,0,0.0,0,1.0
+2026-10-16T19:48:31.630007+00:00,17218303,Duke Blue Devils vs. North Carolina Tar Heels,2026-10-17T19:30:00Z,spread,Duke Blue Devils (-2.5),Duke Blue Devils,MAIN_SWITCH,-2.5,-2.5,1.7143,1.7143,0,0.0,0,1.0
+2026-10-16T19:48:31.630007+00:00,17218303,Duke Blue Devils vs. North Carolina Tar Heels,2026-10-17T19:30:00Z,spread,North Carolina Tar Heels (+2.5),North Carolina Tar Heels,MAIN_SWITCH,2.5,2.5,2.0,2.0,0,0.0,0,1.0
+2026-10-16T19:48:31.630007+00:00,17218303,Duke Blue Devils vs. North Carolina Tar Heels,2026-10-17T19:30:00Z,spread,Duke Blue Devils (-3.5),Duke Blue Devils,MAIN_SWITCH,-3.5,-3.5,2.0,2.0,0,0.0,1,0.0
+2026-10-16T19:48:31.630007+00:00,17218303,Duke Blue Devils vs. North Carolina Tar Heels,2026-10-17T19:30:00Z,spread,North Carolina Tar Heels (+3.5),North Carolina Tar Heels,MAIN_SWITCH,3.5,3.5,1.7143,1.7143,0,0.0,1,0.0
+2026-10-16T19:48:31.630007+00:00,18006651,Wyoming Cowboys vs. Northern Illinois Huskies,2026-10-17T19:30:00Z,spread,Wyoming Cowboys (-8.5),Wyoming Cowboys,MAIN_SWITCH,-8.5,-8.5,1.8696,1.8696,0,0.0,1,0.0
+2026-10-16T19:48:31.630007+00:00,18006651,Wyoming Cowboys vs. Northern Illinois Huskies,2026-10-17T19:30:00Z,spread,Northern Illinois Huskies (+8.5),Northern Illinois Huskies,MAIN_SWITCH,8.5,8.5,1.8,1.8,0,0.0,1,0.0
+2026-10-16T19:48:31.630007+00:00,17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,California Golden Bears (+10.5),California Golden Bears,MAIN_SWITCH,10.5,10.5,1.7693,1.7693,0,0.0,0,1.0
+2026-10-16T19:48:31.630007+00:00,17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Wake Forest Demon Deacons (-10.5),Wake Forest Demon Deacons,MAIN_SWITCH,-10.5,-10.5,1.9091,1.9091,0,0.0,0,1.0
+2026-10-16T19:48:31.630007+00:00,17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Wake Forest Demon Deacons (-9.5),Wake Forest Demon Deacons,MAIN_SWITCH,-9.5,-9.5,1.7693,1.7693,0,0.0,1,0.0
+2026-10-16T19:48:31.630007+00:00,17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,California Golden Bears (+9.5),California Golden Bears,MAIN_SWITCH,9.5,9.5,1.9091,1.9091,0,0.0,1,0.0
+2026-10-16T19:48:31.630007+00:00,18045678,Northwestern State Demons vs. McNeese State Cowboys,2026-10-17T17:00:00Z,total,Plus de 54.5,over,REMOVED_MAIN,54.5,,1.8334,,0,,1,
+2026-10-16T19:48:31.630007+00:00,18045678,Northwestern State Demons vs. McNeese State Cowboys,2026-10-17T17:00:00Z,total,Moins de 54.5,under,REMOVED_MAIN,54.5,,1.8334,,0,,1,
+2026-10-16T19:48:31.630007+00:00,18046716,Arkansas Pine Bluff Golden Lions vs. Alabama State Hornets,2026-10-17T19:00:00Z,total,Plus de 59.5,over,REMOVED_MAIN,59.5,,1.8334,,0,,1,
+2026-10-16T19:48:31.630007+00:00,18046716,Arkansas Pine Bluff Golden Lions vs. Alabama State Hornets,2026-10-17T19:00:00Z,total,Moins de 59.5,under,REMOVED_MAIN,59.5,,1.8334,,0,,1,
+2026-10-16T19:48:31.630007+00:00,18046724,Southern Illinois Salukis vs. Illinois State Redbirds,2026-10-17T20:00:00Z,spread,Illinois State Redbirds (-7.5),Illinois State Redbirds,REMOVED_MAIN,-7.5,,1.8334,,0,,1,
+2026-10-16T19:48:31.630007+00:00,18046724,Southern Illinois Salukis vs. Illinois State Redbirds,2026-10-17T20:00:00Z,spread,Southern Illinois Salukis (+7.5),Southern Illinois Salukis,REMOVED_MAIN,7.5,,1.8334,,0,,1,
+2026-10-16T19:48:31.630007+00:00,18059254,North Carolina A&T Aggies vs. Concordia Chicago Cougars,2026-10-17T16:00:00Z,spread,Concordia Chicago Cougars (+13.5),Concordia Chicago Cougars,REMOVED_MAIN,13.5,,1.8334,,0,,1,
+2026-10-16T19:48:31.630007+00:00,18059254,North Carolina A&T Aggies vs. Concordia Chicago Cougars,2026-10-17T16:00:00Z,spread,North Carolina A&T Aggies (-13.5),North Carolina A&T Aggies,REMOVED_MAIN,-13.5,,1.8334,,0,,1,
+2026-10-16T19:48:31.630007+00:00,18059254,North Carolina A&T Aggies vs. Concordia Chicago Cougars,2026-10-17T16:00:00Z,total,Plus de 55.5,over,REMOVED_MAIN,55.5,,1.8334,,0,,1,
+2026-10-16T19:48:31.630007+00:00,18059254,North Carolina A&T Aggies vs. Concordia Chicago Cougars,2026-10-17T16:00:00Z,total,Moins de 55.5,under,REMOVED_MAIN,55.5,,1.8334,,0,,1,

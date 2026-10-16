@@ -1,6 +1,8 @@
 event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id,selection,line,price,odd_id,odd_status,is_main_bet
 18006675,Buffalo Bulls vs. UMass Minutemen,2026-10-17T17:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,UMass Minutemen,,2.95,4632956592,0,False
 18006675,Buffalo Bulls vs. UMass Minutemen,2026-10-17T17:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Buffalo Bulls,,1.3334,4632956593,0,False
+18006675,Buffalo Bulls vs. UMass Minutemen,2026-10-17T17:00:00Z,spread,Handicap (inclus prolongations),223,70799,UMass Minutemen (+7.0),-7.0,1.8334,4661017104,0,True
+18006675,Buffalo Bulls vs. UMass Minutemen,2026-10-17T17:00:00Z,spread,Handicap (inclus prolongations),223,70799,Buffalo Bulls (-7.0),-7.0,1.8334,4661017105,0,True
 18006675,Buffalo Bulls vs. UMass Minutemen,2026-10-17T17:00:00Z,spread,Handicap (inclus prolongations),223,70799,UMass Minutemen (+17.5),-17.5,1.2223,4638317347,0,False
 18006675,Buffalo Bulls vs. UMass Minutemen,2026-10-17T17:00:00Z,spread,Handicap (inclus prolongations),223,70799,Buffalo Bulls (-17.5),-17.5,4.0,4638317348,0,False
 18006675,Buffalo Bulls vs. UMass Minutemen,2026-10-17T17:00:00Z,spread,Handicap (inclus prolongations),223,70799,Buffalo Bulls (-13.5),-13.5,2.7,4637337272,0,False
@@ -31,8 +33,6 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 18006675,Buffalo Bulls vs. UMass Minutemen,2026-10-17T17:00:00Z,spread,Handicap (inclus prolongations),223,70799,UMass Minutemen (+3.5),-3.5,2.3,4632963024,0,False
 18006675,Buffalo Bulls vs. UMass Minutemen,2026-10-17T17:00:00Z,spread,Handicap (inclus prolongations),223,70799,UMass Minutemen (+15.5),-15.5,1.3031,4637751506,0,False
 18006675,Buffalo Bulls vs. UMass Minutemen,2026-10-17T17:00:00Z,spread,Handicap (inclus prolongations),223,70799,Buffalo Bulls (-15.5),-15.5,3.25,4637751507,0,False
-18006675,Buffalo Bulls vs. UMass Minutemen,2026-10-17T17:00:00Z,spread,Handicap (inclus prolongations),223,70799,UMass Minutemen (-4.5),4.5,4.2,4637337300,0,False
-18006675,Buffalo Bulls vs. UMass Minutemen,2026-10-17T17:00:00Z,spread,Handicap (inclus prolongations),223,70799,Buffalo Bulls (+4.5),4.5,1.2,4637337301,0,False
 18006675,Buffalo Bulls vs. UMass Minutemen,2026-10-17T17:00:00Z,spread,Handicap (inclus prolongations),223,70799,Buffalo Bulls (-10.5),-10.5,2.35,4637337302,0,False
 18006675,Buffalo Bulls vs. UMass Minutemen,2026-10-17T17:00:00Z,spread,Handicap (inclus prolongations),223,70799,UMass Minutemen (+10.5),-10.5,1.5455,4637337303,0,False
 18006675,Buffalo Bulls vs. UMass Minutemen,2026-10-17T17:00:00Z,spread,Handicap (inclus prolongations),223,70799,UMass Minutemen (+14.5),-14.5,1.3334,4637337304,0,False

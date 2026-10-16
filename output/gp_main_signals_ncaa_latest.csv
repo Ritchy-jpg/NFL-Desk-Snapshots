@@ -1,19 +1,21 @@
 captured_at,event_id,match,start_date,market,selection,side,signal,old_line,new_line,old_price,new_price,old_status,new_status,old_is_main_bet,new_is_main_bet
-2026-10-16T17:26:36.380116+00:00,18024870,Penn Quakers vs. Columbia Lions,2026-10-16T23:00:00Z,total,Moins de 46.5,under,REMOVED_MAIN,46.5,,1.8334,,0,,1,
-2026-10-16T17:26:36.380116+00:00,18024870,Penn Quakers vs. Columbia Lions,2026-10-16T23:00:00Z,total,Plus de 46.5,over,REMOVED_MAIN,46.5,,1.8334,,0,,1,
-2026-10-16T17:26:36.380116+00:00,18045674,Princeton Tigers vs. Brown Bears,2026-10-17T16:00:00Z,total,Moins de 36.5,under,REMOVED_MAIN,36.5,,1.8334,,0,,1,
-2026-10-16T17:26:36.380116+00:00,18045674,Princeton Tigers vs. Brown Bears,2026-10-17T16:00:00Z,total,Plus de 36.5,over,REMOVED_MAIN,36.5,,1.8334,,0,,1,
-2026-10-16T17:26:36.380116+00:00,18045676,Harvard Crimson vs. Holy Cross Crusaders,2026-10-17T17:00:00Z,total,Moins de 50.5,under,REMOVED_MAIN,50.5,,1.8334,,0,,1,
-2026-10-16T17:26:36.380116+00:00,18045676,Harvard Crimson vs. Holy Cross Crusaders,2026-10-17T17:00:00Z,total,Plus de 50.5,over,REMOVED_MAIN,50.5,,1.8334,,0,,1,
-2026-10-16T17:26:36.380116+00:00,18045684,New Hampshire Wildcats vs. Monmouth Hawks,2026-10-17T17:00:00Z,spread,Monmouth Hawks (-7.5),Monmouth Hawks,REMOVED_MAIN,-7.5,,1.8334,,0,,1,
-2026-10-16T17:26:36.380116+00:00,18045684,New Hampshire Wildcats vs. Monmouth Hawks,2026-10-17T17:00:00Z,spread,New Hampshire Wildcats (+7.5),New Hampshire Wildcats,REMOVED_MAIN,7.5,,1.8334,,0,,1,
-2026-10-16T17:26:36.380116+00:00,18046464,Alabama A&M Bulldogs vs. Grambling State Tigers,2026-10-17T19:00:00Z,total,Plus de 59.5,over,REMOVED_MAIN,59.5,,1.8334,,0,,1,
-2026-10-16T17:26:36.380116+00:00,18046464,Alabama A&M Bulldogs vs. Grambling State Tigers,2026-10-17T19:00:00Z,total,Moins de 59.5,under,REMOVED_MAIN,59.5,,1.8334,,0,,1,
-2026-10-16T17:26:36.380116+00:00,18046472,Mississippi Valley State Delta Devils vs. Bethune-Cookman Wildcats,2026-10-17T19:00:00Z,total,Moins de 57.5,under,REMOVED_MAIN,57.5,,1.8334,,0,,1,
-2026-10-16T17:26:36.380116+00:00,18046472,Mississippi Valley State Delta Devils vs. Bethune-Cookman Wildcats,2026-10-17T19:00:00Z,total,Plus de 57.5,over,REMOVED_MAIN,57.5,,1.8334,,0,,1,
-2026-10-16T17:26:36.380116+00:00,18046719,Campbell Fighting Camels vs. Towson Tigers,2026-10-17T19:30:00Z,total,Moins de 62.5,under,REMOVED_MAIN,62.5,,1.8334,,0,,1,
-2026-10-16T17:26:36.380116+00:00,18046719,Campbell Fighting Camels vs. Towson Tigers,2026-10-17T19:30:00Z,total,Plus de 62.5,over,REMOVED_MAIN,62.5,,1.8334,,0,,1,
-2026-10-16T17:26:36.380116+00:00,18046722,Northern Colorado Bears vs. Cal Poly Mustangs,2026-10-18T00:00:00Z,spread,Northern Colorado Bears (+3.0),Northern Colorado Bears,REMOVED_MAIN,3.0,,1.8334,,0,,1,
-2026-10-16T17:26:36.380116+00:00,18046722,Northern Colorado Bears vs. Cal Poly Mustangs,2026-10-18T00:00:00Z,spread,Cal Poly Mustangs (-3.0),Cal Poly Mustangs,REMOVED_MAIN,-3.0,,1.8334,,0,,1,
-2026-10-16T17:26:36.380116+00:00,18059254,North Carolina A&T Aggies vs. Concordia Chicago Cougars,2026-10-17T16:00:00Z,total,Plus de 54.5,over,REMOVED_MAIN,54.5,,1.8334,,0,,1,
-2026-10-16T17:26:36.380116+00:00,18059254,North Carolina A&T Aggies vs. Concordia Chicago Cougars,2026-10-17T16:00:00Z,total,Moins de 54.5,under,REMOVED_MAIN,54.5,,1.8334,,0,,1,
+2026-10-16T18:00:24.907659+00:00,17794097,Purdue Boilermakers vs. Washington Huskies,2026-10-17T00:00:00Z,spread,Washington Huskies (+3.5),Washington Huskies,MAIN_PRICE_MOVE,3.5,3.5,1.7408,1.7693,0,0.0,1,1.0
+2026-10-16T18:00:24.907659+00:00,17794097,Purdue Boilermakers vs. Washington Huskies,2026-10-17T00:00:00Z,spread,Purdue Boilermakers (-3.5),Purdue Boilermakers,MAIN_PRICE_MOVE,-3.5,-3.5,1.9524,1.9091,0,0.0,1,1.0
+2026-10-16T18:00:24.907659+00:00,17794097,Purdue Boilermakers vs. Washington Huskies,2026-10-17T00:00:00Z,total,Plus de 49.5,over,MAIN_PRICE_MOVE,49.5,49.5,1.8334,1.8,0,0.0,1,1.0
+2026-10-16T18:00:24.907659+00:00,17794097,Purdue Boilermakers vs. Washington Huskies,2026-10-17T00:00:00Z,total,Moins de 49.5,under,MAIN_PRICE_MOVE,49.5,49.5,1.8334,1.8696,0,0.0,1,1.0
+2026-10-16T18:00:24.907659+00:00,18006675,Buffalo Bulls vs. UMass Minutemen,2026-10-17T17:00:00Z,spread,Buffalo Bulls (-6.5),Buffalo Bulls,MAIN_SWITCH,-6.5,-6.5,1.7408,1.7408,0,0.0,0,1.0
+2026-10-16T18:00:24.907659+00:00,18006675,Buffalo Bulls vs. UMass Minutemen,2026-10-17T17:00:00Z,spread,UMass Minutemen (+6.5),UMass Minutemen,MAIN_SWITCH,6.5,6.5,1.9524,1.9524,0,0.0,0,1.0
+2026-10-16T18:00:24.907659+00:00,18006675,Buffalo Bulls vs. UMass Minutemen,2026-10-17T17:00:00Z,spread,Buffalo Bulls (-7.5),Buffalo Bulls,MAIN_SWITCH,-7.5,-7.5,1.9524,1.9524,0,0.0,1,0.0
+2026-10-16T18:00:24.907659+00:00,18006675,Buffalo Bulls vs. UMass Minutemen,2026-10-17T17:00:00Z,spread,UMass Minutemen (+7.5),UMass Minutemen,MAIN_SWITCH,7.5,7.5,1.7408,1.7408,0,0.0,1,0.0
+2026-10-16T18:00:24.907659+00:00,17332013,Miami Hurricanes vs. Florida State Seminoles,2026-10-17T23:00:00Z,spread,Miami Hurricanes (-20.5),Miami Hurricanes,MAIN_PRICE_MOVE,-20.5,-20.5,1.7693,1.8,0,0.0,1,1.0
+2026-10-16T18:00:24.907659+00:00,17332013,Miami Hurricanes vs. Florida State Seminoles,2026-10-17T23:00:00Z,spread,Florida State Seminoles (+20.5),Florida State Seminoles,MAIN_PRICE_MOVE,20.5,20.5,1.9091,1.8696,0,0.0,1,1.0
+2026-10-16T18:00:24.907659+00:00,18024906,Texas A&M Aggies vs. The Citadel Bulldogs,2026-10-17T17:00:00Z,total,Plus de 55.5,over,REMOVED_MAIN,55.5,,1.7693,,0,,1,
+2026-10-16T18:00:24.907659+00:00,18024906,Texas A&M Aggies vs. The Citadel Bulldogs,2026-10-17T17:00:00Z,total,Moins de 55.5,under,REMOVED_MAIN,55.5,,1.9091,,0,,1,
+2026-10-16T18:00:24.907659+00:00,18045670,Butler Bulldogs vs. Dayton Flyers,2026-10-17T17:00:00Z,total,Moins de 48.5,under,REMOVED_MAIN,48.5,,1.8334,,0,,1,
+2026-10-16T18:00:24.907659+00:00,18045670,Butler Bulldogs vs. Dayton Flyers,2026-10-17T17:00:00Z,total,Plus de 48.5,over,REMOVED_MAIN,48.5,,1.8334,,0,,1,
+2026-10-16T18:00:24.907659+00:00,18045674,Princeton Tigers vs. Brown Bears,2026-10-17T16:00:00Z,total,Moins de 37.5,under,REMOVED_MAIN,37.5,,1.8334,,0,,1,
+2026-10-16T18:00:24.907659+00:00,18045674,Princeton Tigers vs. Brown Bears,2026-10-17T16:00:00Z,total,Plus de 37.5,over,REMOVED_MAIN,37.5,,1.8334,,0,,1,
+2026-10-16T18:00:24.907659+00:00,18045681,Maine Black Bears vs. Bryant Bulldogs,2026-10-17T17:00:00Z,total,Plus de 44.5,over,REMOVED_MAIN,44.5,,1.8334,,0,,1,
+2026-10-16T18:00:24.907659+00:00,18045681,Maine Black Bears vs. Bryant Bulldogs,2026-10-17T17:00:00Z,total,Moins de 44.5,under,REMOVED_MAIN,44.5,,1.8334,,0,,1,
+2026-10-16T18:00:24.907659+00:00,18046451,Tennessee Tech Golden Eagles vs. Eastern Kentucky Colonels,2026-10-17T18:30:00Z,spread,Tennessee Tech Golden Eagles (-14.0),Tennessee Tech Golden Eagles,REMOVED_MAIN,-14.0,,1.8334,,0,,1,
+2026-10-16T18:00:24.907659+00:00,18046451,Tennessee Tech Golden Eagles vs. Eastern Kentucky Colonels,2026-10-17T18:30:00Z,spread,Eastern Kentucky Colonels (+14.0),Eastern Kentucky Colonels,REMOVED_MAIN,14.0,,1.8334,,0,,1,

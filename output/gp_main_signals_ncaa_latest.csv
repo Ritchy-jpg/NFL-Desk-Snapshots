@@ -1,21 +1,27 @@
 captured_at,event_id,match,start_date,market,selection,side,signal,old_line,new_line,old_price,new_price,old_status,new_status,old_is_main_bet,new_is_main_bet
-2026-10-16T18:00:24.907659+00:00,17794097,Purdue Boilermakers vs. Washington Huskies,2026-10-17T00:00:00Z,spread,Washington Huskies (+3.5),Washington Huskies,MAIN_PRICE_MOVE,3.5,3.5,1.7408,1.7693,0,0.0,1,1.0
-2026-10-16T18:00:24.907659+00:00,17794097,Purdue Boilermakers vs. Washington Huskies,2026-10-17T00:00:00Z,spread,Purdue Boilermakers (-3.5),Purdue Boilermakers,MAIN_PRICE_MOVE,-3.5,-3.5,1.9524,1.9091,0,0.0,1,1.0
-2026-10-16T18:00:24.907659+00:00,17794097,Purdue Boilermakers vs. Washington Huskies,2026-10-17T00:00:00Z,total,Plus de 49.5,over,MAIN_PRICE_MOVE,49.5,49.5,1.8334,1.8,0,0.0,1,1.0
-2026-10-16T18:00:24.907659+00:00,17794097,Purdue Boilermakers vs. Washington Huskies,2026-10-17T00:00:00Z,total,Moins de 49.5,under,MAIN_PRICE_MOVE,49.5,49.5,1.8334,1.8696,0,0.0,1,1.0
-2026-10-16T18:00:24.907659+00:00,18006675,Buffalo Bulls vs. UMass Minutemen,2026-10-17T17:00:00Z,spread,Buffalo Bulls (-6.5),Buffalo Bulls,MAIN_SWITCH,-6.5,-6.5,1.7408,1.7408,0,0.0,0,1.0
-2026-10-16T18:00:24.907659+00:00,18006675,Buffalo Bulls vs. UMass Minutemen,2026-10-17T17:00:00Z,spread,UMass Minutemen (+6.5),UMass Minutemen,MAIN_SWITCH,6.5,6.5,1.9524,1.9524,0,0.0,0,1.0
-2026-10-16T18:00:24.907659+00:00,18006675,Buffalo Bulls vs. UMass Minutemen,2026-10-17T17:00:00Z,spread,Buffalo Bulls (-7.5),Buffalo Bulls,MAIN_SWITCH,-7.5,-7.5,1.9524,1.9524,0,0.0,1,0.0
-2026-10-16T18:00:24.907659+00:00,18006675,Buffalo Bulls vs. UMass Minutemen,2026-10-17T17:00:00Z,spread,UMass Minutemen (+7.5),UMass Minutemen,MAIN_SWITCH,7.5,7.5,1.7408,1.7408,0,0.0,1,0.0
-2026-10-16T18:00:24.907659+00:00,17332013,Miami Hurricanes vs. Florida State Seminoles,2026-10-17T23:00:00Z,spread,Miami Hurricanes (-20.5),Miami Hurricanes,MAIN_PRICE_MOVE,-20.5,-20.5,1.7693,1.8,0,0.0,1,1.0
-2026-10-16T18:00:24.907659+00:00,17332013,Miami Hurricanes vs. Florida State Seminoles,2026-10-17T23:00:00Z,spread,Florida State Seminoles (+20.5),Florida State Seminoles,MAIN_PRICE_MOVE,20.5,20.5,1.9091,1.8696,0,0.0,1,1.0
-2026-10-16T18:00:24.907659+00:00,18024906,Texas A&M Aggies vs. The Citadel Bulldogs,2026-10-17T17:00:00Z,total,Plus de 55.5,over,REMOVED_MAIN,55.5,,1.7693,,0,,1,
-2026-10-16T18:00:24.907659+00:00,18024906,Texas A&M Aggies vs. The Citadel Bulldogs,2026-10-17T17:00:00Z,total,Moins de 55.5,under,REMOVED_MAIN,55.5,,1.9091,,0,,1,
-2026-10-16T18:00:24.907659+00:00,18045670,Butler Bulldogs vs. Dayton Flyers,2026-10-17T17:00:00Z,total,Moins de 48.5,under,REMOVED_MAIN,48.5,,1.8334,,0,,1,
-2026-10-16T18:00:24.907659+00:00,18045670,Butler Bulldogs vs. Dayton Flyers,2026-10-17T17:00:00Z,total,Plus de 48.5,over,REMOVED_MAIN,48.5,,1.8334,,0,,1,
-2026-10-16T18:00:24.907659+00:00,18045674,Princeton Tigers vs. Brown Bears,2026-10-17T16:00:00Z,total,Moins de 37.5,under,REMOVED_MAIN,37.5,,1.8334,,0,,1,
-2026-10-16T18:00:24.907659+00:00,18045674,Princeton Tigers vs. Brown Bears,2026-10-17T16:00:00Z,total,Plus de 37.5,over,REMOVED_MAIN,37.5,,1.8334,,0,,1,
-2026-10-16T18:00:24.907659+00:00,18045681,Maine Black Bears vs. Bryant Bulldogs,2026-10-17T17:00:00Z,total,Plus de 44.5,over,REMOVED_MAIN,44.5,,1.8334,,0,,1,
-2026-10-16T18:00:24.907659+00:00,18045681,Maine Black Bears vs. Bryant Bulldogs,2026-10-17T17:00:00Z,total,Moins de 44.5,under,REMOVED_MAIN,44.5,,1.8334,,0,,1,
-2026-10-16T18:00:24.907659+00:00,18046451,Tennessee Tech Golden Eagles vs. Eastern Kentucky Colonels,2026-10-17T18:30:00Z,spread,Tennessee Tech Golden Eagles (-14.0),Tennessee Tech Golden Eagles,REMOVED_MAIN,-14.0,,1.8334,,0,,1,
-2026-10-16T18:00:24.907659+00:00,18046451,Tennessee Tech Golden Eagles vs. Eastern Kentucky Colonels,2026-10-17T18:30:00Z,spread,Eastern Kentucky Colonels (+14.0),Eastern Kentucky Colonels,REMOVED_MAIN,14.0,,1.8334,,0,,1,
+2026-10-16T18:37:29.370472+00:00,17794098,Tulane Green Wave vs. Memphis Tigers,2026-10-16T23:30:00Z,total,Moins de 54.5,under,MAIN_PRICE_MOVE,54.5,54.5,1.8696,1.8334,0,0.0,1,1.0
+2026-10-16T18:37:29.370472+00:00,17794098,Tulane Green Wave vs. Memphis Tigers,2026-10-16T23:30:00Z,total,Plus de 54.5,over,MAIN_PRICE_MOVE,54.5,54.5,1.8,1.8334,0,0.0,1,1.0
+2026-10-16T18:37:29.370472+00:00,17794096,Coastal Carolina vs. Appalachian State Mountaineers,2026-10-17T00:00:00Z,spread,Coastal Carolina (+1.5),Coastal Carolina,MAIN_PRICE_MOVE,1.5,1.5,1.8334,1.7693,0,0.0,1,1.0
+2026-10-16T18:37:29.370472+00:00,17794096,Coastal Carolina vs. Appalachian State Mountaineers,2026-10-17T00:00:00Z,spread,Appalachian State Mountaineers (-1.5),Appalachian State Mountaineers,MAIN_PRICE_MOVE,-1.5,-1.5,1.8334,1.9091,0,0.0,1,1.0
+2026-10-16T18:37:29.370472+00:00,17794096,Coastal Carolina vs. Appalachian State Mountaineers,2026-10-17T00:00:00Z,total,Plus de 48.5,over,MAIN_SWITCH,48.5,48.5,1.8,1.8,0,0.0,0,1.0
+2026-10-16T18:37:29.370472+00:00,17794096,Coastal Carolina vs. Appalachian State Mountaineers,2026-10-17T00:00:00Z,total,Moins de 48.5,under,MAIN_SWITCH,48.5,48.5,1.8696,1.8696,0,0.0,0,1.0
+2026-10-16T18:37:29.370472+00:00,17794097,Purdue Boilermakers vs. Washington Huskies,2026-10-17T00:00:00Z,spread,Washington Huskies (+3.5),Washington Huskies,MAIN_PRICE_MOVE,3.5,3.5,1.7693,1.7408,0,0.0,1,1.0
+2026-10-16T18:37:29.370472+00:00,17794097,Purdue Boilermakers vs. Washington Huskies,2026-10-17T00:00:00Z,spread,Purdue Boilermakers (-3.5),Purdue Boilermakers,MAIN_PRICE_MOVE,-3.5,-3.5,1.9091,1.9524,0,0.0,1,1.0
+2026-10-16T18:37:29.370472+00:00,18024885,Clemson Tigers vs. Charleston Southern Buccaneers,2026-10-17T16:00:00Z,total,Plus de 58.5,over,MAIN_PRICE_MOVE,58.5,58.5,1.8334,1.9091,0,0.0,1,1.0
+2026-10-16T18:37:29.370472+00:00,18024885,Clemson Tigers vs. Charleston Southern Buccaneers,2026-10-17T16:00:00Z,total,Moins de 58.5,under,MAIN_PRICE_MOVE,58.5,58.5,1.8334,1.7693,0,0.0,1,1.0
+2026-10-16T18:37:29.370472+00:00,17844473,Marshall Herd vs. South Alabama Jaguars,2026-10-20T23:30:00Z,spread,Marshall Herd (+2.5),Marshall Herd,REMOVED_MAIN,2.5,,1.8334,,0,,1,
+2026-10-16T18:37:29.370472+00:00,17844473,Marshall Herd vs. South Alabama Jaguars,2026-10-20T23:30:00Z,spread,South Alabama Jaguars (-2.5),South Alabama Jaguars,REMOVED_MAIN,-2.5,,1.8334,,0,,1,
+2026-10-16T18:37:29.370472+00:00,17844473,Marshall Herd vs. South Alabama Jaguars,2026-10-20T23:30:00Z,total,Plus de 60.5,over,REMOVED_MAIN,60.5,,1.8696,,0,,1,
+2026-10-16T18:37:29.370472+00:00,17844473,Marshall Herd vs. South Alabama Jaguars,2026-10-20T23:30:00Z,total,Moins de 60.5,under,REMOVED_MAIN,60.5,,1.8,,0,,1,
+2026-10-16T18:37:29.370472+00:00,17844474,FIU Panthers vs. Middle Tennessee Blue Raiders,2026-10-20T23:00:00Z,spread,FIU Panthers (-10.5),FIU Panthers,REMOVED_MAIN,-10.5,,1.8,,0,,1,
+2026-10-16T18:37:29.370472+00:00,17844474,FIU Panthers vs. Middle Tennessee Blue Raiders,2026-10-20T23:00:00Z,spread,Middle Tennessee Blue Raiders (+10.5),Middle Tennessee Blue Raiders,REMOVED_MAIN,10.5,,1.8696,,0,,1,
+2026-10-16T18:37:29.370472+00:00,17844474,FIU Panthers vs. Middle Tennessee Blue Raiders,2026-10-20T23:00:00Z,total,Plus de 45.5,over,REMOVED_MAIN,45.5,,1.8334,,0,,1,
+2026-10-16T18:37:29.370472+00:00,17844474,FIU Panthers vs. Middle Tennessee Blue Raiders,2026-10-20T23:00:00Z,total,Moins de 45.5,under,REMOVED_MAIN,45.5,,1.8334,,0,,1,
+2026-10-16T18:37:29.370472+00:00,17854044,Sam Houston State Bearkats vs. New Mexico St Aggies,2026-10-22T00:00:00Z,spread,Sam Houston State Bearkats (+2.5),Sam Houston State Bearkats,REMOVED_MAIN,2.5,,1.9091,,0,,1,
+2026-10-16T18:37:29.370472+00:00,17854044,Sam Houston State Bearkats vs. New Mexico St Aggies,2026-10-22T00:00:00Z,spread,New Mexico St Aggies (-2.5),New Mexico St Aggies,REMOVED_MAIN,-2.5,,1.7693,,0,,1,
+2026-10-16T18:37:29.370472+00:00,17854044,Sam Houston State Bearkats vs. New Mexico St Aggies,2026-10-22T00:00:00Z,total,Plus de 48.5,over,REMOVED_MAIN,48.5,,1.8696,,0,,1,
+2026-10-16T18:37:29.370472+00:00,17854044,Sam Houston State Bearkats vs. New Mexico St Aggies,2026-10-22T00:00:00Z,total,Moins de 48.5,under,REMOVED_MAIN,48.5,,1.8,,0,,1,
+2026-10-16T18:37:29.370472+00:00,17863763,Kennesaw State Owls vs. Liberty Flames,2026-10-22T23:00:00Z,total,Plus de 47.5,over,REMOVED_MAIN,47.5,,1.8,,0,,1,
+2026-10-16T18:37:29.370472+00:00,17863763,Kennesaw State Owls vs. Liberty Flames,2026-10-22T23:00:00Z,total,Moins de 47.5,under,REMOVED_MAIN,47.5,,1.8696,,0,,1,
+2026-10-16T18:37:29.370472+00:00,17863763,Kennesaw State Owls vs. Liberty Flames,2026-10-22T23:00:00Z,spread,Kennesaw State Owls (+8.5),Kennesaw State Owls,REMOVED_MAIN,8.5,,1.8334,,0,,1,
+2026-10-16T18:37:29.370472+00:00,17863763,Kennesaw State Owls vs. Liberty Flames,2026-10-22T23:00:00Z,spread,Liberty Flames (-8.5),Liberty Flames,REMOVED_MAIN,-8.5,,1.8334,,0,,1,

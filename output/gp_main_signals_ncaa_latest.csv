@@ -1,15 +1,13 @@
 captured_at,event_id,match,start_date,market,selection,side,signal,old_line,new_line,old_price,new_price,old_status,new_status,old_is_main_bet,new_is_main_bet
-2026-10-16T21:00:43.322036+00:00,17794098,Tulane Green Wave vs. Memphis Tigers,2026-10-16T23:30:00Z,spread,Tulane Green Wave (+6.5),Tulane Green Wave,MAIN_PRICE_MOVE,6.5,6.5,1.9091,1.8696,0,0.0,1,1.0
-2026-10-16T21:00:43.322036+00:00,17794098,Tulane Green Wave vs. Memphis Tigers,2026-10-16T23:30:00Z,spread,Memphis Tigers (-6.5),Memphis Tigers,MAIN_PRICE_MOVE,-6.5,-6.5,1.7693,1.8,0,0.0,1,1.0
-2026-10-16T21:00:43.322036+00:00,17794098,Tulane Green Wave vs. Memphis Tigers,2026-10-16T23:30:00Z,total,Moins de 54.5,under,MAIN_PRICE_MOVE,54.5,54.5,1.9091,1.8334,0,0.0,1,1.0
-2026-10-16T21:00:43.322036+00:00,17794098,Tulane Green Wave vs. Memphis Tigers,2026-10-16T23:30:00Z,total,Plus de 54.5,over,MAIN_PRICE_MOVE,54.5,54.5,1.7693,1.8334,0,0.0,1,1.0
-2026-10-16T21:00:43.322036+00:00,18005353,Army Black Knights vs. Florida Atlantic Owls,2026-10-17T16:00:00Z,spread,Army Black Knights (-1.5),Army Black Knights,MAIN_PRICE_MOVE,-1.5,-1.5,1.7693,1.8,0,0.0,1,1.0
-2026-10-16T21:00:43.322036+00:00,18005353,Army Black Knights vs. Florida Atlantic Owls,2026-10-17T16:00:00Z,spread,Florida Atlantic Owls (+1.5),Florida Atlantic Owls,MAIN_PRICE_MOVE,1.5,1.5,1.9091,1.8696,0,0.0,1,1.0
-2026-10-16T21:00:43.322036+00:00,17803700,LSU Tigers vs. Mississippi St Bulldogs,2026-10-17T16:00:00Z,spread,LSU Tigers (-16.5),LSU Tigers,MAIN_SWITCH,-16.5,-16.5,1.8696,1.8696,0,0.0,0,1.0
-2026-10-16T21:00:43.322036+00:00,17803700,LSU Tigers vs. Mississippi St Bulldogs,2026-10-17T16:00:00Z,spread,Mississippi St Bulldogs (+16.5),Mississippi St Bulldogs,MAIN_SWITCH,16.5,16.5,1.8,1.8,0,0.0,0,1.0
-2026-10-16T21:00:43.322036+00:00,17803700,LSU Tigers vs. Mississippi St Bulldogs,2026-10-17T16:00:00Z,spread,LSU Tigers (-15.5),LSU Tigers,MAIN_SWITCH,-15.5,-15.5,1.8,1.8,0,0.0,1,0.0
-2026-10-16T21:00:43.322036+00:00,17803700,LSU Tigers vs. Mississippi St Bulldogs,2026-10-17T16:00:00Z,spread,Mississippi St Bulldogs (+15.5),Mississippi St Bulldogs,MAIN_SWITCH,15.5,15.5,1.8696,1.8696,0,0.0,1,0.0
-2026-10-16T21:00:43.322036+00:00,18046464,Alabama A&M Bulldogs vs. Grambling State Tigers,2026-10-17T19:00:00Z,total,Plus de 58.5,over,REMOVED_MAIN,58.5,,1.8334,,0,,1,
-2026-10-16T21:00:43.322036+00:00,18046464,Alabama A&M Bulldogs vs. Grambling State Tigers,2026-10-17T19:00:00Z,total,Moins de 58.5,under,REMOVED_MAIN,58.5,,1.8334,,0,,1,
-2026-10-16T21:00:43.322036+00:00,18046561,UT Martin Skyhawks vs. Gardner Webb Runnin Bulldogs,2026-10-17T19:00:00Z,total,Moins de 48.5,under,REMOVED_MAIN,48.5,,1.8334,,0,,1,
-2026-10-16T21:00:43.322036+00:00,18046561,UT Martin Skyhawks vs. Gardner Webb Runnin Bulldogs,2026-10-17T19:00:00Z,total,Plus de 48.5,over,REMOVED_MAIN,48.5,,1.8334,,0,,1,
+2026-10-16T21:32:15.793795+00:00,18024870,Penn Quakers vs. Columbia Lions,2026-10-16T23:00:00Z,spread,Columbia Lions (+6.5),Columbia Lions,MAIN_PRICE_MOVE,6.5,6.5,1.9091,1.8,0,0.0,1,1.0
+2026-10-16T21:32:15.793795+00:00,18024870,Penn Quakers vs. Columbia Lions,2026-10-16T23:00:00Z,spread,Penn Quakers (-6.5),Penn Quakers,MAIN_PRICE_MOVE,-6.5,-6.5,1.7693,1.8696,0,0.0,1,1.0
+2026-10-16T21:32:15.793795+00:00,18024870,Penn Quakers vs. Columbia Lions,2026-10-16T23:00:00Z,total,Moins de 47.5,under,MAIN_PRICE_MOVE,47.5,47.5,1.8334,1.7693,0,0.0,1,1.0
+2026-10-16T21:32:15.793795+00:00,18024870,Penn Quakers vs. Columbia Lions,2026-10-16T23:00:00Z,total,Plus de 47.5,over,MAIN_PRICE_MOVE,47.5,47.5,1.8334,1.9091,0,0.0,1,1.0
+2026-10-16T21:32:15.793795+00:00,17794096,Coastal Carolina vs. Appalachian State Mountaineers,2026-10-17T00:00:00Z,total,Plus de 48.5,over,MAIN_SWITCH,48.5,48.5,1.8,1.8,0,0.0,1,0.0
+2026-10-16T21:32:15.793795+00:00,17794096,Coastal Carolina vs. Appalachian State Mountaineers,2026-10-17T00:00:00Z,total,Moins de 48.5,under,MAIN_SWITCH,48.5,48.5,1.8696,1.8696,0,0.0,1,0.0
+2026-10-16T21:32:15.793795+00:00,18005353,Army Black Knights vs. Florida Atlantic Owls,2026-10-17T16:00:00Z,spread,Army Black Knights (-1.5),Army Black Knights,MAIN_SWITCH,-1.5,-1.5,1.8,1.8,0,0.0,1,0.0
+2026-10-16T21:32:15.793795+00:00,18005353,Army Black Knights vs. Florida Atlantic Owls,2026-10-17T16:00:00Z,spread,Florida Atlantic Owls (+1.5),Florida Atlantic Owls,MAIN_SWITCH,1.5,1.5,1.8696,1.8696,0,0.0,1,0.0
+2026-10-16T21:32:15.793795+00:00,17803694,Texas Longhorns vs. Florida Gators,2026-10-17T16:00:00Z,total,Plus de 51.5,over,MAIN_PRICE_MOVE,51.5,51.5,1.8334,1.8696,0,0.0,1,1.0
+2026-10-16T21:32:15.793795+00:00,17803694,Texas Longhorns vs. Florida Gators,2026-10-17T16:00:00Z,total,Moins de 51.5,under,MAIN_PRICE_MOVE,51.5,51.5,1.8334,1.8,0,0.0,1,1.0
+2026-10-16T21:32:15.793795+00:00,18045227,Stonehill Skyhawks vs. Duquesne Dukes,2026-10-17T16:00:00Z,spread,Stonehill Skyhawks (-2.5),Stonehill Skyhawks,REMOVED_MAIN,-2.5,,1.7693,,0,,1,
+2026-10-16T21:32:15.793795+00:00,18045227,Stonehill Skyhawks vs. Duquesne Dukes,2026-10-17T16:00:00Z,spread,Duquesne Dukes (+2.5),Duquesne Dukes,REMOVED_MAIN,2.5,,1.9091,,0,,1,

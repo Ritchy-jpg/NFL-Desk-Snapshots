@@ -2239,10 +2239,10 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17218303,Duke Blue Devils vs. North Carolina Tar Heels,2026-10-17T19:30:00Z,total,Total (prolongations incluses),225,70803,1769350083,46.5,4637326314,Moins de 58.5,58.5,1.2353,0,False
 17218303,Duke Blue Devils vs. North Carolina Tar Heels,2026-10-17T19:30:00Z,total,Total (prolongations incluses),225,70803,1769350083,46.5,4615776235,Plus de 47.5,47.5,1.9091,0,False
 17218303,Duke Blue Devils vs. North Carolina Tar Heels,2026-10-17T19:30:00Z,total,Total (prolongations incluses),225,70803,1769350083,46.5,4615776236,Moins de 47.5,47.5,1.7693,0,False
-18046711,Fordham Rams vs. Villanova Wildcats,2026-10-17T19:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1783689388,,4660289990,Villanova Wildcats,,1.2667,0,False
-18046711,Fordham Rams vs. Villanova Wildcats,2026-10-17T19:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1783689388,,4660289991,Fordham Rams,,3.3,0,False
-18046711,Fordham Rams vs. Villanova Wildcats,2026-10-17T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,1783689386,+7.5,4660289986,Villanova Wildcats (-7.5),+7.5,1.8334,0,True
-18046711,Fordham Rams vs. Villanova Wildcats,2026-10-17T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,1783689386,+7.5,4660289987,Fordham Rams (+7.5),+7.5,1.8334,0,True
+18046711,Fordham Rams vs. Villanova Wildcats,2026-10-17T19:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1783689388,,4660289990,Villanova Wildcats,,1.3449,0,False
+18046711,Fordham Rams vs. Villanova Wildcats,2026-10-17T19:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1783689388,,4660289991,Fordham Rams,,2.9,0,False
+18046711,Fordham Rams vs. Villanova Wildcats,2026-10-17T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,1784958021,+5.5,4663895472,Fordham Rams (+5.5),+5.5,1.8334,0,True
+18046711,Fordham Rams vs. Villanova Wildcats,2026-10-17T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,1784958021,+5.5,4663895471,Villanova Wildcats (-5.5),+5.5,1.8334,0,True
 18046711,Fordham Rams vs. Villanova Wildcats,2026-10-17T19:30:00Z,total,Total (prolongations incluses),225,70803,1783689387,47.5,4660289988,Moins de 47.5,47.5,1.8334,0,True
 18046711,Fordham Rams vs. Villanova Wildcats,2026-10-17T19:30:00Z,total,Total (prolongations incluses),225,70803,1783689387,47.5,4660289989,Plus de 47.5,47.5,1.8334,0,True
 17332022,GEORGIE BULLDOGS vs. Auburn Tigers,2026-10-17T19:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1769164332,,4615758738,Auburn Tigers,,6.75,0,False
@@ -4294,9 +4294,13 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1775268874,+10.5,4633114756,BYU Cougars (+11.5),+11.5,1.7693,0,False
 17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1775268874,+10.5,4637325701,BYU Cougars (+7.5),+7.5,2.2,0,False
 17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1775268874,+10.5,4633114757,Notre Dame Fighting Irish (-11.5),+11.5,1.9091,0,False
+17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1775268874,+10.5,4637325703,BYU Cougars (-4.5),-4.5,6.0,0,False
+17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1775268874,+10.5,4637325704,BYU Cougars (-5.5),-5.5,6.5,0,False
 17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1775268874,+10.5,4637325700,Notre Dame Fighting Irish (-7.5),+7.5,1.625,0,False
 17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1775268874,+10.5,4637325706,BYU Cougars (-2.5),-2.5,4.4,0,False
 17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1775268874,+10.5,4637325707,Notre Dame Fighting Irish (+2.5),-2.5,1.1819,0,False
+17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1775268874,+10.5,4637325708,BYU Cougars (-3.5),-3.5,5.25,0,False
+17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1775268874,+10.5,4637325709,Notre Dame Fighting Irish (+3.5),-3.5,1.1334,0,False
 17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1775268874,+10.5,4637325710,BYU Cougars (-1.5),-1.5,4.2,0,False
 17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1775268874,+10.5,4637325711,Notre Dame Fighting Irish (+1.5),-1.5,1.2,0,False
 17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1775268874,+10.5,4637325712,BYU Cougars (+8.5),+8.5,2.1,0,False
@@ -4313,6 +4317,8 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1775268874,+10.5,4637325723,BYU Cougars (+14.5),+14.5,1.5556,0,False
 17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1775268874,+10.5,4637325724,BYU Cougars (+15.5),+15.5,1.5264,0,False
 17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1775268874,+10.5,4637325725,Notre Dame Fighting Irish (-15.5),+15.5,2.4,0,False
+17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1775268874,+10.5,4637325726,Notre Dame Fighting Irish (-24.5),+24.5,4.5,0,False
+17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1775268874,+10.5,4637325727,BYU Cougars (+24.5),+24.5,1.1667,0,False
 17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1775268874,+10.5,4637325728,BYU Cougars (+13.5),+13.5,1.6667,0,False
 17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1775268874,+10.5,4637325729,Notre Dame Fighting Irish (-13.5),+13.5,2.1,0,False
 17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1775268874,+10.5,4637325730,BYU Cougars (+9.5),+9.5,2.0,0,False
@@ -4324,31 +4330,44 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1775268874,+10.5,4637325736,Notre Dame Fighting Irish (-2.5),+2.5,1.2667,0,False
 17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1775268874,+10.5,4637325737,BYU Cougars (+2.5),+2.5,3.5,0,False
 17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1775268874,+10.5,4637325738,BYU Cougars (+3.5),+3.5,2.9,0,False
-17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1775268874,+10.5,4637325739,Notre Dame Fighting Irish (-3.5),+3.5,1.3637,0,False
-17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1775268874,+10.5,4637325740,BYU Cougars (+1.5),+1.5,3.7,0,False
-17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1775268874,+10.5,4637325741,Notre Dame Fighting Irish (-1.5),+1.5,1.25,0,False
-17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1775268874,+10.5,4615776047,BYU Cougars (+12.5),+12.5,1.7143,0,False
 17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1775268874,+10.5,4615776048,Notre Dame Fighting Irish (-12.5),+12.5,2.0,0,False
-17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1775268874,+10.5,4637325746,Notre Dame Fighting Irish (-22.5),+22.5,3.75,0,False
+17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1775268874,+10.5,4637325740,BYU Cougars (+1.5),+1.5,3.7,0,False
+17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1775268874,+10.5,4637325739,Notre Dame Fighting Irish (-3.5),+3.5,1.3637,0,False
+17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1775268874,+10.5,4637325742,Notre Dame Fighting Irish (-26.5),+26.5,5.25,0,False
+17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1775268874,+10.5,4637325743,BYU Cougars (+26.5),+26.5,1.1334,0,False
+17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1775268874,+10.5,4615776047,BYU Cougars (+12.5),+12.5,1.7143,0,False
+17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1775268874,+10.5,4637325745,BYU Cougars (+25.5),+25.5,1.1429,0,False
+17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1775268874,+10.5,4637325744,Notre Dame Fighting Irish (-25.5),+25.5,5.0,0,False
 17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1775268874,+10.5,4637325747,BYU Cougars (+22.5),+22.5,1.2353,0,False
 17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1775268874,+10.5,4637325748,BYU Cougars (+23.5),+23.5,1.2223,0,False
 17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1775268874,+10.5,4637325749,Notre Dame Fighting Irish (-23.5),+23.5,4.0,0,False
 17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1775268874,+10.5,4637325750,BYU Cougars (+20.5),+20.5,1.3125,0,False
-17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1775268874,+10.5,4637325751,Notre Dame Fighting Irish (-20.5),+20.5,3.2,0,False
+17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1775268874,+10.5,4637325746,Notre Dame Fighting Irish (-22.5),+22.5,3.75,0,False
 17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1775268874,+10.5,4637325752,Notre Dame Fighting Irish (-21.5),+21.5,3.7,0,False
 17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1775268874,+10.5,4637325753,BYU Cougars (+21.5),+21.5,1.25,0,False
+17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1775268874,+10.5,4637325751,Notre Dame Fighting Irish (-20.5),+20.5,3.2,0,False
 17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1775268874,+10.5,4633604703,BYU Cougars (+10.5),+10.5,1.8334,0,True
 17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1775268874,+10.5,4633604704,Notre Dame Fighting Irish (-10.5),+10.5,1.8334,0,True
+17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1775268874,+10.5,4637325741,Notre Dame Fighting Irish (-1.5),+1.5,1.25,0,False
+17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1775268874,+10.5,4637325702,Notre Dame Fighting Irish (+4.5),-4.5,1.1112,0,False
+17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1775268874,+10.5,4637325705,Notre Dame Fighting Irish (+5.5),-5.5,1.1,0,False
 17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1776435580,46.5,4628825088,Plus de 49.5,49.5,2.2,0,False
+17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1776435580,46.5,4637325568,Moins de 33.5,33.5,5.25,0,False
 17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1776435580,46.5,4628825089,Moins de 49.5,49.5,1.625,0,False
 17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1776435580,46.5,4637325574,Moins de 42.5,42.5,2.4,0,False
 17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1776435580,46.5,4637325576,Plus de 42.5,42.5,1.5264,0,False
 17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1776435580,46.5,4637325578,Plus de 52.5,52.5,2.7,0,False
 17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1776435580,46.5,4637325579,Moins de 52.5,52.5,1.4167,0,False
+17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1776435580,46.5,4637325581,Moins de 32.5,32.5,6.0,0,False
+17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1776435580,46.5,4637325583,Plus de 32.5,32.5,1.1112,0,False
+17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1776435580,46.5,4637325587,Moins de 61.5,61.5,1.1334,0,False
+17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1776435580,46.5,4637325588,Plus de 61.5,61.5,5.25,0,False
 17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1776435580,46.5,4637325590,Moins de 41.5,41.5,2.55,0,False
 17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1776435580,46.5,4637325592,Plus de 41.5,41.5,1.4762,0,False
 17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1776435580,46.5,4637325593,Plus de 51.5,51.5,2.55,0,False
 17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1776435580,46.5,4637325595,Moins de 51.5,51.5,1.4762,0,False
+17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1776435580,46.5,4637325597,Plus de 60.5,60.5,5.0,0,False
+17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1776435580,46.5,4637325600,Moins de 60.5,60.5,1.1429,0,False
 17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1776435580,46.5,4637325602,Moins de 40.5,40.5,2.85,0,False
 17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1776435580,46.5,4637325604,Plus de 40.5,40.5,1.3847,0,False
 17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1776435580,46.5,4637325605,Plus de 50.5,50.5,2.3,0,False
@@ -4363,6 +4382,8 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1776435580,46.5,4637325621,Plus de 36.5,36.5,1.2223,0,False
 17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1776435580,46.5,4637325622,Plus de 37.5,37.5,1.2667,0,False
 17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1776435580,46.5,4637325624,Moins de 37.5,37.5,3.5,0,False
+17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1776435580,46.5,4637325626,Plus de 34.5,34.5,1.1539,0,False
+17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1776435580,46.5,4637325628,Moins de 34.5,34.5,4.75,0,False
 17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1776435580,46.5,4632161469,Moins de 47.5,47.5,1.7693,0,True
 17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1776435580,46.5,4632161470,Plus de 47.5,47.5,1.9091,0,True
 17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1776435580,46.5,4637325630,Plus de 35.5,35.5,1.2,0,False
@@ -4378,9 +4399,11 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1776435580,46.5,4637325650,Moins de 56.5,56.5,1.2667,0,False
 17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1776435580,46.5,4637325651,Plus de 56.5,56.5,3.5,0,False
 17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1776435580,46.5,4637325652,Plus de 55.5,55.5,3.4,0,False
-17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1776435580,46.5,4637325653,Moins de 55.5,55.5,1.2858,0,False
+17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1776435580,46.5,4642423381,Plus de 31.5,31.5,1.1,0,False
 17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1776435580,46.5,4637325654,Plus de 54.5,54.5,3.0,0,False
+17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1776435580,46.5,4642423380,Moins de 31.5,31.5,6.5,0,False
 17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1776435580,46.5,4637325656,Moins de 54.5,54.5,1.3572,0,False
+17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1776435580,46.5,4637325653,Moins de 55.5,55.5,1.2858,0,False
 17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1776435580,46.5,4637325658,Plus de 59.5,59.5,4.75,0,False
 17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1776435580,46.5,4637325659,Moins de 59.5,59.5,1.1539,0,False
 17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1776435580,46.5,4637325661,Plus de 58.5,58.5,4.2,0,False
@@ -4389,6 +4412,7 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1776435580,46.5,4637325562,Plus de 43.5,43.5,1.5556,0,False
 17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1776435580,46.5,4637325564,Plus de 53.5,53.5,2.85,0,False
 17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1776435580,46.5,4637325566,Moins de 53.5,53.5,1.3847,0,False
+17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1776435580,46.5,4637325567,Plus de 33.5,33.5,1.1334,0,False
 17803687,Houston Cougars vs. Oklahoma St Cowboys,2026-10-17T23:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1768057410,,4611880232,Houston Cougars,,1.4762,0,False
 17803687,Houston Cougars vs. Oklahoma St Cowboys,2026-10-17T23:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1768057410,,4611880233,Oklahoma St Cowboys,,2.4,0,False
 17803687,Houston Cougars vs. Oklahoma St Cowboys,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1775191825,-4.5,4637326081,Houston Cougars (-14.5),-14.5,3.7,0,False
@@ -4604,6 +4628,8 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17803686,Syracuse Orange vs. Louisville Cardinals,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1776437049,+14.5,4632877889,Louisville Cardinals (-12.5),+12.5,1.6451,0,False
 17803686,Syracuse Orange vs. Louisville Cardinals,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1776437049,+14.5,4637328426,Syracuse Orange (+21.5),+21.5,1.4348,0,False
 17803686,Syracuse Orange vs. Louisville Cardinals,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1776437049,+14.5,4637328427,Louisville Cardinals (-21.5),+21.5,2.65,0,False
+17803686,Syracuse Orange vs. Louisville Cardinals,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1776437049,+14.5,4637328430,Louisville Cardinals (+1.5),-1.5,1.125,0,False
+17803686,Syracuse Orange vs. Louisville Cardinals,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1776437049,+14.5,4637328431,Syracuse Orange (-1.5),-1.5,5.5,0,False
 17803686,Syracuse Orange vs. Louisville Cardinals,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1776437049,+14.5,4637328432,Louisville Cardinals (-9.5),+9.5,1.4762,0,False
 17803686,Syracuse Orange vs. Louisville Cardinals,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1776437049,+14.5,4637328433,Syracuse Orange (+9.5),+9.5,2.55,0,False
 17803686,Syracuse Orange vs. Louisville Cardinals,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1776437049,+14.5,4637328434,Louisville Cardinals (-7.5),+7.5,1.4167,0,False
@@ -4618,6 +4644,8 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17803686,Syracuse Orange vs. Louisville Cardinals,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1776437049,+14.5,4637328443,Louisville Cardinals (-3.5),+3.5,1.2353,0,False
 17803686,Syracuse Orange vs. Louisville Cardinals,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1776437049,+14.5,4637328444,Louisville Cardinals (-4.5),+4.5,1.2667,0,False
 17803686,Syracuse Orange vs. Louisville Cardinals,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1776437049,+14.5,4637328445,Syracuse Orange (+4.5),+4.5,3.5,0,False
+17803686,Syracuse Orange vs. Louisville Cardinals,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1776437049,+14.5,4637328446,Louisville Cardinals (-1.5),+1.5,1.1429,0,False
+17803686,Syracuse Orange vs. Louisville Cardinals,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1776437049,+14.5,4637328447,Syracuse Orange (+1.5),+1.5,5.0,0,False
 17803686,Syracuse Orange vs. Louisville Cardinals,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1776437049,+14.5,4632877888,Syracuse Orange (+12.5),+12.5,2.15,0,False
 17803686,Syracuse Orange vs. Louisville Cardinals,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1776437049,+14.5,4637328449,Syracuse Orange (+2.5),+2.5,4.5,0,False
 17803686,Syracuse Orange vs. Louisville Cardinals,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1776437049,+14.5,4637328450,Syracuse Orange (+20.5),+20.5,1.5,0,False
@@ -4634,19 +4662,27 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17803686,Syracuse Orange vs. Louisville Cardinals,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1776437049,+14.5,4637328461,Louisville Cardinals (-23.5),+23.5,3.0,0,False
 17803686,Syracuse Orange vs. Louisville Cardinals,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1776437049,+14.5,4637328462,Syracuse Orange (+25.5),+25.5,1.2667,0,False
 17803686,Syracuse Orange vs. Louisville Cardinals,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1776437049,+14.5,4637328463,Louisville Cardinals (-25.5),+25.5,3.5,0,False
+17803686,Syracuse Orange vs. Louisville Cardinals,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1776437049,+14.5,4637328464,Syracuse Orange (+28.5),+28.5,1.1819,0,False
+17803686,Syracuse Orange vs. Louisville Cardinals,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1776437049,+14.5,4637328465,Louisville Cardinals (-28.5),+28.5,4.4,0,False
+17803686,Syracuse Orange vs. Louisville Cardinals,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1776437049,+14.5,4637328466,Syracuse Orange (+27.5),+27.5,1.2223,0,False
 17803686,Syracuse Orange vs. Louisville Cardinals,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1776437049,+14.5,4632389970,Syracuse Orange (+10.5),+10.5,2.3,0,False
-17803686,Syracuse Orange vs. Louisville Cardinals,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1776437049,+14.5,4632389971,Louisville Cardinals (-10.5),+10.5,1.5556,0,False
+17803686,Syracuse Orange vs. Louisville Cardinals,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1776437049,+14.5,4637328468,Syracuse Orange (+29.5),+29.5,1.1539,0,False
+17803686,Syracuse Orange vs. Louisville Cardinals,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1776437049,+14.5,4637328469,Louisville Cardinals (-29.5),+29.5,4.75,0,False
 17803686,Syracuse Orange vs. Louisville Cardinals,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1776437049,+14.5,4637328470,Syracuse Orange (+17.5),+17.5,1.6451,0,False
-17803686,Syracuse Orange vs. Louisville Cardinals,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1776437049,+14.5,4637328471,Louisville Cardinals (-17.5),+17.5,2.15,0,False
+17803686,Syracuse Orange vs. Louisville Cardinals,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1776437049,+14.5,4637328467,Louisville Cardinals (-27.5),+27.5,4.0,0,False
 17803686,Syracuse Orange vs. Louisville Cardinals,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1776437049,+14.5,4637328472,Syracuse Orange (+14.5),+14.5,1.8334,0,True
-17803686,Syracuse Orange vs. Louisville Cardinals,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1776437049,+14.5,4637328473,Louisville Cardinals (-14.5),+14.5,1.8334,0,True
+17803686,Syracuse Orange vs. Louisville Cardinals,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1776437049,+14.5,4637328471,Louisville Cardinals (-17.5),+17.5,2.15,0,False
 17803686,Syracuse Orange vs. Louisville Cardinals,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1776437049,+14.5,4637328474,Syracuse Orange (+15.5),+15.5,1.8,0,False
 17803686,Syracuse Orange vs. Louisville Cardinals,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1776437049,+14.5,4637328475,Louisville Cardinals (-15.5),+15.5,1.8696,0,False
 17803686,Syracuse Orange vs. Louisville Cardinals,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1776437049,+14.5,4637328476,Syracuse Orange (+18.5),+18.5,1.5715,0,False
 17803686,Syracuse Orange vs. Louisville Cardinals,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1776437049,+14.5,4637328477,Louisville Cardinals (-18.5),+18.5,2.25,0,False
 17803686,Syracuse Orange vs. Louisville Cardinals,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1776437049,+14.5,4637328478,Syracuse Orange (+19.5),+19.5,1.5455,0,False
 17803686,Syracuse Orange vs. Louisville Cardinals,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1776437049,+14.5,4637328479,Louisville Cardinals (-19.5),+19.5,2.35,0,False
+17803686,Syracuse Orange vs. Louisville Cardinals,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1776437049,+14.5,4637328473,Louisville Cardinals (-14.5),+14.5,1.8334,0,True
 17803686,Syracuse Orange vs. Louisville Cardinals,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1776437049,+14.5,4637328448,Louisville Cardinals (-2.5),+2.5,1.1667,0,False
+17803686,Syracuse Orange vs. Louisville Cardinals,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1776437049,+14.5,4637720040,Syracuse Orange (+30.5),+30.5,1.1429,0,False
+17803686,Syracuse Orange vs. Louisville Cardinals,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1776437049,+14.5,4637720041,Louisville Cardinals (-30.5),+30.5,5.0,0,False
+17803686,Syracuse Orange vs. Louisville Cardinals,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1776437049,+14.5,4632389971,Louisville Cardinals (-10.5),+10.5,1.5556,0,False
 17803686,Syracuse Orange vs. Louisville Cardinals,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1776437049,+14.5,4632410475,Syracuse Orange (+11.5),+11.5,2.2,0,False
 17803686,Syracuse Orange vs. Louisville Cardinals,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1776437049,+14.5,4632410476,Louisville Cardinals (-11.5),+11.5,1.625,0,False
 17803686,Syracuse Orange vs. Louisville Cardinals,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1776437049,+14.5,4633627122,Syracuse Orange (+13.5),+13.5,2.05,0,False
@@ -4669,6 +4705,9 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17803686,Syracuse Orange vs. Louisville Cardinals,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1774801565,55.5,4637328527,Moins de 47.5,47.5,3.1,0,False
 17803686,Syracuse Orange vs. Louisville Cardinals,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1774801565,55.5,4637328528,Plus de 49.5,49.5,1.4167,0,False
 17803686,Syracuse Orange vs. Louisville Cardinals,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1774801565,55.5,4637328529,Moins de 49.5,49.5,2.7,0,False
+17803686,Syracuse Orange vs. Louisville Cardinals,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1774801565,55.5,4637328508,Moins de 69.5,69.5,1.1539,0,False
+17803686,Syracuse Orange vs. Louisville Cardinals,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1774801565,55.5,4637328531,Plus de 70.5,70.5,5.0,0,False
+17803686,Syracuse Orange vs. Louisville Cardinals,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1774801565,55.5,4637328530,Moins de 70.5,70.5,1.1429,0,False
 17803686,Syracuse Orange vs. Louisville Cardinals,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1774801565,55.5,4637328534,Moins de 46.5,46.5,3.4,0,False
 17803686,Syracuse Orange vs. Louisville Cardinals,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1774801565,55.5,4637328535,Plus de 46.5,46.5,1.2858,0,False
 17803686,Syracuse Orange vs. Louisville Cardinals,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1774801565,55.5,4637328536,Moins de 48.5,48.5,2.85,0,False
@@ -4679,6 +4718,11 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17803686,Syracuse Orange vs. Louisville Cardinals,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1774801565,55.5,4637328541,Plus de 44.5,44.5,1.2223,0,False
 17803686,Syracuse Orange vs. Louisville Cardinals,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1774801565,55.5,4637328542,Plus de 43.5,43.5,1.1819,0,False
 17803686,Syracuse Orange vs. Louisville Cardinals,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1774801565,55.5,4637328543,Moins de 43.5,43.5,4.4,0,False
+17803686,Syracuse Orange vs. Louisville Cardinals,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1774801565,55.5,4637328544,Plus de 41.5,41.5,1.1429,0,False
+17803686,Syracuse Orange vs. Louisville Cardinals,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1774801565,55.5,4637328545,Moins de 41.5,41.5,5.0,0,False
+17803686,Syracuse Orange vs. Louisville Cardinals,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1774801565,55.5,4637328546,Plus de 42.5,42.5,1.1539,0,False
+17803686,Syracuse Orange vs. Louisville Cardinals,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1774801565,55.5,4637328547,Moins de 42.5,42.5,4.75,0,False
+17803686,Syracuse Orange vs. Louisville Cardinals,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1774801565,55.5,4637328506,Moins de 67.5,67.5,1.2353,0,False
 17803686,Syracuse Orange vs. Louisville Cardinals,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1774801565,55.5,4632389968,Moins de 55.5,55.5,1.8334,0,True
 17803686,Syracuse Orange vs. Louisville Cardinals,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1774801565,55.5,4632389969,Plus de 55.5,55.5,1.8334,0,True
 17803686,Syracuse Orange vs. Louisville Cardinals,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1774801565,55.5,4633410005,Moins de 56.5,56.5,1.7693,0,False
@@ -4692,13 +4736,17 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17803686,Syracuse Orange vs. Louisville Cardinals,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1774801565,55.5,4637328496,Moins de 64.5,64.5,1.3334,0,False
 17803686,Syracuse Orange vs. Louisville Cardinals,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1774801565,55.5,4637328497,Plus de 64.5,64.5,3.1,0,False
 17803686,Syracuse Orange vs. Louisville Cardinals,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1774801565,55.5,4637328498,Plus de 63.5,63.5,2.9,0,False
-17803686,Syracuse Orange vs. Louisville Cardinals,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1774801565,55.5,4637328499,Moins de 63.5,63.5,1.3637,0,False
-17803686,Syracuse Orange vs. Louisville Cardinals,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1774801565,55.5,4637328500,Moins de 66.5,66.5,1.25,0,False
+17803686,Syracuse Orange vs. Louisville Cardinals,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1774801565,55.5,4637790451,Plus de 40.5,40.5,1.1112,0,False
+17803686,Syracuse Orange vs. Louisville Cardinals,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1774801565,55.5,4637790452,Moins de 40.5,40.5,6.0,0,False
 17803686,Syracuse Orange vs. Louisville Cardinals,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1774801565,55.5,4637328501,Plus de 66.5,66.5,3.7,0,False
-17803686,Syracuse Orange vs. Louisville Cardinals,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1774801565,55.5,4637328502,Moins de 65.5,65.5,1.2858,0,False
+17803686,Syracuse Orange vs. Louisville Cardinals,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1774801565,55.5,4637328499,Moins de 63.5,63.5,1.3637,0,False
 17803686,Syracuse Orange vs. Louisville Cardinals,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1774801565,55.5,4637328503,Plus de 65.5,65.5,3.4,0,False
-17803686,Syracuse Orange vs. Louisville Cardinals,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1774801565,55.5,4637328506,Moins de 67.5,67.5,1.2353,0,False
+17803686,Syracuse Orange vs. Louisville Cardinals,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1774801565,55.5,4637328502,Moins de 65.5,65.5,1.2858,0,False
+17803686,Syracuse Orange vs. Louisville Cardinals,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1774801565,55.5,4637328505,Plus de 68.5,68.5,4.2,0,False
+17803686,Syracuse Orange vs. Louisville Cardinals,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1774801565,55.5,4637328500,Moins de 66.5,66.5,1.25,0,False
 17803686,Syracuse Orange vs. Louisville Cardinals,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1774801565,55.5,4637328507,Plus de 67.5,67.5,3.75,0,False
+17803686,Syracuse Orange vs. Louisville Cardinals,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1774801565,55.5,4637328504,Moins de 68.5,68.5,1.2,0,False
+17803686,Syracuse Orange vs. Louisville Cardinals,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1774801565,55.5,4637328509,Plus de 69.5,69.5,4.75,0,False
 17803686,Syracuse Orange vs. Louisville Cardinals,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1774801565,55.5,4637328510,Moins de 59.5,59.5,1.5455,0,False
 17803686,Syracuse Orange vs. Louisville Cardinals,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1774801565,55.5,4637328511,Plus de 59.5,59.5,2.35,0,False
 17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1769173664,,4615782124,UCLA Bruins,,1.625,0,False
@@ -4729,10 +4777,20 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1776434412,-2.5,4637323569,Wisconsin Badgers (+15.5),-15.5,1.0834,0,False
 17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1776434412,-2.5,4637323570,UCLA Bruins (-14.5),-14.5,6.5,0,False
 17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1776434412,-2.5,4637323574,Wisconsin Badgers (+14.5),-14.5,1.1,0,False
+17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1776434412,-2.5,4637323579,UCLA Bruins (-17.5),-17.5,8.5,0,False
+17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1776434412,-2.5,4637323581,Wisconsin Badgers (+17.5),-17.5,1.05,0,False
+17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1776434412,-2.5,4637323583,UCLA Bruins (-16.5),-16.5,7.5,0,False
+17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1776434412,-2.5,4637323585,Wisconsin Badgers (+16.5),-16.5,1.0715,0,False
+17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1776434412,-2.5,4637323590,UCLA Bruins (-18.5),-18.5,9.0,0,False
+17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1776434412,-2.5,4637323591,Wisconsin Badgers (+18.5),-18.5,1.04,0,False
 17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1776434412,-2.5,4616455241,Wisconsin Badgers (+3.5),-3.5,1.6451,0,False
 17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1776434412,-2.5,4616455242,UCLA Bruins (-3.5),-3.5,2.15,0,False
+17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1776434412,-2.5,4637323594,Wisconsin Badgers (-11.5),+11.5,7.0,0,False
+17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1776434412,-2.5,4637323596,UCLA Bruins (+11.5),+11.5,1.0834,0,False
 17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1776434412,-2.5,4637323598,Wisconsin Badgers (-10.5),+10.5,6.0,0,False
 17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1776434412,-2.5,4637323599,UCLA Bruins (+10.5),+10.5,1.1112,0,False
+17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1776434412,-2.5,4637323601,Wisconsin Badgers (-12.5),+12.5,7.5,0,False
+17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1776434412,-2.5,4637323602,UCLA Bruins (+12.5),+12.5,1.0715,0,False
 17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1776434412,-2.5,4637323485,UCLA Bruins (-2.5),-2.5,1.8,0,True
 17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1776434412,-2.5,4637323487,Wisconsin Badgers (+2.5),-2.5,1.8696,0,True
 17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1776434412,-2.5,4637323489,Wisconsin Badgers (+5.5),-5.5,1.5264,0,False
@@ -4743,6 +4801,8 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1776434412,-2.5,4637323498,UCLA Bruins (-4.5),-4.5,2.3,0,False
 17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1776434412,-2.5,4637323500,Wisconsin Badgers (+7.5),-7.5,1.3334,0,False
 17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1776434412,-2.5,4637323501,UCLA Bruins (-7.5),-7.5,3.1,0,False
+17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1776434412,-2.5,4638687086,UCLA Bruins (+13.5),+13.5,1.0625,0,False
+17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1776434412,-2.5,4638687085,Wisconsin Badgers (-13.5),+13.5,8.0,0,False
 17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1776434412,-2.5,4637323504,Wisconsin Badgers (+6.5),-6.5,1.4348,0,False
 17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1776434412,-2.5,4637323505,UCLA Bruins (-6.5),-6.5,2.65,0,False
 17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1776434412,-2.5,4637323506,Wisconsin Badgers (+9.5),-9.5,1.2667,0,False
@@ -4753,6 +4813,8 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1776434412,-2.5,4637323515,Wisconsin Badgers (-6.5),+6.5,3.7,0,False
 17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1776434412,-2.5,4637323517,UCLA Bruins (-10.5),-10.5,4.2,0,False
 17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1776434412,-2.5,4637323518,Wisconsin Badgers (+10.5),-10.5,1.2,0,False
+17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1776434385,42.5,4639936001,Moins de 28.5,28.5,5.5,0,False
+17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1776434385,42.5,4639936002,Plus de 28.5,28.5,1.125,0,False
 17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1776434385,42.5,4637323395,Moins de 40.5,40.5,2.1,0,False
 17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1776434385,42.5,4637323398,Plus de 40.5,40.5,1.6667,0,False
 17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1776434385,42.5,4637323400,Moins de 43.5,43.5,1.7693,0,False
@@ -4761,6 +4823,8 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1776434385,42.5,4637323406,Moins de 42.5,42.5,1.8696,0,True
 17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1776434385,42.5,4637323411,Plus de 45.5,45.5,2.2,0,False
 17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1776434385,42.5,4637323413,Moins de 45.5,45.5,1.625,0,False
+17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1776434385,42.5,4649611799,Moins de 27.5,27.5,6.0,0,False
+17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1776434385,42.5,4649611800,Plus de 27.5,27.5,1.1112,0,False
 17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1776434385,42.5,4637323419,Moins de 47.5,47.5,1.5,0,False
 17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1776434385,42.5,4637323421,Plus de 47.5,47.5,2.5,0,False
 17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1776434385,42.5,4637323427,Moins de 39.5,39.5,2.25,0,False
@@ -4779,12 +4843,18 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1776434385,42.5,4637323445,Plus de 50.5,50.5,3.0,0,False
 17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1776434385,42.5,4633236025,Plus de 46.5,46.5,2.3,0,False
 17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1776434385,42.5,4633236026,Moins de 46.5,46.5,1.5556,0,False
+17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1776434385,42.5,4637323452,Moins de 57.5,57.5,1.1429,0,False
+17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1776434385,42.5,4637323453,Plus de 57.5,57.5,5.0,0,False
+17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1776434385,42.5,4637323454,Plus de 55.5,55.5,4.4,0,False
+17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1776434385,42.5,4637323455,Moins de 55.5,55.5,1.1819,0,False
 17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1776434385,42.5,4637323456,Plus de 35.5,35.5,1.3637,0,False
 17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1776434385,42.5,4637323457,Moins de 35.5,35.5,2.9,0,False
 17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1776434385,42.5,4637323458,Moins de 37.5,37.5,2.5,0,False
 17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1776434385,42.5,4637323459,Plus de 37.5,37.5,1.5,0,False
 17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1776434385,42.5,4637323460,Plus de 38.5,38.5,1.5455,0,False
 17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1776434385,42.5,4637323461,Moins de 38.5,38.5,2.35,0,False
+17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1776434385,42.5,4638706012,Moins de 29.5,29.5,5.0,0,False
+17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1776434385,42.5,4638706013,Plus de 29.5,29.5,1.1429,0,False
 17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1776434385,42.5,4637323357,Moins de 54.5,54.5,1.2223,0,False
 17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1776434385,42.5,4637323362,Plus de 54.5,54.5,4.0,0,False
 17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1776434385,42.5,4637323363,Plus de 34.5,34.5,1.3334,0,False
@@ -4796,8 +4866,10 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1776434385,42.5,4637323372,Plus de 36.5,36.5,1.4,0,False
 17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1776434385,42.5,4632536429,Plus de 48.5,48.5,2.65,0,False
 17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1776434385,42.5,4632536430,Moins de 48.5,48.5,1.4348,0,False
-17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1776434385,42.5,4615782122,Moins de 49.5,49.5,1.3847,0,False
+17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1776434385,42.5,4637323375,Plus de 56.5,56.5,4.75,0,False
 17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1776434385,42.5,4637323376,Moins de 41.5,41.5,1.9091,0,False
+17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1776434385,42.5,4615782122,Moins de 49.5,49.5,1.3847,0,False
+17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1776434385,42.5,4637323374,Moins de 56.5,56.5,1.1539,0,False
 17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1776434385,42.5,4637323379,Plus de 41.5,41.5,1.7693,0,False
 17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1776434385,42.5,4637323381,Moins de 31.5,31.5,4.0,0,False
 17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,1776434385,42.5,4637323383,Plus de 31.5,31.5,1.2223,0,False

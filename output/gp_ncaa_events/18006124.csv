@@ -1,12 +1,22 @@
 event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id,selection,line,price,odd_id,odd_status,is_main_bet
 18006124,DAKOTA DU NORD ETAT DU BISON vs. Nevada Wolf Pack,2026-10-17T23:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,DAKOTA DU NORD ETAT DU BISON,,1.1112,4632950202,0,False
 18006124,DAKOTA DU NORD ETAT DU BISON vs. Nevada Wolf Pack,2026-10-17T23:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Nevada Wolf Pack,,5.25,4632950203,0,False
+18006124,DAKOTA DU NORD ETAT DU BISON vs. Nevada Wolf Pack,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Nevada Wolf Pack (+26.5),-26.5,1.2223,4637323777,0,False
+18006124,DAKOTA DU NORD ETAT DU BISON vs. Nevada Wolf Pack,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,DAKOTA DU NORD ETAT DU BISON (-26.5),-26.5,4.0,4637323781,0,False
+18006124,DAKOTA DU NORD ETAT DU BISON vs. Nevada Wolf Pack,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Nevada Wolf Pack (+4.5),-4.5,3.7,4637323782,0,False
+18006124,DAKOTA DU NORD ETAT DU BISON vs. Nevada Wolf Pack,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,DAKOTA DU NORD ETAT DU BISON (-4.5),-4.5,1.25,4637323786,0,False
 18006124,DAKOTA DU NORD ETAT DU BISON vs. Nevada Wolf Pack,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,DAKOTA DU NORD ETAT DU BISON (-18.5),-18.5,2.25,4637323789,0,False
 18006124,DAKOTA DU NORD ETAT DU BISON vs. Nevada Wolf Pack,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Nevada Wolf Pack (+18.5),-18.5,1.5715,4637323791,0,False
 18006124,DAKOTA DU NORD ETAT DU BISON vs. Nevada Wolf Pack,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,DAKOTA DU NORD ETAT DU BISON (-13.5),-13.5,1.6897,4637323803,0,False
 18006124,DAKOTA DU NORD ETAT DU BISON vs. Nevada Wolf Pack,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Nevada Wolf Pack (+13.5),-13.5,2.05,4637323805,0,False
+18006124,DAKOTA DU NORD ETAT DU BISON vs. Nevada Wolf Pack,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Nevada Wolf Pack (+2.5),-2.5,4.75,4637323806,0,False
+18006124,DAKOTA DU NORD ETAT DU BISON vs. Nevada Wolf Pack,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,DAKOTA DU NORD ETAT DU BISON (-2.5),-2.5,1.1539,4637323807,0,False
 18006124,DAKOTA DU NORD ETAT DU BISON vs. Nevada Wolf Pack,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Nevada Wolf Pack (+6.5),-6.5,3.2,4637323809,0,False
 18006124,DAKOTA DU NORD ETAT DU BISON vs. Nevada Wolf Pack,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,DAKOTA DU NORD ETAT DU BISON (-6.5),-6.5,1.3125,4637323811,0,False
+18006124,DAKOTA DU NORD ETAT DU BISON vs. Nevada Wolf Pack,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Nevada Wolf Pack (+5.5),-5.5,3.5,4637323813,0,False
+18006124,DAKOTA DU NORD ETAT DU BISON vs. Nevada Wolf Pack,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,DAKOTA DU NORD ETAT DU BISON (-5.5),-5.5,1.2667,4637323817,0,False
+18006124,DAKOTA DU NORD ETAT DU BISON vs. Nevada Wolf Pack,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Nevada Wolf Pack (+3.5),-3.5,4.0,4637323820,0,False
+18006124,DAKOTA DU NORD ETAT DU BISON vs. Nevada Wolf Pack,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,DAKOTA DU NORD ETAT DU BISON (-3.5),-3.5,1.2223,4637323823,0,False
 18006124,DAKOTA DU NORD ETAT DU BISON vs. Nevada Wolf Pack,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Nevada Wolf Pack (+9.5),-9.5,2.6,4637323828,0,False
 18006124,DAKOTA DU NORD ETAT DU BISON vs. Nevada Wolf Pack,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,DAKOTA DU NORD ETAT DU BISON (-9.5),-9.5,1.4546,4637323829,0,False
 18006124,DAKOTA DU NORD ETAT DU BISON vs. Nevada Wolf Pack,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,DAKOTA DU NORD ETAT DU BISON (-14.5),-14.5,1.8334,4632950198,0,True
@@ -35,13 +45,31 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 18006124,DAKOTA DU NORD ETAT DU BISON vs. Nevada Wolf Pack,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,DAKOTA DU NORD ETAT DU BISON (-21.5),-21.5,2.85,4637323754,0,False
 18006124,DAKOTA DU NORD ETAT DU BISON vs. Nevada Wolf Pack,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Nevada Wolf Pack (+20.5),-20.5,1.4762,4637323755,0,False
 18006124,DAKOTA DU NORD ETAT DU BISON vs. Nevada Wolf Pack,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,DAKOTA DU NORD ETAT DU BISON (-20.5),-20.5,2.55,4637323756,0,False
+18006124,DAKOTA DU NORD ETAT DU BISON vs. Nevada Wolf Pack,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Nevada Wolf Pack (+23.5),-23.5,1.3334,4637323757,0,False
+18006124,DAKOTA DU NORD ETAT DU BISON vs. Nevada Wolf Pack,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,DAKOTA DU NORD ETAT DU BISON (-23.5),-23.5,3.1,4637323760,0,False
+18006124,DAKOTA DU NORD ETAT DU BISON vs. Nevada Wolf Pack,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,DAKOTA DU NORD ETAT DU BISON (-25.5),-25.5,3.75,4637323762,0,False
+18006124,DAKOTA DU NORD ETAT DU BISON vs. Nevada Wolf Pack,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Nevada Wolf Pack (+25.5),-25.5,1.2353,4637323764,0,False
+18006124,DAKOTA DU NORD ETAT DU BISON vs. Nevada Wolf Pack,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,DAKOTA DU NORD ETAT DU BISON (-24.5),-24.5,3.5,4637323767,0,False
+18006124,DAKOTA DU NORD ETAT DU BISON vs. Nevada Wolf Pack,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Nevada Wolf Pack (+24.5),-24.5,1.2667,4637323769,0,False
 18006124,DAKOTA DU NORD ETAT DU BISON vs. Nevada Wolf Pack,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 48.5,48.5,1.4,4637323904,0,False
 18006124,DAKOTA DU NORD ETAT DU BISON vs. Nevada Wolf Pack,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 49.5,49.5,1.3637,4637323906,0,False
 18006124,DAKOTA DU NORD ETAT DU BISON vs. Nevada Wolf Pack,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 49.5,49.5,2.9,4637323907,0,False
+18006124,DAKOTA DU NORD ETAT DU BISON vs. Nevada Wolf Pack,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 33.5,33.5,1.25,4637323908,0,False
+18006124,DAKOTA DU NORD ETAT DU BISON vs. Nevada Wolf Pack,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 33.5,33.5,3.7,4637323910,0,False
+18006124,DAKOTA DU NORD ETAT DU BISON vs. Nevada Wolf Pack,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 53.5,53.5,4.0,4637323912,0,False
+18006124,DAKOTA DU NORD ETAT DU BISON vs. Nevada Wolf Pack,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 53.5,53.5,1.2223,4637323914,0,False
+18006124,DAKOTA DU NORD ETAT DU BISON vs. Nevada Wolf Pack,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 31.5,31.5,4.2,4637323916,0,False
+18006124,DAKOTA DU NORD ETAT DU BISON vs. Nevada Wolf Pack,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 31.5,31.5,1.2,4637323918,0,False
+18006124,DAKOTA DU NORD ETAT DU BISON vs. Nevada Wolf Pack,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 51.5,51.5,1.2667,4637323920,0,False
+18006124,DAKOTA DU NORD ETAT DU BISON vs. Nevada Wolf Pack,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 51.5,51.5,3.5,4637323922,0,False
 18006124,DAKOTA DU NORD ETAT DU BISON vs. Nevada Wolf Pack,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 39.5,39.5,1.5556,4637323924,0,False
 18006124,DAKOTA DU NORD ETAT DU BISON vs. Nevada Wolf Pack,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 39.5,39.5,2.3,4637323925,0,False
 18006124,DAKOTA DU NORD ETAT DU BISON vs. Nevada Wolf Pack,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 38.5,38.5,1.5264,4637323927,0,False
 18006124,DAKOTA DU NORD ETAT DU BISON vs. Nevada Wolf Pack,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 38.5,38.5,2.4,4637323929,0,False
+18006124,DAKOTA DU NORD ETAT DU BISON vs. Nevada Wolf Pack,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 30.5,30.5,1.1539,4637323930,0,False
+18006124,DAKOTA DU NORD ETAT DU BISON vs. Nevada Wolf Pack,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 30.5,30.5,4.75,4637323932,0,False
+18006124,DAKOTA DU NORD ETAT DU BISON vs. Nevada Wolf Pack,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 32.5,32.5,1.2,4637323933,0,False
+18006124,DAKOTA DU NORD ETAT DU BISON vs. Nevada Wolf Pack,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 32.5,32.5,4.2,4637323934,0,False
 18006124,DAKOTA DU NORD ETAT DU BISON vs. Nevada Wolf Pack,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 35.5,35.5,1.3334,4637323938,0,False
 18006124,DAKOTA DU NORD ETAT DU BISON vs. Nevada Wolf Pack,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 35.5,35.5,3.1,4637323940,0,False
 18006124,DAKOTA DU NORD ETAT DU BISON vs. Nevada Wolf Pack,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 34.5,34.5,1.3031,4637323941,0,False
@@ -50,12 +78,16 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 18006124,DAKOTA DU NORD ETAT DU BISON vs. Nevada Wolf Pack,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 37.5,37.5,2.6,4637323946,0,False
 18006124,DAKOTA DU NORD ETAT DU BISON vs. Nevada Wolf Pack,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 36.5,36.5,1.3637,4637323947,0,False
 18006124,DAKOTA DU NORD ETAT DU BISON vs. Nevada Wolf Pack,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 36.5,36.5,2.9,4637323948,0,False
+18006124,DAKOTA DU NORD ETAT DU BISON vs. Nevada Wolf Pack,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 54.5,54.5,4.4,4637323953,0,False
+18006124,DAKOTA DU NORD ETAT DU BISON vs. Nevada Wolf Pack,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 54.5,54.5,1.1819,4637323954,0,False
 18006124,DAKOTA DU NORD ETAT DU BISON vs. Nevada Wolf Pack,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 45.5,45.5,1.5715,4633691319,0,False
 18006124,DAKOTA DU NORD ETAT DU BISON vs. Nevada Wolf Pack,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 45.5,45.5,2.25,4633691320,0,False
 18006124,DAKOTA DU NORD ETAT DU BISON vs. Nevada Wolf Pack,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 46.5,46.5,2.35,4632950201,0,False
 18006124,DAKOTA DU NORD ETAT DU BISON vs. Nevada Wolf Pack,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 50.5,50.5,3.1,4637323962,0,False
 18006124,DAKOTA DU NORD ETAT DU BISON vs. Nevada Wolf Pack,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 46.5,46.5,1.5455,4632950200,0,False
 18006124,DAKOTA DU NORD ETAT DU BISON vs. Nevada Wolf Pack,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 50.5,50.5,1.3334,4637323965,0,False
+18006124,DAKOTA DU NORD ETAT DU BISON vs. Nevada Wolf Pack,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 52.5,52.5,3.75,4637323966,0,False
+18006124,DAKOTA DU NORD ETAT DU BISON vs. Nevada Wolf Pack,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 52.5,52.5,1.2353,4637323968,0,False
 18006124,DAKOTA DU NORD ETAT DU BISON vs. Nevada Wolf Pack,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 47.5,47.5,1.4762,4637323875,0,False
 18006124,DAKOTA DU NORD ETAT DU BISON vs. Nevada Wolf Pack,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 47.5,47.5,2.55,4637323877,0,False
 18006124,DAKOTA DU NORD ETAT DU BISON vs. Nevada Wolf Pack,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 44.5,44.5,2.1,4637323879,0,False

@@ -17,8 +17,8 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17803688,Baylor Bears vs. TCU Horned Frogs,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,TCU Horned Frogs (-2.5),2.5,3.0,4630990282,0,False
 17803688,Baylor Bears vs. TCU Horned Frogs,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Baylor Bears (+1.5),1.5,1.3847,4630990283,0,False
 17803688,Baylor Bears vs. TCU Horned Frogs,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,TCU Horned Frogs (-1.5),1.5,2.85,4630990284,0,False
-17803688,Baylor Bears vs. TCU Horned Frogs,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Baylor Bears (-1.5),-1.5,1.4762,4630990285,0,False
-17803688,Baylor Bears vs. TCU Horned Frogs,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,TCU Horned Frogs (+1.5),-1.5,2.55,4630990286,0,False
+17803688,Baylor Bears vs. TCU Horned Frogs,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Baylor Bears (-1.5),-1.5,1.5,4630990285,0,False
+17803688,Baylor Bears vs. TCU Horned Frogs,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,TCU Horned Frogs (+1.5),-1.5,2.5,4630990286,0,False
 17803688,Baylor Bears vs. TCU Horned Frogs,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Baylor Bears (-2.5),-2.5,1.5264,4630990287,0,False
 17803688,Baylor Bears vs. TCU Horned Frogs,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,TCU Horned Frogs (+2.5),-2.5,2.4,4630990288,0,False
 17803688,Baylor Bears vs. TCU Horned Frogs,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Baylor Bears (-3.5),-3.5,1.6667,4630990289,0,False
@@ -81,16 +81,16 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17803688,Baylor Bears vs. TCU Horned Frogs,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 46.5,46.5,2.1,4630990991,0,False
 17803688,Baylor Bears vs. TCU Horned Frogs,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 47.5,47.5,1.7408,4630990992,0,False
 17803688,Baylor Bears vs. TCU Horned Frogs,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 47.5,47.5,1.9524,4630990993,0,False
-17803688,Baylor Bears vs. TCU Horned Frogs,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 48.5,48.5,1.8,4630990994,0,True
-17803688,Baylor Bears vs. TCU Horned Frogs,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 48.5,48.5,1.8696,4630990995,0,True
-17803688,Baylor Bears vs. TCU Horned Frogs,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 49.5,49.5,1.8696,4630990996,0,False
-17803688,Baylor Bears vs. TCU Horned Frogs,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 49.5,49.5,1.8,4630990997,0,False
+17803688,Baylor Bears vs. TCU Horned Frogs,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 48.5,48.5,1.8,4630990994,0,False
+17803688,Baylor Bears vs. TCU Horned Frogs,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 48.5,48.5,1.8696,4630990995,0,False
+17803688,Baylor Bears vs. TCU Horned Frogs,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 49.5,49.5,1.8696,4630990996,0,True
+17803688,Baylor Bears vs. TCU Horned Frogs,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 49.5,49.5,1.8,4630990997,0,True
 17803688,Baylor Bears vs. TCU Horned Frogs,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 50.5,50.5,1.9524,4630990998,0,False
 17803688,Baylor Bears vs. TCU Horned Frogs,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 50.5,50.5,1.7408,4630990999,0,False
 17803688,Baylor Bears vs. TCU Horned Frogs,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 51.5,51.5,2.15,4630991000,0,False
 17803688,Baylor Bears vs. TCU Horned Frogs,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 51.5,51.5,1.6451,4630991001,0,False
-17803688,Baylor Bears vs. TCU Horned Frogs,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 52.5,52.5,2.25,4630991002,0,False
-17803688,Baylor Bears vs. TCU Horned Frogs,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 52.5,52.5,1.5715,4630991003,0,False
+17803688,Baylor Bears vs. TCU Horned Frogs,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 52.5,52.5,2.2,4630991002,0,False
+17803688,Baylor Bears vs. TCU Horned Frogs,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 52.5,52.5,1.625,4630991003,0,False
 17803688,Baylor Bears vs. TCU Horned Frogs,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 53.5,53.5,2.3,4630991004,0,False
 17803688,Baylor Bears vs. TCU Horned Frogs,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 53.5,53.5,1.5556,4630991005,0,False
 17803688,Baylor Bears vs. TCU Horned Frogs,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 54.5,54.5,2.4,4630991006,0,False
@@ -103,20 +103,20 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17803688,Baylor Bears vs. TCU Horned Frogs,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 57.5,57.5,1.3847,4630991013,0,False
 17803688,Baylor Bears vs. TCU Horned Frogs,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 58.5,58.5,3.1,4630991014,0,False
 17803688,Baylor Bears vs. TCU Horned Frogs,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 58.5,58.5,1.3334,4630991015,0,False
-17803688,Baylor Bears vs. TCU Horned Frogs,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 33.5,33.5,1.1429,4652576936,7,False
 17803688,Baylor Bears vs. TCU Horned Frogs,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 59.5,59.5,3.25,4630991016,0,False
-17803688,Baylor Bears vs. TCU Horned Frogs,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 60.5,60.5,3.4,4630991018,0,False
-17803688,Baylor Bears vs. TCU Horned Frogs,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 33.5,33.5,5.0,4652576937,7,False
-17803688,Baylor Bears vs. TCU Horned Frogs,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 61.5,61.5,3.75,4630991020,0,False
 17803688,Baylor Bears vs. TCU Horned Frogs,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 59.5,59.5,1.3031,4630991017,0,False
-17803688,Baylor Bears vs. TCU Horned Frogs,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 62.5,62.5,4.0,4630991022,0,False
+17803688,Baylor Bears vs. TCU Horned Frogs,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 60.5,60.5,3.4,4630991018,0,False
 17803688,Baylor Bears vs. TCU Horned Frogs,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 60.5,60.5,1.2858,4630991019,0,False
-17803688,Baylor Bears vs. TCU Horned Frogs,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 63.5,63.5,4.2,4630991024,0,False
+17803688,Baylor Bears vs. TCU Horned Frogs,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 61.5,61.5,3.75,4630991020,0,False
 17803688,Baylor Bears vs. TCU Horned Frogs,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 61.5,61.5,1.2353,4630991021,0,False
+17803688,Baylor Bears vs. TCU Horned Frogs,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 62.5,62.5,4.0,4630991022,0,False
 17803688,Baylor Bears vs. TCU Horned Frogs,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 62.5,62.5,1.2223,4630991023,0,False
+17803688,Baylor Bears vs. TCU Horned Frogs,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 63.5,63.5,4.2,4630991024,0,False
 17803688,Baylor Bears vs. TCU Horned Frogs,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 63.5,63.5,1.2,4630991025,0,False
-17803688,Baylor Bears vs. TCU Horned Frogs,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 35.5,35.5,1.1905,4632588361,0,False
-17803688,Baylor Bears vs. TCU Horned Frogs,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 35.5,35.5,4.3,4632588362,0,False
+17803688,Baylor Bears vs. TCU Horned Frogs,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 64.5,64.5,4.4,4630991026,0,False
+17803688,Baylor Bears vs. TCU Horned Frogs,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 64.5,64.5,1.1819,4630991027,0,False
+17803688,Baylor Bears vs. TCU Horned Frogs,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 35.5,35.5,1.1819,4632588361,0,False
+17803688,Baylor Bears vs. TCU Horned Frogs,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 35.5,35.5,4.4,4632588362,0,False
 17803688,Baylor Bears vs. TCU Horned Frogs,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 34.5,34.5,1.1667,4633533147,0,False
 17803688,Baylor Bears vs. TCU Horned Frogs,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 34.5,34.5,4.5,4633533148,0,False
 17803688,Baylor Bears vs. TCU Horned Frogs,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 36.5,36.5,1.2223,4632437361,0,False

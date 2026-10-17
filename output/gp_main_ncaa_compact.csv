@@ -1,286 +1,4 @@
 event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id,selection,line,price,odd_id,odd_status,is_main_bet
-18046732,Nicholls State Colonels vs. Stephen F Austin Lumberjacks,2026-10-17T20:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Stephen F Austin Lumberjacks,,1.01,4660289805,0,False
-18046732,Nicholls State Colonels vs. Stephen F Austin Lumberjacks,2026-10-17T20:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Nicholls State Colonels,,10.0,4660289806,0,False
-18046732,Nicholls State Colonels vs. Stephen F Austin Lumberjacks,2026-10-17T20:00:00Z,spread,Handicap (inclus prolongations),223,70799,Stephen F Austin Lumberjacks (-22.5),22.5,1.8,4661482292,0,True
-18046732,Nicholls State Colonels vs. Stephen F Austin Lumberjacks,2026-10-17T20:00:00Z,spread,Handicap (inclus prolongations),223,70799,Nicholls State Colonels (+22.5),22.5,1.8696,4661482293,0,True
-18046732,Nicholls State Colonels vs. Stephen F Austin Lumberjacks,2026-10-17T20:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 50.5,50.5,1.8696,4666489033,0,True
-18046732,Nicholls State Colonels vs. Stephen F Austin Lumberjacks,2026-10-17T20:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 50.5,50.5,1.8,4666489035,0,True
-18046721,San Diego Toreros vs. Valparaiso Beacons,2026-10-17T20:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Valparaiso Beacons,,2.8,4660289948,0,False
-18046721,San Diego Toreros vs. Valparaiso Beacons,2026-10-17T20:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,San Diego Toreros,,1.3637,4660289949,0,False
-18046721,San Diego Toreros vs. Valparaiso Beacons,2026-10-17T20:00:00Z,spread,Handicap (inclus prolongations),223,70799,Valparaiso Beacons (+7.5),-7.5,1.7408,4666488955,0,True
-18046721,San Diego Toreros vs. Valparaiso Beacons,2026-10-17T20:00:00Z,spread,Handicap (inclus prolongations),223,70799,San Diego Toreros (-7.5),-7.5,1.9524,4666488956,0,True
-18046721,San Diego Toreros vs. Valparaiso Beacons,2026-10-17T20:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 51.5,51.5,1.6667,4660289944,0,True
-18046721,San Diego Toreros vs. Valparaiso Beacons,2026-10-17T20:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 51.5,51.5,2.1,4660289945,0,True
-18046724,Southern Illinois Salukis vs. Illinois State Redbirds,2026-10-17T20:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Southern Illinois Salukis,,2.7,4660293075,0,False
-18046724,Southern Illinois Salukis vs. Illinois State Redbirds,2026-10-17T20:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Illinois State Redbirds,,1.3847,4660293076,0,False
-18046724,Southern Illinois Salukis vs. Illinois State Redbirds,2026-10-17T20:00:00Z,spread,Handicap (inclus prolongations),223,70799,Illinois State Redbirds (-6.5),6.5,1.7693,4666489057,0,True
-18046724,Southern Illinois Salukis vs. Illinois State Redbirds,2026-10-17T20:00:00Z,spread,Handicap (inclus prolongations),223,70799,Southern Illinois Salukis (+6.5),6.5,1.9091,4666489058,0,True
-18046724,Southern Illinois Salukis vs. Illinois State Redbirds,2026-10-17T20:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 54.5,54.5,1.7408,4660293077,0,True
-18046724,Southern Illinois Salukis vs. Illinois State Redbirds,2026-10-17T20:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 54.5,54.5,1.9524,4660293078,0,True
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Tulsa Golden Hurricane,,1.4546,4633015548,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Rice Owls,,2.5,4633015549,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,spread,Handicap (inclus prolongations),223,70799,Tulsa Golden Hurricane (-1.5),1.5,1.5,4637323213,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,spread,Handicap (inclus prolongations),223,70799,Tulsa Golden Hurricane (-8.0),8.0,2.55,4666479560,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,spread,Handicap (inclus prolongations),223,70799,Tulsa Golden Hurricane (-3.0),3.0,1.625,4633015114,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,spread,Handicap (inclus prolongations),223,70799,Tulsa Golden Hurricane (-2.5),2.5,1.5264,4637323158,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,spread,Handicap (inclus prolongations),223,70799,Rice Owls (+2.5),2.5,2.4,4637323159,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,spread,Handicap (inclus prolongations),223,70799,Tulsa Golden Hurricane (-10.5),10.5,2.85,4637323166,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,spread,Handicap (inclus prolongations),223,70799,Rice Owls (+10.5),10.5,1.3847,4637323167,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,spread,Handicap (inclus prolongations),223,70799,Rice Owls (+4.5),4.5,1.8,4633585440,0,True
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,spread,Handicap (inclus prolongations),223,70799,Tulsa Golden Hurricane (-4.5),4.5,1.8696,4633585439,0,True
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,spread,Handicap (inclus prolongations),223,70799,Tulsa Golden Hurricane (-5.5),5.5,1.9524,4637323170,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,spread,Handicap (inclus prolongations),223,70799,Rice Owls (+5.5),5.5,1.7408,4637323171,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,spread,Handicap (inclus prolongations),223,70799,Tulsa Golden Hurricane (-5.0),5.0,1.9091,4666479566,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,spread,Handicap (inclus prolongations),223,70799,Tulsa Golden Hurricane (+3.5),-3.5,1.3031,4637323174,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,spread,Handicap (inclus prolongations),223,70799,Rice Owls (-3.5),-3.5,3.25,4637323175,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,spread,Handicap (inclus prolongations),223,70799,Tulsa Golden Hurricane (+2.5),-2.5,1.3847,4637323176,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,spread,Handicap (inclus prolongations),223,70799,Rice Owls (-2.5),-2.5,2.85,4637323177,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,spread,Handicap (inclus prolongations),223,70799,Rice Owls (-1.5),-1.5,2.85,4637323178,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,spread,Handicap (inclus prolongations),223,70799,Tulsa Golden Hurricane (+1.5),-1.5,1.3847,4637323179,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,spread,Handicap (inclus prolongations),223,70799,Tulsa Golden Hurricane (+2.0),-2.0,1.3847,4666479568,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,spread,Handicap (inclus prolongations),223,70799,Rice Owls (+4.0),4.0,1.9091,4633528499,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,spread,Handicap (inclus prolongations),223,70799,Rice Owls (+3.5),3.5,1.9524,4633371956,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,spread,Handicap (inclus prolongations),223,70799,Tulsa Golden Hurricane (-4.0),4.0,1.7693,4633528500,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,spread,Handicap (inclus prolongations),223,70799,Rice Owls (+9.5),9.5,1.4348,4637323190,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,spread,Handicap (inclus prolongations),223,70799,Tulsa Golden Hurricane (-9.5),9.5,2.65,4637323191,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,spread,Handicap (inclus prolongations),223,70799,Tulsa Golden Hurricane (-3.5),3.5,1.7408,4633371957,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,spread,Handicap (inclus prolongations),223,70799,Tulsa Golden Hurricane (-12.5),12.5,3.2,4637323194,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,spread,Handicap (inclus prolongations),223,70799,Rice Owls (+12.5),12.5,1.3125,4637323195,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,spread,Handicap (inclus prolongations),223,70799,Tulsa Golden Hurricane (-10.0),10.0,2.75,4666479549,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,spread,Handicap (inclus prolongations),223,70799,Rice Owls (+10.0),10.0,1.4,4666479550,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,spread,Handicap (inclus prolongations),223,70799,Rice Owls (+2.0),2.0,2.4,4666479551,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,spread,Handicap (inclus prolongations),223,70799,Tulsa Golden Hurricane (-2.0),2.0,1.5264,4666479552,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,spread,Handicap (inclus prolongations),223,70799,Tulsa Golden Hurricane (-7.0),7.0,2.25,4666479553,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,spread,Handicap (inclus prolongations),223,70799,Rice Owls (+7.0),7.0,1.5715,4666479554,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,spread,Handicap (inclus prolongations),223,70799,Rice Owls (+1.0),1.0,2.55,4666479555,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,spread,Handicap (inclus prolongations),223,70799,Rice Owls (+11.5),11.5,1.3334,4637323204,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,spread,Handicap (inclus prolongations),223,70799,Rice Owls (+13.0),13.0,1.3031,4666479557,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,spread,Handicap (inclus prolongations),223,70799,Rice Owls (+8.5),8.5,1.4546,4637323206,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,spread,Handicap (inclus prolongations),223,70799,Rice Owls (+8.0),8.0,1.4762,4666479559,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,spread,Handicap (inclus prolongations),223,70799,Rice Owls (+6.5),6.5,1.6897,4637323208,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,spread,Handicap (inclus prolongations),223,70799,Rice Owls (+12.0),12.0,1.3125,4666479561,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,spread,Handicap (inclus prolongations),223,70799,Tulsa Golden Hurricane (-13.0),13.0,3.25,4666479558,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,spread,Handicap (inclus prolongations),223,70799,Rice Owls (+7.5),7.5,1.5,4637323211,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,spread,Handicap (inclus prolongations),223,70799,Rice Owls (+11.0),11.0,1.3334,4666479564,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,spread,Handicap (inclus prolongations),223,70799,Rice Owls (+5.0),5.0,1.7693,4666479565,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,spread,Handicap (inclus prolongations),223,70799,Rice Owls (+3.0),3.0,2.2,4633015115,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,spread,Handicap (inclus prolongations),223,70799,Rice Owls (+1.5),1.5,2.5,4637323212,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,spread,Handicap (inclus prolongations),223,70799,Rice Owls (-2.0),-2.0,2.85,4666479567,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,spread,Handicap (inclus prolongations),223,70799,Rice Owls (-3.0),-3.0,3.1,4666479569,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,spread,Handicap (inclus prolongations),223,70799,Tulsa Golden Hurricane (-12.0),12.0,3.2,4666479562,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,spread,Handicap (inclus prolongations),223,70799,Rice Owls (-1.0),-1.0,2.75,4666479571,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,spread,Handicap (inclus prolongations),223,70799,Tulsa Golden Hurricane (-11.0),11.0,3.1,4666479563,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,spread,Handicap (inclus prolongations),223,70799,Tulsa Golden Hurricane (-6.0),6.0,2.0,4666479573,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,spread,Handicap (inclus prolongations),223,70799,Rice Owls (+6.0),6.0,1.7143,4666479574,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,spread,Handicap (inclus prolongations),223,70799,Tulsa Golden Hurricane (-9.0),9.0,2.65,4666479575,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,spread,Handicap (inclus prolongations),223,70799,Rice Owls (+9.0),9.0,1.4348,4666479576,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,spread,Handicap (inclus prolongations),223,70799,Tulsa Golden Hurricane (-11.5),11.5,3.1,4637323205,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,spread,Handicap (inclus prolongations),223,70799,Tulsa Golden Hurricane (+1.0),-1.0,1.4,4666479572,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,spread,Handicap (inclus prolongations),223,70799,Tulsa Golden Hurricane (+3.0),-3.0,1.3334,4666479570,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,spread,Handicap (inclus prolongations),223,70799,Tulsa Golden Hurricane (-8.5),8.5,2.6,4637323207,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,spread,Handicap (inclus prolongations),223,70799,Tulsa Golden Hurricane (-6.5),6.5,2.05,4637323209,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,spread,Handicap (inclus prolongations),223,70799,Tulsa Golden Hurricane (-7.5),7.5,2.5,4637323210,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,spread,Handicap (inclus prolongations),223,70799,Tulsa Golden Hurricane (-1.0),1.0,1.4762,4666479556,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 39.5,39.5,1.4348,4637323136,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 39.5,39.5,2.65,4637323137,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 35.5,35.5,3.4,4637323138,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 35.5,35.5,1.2858,4637323139,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 37.5,37.5,3.1,4637323140,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 37.5,37.5,1.3334,4637323141,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 33.5,33.5,1.2,4637323144,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 33.5,33.5,4.2,4637323145,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 59.5,59.5,4.2,4637323146,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 59.5,59.5,1.2,4637323147,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 58.5,58.5,3.75,4637323148,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 58.5,58.5,1.2353,4637323149,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 55.5,55.5,3.2,4637323150,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 55.5,55.5,1.3125,4637323151,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 53.5,53.5,2.7,4637323152,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 53.5,53.5,1.4167,4637323153,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 57.5,57.5,3.5,4637323154,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 57.5,57.5,1.2667,4637323155,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 51.5,51.5,2.55,4637323156,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 51.5,51.5,1.4762,4637323157,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 47.5,47.5,1.7143,4633371958,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 47.5,47.5,2.0,4633371959,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 61.5,61.5,4.75,4637330494,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 61.5,61.5,1.1539,4637330495,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 45.5,45.5,1.9091,4634777925,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 45.5,45.5,1.7693,4634777926,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 46.5,46.5,1.8,4633015116,0,True
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 46.5,46.5,1.8696,4633015117,0,True
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 52.5,52.5,2.65,4637323102,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 52.5,52.5,1.4348,4637323103,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 42.5,42.5,1.5715,4637323104,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 42.5,42.5,2.25,4637323105,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 32.5,32.5,1.1819,4637323106,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 32.5,32.5,4.4,4637323107,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 50.5,50.5,1.5556,4637323108,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 50.5,50.5,2.3,4637323109,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 40.5,40.5,2.55,4637323110,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 40.5,40.5,1.4762,4637323111,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 60.5,60.5,1.1819,4637323112,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 60.5,60.5,4.4,4637323113,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 43.5,43.5,1.6451,4637323116,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 43.5,43.5,2.15,4637323117,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 41.5,41.5,1.5556,4637323118,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 41.5,41.5,2.3,4637323119,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 44.5,44.5,2.0,4637323120,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 44.5,44.5,1.7143,4637323121,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 49.5,49.5,1.5715,4637323122,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 49.5,49.5,2.25,4637323123,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 48.5,48.5,1.6667,4637323124,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 48.5,48.5,2.1,4637323125,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 56.5,56.5,3.25,4637323126,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 56.5,56.5,1.3031,4637323127,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 36.5,36.5,3.4,4637323128,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 36.5,36.5,1.2858,4637323129,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 54.5,54.5,2.9,4637323130,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 54.5,54.5,1.3637,4637323131,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 34.5,34.5,3.75,4637323132,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 34.5,34.5,1.2353,4637323133,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 38.5,38.5,1.4167,4637323134,0,False
-18006736,Rice Owls vs. Tulsa Golden Hurricane,2026-10-17T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 38.5,38.5,2.7,4637323135,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Troy Trojans,,2.15,4632960795,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Louisiana-Lafayette Ragin Cajuns,,1.6061,4632960796,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana-Lafayette Ragin Cajuns (+5.0),5.0,1.3226,4666723330,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,spread,Handicap (inclus prolongations),223,70799,Troy Trojans (-5.0),5.0,3.15,4666723331,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,spread,Handicap (inclus prolongations),223,70799,Troy Trojans (+6.0),-6.0,1.5455,4633407370,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana-Lafayette Ragin Cajuns (-6.0),-6.0,2.35,4633407371,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,spread,Handicap (inclus prolongations),223,70799,Troy Trojans (+9.5),-9.5,1.3334,4637323622,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana-Lafayette Ragin Cajuns (-10.0),-10.0,3.25,4666480503,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,spread,Handicap (inclus prolongations),223,70799,Troy Trojans (+6.5),-6.5,1.5455,4637323624,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,spread,Handicap (inclus prolongations),223,70799,Troy Trojans (+2.5),-2.5,1.9524,4637323545,0,True
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana-Lafayette Ragin Cajuns (-2.5),-2.5,1.7408,4637323547,0,True
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,spread,Handicap (inclus prolongations),223,70799,Troy Trojans (+3.5),-3.5,1.7143,4632960797,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana-Lafayette Ragin Cajuns (-3.5),-3.5,2.0,4632960798,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,spread,Handicap (inclus prolongations),223,70799,Troy Trojans (+1.5),-1.5,2.1,4637323552,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana-Lafayette Ragin Cajuns (-1.5),-1.5,1.6667,4637323554,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,spread,Handicap (inclus prolongations),223,70799,Troy Trojans (+4.5),-4.5,1.6451,4632978343,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana-Lafayette Ragin Cajuns (-4.5),-4.5,2.15,4632978344,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,spread,Handicap (inclus prolongations),223,70799,Troy Trojans (-2.0),2.0,2.35,4666480483,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana-Lafayette Ragin Cajuns (-10.5),-10.5,3.4,4637323564,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,spread,Handicap (inclus prolongations),223,70799,Troy Trojans (+10.5),-10.5,1.2858,4637323563,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana-Lafayette Ragin Cajuns (+1.5),1.5,1.5556,4637323571,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,spread,Handicap (inclus prolongations),223,70799,Troy Trojans (-1.5),1.5,2.3,4637323572,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,spread,Handicap (inclus prolongations),223,70799,Troy Trojans (+7.5),-7.5,1.4167,4637323573,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana-Lafayette Ragin Cajuns (-7.5),-7.5,2.7,4637323575,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana-Lafayette Ragin Cajuns (+4.5),4.5,1.3334,4637323578,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,spread,Handicap (inclus prolongations),223,70799,Troy Trojans (+9.0),-9.0,1.3572,4666480486,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,spread,Handicap (inclus prolongations),223,70799,Troy Trojans (-4.5),4.5,3.1,4637323580,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,spread,Handicap (inclus prolongations),223,70799,Troy Trojans (+3.0),-3.0,1.8,4661016279,0,True
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana-Lafayette Ragin Cajuns (-3.0),-3.0,1.8696,4661016280,0,True
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana-Lafayette Ragin Cajuns (-8.5),-8.5,2.9,4637323612,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,spread,Handicap (inclus prolongations),223,70799,Troy Trojans (+8.5),-8.5,1.3637,4637323613,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,spread,Handicap (inclus prolongations),223,70799,Troy Trojans (+4.0),-4.0,1.6667,4666480478,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana-Lafayette Ragin Cajuns (-4.0),-4.0,2.1,4666480479,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana-Lafayette Ragin Cajuns (+3.0),3.0,1.4348,4666480480,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,spread,Handicap (inclus prolongations),223,70799,Troy Trojans (-3.0),3.0,2.65,4666480481,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana-Lafayette Ragin Cajuns (+2.5),2.5,1.5264,4637323618,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana-Lafayette Ragin Cajuns (+2.0),2.0,1.5455,4666480482,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana-Lafayette Ragin Cajuns (+4.0),4.0,1.3572,4666480484,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana-Lafayette Ragin Cajuns (+3.5),3.5,1.3847,4637323620,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,spread,Handicap (inclus prolongations),223,70799,Troy Trojans (-4.0),4.0,3.0,4666480485,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana-Lafayette Ragin Cajuns (-9.0),-9.0,3.0,4666480487,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana-Lafayette Ragin Cajuns (-9.5),-9.5,3.1,4637323623,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana-Lafayette Ragin Cajuns (-1.0),-1.0,1.6451,4666480489,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana-Lafayette Ragin Cajuns (-6.5),-6.5,2.35,4637323625,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana-Lafayette Ragin Cajuns (-2.0),-2.0,1.6897,4666480491,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,spread,Handicap (inclus prolongations),223,70799,Troy Trojans (-3.5),3.5,2.85,4637323621,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana-Lafayette Ragin Cajuns (-5.0),-5.0,2.2,4666480493,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,spread,Handicap (inclus prolongations),223,70799,Troy Trojans (+1.0),-1.0,2.15,4666480488,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana-Lafayette Ragin Cajuns (-7.0),-7.0,2.6,4666480495,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,spread,Handicap (inclus prolongations),223,70799,Troy Trojans (+2.0),-2.0,2.05,4666480490,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana-Lafayette Ragin Cajuns (-8.0),-8.0,2.85,4666480497,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,spread,Handicap (inclus prolongations),223,70799,Troy Trojans (-1.0),1.0,2.25,4666480498,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana-Lafayette Ragin Cajuns (+1.0),1.0,1.5715,4666480499,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,spread,Handicap (inclus prolongations),223,70799,Troy Trojans (+5.0),-5.0,1.625,4666480492,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,spread,Handicap (inclus prolongations),223,70799,Troy Trojans (+7.0),-7.0,1.4546,4666480494,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,spread,Handicap (inclus prolongations),223,70799,Troy Trojans (+5.5),-5.5,1.5715,4633402358,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana-Lafayette Ragin Cajuns (-5.5),-5.5,2.25,4633402359,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,spread,Handicap (inclus prolongations),223,70799,Troy Trojans (+8.0),-8.0,1.3847,4666480496,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,spread,Handicap (inclus prolongations),223,70799,Troy Trojans (+10.0),-10.0,1.3031,4666480502,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,spread,Handicap (inclus prolongations),223,70799,Troy Trojans (-2.5),2.5,2.4,4637323619,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 54.5,54.5,2.5,4637323648,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 54.5,54.5,1.5,4637323649,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 57.5,57.5,2.85,4637323650,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 57.5,57.5,1.3847,4637323651,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 56.5,56.5,1.4167,4637323652,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 56.5,56.5,2.7,4637323653,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 59.5,59.5,3.4,4637323654,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 59.5,59.5,1.2858,4637323655,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 58.5,58.5,1.3334,4637323656,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 58.5,58.5,3.1,4637323657,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 41.5,41.5,1.4167,4637323658,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 41.5,41.5,2.7,4637323659,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 43.5,43.5,1.4762,4637323660,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 43.5,43.5,2.55,4637323661,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 35.5,35.5,4.2,4637323662,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 35.5,35.5,1.2,4637323663,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 45.5,45.5,2.2,4637323664,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 45.5,45.5,1.625,4637323665,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 46.5,46.5,2.15,4637323666,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 46.5,46.5,1.6451,4637323667,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 36.5,36.5,4.2,4637323668,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 36.5,36.5,1.2,4637323669,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 38.5,38.5,3.25,4637323670,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 38.5,38.5,1.3031,4637323671,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 39.5,39.5,1.3125,4637323672,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 47.5,47.5,1.7143,4632960793,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 37.5,37.5,1.25,4637323674,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 37.5,37.5,3.7,4637323675,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 44.5,44.5,1.5455,4637323676,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 39.5,39.5,3.2,4637323673,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 34.5,34.5,1.1819,4637323678,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 34.5,34.5,4.4,4637323679,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 40.5,40.5,1.3334,4637323680,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 40.5,40.5,3.1,4637323681,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 42.5,42.5,1.4348,4637323682,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 42.5,42.5,2.65,4637323683,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 44.5,44.5,2.35,4637323677,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 48.5,48.5,1.9091,4633402360,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 61.5,61.5,1.2353,4637323637,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 49.5,49.5,1.8696,4633602271,0,True
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 49.5,49.5,1.8,4633602272,0,True
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 50.5,50.5,1.7143,4637323641,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 64.5,64.5,4.4,4637323628,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 64.5,64.5,1.1819,4637323629,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 62.5,62.5,4.0,4637323630,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 62.5,62.5,1.2223,4637323631,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 63.5,63.5,4.2,4637323632,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 63.5,63.5,1.2,4637323633,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 60.5,60.5,3.4,4637323634,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 53.5,53.5,1.5556,4637323643,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 61.5,61.5,3.75,4637323636,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 60.5,60.5,1.2858,4637323635,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 51.5,51.5,2.1,4637323638,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 51.5,51.5,1.6667,4637323639,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 50.5,50.5,2.0,4637323640,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 48.5,48.5,1.7693,4633402361,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 53.5,53.5,2.3,4637323642,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 47.5,47.5,2.0,4632960794,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 52.5,52.5,2.25,4637323644,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 52.5,52.5,1.5715,4637323645,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 55.5,55.5,1.4348,4637323646,0,False
-18006701,Louisiana-Lafayette Ragin Cajuns vs. Troy Trojans,2026-10-17T21:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 55.5,55.5,2.65,4637323647,0,False
-18046710,Murray State Racers vs. South Dakota Coyotes,2026-10-17T21:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,South Dakota Coyotes,,1.0,4666489093,7,False
-18046710,Murray State Racers vs. South Dakota Coyotes,2026-10-17T21:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Murray State Racers,,11.0,4666489094,0,False
-18046710,Murray State Racers vs. South Dakota Coyotes,2026-10-17T21:00:00Z,spread,Handicap (inclus prolongations),223,70799,Murray State Racers (+28.5),28.5,1.8696,4660308706,0,True
-18046710,Murray State Racers vs. South Dakota Coyotes,2026-10-17T21:00:00Z,spread,Handicap (inclus prolongations),223,70799,South Dakota Coyotes (-28.5),28.5,1.8,4660308707,0,True
-18046710,Murray State Racers vs. South Dakota Coyotes,2026-10-17T21:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 60.5,60.5,1.9091,4666489024,0,True
-18046710,Murray State Racers vs. South Dakota Coyotes,2026-10-17T21:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 60.5,60.5,1.7693,4666489025,0,True
-18046709,Southeastern Louisiana Lions vs. Lamar Cardinals,2026-10-17T21:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Southeastern Louisiana Lions,,2.4,4660308787,0,False
-18046709,Southeastern Louisiana Lions vs. Lamar Cardinals,2026-10-17T21:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Lamar Cardinals,,1.4762,4660308788,0,False
-18046709,Southeastern Louisiana Lions vs. Lamar Cardinals,2026-10-17T21:00:00Z,spread,Handicap (inclus prolongations),223,70799,Southeastern Louisiana Lions (+5.5),5.5,1.7693,4666488965,0,True
-18046709,Southeastern Louisiana Lions vs. Lamar Cardinals,2026-10-17T21:00:00Z,spread,Handicap (inclus prolongations),223,70799,Lamar Cardinals (-5.5),5.5,1.9091,4666488966,0,True
-18046709,Southeastern Louisiana Lions vs. Lamar Cardinals,2026-10-17T21:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 50.5,50.5,1.8,4666488963,0,True
-18046709,Southeastern Louisiana Lions vs. Lamar Cardinals,2026-10-17T21:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 50.5,50.5,1.8696,4666488964,0,True
-18046720,Wagner Seahawks vs. Liu Sharks,2026-10-17T21:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Liu Sharks,,1.3334,4660317194,0,False
-18046720,Wagner Seahawks vs. Liu Sharks,2026-10-17T21:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Wagner Seahawks,,2.95,4660317195,0,False
-18046720,Wagner Seahawks vs. Liu Sharks,2026-10-17T21:00:00Z,spread,Handicap (inclus prolongations),223,70799,Wagner Seahawks (+6.5),6.5,1.9091,4666489081,0,True
-18046720,Wagner Seahawks vs. Liu Sharks,2026-10-17T21:00:00Z,spread,Handicap (inclus prolongations),223,70799,Liu Sharks (-6.5),6.5,1.7693,4666489082,0,True
-18046720,Wagner Seahawks vs. Liu Sharks,2026-10-17T21:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 40.5,40.5,1.8334,4666489083,0,True
-18046720,Wagner Seahawks vs. Liu Sharks,2026-10-17T21:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 40.5,40.5,1.8334,4666489084,0,True
 17803703,Oregon State Beavers vs. Wash State Cougars,2026-10-17T22:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Oregon State Beavers,,1.0834,4632382640,0,False
 17803703,Oregon State Beavers vs. Wash State Cougars,2026-10-17T22:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Wash State Cougars,,6.0,4632382641,0,False
 17803703,Oregon State Beavers vs. Wash State Cougars,2026-10-17T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Oregon State Beavers (-22.5),-22.5,2.3,4637336832,0,False
@@ -369,28 +87,28 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 18046718,Youngstown State Penguins vs. Northern Iowa Panthers,2026-10-17T22:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Northern Iowa Panthers,,7.25,4660326711,0,False
 18046718,Youngstown State Penguins vs. Northern Iowa Panthers,2026-10-17T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Youngstown State Penguins (-20.5),-20.5,1.8334,4666489045,0,True
 18046718,Youngstown State Penguins vs. Northern Iowa Panthers,2026-10-17T22:00:00Z,spread,Handicap (inclus prolongations),223,70799,Northern Iowa Panthers (+20.5),-20.5,1.8334,4666489046,0,True
-18046718,Youngstown State Penguins vs. Northern Iowa Panthers,2026-10-17T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 60.5,60.5,1.7693,4666489048,0,True
-18046718,Youngstown State Penguins vs. Northern Iowa Panthers,2026-10-17T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 60.5,60.5,1.9091,4666489047,0,True
-18046713,Tennessee State Tigers vs. Morgan State Bears,2026-10-17T22:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Morgan State Bears,,1.4167,4660332030,0,False
-18046713,Tennessee State Tigers vs. Morgan State Bears,2026-10-17T22:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Tennessee State Tigers,,2.6,4660332031,0,False
+18046718,Youngstown State Penguins vs. Northern Iowa Panthers,2026-10-17T22:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 60.5,60.5,1.7408,4666489048,0,True
+18046718,Youngstown State Penguins vs. Northern Iowa Panthers,2026-10-17T22:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 60.5,60.5,1.9524,4666489047,0,True
+18046713,Tennessee State Tigers vs. Morgan State Bears,2026-10-17T22:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Morgan State Bears,,1.4,4660332030,0,False
+18046713,Tennessee State Tigers vs. Morgan State Bears,2026-10-17T22:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Tennessee State Tigers,,2.65,4660332031,0,False
 18046713,Tennessee State Tigers vs. Morgan State Bears,2026-10-17T22:30:00Z,spread,Handicap (inclus prolongations),223,70799,Tennessee State Tigers (+5.5),5.5,1.8334,4660332034,0,True
 18046713,Tennessee State Tigers vs. Morgan State Bears,2026-10-17T22:30:00Z,spread,Handicap (inclus prolongations),223,70799,Morgan State Bears (-5.5),5.5,1.8334,4660332035,0,True
-18046713,Tennessee State Tigers vs. Morgan State Bears,2026-10-17T22:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 50.5,50.5,1.8334,4666489056,0,True
-18046713,Tennessee State Tigers vs. Morgan State Bears,2026-10-17T22:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 50.5,50.5,1.8334,4666489055,0,True
-17803688,Baylor Bears vs. TCU Horned Frogs,2026-10-17T23:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Baylor Bears,,1.4167,4632362272,0,False
-17803688,Baylor Bears vs. TCU Horned Frogs,2026-10-17T23:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,TCU Horned Frogs,,2.6,4632362273,0,False
+18046713,Tennessee State Tigers vs. Morgan State Bears,2026-10-17T22:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 50.5,50.5,1.9091,4666489056,0,True
+18046713,Tennessee State Tigers vs. Morgan State Bears,2026-10-17T22:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 50.5,50.5,1.7693,4666489055,0,True
+17803688,Baylor Bears vs. TCU Horned Frogs,2026-10-17T23:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Baylor Bears,,1.4546,4632362272,0,False
+17803688,Baylor Bears vs. TCU Horned Frogs,2026-10-17T23:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,TCU Horned Frogs,,2.5,4632362273,0,False
 17803688,Baylor Bears vs. TCU Horned Frogs,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Baylor Bears (+1.5),1.5,1.3847,4637326346,0,False
 17803688,Baylor Bears vs. TCU Horned Frogs,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,TCU Horned Frogs (-1.5),1.5,2.85,4637326347,0,False
 17803688,Baylor Bears vs. TCU Horned Frogs,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Baylor Bears (-6.0),-6.0,2.0,4634632462,0,False
 17803688,Baylor Bears vs. TCU Horned Frogs,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,TCU Horned Frogs (+6.0),-6.0,1.7143,4634632463,0,False
-17803688,Baylor Bears vs. TCU Horned Frogs,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Baylor Bears (+3.5),3.5,1.3031,4637326352,0,False
-17803688,Baylor Bears vs. TCU Horned Frogs,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,TCU Horned Frogs (-3.5),3.5,3.25,4637326354,0,False
 17803688,Baylor Bears vs. TCU Horned Frogs,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Baylor Bears (+2.5),2.5,1.3847,4637326357,0,False
-17803688,Baylor Bears vs. TCU Horned Frogs,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Baylor Bears (-5.5),-5.5,1.9524,4634641429,0,True
+17803688,Baylor Bears vs. TCU Horned Frogs,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Baylor Bears (-5.5),-5.5,1.9524,4634641429,0,False
 17803688,Baylor Bears vs. TCU Horned Frogs,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,TCU Horned Frogs (-2.5),2.5,2.85,4637326359,0,False
-17803688,Baylor Bears vs. TCU Horned Frogs,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,TCU Horned Frogs (+5.5),-5.5,1.7408,4634641430,0,True
+17803688,Baylor Bears vs. TCU Horned Frogs,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,TCU Horned Frogs (+5.5),-5.5,1.7408,4634641430,0,False
 17803688,Baylor Bears vs. TCU Horned Frogs,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,TCU Horned Frogs (+6.5),-6.5,1.7143,4632362274,0,False
 17803688,Baylor Bears vs. TCU Horned Frogs,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Baylor Bears (-6.5),-6.5,2.0,4632362275,0,False
+17803688,Baylor Bears vs. TCU Horned Frogs,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,TCU Horned Frogs (+4.5),-4.5,1.909,4637326372,0,True
+17803688,Baylor Bears vs. TCU Horned Frogs,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Baylor Bears (-4.5),-4.5,1.869,4637326377,7,True
 17803688,Baylor Bears vs. TCU Horned Frogs,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,TCU Horned Frogs (+8.5),-8.5,1.5,4637326380,0,False
 17803688,Baylor Bears vs. TCU Horned Frogs,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Baylor Bears (-8.5),-8.5,2.5,4637326383,0,False
 17803688,Baylor Bears vs. TCU Horned Frogs,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,TCU Horned Frogs (+3.5),-3.5,2.0,4637326391,0,False
@@ -426,8 +144,8 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17803688,Baylor Bears vs. TCU Horned Frogs,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,TCU Horned Frogs (+7.0),-7.0,1.625,4666479707,0,False
 17803688,Baylor Bears vs. TCU Horned Frogs,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Baylor Bears (-9.0),-9.0,2.55,4666479714,0,False
 17803688,Baylor Bears vs. TCU Horned Frogs,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,TCU Horned Frogs (+8.0),-8.0,1.5,4666479713,0,False
-17803688,Baylor Bears vs. TCU Horned Frogs,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Baylor Bears (-5.0),-5.0,1.9091,4666479716,0,True
-17803688,Baylor Bears vs. TCU Horned Frogs,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,TCU Horned Frogs (+5.0),-5.0,1.7693,4666479717,0,True
+17803688,Baylor Bears vs. TCU Horned Frogs,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Baylor Bears (-5.0),-5.0,1.9091,4666479716,0,False
+17803688,Baylor Bears vs. TCU Horned Frogs,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,TCU Horned Frogs (+5.0),-5.0,1.7693,4666479717,0,False
 17803688,Baylor Bears vs. TCU Horned Frogs,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Baylor Bears (-4.0),-4.0,1.7693,4666479718,0,False
 17803688,Baylor Bears vs. TCU Horned Frogs,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Baylor Bears (-12.5),-12.5,3.1,4637326310,0,False
 17803688,Baylor Bears vs. TCU Horned Frogs,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Baylor Bears (+1.0),1.0,1.4,4666479720,0,False
@@ -631,8 +349,8 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 18046715,Eastern Washington Eagles vs. Montana State Bobcats,2026-10-17T23:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Montana State Bobcats,,1.05,4660326540,0,False
 18046715,Eastern Washington Eagles vs. Montana State Bobcats,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Montana State Bobcats (-20.5),20.5,1.9524,4666489030,0,True
 18046715,Eastern Washington Eagles vs. Montana State Bobcats,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Eastern Washington Eagles (+20.5),20.5,1.7408,4666489031,0,True
-18046715,Eastern Washington Eagles vs. Montana State Bobcats,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 64.5,64.5,2.1,4666489028,0,True
-18046715,Eastern Washington Eagles vs. Montana State Bobcats,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 64.5,64.5,1.6667,4666489029,0,True
+18046715,Eastern Washington Eagles vs. Montana State Bobcats,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 64.5,64.5,2.0,4666489028,0,True
+18046715,Eastern Washington Eagles vs. Montana State Bobcats,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 64.5,64.5,1.7143,4666489029,0,True
 18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Kent St Golden Flashes,,7.75,4632946731,0,False
 18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,FLORIDE DU SUD,,1.04,4632946732,0,False
 18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Kent St Golden Flashes (+26.0),-26.0,1.4546,4666480858,0,False
@@ -763,8 +481,8 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 18046708,Houston Christian Huskies vs. Texas A&M-Commerce Lions,2026-10-17T23:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Texas A&M-Commerce Lions,,2.1,4660326452,0,False
 18046708,Houston Christian Huskies vs. Texas A&M-Commerce Lions,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Texas A&M-Commerce Lions (+2.5),-2.5,1.8334,4666489038,0,True
 18046708,Houston Christian Huskies vs. Texas A&M-Commerce Lions,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Houston Christian Huskies (-2.5),-2.5,1.8334,4666489039,0,True
-18046708,Houston Christian Huskies vs. Texas A&M-Commerce Lions,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 48.5,48.5,1.8,4666489036,0,True
-18046708,Houston Christian Huskies vs. Texas A&M-Commerce Lions,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 48.5,48.5,1.8696,4666489037,0,True
+18046708,Houston Christian Huskies vs. Texas A&M-Commerce Lions,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 48.5,48.5,1.7143,4666489036,0,True
+18046708,Houston Christian Huskies vs. Texas A&M-Commerce Lions,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 48.5,48.5,2.0,4666489037,0,True
 18046731,Incarnate Word Cardinals vs. Vallée du Rio Grande de l'UT,2026-10-17T23:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Vallée du Rio Grande de l'UT,,2.25,4660331937,0,False
 18046731,Incarnate Word Cardinals vs. Vallée du Rio Grande de l'UT,2026-10-17T23:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Incarnate Word Cardinals,,1.5556,4660331938,0,False
 18046731,Incarnate Word Cardinals vs. Vallée du Rio Grande de l'UT,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Incarnate Word Cardinals (-3.5),-3.5,1.8696,4666488969,0,True
@@ -918,8 +636,8 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 18006704,Southern Miss Golden Eagles vs. Arkansas St Red Wolves,2026-10-17T23:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Southern Miss Golden Eagles,,2.65,4632972332,0,False
 18006704,Southern Miss Golden Eagles vs. Arkansas St Red Wolves,2026-10-17T23:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Arkansas St Red Wolves,,1.4,4632972333,0,False
 18006704,Southern Miss Golden Eagles vs. Arkansas St Red Wolves,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas St Red Wolves (-6.5),6.5,1.8696,4637324994,0,True
-18006704,Southern Miss Golden Eagles vs. Arkansas St Red Wolves,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas St Red Wolves (-10.5),10.5,2.4,4637324937,0,False
-18006704,Southern Miss Golden Eagles vs. Arkansas St Red Wolves,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Southern Miss Golden Eagles (+10.5),10.5,1.5264,4637324939,0,False
+18006704,Southern Miss Golden Eagles vs. Arkansas St Red Wolves,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas St Red Wolves (-10.5),10.5,2.5,4637324937,0,False
+18006704,Southern Miss Golden Eagles vs. Arkansas St Red Wolves,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Southern Miss Golden Eagles (+10.5),10.5,1.5,4637324939,0,False
 18006704,Southern Miss Golden Eagles vs. Arkansas St Red Wolves,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas St Red Wolves (-2.0),2.0,1.4762,4666480198,0,False
 18006704,Southern Miss Golden Eagles vs. Arkansas St Red Wolves,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Southern Miss Golden Eagles (+11.5),11.5,1.4546,4637324954,0,False
 18006704,Southern Miss Golden Eagles vs. Arkansas St Red Wolves,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas St Red Wolves (-11.5),11.5,2.6,4637324955,0,False
@@ -927,12 +645,10 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 18006704,Southern Miss Golden Eagles vs. Arkansas St Red Wolves,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas St Red Wolves (-12.5),12.5,2.65,4637324957,0,False
 18006704,Southern Miss Golden Eagles vs. Arkansas St Red Wolves,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas St Red Wolves (-13.5),13.5,2.85,4637324958,0,False
 18006704,Southern Miss Golden Eagles vs. Arkansas St Red Wolves,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Southern Miss Golden Eagles (+13.5),13.5,1.3847,4637324959,0,False
-18006704,Southern Miss Golden Eagles vs. Arkansas St Red Wolves,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas St Red Wolves (-14.5),14.5,3.1,4637324960,0,False
-18006704,Southern Miss Golden Eagles vs. Arkansas St Red Wolves,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Southern Miss Golden Eagles (+14.5),14.5,1.3334,4637324961,0,False
-18006704,Southern Miss Golden Eagles vs. Arkansas St Red Wolves,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas St Red Wolves (+1.5),-1.5,1.3572,4637325001,0,False
-18006704,Southern Miss Golden Eagles vs. Arkansas St Red Wolves,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas St Red Wolves (-3.0),3.0,1.5455,4666480202,0,False
-18006704,Southern Miss Golden Eagles vs. Arkansas St Red Wolves,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas St Red Wolves (-3.5),3.5,1.6451,4637324968,0,False
-18006704,Southern Miss Golden Eagles vs. Arkansas St Red Wolves,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Southern Miss Golden Eagles (+3.5),3.5,2.15,4637324969,0,False
+18006704,Southern Miss Golden Eagles vs. Arkansas St Red Wolves,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas St Red Wolves (+1.5),-1.5,1.3847,4637325001,0,False
+18006704,Southern Miss Golden Eagles vs. Arkansas St Red Wolves,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas St Red Wolves (-3.0),3.0,1.5556,4666480202,0,False
+18006704,Southern Miss Golden Eagles vs. Arkansas St Red Wolves,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas St Red Wolves (-3.5),3.5,1.6667,4637324968,0,False
+18006704,Southern Miss Golden Eagles vs. Arkansas St Red Wolves,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Southern Miss Golden Eagles (+3.5),3.5,2.1,4637324969,0,False
 18006704,Southern Miss Golden Eagles vs. Arkansas St Red Wolves,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas St Red Wolves (-7.0),7.0,2.0,4632972330,0,False
 18006704,Southern Miss Golden Eagles vs. Arkansas St Red Wolves,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Southern Miss Golden Eagles (+7.0),7.0,1.7143,4632972331,0,False
 18006704,Southern Miss Golden Eagles vs. Arkansas St Red Wolves,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas St Red Wolves (-9.5),9.5,2.25,4637324978,0,False
@@ -944,38 +660,38 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 18006704,Southern Miss Golden Eagles vs. Arkansas St Red Wolves,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Southern Miss Golden Eagles (+6.0),6.0,1.9091,4666480183,0,False
 18006704,Southern Miss Golden Eagles vs. Arkansas St Red Wolves,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Southern Miss Golden Eagles (+8.5),8.5,1.625,4637324985,0,False
 18006704,Southern Miss Golden Eagles vs. Arkansas St Red Wolves,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Southern Miss Golden Eagles (+12.0),12.0,1.4348,4666480186,0,False
-18006704,Southern Miss Golden Eagles vs. Arkansas St Red Wolves,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Southern Miss Golden Eagles (+1.5),1.5,2.6,4637324987,0,False
-18006704,Southern Miss Golden Eagles vs. Arkansas St Red Wolves,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Southern Miss Golden Eagles (+13.0),13.0,1.4167,4666480188,0,False
-18006704,Southern Miss Golden Eagles vs. Arkansas St Red Wolves,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Southern Miss Golden Eagles (+2.5),2.5,2.55,4637324989,0,False
-18006704,Southern Miss Golden Eagles vs. Arkansas St Red Wolves,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Southern Miss Golden Eagles (-1.0),-1.0,3.0,4666480184,0,False
-18006704,Southern Miss Golden Eagles vs. Arkansas St Red Wolves,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Southern Miss Golden Eagles (+4.5),4.5,2.0,4637324991,0,False
-18006704,Southern Miss Golden Eagles vs. Arkansas St Red Wolves,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Southern Miss Golden Eagles (-2.0),-2.0,3.1,4666480191,0,False
-18006704,Southern Miss Golden Eagles vs. Arkansas St Red Wolves,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Southern Miss Golden Eagles (+14.0),14.0,1.3572,4666480193,0,False
+18006704,Southern Miss Golden Eagles vs. Arkansas St Red Wolves,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Southern Miss Golden Eagles (+1.5),1.5,2.55,4637324987,0,False
+18006704,Southern Miss Golden Eagles vs. Arkansas St Red Wolves,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Southern Miss Golden Eagles (+13.0),13.0,1.4,4666480188,0,False
+18006704,Southern Miss Golden Eagles vs. Arkansas St Red Wolves,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Southern Miss Golden Eagles (+2.5),2.5,2.5,4637324989,0,False
+18006704,Southern Miss Golden Eagles vs. Arkansas St Red Wolves,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Southern Miss Golden Eagles (-1.0),-1.0,2.85,4666480184,0,False
+18006704,Southern Miss Golden Eagles vs. Arkansas St Red Wolves,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Southern Miss Golden Eagles (+4.5),4.5,1.9524,4637324991,0,False
+18006704,Southern Miss Golden Eagles vs. Arkansas St Red Wolves,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Southern Miss Golden Eagles (-2.0),-2.0,2.9,4666480191,0,False
+18006704,Southern Miss Golden Eagles vs. Arkansas St Red Wolves,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Southern Miss Golden Eagles (+14.0),14.0,1.3334,4666480193,0,False
 18006704,Southern Miss Golden Eagles vs. Arkansas St Red Wolves,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Southern Miss Golden Eagles (+5.5),5.5,1.9091,4637324993,0,False
 18006704,Southern Miss Golden Eagles vs. Arkansas St Red Wolves,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Southern Miss Golden Eagles (+10.0),10.0,1.5455,4666480195,0,False
 18006704,Southern Miss Golden Eagles vs. Arkansas St Red Wolves,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Southern Miss Golden Eagles (+6.5),6.5,1.8,4637324995,0,True
 18006704,Southern Miss Golden Eagles vs. Arkansas St Red Wolves,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Southern Miss Golden Eagles (+11.0),11.0,1.4762,4666480197,0,False
-18006704,Southern Miss Golden Eagles vs. Arkansas St Red Wolves,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas St Red Wolves (-14.0),14.0,3.0,4666480192,0,False
+18006704,Southern Miss Golden Eagles vs. Arkansas St Red Wolves,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas St Red Wolves (-14.0),14.0,3.1,4666480192,0,False
 18006704,Southern Miss Golden Eagles vs. Arkansas St Red Wolves,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Southern Miss Golden Eagles (+2.0),2.0,2.55,4666480199,0,False
-18006704,Southern Miss Golden Eagles vs. Arkansas St Red Wolves,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Southern Miss Golden Eagles (+5.0),5.0,1.9524,4666480200,0,False
-18006704,Southern Miss Golden Eagles vs. Arkansas St Red Wolves,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Southern Miss Golden Eagles (-1.5),-1.5,3.0,4637325000,0,False
+18006704,Southern Miss Golden Eagles vs. Arkansas St Red Wolves,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Southern Miss Golden Eagles (+5.0),5.0,1.9091,4666480200,0,False
+18006704,Southern Miss Golden Eagles vs. Arkansas St Red Wolves,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Southern Miss Golden Eagles (-1.5),-1.5,2.85,4637325000,0,False
 18006704,Southern Miss Golden Eagles vs. Arkansas St Red Wolves,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas St Red Wolves (-11.0),11.0,2.55,4666480196,0,False
-18006704,Southern Miss Golden Eagles vs. Arkansas St Red Wolves,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Southern Miss Golden Eagles (+3.0),3.0,2.35,4666480203,0,False
+18006704,Southern Miss Golden Eagles vs. Arkansas St Red Wolves,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Southern Miss Golden Eagles (+3.0),3.0,2.3,4666480203,0,False
 18006704,Southern Miss Golden Eagles vs. Arkansas St Red Wolves,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Southern Miss Golden Eagles (+4.0),4.0,2.05,4666480204,0,False
-18006704,Southern Miss Golden Eagles vs. Arkansas St Red Wolves,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas St Red Wolves (-5.0),5.0,1.7408,4666480201,0,False
+18006704,Southern Miss Golden Eagles vs. Arkansas St Red Wolves,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas St Red Wolves (-5.0),5.0,1.7693,4666480201,0,False
 18006704,Southern Miss Golden Eagles vs. Arkansas St Red Wolves,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas St Red Wolves (-9.0),9.0,2.25,4666480206,0,False
 18006704,Southern Miss Golden Eagles vs. Arkansas St Red Wolves,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Southern Miss Golden Eagles (+9.0),9.0,1.5715,4666480207,0,False
 18006704,Southern Miss Golden Eagles vs. Arkansas St Red Wolves,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas St Red Wolves (-8.5),8.5,2.2,4637324984,0,False
 18006704,Southern Miss Golden Eagles vs. Arkansas St Red Wolves,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Southern Miss Golden Eagles (+8.0),8.0,1.6451,4666480209,0,False
 18006704,Southern Miss Golden Eagles vs. Arkansas St Red Wolves,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas St Red Wolves (-8.0),8.0,2.15,4666480208,0,False
 18006704,Southern Miss Golden Eagles vs. Arkansas St Red Wolves,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas St Red Wolves (-4.0),4.0,1.6897,4666480205,0,False
-18006704,Southern Miss Golden Eagles vs. Arkansas St Red Wolves,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas St Red Wolves (+1.0),-1.0,1.3572,4666480185,0,False
-18006704,Southern Miss Golden Eagles vs. Arkansas St Red Wolves,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas St Red Wolves (-1.5),1.5,1.4546,4637324986,0,False
+18006704,Southern Miss Golden Eagles vs. Arkansas St Red Wolves,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas St Red Wolves (+1.0),-1.0,1.3847,4666480185,0,False
+18006704,Southern Miss Golden Eagles vs. Arkansas St Red Wolves,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas St Red Wolves (-1.5),1.5,1.4762,4637324986,0,False
 18006704,Southern Miss Golden Eagles vs. Arkansas St Red Wolves,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas St Red Wolves (-12.0),12.0,2.65,4666480187,0,False
-18006704,Southern Miss Golden Eagles vs. Arkansas St Red Wolves,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas St Red Wolves (-2.5),2.5,1.4762,4637324988,0,False
-18006704,Southern Miss Golden Eagles vs. Arkansas St Red Wolves,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas St Red Wolves (-13.0),13.0,2.7,4666480189,0,False
-18006704,Southern Miss Golden Eagles vs. Arkansas St Red Wolves,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas St Red Wolves (+2.0),-2.0,1.3334,4666480190,0,False
-18006704,Southern Miss Golden Eagles vs. Arkansas St Red Wolves,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas St Red Wolves (-4.5),4.5,1.7143,4637324990,0,False
+18006704,Southern Miss Golden Eagles vs. Arkansas St Red Wolves,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas St Red Wolves (-2.5),2.5,1.5,4637324988,0,False
+18006704,Southern Miss Golden Eagles vs. Arkansas St Red Wolves,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas St Red Wolves (-13.0),13.0,2.75,4666480189,0,False
+18006704,Southern Miss Golden Eagles vs. Arkansas St Red Wolves,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas St Red Wolves (+2.0),-2.0,1.3637,4666480190,0,False
+18006704,Southern Miss Golden Eagles vs. Arkansas St Red Wolves,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas St Red Wolves (-4.5),4.5,1.7408,4637324990,0,False
 18006704,Southern Miss Golden Eagles vs. Arkansas St Red Wolves,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas St Red Wolves (-6.0),6.0,1.7693,4666480182,0,False
 18006704,Southern Miss Golden Eagles vs. Arkansas St Red Wolves,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas St Red Wolves (-5.5),5.5,1.7693,4637324992,0,False
 18006704,Southern Miss Golden Eagles vs. Arkansas St Red Wolves,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas St Red Wolves (-10.0),10.0,2.35,4666480194,0,False
@@ -1051,68 +767,70 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Arkansas Razorbacks,,2.6,4632362271,0,False
 17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Vanderbilt Commodores (-4.0),-4.0,1.7143,4666479488,0,False
 17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Vanderbilt Commodores (-11.0),-11.0,2.85,4666479489,0,False
-17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Vanderbilt Commodores (+2.5),2.5,1.3572,4637323266,0,False
+17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Vanderbilt Commodores (+2.5),2.5,1.3637,4637323266,0,False
 17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Vanderbilt Commodores (-12.0),-12.0,3.1,4666479491,0,False
-17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas Razorbacks (-2.5),2.5,3.0,4637323267,0,False
+17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas Razorbacks (-2.5),2.5,2.9,4637323267,0,False
 17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Vanderbilt Commodores (-10.0),-10.0,2.65,4666479493,0,False
-17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas Razorbacks (+9.0),-9.0,1.5,4666479508,0,False
+17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas Razorbacks (+9.0),-9.0,1.4762,4666479508,0,False
 17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas Razorbacks (+10.0),-10.0,1.4348,4666479494,0,False
 17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Vanderbilt Commodores (-13.0),-13.0,3.2,4666479496,0,False
 17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas Razorbacks (-1.0),1.0,2.85,4666479506,0,False
-17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas Razorbacks (+7.5),-7.5,1.5556,4637323274,0,False
-17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Vanderbilt Commodores (-7.5),-7.5,2.3,4637323275,0,False
-17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Vanderbilt Commodores (-7.0),-7.0,2.15,4666479500,0,False
+17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas Razorbacks (+7.5),-7.5,1.5455,4637323274,0,False
+17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Vanderbilt Commodores (-7.5),-7.5,2.35,4637323275,0,False
+17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Vanderbilt Commodores (-7.0),-7.0,2.2,4666479500,0,False
 17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Vanderbilt Commodores (-9.5),-9.5,2.55,4637323277,0,False
-17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Vanderbilt Commodores (-1.0),-1.0,1.4348,4666479502,0,False
-17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Vanderbilt Commodores (+2.0),2.0,1.3637,4666479503,0,False
+17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Vanderbilt Commodores (-1.0),-1.0,1.4546,4666479502,0,False
+17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Vanderbilt Commodores (+2.0),2.0,1.3847,4666479503,0,False
 17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Vanderbilt Commodores (-12.5),-12.5,3.1,4637323278,0,False
 17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Vanderbilt Commodores (+1.0),1.0,1.3847,4666479505,0,False
-17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas Razorbacks (-2.0),2.0,2.9,4666479504,0,False
-17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Vanderbilt Commodores (-8.5),-8.5,2.4,4637323283,0,False
-17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Vanderbilt Commodores (-9.0),-9.0,2.5,4666479507,0,False
+17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas Razorbacks (-2.0),2.0,2.85,4666479504,0,False
+17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Vanderbilt Commodores (-8.5),-8.5,2.5,4637323283,0,False
+17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Vanderbilt Commodores (-9.0),-9.0,2.55,4666479507,0,False
 17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Vanderbilt Commodores (-2.5),-2.5,1.5,4637323285,0,False
 17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Vanderbilt Commodores (-3.5),-3.5,1.6897,4637323286,0,False
-17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Vanderbilt Commodores (-8.0),-8.0,2.35,4666479509,0,False
-17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Vanderbilt Commodores (-1.5),-1.5,1.4546,4637323288,0,False
+17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Vanderbilt Commodores (-8.0),-8.0,2.4,4666479509,0,False
+17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Vanderbilt Commodores (-1.5),-1.5,1.4762,4637323288,0,False
 17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Vanderbilt Commodores (+3.0),3.0,1.3031,4666632345,0,False
 17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas Razorbacks (-3.0),3.0,3.25,4666632346,0,False
-17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Vanderbilt Commodores (-4.5),-4.5,1.7143,4637323291,0,False
-17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Vanderbilt Commodores (-6.5),-6.5,1.9091,4632362268,0,False
-17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas Razorbacks (+1.5),-1.5,2.6,4637323289,0,False
+17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Vanderbilt Commodores (-4.5),-4.5,1.7408,4637323291,0,False
+17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Vanderbilt Commodores (-6.5),-6.5,1.9524,4632362268,0,False
+17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas Razorbacks (+1.5),-1.5,2.55,4637323289,0,False
 17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Vanderbilt Commodores (-11.5),-11.5,3.0,4637323294,0,False
 17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas Razorbacks (+3.5),-3.5,2.05,4637323287,0,False
-17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas Razorbacks (+4.5),-4.5,2.0,4637323290,0,False
-17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas Razorbacks (+6.5),-6.5,1.7693,4632362269,0,False
+17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas Razorbacks (+4.5),-4.5,1.9524,4637323290,0,False
+17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas Razorbacks (+6.5),-6.5,1.7408,4632362269,0,False
 17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas Razorbacks (+11.5),-11.5,1.3572,4637323295,0,False
 17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas Razorbacks (+11.0),-11.0,1.3847,4666479490,0,False
 17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas Razorbacks (+12.0),-12.0,1.3334,4666479492,0,False
 17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas Razorbacks (+9.5),-9.5,1.4762,4637323276,0,False
 17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas Razorbacks (+13.0),-13.0,1.3125,4666479495,0,False
 17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas Razorbacks (+12.5),-12.5,1.3334,4637323279,0,False
-17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas Razorbacks (+7.0),-7.0,1.6451,4666479499,0,False
-17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas Razorbacks (+8.5),-8.5,1.5264,4637323282,0,False
+17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas Razorbacks (+7.0),-7.0,1.625,4666479499,0,False
+17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas Razorbacks (+8.5),-8.5,1.5,4637323282,0,False
 17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas Razorbacks (-1.5),1.5,2.85,4637323257,0,False
-17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas Razorbacks (+1.0),-1.0,2.65,4666479501,0,False
+17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas Razorbacks (+1.0),-1.0,2.6,4666479501,0,False
 17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas Razorbacks (+6.0),-6.0,1.7693,4633589730,0,False
 17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Vanderbilt Commodores (-6.0),-6.0,1.9091,4633589731,0,False
 17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas Razorbacks (+2.5),-2.5,2.5,4637323284,0,False
-17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas Razorbacks (+8.0),-8.0,1.5455,4666479510,0,False
+17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas Razorbacks (+8.0),-8.0,1.5264,4666479510,0,False
 17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Vanderbilt Commodores (-10.5),-10.5,2.7,4637323246,0,False
 17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas Razorbacks (+10.5),-10.5,1.4167,4637323247,0,False
+17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas Razorbacks (+13.5),-13.5,1.3031,4637323248,0,False
+17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Vanderbilt Commodores (-13.5),-13.5,3.25,4637323249,0,False
 17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas Razorbacks (+5.5),-5.5,1.8334,4637323254,0,True
 17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Vanderbilt Commodores (-5.5),-5.5,1.8334,4637323255,0,True
 17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Vanderbilt Commodores (+1.5),1.5,1.3847,4637323256,0,False
-17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Vanderbilt Commodores (-3.0),-3.0,1.5556,4666479481,0,False
-17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas Razorbacks (+3.0),-3.0,2.3,4666479482,0,False
+17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Vanderbilt Commodores (-3.0),-3.0,1.5715,4666479481,0,False
+17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas Razorbacks (+3.0),-3.0,2.25,4666479482,0,False
 17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Vanderbilt Commodores (-2.0),-2.0,1.4762,4666479483,0,False
 17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas Razorbacks (+2.0),-2.0,2.55,4666479484,0,False
-17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas Razorbacks (+5.0),-5.0,1.9524,4666479485,0,False
-17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Vanderbilt Commodores (-5.0),-5.0,1.7408,4666479486,0,False
+17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas Razorbacks (+5.0),-5.0,1.9091,4666479485,0,False
+17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Vanderbilt Commodores (-5.0),-5.0,1.7693,4666479486,0,False
 17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Arkansas Razorbacks (+4.0),-4.0,2.0,4666479487,0,False
 17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 58.5,58.5,1.3125,4637323394,0,False
 17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 58.5,58.5,3.2,4637323396,0,False
-17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 53.5,53.5,2.35,4637323401,0,False
-17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 53.5,53.5,1.5455,4637323403,0,False
+17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 53.5,53.5,2.4,4637323401,0,False
+17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 53.5,53.5,1.5264,4637323403,0,False
 17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 43.5,43.5,1.5,4637323405,0,False
 17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 43.5,43.5,2.5,4637323407,0,False
 17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 61.5,61.5,1.2223,4637323414,0,False
@@ -1135,18 +853,18 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 47.5,47.5,1.9524,4637323444,0,False
 17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 45.5,45.5,2.15,4637323446,0,False
 17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 45.5,45.5,1.6451,4637323448,0,False
-17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 60.5,60.5,3.5,4637323332,0,False
+17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 60.5,60.5,3.7,4637323332,0,False
 17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 33.5,33.5,1.1429,4666479429,0,False
 17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 32.5,32.5,5.5,4666479430,0,False
 17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 32.5,32.5,1.125,4666479431,0,False
 17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 33.5,33.5,5.0,4666479428,0,False
-17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 60.5,60.5,1.2667,4637323334,0,False
+17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 60.5,60.5,1.25,4637323334,0,False
 17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 40.5,40.5,1.3572,4637323339,0,False
 17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 34.5,34.5,4.4,4643692365,0,False
 17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 34.5,34.5,1.1819,4643692366,0,False
 17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 40.5,40.5,3.0,4637323342,0,False
-17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 56.5,56.5,2.75,4637323344,0,False
-17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 56.5,56.5,1.4,4637323345,0,False
+17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 56.5,56.5,2.85,4637323344,0,False
+17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 56.5,56.5,1.3847,4637323345,0,False
 17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 46.5,46.5,1.6667,4637323349,0,False
 17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 46.5,46.5,2.1,4637323350,0,False
 17803695,Vanderbilt Commodores vs. Arkansas Razorbacks,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 36.5,36.5,1.2223,4637323352,0,False
@@ -1205,22 +923,22 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,BYU Cougars (+6.5),6.5,2.4,4637325732,0,False
 17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Notre Dame Fighting Irish (-13.5),13.5,2.1,4637325729,0,False
 17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,BYU Cougars (+12.0),12.0,1.7143,4666479014,0,False
-17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,BYU Cougars (+5.5),5.5,2.55,4637325734,0,False
+17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,BYU Cougars (+5.5),5.5,2.6,4637325734,0,False
 17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Notre Dame Fighting Irish (-13.0),13.0,2.05,4666479011,0,False
 17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Notre Dame Fighting Irish (-9.5),9.5,1.7408,4637325731,0,False
-17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,BYU Cougars (+3.5),3.5,2.7,4637325738,0,False
+17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,BYU Cougars (+3.5),3.5,2.75,4637325738,0,False
 17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Notre Dame Fighting Irish (-6.5),6.5,1.5264,4637325733,0,False
-17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Notre Dame Fighting Irish (-5.5),5.5,1.4762,4637325735,0,False
-17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Notre Dame Fighting Irish (-3.5),3.5,1.4167,4637325739,0,False
+17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Notre Dame Fighting Irish (-5.5),5.5,1.4546,4637325735,0,False
+17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Notre Dame Fighting Irish (-3.5),3.5,1.4,4637325739,0,False
 17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,BYU Cougars (+12.5),12.5,1.7143,4615776047,0,False
 17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Notre Dame Fighting Irish (-12.5),12.5,2.0,4615776048,0,False
 17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Notre Dame Fighting Irish (-12.0),12.0,2.0,4666479025,0,False
 17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,BYU Cougars (+18.0),18.0,1.4,4666479030,0,False
 17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Notre Dame Fighting Irish (-18.0),18.0,2.75,4666479032,0,False
-17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Notre Dame Fighting Irish (-17.0),17.0,2.6,4666478934,0,False
-17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,BYU Cougars (+17.0),17.0,1.4546,4666478935,0,False
-17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,BYU Cougars (+16.0),16.0,1.5264,4666478937,0,False
-17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Notre Dame Fighting Irish (-16.0),16.0,2.4,4666478940,0,False
+17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Notre Dame Fighting Irish (-17.0),17.0,2.65,4666478934,0,False
+17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,BYU Cougars (+17.0),17.0,1.4348,4666478935,0,False
+17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,BYU Cougars (+16.0),16.0,1.5,4666478937,0,False
+17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Notre Dame Fighting Irish (-16.0),16.0,2.5,4666478940,0,False
 17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,BYU Cougars (+10.5),10.5,1.8334,4633604703,0,True
 17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Notre Dame Fighting Irish (-10.5),10.5,1.8334,4633604704,0,True
 17218028,BYU Cougars vs. Notre Dame Fighting Irish,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,BYU Cougars (+11.0),11.0,1.7693,4666478948,0,False
@@ -1547,12 +1265,12 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17803696,Oklahoma Sooners vs. Kentucky Wildcats,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 38.5,38.5,2.35,4637325823,0,False
 18024883,Stanford Cardinal vs. Elon Phoenix,2026-10-17T23:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Stanford Cardinal,,1.0,4646565633,7,False
 18024883,Stanford Cardinal vs. Elon Phoenix,2026-10-17T23:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Elon Phoenix,,11.0,4646565634,0,False
-18024883,Stanford Cardinal vs. Elon Phoenix,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Stanford Cardinal (-34.5),-34.5,1.8,4666489075,0,True
-18024883,Stanford Cardinal vs. Elon Phoenix,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Elon Phoenix (+34.5),-34.5,1.8696,4666489076,0,True
+18024883,Stanford Cardinal vs. Elon Phoenix,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Stanford Cardinal (-34.5),-34.5,1.8334,4666489075,0,True
+18024883,Stanford Cardinal vs. Elon Phoenix,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Elon Phoenix (+34.5),-34.5,1.8334,4666489076,0,True
 18024883,Stanford Cardinal vs. Elon Phoenix,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 55.5,55.5,1.8696,4666489073,0,True
 18024883,Stanford Cardinal vs. Elon Phoenix,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 55.5,55.5,1.8,4666489074,0,True
-17803686,Syracuse Orange vs. Louisville Cardinals,2026-10-17T23:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Syracuse Orange,,5.0,4632389972,0,False
-17803686,Syracuse Orange vs. Louisville Cardinals,2026-10-17T23:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Louisville Cardinals,,1.125,4632389973,0,False
+17803686,Syracuse Orange vs. Louisville Cardinals,2026-10-17T23:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Syracuse Orange,,4.75,4632389972,0,False
+17803686,Syracuse Orange vs. Louisville Cardinals,2026-10-17T23:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Louisville Cardinals,,1.1334,4632389973,0,False
 17803686,Syracuse Orange vs. Louisville Cardinals,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Syracuse Orange (+12.0),12.0,2.15,4666478848,0,False
 17803686,Syracuse Orange vs. Louisville Cardinals,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Louisville Cardinals (-12.0),12.0,1.6451,4666478854,0,False
 17803686,Syracuse Orange vs. Louisville Cardinals,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Syracuse Orange (+15.0),15.0,1.7408,4666478856,0,False
@@ -1743,124 +1461,124 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Wisconsin Badgers (+8.0),-8.0,1.3031,4666479762,0,False
 17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 28.5,28.5,4.75,4639936001,0,False
 17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 28.5,28.5,1.1539,4639936002,0,False
-17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 40.5,40.5,2.1,4637323395,0,False
-17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 40.5,40.5,1.6667,4637323398,0,False
+17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 40.5,40.5,2.05,4637323395,0,False
+17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 40.5,40.5,1.6897,4637323398,0,False
 17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 43.5,43.5,1.7693,4637323400,0,False
 17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 43.5,43.5,1.9091,4637323402,0,False
-17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 42.5,42.5,1.8,4637323404,0,True
-17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 42.5,42.5,1.8696,4637323406,0,True
+17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 42.5,42.5,1.8334,4637323404,0,True
+17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 42.5,42.5,1.8334,4637323406,0,True
 17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 45.5,45.5,2.25,4637323411,0,False
 17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 45.5,45.5,1.5715,4637323413,0,False
-17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 27.5,27.5,5.0,4649611799,0,False
-17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 27.5,27.5,1.1429,4649611800,0,False
-17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 47.5,47.5,1.5,4637323419,0,False
-17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 47.5,47.5,2.5,4637323421,0,False
-17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 39.5,39.5,2.2,4637323427,0,False
-17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 39.5,39.5,1.625,4637323429,0,False
-17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 30.5,30.5,1.2,4638699174,0,False
-17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 30.5,30.5,4.2,4638699173,0,False
-17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 52.5,52.5,1.2858,4637323432,0,False
-17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 52.5,52.5,3.4,4637323433,0,False
-17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 32.5,32.5,1.2667,4637323434,0,False
-17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 32.5,32.5,3.5,4637323438,0,False
-17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 33.5,33.5,3.25,4637323439,0,False
-17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 33.5,33.5,1.3031,4637323440,0,False
-17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 53.5,53.5,1.2667,4637323441,0,False
-17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 53.5,53.5,3.5,4637323442,0,False
-17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 50.5,50.5,1.3847,4637323443,0,False
-17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 50.5,50.5,2.85,4637323445,0,False
-17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 46.5,46.5,2.25,4633236025,0,False
-17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 46.5,46.5,1.5715,4633236026,0,False
+17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 47.5,47.5,1.4762,4637323419,0,False
+17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 47.5,47.5,2.55,4637323421,0,False
+17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 39.5,39.5,2.15,4637323427,0,False
+17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 39.5,39.5,1.6451,4637323429,0,False
+17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 30.5,30.5,1.2223,4638699174,0,False
+17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 30.5,30.5,4.0,4638699173,0,False
+17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 52.5,52.5,1.2667,4637323432,0,False
+17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 52.5,52.5,3.5,4637323433,0,False
+17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 32.5,32.5,1.2858,4637323434,0,False
+17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 32.5,32.5,3.4,4637323438,0,False
+17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 33.5,33.5,3.2,4637323439,0,False
+17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 33.5,33.5,1.3125,4637323440,0,False
+17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 53.5,53.5,1.25,4637323441,0,False
+17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 53.5,53.5,3.7,4637323442,0,False
+17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 50.5,50.5,1.3572,4637323443,0,False
+17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 50.5,50.5,3.0,4637323445,0,False
+17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 46.5,46.5,2.35,4633236025,0,False
+17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 46.5,46.5,1.5455,4633236026,0,False
 17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 57.5,57.5,1.1539,4637323452,0,False
 17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 57.5,57.5,4.75,4637323453,0,False
-17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 55.5,55.5,4.2,4637323454,0,False
-17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 55.5,55.5,1.2,4637323455,0,False
+17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 55.5,55.5,4.4,4637323454,0,False
+17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 55.5,55.5,1.1819,4637323455,0,False
 17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 35.5,35.5,1.4167,4637323456,0,False
 17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 35.5,35.5,2.7,4637323457,0,False
-17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 37.5,37.5,2.5,4637323458,0,False
-17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 37.5,37.5,1.5,4637323459,0,False
-17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 38.5,38.5,1.5715,4637323460,0,False
-17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 38.5,38.5,2.25,4637323461,0,False
+17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 37.5,37.5,2.4,4637323458,0,False
+17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 37.5,37.5,1.5264,4637323459,0,False
+17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 38.5,38.5,1.625,4637323460,0,False
+17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 38.5,38.5,2.2,4637323461,0,False
 17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 29.5,29.5,4.4,4638706012,0,False
 17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 29.5,29.5,1.1819,4638706013,0,False
-17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 54.5,54.5,1.2353,4637323357,0,False
-17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 54.5,54.5,3.75,4637323362,0,False
-17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 34.5,34.5,1.3572,4637323363,0,False
-17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 34.5,34.5,3.0,4637323364,0,False
-17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 44.5,44.5,2.05,4637323366,0,False
-17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 44.5,44.5,1.6897,4637323368,0,False
+17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 54.5,54.5,1.2223,4637323357,0,False
+17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 54.5,54.5,4.0,4637323362,0,False
+17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 34.5,34.5,1.3847,4637323363,0,False
+17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 34.5,34.5,2.85,4637323364,0,False
+17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 44.5,44.5,2.1,4637323366,0,False
+17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 44.5,44.5,1.6667,4637323368,0,False
 17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 36.5,36.5,2.65,4637323370,0,False
-17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 49.5,49.5,2.7,4615782123,0,False
+17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 49.5,49.5,2.85,4615782123,0,False
 17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 36.5,36.5,1.4348,4637323372,0,False
 17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 48.5,48.5,2.65,4632536429,0,False
 17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 48.5,48.5,1.4348,4632536430,0,False
 17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 56.5,56.5,4.4,4637323375,0,False
-17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 41.5,41.5,1.9091,4637323376,0,False
-17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 49.5,49.5,1.4167,4615782122,0,False
+17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 41.5,41.5,1.8696,4637323376,0,False
+17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 49.5,49.5,1.3847,4615782122,0,False
 17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 56.5,56.5,1.1819,4637323374,0,False
-17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 41.5,41.5,1.7693,4637323379,0,False
-17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 31.5,31.5,3.7,4637323381,0,False
-17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 31.5,31.5,1.25,4637323383,0,False
-17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 51.5,51.5,1.3125,4637323389,0,False
-17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 51.5,51.5,3.2,4637323391,0,False
-18006703,Louisiana-Monroe Warhawks vs. Louisiana Tech Bulldogs,2026-10-18T00:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Louisiana Tech Bulldogs,,1.1112,4632962969,0,False
-18006703,Louisiana-Monroe Warhawks vs. Louisiana Tech Bulldogs,2026-10-18T00:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Louisiana-Monroe Warhawks,,5.25,4632962970,0,False
-18006703,Louisiana-Monroe Warhawks vs. Louisiana Tech Bulldogs,2026-10-18T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana-Monroe Warhawks (+10.5),10.5,2.15,4637326980,0,False
+17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 41.5,41.5,1.8,4637323379,0,False
+17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 31.5,31.5,3.5,4637323381,0,False
+17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 31.5,31.5,1.2667,4637323383,0,False
+17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 51.5,51.5,1.3031,4637323389,0,False
+17803691,UCLA Bruins vs. Wisconsin Badgers,2026-10-17T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 51.5,51.5,3.25,4637323391,0,False
+18006703,Louisiana-Monroe Warhawks vs. Louisiana Tech Bulldogs,2026-10-18T00:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Louisiana Tech Bulldogs,,1.1539,4632962969,0,False
+18006703,Louisiana-Monroe Warhawks vs. Louisiana Tech Bulldogs,2026-10-18T00:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Louisiana-Monroe Warhawks,,4.5,4632962970,0,False
+18006703,Louisiana-Monroe Warhawks vs. Louisiana Tech Bulldogs,2026-10-18T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana-Monroe Warhawks (+10.5),10.5,2.1,4637326980,0,False
 18006703,Louisiana-Monroe Warhawks vs. Louisiana Tech Bulldogs,2026-10-18T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana-Monroe Warhawks (+19.5),19.5,1.4546,4637327110,0,False
+18006703,Louisiana-Monroe Warhawks vs. Louisiana Tech Bulldogs,2026-10-18T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana Tech Bulldogs (-20.5),20.5,2.7,4637326987,0,False
 18006703,Louisiana-Monroe Warhawks vs. Louisiana Tech Bulldogs,2026-10-18T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana Tech Bulldogs (-19.5),19.5,2.6,4637327117,0,False
-18006703,Louisiana-Monroe Warhawks vs. Louisiana Tech Bulldogs,2026-10-18T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana Tech Bulldogs (-11.0),11.0,1.6667,4666478443,0,False
+18006703,Louisiana-Monroe Warhawks vs. Louisiana Tech Bulldogs,2026-10-18T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana-Monroe Warhawks (+20.5),20.5,1.4167,4637326995,0,False
+18006703,Louisiana-Monroe Warhawks vs. Louisiana Tech Bulldogs,2026-10-18T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana Tech Bulldogs (-11.0),11.0,1.6897,4666478443,0,False
 18006703,Louisiana-Monroe Warhawks vs. Louisiana Tech Bulldogs,2026-10-18T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana-Monroe Warhawks (+14.5),14.5,1.7143,4632962971,0,False
 18006703,Louisiana-Monroe Warhawks vs. Louisiana Tech Bulldogs,2026-10-18T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana Tech Bulldogs (-14.5),14.5,2.0,4632962972,0,False
-18006703,Louisiana-Monroe Warhawks vs. Louisiana Tech Bulldogs,2026-10-18T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana Tech Bulldogs (-8.5),8.5,1.5264,4637327268,0,False
-18006703,Louisiana-Monroe Warhawks vs. Louisiana Tech Bulldogs,2026-10-18T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana-Monroe Warhawks (+6.5),6.5,3.0,4637327016,0,False
-18006703,Louisiana-Monroe Warhawks vs. Louisiana Tech Bulldogs,2026-10-18T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana-Monroe Warhawks (+8.5),8.5,2.4,4637327275,0,False
-18006703,Louisiana-Monroe Warhawks vs. Louisiana Tech Bulldogs,2026-10-18T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana Tech Bulldogs (-8.0),8.0,1.5,4666478448,0,False
-18006703,Louisiana-Monroe Warhawks vs. Louisiana Tech Bulldogs,2026-10-18T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana Tech Bulldogs (-6.5),6.5,1.3572,4637327022,0,False
-18006703,Louisiana-Monroe Warhawks vs. Louisiana Tech Bulldogs,2026-10-18T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana-Monroe Warhawks (+7.5),7.5,2.6,4637327281,0,False
-18006703,Louisiana-Monroe Warhawks vs. Louisiana Tech Bulldogs,2026-10-18T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana Tech Bulldogs (-11.5),11.5,1.6897,4637327031,0,False
-18006703,Louisiana-Monroe Warhawks vs. Louisiana Tech Bulldogs,2026-10-18T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana Tech Bulldogs (-7.5),7.5,1.4546,4637327289,0,False
-18006703,Louisiana-Monroe Warhawks vs. Louisiana Tech Bulldogs,2026-10-18T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana Tech Bulldogs (-9.5),9.5,1.5455,4637327164,0,False
-18006703,Louisiana-Monroe Warhawks vs. Louisiana Tech Bulldogs,2026-10-18T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana-Monroe Warhawks (+11.5),11.5,2.05,4637327037,0,False
-18006703,Louisiana-Monroe Warhawks vs. Louisiana Tech Bulldogs,2026-10-18T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana-Monroe Warhawks (+12.5),12.5,1.9524,4637327041,0,False
-18006703,Louisiana-Monroe Warhawks vs. Louisiana Tech Bulldogs,2026-10-18T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana-Monroe Warhawks (+9.5),9.5,2.35,4637327172,0,False
-18006703,Louisiana-Monroe Warhawks vs. Louisiana Tech Bulldogs,2026-10-18T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana Tech Bulldogs (-12.5),12.5,1.7408,4637327046,0,False
+18006703,Louisiana-Monroe Warhawks vs. Louisiana Tech Bulldogs,2026-10-18T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana Tech Bulldogs (-8.5),8.5,1.5556,4637327268,0,False
+18006703,Louisiana-Monroe Warhawks vs. Louisiana Tech Bulldogs,2026-10-18T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana-Monroe Warhawks (+6.5),6.5,2.85,4637327016,0,False
+18006703,Louisiana-Monroe Warhawks vs. Louisiana Tech Bulldogs,2026-10-18T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana-Monroe Warhawks (+8.5),8.5,2.3,4637327275,0,False
+18006703,Louisiana-Monroe Warhawks vs. Louisiana Tech Bulldogs,2026-10-18T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana Tech Bulldogs (-8.0),8.0,1.5264,4666478448,0,False
+18006703,Louisiana-Monroe Warhawks vs. Louisiana Tech Bulldogs,2026-10-18T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana Tech Bulldogs (-6.5),6.5,1.3847,4637327022,0,False
+18006703,Louisiana-Monroe Warhawks vs. Louisiana Tech Bulldogs,2026-10-18T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana-Monroe Warhawks (+7.5),7.5,2.5,4637327281,0,False
+18006703,Louisiana-Monroe Warhawks vs. Louisiana Tech Bulldogs,2026-10-18T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana Tech Bulldogs (-11.5),11.5,1.7143,4637327031,0,False
+18006703,Louisiana-Monroe Warhawks vs. Louisiana Tech Bulldogs,2026-10-18T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana Tech Bulldogs (-7.5),7.5,1.5,4637327289,0,False
+18006703,Louisiana-Monroe Warhawks vs. Louisiana Tech Bulldogs,2026-10-18T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana Tech Bulldogs (-9.5),9.5,1.5715,4637327164,0,False
+18006703,Louisiana-Monroe Warhawks vs. Louisiana Tech Bulldogs,2026-10-18T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana-Monroe Warhawks (+11.5),11.5,2.0,4637327037,0,False
+18006703,Louisiana-Monroe Warhawks vs. Louisiana Tech Bulldogs,2026-10-18T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana-Monroe Warhawks (+12.5),12.5,1.9091,4637327041,0,False
+18006703,Louisiana-Monroe Warhawks vs. Louisiana Tech Bulldogs,2026-10-18T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana-Monroe Warhawks (+9.5),9.5,2.25,4637327172,0,False
+18006703,Louisiana-Monroe Warhawks vs. Louisiana Tech Bulldogs,2026-10-18T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana Tech Bulldogs (-12.5),12.5,1.7693,4637327046,0,False
 18006703,Louisiana-Monroe Warhawks vs. Louisiana Tech Bulldogs,2026-10-18T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana Tech Bulldogs (-13.5),13.5,1.8334,4637326967,0,True
 18006703,Louisiana-Monroe Warhawks vs. Louisiana Tech Bulldogs,2026-10-18T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana-Monroe Warhawks (+15.5),15.5,1.6667,4637327054,0,False
-18006703,Louisiana-Monroe Warhawks vs. Louisiana Tech Bulldogs,2026-10-18T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana Tech Bulldogs (-7.0),7.0,1.3847,4666651887,0,False
+18006703,Louisiana-Monroe Warhawks vs. Louisiana Tech Bulldogs,2026-10-18T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana Tech Bulldogs (-7.0),7.0,1.4167,4666651887,0,False
 18006703,Louisiana-Monroe Warhawks vs. Louisiana Tech Bulldogs,2026-10-18T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana Tech Bulldogs (-15.5),15.5,2.1,4637327067,0,False
-18006703,Louisiana-Monroe Warhawks vs. Louisiana Tech Bulldogs,2026-10-18T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana Tech Bulldogs (-19.0),19.0,2.55,4666478428,0,False
-18006703,Louisiana-Monroe Warhawks vs. Louisiana Tech Bulldogs,2026-10-18T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana-Monroe Warhawks (+19.0),19.0,1.4762,4666478429,0,False
+18006703,Louisiana-Monroe Warhawks vs. Louisiana Tech Bulldogs,2026-10-18T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana Tech Bulldogs (-19.0),19.0,2.6,4666478428,0,False
+18006703,Louisiana-Monroe Warhawks vs. Louisiana Tech Bulldogs,2026-10-18T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana-Monroe Warhawks (+19.0),19.0,1.4546,4666478429,0,False
 18006703,Louisiana-Monroe Warhawks vs. Louisiana Tech Bulldogs,2026-10-18T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana-Monroe Warhawks (+17.0),17.0,1.5715,4666478430,0,False
 18006703,Louisiana-Monroe Warhawks vs. Louisiana Tech Bulldogs,2026-10-18T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana Tech Bulldogs (-17.0),17.0,2.25,4666478431,0,False
 18006703,Louisiana-Monroe Warhawks vs. Louisiana Tech Bulldogs,2026-10-18T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana-Monroe Warhawks (+18.0),18.0,1.5264,4666478432,0,False
 18006703,Louisiana-Monroe Warhawks vs. Louisiana Tech Bulldogs,2026-10-18T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana-Monroe Warhawks (+16.5),16.5,1.6451,4637327073,0,False
 18006703,Louisiana-Monroe Warhawks vs. Louisiana Tech Bulldogs,2026-10-18T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana-Monroe Warhawks (+15.0),15.0,1.6897,4666478434,0,False
 18006703,Louisiana-Monroe Warhawks vs. Louisiana Tech Bulldogs,2026-10-18T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana Tech Bulldogs (-18.0),18.0,2.4,4666478433,0,False
-18006703,Louisiana-Monroe Warhawks vs. Louisiana Tech Bulldogs,2026-10-18T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana-Monroe Warhawks (+16.0),16.0,1.6667,4666478436,0,False
-18006703,Louisiana-Monroe Warhawks vs. Louisiana Tech Bulldogs,2026-10-18T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana Tech Bulldogs (-16.0),16.0,2.1,4666478437,0,False
+18006703,Louisiana-Monroe Warhawks vs. Louisiana Tech Bulldogs,2026-10-18T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana-Monroe Warhawks (+16.0),16.0,1.6451,4666478436,0,False
+18006703,Louisiana-Monroe Warhawks vs. Louisiana Tech Bulldogs,2026-10-18T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana Tech Bulldogs (-16.0),16.0,2.15,4666478437,0,False
 18006703,Louisiana-Monroe Warhawks vs. Louisiana Tech Bulldogs,2026-10-18T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana-Monroe Warhawks (+13.0),13.0,1.9091,4666478438,0,False
 18006703,Louisiana-Monroe Warhawks vs. Louisiana Tech Bulldogs,2026-10-18T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana Tech Bulldogs (-16.5),16.5,2.15,4637327079,0,False
 18006703,Louisiana-Monroe Warhawks vs. Louisiana Tech Bulldogs,2026-10-18T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana-Monroe Warhawks (+14.0),14.0,1.7693,4666478440,0,False
 18006703,Louisiana-Monroe Warhawks vs. Louisiana Tech Bulldogs,2026-10-18T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana Tech Bulldogs (-15.0),15.0,2.05,4666478435,0,False
-18006703,Louisiana-Monroe Warhawks vs. Louisiana Tech Bulldogs,2026-10-18T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana-Monroe Warhawks (+11.0),11.0,2.1,4666478442,0,False
-18006703,Louisiana-Monroe Warhawks vs. Louisiana Tech Bulldogs,2026-10-18T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana-Monroe Warhawks (+17.5),17.5,1.5556,4637327083,0,False
-18006703,Louisiana-Monroe Warhawks vs. Louisiana Tech Bulldogs,2026-10-18T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana-Monroe Warhawks (+12.0),12.0,2.0,4666478444,0,False
-18006703,Louisiana-Monroe Warhawks vs. Louisiana Tech Bulldogs,2026-10-18T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana-Monroe Warhawks (+7.0),7.0,2.85,4666651882,0,False
+18006703,Louisiana-Monroe Warhawks vs. Louisiana Tech Bulldogs,2026-10-18T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana-Monroe Warhawks (+11.0),11.0,2.05,4666478442,0,False
+18006703,Louisiana-Monroe Warhawks vs. Louisiana Tech Bulldogs,2026-10-18T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana-Monroe Warhawks (+17.5),17.5,1.5455,4637327083,0,False
+18006703,Louisiana-Monroe Warhawks vs. Louisiana Tech Bulldogs,2026-10-18T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana-Monroe Warhawks (+12.0),12.0,1.9524,4666478444,0,False
+18006703,Louisiana-Monroe Warhawks vs. Louisiana Tech Bulldogs,2026-10-18T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana-Monroe Warhawks (+7.0),7.0,2.7,4666651882,0,False
 18006703,Louisiana-Monroe Warhawks vs. Louisiana Tech Bulldogs,2026-10-18T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana Tech Bulldogs (-14.0),14.0,1.9091,4666478441,0,False
-18006703,Louisiana-Monroe Warhawks vs. Louisiana Tech Bulldogs,2026-10-18T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana-Monroe Warhawks (+10.0),10.0,2.25,4666478447,0,False
+18006703,Louisiana-Monroe Warhawks vs. Louisiana Tech Bulldogs,2026-10-18T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana-Monroe Warhawks (+10.0),10.0,2.2,4666478447,0,False
 18006703,Louisiana-Monroe Warhawks vs. Louisiana Tech Bulldogs,2026-10-18T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana Tech Bulldogs (-13.0),13.0,1.7693,4666478439,0,False
-18006703,Louisiana-Monroe Warhawks vs. Louisiana Tech Bulldogs,2026-10-18T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana-Monroe Warhawks (+8.0),8.0,2.5,4666478449,0,False
-18006703,Louisiana-Monroe Warhawks vs. Louisiana Tech Bulldogs,2026-10-18T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana Tech Bulldogs (-17.5),17.5,2.3,4637327089,0,False
-18006703,Louisiana-Monroe Warhawks vs. Louisiana Tech Bulldogs,2026-10-18T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana-Monroe Warhawks (+9.0),9.0,2.35,4666478451,0,False
-18006703,Louisiana-Monroe Warhawks vs. Louisiana Tech Bulldogs,2026-10-18T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana Tech Bulldogs (-12.0),12.0,1.7143,4666478445,0,False
-18006703,Louisiana-Monroe Warhawks vs. Louisiana Tech Bulldogs,2026-10-18T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana Tech Bulldogs (-10.0),10.0,1.5715,4666478446,0,False
+18006703,Louisiana-Monroe Warhawks vs. Louisiana Tech Bulldogs,2026-10-18T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana-Monroe Warhawks (+8.0),8.0,2.4,4666478449,0,False
+18006703,Louisiana-Monroe Warhawks vs. Louisiana Tech Bulldogs,2026-10-18T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana Tech Bulldogs (-17.5),17.5,2.35,4637327089,0,False
+18006703,Louisiana-Monroe Warhawks vs. Louisiana Tech Bulldogs,2026-10-18T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana-Monroe Warhawks (+9.0),9.0,2.3,4666478451,0,False
+18006703,Louisiana-Monroe Warhawks vs. Louisiana Tech Bulldogs,2026-10-18T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana Tech Bulldogs (-12.0),12.0,1.7408,4666478445,0,False
+18006703,Louisiana-Monroe Warhawks vs. Louisiana Tech Bulldogs,2026-10-18T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana Tech Bulldogs (-10.0),10.0,1.625,4666478446,0,False
 18006703,Louisiana-Monroe Warhawks vs. Louisiana Tech Bulldogs,2026-10-18T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana Tech Bulldogs (-20.0),20.0,2.65,4666478454,0,False
 18006703,Louisiana-Monroe Warhawks vs. Louisiana Tech Bulldogs,2026-10-18T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana-Monroe Warhawks (+20.0),20.0,1.4348,4666478455,0,False
 18006703,Louisiana-Monroe Warhawks vs. Louisiana Tech Bulldogs,2026-10-18T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana-Monroe Warhawks (+18.5),18.5,1.5,4637327096,0,False
-18006703,Louisiana-Monroe Warhawks vs. Louisiana Tech Bulldogs,2026-10-18T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana Tech Bulldogs (-9.0),9.0,1.5455,4666478450,0,False
+18006703,Louisiana-Monroe Warhawks vs. Louisiana Tech Bulldogs,2026-10-18T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana Tech Bulldogs (-9.0),9.0,1.5556,4666478450,0,False
 18006703,Louisiana-Monroe Warhawks vs. Louisiana Tech Bulldogs,2026-10-18T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana-Monroe Warhawks (+13.5),13.5,1.8334,4637326970,0,True
 18006703,Louisiana-Monroe Warhawks vs. Louisiana Tech Bulldogs,2026-10-18T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana Tech Bulldogs (-18.5),18.5,2.5,4637327101,0,False
-18006703,Louisiana-Monroe Warhawks vs. Louisiana Tech Bulldogs,2026-10-18T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana Tech Bulldogs (-10.5),10.5,1.6451,4637326974,0,False
+18006703,Louisiana-Monroe Warhawks vs. Louisiana Tech Bulldogs,2026-10-18T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Louisiana Tech Bulldogs (-10.5),10.5,1.6667,4637326974,0,False
 18006703,Louisiana-Monroe Warhawks vs. Louisiana Tech Bulldogs,2026-10-18T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 58.5,58.5,1.6667,4637326849,0,False
 18006703,Louisiana-Monroe Warhawks vs. Louisiana Tech Bulldogs,2026-10-18T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 60.5,60.5,1.5715,4637326750,0,False
 18006703,Louisiana-Monroe Warhawks vs. Louisiana Tech Bulldogs,2026-10-18T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 66.5,66.5,1.3031,4637326854,0,False
@@ -1994,9 +1712,9 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 18005411,UT San Antonio Roadrunners vs. Navy Midshipmen,2026-10-18T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,Navy Midshipmen (+5.5),-5.5,2.0,4637327221,0,False
 18005411,UT San Antonio Roadrunners vs. Navy Midshipmen,2026-10-18T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,UT San Antonio Roadrunners (+1.0),1.0,1.3334,4666479097,0,False
 18005411,UT San Antonio Roadrunners vs. Navy Midshipmen,2026-10-18T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 51.5,51.5,1.6667,4637327494,0,False
-18005411,UT San Antonio Roadrunners vs. Navy Midshipmen,2026-10-18T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 53.5,53.5,1.7693,4637327496,0,False
+18005411,UT San Antonio Roadrunners vs. Navy Midshipmen,2026-10-18T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 53.5,53.5,1.7408,4637327496,0,False
 18005411,UT San Antonio Roadrunners vs. Navy Midshipmen,2026-10-18T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 40.5,40.5,4.2,4637327626,0,False
-18005411,UT San Antonio Roadrunners vs. Navy Midshipmen,2026-10-18T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 53.5,53.5,1.9091,4637327499,0,False
+18005411,UT San Antonio Roadrunners vs. Navy Midshipmen,2026-10-18T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 53.5,53.5,1.9524,4637327499,0,False
 18005411,UT San Antonio Roadrunners vs. Navy Midshipmen,2026-10-18T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 40.5,40.5,1.2,4637327630,0,False
 18005411,UT San Antonio Roadrunners vs. Navy Midshipmen,2026-10-18T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 46.5,46.5,2.85,4637327635,0,False
 18005411,UT San Antonio Roadrunners vs. Navy Midshipmen,2026-10-18T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 50.5,50.5,2.25,4637327509,0,False
@@ -2121,8 +1839,8 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 18006722,UTEP Miners vs. San Jose State Spartans,2026-10-18T01:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 48.5,48.5,1.6451,4633829015,0,False
 18006722,UTEP Miners vs. San Jose State Spartans,2026-10-18T01:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 32.5,32.5,4.4,4639197852,0,False
 18006722,UTEP Miners vs. San Jose State Spartans,2026-10-18T01:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 32.5,32.5,1.1819,4639197853,0,False
-18006722,UTEP Miners vs. San Jose State Spartans,2026-10-18T01:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 51.5,51.5,2.6,4633413811,0,False
-18006722,UTEP Miners vs. San Jose State Spartans,2026-10-18T01:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 51.5,51.5,1.4546,4633413812,0,False
+18006722,UTEP Miners vs. San Jose State Spartans,2026-10-18T01:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 51.5,51.5,2.55,4633413811,0,False
+18006722,UTEP Miners vs. San Jose State Spartans,2026-10-18T01:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 51.5,51.5,1.4762,4633413812,0,False
 18006722,UTEP Miners vs. San Jose State Spartans,2026-10-18T01:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 39.5,39.5,1.4348,4637328568,0,False
 18006722,UTEP Miners vs. San Jose State Spartans,2026-10-18T01:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 39.5,39.5,2.65,4637328569,0,False
 18006722,UTEP Miners vs. San Jose State Spartans,2026-10-18T01:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 38.5,38.5,1.4167,4637328570,0,False
@@ -2139,23 +1857,23 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 18006722,UTEP Miners vs. San Jose State Spartans,2026-10-18T01:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 34.5,34.5,3.7,4637328581,0,False
 18006722,UTEP Miners vs. San Jose State Spartans,2026-10-18T01:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 43.5,43.5,1.6451,4637328582,0,False
 18006722,UTEP Miners vs. San Jose State Spartans,2026-10-18T01:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 43.5,43.5,2.15,4637328583,0,False
-18006722,UTEP Miners vs. San Jose State Spartans,2026-10-18T01:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 42.5,42.5,2.2,4637328584,0,False
-18006722,UTEP Miners vs. San Jose State Spartans,2026-10-18T01:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 42.5,42.5,1.625,4637328585,0,False
+18006722,UTEP Miners vs. San Jose State Spartans,2026-10-18T01:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 42.5,42.5,2.25,4637328584,0,False
+18006722,UTEP Miners vs. San Jose State Spartans,2026-10-18T01:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 42.5,42.5,1.5715,4637328585,0,False
 18006722,UTEP Miners vs. San Jose State Spartans,2026-10-18T01:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 41.5,41.5,1.5715,4637328586,0,False
 18006722,UTEP Miners vs. San Jose State Spartans,2026-10-18T01:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 41.5,41.5,2.25,4637328587,0,False
 18006722,UTEP Miners vs. San Jose State Spartans,2026-10-18T01:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 40.5,40.5,1.4762,4637328588,0,False
 18006722,UTEP Miners vs. San Jose State Spartans,2026-10-18T01:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 40.5,40.5,2.55,4637328589,0,False
-18006722,UTEP Miners vs. San Jose State Spartans,2026-10-18T01:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 47.5,47.5,2.05,4637328590,0,False
+18006722,UTEP Miners vs. San Jose State Spartans,2026-10-18T01:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 47.5,47.5,2.0,4637328590,0,False
 18006722,UTEP Miners vs. San Jose State Spartans,2026-10-18T01:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 49.5,49.5,2.25,4633606862,0,False
-18006722,UTEP Miners vs. San Jose State Spartans,2026-10-18T01:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 46.5,46.5,1.7143,4637328592,0,False
-18006722,UTEP Miners vs. San Jose State Spartans,2026-10-18T01:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 46.5,46.5,2.0,4637328593,0,False
+18006722,UTEP Miners vs. San Jose State Spartans,2026-10-18T01:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 46.5,46.5,1.7408,4637328592,0,False
+18006722,UTEP Miners vs. San Jose State Spartans,2026-10-18T01:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 46.5,46.5,1.9524,4637328593,0,False
 18006722,UTEP Miners vs. San Jose State Spartans,2026-10-18T01:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 45.5,45.5,1.8334,4637328594,0,True
 18006722,UTEP Miners vs. San Jose State Spartans,2026-10-18T01:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 45.5,45.5,1.8334,4637328595,0,True
 18006722,UTEP Miners vs. San Jose State Spartans,2026-10-18T01:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 44.5,44.5,1.7408,4637328596,0,False
 18006722,UTEP Miners vs. San Jose State Spartans,2026-10-18T01:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 44.5,44.5,1.9524,4637328597,0,False
 18006722,UTEP Miners vs. San Jose State Spartans,2026-10-18T01:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 57.5,57.5,3.7,4637328598,0,False
-18006722,UTEP Miners vs. San Jose State Spartans,2026-10-18T01:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 47.5,47.5,1.6897,4637328591,0,False
-18006722,UTEP Miners vs. San Jose State Spartans,2026-10-18T01:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 59.5,59.5,4.4,4637328600,0,False
+18006722,UTEP Miners vs. San Jose State Spartans,2026-10-18T01:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 47.5,47.5,1.7143,4637328591,0,False
+18006722,UTEP Miners vs. San Jose State Spartans,2026-10-18T01:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 59.5,59.5,4.2,4637328600,0,False
 18006722,UTEP Miners vs. San Jose State Spartans,2026-10-18T01:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 57.5,57.5,1.25,4637328599,0,False
 18006722,UTEP Miners vs. San Jose State Spartans,2026-10-18T01:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 56.5,56.5,1.2858,4637328602,0,False
 18006722,UTEP Miners vs. San Jose State Spartans,2026-10-18T01:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 56.5,56.5,3.4,4637328603,0,False
@@ -2167,13 +1885,15 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 18006722,UTEP Miners vs. San Jose State Spartans,2026-10-18T01:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 30.5,30.5,5.25,4655728732,0,False
 18006722,UTEP Miners vs. San Jose State Spartans,2026-10-18T01:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 31.5,31.5,4.4,4642059746,0,False
 18006722,UTEP Miners vs. San Jose State Spartans,2026-10-18T01:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 31.5,31.5,1.1819,4642059747,0,False
+18006722,UTEP Miners vs. San Jose State Spartans,2026-10-18T01:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 60.5,60.5,4.4,4637328611,0,False
 18006722,UTEP Miners vs. San Jose State Spartans,2026-10-18T01:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 49.5,49.5,1.5715,4633606863,0,False
 18006722,UTEP Miners vs. San Jose State Spartans,2026-10-18T01:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 50.5,50.5,1.5455,4633423326,0,False
 18006722,UTEP Miners vs. San Jose State Spartans,2026-10-18T01:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 54.5,54.5,1.3572,4637328609,0,False
 18006722,UTEP Miners vs. San Jose State Spartans,2026-10-18T01:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 55.5,55.5,1.3031,4637328607,0,False
-18006722,UTEP Miners vs. San Jose State Spartans,2026-10-18T01:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 59.5,59.5,1.1819,4637328601,0,False
-18006722,UTEP Miners vs. San Jose State Spartans,2026-10-18T01:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 53.5,53.5,2.85,4637328620,0,False
-18006722,UTEP Miners vs. San Jose State Spartans,2026-10-18T01:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 53.5,53.5,1.3847,4637328621,0,False
+18006722,UTEP Miners vs. San Jose State Spartans,2026-10-18T01:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 59.5,59.5,1.2,4637328601,0,False
+18006722,UTEP Miners vs. San Jose State Spartans,2026-10-18T01:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 60.5,60.5,1.1819,4637328610,0,False
+18006722,UTEP Miners vs. San Jose State Spartans,2026-10-18T01:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 53.5,53.5,2.75,4637328620,0,False
+18006722,UTEP Miners vs. San Jose State Spartans,2026-10-18T01:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 53.5,53.5,1.4,4637328621,0,False
 18006722,UTEP Miners vs. San Jose State Spartans,2026-10-18T01:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 52.5,52.5,1.4167,4633006577,0,False
 18006722,UTEP Miners vs. San Jose State Spartans,2026-10-18T01:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 52.5,52.5,2.7,4633006578,0,False
 18006722,UTEP Miners vs. San Jose State Spartans,2026-10-18T01:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 58.5,58.5,1.2223,4637328605,0,False
@@ -2641,46 +2361,46 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 18005378,Hawaii Rainbow Warriors vs. NOUVEAU MEXIQUE,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 46.5,46.5,1.7143,4633413837,0,False
 17803702,San Diego State Aztecs vs. FRESNO,2026-10-18T02:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,San Diego State Aztecs,,2.95,4632362352,0,False
 17803702,San Diego State Aztecs vs. FRESNO,2026-10-18T02:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,FRESNO,,1.3334,4632362351,0,False
-17803702,San Diego State Aztecs vs. FRESNO,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,FRESNO (-4.0),4.0,1.5,4666483044,0,False
-17803702,San Diego State Aztecs vs. FRESNO,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,San Diego State Aztecs (+2.0),2.0,3.25,4666640405,0,False
-17803702,San Diego State Aztecs vs. FRESNO,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,FRESNO (-2.0),2.0,1.3031,4666640406,0,False
-17803702,San Diego State Aztecs vs. FRESNO,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,San Diego State Aztecs (+9.5),9.5,1.6897,4633377946,0,False
-17803702,San Diego State Aztecs vs. FRESNO,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,FRESNO (-9.5),9.5,2.05,4633377947,0,False
-17803702,San Diego State Aztecs vs. FRESNO,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,San Diego State Aztecs (+10.5),10.5,1.5715,4637336889,0,False
-17803702,San Diego State Aztecs vs. FRESNO,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,FRESNO (-10.5),10.5,2.25,4637336891,0,False
-17803702,San Diego State Aztecs vs. FRESNO,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,San Diego State Aztecs (+11.5),11.5,1.5264,4637336900,0,False
-17803702,San Diego State Aztecs vs. FRESNO,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,FRESNO (-11.5),11.5,2.4,4637336902,0,False
-17803702,San Diego State Aztecs vs. FRESNO,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,FRESNO (-8.0),8.0,2.0,4666483033,0,False
-17803702,San Diego State Aztecs vs. FRESNO,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,San Diego State Aztecs (+7.0),7.0,1.9524,4666483029,0,True
-17803702,San Diego State Aztecs vs. FRESNO,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,FRESNO (-7.0),7.0,1.7408,4666483030,0,True
-17803702,San Diego State Aztecs vs. FRESNO,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,San Diego State Aztecs (+2.5),2.5,3.1,4637336921,0,False
-17803702,San Diego State Aztecs vs. FRESNO,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,San Diego State Aztecs (+8.0),8.0,1.7143,4666483034,0,False
-17803702,San Diego State Aztecs vs. FRESNO,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,FRESNO (-11.0),11.0,2.3,4666483035,0,False
-17803702,San Diego State Aztecs vs. FRESNO,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,San Diego State Aztecs (+3.5),3.5,2.55,4637336924,0,False
-17803702,San Diego State Aztecs vs. FRESNO,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,San Diego State Aztecs (+11.0),11.0,1.5556,4666483036,0,False
-17803702,San Diego State Aztecs vs. FRESNO,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,San Diego State Aztecs (+10.0),10.0,1.6451,4666483038,0,False
-17803702,San Diego State Aztecs vs. FRESNO,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,FRESNO (-10.0),10.0,2.15,4666483037,0,False
-17803702,San Diego State Aztecs vs. FRESNO,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,San Diego State Aztecs (+5.0),5.0,2.3,4666483040,0,False
-17803702,San Diego State Aztecs vs. FRESNO,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,San Diego State Aztecs (+3.0),3.0,2.9,4666483041,0,False
-17803702,San Diego State Aztecs vs. FRESNO,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,San Diego State Aztecs (+6.5),6.5,2.15,4637336930,0,False
-17803702,San Diego State Aztecs vs. FRESNO,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,San Diego State Aztecs (+4.0),4.0,2.5,4666483043,0,False
-17803702,San Diego State Aztecs vs. FRESNO,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,FRESNO (-6.5),6.5,1.6451,4637336927,0,False
-17803702,San Diego State Aztecs vs. FRESNO,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,San Diego State Aztecs (+6.0),6.0,2.2,4666483045,0,False
-17803702,San Diego State Aztecs vs. FRESNO,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,San Diego State Aztecs (+7.5),7.5,1.7143,4637316326,0,False
-17803702,San Diego State Aztecs vs. FRESNO,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,San Diego State Aztecs (+9.0),9.0,1.6897,4666483047,0,False
-17803702,San Diego State Aztecs vs. FRESNO,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,FRESNO (-9.0),9.0,2.05,4666483048,0,False
-17803702,San Diego State Aztecs vs. FRESNO,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,FRESNO (-7.5),7.5,2.0,4637316325,0,False
-17803702,San Diego State Aztecs vs. FRESNO,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,FRESNO (-6.0),6.0,1.625,4666483046,0,False
-17803702,San Diego State Aztecs vs. FRESNO,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,San Diego State Aztecs (+4.5),4.5,2.35,4637336939,0,False
-17803702,San Diego State Aztecs vs. FRESNO,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,FRESNO (-5.0),5.0,1.5556,4666483039,0,False
-17803702,San Diego State Aztecs vs. FRESNO,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,FRESNO (-8.5),8.5,2.0,4632362349,0,True
-17803702,San Diego State Aztecs vs. FRESNO,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,San Diego State Aztecs (+8.5),8.5,1.7143,4632362350,0,True
-17803702,San Diego State Aztecs vs. FRESNO,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,San Diego State Aztecs (+5.5),5.5,2.25,4637336943,0,False
-17803702,San Diego State Aztecs vs. FRESNO,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,FRESNO (-5.5),5.5,1.5715,4637336941,0,False
-17803702,San Diego State Aztecs vs. FRESNO,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,FRESNO (-4.5),4.5,1.5455,4637336937,0,False
-17803702,San Diego State Aztecs vs. FRESNO,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,FRESNO (-2.5),2.5,1.3334,4637336923,0,False
-17803702,San Diego State Aztecs vs. FRESNO,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,FRESNO (-3.0),3.0,1.3637,4666483042,0,False
-17803702,San Diego State Aztecs vs. FRESNO,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,FRESNO (-3.5),3.5,1.4762,4637336925,0,False
+17803702,San Diego State Aztecs vs. FRESNO,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,FRESNO (-4.0),4.0,1.5455,4666483044,0,False
+17803702,San Diego State Aztecs vs. FRESNO,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,San Diego State Aztecs (+2.0),2.0,3.1,4666640405,0,False
+17803702,San Diego State Aztecs vs. FRESNO,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,FRESNO (-2.0),2.0,1.3334,4666640406,0,False
+17803702,San Diego State Aztecs vs. FRESNO,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,San Diego State Aztecs (+9.5),9.5,1.6451,4633377946,0,False
+17803702,San Diego State Aztecs vs. FRESNO,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,FRESNO (-9.5),9.5,2.15,4633377947,0,False
+17803702,San Diego State Aztecs vs. FRESNO,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,San Diego State Aztecs (+10.5),10.5,1.5556,4637336889,0,False
+17803702,San Diego State Aztecs vs. FRESNO,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,FRESNO (-10.5),10.5,2.3,4637336891,0,False
+17803702,San Diego State Aztecs vs. FRESNO,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,San Diego State Aztecs (+11.5),11.5,1.4762,4637336900,0,False
+17803702,San Diego State Aztecs vs. FRESNO,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,FRESNO (-11.5),11.5,2.55,4637336902,0,False
+17803702,San Diego State Aztecs vs. FRESNO,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,FRESNO (-8.0),8.0,2.1,4666483033,0,False
+17803702,San Diego State Aztecs vs. FRESNO,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,San Diego State Aztecs (+7.0),7.0,1.8334,4666483029,0,True
+17803702,San Diego State Aztecs vs. FRESNO,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,FRESNO (-7.0),7.0,1.8334,4666483030,0,True
+17803702,San Diego State Aztecs vs. FRESNO,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,San Diego State Aztecs (+2.5),2.5,3.0,4637336921,0,False
+17803702,San Diego State Aztecs vs. FRESNO,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,San Diego State Aztecs (+8.0),8.0,1.6667,4666483034,0,False
+17803702,San Diego State Aztecs vs. FRESNO,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,FRESNO (-11.0),11.0,2.4,4666483035,0,False
+17803702,San Diego State Aztecs vs. FRESNO,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,San Diego State Aztecs (+3.5),3.5,2.4,4637336924,0,False
+17803702,San Diego State Aztecs vs. FRESNO,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,San Diego State Aztecs (+11.0),11.0,1.5264,4666483036,0,False
+17803702,San Diego State Aztecs vs. FRESNO,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,San Diego State Aztecs (+10.0),10.0,1.5715,4666483038,0,False
+17803702,San Diego State Aztecs vs. FRESNO,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,FRESNO (-10.0),10.0,2.25,4666483037,0,False
+17803702,San Diego State Aztecs vs. FRESNO,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,San Diego State Aztecs (+5.0),5.0,2.2,4666483040,0,False
+17803702,San Diego State Aztecs vs. FRESNO,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,San Diego State Aztecs (+3.0),3.0,2.7,4666483041,0,False
+17803702,San Diego State Aztecs vs. FRESNO,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,San Diego State Aztecs (+6.5),6.5,2.05,4637336930,0,False
+17803702,San Diego State Aztecs vs. FRESNO,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,San Diego State Aztecs (+4.0),4.0,2.35,4666483043,0,False
+17803702,San Diego State Aztecs vs. FRESNO,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,FRESNO (-6.5),6.5,1.6897,4637336927,0,False
+17803702,San Diego State Aztecs vs. FRESNO,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,San Diego State Aztecs (+6.0),6.0,2.1,4666483045,0,False
+17803702,San Diego State Aztecs vs. FRESNO,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,San Diego State Aztecs (+7.5),7.5,1.7143,4637316326,0,True
+17803702,San Diego State Aztecs vs. FRESNO,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,San Diego State Aztecs (+9.0),9.0,1.6451,4666483047,0,False
+17803702,San Diego State Aztecs vs. FRESNO,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,FRESNO (-9.0),9.0,2.15,4666483048,0,False
+17803702,San Diego State Aztecs vs. FRESNO,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,FRESNO (-7.5),7.5,2.0,4637316325,0,True
+17803702,San Diego State Aztecs vs. FRESNO,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,FRESNO (-6.0),6.0,1.6667,4666483046,0,False
+17803702,San Diego State Aztecs vs. FRESNO,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,San Diego State Aztecs (+4.5),4.5,2.25,4637336939,0,False
+17803702,San Diego State Aztecs vs. FRESNO,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,FRESNO (-5.0),5.0,1.625,4666483039,0,False
+17803702,San Diego State Aztecs vs. FRESNO,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,FRESNO (-8.5),8.5,2.1,4632362349,0,False
+17803702,San Diego State Aztecs vs. FRESNO,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,San Diego State Aztecs (+8.5),8.5,1.6667,4632362350,0,False
+17803702,San Diego State Aztecs vs. FRESNO,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,San Diego State Aztecs (+5.5),5.5,2.2,4637336943,0,False
+17803702,San Diego State Aztecs vs. FRESNO,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,FRESNO (-5.5),5.5,1.625,4637336941,0,False
+17803702,San Diego State Aztecs vs. FRESNO,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,FRESNO (-4.5),4.5,1.5715,4637336937,0,False
+17803702,San Diego State Aztecs vs. FRESNO,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,FRESNO (-2.5),2.5,1.3572,4637336923,0,False
+17803702,San Diego State Aztecs vs. FRESNO,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,FRESNO (-3.0),3.0,1.4167,4666483042,0,False
+17803702,San Diego State Aztecs vs. FRESNO,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,FRESNO (-3.5),3.5,1.5264,4637336925,0,False
 17803702,San Diego State Aztecs vs. FRESNO,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 39.5,39.5,2.65,4637336960,0,False
 17803702,San Diego State Aztecs vs. FRESNO,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 39.5,39.5,1.4348,4637336961,0,False
 17803702,San Diego State Aztecs vs. FRESNO,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 55.5,55.5,1.3031,4637336963,0,False
@@ -2977,3 +2697,9 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17883364,Auburn Tigers vs. LSU Tigers,2026-10-24T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,Auburn Tigers (+6.5),6.5,1.8696,4658391239,7,True
 17883364,Auburn Tigers vs. LSU Tigers,2026-10-24T16:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 50.5,50.5,1.8334,4658391872,7,True
 17883364,Auburn Tigers vs. LSU Tigers,2026-10-24T16:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 50.5,50.5,1.8334,4658391873,7,True
+17332031,Alabama Crimson Tide vs. Texas A&M Aggies,2026-10-24T19:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Alabama Crimson Tide,,1.1112,4322352042,0,False
+17332031,Alabama Crimson Tide vs. Texas A&M Aggies,2026-10-24T19:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Texas A&M Aggies,,5.25,4322352043,0,False
+17332031,Alabama Crimson Tide vs. Texas A&M Aggies,2026-10-24T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Alabama Crimson Tide (-15.5),-15.5,1.8,4395046458,0,True
+17332031,Alabama Crimson Tide vs. Texas A&M Aggies,2026-10-24T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Texas A&M Aggies (+15.5),-15.5,1.8696,4395046459,0,True
+17332031,Alabama Crimson Tide vs. Texas A&M Aggies,2026-10-24T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 51.5,51.5,1.8334,4395046498,0,True
+17332031,Alabama Crimson Tide vs. Texas A&M Aggies,2026-10-24T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 51.5,51.5,1.8334,4395046499,0,True

@@ -1,9 +1,11 @@
 event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id,selection,line,price,odd_id,odd_status,is_main_bet
 18046451,Tennessee Tech Golden Eagles vs. Eastern Kentucky Colonels,2026-10-17T18:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Tennessee Tech Golden Eagles,,1.1112,4661101042,0,False
 18046451,Tennessee Tech Golden Eagles vs. Eastern Kentucky Colonels,2026-10-17T18:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Eastern Kentucky Colonels,,5.25,4661101043,0,False
+18046451,Tennessee Tech Golden Eagles vs. Eastern Kentucky Colonels,2026-10-17T18:30:00Z,spread,Handicap (inclus prolongations),223,70799,Tennessee Tech Golden Eagles (-14.5),-14.5,1.8,4665384532,7,False
+18046451,Tennessee Tech Golden Eagles vs. Eastern Kentucky Colonels,2026-10-17T18:30:00Z,spread,Handicap (inclus prolongations),223,70799,Eastern Kentucky Colonels (+14.5),-14.5,1.8696,4665384533,7,False
 18046451,Tennessee Tech Golden Eagles vs. Eastern Kentucky Colonels,2026-10-17T18:30:00Z,spread,Handicap (inclus prolongations),223,70799,Tennessee Tech Golden Eagles (-15.5),-15.5,1.8334,4661101166,0,True
 18046451,Tennessee Tech Golden Eagles vs. Eastern Kentucky Colonels,2026-10-17T18:30:00Z,spread,Handicap (inclus prolongations),223,70799,Eastern Kentucky Colonels (+15.5),-15.5,1.8334,4661101167,0,True
-18046451,Tennessee Tech Golden Eagles vs. Eastern Kentucky Colonels,2026-10-17T18:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 53.5,53.5,1.9524,4661101340,7,False
-18046451,Tennessee Tech Golden Eagles vs. Eastern Kentucky Colonels,2026-10-17T18:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 53.5,53.5,1.7408,4661101341,7,False
-18046451,Tennessee Tech Golden Eagles vs. Eastern Kentucky Colonels,2026-10-17T18:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 51.5,51.5,1.8,4664601470,0,True
-18046451,Tennessee Tech Golden Eagles vs. Eastern Kentucky Colonels,2026-10-17T18:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 51.5,51.5,1.8696,4664601471,0,True
+18046451,Tennessee Tech Golden Eagles vs. Eastern Kentucky Colonels,2026-10-17T18:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 53.5,53.5,2.05,4661101340,7,False
+18046451,Tennessee Tech Golden Eagles vs. Eastern Kentucky Colonels,2026-10-17T18:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 53.5,53.5,1.6897,4661101341,7,False
+18046451,Tennessee Tech Golden Eagles vs. Eastern Kentucky Colonels,2026-10-17T18:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 51.5,51.5,1.8696,4664601470,0,True
+18046451,Tennessee Tech Golden Eagles vs. Eastern Kentucky Colonels,2026-10-17T18:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 51.5,51.5,1.8,4664601471,0,True

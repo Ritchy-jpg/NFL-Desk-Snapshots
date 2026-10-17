@@ -3,5 +3,7 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 18046713,Tennessee State Tigers vs. Morgan State Bears,2026-10-17T22:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Morgan State Bears,,1.4167,4661555226,0,False
 18046713,Tennessee State Tigers vs. Morgan State Bears,2026-10-17T22:30:00Z,spread,Handicap (inclus prolongations),223,70799,Tennessee State Tigers (+5.5),5.5,1.8696,4661555766,0,True
 18046713,Tennessee State Tigers vs. Morgan State Bears,2026-10-17T22:30:00Z,spread,Handicap (inclus prolongations),223,70799,Morgan State Bears (-5.5),5.5,1.8,4661555767,0,True
-18046713,Tennessee State Tigers vs. Morgan State Bears,2026-10-17T22:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 51.5,51.5,1.8,4661556064,0,True
-18046713,Tennessee State Tigers vs. Morgan State Bears,2026-10-17T22:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 51.5,51.5,1.8696,4661556063,0,True
+18046713,Tennessee State Tigers vs. Morgan State Bears,2026-10-17T22:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 51.5,51.5,1.7693,4661556064,7,False
+18046713,Tennessee State Tigers vs. Morgan State Bears,2026-10-17T22:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 50.5,50.5,1.8,4666148493,0,True
+18046713,Tennessee State Tigers vs. Morgan State Bears,2026-10-17T22:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 50.5,50.5,1.8696,4666148494,0,True
+18046713,Tennessee State Tigers vs. Morgan State Bears,2026-10-17T22:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 51.5,51.5,1.9091,4661556063,7,False

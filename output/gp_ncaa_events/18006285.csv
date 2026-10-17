@@ -2,10 +2,10 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,FLORIDE DU SUD,,1.0589,4633226659,0,False
 18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Kent St Golden Flashes,,6.75,4633226660,0,False
 18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,FLORIDE DU SUD (-34.5),-34.5,4.2,4633230738,0,False
-18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,FLORIDE DU SUD (-5.5),-5.5,1.1667,4633226771,0,False
+18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,FLORIDE DU SUD (-5.5),-5.5,1.1539,4633226771,0,False
 18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,FLORIDE DU SUD (-35.5),-35.5,4.5,4633230740,0,False
 18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,FLORIDE DU SUD (-6.5),-6.5,1.1905,4633226773,0,False
-18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Kent St Golden Flashes (+5.5),-5.5,4.5,4633226772,0,False
+18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Kent St Golden Flashes (+5.5),-5.5,4.75,4633226772,0,False
 18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,FLORIDE DU SUD (-7.5),-7.5,1.25,4633226775,0,False
 18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Kent St Golden Flashes (+6.5),-6.5,4.3,4633226774,0,False
 18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,FLORIDE DU SUD (-8.5),-8.5,1.2667,4633226777,0,False
@@ -46,10 +46,10 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Kent St Golden Flashes (+25.5),-25.5,1.5264,4633226810,0,False
 18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,FLORIDE DU SUD (-27.5),-27.5,2.65,4633226813,0,False
 18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Kent St Golden Flashes (+26.5),-26.5,1.5,4633226812,0,False
-18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,FLORIDE DU SUD (-28.5),-28.5,2.9,4633226815,0,False
+18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,FLORIDE DU SUD (-28.5),-28.5,2.85,4633226815,0,False
 18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Kent St Golden Flashes (+27.5),-27.5,1.4348,4633226814,0,False
 18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,FLORIDE DU SUD (-29.5),-29.5,3.0,4633226817,0,False
-18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Kent St Golden Flashes (+28.5),-28.5,1.3637,4633226816,0,False
+18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Kent St Golden Flashes (+28.5),-28.5,1.3847,4633226816,0,False
 18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,FLORIDE DU SUD (-30.5),-30.5,3.15,4633226819,0,False
 18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Kent St Golden Flashes (+29.5),-29.5,1.3572,4633226818,0,False
 18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,FLORIDE DU SUD (-31.5),-31.5,3.5,4633226821,0,False
@@ -63,65 +63,63 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,FLORIDE DU SUD (-16.5),-16.5,1.5715,4633226957,0,False
 18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Kent St Golden Flashes (+16.5),-16.5,2.25,4633226958,0,False
 18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Kent St Golden Flashes (+35.5),-35.5,1.1667,4633230741,0,False
-18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 58.5,58.5,1.2223,4633227008,0,False
-18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 59.5,59.5,4.3,4633227009,0,False
-18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 57.5,57.5,1.25,4633227006,0,False
-18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 60.5,60.5,4.5,4633227011,0,False
-18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 59.5,59.5,1.1905,4633227010,0,False
-18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 60.5,60.5,1.1667,4633227012,0,False
-18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 55.5,55.5,1.2858,4633227002,0,False
-18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 54.5,54.5,1.3334,4633227000,0,False
-18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 30.5,30.5,1.1539,4654757042,0,False
-18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 30.5,30.5,4.75,4654757043,0,False
+18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 58.5,58.5,1.2353,4633227008,0,False
+18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 59.5,59.5,4.2,4633227009,0,False
+18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 57.5,57.5,1.2667,4633227006,0,False
+18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 60.5,60.5,4.3,4633227011,0,False
+18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 59.5,59.5,1.2,4633227010,0,False
+18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 60.5,60.5,1.1905,4633227012,0,False
+18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 55.5,55.5,1.3125,4633227002,0,False
+18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 54.5,54.5,1.3637,4633227000,0,False
+18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 56.5,56.5,1.2858,4633227004,0,False
 18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 33.5,33.5,1.2223,4633266484,0,False
 18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 33.5,33.5,4.0,4633266485,0,False
-18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 56.5,56.5,1.2667,4633227004,0,False
-18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 34.5,34.5,1.2667,4633226959,0,False
-18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 34.5,34.5,3.5,4633226960,0,False
-18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 35.5,35.5,1.3031,4633226961,0,False
-18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 35.5,35.5,3.25,4633226962,0,False
-18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 36.5,36.5,1.3226,4633226963,0,False
-18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 36.5,36.5,3.15,4633226964,0,False
-18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 37.5,37.5,1.3847,4633226965,0,False
-18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 37.5,37.5,2.85,4633226966,0,False
-18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 38.5,38.5,1.4348,4633226967,0,False
-18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 38.5,38.5,2.65,4633226968,0,False
-18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 39.5,39.5,1.4762,4633226969,0,False
-18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 39.5,39.5,2.55,4633226970,0,False
-18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 40.5,40.5,1.5264,4633226971,0,False
-18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 40.5,40.5,2.4,4633226972,0,False
-18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 41.5,41.5,1.5715,4633226973,0,False
-18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 41.5,41.5,2.25,4633226974,0,False
-18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 42.5,42.5,1.6451,4633226975,0,False
-18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 42.5,42.5,2.15,4633226976,0,False
-18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 31.5,31.5,1.1667,4633826657,0,False
-18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 43.5,43.5,1.6897,4633226977,0,False
-18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 44.5,44.5,1.7693,4633226979,0,False
-18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 31.5,31.5,4.5,4633826658,0,False
-18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 45.5,45.5,1.8696,4633226981,0,True
-18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 43.5,43.5,2.05,4633226978,0,False
-18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 46.5,46.5,1.9091,4633226983,0,False
-18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 44.5,44.5,1.9091,4633226980,0,False
-18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 47.5,47.5,2.1,4633226985,0,False
-18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 45.5,45.5,1.8,4633226982,0,True
-18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 32.5,32.5,1.1905,4633601131,0,False
-18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 48.5,48.5,2.2,4633226987,0,False
-18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 49.5,49.5,2.25,4633226989,0,False
-18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 32.5,32.5,4.3,4633601132,0,False
-18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 50.5,50.5,2.4,4633226991,0,False
-18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 46.5,46.5,1.7693,4633226984,0,False
-18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 51.5,51.5,2.6,4633226993,0,False
-18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 47.5,47.5,1.6667,4633226986,0,False
-18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 52.5,52.5,2.7,4633226995,0,False
-18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 48.5,48.5,1.625,4633226988,0,False
-18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 53.5,53.5,2.85,4633226997,0,False
-18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 49.5,49.5,1.5715,4633226990,0,False
-18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 54.5,54.5,3.1,4633226999,0,False
-18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 50.5,50.5,1.5264,4633226992,0,False
-18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 55.5,55.5,3.4,4633227001,0,False
-18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 51.5,51.5,1.4546,4633226994,0,False
-18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 56.5,56.5,3.5,4633227003,0,False
-18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 52.5,52.5,1.4167,4633226996,0,False
-18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 57.5,57.5,3.7,4633227005,0,False
-18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 53.5,53.5,1.3847,4633226998,0,False
-18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 58.5,58.5,4.0,4633227007,0,False
+18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 34.5,34.5,1.25,4633226959,0,False
+18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 34.5,34.5,3.7,4633226960,0,False
+18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 35.5,35.5,1.2667,4633226961,0,False
+18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 35.5,35.5,3.5,4633226962,0,False
+18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 36.5,36.5,1.3031,4633226963,0,False
+18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 36.5,36.5,3.25,4633226964,0,False
+18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 37.5,37.5,1.3572,4633226965,0,False
+18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 37.5,37.5,3.0,4633226966,0,False
+18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 38.5,38.5,1.4,4633226967,0,False
+18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 38.5,38.5,2.75,4633226968,0,False
+18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 39.5,39.5,1.4348,4633226969,0,False
+18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 39.5,39.5,2.65,4633226970,0,False
+18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 40.5,40.5,1.5,4633226971,0,False
+18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 40.5,40.5,2.5,4633226972,0,False
+18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 41.5,41.5,1.5556,4633226973,0,False
+18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 41.5,41.5,2.3,4633226974,0,False
+18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 42.5,42.5,1.625,4633226975,0,False
+18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 42.5,42.5,2.2,4633226976,0,False
+18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 31.5,31.5,1.1539,4633826657,0,False
+18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 43.5,43.5,1.6667,4633226977,0,False
+18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 44.5,44.5,1.7408,4633226979,0,False
+18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 31.5,31.5,4.75,4633826658,0,False
+18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 45.5,45.5,1.8,4633226981,0,True
+18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 43.5,43.5,2.1,4633226978,0,False
+18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 46.5,46.5,1.8696,4633226983,0,False
+18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 44.5,44.5,1.9524,4633226980,0,False
+18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 47.5,47.5,2.0,4633226985,0,False
+18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 45.5,45.5,1.8696,4633226982,0,True
+18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 32.5,32.5,1.1819,4633601131,0,False
+18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 48.5,48.5,2.1,4633226987,0,False
+18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 49.5,49.5,2.2,4633226989,0,False
+18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 32.5,32.5,4.4,4633601132,0,False
+18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 50.5,50.5,2.3,4633226991,0,False
+18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 46.5,46.5,1.8,4633226984,0,False
+18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 51.5,51.5,2.5,4633226993,0,False
+18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 47.5,47.5,1.7143,4633226986,0,False
+18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 52.5,52.5,2.65,4633226995,0,False
+18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 48.5,48.5,1.6667,4633226988,0,False
+18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 53.5,53.5,2.75,4633226997,0,False
+18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 49.5,49.5,1.625,4633226990,0,False
+18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 54.5,54.5,2.9,4633226999,0,False
+18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 50.5,50.5,1.5556,4633226992,0,False
+18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 55.5,55.5,3.2,4633227001,0,False
+18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 51.5,51.5,1.5,4633226994,0,False
+18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 56.5,56.5,3.4,4633227003,0,False
+18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 52.5,52.5,1.4348,4633226996,0,False
+18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 57.5,57.5,3.5,4633227005,0,False
+18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 53.5,53.5,1.4,4633226998,0,False
+18006285,FLORIDE DU SUD vs. Kent St Golden Flashes,2026-10-17T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 58.5,58.5,3.75,4633227007,0,False

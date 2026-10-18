@@ -125,14 +125,9 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 18006722,UTEP Miners vs. San Jose State Spartans,2026-10-18T01:00:00Z,total,Total (prolongations incluses),225,70803,1775023068,52.5,4637328605,Moins de 58.5,58.5,1.2223,0,False
 18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1775026700,,4633015490,Sacramento State Hornets,,5.25,0,False
 18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1775026700,,4633015491,Ohio Bobcats,,1.1112,0,False
-18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,spread,Handicap (inclus prolongations),223,70799,1775026534,+13.5,4666483121,Ohio Bobcats (-17.0),+17.0,2.0,0,False
 18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,spread,Handicap (inclus prolongations),223,70799,1775026534,+13.5,4637336596,Sacramento State Hornets (+11.5),+11.5,2.35,0,False
 18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,spread,Handicap (inclus prolongations),223,70799,1775026534,+13.5,4637336597,Ohio Bobcats (-11.5),+11.5,1.5455,0,False
 18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,spread,Handicap (inclus prolongations),223,70799,1775026534,+13.5,4633452054,Sacramento State Hornets (+14.0),+14.0,2.05,0,False
-18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,spread,Handicap (inclus prolongations),223,70799,1775026534,+13.5,4637336599,Sacramento State Hornets (+21.5),+21.5,1.4348,0,False
-18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,spread,Handicap (inclus prolongations),223,70799,1775026534,+13.5,4637336598,Ohio Bobcats (-21.5),+21.5,2.65,0,False
-18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,spread,Handicap (inclus prolongations),223,70799,1775026534,+13.5,4637336601,Sacramento State Hornets (+16.5),+16.5,1.8334,0,True
-18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,spread,Handicap (inclus prolongations),223,70799,1775026534,+13.5,4637336600,Ohio Bobcats (-16.5),+16.5,1.8334,0,True
 18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,spread,Handicap (inclus prolongations),223,70799,1775026534,+13.5,4633452055,Ohio Bobcats (-14.0),+14.0,1.6897,0,False
 18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,spread,Handicap (inclus prolongations),223,70799,1775026534,+13.5,4633579549,Ohio Bobcats (-14.5),+14.5,1.7143,0,False
 18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,spread,Handicap (inclus prolongations),223,70799,1775026534,+13.5,4633579550,Sacramento State Hornets (+14.5),+14.5,2.0,0,False
@@ -154,61 +149,64 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,spread,Handicap (inclus prolongations),223,70799,1775026534,+13.5,4666483123,Sacramento State Hornets (+20.0),+20.0,1.5264,0,False
 18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,spread,Handicap (inclus prolongations),223,70799,1775026534,+13.5,4666483122,Ohio Bobcats (-20.0),+20.0,2.4,0,False
 18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,spread,Handicap (inclus prolongations),223,70799,1775026534,+13.5,4637336629,Sacramento State Hornets (+19.5),+19.5,1.5715,0,False
-18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,spread,Handicap (inclus prolongations),223,70799,1775026534,+13.5,4667437878,Sacramento State Hornets (+22.0),+22.0,1.4167,0,False
-18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,spread,Handicap (inclus prolongations),223,70799,1775026534,+13.5,4667437877,Ohio Bobcats (-22.0),+22.0,2.7,0,False
-18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,spread,Handicap (inclus prolongations),223,70799,1775026534,+13.5,4667437880,Sacramento State Hornets (+21.0),+21.0,1.4348,0,False
+18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,spread,Handicap (inclus prolongations),223,70799,1775026534,+13.5,4666483126,Sacramento State Hornets (+11.0),+11.0,2.4,0,False
 18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,spread,Handicap (inclus prolongations),223,70799,1775026534,+13.5,4667437879,Ohio Bobcats (-21.0),+21.0,2.65,0,False
+18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,spread,Handicap (inclus prolongations),223,70799,1775026534,+13.5,4667437880,Sacramento State Hornets (+21.0),+21.0,1.4348,0,False
 18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,spread,Handicap (inclus prolongations),223,70799,1775026534,+13.5,4637336628,Ohio Bobcats (-19.5),+19.5,2.25,0,False
+18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,spread,Handicap (inclus prolongations),223,70799,1775026534,+13.5,4666483121,Ohio Bobcats (-17.0),+17.0,2.0,0,False
 18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,spread,Handicap (inclus prolongations),223,70799,1775026534,+13.5,4637336627,Ohio Bobcats (-12.5),+12.5,1.5715,0,False
+18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,spread,Handicap (inclus prolongations),223,70799,1775026534,+13.5,4666483127,Ohio Bobcats (-11.0),+11.0,1.5264,0,False
 18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,spread,Handicap (inclus prolongations),223,70799,1775026534,+13.5,4633015120,Sacramento State Hornets (+13.5),+13.5,2.1,0,False
 18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,spread,Handicap (inclus prolongations),223,70799,1775026534,+13.5,4633015121,Ohio Bobcats (-13.5),+13.5,1.6667,0,False
 18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,spread,Handicap (inclus prolongations),223,70799,1775026534,+13.5,4666483113,Ohio Bobcats (-15.0),+15.0,1.7143,0,False
 18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,spread,Handicap (inclus prolongations),223,70799,1775026534,+13.5,4666483115,Ohio Bobcats (-13.0),+13.0,1.625,0,False
+18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,spread,Handicap (inclus prolongations),223,70799,1775026534,+13.5,4633849963,Ohio Bobcats (-15.5),+15.5,1.8,0,True
+18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,spread,Handicap (inclus prolongations),223,70799,1775026534,+13.5,4633849964,Sacramento State Hornets (+15.5),+15.5,1.8696,0,True
 18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,spread,Handicap (inclus prolongations),223,70799,1775026534,+13.5,4637336617,Ohio Bobcats (-17.5),+17.5,2.1,0,False
 18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,spread,Handicap (inclus prolongations),223,70799,1775026534,+13.5,4666483117,Ohio Bobcats (-12.0),+12.0,1.5556,0,False
 18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,spread,Handicap (inclus prolongations),223,70799,1775026534,+13.5,4666483119,Ohio Bobcats (-16.0),+16.0,1.8696,0,False
-18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,total,Total (prolongations incluses),225,70803,1775197614,48.5,4637336578,Plus de 45.5,45.5,1.7143,0,False
-18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,total,Total (prolongations incluses),225,70803,1775197614,48.5,4637336579,Moins de 45.5,45.5,2.0,0,False
-18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,total,Total (prolongations incluses),225,70803,1775197614,48.5,4637336580,Plus de 44.5,44.5,1.6897,0,False
-18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,total,Total (prolongations incluses),225,70803,1775197614,48.5,4637336581,Moins de 44.5,44.5,2.05,0,False
-18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,total,Total (prolongations incluses),225,70803,1775197614,48.5,4637336582,Plus de 53.5,53.5,2.7,0,False
-18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,total,Total (prolongations incluses),225,70803,1775197614,48.5,4637336583,Moins de 53.5,53.5,1.4167,0,False
-18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,total,Total (prolongations incluses),225,70803,1775197614,48.5,4637336584,Moins de 50.5,50.5,1.5715,0,False
-18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,total,Total (prolongations incluses),225,70803,1775197614,48.5,4637336585,Plus de 50.5,50.5,2.25,0,False
-18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,total,Total (prolongations incluses),225,70803,1775197614,48.5,4637336586,Moins de 51.5,51.5,1.5,0,False
-18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,total,Total (prolongations incluses),225,70803,1775197614,48.5,4637336587,Plus de 51.5,51.5,2.5,0,False
-18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,total,Total (prolongations incluses),225,70803,1775197614,48.5,4637336588,Plus de 56.5,56.5,3.25,0,False
-18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,total,Total (prolongations incluses),225,70803,1775197614,48.5,4637336589,Moins de 56.5,56.5,1.3031,0,False
-18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,total,Total (prolongations incluses),225,70803,1775197614,48.5,4637336590,Plus de 57.5,57.5,3.5,0,False
-18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,total,Total (prolongations incluses),225,70803,1775197614,48.5,4637336591,Moins de 57.5,57.5,1.2667,0,False
-18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,total,Total (prolongations incluses),225,70803,1775197614,48.5,4637336592,Plus de 54.5,54.5,2.9,0,False
-18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,total,Total (prolongations incluses),225,70803,1775197614,48.5,4662061585,Plus de 36.5,36.5,1.2667,0,False
-18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,total,Total (prolongations incluses),225,70803,1775197614,48.5,4637336594,Plus de 55.5,55.5,3.2,0,False
-18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,total,Total (prolongations incluses),225,70803,1775197614,48.5,4637336573,Plus de 40.5,40.5,1.4348,0,False
-18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,total,Total (prolongations incluses),225,70803,1775197614,48.5,4662061584,Moins de 36.5,36.5,3.5,0,False
-18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,total,Total (prolongations incluses),225,70803,1775197614,48.5,4637336593,Moins de 54.5,54.5,1.3637,0,False
-18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,total,Total (prolongations incluses),225,70803,1775197614,48.5,4637336595,Moins de 55.5,55.5,1.3125,0,False
-18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,total,Total (prolongations incluses),225,70803,1775197614,48.5,4633015713,Moins de 49.5,49.5,1.6451,0,False
-18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,total,Total (prolongations incluses),225,70803,1775197614,48.5,4633015714,Plus de 49.5,49.5,2.15,0,False
-18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,total,Total (prolongations incluses),225,70803,1775197614,48.5,4633423299,Moins de 48.5,48.5,1.6667,0,False
-18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,total,Total (prolongations incluses),225,70803,1775197614,48.5,4633423300,Plus de 48.5,48.5,2.1,0,False
-18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,total,Total (prolongations incluses),225,70803,1775197614,48.5,4658927955,Moins de 37.5,37.5,3.1,0,False
-18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,total,Total (prolongations incluses),225,70803,1775197614,48.5,4658927956,Plus de 37.5,37.5,1.3334,0,False
-18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,total,Total (prolongations incluses),225,70803,1775197614,48.5,4637336568,Moins de 43.5,43.5,2.2,0,False
-18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,total,Total (prolongations incluses),225,70803,1775197614,48.5,4637336560,Moins de 39.5,39.5,2.75,0,False
-18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,total,Total (prolongations incluses),225,70803,1775197614,48.5,4637336561,Plus de 39.5,39.5,1.4,0,False
-18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,total,Total (prolongations incluses),225,70803,1775197614,48.5,4637336564,Moins de 42.5,42.5,2.35,0,False
-18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,total,Total (prolongations incluses),225,70803,1775197614,48.5,4637336565,Plus de 42.5,42.5,1.5455,0,False
-18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,total,Total (prolongations incluses),225,70803,1775197614,48.5,4637336566,Moins de 52.5,52.5,1.4348,0,False
-18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,total,Total (prolongations incluses),225,70803,1775197614,48.5,4637336567,Plus de 52.5,52.5,2.65,0,False
-18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,total,Total (prolongations incluses),225,70803,1775197614,48.5,4639648120,Moins de 38.5,38.5,2.85,0,False
-18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,total,Total (prolongations incluses),225,70803,1775197614,48.5,4639648121,Plus de 38.5,38.5,1.3847,0,False
-18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,total,Total (prolongations incluses),225,70803,1775197614,48.5,4637336570,Moins de 41.5,41.5,2.4,0,False
-18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,total,Total (prolongations incluses),225,70803,1775197614,48.5,4637336571,Plus de 41.5,41.5,1.5264,0,False
-18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,total,Total (prolongations incluses),225,70803,1775197614,48.5,4637336572,Moins de 40.5,40.5,2.65,0,False
-18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,total,Total (prolongations incluses),225,70803,1775197614,48.5,4637336569,Plus de 43.5,43.5,1.625,0,False
-18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,total,Total (prolongations incluses),225,70803,1775197614,48.5,4637336574,Plus de 47.5,47.5,1.9524,0,True
-18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,total,Total (prolongations incluses),225,70803,1775197614,48.5,4637336575,Moins de 47.5,47.5,1.7408,0,True
+18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,total,Total (prolongations incluses),225,70803,1775026805,49.5,4637336578,Plus de 45.5,45.5,1.7143,0,False
+18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,total,Total (prolongations incluses),225,70803,1775026805,49.5,4637336579,Moins de 45.5,45.5,2.0,0,False
+18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,total,Total (prolongations incluses),225,70803,1775026805,49.5,4637336580,Plus de 44.5,44.5,1.6897,0,False
+18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,total,Total (prolongations incluses),225,70803,1775026805,49.5,4637336581,Moins de 44.5,44.5,2.05,0,False
+18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,total,Total (prolongations incluses),225,70803,1775026805,49.5,4637336582,Plus de 53.5,53.5,2.7,0,False
+18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,total,Total (prolongations incluses),225,70803,1775026805,49.5,4637336583,Moins de 53.5,53.5,1.4167,0,False
+18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,total,Total (prolongations incluses),225,70803,1775026805,49.5,4637336584,Moins de 50.5,50.5,1.5715,0,False
+18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,total,Total (prolongations incluses),225,70803,1775026805,49.5,4637336585,Plus de 50.5,50.5,2.25,0,False
+18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,total,Total (prolongations incluses),225,70803,1775026805,49.5,4637336586,Moins de 51.5,51.5,1.5,0,False
+18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,total,Total (prolongations incluses),225,70803,1775026805,49.5,4637336587,Plus de 51.5,51.5,2.5,0,False
+18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,total,Total (prolongations incluses),225,70803,1775026805,49.5,4637336588,Plus de 56.5,56.5,3.25,0,False
+18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,total,Total (prolongations incluses),225,70803,1775026805,49.5,4637336589,Moins de 56.5,56.5,1.3031,0,False
+18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,total,Total (prolongations incluses),225,70803,1775026805,49.5,4637336590,Plus de 57.5,57.5,3.5,0,False
+18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,total,Total (prolongations incluses),225,70803,1775026805,49.5,4637336591,Moins de 57.5,57.5,1.2667,0,False
+18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,total,Total (prolongations incluses),225,70803,1775026805,49.5,4637336592,Plus de 54.5,54.5,2.9,0,False
+18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,total,Total (prolongations incluses),225,70803,1775026805,49.5,4662061585,Plus de 36.5,36.5,1.2667,0,False
+18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,total,Total (prolongations incluses),225,70803,1775026805,49.5,4637336594,Plus de 55.5,55.5,3.2,0,False
+18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,total,Total (prolongations incluses),225,70803,1775026805,49.5,4637336573,Plus de 40.5,40.5,1.4348,0,False
+18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,total,Total (prolongations incluses),225,70803,1775026805,49.5,4662061584,Moins de 36.5,36.5,3.5,0,False
+18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,total,Total (prolongations incluses),225,70803,1775026805,49.5,4637336593,Moins de 54.5,54.5,1.3637,0,False
+18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,total,Total (prolongations incluses),225,70803,1775026805,49.5,4637336595,Moins de 55.5,55.5,1.3125,0,False
+18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,total,Total (prolongations incluses),225,70803,1775026805,49.5,4633015713,Moins de 49.5,49.5,1.6451,0,False
+18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,total,Total (prolongations incluses),225,70803,1775026805,49.5,4633015714,Plus de 49.5,49.5,2.15,0,False
+18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,total,Total (prolongations incluses),225,70803,1775026805,49.5,4633423299,Moins de 48.5,48.5,1.6667,0,False
+18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,total,Total (prolongations incluses),225,70803,1775026805,49.5,4633423300,Plus de 48.5,48.5,2.1,0,False
+18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,total,Total (prolongations incluses),225,70803,1775026805,49.5,4658927955,Moins de 37.5,37.5,3.1,0,False
+18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,total,Total (prolongations incluses),225,70803,1775026805,49.5,4658927956,Plus de 37.5,37.5,1.3334,0,False
+18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,total,Total (prolongations incluses),225,70803,1775026805,49.5,4637336568,Moins de 43.5,43.5,2.2,0,False
+18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,total,Total (prolongations incluses),225,70803,1775026805,49.5,4637336560,Moins de 39.5,39.5,2.75,0,False
+18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,total,Total (prolongations incluses),225,70803,1775026805,49.5,4637336561,Plus de 39.5,39.5,1.4,0,False
+18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,total,Total (prolongations incluses),225,70803,1775026805,49.5,4637336564,Moins de 42.5,42.5,2.35,0,False
+18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,total,Total (prolongations incluses),225,70803,1775026805,49.5,4637336565,Plus de 42.5,42.5,1.5455,0,False
+18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,total,Total (prolongations incluses),225,70803,1775026805,49.5,4637336566,Moins de 52.5,52.5,1.4348,0,False
+18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,total,Total (prolongations incluses),225,70803,1775026805,49.5,4637336567,Plus de 52.5,52.5,2.65,0,False
+18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,total,Total (prolongations incluses),225,70803,1775026805,49.5,4639648120,Moins de 38.5,38.5,2.85,0,False
+18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,total,Total (prolongations incluses),225,70803,1775026805,49.5,4639648121,Plus de 38.5,38.5,1.3847,0,False
+18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,total,Total (prolongations incluses),225,70803,1775026805,49.5,4637336570,Moins de 41.5,41.5,2.4,0,False
+18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,total,Total (prolongations incluses),225,70803,1775026805,49.5,4637336571,Plus de 41.5,41.5,1.5264,0,False
+18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,total,Total (prolongations incluses),225,70803,1775026805,49.5,4637336572,Moins de 40.5,40.5,2.65,0,False
+18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,total,Total (prolongations incluses),225,70803,1775026805,49.5,4637336569,Plus de 43.5,43.5,1.625,0,False
+18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,total,Total (prolongations incluses),225,70803,1775026805,49.5,4637336574,Plus de 47.5,47.5,1.9524,0,True
+18006731,Sacramento State Hornets vs. Ohio Bobcats,2026-10-18T02:00:00Z,total,Total (prolongations incluses),225,70803,1775026805,49.5,4637336575,Moins de 47.5,47.5,1.7408,0,True
 17803689,Colorado Buffaloes vs. Utah Utes,2026-10-18T02:15:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1774783437,,4632344843,Utah Utes,,1.1112,0,False
 17803689,Colorado Buffaloes vs. Utah Utes,2026-10-18T02:15:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1774783437,,4632344844,Colorado Buffaloes,,5.25,0,False
 17803689,Colorado Buffaloes vs. Utah Utes,2026-10-18T02:15:00Z,spread,Handicap (inclus prolongations),223,70799,1774783436,+16.5,4632344841,Colorado Buffaloes (+16.5),+16.5,1.7143,0,False
@@ -335,128 +333,128 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17803689,Colorado Buffaloes vs. Utah Utes,2026-10-18T02:15:00Z,total,Total (prolongations incluses),225,70803,1775605788,48.5,4634603391,Plus de 48.5,48.5,1.7693,0,False
 17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1774810205,,4632410840,California Golden Bears,,3.75,0,False
 17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1774810205,,4632410841,Wake Forest Demon Deacons,,1.2106,0,False
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4666478849,California Golden Bears (+16.0),+16.0,1.4348,0,False
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4666478850,Wake Forest Demon Deacons (-17.0),+17.0,2.85,0,False
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4637327619,Wake Forest Demon Deacons (-16.5),+16.5,2.65,0,False
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4666478853,California Golden Bears (+17.0),+17.0,1.3847,0,False
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4637327623,California Golden Bears (+16.5),+16.5,1.4348,0,False
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4666478855,Wake Forest Demon Deacons (-14.0),+14.0,2.35,0,False
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4666478857,California Golden Bears (+14.0),+14.0,1.5455,0,False
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4666478859,Wake Forest Demon Deacons (-15.0),+15.0,2.55,0,False
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4666478860,California Golden Bears (+15.0),+15.0,1.4762,0,False
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4637327627,Wake Forest Demon Deacons (-3.5),+3.5,1.3847,0,False
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4666478863,Wake Forest Demon Deacons (-18.0),+18.0,3.1,0,False
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4666478865,California Golden Bears (+18.0),+18.0,1.3334,0,False
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4637327507,California Golden Bears (+6.5),+6.5,2.4,0,False
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4666478868,California Golden Bears (+8.0),+8.0,2.05,0,False
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4637327637,California Golden Bears (+3.5),+3.5,2.85,0,False
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4637327510,Wake Forest Demon Deacons (-6.5),+6.5,1.5264,0,False
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4666478871,Wake Forest Demon Deacons (-8.0),+8.0,1.6897,0,False
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4637327514,Wake Forest Demon Deacons (-4.5),+4.5,1.4348,0,False
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4666478875,Wake Forest Demon Deacons (-7.0),+7.0,1.5715,0,False
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4637327517,California Golden Bears (+4.5),+4.5,2.65,0,False
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4666478879,California Golden Bears (+7.0),+7.0,2.25,0,False
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4666478849,California Golden Bears (+16.0),+16.0,1.4762,0,False
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4666478850,Wake Forest Demon Deacons (-17.0),+17.0,2.7,0,False
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4637327619,Wake Forest Demon Deacons (-16.5),+16.5,2.6,0,False
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4666478853,California Golden Bears (+17.0),+17.0,1.4167,0,False
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4637327623,California Golden Bears (+16.5),+16.5,1.4546,0,False
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4666478855,Wake Forest Demon Deacons (-14.0),+14.0,2.25,0,False
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4666478857,California Golden Bears (+14.0),+14.0,1.5715,0,False
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4666478859,Wake Forest Demon Deacons (-15.0),+15.0,2.4,0,False
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4666478860,California Golden Bears (+15.0),+15.0,1.5264,0,False
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4637327627,Wake Forest Demon Deacons (-3.5),+3.5,1.3572,0,False
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4666478863,Wake Forest Demon Deacons (-18.0),+18.0,3.0,0,False
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4666478865,California Golden Bears (+18.0),+18.0,1.3572,0,False
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4637327507,California Golden Bears (+6.5),+6.5,2.5,0,False
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4666478868,California Golden Bears (+8.0),+8.0,2.1,0,False
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4637327637,California Golden Bears (+3.5),+3.5,3.0,0,False
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4637327510,Wake Forest Demon Deacons (-6.5),+6.5,1.5,0,False
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4666478871,Wake Forest Demon Deacons (-8.0),+8.0,1.6667,0,False
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4637327514,Wake Forest Demon Deacons (-4.5),+4.5,1.4167,0,False
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4666478875,Wake Forest Demon Deacons (-7.0),+7.0,1.5556,0,False
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4637327517,California Golden Bears (+4.5),+4.5,2.7,0,False
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4666478879,California Golden Bears (+7.0),+7.0,2.3,0,False
 17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4666478883,California Golden Bears (+3.0),+3.0,3.4,0,False
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4637327655,Wake Forest Demon Deacons (-13.5),+13.5,2.25,0,False
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4637327528,Wake Forest Demon Deacons (-12.5),+12.5,2.1,0,False
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4637327529,California Golden Bears (+12.5),+12.5,1.6667,0,False
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4637327402,Wake Forest Demon Deacons (-17.5),+17.5,2.85,0,False
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4637327659,California Golden Bears (+13.5),+13.5,1.5715,0,False
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4666478892,Wake Forest Demon Deacons (-4.0),+4.0,1.4,0,False
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4637327655,Wake Forest Demon Deacons (-13.5),+13.5,2.15,0,False
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4637327528,Wake Forest Demon Deacons (-12.5),+12.5,2.05,0,False
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4637327529,California Golden Bears (+12.5),+12.5,1.6897,0,False
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4637327402,Wake Forest Demon Deacons (-17.5),+17.5,2.75,0,False
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4637327659,California Golden Bears (+13.5),+13.5,1.6451,0,False
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4666478892,Wake Forest Demon Deacons (-4.0),+4.0,1.3847,0,False
 17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4666478887,Wake Forest Demon Deacons (-3.0),+3.0,1.2858,0,False
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4637327406,California Golden Bears (+17.5),+17.5,1.3847,0,False
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4637327406,California Golden Bears (+17.5),+17.5,1.4,0,False
 17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4637327662,California Golden Bears (+10.5),+10.5,1.8334,0,True
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4666478898,California Golden Bears (+4.0),+4.0,2.75,0,False
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4666478898,California Golden Bears (+4.0),+4.0,2.85,0,False
 17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4637327666,Wake Forest Demon Deacons (-10.5),+10.5,1.8334,0,True
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4637327541,Wake Forest Demon Deacons (-11.5),+11.5,2.05,0,False
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4633420471,Wake Forest Demon Deacons (-9.5),+9.5,1.7693,0,False
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4633420472,California Golden Bears (+9.5),+9.5,1.9091,0,False
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4637327545,California Golden Bears (+11.5),+11.5,1.6897,0,False
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4637327416,Wake Forest Demon Deacons (-14.5),+14.5,2.4,0,False
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4666478904,Wake Forest Demon Deacons (-9.0),+9.0,1.7693,0,False
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4666478908,California Golden Bears (+9.0),+9.0,1.9091,0,False
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4637327541,Wake Forest Demon Deacons (-11.5),+11.5,2.0,0,False
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4633420471,Wake Forest Demon Deacons (-9.5),+9.5,1.7408,0,False
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4633420472,California Golden Bears (+9.5),+9.5,1.9524,0,False
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4637327545,California Golden Bears (+11.5),+11.5,1.7143,0,False
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4637327416,Wake Forest Demon Deacons (-14.5),+14.5,2.35,0,False
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4666478904,Wake Forest Demon Deacons (-9.0),+9.0,1.7143,0,False
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4666478908,California Golden Bears (+9.0),+9.0,2.0,0,False
 17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4666478911,Wake Forest Demon Deacons (-5.0),+5.0,1.4348,0,False
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4637327425,California Golden Bears (+14.5),+14.5,1.5264,0,False
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4637327554,California Golden Bears (+5.5),+5.5,2.6,0,False
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4637327425,California Golden Bears (+14.5),+14.5,1.5455,0,False
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4637327554,California Golden Bears (+5.5),+5.5,2.65,0,False
 17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4666478914,California Golden Bears (+5.0),+5.0,2.65,0,False
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4666478917,Wake Forest Demon Deacons (-6.0),+6.0,1.4762,0,False
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4666478919,California Golden Bears (+6.0),+6.0,2.55,0,False
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4637327561,Wake Forest Demon Deacons (-5.5),+5.5,1.4546,0,False
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4637327441,Wake Forest Demon Deacons (-7.5),+7.5,1.6667,0,False
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4637327448,California Golden Bears (+7.5),+7.5,2.1,0,False
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4637327607,Wake Forest Demon Deacons (-15.5),+15.5,2.55,0,False
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4637179612,Wake Forest Demon Deacons (-10.0),+10.0,1.8,0,False
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4637179613,California Golden Bears (+10.0),+10.0,1.8696,0,False
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4632410845,California Golden Bears (+8.5),+8.5,2.0,0,False
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4632410844,Wake Forest Demon Deacons (-8.5),+8.5,1.7143,0,False
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4637327611,California Golden Bears (+15.5),+15.5,1.4762,0,False
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4666478835,Wake Forest Demon Deacons (-12.0),+12.0,2.05,0,False
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4666478836,California Golden Bears (+12.0),+12.0,1.6897,0,False
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4666478837,Wake Forest Demon Deacons (-13.0),+13.0,2.2,0,False
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4666478839,California Golden Bears (+13.0),+13.0,1.625,0,False
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4666478841,Wake Forest Demon Deacons (-11.0),+11.0,2.0,0,False
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4666478843,California Golden Bears (+11.0),+11.0,1.7143,0,False
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4666478845,Wake Forest Demon Deacons (-16.0),+16.0,2.65,0,False
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1774810206,53.5,4637327232,Plus de 68.5,68.5,4.4,0,False
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1774810206,53.5,4637326976,Moins de 59.5,59.5,1.4546,0,False
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1774810206,53.5,4637327106,Plus de 43.5,43.5,1.2858,0,False
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1774810206,53.5,4637327236,Plus de 64.5,64.5,3.4,0,False
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1774810206,53.5,4637327111,Plus de 46.5,46.5,1.4167,0,False
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1774810206,53.5,4637326983,Plus de 59.5,59.5,2.6,0,False
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1774810206,53.5,4637327241,Moins de 64.5,64.5,1.2858,0,False
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1774810206,53.5,4637327114,Moins de 46.5,46.5,2.7,0,False
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1774810206,53.5,4637327244,Plus de 61.5,61.5,2.85,0,False
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1774810206,53.5,4637327118,Plus de 41.5,41.5,1.25,0,False
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1774810206,53.5,4637327124,Moins de 41.5,41.5,3.7,0,False
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1774810206,53.5,4633413912,Plus de 54.5,54.5,1.9091,0,False
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1774810206,53.5,4633413913,Moins de 54.5,54.5,1.7693,0,False
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1774810206,53.5,4637327130,Plus de 44.5,44.5,1.3334,0,False
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1774810206,53.5,4637327004,Moins de 49.5,49.5,2.25,0,False
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1774810206,53.5,4637327133,Moins de 44.5,44.5,3.1,0,False
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1774810206,53.5,4637327260,Moins de 61.5,61.5,1.3847,0,False
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1774810206,53.5,4637327264,Moins de 66.5,66.5,1.2223,0,False
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1774810206,53.5,4637327009,Plus de 49.5,49.5,1.5715,0,False
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1774810206,53.5,4637327266,Plus de 66.5,66.5,4.0,0,False
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1774810206,53.5,4637327141,Plus de 47.5,47.5,1.4762,0,False
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1774810206,53.5,4637327269,Moins de 63.5,63.5,1.3125,0,False
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1774810206,53.5,4637327145,Moins de 47.5,47.5,2.55,0,False
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1774810206,53.5,4637327274,Plus de 63.5,63.5,3.2,0,False
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1774810206,53.5,4637327278,Plus de 60.5,60.5,2.65,0,False
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1774810206,53.5,4637327151,Plus de 48.5,48.5,1.5264,0,False
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1774810206,53.5,4637327027,Moins de 39.5,39.5,4.4,0,False
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1774810206,53.5,4637327283,Moins de 60.5,60.5,1.4348,0,False
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1774810206,53.5,4637327285,Moins de 62.5,62.5,1.3334,0,False
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1774810206,53.5,4637327158,Moins de 48.5,48.5,2.4,0,False
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1774810206,53.5,4637327288,Plus de 62.5,62.5,3.1,0,False
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1774810206,53.5,4637327034,Plus de 39.5,39.5,1.1819,0,False
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1774810206,53.5,4637327167,Moins de 57.5,57.5,1.5715,0,False
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1774810206,53.5,4637327169,Plus de 57.5,57.5,2.25,0,False
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1774810206,53.5,4637327045,Moins de 55.5,55.5,1.6667,0,False
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1774810206,53.5,4637327174,Moins de 67.5,67.5,1.2,0,False
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1774810206,53.5,4637327177,Plus de 67.5,67.5,4.2,0,False
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1774810206,53.5,4637327051,Plus de 55.5,55.5,2.1,0,False
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1774810206,53.5,4637327181,Moins de 58.5,58.5,1.5264,0,False
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1774810206,53.5,4637327055,Plus de 45.5,45.5,1.4,0,False
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1774810206,53.5,4637327184,Plus de 58.5,58.5,2.4,0,False
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1774810206,53.5,4637327059,Moins de 45.5,45.5,2.75,0,False
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1774810206,53.5,4637327188,Plus de 51.5,51.5,1.6897,0,False
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1774810206,53.5,4637327063,Plus de 65.5,65.5,3.7,0,False
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1774810206,53.5,4637327193,Moins de 51.5,51.5,2.05,0,False
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1774810206,53.5,4632410842,Moins de 53.5,53.5,1.8334,0,True
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1774810206,53.5,4632410843,Plus de 53.5,53.5,1.8334,0,True
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1774810206,53.5,4637327197,Moins de 56.5,56.5,1.6451,0,False
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1774810206,53.5,4637327200,Plus de 56.5,56.5,2.15,0,False
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1774810206,53.5,4637327072,Moins de 65.5,65.5,1.25,0,False
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1774810206,53.5,4637327075,Moins de 42.5,42.5,3.5,0,False
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1774810206,53.5,4637327205,Plus de 50.5,50.5,1.625,0,False
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1774810206,53.5,4637327082,Plus de 42.5,42.5,1.2667,0,False
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1774810206,53.5,4637327211,Moins de 50.5,50.5,2.2,0,False
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1774810206,53.5,4637327085,Plus de 40.5,40.5,1.2,0,False
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1774810206,53.5,4637327215,Moins de 52.5,52.5,2.0,0,False
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1774810206,53.5,4637327091,Moins de 40.5,40.5,4.2,0,False
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1774810206,53.5,4637327225,Plus de 52.5,52.5,1.7143,0,False
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1774810206,53.5,4637327098,Moins de 43.5,43.5,3.4,0,False
-17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1774810206,53.5,4637327228,Moins de 68.5,68.5,1.1819,0,False
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4666478917,Wake Forest Demon Deacons (-6.0),+6.0,1.4546,0,False
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4666478919,California Golden Bears (+6.0),+6.0,2.6,0,False
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4637327561,Wake Forest Demon Deacons (-5.5),+5.5,1.4348,0,False
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4637327441,Wake Forest Demon Deacons (-7.5),+7.5,1.6451,0,False
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4637327448,California Golden Bears (+7.5),+7.5,2.15,0,False
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4637327607,Wake Forest Demon Deacons (-15.5),+15.5,2.5,0,False
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4637179612,Wake Forest Demon Deacons (-10.0),+10.0,1.7693,0,False
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4637179613,California Golden Bears (+10.0),+10.0,1.9091,0,False
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4632410845,California Golden Bears (+8.5),+8.5,2.05,0,False
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4632410844,Wake Forest Demon Deacons (-8.5),+8.5,1.6897,0,False
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4637327611,California Golden Bears (+15.5),+15.5,1.5,0,False
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4666478835,Wake Forest Demon Deacons (-12.0),+12.0,2.0,0,False
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4666478836,California Golden Bears (+12.0),+12.0,1.7143,0,False
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4666478837,Wake Forest Demon Deacons (-13.0),+13.0,2.1,0,False
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4666478839,California Golden Bears (+13.0),+13.0,1.6667,0,False
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4666478841,Wake Forest Demon Deacons (-11.0),+11.0,1.9091,0,False
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4666478843,California Golden Bears (+11.0),+11.0,1.7693,0,False
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1774810207,+8.5,4666478845,Wake Forest Demon Deacons (-16.0),+16.0,2.55,0,False
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1776436380,40.5,4637327232,Plus de 68.5,68.5,4.4,0,False
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1776436380,40.5,4637326976,Moins de 59.5,59.5,1.4546,0,False
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1776436380,40.5,4637327106,Plus de 43.5,43.5,1.2858,0,False
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1776436380,40.5,4637327236,Plus de 64.5,64.5,3.4,0,False
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1776436380,40.5,4637327111,Plus de 46.5,46.5,1.4167,0,False
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1776436380,40.5,4637326983,Plus de 59.5,59.5,2.6,0,False
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1776436380,40.5,4637327241,Moins de 64.5,64.5,1.2858,0,False
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1776436380,40.5,4637327114,Moins de 46.5,46.5,2.7,0,False
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1776436380,40.5,4637327244,Plus de 61.5,61.5,2.85,0,False
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1776436380,40.5,4637327118,Plus de 41.5,41.5,1.25,0,False
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1776436380,40.5,4637327124,Moins de 41.5,41.5,3.7,0,False
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1776436380,40.5,4633413912,Plus de 54.5,54.5,1.8696,0,True
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1776436380,40.5,4633413913,Moins de 54.5,54.5,1.8,0,True
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1776436380,40.5,4637327130,Plus de 44.5,44.5,1.3334,0,False
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1776436380,40.5,4637327004,Moins de 49.5,49.5,2.25,0,False
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1776436380,40.5,4637327133,Moins de 44.5,44.5,3.1,0,False
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1776436380,40.5,4637327260,Moins de 61.5,61.5,1.3847,0,False
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1776436380,40.5,4637327264,Moins de 66.5,66.5,1.2223,0,False
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1776436380,40.5,4637327009,Plus de 49.5,49.5,1.5715,0,False
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1776436380,40.5,4637327266,Plus de 66.5,66.5,4.0,0,False
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1776436380,40.5,4637327141,Plus de 47.5,47.5,1.4762,0,False
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1776436380,40.5,4637327269,Moins de 63.5,63.5,1.3125,0,False
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1776436380,40.5,4637327145,Moins de 47.5,47.5,2.55,0,False
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1776436380,40.5,4637327274,Plus de 63.5,63.5,3.2,0,False
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1776436380,40.5,4637327278,Plus de 60.5,60.5,2.65,0,False
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1776436380,40.5,4637327151,Plus de 48.5,48.5,1.5264,0,False
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1776436380,40.5,4637327027,Moins de 39.5,39.5,4.4,0,False
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1776436380,40.5,4637327283,Moins de 60.5,60.5,1.4348,0,False
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1776436380,40.5,4637327285,Moins de 62.5,62.5,1.3334,0,False
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1776436380,40.5,4637327158,Moins de 48.5,48.5,2.4,0,False
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1776436380,40.5,4637327288,Plus de 62.5,62.5,3.1,0,False
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1776436380,40.5,4637327034,Plus de 39.5,39.5,1.1819,0,False
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1776436380,40.5,4637327167,Moins de 57.5,57.5,1.5715,0,False
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1776436380,40.5,4637327169,Plus de 57.5,57.5,2.25,0,False
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1776436380,40.5,4637327045,Moins de 55.5,55.5,1.6667,0,False
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1776436380,40.5,4637327174,Moins de 67.5,67.5,1.2,0,False
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1776436380,40.5,4637327177,Plus de 67.5,67.5,4.2,0,False
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1776436380,40.5,4637327051,Plus de 55.5,55.5,2.1,0,False
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1776436380,40.5,4637327181,Moins de 58.5,58.5,1.5264,0,False
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1776436380,40.5,4637327055,Plus de 45.5,45.5,1.4,0,False
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1776436380,40.5,4637327184,Plus de 58.5,58.5,2.4,0,False
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1776436380,40.5,4637327059,Moins de 45.5,45.5,2.75,0,False
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1776436380,40.5,4637327188,Plus de 51.5,51.5,1.6897,0,False
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1776436380,40.5,4637327063,Plus de 65.5,65.5,3.7,0,False
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1776436380,40.5,4637327193,Moins de 51.5,51.5,2.05,0,False
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1776436380,40.5,4637327197,Moins de 56.5,56.5,1.6451,0,False
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1776436380,40.5,4637327200,Plus de 56.5,56.5,2.15,0,False
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1776436380,40.5,4637327072,Moins de 65.5,65.5,1.25,0,False
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1776436380,40.5,4637327075,Moins de 42.5,42.5,3.5,0,False
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1776436380,40.5,4637327205,Plus de 50.5,50.5,1.625,0,False
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1776436380,40.5,4637327082,Plus de 42.5,42.5,1.2667,0,False
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1776436380,40.5,4637327211,Moins de 50.5,50.5,2.2,0,False
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1776436380,40.5,4637327085,Plus de 40.5,40.5,1.2,0,False
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1776436380,40.5,4637327215,Moins de 52.5,52.5,2.0,0,False
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1776436380,40.5,4637327091,Moins de 40.5,40.5,4.2,0,False
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1776436380,40.5,4667589236,Moins de 69.5,69.5,1.1539,0,False
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1776436380,40.5,4667589237,Plus de 69.5,69.5,4.75,0,False
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1776436380,40.5,4637327225,Plus de 52.5,52.5,1.7143,0,False
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1776436380,40.5,4637327098,Moins de 43.5,43.5,3.4,0,False
+17803704,California Golden Bears vs. Wake Forest Demon Deacons,2026-10-18T02:30:00Z,total,Total (prolongations incluses),225,70803,1776436380,40.5,4637327228,Moins de 68.5,68.5,1.1819,0,False
 18005378,Hawaii Rainbow Warriors vs. NOUVEAU MEXIQUE,2026-10-18T02:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1775000597,,4632953166,NOUVEAU MEXIQUE,,1.1112,0,False
 18005378,Hawaii Rainbow Warriors vs. NOUVEAU MEXIQUE,2026-10-18T02:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1775000597,,4632953167,Hawaii Rainbow Warriors,,5.25,0,False
 18005378,Hawaii Rainbow Warriors vs. NOUVEAU MEXIQUE,2026-10-18T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,1775000595,+15.5,4666480000,Hawaii Rainbow Warriors (+9.0),+9.0,2.6,0,False
@@ -825,20 +823,20 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17844472,DEL Blue Hens vs. Missouri State Bears,2026-10-20T23:00:00Z,total,Total (prolongations incluses),225,70803,1784500418,53.5,4662359323,Moins de 54.5,54.5,1.7143,0,False
 17844474,FIU Panthers vs. Middle Tennessee Blue Raiders,2026-10-20T23:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1782576756,,4656364973,FIU Panthers,,1.2,0,False
 17844474,FIU Panthers vs. Middle Tennessee Blue Raiders,2026-10-20T23:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1782576756,,4656364974,Middle Tennessee Blue Raiders,,3.85,0,False
-17844474,FIU Panthers vs. Middle Tennessee Blue Raiders,2026-10-20T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,1782576785,-10.5,4656365036,FIU Panthers (-7.5),-7.5,1.6667,0,False
-17844474,FIU Panthers vs. Middle Tennessee Blue Raiders,2026-10-20T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,1782576785,-10.5,4656365037,Middle Tennessee Blue Raiders (+7.5),-7.5,2.1,0,False
-17844474,FIU Panthers vs. Middle Tennessee Blue Raiders,2026-10-20T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,1782576785,-10.5,4656365038,FIU Panthers (-8.5),-8.5,1.7143,0,False
-17844474,FIU Panthers vs. Middle Tennessee Blue Raiders,2026-10-20T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,1782576785,-10.5,4656365039,Middle Tennessee Blue Raiders (+8.5),-8.5,2.0,0,False
-17844474,FIU Panthers vs. Middle Tennessee Blue Raiders,2026-10-20T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,1782576785,-10.5,4656365040,FIU Panthers (-9.5),-9.5,1.7408,0,False
-17844474,FIU Panthers vs. Middle Tennessee Blue Raiders,2026-10-20T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,1782576785,-10.5,4656365041,Middle Tennessee Blue Raiders (+9.5),-9.5,1.9524,0,False
-17844474,FIU Panthers vs. Middle Tennessee Blue Raiders,2026-10-20T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,1782576785,-10.5,4656365042,FIU Panthers (-10.5),-10.5,1.8696,0,True
-17844474,FIU Panthers vs. Middle Tennessee Blue Raiders,2026-10-20T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,1782576785,-10.5,4656365043,Middle Tennessee Blue Raiders (+10.5),-10.5,1.8,0,True
-17844474,FIU Panthers vs. Middle Tennessee Blue Raiders,2026-10-20T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,1782576785,-10.5,4656365044,FIU Panthers (-11.5),-11.5,1.9524,0,False
-17844474,FIU Panthers vs. Middle Tennessee Blue Raiders,2026-10-20T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,1782576785,-10.5,4656365045,Middle Tennessee Blue Raiders (+11.5),-11.5,1.7408,0,False
-17844474,FIU Panthers vs. Middle Tennessee Blue Raiders,2026-10-20T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,1782576785,-10.5,4656365046,FIU Panthers (-12.5),-12.5,2.0,0,False
-17844474,FIU Panthers vs. Middle Tennessee Blue Raiders,2026-10-20T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,1782576785,-10.5,4656365047,Middle Tennessee Blue Raiders (+12.5),-12.5,1.7143,0,False
-17844474,FIU Panthers vs. Middle Tennessee Blue Raiders,2026-10-20T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,1782576785,-10.5,4656365048,FIU Panthers (-13.5),-13.5,2.1,0,False
-17844474,FIU Panthers vs. Middle Tennessee Blue Raiders,2026-10-20T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,1782576785,-10.5,4656365049,Middle Tennessee Blue Raiders (+13.5),-13.5,1.6667,0,False
+17844474,FIU Panthers vs. Middle Tennessee Blue Raiders,2026-10-20T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,1782576783,-8.5,4656365036,FIU Panthers (-7.5),-7.5,1.6667,0,False
+17844474,FIU Panthers vs. Middle Tennessee Blue Raiders,2026-10-20T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,1782576783,-8.5,4656365037,Middle Tennessee Blue Raiders (+7.5),-7.5,2.1,0,False
+17844474,FIU Panthers vs. Middle Tennessee Blue Raiders,2026-10-20T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,1782576783,-8.5,4656365038,FIU Panthers (-8.5),-8.5,1.7143,0,False
+17844474,FIU Panthers vs. Middle Tennessee Blue Raiders,2026-10-20T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,1782576783,-8.5,4656365039,Middle Tennessee Blue Raiders (+8.5),-8.5,2.0,0,False
+17844474,FIU Panthers vs. Middle Tennessee Blue Raiders,2026-10-20T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,1782576783,-8.5,4656365040,FIU Panthers (-9.5),-9.5,1.7408,0,False
+17844474,FIU Panthers vs. Middle Tennessee Blue Raiders,2026-10-20T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,1782576783,-8.5,4656365041,Middle Tennessee Blue Raiders (+9.5),-9.5,1.9524,0,False
+17844474,FIU Panthers vs. Middle Tennessee Blue Raiders,2026-10-20T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,1782576783,-8.5,4656365042,FIU Panthers (-10.5),-10.5,1.8696,0,True
+17844474,FIU Panthers vs. Middle Tennessee Blue Raiders,2026-10-20T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,1782576783,-8.5,4656365043,Middle Tennessee Blue Raiders (+10.5),-10.5,1.8,0,True
+17844474,FIU Panthers vs. Middle Tennessee Blue Raiders,2026-10-20T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,1782576783,-8.5,4656365044,FIU Panthers (-11.5),-11.5,1.9524,0,False
+17844474,FIU Panthers vs. Middle Tennessee Blue Raiders,2026-10-20T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,1782576783,-8.5,4656365045,Middle Tennessee Blue Raiders (+11.5),-11.5,1.7408,0,False
+17844474,FIU Panthers vs. Middle Tennessee Blue Raiders,2026-10-20T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,1782576783,-8.5,4656365046,FIU Panthers (-12.5),-12.5,2.0,0,False
+17844474,FIU Panthers vs. Middle Tennessee Blue Raiders,2026-10-20T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,1782576783,-8.5,4656365047,Middle Tennessee Blue Raiders (+12.5),-12.5,1.7143,0,False
+17844474,FIU Panthers vs. Middle Tennessee Blue Raiders,2026-10-20T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,1782576783,-8.5,4656365048,FIU Panthers (-13.5),-13.5,2.1,0,False
+17844474,FIU Panthers vs. Middle Tennessee Blue Raiders,2026-10-20T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,1782576783,-8.5,4656365049,Middle Tennessee Blue Raiders (+13.5),-13.5,1.6667,0,False
 17844474,FIU Panthers vs. Middle Tennessee Blue Raiders,2026-10-20T23:00:00Z,total,Total (prolongations incluses),225,70803,1782576815,42.5,4656365102,Plus de 42.5,42.5,1.625,0,False
 17844474,FIU Panthers vs. Middle Tennessee Blue Raiders,2026-10-20T23:00:00Z,total,Total (prolongations incluses),225,70803,1782576815,42.5,4656365103,Moins de 42.5,42.5,2.2,0,False
 17844474,FIU Panthers vs. Middle Tennessee Blue Raiders,2026-10-20T23:00:00Z,total,Total (prolongations incluses),225,70803,1782576815,42.5,4656365104,Plus de 43.5,43.5,1.6667,0,False
@@ -855,34 +853,34 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17844474,FIU Panthers vs. Middle Tennessee Blue Raiders,2026-10-20T23:00:00Z,total,Total (prolongations incluses),225,70803,1782576815,42.5,4656365115,Moins de 48.5,48.5,1.6451,0,False
 17844473,Marshall Herd vs. South Alabama Jaguars,2026-10-20T23:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1781024454,,4651480669,Marshall Herd,,2.15,0,False
 17844473,Marshall Herd vs. South Alabama Jaguars,2026-10-20T23:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1781024454,,4651480670,South Alabama Jaguars,,1.6061,0,False
-17844473,Marshall Herd vs. South Alabama Jaguars,2026-10-20T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1781024589,+4.5,4651480941,Marshall Herd (+7.5),+7.5,1.4348,0,False
-17844473,Marshall Herd vs. South Alabama Jaguars,2026-10-20T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1781024589,+4.5,4651480942,South Alabama Jaguars (-7.5),+7.5,2.65,0,False
-17844473,Marshall Herd vs. South Alabama Jaguars,2026-10-20T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1781024589,+4.5,4651480943,Marshall Herd (+6.5),+6.5,1.5455,0,False
-17844473,Marshall Herd vs. South Alabama Jaguars,2026-10-20T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1781024589,+4.5,4651480944,South Alabama Jaguars (-6.5),+6.5,2.35,0,False
-17844473,Marshall Herd vs. South Alabama Jaguars,2026-10-20T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1781024589,+4.5,4651480945,Marshall Herd (+5.5),+5.5,1.625,0,False
-17844473,Marshall Herd vs. South Alabama Jaguars,2026-10-20T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1781024589,+4.5,4651480946,South Alabama Jaguars (-5.5),+5.5,2.2,0,False
-17844473,Marshall Herd vs. South Alabama Jaguars,2026-10-20T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1781024589,+4.5,4651480947,Marshall Herd (+4.5),+4.5,1.6667,0,False
-17844473,Marshall Herd vs. South Alabama Jaguars,2026-10-20T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1781024589,+4.5,4651480948,South Alabama Jaguars (-4.5),+4.5,2.1,0,False
-17844473,Marshall Herd vs. South Alabama Jaguars,2026-10-20T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1781024589,+4.5,4651480949,Marshall Herd (+3.5),+3.5,1.7693,0,True
-17844473,Marshall Herd vs. South Alabama Jaguars,2026-10-20T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1781024589,+4.5,4651480950,South Alabama Jaguars (-3.5),+3.5,1.9091,0,True
-17844473,Marshall Herd vs. South Alabama Jaguars,2026-10-20T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1781024589,+4.5,4651480951,Marshall Herd (+2.5),+2.5,1.9524,0,False
-17844473,Marshall Herd vs. South Alabama Jaguars,2026-10-20T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1781024589,+4.5,4651480952,South Alabama Jaguars (-2.5),+2.5,1.7408,0,False
-17844473,Marshall Herd vs. South Alabama Jaguars,2026-10-20T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1781024589,+4.5,4651480953,Marshall Herd (+1.5),+1.5,2.05,0,False
-17844473,Marshall Herd vs. South Alabama Jaguars,2026-10-20T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1781024589,+4.5,4651480954,South Alabama Jaguars (-1.5),+1.5,1.6897,0,False
-17844473,Marshall Herd vs. South Alabama Jaguars,2026-10-20T23:30:00Z,total,Total (prolongations incluses),225,70803,1781025117,59.5,4651482304,Moins de 64.5,64.5,1.6897,0,False
-17844473,Marshall Herd vs. South Alabama Jaguars,2026-10-20T23:30:00Z,total,Total (prolongations incluses),225,70803,1781025117,59.5,4651482291,Plus de 58.5,58.5,1.6451,0,False
-17844473,Marshall Herd vs. South Alabama Jaguars,2026-10-20T23:30:00Z,total,Total (prolongations incluses),225,70803,1781025117,59.5,4651482292,Moins de 58.5,58.5,2.15,0,False
-17844473,Marshall Herd vs. South Alabama Jaguars,2026-10-20T23:30:00Z,total,Total (prolongations incluses),225,70803,1781025117,59.5,4651482293,Plus de 59.5,59.5,1.7143,0,False
-17844473,Marshall Herd vs. South Alabama Jaguars,2026-10-20T23:30:00Z,total,Total (prolongations incluses),225,70803,1781025117,59.5,4651482294,Moins de 59.5,59.5,2.0,0,False
-17844473,Marshall Herd vs. South Alabama Jaguars,2026-10-20T23:30:00Z,total,Total (prolongations incluses),225,70803,1781025117,59.5,4651482295,Plus de 60.5,60.5,1.7408,0,False
-17844473,Marshall Herd vs. South Alabama Jaguars,2026-10-20T23:30:00Z,total,Total (prolongations incluses),225,70803,1781025117,59.5,4651482296,Moins de 60.5,60.5,1.9524,0,False
-17844473,Marshall Herd vs. South Alabama Jaguars,2026-10-20T23:30:00Z,total,Total (prolongations incluses),225,70803,1781025117,59.5,4651482297,Plus de 61.5,61.5,1.8,0,True
-17844473,Marshall Herd vs. South Alabama Jaguars,2026-10-20T23:30:00Z,total,Total (prolongations incluses),225,70803,1781025117,59.5,4651482298,Moins de 61.5,61.5,1.8696,0,True
-17844473,Marshall Herd vs. South Alabama Jaguars,2026-10-20T23:30:00Z,total,Total (prolongations incluses),225,70803,1781025117,59.5,4651482299,Plus de 62.5,62.5,1.8696,0,False
-17844473,Marshall Herd vs. South Alabama Jaguars,2026-10-20T23:30:00Z,total,Total (prolongations incluses),225,70803,1781025117,59.5,4651482300,Moins de 62.5,62.5,1.8,0,False
-17844473,Marshall Herd vs. South Alabama Jaguars,2026-10-20T23:30:00Z,total,Total (prolongations incluses),225,70803,1781025117,59.5,4651482301,Plus de 63.5,63.5,2.0,0,False
-17844473,Marshall Herd vs. South Alabama Jaguars,2026-10-20T23:30:00Z,total,Total (prolongations incluses),225,70803,1781025117,59.5,4651482302,Moins de 63.5,63.5,1.7143,0,False
-17844473,Marshall Herd vs. South Alabama Jaguars,2026-10-20T23:30:00Z,total,Total (prolongations incluses),225,70803,1781025117,59.5,4651482303,Plus de 64.5,64.5,2.05,0,False
+17844473,Marshall Herd vs. South Alabama Jaguars,2026-10-20T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1781024590,+3.5,4651480941,Marshall Herd (+7.5),+7.5,1.4348,0,False
+17844473,Marshall Herd vs. South Alabama Jaguars,2026-10-20T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1781024590,+3.5,4651480942,South Alabama Jaguars (-7.5),+7.5,2.65,0,False
+17844473,Marshall Herd vs. South Alabama Jaguars,2026-10-20T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1781024590,+3.5,4651480943,Marshall Herd (+6.5),+6.5,1.5455,0,False
+17844473,Marshall Herd vs. South Alabama Jaguars,2026-10-20T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1781024590,+3.5,4651480944,South Alabama Jaguars (-6.5),+6.5,2.35,0,False
+17844473,Marshall Herd vs. South Alabama Jaguars,2026-10-20T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1781024590,+3.5,4651480945,Marshall Herd (+5.5),+5.5,1.625,0,False
+17844473,Marshall Herd vs. South Alabama Jaguars,2026-10-20T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1781024590,+3.5,4651480946,South Alabama Jaguars (-5.5),+5.5,2.2,0,False
+17844473,Marshall Herd vs. South Alabama Jaguars,2026-10-20T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1781024590,+3.5,4651480947,Marshall Herd (+4.5),+4.5,1.6667,0,False
+17844473,Marshall Herd vs. South Alabama Jaguars,2026-10-20T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1781024590,+3.5,4651480948,South Alabama Jaguars (-4.5),+4.5,2.1,0,False
+17844473,Marshall Herd vs. South Alabama Jaguars,2026-10-20T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1781024590,+3.5,4651480949,Marshall Herd (+3.5),+3.5,1.7693,0,True
+17844473,Marshall Herd vs. South Alabama Jaguars,2026-10-20T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1781024590,+3.5,4651480950,South Alabama Jaguars (-3.5),+3.5,1.9091,0,True
+17844473,Marshall Herd vs. South Alabama Jaguars,2026-10-20T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1781024590,+3.5,4651480951,Marshall Herd (+2.5),+2.5,1.9524,0,False
+17844473,Marshall Herd vs. South Alabama Jaguars,2026-10-20T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1781024590,+3.5,4651480952,South Alabama Jaguars (-2.5),+2.5,1.7408,0,False
+17844473,Marshall Herd vs. South Alabama Jaguars,2026-10-20T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1781024590,+3.5,4651480953,Marshall Herd (+1.5),+1.5,2.05,0,False
+17844473,Marshall Herd vs. South Alabama Jaguars,2026-10-20T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1781024590,+3.5,4651480954,South Alabama Jaguars (-1.5),+1.5,1.6897,0,False
+17844473,Marshall Herd vs. South Alabama Jaguars,2026-10-20T23:30:00Z,total,Total (prolongations incluses),225,70803,1781025119,61.5,4651482304,Moins de 64.5,64.5,1.6897,0,False
+17844473,Marshall Herd vs. South Alabama Jaguars,2026-10-20T23:30:00Z,total,Total (prolongations incluses),225,70803,1781025119,61.5,4651482291,Plus de 58.5,58.5,1.6451,0,False
+17844473,Marshall Herd vs. South Alabama Jaguars,2026-10-20T23:30:00Z,total,Total (prolongations incluses),225,70803,1781025119,61.5,4651482292,Moins de 58.5,58.5,2.15,0,False
+17844473,Marshall Herd vs. South Alabama Jaguars,2026-10-20T23:30:00Z,total,Total (prolongations incluses),225,70803,1781025119,61.5,4651482293,Plus de 59.5,59.5,1.7143,0,False
+17844473,Marshall Herd vs. South Alabama Jaguars,2026-10-20T23:30:00Z,total,Total (prolongations incluses),225,70803,1781025119,61.5,4651482294,Moins de 59.5,59.5,2.0,0,False
+17844473,Marshall Herd vs. South Alabama Jaguars,2026-10-20T23:30:00Z,total,Total (prolongations incluses),225,70803,1781025119,61.5,4651482295,Plus de 60.5,60.5,1.7408,0,False
+17844473,Marshall Herd vs. South Alabama Jaguars,2026-10-20T23:30:00Z,total,Total (prolongations incluses),225,70803,1781025119,61.5,4651482296,Moins de 60.5,60.5,1.9524,0,False
+17844473,Marshall Herd vs. South Alabama Jaguars,2026-10-20T23:30:00Z,total,Total (prolongations incluses),225,70803,1781025119,61.5,4651482297,Plus de 61.5,61.5,1.8,0,True
+17844473,Marshall Herd vs. South Alabama Jaguars,2026-10-20T23:30:00Z,total,Total (prolongations incluses),225,70803,1781025119,61.5,4651482298,Moins de 61.5,61.5,1.8696,0,True
+17844473,Marshall Herd vs. South Alabama Jaguars,2026-10-20T23:30:00Z,total,Total (prolongations incluses),225,70803,1781025119,61.5,4651482299,Plus de 62.5,62.5,1.8696,0,False
+17844473,Marshall Herd vs. South Alabama Jaguars,2026-10-20T23:30:00Z,total,Total (prolongations incluses),225,70803,1781025119,61.5,4651482300,Moins de 62.5,62.5,1.8,0,False
+17844473,Marshall Herd vs. South Alabama Jaguars,2026-10-20T23:30:00Z,total,Total (prolongations incluses),225,70803,1781025119,61.5,4651482301,Plus de 63.5,63.5,2.0,0,False
+17844473,Marshall Herd vs. South Alabama Jaguars,2026-10-20T23:30:00Z,total,Total (prolongations incluses),225,70803,1781025119,61.5,4651482302,Moins de 63.5,63.5,1.7143,0,False
+17844473,Marshall Herd vs. South Alabama Jaguars,2026-10-20T23:30:00Z,total,Total (prolongations incluses),225,70803,1781025119,61.5,4651482303,Plus de 64.5,64.5,2.05,0,False
 17854044,Sam Houston State Bearkats vs. New Mexico St Aggies,2026-10-22T00:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1783375428,,4659128552,New Mexico St Aggies,,1.6667,0,False
 17854044,Sam Houston State Bearkats vs. New Mexico St Aggies,2026-10-22T00:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1783375428,,4659128551,Sam Houston State Bearkats,,2.05,0,False
 17854044,Sam Houston State Bearkats vs. New Mexico St Aggies,2026-10-22T00:00:00Z,spread,Handicap (inclus prolongations),223,70799,1783375501,+1.5,4659128706,Sam Houston State Bearkats (+3.5),+3.5,1.7143,0,False
@@ -899,10 +897,18 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17854044,Sam Houston State Bearkats vs. New Mexico St Aggies,2026-10-22T00:00:00Z,total,Total (prolongations incluses),225,70803,1783375576,46.5,4659128880,Moins de 46.5,46.5,1.9524,0,False
 17863763,Kennesaw State Owls vs. Liberty Flames,2026-10-22T23:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1782578342,,4656368888,Kennesaw State Owls,,3.3,0,False
 17863763,Kennesaw State Owls vs. Liberty Flames,2026-10-22T23:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1782578342,,4656368889,Liberty Flames,,1.2667,0,False
-17863763,Kennesaw State Owls vs. Liberty Flames,2026-10-22T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,1782578478,+8.5,4656369177,Kennesaw State Owls (+8.5),+8.5,1.8334,0,True
-17863763,Kennesaw State Owls vs. Liberty Flames,2026-10-22T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,1782578478,+8.5,4656369178,Liberty Flames (-8.5),+8.5,1.8334,0,True
-17863763,Kennesaw State Owls vs. Liberty Flames,2026-10-22T23:00:00Z,total,Total (prolongations incluses),225,70803,1782578374,47.5,4656368956,Plus de 47.5,47.5,1.8,0,True
-17863763,Kennesaw State Owls vs. Liberty Flames,2026-10-22T23:00:00Z,total,Total (prolongations incluses),225,70803,1782578374,47.5,4656368957,Moins de 47.5,47.5,1.8696,0,True
+17863763,Kennesaw State Owls vs. Liberty Flames,2026-10-22T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,1782578477,+9.5,4656369175,Kennesaw State Owls (+9.5),+9.5,1.7693,0,False
+17863763,Kennesaw State Owls vs. Liberty Flames,2026-10-22T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,1782578477,+9.5,4656369176,Liberty Flames (-9.5),+9.5,1.9091,0,False
+17863763,Kennesaw State Owls vs. Liberty Flames,2026-10-22T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,1782578477,+9.5,4656369177,Kennesaw State Owls (+8.5),+8.5,1.8334,0,True
+17863763,Kennesaw State Owls vs. Liberty Flames,2026-10-22T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,1782578477,+9.5,4656369178,Liberty Flames (-8.5),+8.5,1.8334,0,True
+17863763,Kennesaw State Owls vs. Liberty Flames,2026-10-22T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,1782578477,+9.5,4656369179,Kennesaw State Owls (+7.5),+7.5,1.8696,0,False
+17863763,Kennesaw State Owls vs. Liberty Flames,2026-10-22T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,1782578477,+9.5,4656369180,Liberty Flames (-7.5),+7.5,1.8,0,False
+17863763,Kennesaw State Owls vs. Liberty Flames,2026-10-22T23:00:00Z,total,Total (prolongations incluses),225,70803,1782578375,48.5,4656368954,Plus de 46.5,46.5,1.7143,0,False
+17863763,Kennesaw State Owls vs. Liberty Flames,2026-10-22T23:00:00Z,total,Total (prolongations incluses),225,70803,1782578375,48.5,4656368955,Moins de 46.5,46.5,2.0,0,False
+17863763,Kennesaw State Owls vs. Liberty Flames,2026-10-22T23:00:00Z,total,Total (prolongations incluses),225,70803,1782578375,48.5,4656368956,Plus de 47.5,47.5,1.8,0,True
+17863763,Kennesaw State Owls vs. Liberty Flames,2026-10-22T23:00:00Z,total,Total (prolongations incluses),225,70803,1782578375,48.5,4656368957,Moins de 47.5,47.5,1.8696,0,True
+17863763,Kennesaw State Owls vs. Liberty Flames,2026-10-22T23:00:00Z,total,Total (prolongations incluses),225,70803,1782578375,48.5,4656368958,Plus de 48.5,48.5,1.9091,0,False
+17863763,Kennesaw State Owls vs. Liberty Flames,2026-10-22T23:00:00Z,total,Total (prolongations incluses),225,70803,1782578375,48.5,4656368959,Moins de 48.5,48.5,1.7693,0,False
 17883353,Arizona Wildcats vs. Iowa State Cyclones,2026-10-24T04:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1783122539,,4658386690,Arizona Wildcats,,1.2106,0,False
 17883353,Arizona Wildcats vs. Iowa State Cyclones,2026-10-24T04:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1783122539,,4658386691,Iowa State Cyclones,,3.75,0,False
 17883353,Arizona Wildcats vs. Iowa State Cyclones,2026-10-24T04:00:00Z,spread,Handicap (inclus prolongations),223,70799,1783122724,-10.5,4658387152,Arizona Wildcats (-10.5),-10.5,1.8696,0,True
@@ -975,3 +981,9 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17332031,Alabama Crimson Tide vs. Texas A&M Aggies,2026-10-24T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,1698811131,-15.5,4395046459,Texas A&M Aggies (+15.5),-15.5,1.8696,0,True
 17332031,Alabama Crimson Tide vs. Texas A&M Aggies,2026-10-24T19:30:00Z,total,Total (prolongations incluses),225,70803,1698811152,51.5,4395046498,Plus de 51.5,51.5,1.8334,0,True
 17332031,Alabama Crimson Tide vs. Texas A&M Aggies,2026-10-24T19:30:00Z,total,Total (prolongations incluses),225,70803,1698811152,51.5,4395046499,Moins de 51.5,51.5,1.8334,0,True
+17332032,Texas Longhorns vs. Ole Miss Rebels,2026-10-24T23:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1675261944,,4322355763,Texas Longhorns,,1.3847,0,False
+17332032,Texas Longhorns vs. Ole Miss Rebels,2026-10-24T23:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1675261944,,4322355764,Ole Miss Rebels,,2.7,0,False
+17332032,Texas Longhorns vs. Ole Miss Rebels,2026-10-24T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1698816294,-6.5,4395057281,Texas Longhorns (-6.5),-6.5,1.8696,0,True
+17332032,Texas Longhorns vs. Ole Miss Rebels,2026-10-24T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,1698816294,-6.5,4395057282,Ole Miss Rebels (+6.5),-6.5,1.8,0,True
+17332032,Texas Longhorns vs. Ole Miss Rebels,2026-10-24T23:30:00Z,total,Total (prolongations incluses),225,70803,1698816401,53.5,4395057501,Plus de 53.5,53.5,1.8334,0,True
+17332032,Texas Longhorns vs. Ole Miss Rebels,2026-10-24T23:30:00Z,total,Total (prolongations incluses),225,70803,1698816401,53.5,4395057502,Moins de 53.5,53.5,1.8334,0,True

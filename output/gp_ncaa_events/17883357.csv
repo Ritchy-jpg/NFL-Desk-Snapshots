@@ -1,7 +1,15 @@
 event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id,selection,line,price,odd_id,odd_status,is_main_bet
 17883357,UCF Knights vs. BYU Cougars,2026-10-24T19:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,UCF Knights,,2.8,4649657704,0,False
 17883357,UCF Knights vs. BYU Cougars,2026-10-24T19:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,BYU Cougars,,1.3637,4649657705,0,False
+17883357,UCF Knights vs. BYU Cougars,2026-10-24T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,BYU Cougars (-5.5),5.5,1.6897,4675892830,0,False
+17883357,UCF Knights vs. BYU Cougars,2026-10-24T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,UCF Knights (+7.5),7.5,1.6897,4660972573,0,False
 17883357,UCF Knights vs. BYU Cougars,2026-10-24T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,BYU Cougars (-6.5),6.5,1.8,4671976569,0,True
 17883357,UCF Knights vs. BYU Cougars,2026-10-24T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,UCF Knights (+6.5),6.5,1.8696,4671976570,0,True
+17883357,UCF Knights vs. BYU Cougars,2026-10-24T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,UCF Knights (+5.5),5.5,2.05,4675892829,0,False
+17883357,UCF Knights vs. BYU Cougars,2026-10-24T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,BYU Cougars (-7.5),7.5,2.05,4660972574,0,False
 17883357,UCF Knights vs. BYU Cougars,2026-10-24T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 43.5,43.5,1.8334,4674708672,0,True
+17883357,UCF Knights vs. BYU Cougars,2026-10-24T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 44.5,44.5,2.0,4672465103,0,False
+17883357,UCF Knights vs. BYU Cougars,2026-10-24T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 44.5,44.5,1.7143,4672465104,0,False
+17883357,UCF Knights vs. BYU Cougars,2026-10-24T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 42.5,42.5,1.7408,4675892761,0,False
+17883357,UCF Knights vs. BYU Cougars,2026-10-24T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 42.5,42.5,1.9524,4675892762,0,False
 17883357,UCF Knights vs. BYU Cougars,2026-10-24T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 43.5,43.5,1.8334,4674708671,0,True

@@ -1,7 +1,15 @@
 event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id,selection,line,price,odd_id,odd_status,is_main_bet
 18079322,Ball State Cardinals vs. Sacramento State Hornets,2026-10-24T19:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Sacramento State Hornets,,4.5,4672019081,0,False
 18079322,Ball State Cardinals vs. Sacramento State Hornets,2026-10-24T19:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Ball State Cardinals,,1.1539,4672019082,0,False
-18079322,Ball State Cardinals vs. Sacramento State Hornets,2026-10-24T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Sacramento State Hornets (+13.5),-13.5,1.9091,4675809308,0,True
-18079322,Ball State Cardinals vs. Sacramento State Hornets,2026-10-24T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Ball State Cardinals (-13.5),-13.5,1.7693,4675809309,0,True
+18079322,Ball State Cardinals vs. Sacramento State Hornets,2026-10-24T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Ball State Cardinals (-14.5),-14.5,1.9091,4675809298,0,True
+18079322,Ball State Cardinals vs. Sacramento State Hornets,2026-10-24T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Sacramento State Hornets (+14.5),-14.5,1.7693,4675809299,0,True
+18079322,Ball State Cardinals vs. Sacramento State Hornets,2026-10-24T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Sacramento State Hornets (+13.5),-13.5,1.9524,4675809308,0,False
+18079322,Ball State Cardinals vs. Sacramento State Hornets,2026-10-24T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Ball State Cardinals (-13.5),-13.5,1.7408,4675809309,0,False
+18079322,Ball State Cardinals vs. Sacramento State Hornets,2026-10-24T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Ball State Cardinals (-15.5),-15.5,1.9524,4675809278,0,False
+18079322,Ball State Cardinals vs. Sacramento State Hornets,2026-10-24T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Sacramento State Hornets (+15.5),-15.5,1.7408,4675809279,0,False
+18079322,Ball State Cardinals vs. Sacramento State Hornets,2026-10-24T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 50.5,50.5,1.9091,4672019079,0,False
+18079322,Ball State Cardinals vs. Sacramento State Hornets,2026-10-24T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 50.5,50.5,1.7693,4672019080,0,False
 18079322,Ball State Cardinals vs. Sacramento State Hornets,2026-10-24T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 51.5,51.5,1.7693,4674708691,0,True
 18079322,Ball State Cardinals vs. Sacramento State Hornets,2026-10-24T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 51.5,51.5,1.9091,4674708692,0,True
+18079322,Ball State Cardinals vs. Sacramento State Hornets,2026-10-24T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 52.5,52.5,1.6667,4675809206,0,False
+18079322,Ball State Cardinals vs. Sacramento State Hornets,2026-10-24T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 52.5,52.5,2.1,4675809207,0,False

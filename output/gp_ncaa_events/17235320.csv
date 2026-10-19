@@ -1,7 +1,15 @@
 event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id,selection,line,price,odd_id,odd_status,is_main_bet
 17235320,Michigan Wolverines vs. Indiana Hoosiers,2026-10-24T16:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Michigan Wolverines,,3.05,4659186553,0,False
 17235320,Michigan Wolverines vs. Indiana Hoosiers,2026-10-24T16:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Indiana Hoosiers,,1.3125,4659186554,0,False
+17235320,Michigan Wolverines vs. Indiana Hoosiers,2026-10-24T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,Indiana Hoosiers (-8.5),8.5,2.05,4660972555,0,False
+17235320,Michigan Wolverines vs. Indiana Hoosiers,2026-10-24T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,Michigan Wolverines (+8.5),8.5,1.6897,4660972556,0,False
+17235320,Michigan Wolverines vs. Indiana Hoosiers,2026-10-24T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,Indiana Hoosiers (-7.5),7.5,1.9524,4671749646,0,True
+17235320,Michigan Wolverines vs. Indiana Hoosiers,2026-10-24T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,Michigan Wolverines (+7.5),7.5,1.7408,4671749647,0,True
 17235320,Michigan Wolverines vs. Indiana Hoosiers,2026-10-24T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,Michigan Wolverines (+7.0),7.0,1.8334,4673035344,0,True
 17235320,Michigan Wolverines vs. Indiana Hoosiers,2026-10-24T16:00:00Z,spread,Handicap (inclus prolongations),223,70799,Indiana Hoosiers (-7.0),7.0,1.8334,4673035343,0,True
 17235320,Michigan Wolverines vs. Indiana Hoosiers,2026-10-24T16:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 41.5,41.5,1.8334,4672081347,0,True
 17235320,Michigan Wolverines vs. Indiana Hoosiers,2026-10-24T16:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 41.5,41.5,1.8334,4672081348,0,True
+17235320,Michigan Wolverines vs. Indiana Hoosiers,2026-10-24T16:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 40.5,40.5,2.0,4675893644,0,False
+17235320,Michigan Wolverines vs. Indiana Hoosiers,2026-10-24T16:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 40.5,40.5,1.7143,4675893645,0,False
+17235320,Michigan Wolverines vs. Indiana Hoosiers,2026-10-24T16:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 42.5,42.5,1.7408,4670345555,0,False
+17235320,Michigan Wolverines vs. Indiana Hoosiers,2026-10-24T16:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 42.5,42.5,1.9524,4670345556,0,False

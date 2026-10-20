@@ -1,290 +1,174 @@
 event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id,market_id,market_sv,odd_id,selection,line,price,odd_status,is_main_bet
 16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1778643362,,4643709624,NE Patriots,,2.2,0,False
 16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1778643362,,4643709623,CHI Bears,,1.625,0,False
-16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,spread,Handicap (inclus prolongations),223,70799,1781407828,-3.0,4652919441,CHI Bears (+4.5),+4.5,1.2858,0,False
-16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,spread,Handicap (inclus prolongations),223,70799,1781407828,-3.0,4652919446,NE Patriots (-4.5),+4.5,3.4,0,False
-16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,spread,Handicap (inclus prolongations),223,70799,1781407828,-3.0,4652919319,CHI Bears (-12.5),-12.5,4.0,0,False
-16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,spread,Handicap (inclus prolongations),223,70799,1781407828,-3.0,4652919320,NE Patriots (+12.5),-12.5,1.2223,0,False
-16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,spread,Handicap (inclus prolongations),223,70799,1781407828,-3.0,4652919455,NE Patriots (-5.5),+5.5,3.7,0,False
-16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,spread,Handicap (inclus prolongations),223,70799,1781407828,-3.0,4652919456,CHI Bears (+5.5),+5.5,1.25,0,False
-16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,spread,Handicap (inclus prolongations),223,70799,1781407828,-3.0,4652919329,CHI Bears (+6.5),+6.5,1.2223,0,False
-16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,spread,Handicap (inclus prolongations),223,70799,1781407828,-3.0,4652919330,NE Patriots (-6.5),+6.5,4.0,0,False
-16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,spread,Handicap (inclus prolongations),223,70799,1781407828,-3.0,4652919459,CHI Bears (+7.5),+7.5,1.1539,0,False
 16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,spread,Handicap (inclus prolongations),223,70799,1781407828,-3.0,4652919331,CHI Bears (+1.5),+1.5,1.5264,0,False
+16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,spread,Handicap (inclus prolongations),223,70799,1781407828,-3.0,4652919332,NE Patriots (-1.5),+1.5,2.4,0,False
 16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,spread,Handicap (inclus prolongations),223,70799,1781407828,-3.0,4652919333,CHI Bears (-6.5),-6.5,2.5,0,False
-16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,spread,Handicap (inclus prolongations),223,70799,1781407828,-3.0,4652919460,NE Patriots (-7.5),+7.5,4.75,0,False
+16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,spread,Handicap (inclus prolongations),223,70799,1781407828,-3.0,4652919334,NE Patriots (+6.5),-6.5,1.5,0,False
 16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,spread,Handicap (inclus prolongations),223,70799,1781407828,-3.0,4652919463,CHI Bears (+3.5),+3.5,1.3334,0,False
 16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,spread,Handicap (inclus prolongations),223,70799,1781407828,-3.0,4652919464,NE Patriots (-3.5),+3.5,3.1,0,False
-16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,spread,Handicap (inclus prolongations),223,70799,1781407828,-3.0,4652919337,CHI Bears (-3.0),-3.0,1.8696,0,True
-16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,spread,Handicap (inclus prolongations),223,70799,1781407828,-3.0,4652919466,CHI Bears (+2.5),+2.5,1.4762,0,False
-16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,spread,Handicap (inclus prolongations),223,70799,1781407828,-3.0,4652919332,NE Patriots (-1.5),+1.5,2.4,0,False
-16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,spread,Handicap (inclus prolongations),223,70799,1781407828,-3.0,4652919468,NE Patriots (-2.5),+2.5,2.55,0,False
-16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,spread,Handicap (inclus prolongations),223,70799,1781407828,-3.0,4652919338,NE Patriots (+3.0),-3.0,1.8,0,True
-16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,spread,Handicap (inclus prolongations),223,70799,1781407828,-3.0,4652919334,NE Patriots (+6.5),-6.5,1.5,0,False
-16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,spread,Handicap (inclus prolongations),223,70799,1781407828,-3.0,4652919349,CHI Bears (-13.5),-13.5,4.4,0,False
-16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,spread,Handicap (inclus prolongations),223,70799,1781407828,-3.0,4652919350,NE Patriots (+13.5),-13.5,1.1819,0,False
-16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,spread,Handicap (inclus prolongations),223,70799,1781407828,-3.0,4652919351,NE Patriots (+5.5),-5.5,1.5556,0,False
-16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,spread,Handicap (inclus prolongations),223,70799,1781407828,-3.0,4652919352,CHI Bears (-5.5),-5.5,2.3,0,False
-16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,spread,Handicap (inclus prolongations),223,70799,1781407828,-3.0,4652919494,CHI Bears (-10.5),-10.5,3.5,0,False
-16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,spread,Handicap (inclus prolongations),223,70799,1781407828,-3.0,4652919367,NE Patriots (+8.5),-8.5,1.3334,0,False
-16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,spread,Handicap (inclus prolongations),223,70799,1781407828,-3.0,4652919368,CHI Bears (-8.5),-8.5,3.1,0,False
-16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,spread,Handicap (inclus prolongations),223,70799,1781407828,-3.0,4652919496,NE Patriots (+10.5),-10.5,1.2667,0,False
-16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,spread,Handicap (inclus prolongations),223,70799,1781407828,-3.0,4652919371,CHI Bears (-9.5),-9.5,3.2,0,False
-16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,spread,Handicap (inclus prolongations),223,70799,1781407828,-3.0,4652919372,NE Patriots (+9.5),-9.5,1.3125,0,False
-16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,spread,Handicap (inclus prolongations),223,70799,1781407828,-3.0,4652919502,CHI Bears (-11.5),-11.5,3.75,0,False
+16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,spread,Handicap (inclus prolongations),223,70799,1781407828,-3.0,4652919337,CHI Bears (-3.0),-3.0,1.9091,0,True
+16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,spread,Handicap (inclus prolongations),223,70799,1781407828,-3.0,4652919466,CHI Bears (+2.5),+2.5,1.5,0,False
+16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,spread,Handicap (inclus prolongations),223,70799,1781407828,-3.0,4652919339,CHI Bears (-2.0),-2.0,1.6667,0,False
+16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,spread,Handicap (inclus prolongations),223,70799,1781407828,-3.0,4652919468,NE Patriots (-2.5),+2.5,2.5,0,False
+16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,spread,Handicap (inclus prolongations),223,70799,1781407828,-3.0,4652919340,NE Patriots (+2.0),-2.0,2.1,0,False
+16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,spread,Handicap (inclus prolongations),223,70799,1781407828,-3.0,4652919338,NE Patriots (+3.0),-3.0,1.7693,0,True
+16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,spread,Handicap (inclus prolongations),223,70799,1781407828,-3.0,4652919343,CHI Bears (-8.0),-8.0,2.9,0,False
+16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,spread,Handicap (inclus prolongations),223,70799,1781407828,-3.0,4652919471,NE Patriots (-1.0),+1.0,2.4,0,False
+16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,spread,Handicap (inclus prolongations),223,70799,1781407828,-3.0,4652919473,CHI Bears (+1.0),+1.0,1.5264,0,False
+16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,spread,Handicap (inclus prolongations),223,70799,1781407828,-3.0,4652919474,CHI Bears (+3.0),+3.0,1.3847,0,False
+16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,spread,Handicap (inclus prolongations),223,70799,1781407828,-3.0,4652919347,CHI Bears (+2.0),+2.0,1.5264,0,False
+16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,spread,Handicap (inclus prolongations),223,70799,1781407828,-3.0,4652919346,CHI Bears (-9.0),-9.0,3.1,0,False
+16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,spread,Handicap (inclus prolongations),223,70799,1781407828,-3.0,4652919476,NE Patriots (-3.0),+3.0,2.85,0,False
+16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,spread,Handicap (inclus prolongations),223,70799,1781407828,-3.0,4652919348,NE Patriots (-2.0),+2.0,2.4,0,False
+16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,spread,Handicap (inclus prolongations),223,70799,1781407828,-3.0,4652919351,NE Patriots (+5.5),-5.5,1.5715,0,False
+16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,spread,Handicap (inclus prolongations),223,70799,1781407828,-3.0,4652919352,CHI Bears (-5.5),-5.5,2.25,0,False
+16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,spread,Handicap (inclus prolongations),223,70799,1781407828,-3.0,4652919344,NE Patriots (+8.0),-8.0,1.3637,0,False
+16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,spread,Handicap (inclus prolongations),223,70799,1781407828,-3.0,4652919345,NE Patriots (+9.0),-9.0,1.3334,0,False
+16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,spread,Handicap (inclus prolongations),223,70799,1781407828,-3.0,4652919355,CHI Bears (+4.0),+4.0,1.3031,0,False
+16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,spread,Handicap (inclus prolongations),223,70799,1781407828,-3.0,4652919356,NE Patriots (-4.0),+4.0,3.25,0,False
+16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,spread,Handicap (inclus prolongations),223,70799,1781407828,-3.0,4652919367,NE Patriots (+8.5),-8.5,1.3637,0,False
+16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,spread,Handicap (inclus prolongations),223,70799,1781407828,-3.0,4652919368,CHI Bears (-8.5),-8.5,2.9,0,False
+16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,spread,Handicap (inclus prolongations),223,70799,1781407828,-3.0,4652919371,CHI Bears (-9.5),-9.5,3.1,0,False
+16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,spread,Handicap (inclus prolongations),223,70799,1781407828,-3.0,4652919372,NE Patriots (+9.5),-9.5,1.3334,0,False
+16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,spread,Handicap (inclus prolongations),223,70799,1781407828,-3.0,4652919373,NE Patriots (+4.0),-4.0,1.625,0,False
+16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,spread,Handicap (inclus prolongations),223,70799,1781407828,-3.0,4652919374,CHI Bears (-4.0),-4.0,2.2,0,False
 16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,spread,Handicap (inclus prolongations),223,70799,1781407828,-3.0,4652919375,CHI Bears (-4.5),-4.5,2.2,0,False
 16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,spread,Handicap (inclus prolongations),223,70799,1781407828,-3.0,4652919376,NE Patriots (+4.5),-4.5,1.625,0,False
-16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,spread,Handicap (inclus prolongations),223,70799,1781407828,-3.0,4652919506,NE Patriots (+11.5),-11.5,1.2353,0,False
+16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,spread,Handicap (inclus prolongations),223,70799,1781407828,-3.0,4652919377,CHI Bears (-6.0),-6.0,2.4,0,False
+16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,spread,Handicap (inclus prolongations),223,70799,1781407828,-3.0,4652919378,NE Patriots (+6.0),-6.0,1.5264,0,False
+16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,spread,Handicap (inclus prolongations),223,70799,1781407828,-3.0,4652919379,NE Patriots (+5.0),-5.0,1.5715,0,False
+16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,spread,Handicap (inclus prolongations),223,70799,1781407828,-3.0,4652919380,CHI Bears (-5.0),-5.0,2.25,0,False
+16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,spread,Handicap (inclus prolongations),223,70799,1781407828,-3.0,4652919381,CHI Bears (-7.0),-7.0,2.65,0,False
+16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,spread,Handicap (inclus prolongations),223,70799,1781407828,-3.0,4652919382,NE Patriots (+7.0),-7.0,1.4348,0,False
 16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,spread,Handicap (inclus prolongations),223,70799,1781407828,-3.0,4652919383,CHI Bears (-7.5),-7.5,2.85,0,False
 16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,spread,Handicap (inclus prolongations),223,70799,1781407828,-3.0,4652919384,NE Patriots (+7.5),-7.5,1.3847,0,False
-16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,spread,Handicap (inclus prolongations),223,70799,1781407828,-3.0,4652919385,CHI Bears (-2.5),-2.5,1.7408,0,True
-16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,spread,Handicap (inclus prolongations),223,70799,1781407828,-3.0,4652919386,NE Patriots (+2.5),-2.5,1.9524,0,True
+16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,spread,Handicap (inclus prolongations),223,70799,1781407828,-3.0,4652919385,CHI Bears (-2.5),-2.5,1.7143,0,True
+16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,spread,Handicap (inclus prolongations),223,70799,1781407828,-3.0,4652919386,NE Patriots (+2.5),-2.5,2.0,0,True
 16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,spread,Handicap (inclus prolongations),223,70799,1781407828,-3.0,4652919387,CHI Bears (-1.5),-1.5,1.6667,0,False
 16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,spread,Handicap (inclus prolongations),223,70799,1781407828,-3.0,4652919388,NE Patriots (+1.5),-1.5,2.1,0,False
-16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,spread,Handicap (inclus prolongations),223,70799,1781407828,-3.0,4652919391,CHI Bears (-3.5),-3.5,2.05,0,False
-16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,spread,Handicap (inclus prolongations),223,70799,1781407828,-3.0,4652919392,NE Patriots (+3.5),-3.5,1.6897,0,False
-16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,total,Total (prolongations incluses),225,70803,1781407764,50.5,4652919168,Moins de 46.5,46.5,2.5,0,False
+16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,spread,Handicap (inclus prolongations),223,70799,1781407828,-3.0,4652919389,CHI Bears (-1.0),-1.0,1.625,0,False
+16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,spread,Handicap (inclus prolongations),223,70799,1781407828,-3.0,4652919390,NE Patriots (+1.0),-1.0,2.2,0,False
+16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,spread,Handicap (inclus prolongations),223,70799,1781407828,-3.0,4652919391,CHI Bears (-3.5),-3.5,2.1,0,False
+16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,spread,Handicap (inclus prolongations),223,70799,1781407828,-3.0,4652919392,NE Patriots (+3.5),-3.5,1.6667,0,False
+16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,total,Total (prolongations incluses),225,70803,1781407764,50.5,4652919168,Moins de 46.5,46.5,2.4,0,False
 16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,total,Total (prolongations incluses),225,70803,1781407764,50.5,4652919296,Moins de 53.5,53.5,1.625,0,False
-16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,total,Total (prolongations incluses),225,70803,1781407764,50.5,4652919177,Plus de 47.5,47.5,1.5556,0,False
-16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,total,Total (prolongations incluses),225,70803,1781407764,50.5,4652919178,Moins de 47.5,47.5,2.3,0,False
-16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,total,Total (prolongations incluses),225,70803,1781407764,50.5,4652919179,Plus de 57.5,57.5,2.9,0,False
-16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,total,Total (prolongations incluses),225,70803,1781407764,50.5,4652919180,Moins de 57.5,57.5,1.3637,0,False
+16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,total,Total (prolongations incluses),225,70803,1781407764,50.5,4652919301,Plus de 51.0,51.0,1.9091,0,False
+16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,total,Total (prolongations incluses),225,70803,1781407764,50.5,4652919302,Moins de 51.0,51.0,1.7693,0,False
+16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,total,Total (prolongations incluses),225,70803,1781407764,50.5,4652919177,Plus de 47.5,47.5,1.625,0,False
+16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,total,Total (prolongations incluses),225,70803,1781407764,50.5,4652919178,Moins de 47.5,47.5,2.2,0,False
+16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,total,Total (prolongations incluses),225,70803,1781407764,50.5,4652919313,Plus de 53.0,53.0,2.15,0,False
+16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,total,Total (prolongations incluses),225,70803,1781407764,50.5,4652919314,Moins de 53.0,53.0,1.6451,0,False
+16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,total,Total (prolongations incluses),225,70803,1781407764,50.5,4652919187,Moins de 52.0,52.0,1.7143,0,False
+16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,total,Total (prolongations incluses),225,70803,1781407764,50.5,4652919188,Plus de 52.0,52.0,2.0,0,False
+16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,total,Total (prolongations incluses),225,70803,1781407764,50.5,4652919189,Moins de 50.0,50.0,1.9524,0,False
+16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,total,Total (prolongations incluses),225,70803,1781407764,50.5,4652919190,Plus de 50.0,50.0,1.7408,0,False
 16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,total,Total (prolongations incluses),225,70803,1781407764,50.5,4652919197,Moins de 55.5,55.5,1.5,0,False
 16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,total,Total (prolongations incluses),225,70803,1781407764,50.5,4652919198,Plus de 55.5,55.5,2.5,0,False
-16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,total,Total (prolongations incluses),225,70803,1781407764,50.5,4652919199,Plus de 45.5,45.5,1.4348,0,False
-16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,total,Total (prolongations incluses),225,70803,1781407764,50.5,4652919200,Moins de 45.5,45.5,2.65,0,False
-16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,total,Total (prolongations incluses),225,70803,1781407764,50.5,4652919205,Moins de 54.5,54.5,1.5455,0,False
-16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,total,Total (prolongations incluses),225,70803,1781407764,50.5,4652919206,Plus de 54.5,54.5,2.35,0,False
-16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,total,Total (prolongations incluses),225,70803,1781407764,50.5,4652919207,Plus de 44.5,44.5,1.3847,0,False
-16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,total,Total (prolongations incluses),225,70803,1781407764,50.5,4652919208,Moins de 44.5,44.5,2.85,0,False
-16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,total,Total (prolongations incluses),225,70803,1781407764,50.5,4652919213,Moins de 59.5,59.5,1.2858,0,False
-16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,total,Total (prolongations incluses),225,70803,1781407764,50.5,4652919214,Plus de 59.5,59.5,3.4,0,False
-16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,total,Total (prolongations incluses),225,70803,1781407764,50.5,4652919217,Moins de 39.5,39.5,4.5,0,False
-16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,total,Total (prolongations incluses),225,70803,1781407764,50.5,4652919218,Plus de 39.5,39.5,1.1667,0,False
-16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,total,Total (prolongations incluses),225,70803,1781407764,50.5,4652919229,Plus de 58.5,58.5,3.15,0,False
-16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,total,Total (prolongations incluses),225,70803,1781407764,50.5,4652919230,Moins de 58.5,58.5,1.3226,0,False
+16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,total,Total (prolongations incluses),225,70803,1781407764,50.5,4652919199,Plus de 45.5,45.5,1.4762,0,False
+16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,total,Total (prolongations incluses),225,70803,1781407764,50.5,4652919200,Moins de 45.5,45.5,2.55,0,False
+16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,total,Total (prolongations incluses),225,70803,1781407764,50.5,4652919205,Moins de 54.5,54.5,1.5556,0,False
+16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,total,Total (prolongations incluses),225,70803,1781407764,50.5,4652919206,Plus de 54.5,54.5,2.3,0,False
+16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,total,Total (prolongations incluses),225,70803,1781407764,50.5,4652919207,Plus de 44.5,44.5,1.4546,0,False
+16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,total,Total (prolongations incluses),225,70803,1781407764,50.5,4652919208,Moins de 44.5,44.5,2.6,0,False
+16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,total,Total (prolongations incluses),225,70803,1781407764,50.5,4652919161,Moins de 49.0,49.0,2.05,0,False
+16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,total,Total (prolongations incluses),225,70803,1781407764,50.5,4652919290,Moins de 48.0,48.0,2.15,0,False
+16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,total,Total (prolongations incluses),225,70803,1781407764,50.5,4652919221,Plus de 56.0,56.0,2.55,0,False
+16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,total,Total (prolongations incluses),225,70803,1781407764,50.5,4652919222,Moins de 56.0,56.0,1.4762,0,False
+16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,total,Total (prolongations incluses),225,70803,1781407764,50.5,4652919223,Plus de 46.0,46.0,1.5,0,False
+16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,total,Total (prolongations incluses),225,70803,1781407764,50.5,4652919224,Moins de 46.0,46.0,2.5,0,False
+16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,total,Total (prolongations incluses),225,70803,1781407764,50.5,4652919239,Plus de 45.0,45.0,1.4546,0,False
+16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,total,Total (prolongations incluses),225,70803,1781407764,50.5,4652919240,Moins de 45.0,45.0,2.6,0,False
+16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,total,Total (prolongations incluses),225,70803,1781407764,50.5,4652919241,Plus de 55.0,55.0,2.4,0,False
+16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,total,Total (prolongations incluses),225,70803,1781407764,50.5,4652919242,Moins de 55.0,55.0,1.5264,0,False
 16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,total,Total (prolongations incluses),225,70803,1781407764,50.5,4652919295,Plus de 53.5,53.5,2.2,0,False
-16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,total,Total (prolongations incluses),225,70803,1781407764,50.5,4652919245,Plus de 60.5,60.5,3.7,0,False
-16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,total,Total (prolongations incluses),225,70803,1781407764,50.5,4652919246,Moins de 60.5,60.5,1.25,0,False
-16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,total,Total (prolongations incluses),225,70803,1781407764,50.5,4652919247,Plus de 40.5,40.5,1.2,0,False
-16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,total,Total (prolongations incluses),225,70803,1781407764,50.5,4652919248,Moins de 40.5,40.5,4.2,0,False
-16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,total,Total (prolongations incluses),225,70803,1781407764,50.5,4652919249,Plus de 50.5,50.5,1.8,0,True
-16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,total,Total (prolongations incluses),225,70803,1781407764,50.5,4652919250,Moins de 50.5,50.5,1.8696,0,True
+16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,total,Total (prolongations incluses),225,70803,1781407764,50.5,4652919249,Plus de 50.5,50.5,1.8334,0,True
+16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,total,Total (prolongations incluses),225,70803,1781407764,50.5,4652919250,Moins de 50.5,50.5,1.8334,0,True
+16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,total,Total (prolongations incluses),225,70803,1781407764,50.5,4652919251,Plus de 54.0,54.0,2.25,0,False
+16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,total,Total (prolongations incluses),225,70803,1781407764,50.5,4652919252,Moins de 54.0,54.0,1.5715,0,False
 16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,total,Total (prolongations incluses),225,70803,1781407764,50.5,4661187159,Plus de 49.5,49.5,1.7143,0,False
 16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,total,Total (prolongations incluses),225,70803,1781407764,50.5,4661187160,Moins de 49.5,49.5,2.0,0,False
-16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,total,Total (prolongations incluses),225,70803,1781407764,50.5,4652919261,Plus de 61.5,61.5,4.0,0,False
-16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,total,Total (prolongations incluses),225,70803,1781407764,50.5,4652919262,Moins de 61.5,61.5,1.2223,0,False
-16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,total,Total (prolongations incluses),225,70803,1781407764,50.5,4652919263,Plus de 41.5,41.5,1.2353,0,False
-16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,total,Total (prolongations incluses),225,70803,1781407764,50.5,4652919264,Moins de 41.5,41.5,3.75,0,False
-16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,total,Total (prolongations incluses),225,70803,1781407764,50.5,4652919265,Plus de 51.5,51.5,1.9524,0,False
-16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,total,Total (prolongations incluses),225,70803,1781407764,50.5,4652919266,Moins de 51.5,51.5,1.7408,0,False
-16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,total,Total (prolongations incluses),225,70803,1781407764,50.5,4652919279,Plus de 42.5,42.5,1.2667,0,False
-16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,total,Total (prolongations incluses),225,70803,1781407764,50.5,4652919280,Moins de 42.5,42.5,3.5,0,False
-16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,total,Total (prolongations incluses),225,70803,1781407764,50.5,4643892465,Plus de 48.5,48.5,1.6451,0,False
+16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,total,Total (prolongations incluses),225,70803,1781407764,50.5,4652919265,Plus de 51.5,51.5,2.0,0,False
+16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,total,Total (prolongations incluses),225,70803,1781407764,50.5,4652919266,Moins de 51.5,51.5,1.7143,0,False
+16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,total,Total (prolongations incluses),225,70803,1781407764,50.5,4652919271,Plus de 47.0,47.0,1.5556,0,False
+16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,total,Total (prolongations incluses),225,70803,1781407764,50.5,4652919272,Moins de 47.0,47.0,2.3,0,False
+16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,total,Total (prolongations incluses),225,70803,1781407764,50.5,4643892465,Plus de 48.5,48.5,1.6667,0,False
 16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,total,Total (prolongations incluses),225,70803,1781407764,50.5,4652919281,Plus de 52.5,52.5,2.05,0,False
-16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,total,Total (prolongations incluses),225,70803,1781407764,50.5,4643892466,Moins de 48.5,48.5,2.15,0,False
+16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,total,Total (prolongations incluses),225,70803,1781407764,50.5,4643892466,Moins de 48.5,48.5,2.1,0,False
 16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,total,Total (prolongations incluses),225,70803,1781407764,50.5,4652919282,Moins de 52.5,52.5,1.6897,0,False
-16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,total,Total (prolongations incluses),225,70803,1781407764,50.5,4652919285,Plus de 43.5,43.5,1.3226,0,False
-16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,total,Total (prolongations incluses),225,70803,1781407764,50.5,4652919286,Moins de 43.5,43.5,3.15,0,False
-16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,total,Total (prolongations incluses),225,70803,1781407764,50.5,4652919165,Plus de 56.5,56.5,2.65,0,False
-16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,total,Total (prolongations incluses),225,70803,1781407764,50.5,4652919166,Moins de 56.5,56.5,1.4348,0,False
-16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,total,Total (prolongations incluses),225,70803,1781407764,50.5,4652919167,Plus de 46.5,46.5,1.5,0,False
-16500356,NO Saints vs. PIT Steelers,2026-10-25T13:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1568044756,,3984416929,PIT Steelers,,1.5,0,False
-16500356,NO Saints vs. PIT Steelers,2026-10-25T13:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1568044756,,3984416930,NO Saints,,2.5,0,False
+16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,total,Total (prolongations incluses),225,70803,1781407764,50.5,4652919289,Plus de 48.0,48.0,1.6451,0,False
+16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,total,Total (prolongations incluses),225,70803,1781407764,50.5,4652919162,Plus de 49.0,49.0,1.6897,0,False
+16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,total,Total (prolongations incluses),225,70803,1781407764,50.5,4652919165,Plus de 56.5,56.5,2.6,0,False
+16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,total,Total (prolongations incluses),225,70803,1781407764,50.5,4652919166,Moins de 56.5,56.5,1.4546,0,False
+16552474,CHI Bears vs. NE Patriots,2026-10-23T00:15:00Z,total,Total (prolongations incluses),225,70803,1781407764,50.5,4652919167,Plus de 46.5,46.5,1.5264,0,False
+16500356,NO Saints vs. PIT Steelers,2026-10-25T13:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1568044756,,3984416929,PIT Steelers,,1.5264,0,False
+16500356,NO Saints vs. PIT Steelers,2026-10-25T13:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1568044756,,3984416930,NO Saints,,2.4,0,False
 16500356,NO Saints vs. PIT Steelers,2026-10-25T13:30:00Z,spread,Handicap (inclus prolongations),223,70799,1781408153,+3.5,4652920267,PIT Steelers (-3.5),+3.5,1.9091,0,True
 16500356,NO Saints vs. PIT Steelers,2026-10-25T13:30:00Z,spread,Handicap (inclus prolongations),223,70799,1781408153,+3.5,4652920268,NO Saints (+3.5),+3.5,1.7693,0,True
-16500356,NO Saints vs. PIT Steelers,2026-10-25T13:30:00Z,total,Total (prolongations incluses),225,70803,1778733514,44.5,4643923042,Plus de 44.5,44.5,1.8696,0,True
-16500356,NO Saints vs. PIT Steelers,2026-10-25T13:30:00Z,total,Total (prolongations incluses),225,70803,1778733514,44.5,4643923043,Moins de 44.5,44.5,1.8,0,True
-16552467,ATL Falcons vs. SF 49ers,2026-10-25T17:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1778657056,,4643745393,ATL Falcons,,2.6,0,False
-16552467,ATL Falcons vs. SF 49ers,2026-10-25T17:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1778657056,,4643745394,SF 49ers,,1.4546,0,False
-16552467,ATL Falcons vs. SF 49ers,2026-10-25T17:00:00Z,spread,Handicap (inclus prolongations),223,70799,1781408332,+3.5,4652919893,ATL Falcons (+3.5),+3.5,1.8696,0,True
-16552467,ATL Falcons vs. SF 49ers,2026-10-25T17:00:00Z,spread,Handicap (inclus prolongations),223,70799,1781408332,+3.5,4652919894,SF 49ers (-3.5),+3.5,1.8,0,True
-16552467,ATL Falcons vs. SF 49ers,2026-10-25T17:00:00Z,total,Total (prolongations incluses),225,70803,1778727627,49.5,4643909021,Moins de 49.5,49.5,1.8334,0,True
-16552467,ATL Falcons vs. SF 49ers,2026-10-25T17:00:00Z,total,Total (prolongations incluses),225,70803,1778727627,49.5,4643909022,Plus de 49.5,49.5,1.8334,0,True
-16552457,BAL Ravens vs. CIN Bengals,2026-10-25T17:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1778658705,,4643749270,BAL Ravens,,1.625,0,False
-16552457,BAL Ravens vs. CIN Bengals,2026-10-25T17:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1778658705,,4643749271,CIN Bengals,,2.2,0,False
-16552457,BAL Ravens vs. CIN Bengals,2026-10-25T17:00:00Z,spread,Handicap (inclus prolongations),223,70799,1781407651,-6.5,4652918799,CIN Bengals (-3.5),+3.5,3.1,0,False
-16552457,BAL Ravens vs. CIN Bengals,2026-10-25T17:00:00Z,spread,Handicap (inclus prolongations),223,70799,1781407651,-6.5,4652918800,BAL Ravens (+3.5),+3.5,1.3334,0,False
-16552457,BAL Ravens vs. CIN Bengals,2026-10-25T17:00:00Z,spread,Handicap (inclus prolongations),223,70799,1781407651,-6.5,4652918813,BAL Ravens (+4.5),+4.5,1.2858,0,False
-16552457,BAL Ravens vs. CIN Bengals,2026-10-25T17:00:00Z,spread,Handicap (inclus prolongations),223,70799,1781407651,-6.5,4652918814,CIN Bengals (-4.5),+4.5,3.4,0,False
-16552457,BAL Ravens vs. CIN Bengals,2026-10-25T17:00:00Z,spread,Handicap (inclus prolongations),223,70799,1781407651,-6.5,4652918817,BAL Ravens (+6.5),+6.5,1.2223,0,False
-16552457,BAL Ravens vs. CIN Bengals,2026-10-25T17:00:00Z,spread,Handicap (inclus prolongations),223,70799,1781407651,-6.5,4652918689,BAL Ravens (-11.5),-11.5,4.4,0,False
-16552457,BAL Ravens vs. CIN Bengals,2026-10-25T17:00:00Z,spread,Handicap (inclus prolongations),223,70799,1781407651,-6.5,4652918818,CIN Bengals (-6.5),+6.5,4.0,0,False
-16552457,BAL Ravens vs. CIN Bengals,2026-10-25T17:00:00Z,spread,Handicap (inclus prolongations),223,70799,1781407651,-6.5,4652918690,CIN Bengals (+11.5),-11.5,1.1819,0,False
-16552457,BAL Ravens vs. CIN Bengals,2026-10-25T17:00:00Z,spread,Handicap (inclus prolongations),223,70799,1781407651,-6.5,4652918821,BAL Ravens (+5.5),+5.5,1.2667,0,False
-16552457,BAL Ravens vs. CIN Bengals,2026-10-25T17:00:00Z,spread,Handicap (inclus prolongations),223,70799,1781407651,-6.5,4652918822,CIN Bengals (-5.5),+5.5,3.5,0,False
-16552457,BAL Ravens vs. CIN Bengals,2026-10-25T17:00:00Z,spread,Handicap (inclus prolongations),223,70799,1781407651,-6.5,4652918825,BAL Ravens (+2.5),+2.5,1.5,0,False
-16552457,BAL Ravens vs. CIN Bengals,2026-10-25T17:00:00Z,spread,Handicap (inclus prolongations),223,70799,1781407651,-6.5,4652918826,CIN Bengals (-2.5),+2.5,2.5,0,False
-16552457,BAL Ravens vs. CIN Bengals,2026-10-25T17:00:00Z,spread,Handicap (inclus prolongations),223,70799,1781407651,-6.5,4652918829,BAL Ravens (+1.5),+1.5,1.5455,0,False
-16552457,BAL Ravens vs. CIN Bengals,2026-10-25T17:00:00Z,spread,Handicap (inclus prolongations),223,70799,1781407651,-6.5,4652918701,BAL Ravens (-8.5),-8.5,3.5,0,False
-16552457,BAL Ravens vs. CIN Bengals,2026-10-25T17:00:00Z,spread,Handicap (inclus prolongations),223,70799,1781407651,-6.5,4652918830,CIN Bengals (-1.5),+1.5,2.35,0,False
-16552457,BAL Ravens vs. CIN Bengals,2026-10-25T17:00:00Z,spread,Handicap (inclus prolongations),223,70799,1781407651,-6.5,4652918702,CIN Bengals (+8.5),-8.5,1.2667,0,False
-16552457,BAL Ravens vs. CIN Bengals,2026-10-25T17:00:00Z,spread,Handicap (inclus prolongations),223,70799,1781407651,-6.5,4652918705,BAL Ravens (-9.5),-9.5,3.75,0,False
-16552457,BAL Ravens vs. CIN Bengals,2026-10-25T17:00:00Z,spread,Handicap (inclus prolongations),223,70799,1781407651,-6.5,4652918706,CIN Bengals (+9.5),-9.5,1.2353,0,False
-16552457,BAL Ravens vs. CIN Bengals,2026-10-25T17:00:00Z,spread,Handicap (inclus prolongations),223,70799,1781407651,-6.5,4652918711,BAL Ravens (-4.5),-4.5,2.25,0,False
-16552457,BAL Ravens vs. CIN Bengals,2026-10-25T17:00:00Z,spread,Handicap (inclus prolongations),223,70799,1781407651,-6.5,4652918712,CIN Bengals (+4.5),-4.5,1.5715,0,False
-16552457,BAL Ravens vs. CIN Bengals,2026-10-25T17:00:00Z,spread,Handicap (inclus prolongations),223,70799,1781407651,-6.5,4652918715,CIN Bengals (+6.5),-6.5,1.4348,0,False
-16552457,BAL Ravens vs. CIN Bengals,2026-10-25T17:00:00Z,spread,Handicap (inclus prolongations),223,70799,1781407651,-6.5,4652918716,BAL Ravens (-6.5),-6.5,2.65,0,False
-16552457,BAL Ravens vs. CIN Bengals,2026-10-25T17:00:00Z,spread,Handicap (inclus prolongations),223,70799,1781407651,-6.5,4652918719,CIN Bengals (+5.5),-5.5,1.5264,0,False
-16552457,BAL Ravens vs. CIN Bengals,2026-10-25T17:00:00Z,spread,Handicap (inclus prolongations),223,70799,1781407651,-6.5,4652918720,BAL Ravens (-5.5),-5.5,2.4,0,False
-16552457,BAL Ravens vs. CIN Bengals,2026-10-25T17:00:00Z,spread,Handicap (inclus prolongations),223,70799,1781407651,-6.5,4652918723,CIN Bengals (+7.5),-7.5,1.3031,0,False
-16552457,BAL Ravens vs. CIN Bengals,2026-10-25T17:00:00Z,spread,Handicap (inclus prolongations),223,70799,1781407651,-6.5,4652918724,BAL Ravens (-7.5),-7.5,3.25,0,False
-16552457,BAL Ravens vs. CIN Bengals,2026-10-25T17:00:00Z,spread,Handicap (inclus prolongations),223,70799,1781407651,-6.5,4652918725,BAL Ravens (-2.5),-2.5,1.7408,0,True
-16552457,BAL Ravens vs. CIN Bengals,2026-10-25T17:00:00Z,spread,Handicap (inclus prolongations),223,70799,1781407651,-6.5,4652918726,CIN Bengals (+2.5),-2.5,1.9524,0,True
-16552457,BAL Ravens vs. CIN Bengals,2026-10-25T17:00:00Z,spread,Handicap (inclus prolongations),223,70799,1781407651,-6.5,4652918729,BAL Ravens (-1.5),-1.5,1.6897,0,False
-16552457,BAL Ravens vs. CIN Bengals,2026-10-25T17:00:00Z,spread,Handicap (inclus prolongations),223,70799,1781407651,-6.5,4652918730,CIN Bengals (+1.5),-1.5,2.05,0,False
-16552457,BAL Ravens vs. CIN Bengals,2026-10-25T17:00:00Z,spread,Handicap (inclus prolongations),223,70799,1781407651,-6.5,4652918733,BAL Ravens (-3.5),-3.5,2.1,0,False
-16552457,BAL Ravens vs. CIN Bengals,2026-10-25T17:00:00Z,spread,Handicap (inclus prolongations),223,70799,1781407651,-6.5,4652918734,CIN Bengals (+3.5),-3.5,1.6667,0,False
-16552457,BAL Ravens vs. CIN Bengals,2026-10-25T17:00:00Z,spread,Handicap (inclus prolongations),223,70799,1781407651,-6.5,4652918757,CIN Bengals (+10.5),-10.5,1.2,0,False
-16552457,BAL Ravens vs. CIN Bengals,2026-10-25T17:00:00Z,spread,Handicap (inclus prolongations),223,70799,1781407651,-6.5,4652918758,BAL Ravens (-10.5),-10.5,4.2,0,False
-16552457,BAL Ravens vs. CIN Bengals,2026-10-25T17:00:00Z,total,Total (prolongations incluses),225,70803,1778729558,50.5,4652918657,Moins de 49.5,49.5,2.05,0,False
-16552457,BAL Ravens vs. CIN Bengals,2026-10-25T17:00:00Z,total,Total (prolongations incluses),225,70803,1778729558,50.5,4652918658,Plus de 49.5,49.5,1.6897,0,False
-16552457,BAL Ravens vs. CIN Bengals,2026-10-25T17:00:00Z,total,Total (prolongations incluses),225,70803,1778729558,50.5,4652918659,Plus de 59.5,59.5,3.4,0,False
-16552457,BAL Ravens vs. CIN Bengals,2026-10-25T17:00:00Z,total,Total (prolongations incluses),225,70803,1778729558,50.5,4652918660,Moins de 59.5,59.5,1.2858,0,False
-16552457,BAL Ravens vs. CIN Bengals,2026-10-25T17:00:00Z,total,Total (prolongations incluses),225,70803,1778729558,50.5,4652918667,Plus de 57.5,57.5,2.85,0,False
-16552457,BAL Ravens vs. CIN Bengals,2026-10-25T17:00:00Z,total,Total (prolongations incluses),225,70803,1778729558,50.5,4652918668,Moins de 57.5,57.5,1.3847,0,False
-16552457,BAL Ravens vs. CIN Bengals,2026-10-25T17:00:00Z,total,Total (prolongations incluses),225,70803,1778729558,50.5,4652918671,Moins de 47.5,47.5,2.3,0,False
-16552457,BAL Ravens vs. CIN Bengals,2026-10-25T17:00:00Z,total,Total (prolongations incluses),225,70803,1778729558,50.5,4652918672,Plus de 47.5,47.5,1.5556,0,False
-16552457,BAL Ravens vs. CIN Bengals,2026-10-25T17:00:00Z,total,Total (prolongations incluses),225,70803,1778729558,50.5,4652918547,Plus de 52.5,52.5,2.0,0,False
-16552457,BAL Ravens vs. CIN Bengals,2026-10-25T17:00:00Z,total,Total (prolongations incluses),225,70803,1778729558,50.5,4652918548,Moins de 52.5,52.5,1.7143,0,False
-16552457,BAL Ravens vs. CIN Bengals,2026-10-25T17:00:00Z,total,Total (prolongations incluses),225,70803,1778729558,50.5,4652918569,Moins de 43.5,43.5,3.25,0,False
-16552457,BAL Ravens vs. CIN Bengals,2026-10-25T17:00:00Z,total,Total (prolongations incluses),225,70803,1778729558,50.5,4652918570,Plus de 43.5,43.5,1.3031,0,False
-16552457,BAL Ravens vs. CIN Bengals,2026-10-25T17:00:00Z,total,Total (prolongations incluses),225,70803,1778729558,50.5,4652918525,Plus de 51.5,51.5,1.9091,0,True
-16552457,BAL Ravens vs. CIN Bengals,2026-10-25T17:00:00Z,total,Total (prolongations incluses),225,70803,1778729558,50.5,4652918572,Plus de 53.5,53.5,2.15,0,False
-16552457,BAL Ravens vs. CIN Bengals,2026-10-25T17:00:00Z,total,Total (prolongations incluses),225,70803,1778729558,50.5,4652918571,Moins de 53.5,53.5,1.6451,0,False
-16552457,BAL Ravens vs. CIN Bengals,2026-10-25T17:00:00Z,total,Total (prolongations incluses),225,70803,1778729558,50.5,4652918654,Moins de 56.5,56.5,1.4546,0,False
-16552457,BAL Ravens vs. CIN Bengals,2026-10-25T17:00:00Z,total,Total (prolongations incluses),225,70803,1778729558,50.5,4652918609,Moins de 44.5,44.5,2.9,0,False
-16552457,BAL Ravens vs. CIN Bengals,2026-10-25T17:00:00Z,total,Total (prolongations incluses),225,70803,1778729558,50.5,4652918610,Plus de 44.5,44.5,1.3637,0,False
-16552457,BAL Ravens vs. CIN Bengals,2026-10-25T17:00:00Z,total,Total (prolongations incluses),225,70803,1778729558,50.5,4652918611,Plus de 54.5,54.5,2.25,0,False
-16552457,BAL Ravens vs. CIN Bengals,2026-10-25T17:00:00Z,total,Total (prolongations incluses),225,70803,1778729558,50.5,4652918612,Moins de 54.5,54.5,1.5715,0,False
-16552457,BAL Ravens vs. CIN Bengals,2026-10-25T17:00:00Z,total,Total (prolongations incluses),225,70803,1778729558,50.5,4652918633,Plus de 45.5,45.5,1.4167,0,False
-16552457,BAL Ravens vs. CIN Bengals,2026-10-25T17:00:00Z,total,Total (prolongations incluses),225,70803,1778729558,50.5,4652918634,Moins de 45.5,45.5,2.7,0,False
-16552457,BAL Ravens vs. CIN Bengals,2026-10-25T17:00:00Z,total,Total (prolongations incluses),225,70803,1778729558,50.5,4652918635,Plus de 55.5,55.5,2.5,0,False
-16552457,BAL Ravens vs. CIN Bengals,2026-10-25T17:00:00Z,total,Total (prolongations incluses),225,70803,1778729558,50.5,4652918636,Moins de 55.5,55.5,1.5,0,False
-16552457,BAL Ravens vs. CIN Bengals,2026-10-25T17:00:00Z,total,Total (prolongations incluses),225,70803,1778729558,50.5,4652918639,Moins de 48.5,48.5,2.2,0,False
-16552457,BAL Ravens vs. CIN Bengals,2026-10-25T17:00:00Z,total,Total (prolongations incluses),225,70803,1778729558,50.5,4652918640,Plus de 48.5,48.5,1.625,0,False
-16552457,BAL Ravens vs. CIN Bengals,2026-10-25T17:00:00Z,total,Total (prolongations incluses),225,70803,1778729558,50.5,4652918641,Plus de 58.5,58.5,3.1,0,False
-16552457,BAL Ravens vs. CIN Bengals,2026-10-25T17:00:00Z,total,Total (prolongations incluses),225,70803,1778729558,50.5,4652918642,Moins de 58.5,58.5,1.3334,0,False
-16552457,BAL Ravens vs. CIN Bengals,2026-10-25T17:00:00Z,total,Total (prolongations incluses),225,70803,1778729558,50.5,4643913461,Plus de 50.5,50.5,1.7408,0,False
-16552457,BAL Ravens vs. CIN Bengals,2026-10-25T17:00:00Z,total,Total (prolongations incluses),225,70803,1778729558,50.5,4643913462,Moins de 50.5,50.5,1.9524,0,False
-16552457,BAL Ravens vs. CIN Bengals,2026-10-25T17:00:00Z,total,Total (prolongations incluses),225,70803,1778729558,50.5,4652918651,Moins de 46.5,46.5,2.6,0,False
-16552457,BAL Ravens vs. CIN Bengals,2026-10-25T17:00:00Z,total,Total (prolongations incluses),225,70803,1778729558,50.5,4652918652,Plus de 46.5,46.5,1.4546,0,False
-16552457,BAL Ravens vs. CIN Bengals,2026-10-25T17:00:00Z,total,Total (prolongations incluses),225,70803,1778729558,50.5,4652918653,Plus de 56.5,56.5,2.6,0,False
-16552457,BAL Ravens vs. CIN Bengals,2026-10-25T17:00:00Z,total,Total (prolongations incluses),225,70803,1778729558,50.5,4652918526,Moins de 51.5,51.5,1.7693,0,True
-16552460,CAR Panthers vs. TB Buccaneers,2026-10-25T17:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1726315375,,4481831354,CAR Panthers,,1.5,0,False
-16552460,CAR Panthers vs. TB Buccaneers,2026-10-25T17:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1726315375,,4481831355,TB Buccaneers,,2.5,0,False
-16552460,CAR Panthers vs. TB Buccaneers,2026-10-25T17:00:00Z,spread,Handicap (inclus prolongations),223,70799,1781407447,-3.5,4652918253,CAR Panthers (-3.5),-3.5,1.8696,0,True
-16552460,CAR Panthers vs. TB Buccaneers,2026-10-25T17:00:00Z,spread,Handicap (inclus prolongations),223,70799,1781407447,-3.5,4652918254,TB Buccaneers (+3.5),-3.5,1.8,0,True
-16552460,CAR Panthers vs. TB Buccaneers,2026-10-25T17:00:00Z,total,Total (prolongations incluses),225,70803,1781407348,44.5,4652918056,Moins de 44.5,44.5,1.8334,0,True
-16552460,CAR Panthers vs. TB Buccaneers,2026-10-25T17:00:00Z,total,Total (prolongations incluses),225,70803,1781407348,44.5,4652918055,Plus de 44.5,44.5,1.8334,0,True
-16552454,HOU Texans vs. NY Giants,2026-10-25T17:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1730913849,,4495654952,NY Giants,,4.4,0,False
-16552454,HOU Texans vs. NY Giants,2026-10-25T17:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1730913849,,4495654951,HOU Texans,,1.1819,0,False
+16500356,NO Saints vs. PIT Steelers,2026-10-25T13:30:00Z,total,Total (prolongations incluses),225,70803,1778733514,44.5,4643923042,Plus de 44.5,44.5,1.8334,0,True
+16500356,NO Saints vs. PIT Steelers,2026-10-25T13:30:00Z,total,Total (prolongations incluses),225,70803,1778733514,44.5,4643923043,Moins de 44.5,44.5,1.8334,0,True
+16552454,HOU Texans vs. NY Giants,2026-10-25T17:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1730913849,,4495654952,NY Giants,,4.75,0,False
+16552454,HOU Texans vs. NY Giants,2026-10-25T17:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1730913849,,4495654951,HOU Texans,,1.1539,0,False
 16552454,HOU Texans vs. NY Giants,2026-10-25T17:00:00Z,spread,Handicap (inclus prolongations),223,70799,1781408554,-10.0,4652920521,HOU Texans (-10.0),-10.0,1.8334,0,True
 16552454,HOU Texans vs. NY Giants,2026-10-25T17:00:00Z,spread,Handicap (inclus prolongations),223,70799,1781408554,-10.0,4652920522,NY Giants (+10.0),-10.0,1.8334,0,True
 16552454,HOU Texans vs. NY Giants,2026-10-25T17:00:00Z,total,Total (prolongations incluses),225,70803,1781408562,42.5,4652920537,Moins de 42.5,42.5,1.9091,0,True
 16552454,HOU Texans vs. NY Giants,2026-10-25T17:00:00Z,total,Total (prolongations incluses),225,70803,1781408562,42.5,4652920538,Plus de 42.5,42.5,1.7693,0,True
-16552462,MIN Vikings vs. IND Colts,2026-10-25T17:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1778657037,,4643745379,MIN Vikings,,1.3226,0,False
-16552462,MIN Vikings vs. IND Colts,2026-10-25T17:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1778657037,,4643745380,IND Colts,,3.15,0,False
-16552462,MIN Vikings vs. IND Colts,2026-10-25T17:00:00Z,spread,Handicap (inclus prolongations),223,70799,1781409145,-6.5,4652921605,MIN Vikings (-6.5),-6.5,1.8334,0,True
-16552462,MIN Vikings vs. IND Colts,2026-10-25T17:00:00Z,spread,Handicap (inclus prolongations),223,70799,1781409145,-6.5,4652921606,IND Colts (+6.5),-6.5,1.8334,0,True
-16552462,MIN Vikings vs. IND Colts,2026-10-25T17:00:00Z,total,Total (prolongations incluses),225,70803,1781409055,41.5,4652921425,Moins de 41.5,41.5,1.8334,0,True
-16552462,MIN Vikings vs. IND Colts,2026-10-25T17:00:00Z,total,Total (prolongations incluses),225,70803,1781409055,41.5,4652921426,Plus de 41.5,41.5,1.8334,0,True
+16552457,BAL Ravens vs. CIN Bengals,2026-10-25T17:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1778658705,,4643749270,BAL Ravens,,1.625,0,False
+16552457,BAL Ravens vs. CIN Bengals,2026-10-25T17:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1778658705,,4643749271,CIN Bengals,,2.2,0,False
+16552457,BAL Ravens vs. CIN Bengals,2026-10-25T17:00:00Z,spread,Handicap (inclus prolongations),223,70799,1781407661,-3.0,4652918736,BAL Ravens (-3.0),-3.0,1.9091,0,True
+16552457,BAL Ravens vs. CIN Bengals,2026-10-25T17:00:00Z,spread,Handicap (inclus prolongations),223,70799,1781407661,-3.0,4652918735,CIN Bengals (+3.0),-3.0,1.7693,0,True
+16552457,BAL Ravens vs. CIN Bengals,2026-10-25T17:00:00Z,total,Total (prolongations incluses),225,70803,1781407556,51.5,4652918525,Plus de 51.5,51.5,1.9091,0,True
+16552457,BAL Ravens vs. CIN Bengals,2026-10-25T17:00:00Z,total,Total (prolongations incluses),225,70803,1781407556,51.5,4652918526,Moins de 51.5,51.5,1.7693,0,True
+16552460,CAR Panthers vs. TB Buccaneers,2026-10-25T17:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1726315375,,4481831354,CAR Panthers,,1.5,0,False
+16552460,CAR Panthers vs. TB Buccaneers,2026-10-25T17:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1726315375,,4481831355,TB Buccaneers,,2.5,0,False
+16552460,CAR Panthers vs. TB Buccaneers,2026-10-25T17:00:00Z,spread,Handicap (inclus prolongations),223,70799,1781407447,-3.5,4652918253,CAR Panthers (-3.5),-3.5,1.8334,0,True
+16552460,CAR Panthers vs. TB Buccaneers,2026-10-25T17:00:00Z,spread,Handicap (inclus prolongations),223,70799,1781407447,-3.5,4652918254,TB Buccaneers (+3.5),-3.5,1.8334,0,True
+16552460,CAR Panthers vs. TB Buccaneers,2026-10-25T17:00:00Z,total,Total (prolongations incluses),225,70803,1781407348,44.5,4652918056,Moins de 44.5,44.5,1.8334,0,True
+16552460,CAR Panthers vs. TB Buccaneers,2026-10-25T17:00:00Z,total,Total (prolongations incluses),225,70803,1781407348,44.5,4652918055,Plus de 44.5,44.5,1.8334,0,True
 16552461,NY Jets vs. MIA Dolphins,2026-10-25T17:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1778650762,,4643728477,MIA Dolphins,,2.75,0,False
 16552461,NY Jets vs. MIA Dolphins,2026-10-25T17:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1778650762,,4643728478,NY Jets,,1.4,0,False
 16552461,NY Jets vs. MIA Dolphins,2026-10-25T17:00:00Z,spread,Handicap (inclus prolongations),223,70799,1781406801,-4.5,4652916864,MIA Dolphins (+4.5),-4.5,1.9091,0,True
 16552461,NY Jets vs. MIA Dolphins,2026-10-25T17:00:00Z,spread,Handicap (inclus prolongations),223,70799,1781406801,-4.5,4652916863,NY Jets (-4.5),-4.5,1.7693,0,True
 16552461,NY Jets vs. MIA Dolphins,2026-10-25T17:00:00Z,total,Total (prolongations incluses),225,70803,1778722582,38.5,4643897214,Moins de 38.5,38.5,1.8696,0,True
 16552461,NY Jets vs. MIA Dolphins,2026-10-25T17:00:00Z,total,Total (prolongations incluses),225,70803,1778722582,38.5,4643897215,Plus de 38.5,38.5,1.8,0,True
-16552464,TEN Titans vs. CLE Browns,2026-10-25T17:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1778650742,,4643728434,TEN Titans,,1.9524,0,False
-16552464,TEN Titans vs. CLE Browns,2026-10-25T17:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1778650742,,4643728435,CLE Browns,,1.7408,0,False
+16552462,MIN Vikings vs. IND Colts,2026-10-25T17:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1778657037,,4643745379,MIN Vikings,,1.3226,0,False
+16552462,MIN Vikings vs. IND Colts,2026-10-25T17:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1778657037,,4643745380,IND Colts,,3.15,0,False
+16552462,MIN Vikings vs. IND Colts,2026-10-25T17:00:00Z,spread,Handicap (inclus prolongations),223,70799,1781409145,-6.5,4652921605,MIN Vikings (-6.5),-6.5,1.8334,0,True
+16552462,MIN Vikings vs. IND Colts,2026-10-25T17:00:00Z,spread,Handicap (inclus prolongations),223,70799,1781409145,-6.5,4652921606,IND Colts (+6.5),-6.5,1.8334,0,True
+16552462,MIN Vikings vs. IND Colts,2026-10-25T17:00:00Z,total,Total (prolongations incluses),225,70803,1781409055,41.5,4652921425,Moins de 41.5,41.5,1.8334,0,True
+16552462,MIN Vikings vs. IND Colts,2026-10-25T17:00:00Z,total,Total (prolongations incluses),225,70803,1781409055,41.5,4652921426,Plus de 41.5,41.5,1.8334,0,True
+16552464,TEN Titans vs. CLE Browns,2026-10-25T17:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1778650742,,4643728434,TEN Titans,,2.0,0,False
+16552464,TEN Titans vs. CLE Browns,2026-10-25T17:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1778650742,,4643728435,CLE Browns,,1.7143,0,False
 16552464,TEN Titans vs. CLE Browns,2026-10-25T17:00:00Z,spread,Handicap (inclus prolongations),223,70799,1781406933,+1.5,4652917361,TEN Titans (+1.5),+1.5,1.8696,0,True
 16552464,TEN Titans vs. CLE Browns,2026-10-25T17:00:00Z,spread,Handicap (inclus prolongations),223,70799,1781406933,+1.5,4652917362,CLE Browns (-1.5),+1.5,1.8,0,True
 16552464,TEN Titans vs. CLE Browns,2026-10-25T17:00:00Z,total,Total (prolongations incluses),225,70803,1781406782,38.5,4652917221,Moins de 38.5,38.5,1.8334,0,True
 16552464,TEN Titans vs. CLE Browns,2026-10-25T17:00:00Z,total,Total (prolongations incluses),225,70803,1781406782,38.5,4652917222,Plus de 38.5,38.5,1.8334,0,True
-16552453,ARZ Cardinals vs. DEN Broncos,2026-10-25T20:05:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1778658559,,4643748880,ARZ Cardinals,,2.75,0,False
-16552453,ARZ Cardinals vs. DEN Broncos,2026-10-25T20:05:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1778658559,,4643748879,DEN Broncos,,1.4,0,False
+16552467,ATL Falcons vs. SF 49ers,2026-10-25T17:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1778657056,,4643745393,ATL Falcons,,2.35,0,False
+16552467,ATL Falcons vs. SF 49ers,2026-10-25T17:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1778657056,,4643745394,SF 49ers,,1.5455,0,False
+16552467,ATL Falcons vs. SF 49ers,2026-10-25T17:00:00Z,spread,Handicap (inclus prolongations),223,70799,1781408271,+3.0,4652919792,SF 49ers (-3.0),+3.0,1.7693,0,True
+16552467,ATL Falcons vs. SF 49ers,2026-10-25T17:00:00Z,spread,Handicap (inclus prolongations),223,70799,1781408271,+3.0,4652919791,ATL Falcons (+3.0),+3.0,1.9091,0,True
+16552467,ATL Falcons vs. SF 49ers,2026-10-25T17:00:00Z,total,Total (prolongations incluses),225,70803,1781408353,50.5,4652920034,Plus de 50.5,50.5,1.8334,0,True
+16552467,ATL Falcons vs. SF 49ers,2026-10-25T17:00:00Z,total,Total (prolongations incluses),225,70803,1781408353,50.5,4652920038,Moins de 50.5,50.5,1.8334,0,True
+16552453,ARZ Cardinals vs. DEN Broncos,2026-10-25T20:05:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1778658559,,4643748880,ARZ Cardinals,,2.85,0,False
+16552453,ARZ Cardinals vs. DEN Broncos,2026-10-25T20:05:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1778658559,,4643748879,DEN Broncos,,1.3847,0,False
 16552453,ARZ Cardinals vs. DEN Broncos,2026-10-25T20:05:00Z,spread,Handicap (inclus prolongations),223,70799,1781407103,+4.5,4652917619,DEN Broncos (-4.5),+4.5,1.8334,0,True
 16552453,ARZ Cardinals vs. DEN Broncos,2026-10-25T20:05:00Z,spread,Handicap (inclus prolongations),223,70799,1781407103,+4.5,4652917620,ARZ Cardinals (+4.5),+4.5,1.8334,0,True
 16552453,ARZ Cardinals vs. DEN Broncos,2026-10-25T20:05:00Z,total,Total (prolongations incluses),225,70803,1781407044,43.5,4652917501,Plus de 43.5,43.5,1.8,0,True
 16552453,ARZ Cardinals vs. DEN Broncos,2026-10-25T20:05:00Z,total,Total (prolongations incluses),225,70803,1781407044,43.5,4652917502,Moins de 43.5,43.5,1.8696,0,True
-16552451,DET Lions vs. GB Packers,2026-10-25T20:25:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1778660630,,4643753854,GB Packers,,2.3,0,False
-16552451,DET Lions vs. GB Packers,2026-10-25T20:25:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1778660630,,4643753855,DET Lions,,1.5556,0,False
-16552451,DET Lions vs. GB Packers,2026-10-25T20:25:00Z,spread,Handicap (inclus prolongations),223,70799,1781408699,-3.0,4652921088,GB Packers (-4.5),+4.5,3.5,0,False
-16552451,DET Lions vs. GB Packers,2026-10-25T20:25:00Z,spread,Handicap (inclus prolongations),223,70799,1781408699,-3.0,4652921093,GB Packers (-2.5),+2.5,2.65,0,False
-16552451,DET Lions vs. GB Packers,2026-10-25T20:25:00Z,spread,Handicap (inclus prolongations),223,70799,1781408699,-3.0,4652921094,DET Lions (+2.5),+2.5,1.4348,0,False
-16552451,DET Lions vs. GB Packers,2026-10-25T20:25:00Z,spread,Handicap (inclus prolongations),223,70799,1781408699,-3.0,4652921097,GB Packers (-3.5),+3.5,3.25,0,False
-16552451,DET Lions vs. GB Packers,2026-10-25T20:25:00Z,spread,Handicap (inclus prolongations),223,70799,1781408699,-3.0,4652921098,DET Lions (+3.5),+3.5,1.3031,0,False
-16552451,DET Lions vs. GB Packers,2026-10-25T20:25:00Z,spread,Handicap (inclus prolongations),223,70799,1781408699,-3.0,4652921101,DET Lions (+1.5),+1.5,1.4762,0,False
-16552451,DET Lions vs. GB Packers,2026-10-25T20:25:00Z,spread,Handicap (inclus prolongations),223,70799,1781408699,-3.0,4652921102,GB Packers (-1.5),+1.5,2.55,0,False
-16552451,DET Lions vs. GB Packers,2026-10-25T20:25:00Z,spread,Handicap (inclus prolongations),223,70799,1781408699,-3.0,4652921103,DET Lions (-10.5),-10.5,3.75,0,False
-16552451,DET Lions vs. GB Packers,2026-10-25T20:25:00Z,spread,Handicap (inclus prolongations),223,70799,1781408699,-3.0,4652921104,GB Packers (+10.5),-10.5,1.2353,0,False
-16552451,DET Lions vs. GB Packers,2026-10-25T20:25:00Z,spread,Handicap (inclus prolongations),223,70799,1781408699,-3.0,4652921117,DET Lions (-7.5),-7.5,2.9,0,False
-16552451,DET Lions vs. GB Packers,2026-10-25T20:25:00Z,spread,Handicap (inclus prolongations),223,70799,1781408699,-3.0,4652921118,GB Packers (+7.5),-7.5,1.3637,0,False
-16552451,DET Lions vs. GB Packers,2026-10-25T20:25:00Z,spread,Handicap (inclus prolongations),223,70799,1781408699,-3.0,4652921123,GB Packers (+3.5),-3.5,1.7408,0,True
-16552451,DET Lions vs. GB Packers,2026-10-25T20:25:00Z,spread,Handicap (inclus prolongations),223,70799,1781408699,-3.0,4652921124,DET Lions (-3.5),-3.5,1.9524,0,True
-16552451,DET Lions vs. GB Packers,2026-10-25T20:25:00Z,spread,Handicap (inclus prolongations),223,70799,1781408699,-3.0,4652921127,GB Packers (+3.0),-3.0,1.8696,0,True
-16552451,DET Lions vs. GB Packers,2026-10-25T20:25:00Z,spread,Handicap (inclus prolongations),223,70799,1781408699,-3.0,4652921128,DET Lions (-3.0),-3.0,1.8,0,True
-16552451,DET Lions vs. GB Packers,2026-10-25T20:25:00Z,spread,Handicap (inclus prolongations),223,70799,1781408699,-3.0,4652921129,DET Lions (-5.5),-5.5,2.25,0,False
-16552451,DET Lions vs. GB Packers,2026-10-25T20:25:00Z,spread,Handicap (inclus prolongations),223,70799,1781408699,-3.0,4652921130,GB Packers (+5.5),-5.5,1.5715,0,False
-16552451,DET Lions vs. GB Packers,2026-10-25T20:25:00Z,spread,Handicap (inclus prolongations),223,70799,1781408699,-3.0,4652921005,DET Lions (-1.5),-1.5,1.625,0,False
-16552451,DET Lions vs. GB Packers,2026-10-25T20:25:00Z,spread,Handicap (inclus prolongations),223,70799,1781408699,-3.0,4652921133,DET Lions (-2.5),-2.5,1.6897,0,False
-16552451,DET Lions vs. GB Packers,2026-10-25T20:25:00Z,spread,Handicap (inclus prolongations),223,70799,1781408699,-3.0,4652921006,GB Packers (+1.5),-1.5,2.2,0,False
-16552451,DET Lions vs. GB Packers,2026-10-25T20:25:00Z,spread,Handicap (inclus prolongations),223,70799,1781408699,-3.0,4652921134,GB Packers (+2.5),-2.5,2.05,0,False
-16552451,DET Lions vs. GB Packers,2026-10-25T20:25:00Z,spread,Handicap (inclus prolongations),223,70799,1781408699,-3.0,4652921137,DET Lions (-4.5),-4.5,2.15,0,False
-16552451,DET Lions vs. GB Packers,2026-10-25T20:25:00Z,spread,Handicap (inclus prolongations),223,70799,1781408699,-3.0,4652921010,DET Lions (+5.5),+5.5,1.2353,0,False
-16552451,DET Lions vs. GB Packers,2026-10-25T20:25:00Z,spread,Handicap (inclus prolongations),223,70799,1781408699,-3.0,4652921139,DET Lions (-9.5),-9.5,3.4,0,False
-16552451,DET Lions vs. GB Packers,2026-10-25T20:25:00Z,spread,Handicap (inclus prolongations),223,70799,1781408699,-3.0,4652921009,GB Packers (-5.5),+5.5,3.75,0,False
-16552451,DET Lions vs. GB Packers,2026-10-25T20:25:00Z,spread,Handicap (inclus prolongations),223,70799,1781408699,-3.0,4652921138,GB Packers (+4.5),-4.5,1.6451,0,False
-16552451,DET Lions vs. GB Packers,2026-10-25T20:25:00Z,spread,Handicap (inclus prolongations),223,70799,1781408699,-3.0,4652921140,GB Packers (+9.5),-9.5,1.2858,0,False
-16552451,DET Lions vs. GB Packers,2026-10-25T20:25:00Z,spread,Handicap (inclus prolongations),223,70799,1781408699,-3.0,4652921143,DET Lions (-8.5),-8.5,3.25,0,False
-16552451,DET Lions vs. GB Packers,2026-10-25T20:25:00Z,spread,Handicap (inclus prolongations),223,70799,1781408699,-3.0,4652921144,GB Packers (+8.5),-8.5,1.3031,0,False
-16552451,DET Lions vs. GB Packers,2026-10-25T20:25:00Z,spread,Handicap (inclus prolongations),223,70799,1781408699,-3.0,4652921155,GB Packers (+11.5),-11.5,1.2223,0,False
-16552451,DET Lions vs. GB Packers,2026-10-25T20:25:00Z,spread,Handicap (inclus prolongations),223,70799,1781408699,-3.0,4652921156,DET Lions (-11.5),-11.5,4.0,0,False
-16552451,DET Lions vs. GB Packers,2026-10-25T20:25:00Z,spread,Handicap (inclus prolongations),223,70799,1781408699,-3.0,4652921075,DET Lions (-6.5),-6.5,2.5,0,False
-16552451,DET Lions vs. GB Packers,2026-10-25T20:25:00Z,spread,Handicap (inclus prolongations),223,70799,1781408699,-3.0,4652921076,GB Packers (+6.5),-6.5,1.5,0,False
-16552451,DET Lions vs. GB Packers,2026-10-25T20:25:00Z,spread,Handicap (inclus prolongations),223,70799,1781408699,-3.0,4652921087,DET Lions (+4.5),+4.5,1.2667,0,False
-16552451,DET Lions vs. GB Packers,2026-10-25T20:25:00Z,total,Total (prolongations incluses),225,70803,1778731417,52.5,4652921233,Moins de 50.5,50.5,2.25,0,False
-16552451,DET Lions vs. GB Packers,2026-10-25T20:25:00Z,total,Total (prolongations incluses),225,70803,1778731417,52.5,4652921234,Plus de 50.5,50.5,1.5715,0,False
-16552451,DET Lions vs. GB Packers,2026-10-25T20:25:00Z,total,Total (prolongations incluses),225,70803,1778731417,52.5,4652921239,Moins de 51.5,51.5,2.05,0,False
-16552451,DET Lions vs. GB Packers,2026-10-25T20:25:00Z,total,Total (prolongations incluses),225,70803,1778731417,52.5,4652921240,Plus de 51.5,51.5,1.6897,0,False
-16552451,DET Lions vs. GB Packers,2026-10-25T20:25:00Z,total,Total (prolongations incluses),225,70803,1778731417,52.5,4652921255,Moins de 56.5,56.5,1.5715,0,False
-16552451,DET Lions vs. GB Packers,2026-10-25T20:25:00Z,total,Total (prolongations incluses),225,70803,1778731417,52.5,4652921256,Plus de 56.5,56.5,2.25,0,False
-16552451,DET Lions vs. GB Packers,2026-10-25T20:25:00Z,total,Total (prolongations incluses),225,70803,1778731417,52.5,4652921257,Plus de 46.5,46.5,1.3637,0,False
-16552451,DET Lions vs. GB Packers,2026-10-25T20:25:00Z,total,Total (prolongations incluses),225,70803,1778731417,52.5,4652921258,Moins de 46.5,46.5,2.9,0,False
-16552451,DET Lions vs. GB Packers,2026-10-25T20:25:00Z,total,Total (prolongations incluses),225,70803,1778731417,52.5,4652921267,Moins de 57.5,57.5,1.5,0,False
-16552451,DET Lions vs. GB Packers,2026-10-25T20:25:00Z,total,Total (prolongations incluses),225,70803,1778731417,52.5,4652921268,Plus de 57.5,57.5,2.5,0,False
-16552451,DET Lions vs. GB Packers,2026-10-25T20:25:00Z,total,Total (prolongations incluses),225,70803,1778731417,52.5,4652921269,Plus de 47.5,47.5,1.4167,0,False
-16552451,DET Lions vs. GB Packers,2026-10-25T20:25:00Z,total,Total (prolongations incluses),225,70803,1778731417,52.5,4652921270,Moins de 47.5,47.5,2.7,0,False
-16552451,DET Lions vs. GB Packers,2026-10-25T20:25:00Z,total,Total (prolongations incluses),225,70803,1778731417,52.5,4652921275,Plus de 55.5,55.5,2.2,0,False
-16552451,DET Lions vs. GB Packers,2026-10-25T20:25:00Z,total,Total (prolongations incluses),225,70803,1778731417,52.5,4652921276,Moins de 55.5,55.5,1.625,0,False
-16552451,DET Lions vs. GB Packers,2026-10-25T20:25:00Z,total,Total (prolongations incluses),225,70803,1778731417,52.5,4652921281,Plus de 54.5,54.5,2.0,0,False
-16552451,DET Lions vs. GB Packers,2026-10-25T20:25:00Z,total,Total (prolongations incluses),225,70803,1778731417,52.5,4652921282,Moins de 54.5,54.5,1.7143,0,False
-16552451,DET Lions vs. GB Packers,2026-10-25T20:25:00Z,total,Total (prolongations incluses),225,70803,1778731417,52.5,4652921285,Moins de 59.5,59.5,1.3637,0,False
-16552451,DET Lions vs. GB Packers,2026-10-25T20:25:00Z,total,Total (prolongations incluses),225,70803,1778731417,52.5,4652921286,Plus de 59.5,59.5,2.9,0,False
-16552451,DET Lions vs. GB Packers,2026-10-25T20:25:00Z,total,Total (prolongations incluses),225,70803,1778731417,52.5,4652921287,Moins de 58.5,58.5,1.4348,0,False
-16552451,DET Lions vs. GB Packers,2026-10-25T20:25:00Z,total,Total (prolongations incluses),225,70803,1778731417,52.5,4652921288,Plus de 58.5,58.5,2.65,0,False
-16552451,DET Lions vs. GB Packers,2026-10-25T20:25:00Z,total,Total (prolongations incluses),225,70803,1778731417,52.5,4652921297,Plus de 45.5,45.5,1.3226,0,False
-16552451,DET Lions vs. GB Packers,2026-10-25T20:25:00Z,total,Total (prolongations incluses),225,70803,1778731417,52.5,4652921298,Moins de 45.5,45.5,3.15,0,False
-16552451,DET Lions vs. GB Packers,2026-10-25T20:25:00Z,total,Total (prolongations incluses),225,70803,1778731417,52.5,4652921301,Plus de 48.5,48.5,1.4762,0,False
-16552451,DET Lions vs. GB Packers,2026-10-25T20:25:00Z,total,Total (prolongations incluses),225,70803,1778731417,52.5,4652921302,Moins de 48.5,48.5,2.55,0,False
-16552451,DET Lions vs. GB Packers,2026-10-25T20:25:00Z,total,Total (prolongations incluses),225,70803,1778731417,52.5,4652921309,Plus de 49.5,49.5,1.5455,0,False
-16552451,DET Lions vs. GB Packers,2026-10-25T20:25:00Z,total,Total (prolongations incluses),225,70803,1778731417,52.5,4652921310,Moins de 49.5,49.5,2.35,0,False
-16552451,DET Lions vs. GB Packers,2026-10-25T20:25:00Z,total,Total (prolongations incluses),225,70803,1778731417,52.5,4652921197,Moins de 60.5,60.5,1.3572,0,False
-16552451,DET Lions vs. GB Packers,2026-10-25T20:25:00Z,total,Total (prolongations incluses),225,70803,1778731417,52.5,4652921198,Plus de 60.5,60.5,3.0,0,False
-16552451,DET Lions vs. GB Packers,2026-10-25T20:25:00Z,total,Total (prolongations incluses),225,70803,1778731417,52.5,4643918064,Moins de 52.5,52.5,1.9091,0,False
-16552451,DET Lions vs. GB Packers,2026-10-25T20:25:00Z,total,Total (prolongations incluses),225,70803,1778731417,52.5,4643918065,Plus de 52.5,52.5,1.7693,0,False
-16552451,DET Lions vs. GB Packers,2026-10-25T20:25:00Z,total,Total (prolongations incluses),225,70803,1778731417,52.5,4652921203,Moins de 61.5,61.5,1.2858,0,False
-16552451,DET Lions vs. GB Packers,2026-10-25T20:25:00Z,total,Total (prolongations incluses),225,70803,1778731417,52.5,4652921204,Plus de 61.5,61.5,3.4,0,False
-16552451,DET Lions vs. GB Packers,2026-10-25T20:25:00Z,total,Total (prolongations incluses),225,70803,1778731417,52.5,4652921213,Moins de 53.5,53.5,1.8,0,True
-16552451,DET Lions vs. GB Packers,2026-10-25T20:25:00Z,total,Total (prolongations incluses),225,70803,1778731417,52.5,4652921214,Plus de 53.5,53.5,1.8696,0,True
 16552449,LV Raiders vs. LA Rams,2026-10-25T20:25:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1778661798,,4643756723,LV Raiders,,2.7,0,False
 16552449,LV Raiders vs. LA Rams,2026-10-25T20:25:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1778661798,,4643756724,LA Rams,,1.4167,0,False
 16552449,LV Raiders vs. LA Rams,2026-10-25T20:25:00Z,spread,Handicap (inclus prolongations),223,70799,1781408017,+4.5,4652919085,LA Rams (-4.5),+4.5,1.8696,0,True
 16552449,LV Raiders vs. LA Rams,2026-10-25T20:25:00Z,spread,Handicap (inclus prolongations),223,70799,1781408017,+4.5,4652919086,LV Raiders (+4.5),+4.5,1.8,0,True
 16552449,LV Raiders vs. LA Rams,2026-10-25T20:25:00Z,total,Total (prolongations incluses),225,70803,1781407900,47.5,4652918851,Plus de 47.5,47.5,1.8334,0,True
 16552449,LV Raiders vs. LA Rams,2026-10-25T20:25:00Z,total,Total (prolongations incluses),225,70803,1781407900,47.5,4652918852,Moins de 47.5,47.5,1.8334,0,True
-16552445,SEA Seahawks vs. KC Chiefs,2026-10-26T00:20:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1778663120,,4643759947,KC Chiefs,,2.15,0,False
-16552445,SEA Seahawks vs. KC Chiefs,2026-10-26T00:20:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1778663120,,4643759948,SEA Seahawks,,1.6451,0,False
+16552451,DET Lions vs. GB Packers,2026-10-25T20:25:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1778660630,,4643753854,GB Packers,,2.3,0,False
+16552451,DET Lions vs. GB Packers,2026-10-25T20:25:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1778660630,,4643753855,DET Lions,,1.5556,0,False
+16552451,DET Lions vs. GB Packers,2026-10-25T20:25:00Z,spread,Handicap (inclus prolongations),223,70799,1781408699,-3.0,4652921128,DET Lions (-3.0),-3.0,1.8696,0,True
+16552451,DET Lions vs. GB Packers,2026-10-25T20:25:00Z,spread,Handicap (inclus prolongations),223,70799,1781408699,-3.0,4652921127,GB Packers (+3.0),-3.0,1.8,0,True
+16552451,DET Lions vs. GB Packers,2026-10-25T20:25:00Z,total,Total (prolongations incluses),225,70803,1781408742,53.5,4652921213,Moins de 53.5,53.5,1.8334,0,True
+16552451,DET Lions vs. GB Packers,2026-10-25T20:25:00Z,total,Total (prolongations incluses),225,70803,1781408742,53.5,4652921214,Plus de 53.5,53.5,1.8334,0,True
+16552445,SEA Seahawks vs. KC Chiefs,2026-10-26T00:20:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1778663120,,4643759947,KC Chiefs,,2.05,0,False
+16552445,SEA Seahawks vs. KC Chiefs,2026-10-26T00:20:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1778663120,,4643759948,SEA Seahawks,,1.6897,0,False
 16552445,SEA Seahawks vs. KC Chiefs,2026-10-26T00:20:00Z,spread,Handicap (inclus prolongations),223,70799,1781407182,-2.5,4652917777,KC Chiefs (+2.5),-2.5,1.8334,0,True
 16552445,SEA Seahawks vs. KC Chiefs,2026-10-26T00:20:00Z,spread,Handicap (inclus prolongations),223,70799,1781407182,-2.5,4652917778,SEA Seahawks (-2.5),-2.5,1.8334,0,True
 16552445,SEA Seahawks vs. KC Chiefs,2026-10-26T00:20:00Z,total,Total (prolongations incluses),225,70803,1781407274,42.5,4652917961,Plus de 42.5,42.5,1.8334,0,True

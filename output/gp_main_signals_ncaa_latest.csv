@@ -1,41 +1,31 @@
 captured_at,event_id,match,start_date,market,selection,side,signal,old_line,new_line,old_price,new_price,old_status,new_status,old_is_main_bet,new_is_main_bet
-2026-10-20T19:02:20.159879+00:00,17844472,DEL Blue Hens vs. Missouri State Bears,2026-10-20T23:00:00Z,spread,DEL Blue Hens (-2.5),DEL Blue Hens,MAIN_PRICE_MOVE,-2.5,-2.5,1.7408,1.7693,0,0.0,1,1.0
-2026-10-20T19:02:20.159879+00:00,17844472,DEL Blue Hens vs. Missouri State Bears,2026-10-20T23:00:00Z,spread,Missouri State Bears (+2.5),Missouri State Bears,MAIN_PRICE_MOVE,2.5,2.5,1.9524,1.9091,0,0.0,1,1.0
-2026-10-20T19:02:20.159879+00:00,17844472,DEL Blue Hens vs. Missouri State Bears,2026-10-20T23:00:00Z,total,Moins de 53.5,under,MAIN_PRICE_MOVE,53.5,53.5,1.8,1.8334,0,0.0,1,1.0
-2026-10-20T19:02:20.159879+00:00,17844472,DEL Blue Hens vs. Missouri State Bears,2026-10-20T23:00:00Z,total,Plus de 53.5,over,MAIN_PRICE_MOVE,53.5,53.5,1.8696,1.8334,0,0.0,1,1.0
-2026-10-20T19:02:20.159879+00:00,17844474,FIU Panthers vs. Middle Tennessee Blue Raiders,2026-10-20T23:00:00Z,spread,Middle Tennessee Blue Raiders (+10.5),Middle Tennessee Blue Raiders,MAIN_SWITCH,10.5,10.5,1.7693,1.7693,0,0.0,0,1.0
-2026-10-20T19:02:20.159879+00:00,17844474,FIU Panthers vs. Middle Tennessee Blue Raiders,2026-10-20T23:00:00Z,spread,FIU Panthers (-10.5),FIU Panthers,MAIN_SWITCH,-10.5,-10.5,1.9091,1.9091,0,0.0,0,1.0
-2026-10-20T19:02:20.159879+00:00,17844473,Marshall Herd vs. South Alabama Jaguars,2026-10-20T23:30:00Z,spread,South Alabama Jaguars (-2.5),South Alabama Jaguars,MAIN_PRICE_MOVE,-2.5,-2.5,1.7693,1.8334,0,0.0,1,1.0
-2026-10-20T19:02:20.159879+00:00,17844473,Marshall Herd vs. South Alabama Jaguars,2026-10-20T23:30:00Z,spread,Marshall Herd (+2.5),Marshall Herd,MAIN_PRICE_MOVE,2.5,2.5,1.9091,1.8334,0,0.0,1,1.0
-2026-10-20T19:02:20.159879+00:00,17854044,Sam Houston State Bearkats vs. New Mexico St Aggies,2026-10-22T00:00:00Z,total,Moins de 44.5,under,MAIN_PRICE_MOVE,44.5,44.5,1.8334,1.8696,0,0.0,1,1.0
-2026-10-20T19:02:20.159879+00:00,17854044,Sam Houston State Bearkats vs. New Mexico St Aggies,2026-10-22T00:00:00Z,total,Plus de 44.5,over,MAIN_PRICE_MOVE,44.5,44.5,1.8334,1.8,0,0.0,1,1.0
-2026-10-20T19:02:20.159879+00:00,17863764,Memphis Tigers vs. CAROLINE DE L´EST,2026-10-22T23:30:00Z,spread,Memphis Tigers (-9.5),Memphis Tigers,MAIN_SWITCH,-9.5,-9.5,1.7693,1.7693,0,0.0,0,1.0
-2026-10-20T19:02:20.159879+00:00,17863764,Memphis Tigers vs. CAROLINE DE L´EST,2026-10-22T23:30:00Z,spread,CAROLINE DE L´EST (+9.5),CAROLINE DE L´EST,MAIN_SWITCH,9.5,9.5,1.9091,1.9091,0,0.0,0,1.0
-2026-10-20T19:02:20.159879+00:00,17863764,Memphis Tigers vs. CAROLINE DE L´EST,2026-10-22T23:30:00Z,spread,CAROLINE DE L´EST (+10.5),CAROLINE DE L´EST,MAIN_SWITCH,10.5,10.5,1.7693,1.7693,0,0.0,1,0.0
-2026-10-20T19:02:20.159879+00:00,17863764,Memphis Tigers vs. CAROLINE DE L´EST,2026-10-22T23:30:00Z,spread,Memphis Tigers (-10.5),Memphis Tigers,MAIN_SWITCH,-10.5,-10.5,1.9091,1.9091,0,0.0,1,0.0
-2026-10-20T19:02:20.159879+00:00,17235320,Michigan Wolverines vs. Indiana Hoosiers,2026-10-24T16:00:00Z,spread,Michigan Wolverines (+7.0),Michigan Wolverines,MAIN_PRICE_MOVE,7.0,7.0,1.8696,1.8334,0,0.0,1,1.0
-2026-10-20T19:02:20.159879+00:00,17235320,Michigan Wolverines vs. Indiana Hoosiers,2026-10-24T16:00:00Z,spread,Indiana Hoosiers (-7.0),Indiana Hoosiers,MAIN_PRICE_MOVE,-7.0,-7.0,1.8,1.8334,0,0.0,1,1.0
-2026-10-20T19:02:20.159879+00:00,17883359,Miami Hurricanes vs. Pittsburgh Panthers,2026-10-24T16:00:00Z,total,Plus de 50.5,over,MAIN_PRICE_MOVE,50.5,50.5,1.7693,1.8334,0,0.0,1,1.0
-2026-10-20T19:02:20.159879+00:00,17883359,Miami Hurricanes vs. Pittsburgh Panthers,2026-10-24T16:00:00Z,total,Moins de 50.5,under,MAIN_PRICE_MOVE,50.5,50.5,1.9091,1.8334,0,0.0,1,1.0
-2026-10-20T19:02:20.159879+00:00,18079284,Toledo Rockets vs. MICHIGAN,2026-10-24T16:00:00Z,spread,Toledo Rockets (-3.0),Toledo Rockets,MAIN_PRICE_MOVE,-3.0,-3.0,1.8334,1.8,0,0.0,1,1.0
-2026-10-20T19:02:20.159879+00:00,18079284,Toledo Rockets vs. MICHIGAN,2026-10-24T16:00:00Z,spread,MICHIGAN (+3.0),MICHIGAN,MAIN_PRICE_MOVE,3.0,3.0,1.8334,1.8696,0,0.0,1,1.0
-2026-10-20T19:02:20.159879+00:00,17883351,Minnesota U Gophers vs. Iowa Hawkeyes,2026-10-24T19:30:00Z,spread,Minnesota U Gophers (+7.0),Minnesota U Gophers,MAIN_PRICE_MOVE,7.0,7.0,1.8334,1.8,0,0.0,1,1.0
-2026-10-20T19:02:20.159879+00:00,17883351,Minnesota U Gophers vs. Iowa Hawkeyes,2026-10-24T19:30:00Z,spread,Iowa Hawkeyes (-7.0),Iowa Hawkeyes,MAIN_PRICE_MOVE,-7.0,-7.0,1.8334,1.8696,0,0.0,1,1.0
-2026-10-20T19:02:20.159879+00:00,17883366,Mississippi St Bulldogs vs. Oklahoma Sooners,2026-10-24T19:30:00Z,spread,Oklahoma Sooners (-4.5),Oklahoma Sooners,MAIN_PRICE_MOVE,-4.5,-4.5,1.8696,1.8334,0,0.0,1,1.0
-2026-10-20T19:02:20.159879+00:00,17883366,Mississippi St Bulldogs vs. Oklahoma Sooners,2026-10-24T19:30:00Z,spread,Mississippi St Bulldogs (+4.5),Mississippi St Bulldogs,MAIN_PRICE_MOVE,4.5,4.5,1.8,1.8334,0,0.0,1,1.0
-2026-10-20T19:02:20.159879+00:00,18071269,Northern Illinois Huskies vs. Hawaii Rainbow Warriors,2026-10-24T19:30:00Z,spread,Northern Illinois Huskies (+4.5),Northern Illinois Huskies,MAIN_PRICE_MOVE,4.5,4.5,1.8334,1.8,0,0.0,1,1.0
-2026-10-20T19:02:20.159879+00:00,18071269,Northern Illinois Huskies vs. Hawaii Rainbow Warriors,2026-10-24T19:30:00Z,spread,Hawaii Rainbow Warriors (-4.5),Hawaii Rainbow Warriors,MAIN_PRICE_MOVE,-4.5,-4.5,1.8334,1.8696,0,0.0,1,1.0
-2026-10-20T19:02:20.159879+00:00,18079323,Buffalo Bulls vs. Bowling Green Falcons,2026-10-24T19:30:00Z,total,Plus de 44.5,over,MAIN_PRICE_MOVE,44.5,44.5,1.8334,1.8696,0,0.0,1,1.0
-2026-10-20T19:02:20.159879+00:00,18079323,Buffalo Bulls vs. Bowling Green Falcons,2026-10-24T19:30:00Z,total,Moins de 44.5,under,MAIN_PRICE_MOVE,44.5,44.5,1.8334,1.8,0,0.0,1,1.0
-2026-10-20T19:02:20.159879+00:00,18079326,Troy Trojans vs. Louisiana-Monroe Warhawks,2026-10-24T20:00:00Z,spread,Troy Trojans (-14.5),Troy Trojans,MAIN_PRICE_MOVE,-14.5,-14.5,1.8334,1.8696,0,0.0,1,1.0
-2026-10-20T19:02:20.159879+00:00,18079326,Troy Trojans vs. Louisiana-Monroe Warhawks,2026-10-24T20:00:00Z,spread,Louisiana-Monroe Warhawks (+14.5),Louisiana-Monroe Warhawks,MAIN_PRICE_MOVE,14.5,14.5,1.8334,1.8,0,0.0,1,1.0
-2026-10-20T19:02:20.159879+00:00,18079326,Troy Trojans vs. Louisiana-Monroe Warhawks,2026-10-24T20:00:00Z,total,Plus de 51.5,over,MAIN_PRICE_MOVE,51.5,51.5,1.8334,1.9091,0,0.0,1,1.0
-2026-10-20T19:02:20.159879+00:00,18079326,Troy Trojans vs. Louisiana-Monroe Warhawks,2026-10-24T20:00:00Z,total,Moins de 51.5,under,MAIN_PRICE_MOVE,51.5,51.5,1.8334,1.7693,0,0.0,1,1.0
-2026-10-20T19:02:20.159879+00:00,17883369,Wash State Cougars vs. Boise State Broncos,2026-10-24T22:00:00Z,total,Moins de 51.5,under,MAIN_PRICE_MOVE,51.5,51.5,1.7693,1.8334,0,0.0,1,1.0
-2026-10-20T19:02:20.159879+00:00,17883369,Wash State Cougars vs. Boise State Broncos,2026-10-24T22:00:00Z,total,Plus de 51.5,over,MAIN_PRICE_MOVE,51.5,51.5,1.9091,1.8334,0,0.0,1,1.0
-2026-10-20T19:02:20.159879+00:00,17883356,Oklahoma St Cowboys vs. Colorado Buffaloes,2026-10-24T23:00:00Z,spread,Colorado Buffaloes (+13.5),Colorado Buffaloes,MAIN_SWITCH,13.5,13.5,1.8,1.8,0,0.0,1,0.0
-2026-10-20T19:02:20.159879+00:00,17883356,Oklahoma St Cowboys vs. Colorado Buffaloes,2026-10-24T23:00:00Z,spread,Oklahoma St Cowboys (-13.5),Oklahoma St Cowboys,MAIN_SWITCH,-13.5,-13.5,1.8696,1.8696,0,0.0,1,0.0
-2026-10-20T19:02:20.159879+00:00,17873409,Tulsa Golden Hurricane vs. Army Black Knights,2026-10-24T00:30:00Z,total,Plus de 52.5,over,REMOVED_MAIN,52.5,,1.8,,0,,1,
-2026-10-20T19:02:20.159879+00:00,17873409,Tulsa Golden Hurricane vs. Army Black Knights,2026-10-24T00:30:00Z,total,Moins de 52.5,under,REMOVED_MAIN,52.5,,1.8696,,0,,1,
-2026-10-20T19:02:20.159879+00:00,17883366,Mississippi St Bulldogs vs. Oklahoma Sooners,2026-10-24T19:30:00Z,spread,Mississippi St Bulldogs (+4.0),Mississippi St Bulldogs,REMOVED_MAIN,4.0,,1.8334,,0,,1,
-2026-10-20T19:02:20.159879+00:00,17883366,Mississippi St Bulldogs vs. Oklahoma Sooners,2026-10-24T19:30:00Z,spread,Oklahoma Sooners (-4.0),Oklahoma Sooners,REMOVED_MAIN,-4.0,,1.8334,,0,,1,
+2026-10-20T22:32:20.538591+00:00,17844474,FIU Panthers vs. Middle Tennessee Blue Raiders,2026-10-20T23:00:00Z,spread,Middle Tennessee Blue Raiders (+10.5),Middle Tennessee Blue Raiders,MAIN_PRICE_MOVE,10.5,10.5,1.7693,1.8,0,0.0,1,1.0
+2026-10-20T22:32:20.538591+00:00,17844474,FIU Panthers vs. Middle Tennessee Blue Raiders,2026-10-20T23:00:00Z,spread,FIU Panthers (-10.5),FIU Panthers,MAIN_PRICE_MOVE,-10.5,-10.5,1.9091,1.8696,0,0.0,1,1.0
+2026-10-20T22:32:20.538591+00:00,17844474,FIU Panthers vs. Middle Tennessee Blue Raiders,2026-10-20T23:00:00Z,total,Moins de 46.5,under,MAIN_PRICE_MOVE,46.5,46.5,1.8334,1.8696,0,0.0,1,1.0
+2026-10-20T22:32:20.538591+00:00,17844474,FIU Panthers vs. Middle Tennessee Blue Raiders,2026-10-20T23:00:00Z,total,Plus de 46.5,over,MAIN_PRICE_MOVE,46.5,46.5,1.8334,1.8,0,0.0,1,1.0
+2026-10-20T22:32:20.538591+00:00,17854044,Sam Houston State Bearkats vs. New Mexico St Aggies,2026-10-22T00:00:00Z,spread,New Mexico St Aggies (-2.5),New Mexico St Aggies,MAIN_PRICE_MOVE,-2.5,-2.5,1.7408,1.8,0,0.0,1,1.0
+2026-10-20T22:32:20.538591+00:00,17854044,Sam Houston State Bearkats vs. New Mexico St Aggies,2026-10-22T00:00:00Z,spread,Sam Houston State Bearkats (+2.5),Sam Houston State Bearkats,MAIN_PRICE_MOVE,2.5,2.5,1.9524,1.8696,0,0.0,1,1.0
+2026-10-20T22:32:20.538591+00:00,17883368,Northwestern Wildcats vs. Rutgers Scarlet Knights,2026-10-24T16:00:00Z,total,Plus de 57.5,over,MAIN_PRICE_MOVE,57.5,57.5,1.8,1.7693,0,0.0,1,1.0
+2026-10-20T22:32:20.538591+00:00,17883368,Northwestern Wildcats vs. Rutgers Scarlet Knights,2026-10-24T16:00:00Z,total,Moins de 57.5,under,MAIN_PRICE_MOVE,57.5,57.5,1.8696,1.9091,0,0.0,1,1.0
+2026-10-20T22:32:20.538591+00:00,17883370,SMU Mustangs vs. California Golden Bears,2026-10-24T16:00:00Z,total,Moins de 54.5,under,MAIN_PRICE_MOVE,54.5,54.5,1.8334,1.8696,0,0.0,1,1.0
+2026-10-20T22:32:20.538591+00:00,17883370,SMU Mustangs vs. California Golden Bears,2026-10-24T16:00:00Z,total,Plus de 54.5,over,MAIN_PRICE_MOVE,54.5,54.5,1.8334,1.8,0,0.0,1,1.0
+2026-10-20T22:32:20.538591+00:00,17883351,Minnesota U Gophers vs. Iowa Hawkeyes,2026-10-24T19:30:00Z,spread,Minnesota U Gophers (+6.5),Minnesota U Gophers,MAIN_PRICE_MOVE,6.5,6.5,1.9091,1.8696,0,0.0,1,1.0
+2026-10-20T22:32:20.538591+00:00,17883351,Minnesota U Gophers vs. Iowa Hawkeyes,2026-10-24T19:30:00Z,spread,Iowa Hawkeyes (-6.5),Iowa Hawkeyes,MAIN_PRICE_MOVE,-6.5,-6.5,1.7693,1.8,0,0.0,1,1.0
+2026-10-20T22:32:20.538591+00:00,17883351,Minnesota U Gophers vs. Iowa Hawkeyes,2026-10-24T19:30:00Z,total,Plus de 40.5,over,MAIN_PRICE_MOVE,40.5,40.5,1.7693,1.8334,0,0.0,1,1.0
+2026-10-20T22:32:20.538591+00:00,17883351,Minnesota U Gophers vs. Iowa Hawkeyes,2026-10-24T19:30:00Z,total,Moins de 40.5,under,MAIN_PRICE_MOVE,40.5,40.5,1.9091,1.8334,0,0.0,1,1.0
+2026-10-20T22:32:20.538591+00:00,18071138,Navy Midshipmen vs. North Texas,2026-10-24T19:30:00Z,total,Plus de 61.5,over,MAIN_SWITCH,61.5,61.5,1.8,1.8,0,0.0,0,1.0
+2026-10-20T22:32:20.538591+00:00,18071138,Navy Midshipmen vs. North Texas,2026-10-24T19:30:00Z,total,Moins de 61.5,under,MAIN_SWITCH,61.5,61.5,1.8696,1.8696,0,0.0,0,1.0
+2026-10-20T22:32:20.538591+00:00,17883354,Arizona State Sun Devils vs. Kansas State Wildcats,2026-10-24T19:45:00Z,total,Moins de 56.5,under,MAIN_PRICE_MOVE,56.5,56.5,1.8696,1.8334,0,0.0,1,1.0
+2026-10-20T22:32:20.538591+00:00,17883354,Arizona State Sun Devils vs. Kansas State Wildcats,2026-10-24T19:45:00Z,total,Plus de 56.5,over,MAIN_PRICE_MOVE,56.5,56.5,1.8,1.8334,0,0.0,1,1.0
+2026-10-20T22:32:20.538591+00:00,17218308,Utah Utes vs. Houston Cougars,2026-10-25T02:15:00Z,total,Plus de 56.5,over,MAIN_PRICE_MOVE,56.5,56.5,1.8,1.8334,0,0.0,1,1.0
+2026-10-20T22:32:20.538591+00:00,17218308,Utah Utes vs. Houston Cougars,2026-10-25T02:15:00Z,total,Moins de 56.5,under,MAIN_PRICE_MOVE,56.5,56.5,1.8696,1.8334,0,0.0,1,1.0
+2026-10-20T22:32:20.538591+00:00,17844472,DEL Blue Hens vs. Missouri State Bears,2026-10-20T23:00:00Z,spread,DEL Blue Hens (-3.0),DEL Blue Hens,REMOVED_MAIN,-3.0,,1.8696,,0,,1,
+2026-10-20T22:32:20.538591+00:00,17844472,DEL Blue Hens vs. Missouri State Bears,2026-10-20T23:00:00Z,spread,Missouri State Bears (+3.0),Missouri State Bears,REMOVED_MAIN,3.0,,1.8,,0,,1,
+2026-10-20T22:32:20.538591+00:00,17854044,Sam Houston State Bearkats vs. New Mexico St Aggies,2026-10-22T00:00:00Z,spread,Sam Houston State Bearkats (+3.0),Sam Houston State Bearkats,REMOVED_MAIN,3.0,,1.8334,,0,,1,
+2026-10-20T22:32:20.538591+00:00,17854044,Sam Houston State Bearkats vs. New Mexico St Aggies,2026-10-22T00:00:00Z,spread,New Mexico St Aggies (-3.0),New Mexico St Aggies,REMOVED_MAIN,-3.0,,1.8334,,0,,1,
+2026-10-20T22:32:20.538591+00:00,17873412,Wyoming Cowboys vs. Air Force Falcons,2026-10-24T01:00:00Z,spread,Wyoming Cowboys (+4.5),Wyoming Cowboys,REMOVED_MAIN,4.5,,1.8334,,0,,1,
+2026-10-20T22:32:20.538591+00:00,17873412,Wyoming Cowboys vs. Air Force Falcons,2026-10-24T01:00:00Z,spread,Air Force Falcons (-4.5),Air Force Falcons,REMOVED_MAIN,-4.5,,1.8334,,0,,1,
+2026-10-20T22:32:20.538591+00:00,17873412,Wyoming Cowboys vs. Air Force Falcons,2026-10-24T01:00:00Z,total,Plus de 44.5,over,REMOVED_MAIN,44.5,,1.8,,0,,1,
+2026-10-20T22:32:20.538591+00:00,17873412,Wyoming Cowboys vs. Air Force Falcons,2026-10-24T01:00:00Z,total,Moins de 44.5,under,REMOVED_MAIN,44.5,,1.8696,,0,,1,
+2026-10-20T22:32:20.538591+00:00,17883351,Minnesota U Gophers vs. Iowa Hawkeyes,2026-10-24T19:30:00Z,spread,Minnesota U Gophers (+7.0),Minnesota U Gophers,REMOVED_MAIN,7.0,,1.8,,0,,1,
+2026-10-20T22:32:20.538591+00:00,17883351,Minnesota U Gophers vs. Iowa Hawkeyes,2026-10-24T19:30:00Z,spread,Iowa Hawkeyes (-7.0),Iowa Hawkeyes,REMOVED_MAIN,-7.0,,1.8696,,0,,1,

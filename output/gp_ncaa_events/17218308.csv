@@ -1,7 +1,15 @@
 event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id,selection,line,price,odd_id,odd_status,is_main_bet
 17218308,Utah Utes vs. Houston Cougars,2026-10-25T02:15:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Utah Utes,,1.3847,4661361848,0,False
 17218308,Utah Utes vs. Houston Cougars,2026-10-25T02:15:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Houston Cougars,,2.7,4661361847,0,False
+17218308,Utah Utes vs. Houston Cougars,2026-10-25T02:15:00Z,spread,Handicap (inclus prolongations),223,70799,Houston Cougars (+7.5),-7.5,1.6897,4675890765,0,False
+17218308,Utah Utes vs. Houston Cougars,2026-10-25T02:15:00Z,spread,Handicap (inclus prolongations),223,70799,Utah Utes (-7.5),-7.5,2.05,4675890767,0,False
+17218308,Utah Utes vs. Houston Cougars,2026-10-25T02:15:00Z,spread,Handicap (inclus prolongations),223,70799,Utah Utes (-5.5),-5.5,1.7143,4670329939,0,False
+17218308,Utah Utes vs. Houston Cougars,2026-10-25T02:15:00Z,spread,Handicap (inclus prolongations),223,70799,Houston Cougars (+5.5),-5.5,2.0,4670329940,0,False
 17218308,Utah Utes vs. Houston Cougars,2026-10-25T02:15:00Z,spread,Handicap (inclus prolongations),223,70799,Utah Utes (-6.5),-6.5,1.8,4661361849,0,True
 17218308,Utah Utes vs. Houston Cougars,2026-10-25T02:15:00Z,spread,Handicap (inclus prolongations),223,70799,Houston Cougars (+6.5),-6.5,1.8696,4661361850,0,True
 17218308,Utah Utes vs. Houston Cougars,2026-10-25T02:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 56.5,56.5,1.8,4661361861,0,True
 17218308,Utah Utes vs. Houston Cougars,2026-10-25T02:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 56.5,56.5,1.8696,4661361862,0,True
+17218308,Utah Utes vs. Houston Cougars,2026-10-25T02:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 57.5,57.5,1.9091,4674708688,0,False
+17218308,Utah Utes vs. Houston Cougars,2026-10-25T02:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 55.5,55.5,1.9091,4670329937,0,False
+17218308,Utah Utes vs. Houston Cougars,2026-10-25T02:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 55.5,55.5,1.7693,4670329938,0,False
+17218308,Utah Utes vs. Houston Cougars,2026-10-25T02:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 57.5,57.5,1.7693,4674708690,0,False

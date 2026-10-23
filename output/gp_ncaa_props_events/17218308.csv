@@ -1,37 +1,292 @@
 event_id,match,player,market,market_type_id,sport_market_id,child_market_id,odd_id,selection,line,price,odd_status,is_main_bet
-17218308,Utah Utes vs. Houston Cougars,Devon Dampier,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1793941838,4690726988,Devon Dampier (UTAH) Plus de 236.5,Devon Dampier (UTAH) Plus de 236.5,1.7693,0,True
-17218308,Utah Utes vs. Houston Cougars,Devon Dampier,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1793941838,4690726989,Devon Dampier (UTAH) moins de 236.5,Devon Dampier (UTAH) moins de 236.5,1.8334,0,True
-17218308,Utah Utes vs. Houston Cougars,Conner Weigman,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1790886089,4680911752,Conner Weigman (Hou) Plus de 224.5,Conner Weigman (Hou) Plus de 224.5,1.8334,0,True
-17218308,Utah Utes vs. Houston Cougars,Conner Weigman,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1790886089,4680911753,Conner Weigman (Hou) moins de 224.5,Conner Weigman (Hou) moins de 224.5,1.7693,0,True
-17218308,Utah Utes vs. Houston Cougars,Devon Dampier,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1786517503,4667868993,Devon Dampier (UTAH) Plus de 1.5,Devon Dampier (UTAH) Plus de 1.5,1.7408,0,False
-17218308,Utah Utes vs. Houston Cougars,Devon Dampier,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1786517503,4667868994,Devon Dampier (UTAH) moins de 1.5,Devon Dampier (UTAH) moins de 1.5,1.8696,0,False
+17218308,Utah Utes vs. Houston Cougars,Devon Dampier,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1793941838,4690726988,Devon Dampier (UTAH) Plus de 236.5,Devon Dampier (UTAH) Plus de 236.5,1.8334,0,True
+17218308,Utah Utes vs. Houston Cougars,Devon Dampier,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1793941838,4690726989,Devon Dampier (UTAH) moins de 236.5,Devon Dampier (UTAH) moins de 236.5,1.7693,0,True
+17218308,Utah Utes vs. Houston Cougars,Conner Weigman,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1790887571,4680915392,Conner Weigman (Hou) Plus de 227.5,Conner Weigman (Hou) Plus de 227.5,1.8334,0,True
+17218308,Utah Utes vs. Houston Cougars,Conner Weigman,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1790887571,4680915393,Conner Weigman (Hou) moins de 227.5,Conner Weigman (Hou) moins de 227.5,1.7693,0,True
+17218308,Utah Utes vs. Houston Cougars,Wayshawn Parker,Total des yards reçus par le joueur (Wayshawn Parker (UTH)) (prolongations incluses),2143,72898,1791497805,4691379399,22+,22+,1.8696,0,False
+17218308,Utah Utes vs. Houston Cougars,Wayshawn Parker,Total des yards reçus par le joueur (Wayshawn Parker (UTH)) (prolongations incluses),2143,72898,1791497805,4691379400,32+,32+,2.25,0,False
+17218308,Utah Utes vs. Houston Cougars,Wayshawn Parker,Total des yards reçus par le joueur (Wayshawn Parker (UTH)) (prolongations incluses),2143,72898,1791497805,4691379401,42+,42+,2.85,0,False
+17218308,Utah Utes vs. Houston Cougars,Wayshawn Parker,Total des yards reçus par le joueur (Wayshawn Parker (UTH)) (prolongations incluses),2143,72898,1791497805,4691379402,52+,52+,3.75,0,False
+17218308,Utah Utes vs. Houston Cougars,Wayshawn Parker,Total des yards reçus par le joueur (Wayshawn Parker (UTH)) (prolongations incluses),2143,72898,1791497805,4691379403,62+,62+,5.0,0,False
+17218308,Utah Utes vs. Houston Cougars,Wayshawn Parker,Total des yards reçus par le joueur (Wayshawn Parker (UTH)) (prolongations incluses),2143,72898,1791497805,4691379404,72+,72+,6.75,0,False
+17218308,Utah Utes vs. Houston Cougars,Wayshawn Parker,Total des yards reçus par le joueur (Wayshawn Parker (UTH)) (prolongations incluses),2143,72898,1791497805,4691379405,82+,82+,10.0,0,False
+17218308,Utah Utes vs. Houston Cougars,Wayshawn Parker,Total des yards reçus par le joueur (Wayshawn Parker (UTH)) (prolongations incluses),2143,72898,1791497805,4691379406,92+,92+,15.0,0,False
+17218308,Utah Utes vs. Houston Cougars,Wayshawn Parker,Total des yards reçus par le joueur (Wayshawn Parker (UTH)) (prolongations incluses),2143,72898,1791497805,4691379408,12+,12+,1.3847,0,False
+17218308,Utah Utes vs. Houston Cougars,Noah Bennee,Total des yards reçus par le joueur (Noah Bennee (UTH)) (prolongations incluses),2143,72898,1791497803,4682952864,65+,65+,5.25,0,False
+17218308,Utah Utes vs. Houston Cougars,Noah Bennee,Total des yards reçus par le joueur (Noah Bennee (UTH)) (prolongations incluses),2143,72898,1791497803,4682952865,75+,75+,7.5,0,False
+17218308,Utah Utes vs. Houston Cougars,Noah Bennee,Total des yards reçus par le joueur (Noah Bennee (UTH)) (prolongations incluses),2143,72898,1791497803,4682952866,85+,85+,11.0,0,False
+17218308,Utah Utes vs. Houston Cougars,Noah Bennee,Total des yards reçus par le joueur (Noah Bennee (UTH)) (prolongations incluses),2143,72898,1791497803,4682952867,95+,95+,17.0,0,False
+17218308,Utah Utes vs. Houston Cougars,Noah Bennee,Total des yards reçus par le joueur (Noah Bennee (UTH)) (prolongations incluses),2143,72898,1791497803,4682952868,105+,105+,26.0,0,False
+17218308,Utah Utes vs. Houston Cougars,Noah Bennee,Total des yards reçus par le joueur (Noah Bennee (UTH)) (prolongations incluses),2143,72898,1791497803,4682952869,15+,15+,1.4,0,False
+17218308,Utah Utes vs. Houston Cougars,Noah Bennee,Total des yards reçus par le joueur (Noah Bennee (UTH)) (prolongations incluses),2143,72898,1791497803,4682952860,25+,25+,1.8696,0,False
+17218308,Utah Utes vs. Houston Cougars,Noah Bennee,Total des yards reçus par le joueur (Noah Bennee (UTH)) (prolongations incluses),2143,72898,1791497803,4682952861,35+,35+,2.3,0,False
+17218308,Utah Utes vs. Houston Cougars,Noah Bennee,Total des yards reçus par le joueur (Noah Bennee (UTH)) (prolongations incluses),2143,72898,1791497803,4682952862,45+,45+,2.9,0,False
+17218308,Utah Utes vs. Houston Cougars,Noah Bennee,Total des yards reçus par le joueur (Noah Bennee (UTH)) (prolongations incluses),2143,72898,1791497803,4682952863,55+,55+,3.85,0,False
+17218308,Utah Utes vs. Houston Cougars,Koby Young,Total des yards reçus par le joueur (Koby Young (HOU)) (prolongations incluses),2143,72898,1791497806,4698925856,100+,100+,12.0,0,False
+17218308,Utah Utes vs. Houston Cougars,Koby Young,Total des yards reçus par le joueur (Koby Young (HOU)) (prolongations incluses),2143,72898,1791497806,4698925857,110+,110+,18.0,0,False
+17218308,Utah Utes vs. Houston Cougars,Koby Young,Total des yards reçus par le joueur (Koby Young (HOU)) (prolongations incluses),2143,72898,1791497806,4698925858,20+,20+,1.4546,0,False
+17218308,Utah Utes vs. Houston Cougars,Koby Young,Total des yards reçus par le joueur (Koby Young (HOU)) (prolongations incluses),2143,72898,1791497806,4698925849,30+,30+,1.8696,0,False
+17218308,Utah Utes vs. Houston Cougars,Koby Young,Total des yards reçus par le joueur (Koby Young (HOU)) (prolongations incluses),2143,72898,1791497806,4698925850,40+,40+,2.25,0,False
+17218308,Utah Utes vs. Houston Cougars,Koby Young,Total des yards reçus par le joueur (Koby Young (HOU)) (prolongations incluses),2143,72898,1791497806,4698925851,50+,50+,2.75,0,False
+17218308,Utah Utes vs. Houston Cougars,Koby Young,Total des yards reçus par le joueur (Koby Young (HOU)) (prolongations incluses),2143,72898,1791497806,4698925852,60+,60+,3.5,0,False
+17218308,Utah Utes vs. Houston Cougars,Koby Young,Total des yards reçus par le joueur (Koby Young (HOU)) (prolongations incluses),2143,72898,1791497806,4698925853,70+,70+,4.5,0,False
+17218308,Utah Utes vs. Houston Cougars,Koby Young,Total des yards reçus par le joueur (Koby Young (HOU)) (prolongations incluses),2143,72898,1791497806,4698925854,80+,80+,6.0,0,False
+17218308,Utah Utes vs. Houston Cougars,Koby Young,Total des yards reçus par le joueur (Koby Young (HOU)) (prolongations incluses),2143,72898,1791497806,4698925855,90+,90+,8.5,0,False
+17218308,Utah Utes vs. Houston Cougars,Creed Whittemore,Total des yards reçus par le joueur (Creed Whittemore (UTH)) (prolongations incluses),2143,72898,1791497812,4682745270,34+,34+,1.8696,0,False
+17218308,Utah Utes vs. Houston Cougars,Creed Whittemore,Total des yards reçus par le joueur (Creed Whittemore (UTH)) (prolongations incluses),2143,72898,1791497812,4682745271,44+,44+,2.25,0,False
+17218308,Utah Utes vs. Houston Cougars,Creed Whittemore,Total des yards reçus par le joueur (Creed Whittemore (UTH)) (prolongations incluses),2143,72898,1791497812,4682745272,54+,54+,2.75,0,False
+17218308,Utah Utes vs. Houston Cougars,Creed Whittemore,Total des yards reçus par le joueur (Creed Whittemore (UTH)) (prolongations incluses),2143,72898,1791497812,4682745273,64+,64+,3.4,0,False
+17218308,Utah Utes vs. Houston Cougars,Creed Whittemore,Total des yards reçus par le joueur (Creed Whittemore (UTH)) (prolongations incluses),2143,72898,1791497812,4682745274,74+,74+,4.5,0,False
+17218308,Utah Utes vs. Houston Cougars,Creed Whittemore,Total des yards reçus par le joueur (Creed Whittemore (UTH)) (prolongations incluses),2143,72898,1791497812,4682745275,84+,84+,6.0,0,False
+17218308,Utah Utes vs. Houston Cougars,Creed Whittemore,Total des yards reçus par le joueur (Creed Whittemore (UTH)) (prolongations incluses),2143,72898,1791497812,4682745276,94+,94+,8.5,0,False
+17218308,Utah Utes vs. Houston Cougars,Creed Whittemore,Total des yards reçus par le joueur (Creed Whittemore (UTH)) (prolongations incluses),2143,72898,1791497812,4682745277,104+,104+,12.0,0,False
+17218308,Utah Utes vs. Houston Cougars,Creed Whittemore,Total des yards reçus par le joueur (Creed Whittemore (UTH)) (prolongations incluses),2143,72898,1791497812,4682745278,114+,114+,17.0,0,False
+17218308,Utah Utes vs. Houston Cougars,Creed Whittemore,Total des yards reçus par le joueur (Creed Whittemore (UTH)) (prolongations incluses),2143,72898,1791497812,4682745279,24+,24+,1.4762,0,False
+17218308,Utah Utes vs. Houston Cougars,Ricky Johnson,Total des yards reçus par le joueur (Ricky Johnson (UTH)) (prolongations incluses),2143,72898,1791497813,4682745280,25+,25+,1.4762,0,False
+17218308,Utah Utes vs. Houston Cougars,Ricky Johnson,Total des yards reçus par le joueur (Ricky Johnson (UTH)) (prolongations incluses),2143,72898,1791497813,4682745281,35+,35+,1.8696,0,False
+17218308,Utah Utes vs. Houston Cougars,Ricky Johnson,Total des yards reçus par le joueur (Ricky Johnson (UTH)) (prolongations incluses),2143,72898,1791497813,4682745282,45+,45+,2.25,0,False
+17218308,Utah Utes vs. Houston Cougars,Ricky Johnson,Total des yards reçus par le joueur (Ricky Johnson (UTH)) (prolongations incluses),2143,72898,1791497813,4682745283,55+,55+,2.75,0,False
+17218308,Utah Utes vs. Houston Cougars,Ricky Johnson,Total des yards reçus par le joueur (Ricky Johnson (UTH)) (prolongations incluses),2143,72898,1791497813,4682745284,65+,65+,3.5,0,False
+17218308,Utah Utes vs. Houston Cougars,Ricky Johnson,Total des yards reçus par le joueur (Ricky Johnson (UTH)) (prolongations incluses),2143,72898,1791497813,4682745285,75+,75+,4.5,0,False
+17218308,Utah Utes vs. Houston Cougars,Ricky Johnson,Total des yards reçus par le joueur (Ricky Johnson (UTH)) (prolongations incluses),2143,72898,1791497813,4682745286,85+,85+,6.0,0,False
+17218308,Utah Utes vs. Houston Cougars,Ricky Johnson,Total des yards reçus par le joueur (Ricky Johnson (UTH)) (prolongations incluses),2143,72898,1791497813,4682745287,95+,95+,8.5,0,False
+17218308,Utah Utes vs. Houston Cougars,Ricky Johnson,Total des yards reçus par le joueur (Ricky Johnson (UTH)) (prolongations incluses),2143,72898,1791497813,4682745288,105+,105+,12.0,0,False
+17218308,Utah Utes vs. Houston Cougars,Amare Thomas,Total des yards reçus par le joueur (Amare Thomas (HOU)) (prolongations incluses),2143,72898,1791497814,4687136992,89+,89+,3.1,0,False
+17218308,Utah Utes vs. Houston Cougars,Amare Thomas,Total des yards reçus par le joueur (Amare Thomas (HOU)) (prolongations incluses),2143,72898,1791497814,4687136993,99+,99+,3.85,0,False
+17218308,Utah Utes vs. Houston Cougars,Amare Thomas,Total des yards reçus par le joueur (Amare Thomas (HOU)) (prolongations incluses),2143,72898,1791497814,4687136994,109+,109+,4.75,0,False
+17218308,Utah Utes vs. Houston Cougars,Amare Thomas,Total des yards reçus par le joueur (Amare Thomas (HOU)) (prolongations incluses),2143,72898,1791497814,4687136995,119+,119+,6.25,0,False
+17218308,Utah Utes vs. Houston Cougars,Amare Thomas,Total des yards reçus par le joueur (Amare Thomas (HOU)) (prolongations incluses),2143,72898,1791497814,4687136996,129+,129+,8.5,0,False
+17218308,Utah Utes vs. Houston Cougars,Amare Thomas,Total des yards reçus par le joueur (Amare Thomas (HOU)) (prolongations incluses),2143,72898,1791497814,4687136997,139+,139+,11.0,0,False
+17218308,Utah Utes vs. Houston Cougars,Amare Thomas,Total des yards reçus par le joueur (Amare Thomas (HOU)) (prolongations incluses),2143,72898,1791497814,4687136998,49+,49+,1.5,0,False
+17218308,Utah Utes vs. Houston Cougars,Amare Thomas,Total des yards reçus par le joueur (Amare Thomas (HOU)) (prolongations incluses),2143,72898,1791497814,4687136989,59+,59+,1.8696,0,False
+17218308,Utah Utes vs. Houston Cougars,Amare Thomas,Total des yards reçus par le joueur (Amare Thomas (HOU)) (prolongations incluses),2143,72898,1791497814,4687136990,69+,69+,2.2,0,False
+17218308,Utah Utes vs. Houston Cougars,Amare Thomas,Total des yards reçus par le joueur (Amare Thomas (HOU)) (prolongations incluses),2143,72898,1791497814,4687136991,79+,79+,2.6,0,False
+17218308,Utah Utes vs. Houston Cougars,Patrick Overmyer,Total des yards reçus par le joueur (Patrick Overmyer (HOU)) (prolongations incluses),2143,72898,1791497816,4682745312,104+,104+,5.25,0,False
+17218308,Utah Utes vs. Houston Cougars,Patrick Overmyer,Total des yards reçus par le joueur (Patrick Overmyer (HOU)) (prolongations incluses),2143,72898,1791497816,4682745313,114+,114+,6.75,0,False
+17218308,Utah Utes vs. Houston Cougars,Patrick Overmyer,Total des yards reçus par le joueur (Patrick Overmyer (HOU)) (prolongations incluses),2143,72898,1791497816,4682745314,124+,124+,9.0,0,False
+17218308,Utah Utes vs. Houston Cougars,Patrick Overmyer,Total des yards reçus par le joueur (Patrick Overmyer (HOU)) (prolongations incluses),2143,72898,1791497816,4682745315,134+,134+,13.0,0,False
+17218308,Utah Utes vs. Houston Cougars,Patrick Overmyer,Total des yards reçus par le joueur (Patrick Overmyer (HOU)) (prolongations incluses),2143,72898,1791497816,4682745316,44+,44+,1.5264,0,False
+17218308,Utah Utes vs. Houston Cougars,Patrick Overmyer,Total des yards reçus par le joueur (Patrick Overmyer (HOU)) (prolongations incluses),2143,72898,1791497816,4682745307,54+,54+,1.8696,0,False
+17218308,Utah Utes vs. Houston Cougars,Patrick Overmyer,Total des yards reçus par le joueur (Patrick Overmyer (HOU)) (prolongations incluses),2143,72898,1791497816,4682745308,64+,64+,2.2,0,False
+17218308,Utah Utes vs. Houston Cougars,Patrick Overmyer,Total des yards reçus par le joueur (Patrick Overmyer (HOU)) (prolongations incluses),2143,72898,1791497816,4682745309,74+,74+,2.65,0,False
+17218308,Utah Utes vs. Houston Cougars,Patrick Overmyer,Total des yards reçus par le joueur (Patrick Overmyer (HOU)) (prolongations incluses),2143,72898,1791497816,4682745310,84+,84+,3.2,0,False
+17218308,Utah Utes vs. Houston Cougars,Patrick Overmyer,Total des yards reçus par le joueur (Patrick Overmyer (HOU)) (prolongations incluses),2143,72898,1791497816,4682745311,94+,94+,4.0,0,False
+17218308,Utah Utes vs. Houston Cougars,Braden Pegan,Total des yards reçus par le joueur (Braden Pegan (UTH)) (prolongations incluses),2143,72898,1791497817,4682745317,65+,65+,1.8696,0,False
+17218308,Utah Utes vs. Houston Cougars,Braden Pegan,Total des yards reçus par le joueur (Braden Pegan (UTH)) (prolongations incluses),2143,72898,1791497817,4682745318,75+,75+,2.2,0,False
+17218308,Utah Utes vs. Houston Cougars,Braden Pegan,Total des yards reçus par le joueur (Braden Pegan (UTH)) (prolongations incluses),2143,72898,1791497817,4682745319,85+,85+,2.65,0,False
+17218308,Utah Utes vs. Houston Cougars,Braden Pegan,Total des yards reçus par le joueur (Braden Pegan (UTH)) (prolongations incluses),2143,72898,1791497817,4682745320,95+,95+,3.2,0,False
+17218308,Utah Utes vs. Houston Cougars,Braden Pegan,Total des yards reçus par le joueur (Braden Pegan (UTH)) (prolongations incluses),2143,72898,1791497817,4682745321,105+,105+,4.0,0,False
+17218308,Utah Utes vs. Houston Cougars,Braden Pegan,Total des yards reçus par le joueur (Braden Pegan (UTH)) (prolongations incluses),2143,72898,1791497817,4682745323,125+,125+,7.0,0,False
+17218308,Utah Utes vs. Houston Cougars,Braden Pegan,Total des yards reçus par le joueur (Braden Pegan (UTH)) (prolongations incluses),2143,72898,1791497817,4682745530,135+,135+,10.0,0,False
+17218308,Utah Utes vs. Houston Cougars,Braden Pegan,Total des yards reçus par le joueur (Braden Pegan (UTH)) (prolongations incluses),2143,72898,1791497817,4682745531,145+,145+,13.0,0,False
+17218308,Utah Utes vs. Houston Cougars,Braden Pegan,Total des yards reçus par le joueur (Braden Pegan (UTH)) (prolongations incluses),2143,72898,1791497817,4682745532,55+,55+,1.5264,0,False
+17218308,Utah Utes vs. Houston Cougars,Trent Walker,Total des yards reçus par le joueur (Trent Walker (HOU)) (prolongations incluses),2143,72898,1791497807,4682745222,43+,43+,1.8696,0,False
+17218308,Utah Utes vs. Houston Cougars,Trent Walker,Total des yards reçus par le joueur (Trent Walker (HOU)) (prolongations incluses),2143,72898,1791497807,4682745223,53+,53+,2.15,0,False
+17218308,Utah Utes vs. Houston Cougars,Trent Walker,Total des yards reçus par le joueur (Trent Walker (HOU)) (prolongations incluses),2143,72898,1791497807,4682745224,63+,63+,2.45,0,False
+17218308,Utah Utes vs. Houston Cougars,Trent Walker,Total des yards reçus par le joueur (Trent Walker (HOU)) (prolongations incluses),2143,72898,1791497807,4682745225,73+,73+,2.85,0,False
+17218308,Utah Utes vs. Houston Cougars,Trent Walker,Total des yards reçus par le joueur (Trent Walker (HOU)) (prolongations incluses),2143,72898,1791497807,4682745226,83+,83+,3.4,0,False
+17218308,Utah Utes vs. Houston Cougars,Trent Walker,Total des yards reçus par le joueur (Trent Walker (HOU)) (prolongations incluses),2143,72898,1791497807,4682745227,93+,93+,4.0,0,False
+17218308,Utah Utes vs. Houston Cougars,Trent Walker,Total des yards reçus par le joueur (Trent Walker (HOU)) (prolongations incluses),2143,72898,1791497807,4682745228,103+,103+,5.0,0,False
+17218308,Utah Utes vs. Houston Cougars,Trent Walker,Total des yards reçus par le joueur (Trent Walker (HOU)) (prolongations incluses),2143,72898,1791497807,4682745229,113+,113+,6.25,0,False
+17218308,Utah Utes vs. Houston Cougars,Trent Walker,Total des yards reçus par le joueur (Trent Walker (HOU)) (prolongations incluses),2143,72898,1791497807,4682745230,123+,123+,8.0,0,False
+17218308,Utah Utes vs. Houston Cougars,Trent Walker,Total des yards reçus par le joueur (Trent Walker (HOU)) (prolongations incluses),2143,72898,1791497807,4682745231,33+,33+,1.5556,0,False
+17218308,Utah Utes vs. Houston Cougars,Devon Dampier,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1786517503,4667868993,Devon Dampier (UTAH) Plus de 1.5,Devon Dampier (UTAH) Plus de 1.5,1.7143,0,False
+17218308,Utah Utes vs. Houston Cougars,Devon Dampier,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1786517503,4667868994,Devon Dampier (UTAH) moins de 1.5,Devon Dampier (UTAH) moins de 1.5,1.9091,0,False
 17218308,Utah Utes vs. Houston Cougars,Conner Weigman,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1786517397,4667868781,Conner Weigman (Hou) Plus de 1.5,Conner Weigman (Hou) Plus de 1.5,1.7693,0,False
 17218308,Utah Utes vs. Houston Cougars,Conner Weigman,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1786517397,4667868782,Conner Weigman (Hou) moins de 1.5,Conner Weigman (Hou) moins de 1.5,1.8334,0,False
-17218308,Utah Utes vs. Houston Cougars,Braden Pegan,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1786531166,4667901574,Braden Pegan (UTAH) Plus de 60.5,Braden Pegan (UTAH) Plus de 60.5,1.7693,0,False
-17218308,Utah Utes vs. Houston Cougars,Braden Pegan,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1786531166,4667901575,Braden Pegan (UTAH) moins de 60.5,Braden Pegan (UTAH) moins de 60.5,1.8334,0,False
-17218308,Utah Utes vs. Houston Cougars,Patrick Overmyer,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1790929196,4681025867,Patrick Overmyer (Hou) Plus de 51.5,Patrick Overmyer (Hou) Plus de 51.5,1.8334,0,False
-17218308,Utah Utes vs. Houston Cougars,Patrick Overmyer,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1790929196,4681025868,Patrick Overmyer (Hou) moins de 51.5,Patrick Overmyer (Hou) moins de 51.5,1.7693,0,False
-17218308,Utah Utes vs. Houston Cougars,Amare Thomas,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1790144249,4678491113,Amare Thomas (Hou) Plus de 50.5,Amare Thomas (Hou) Plus de 50.5,1.8334,0,False
-17218308,Utah Utes vs. Houston Cougars,Amare Thomas,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1790144249,4678491114,Amare Thomas (Hou) moins de 50.5,Amare Thomas (Hou) moins de 50.5,1.7693,0,False
+17218308,Utah Utes vs. Houston Cougars,Braden Pegan,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1790143553,4678489509,Braden Pegan (UTAH) Plus de 61.5,Braden Pegan (UTAH) Plus de 61.5,1.7693,0,False
+17218308,Utah Utes vs. Houston Cougars,Braden Pegan,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1790143553,4678489510,Braden Pegan (UTAH) moins de 61.5,Braden Pegan (UTAH) moins de 61.5,1.8334,0,False
+17218308,Utah Utes vs. Houston Cougars,Patrick Overmyer,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1790935457,4681042541,Patrick Overmyer (Hou) Plus de 52.5,Patrick Overmyer (Hou) Plus de 52.5,1.8334,0,False
+17218308,Utah Utes vs. Houston Cougars,Patrick Overmyer,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1790935457,4681042542,Patrick Overmyer (Hou) moins de 52.5,Patrick Overmyer (Hou) moins de 52.5,1.7693,0,False
+17218308,Utah Utes vs. Houston Cougars,Amare Thomas,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1787627970,4671032762,Amare Thomas (Hou) Plus de 51.5,Amare Thomas (Hou) Plus de 51.5,1.7693,0,False
+17218308,Utah Utes vs. Houston Cougars,Amare Thomas,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1787627970,4671032763,Amare Thomas (Hou) moins de 51.5,Amare Thomas (Hou) moins de 51.5,1.8334,0,False
 17218308,Utah Utes vs. Houston Cougars,Trent Walker,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1790875828,4680884456,Trent Walker (Hou) Plus de 43.5,Trent Walker (Hou) Plus de 43.5,1.7693,0,False
 17218308,Utah Utes vs. Houston Cougars,Trent Walker,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1790875828,4680884457,Trent Walker (Hou) moins de 43.5,Trent Walker (Hou) moins de 43.5,1.8334,0,False
-17218308,Utah Utes vs. Houston Cougars,Ricky Johnson,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1794976523,4694207499,Ricky Johnson (UTAH) Plus de 34.5,Ricky Johnson (UTAH) Plus de 34.5,1.7693,0,False
-17218308,Utah Utes vs. Houston Cougars,Ricky Johnson,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1794976523,4694207500,Ricky Johnson (UTAH) moins de 34.5,Ricky Johnson (UTAH) moins de 34.5,1.8334,0,False
-17218308,Utah Utes vs. Houston Cougars,Creed Whittemore,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1792701280,4686801288,Creed Whittemore (UTAH) moins de 32.5,Creed Whittemore (UTAH) moins de 32.5,1.7693,0,False
-17218308,Utah Utes vs. Houston Cougars,Creed Whittemore,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1792701280,4686801287,Creed Whittemore (UTAH) Plus de 32.5,Creed Whittemore (UTAH) Plus de 32.5,1.8334,0,False
-17218308,Utah Utes vs. Houston Cougars,Koby Young,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1791007075,4681238323,Koby Young (Hou) Plus de 28.5,Koby Young (Hou) Plus de 28.5,1.7693,0,False
-17218308,Utah Utes vs. Houston Cougars,Koby Young,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1791007075,4681238324,Koby Young (Hou) moins de 28.5,Koby Young (Hou) moins de 28.5,1.8334,0,False
-17218308,Utah Utes vs. Houston Cougars,Noah Bennee,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1790144245,4678491105,Noah Bennee (UTAH) Plus de 25.5,Noah Bennee (UTAH) Plus de 25.5,1.7693,0,False
-17218308,Utah Utes vs. Houston Cougars,Noah Bennee,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1790144245,4678491106,Noah Bennee (UTAH) moins de 25.5,Noah Bennee (UTAH) moins de 25.5,1.8334,0,False
+17218308,Utah Utes vs. Houston Cougars,Ricky Johnson,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1790143566,4678489536,Ricky Johnson (UTAH) moins de 36.5,Ricky Johnson (UTAH) moins de 36.5,1.7693,0,False
+17218308,Utah Utes vs. Houston Cougars,Ricky Johnson,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1790143566,4678489535,Ricky Johnson (UTAH) Plus de 36.5,Ricky Johnson (UTAH) Plus de 36.5,1.8334,0,False
+17218308,Utah Utes vs. Houston Cougars,Creed Whittemore,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1792701280,4686801288,Creed Whittemore (UTAH) moins de 32.5,Creed Whittemore (UTAH) moins de 32.5,1.8334,0,False
+17218308,Utah Utes vs. Houston Cougars,Creed Whittemore,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1792701280,4686801287,Creed Whittemore (UTAH) Plus de 32.5,Creed Whittemore (UTAH) Plus de 32.5,1.7693,0,False
+17218308,Utah Utes vs. Houston Cougars,Koby Young,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1790929198,4681025872,Koby Young (Hou) moins de 29.5,Koby Young (Hou) moins de 29.5,1.7693,0,False
+17218308,Utah Utes vs. Houston Cougars,Koby Young,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1790929198,4681025871,Koby Young (Hou) Plus de 29.5,Koby Young (Hou) Plus de 29.5,1.8334,0,False
+17218308,Utah Utes vs. Houston Cougars,Noah Bennee,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1790144850,4678492536,Noah Bennee (UTAH) Plus de 24.5,Noah Bennee (UTAH) Plus de 24.5,1.7693,0,False
+17218308,Utah Utes vs. Houston Cougars,Noah Bennee,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1790144850,4678492537,Noah Bennee (UTAH) moins de 24.5,Noah Bennee (UTAH) moins de 24.5,1.8334,0,False
 17218308,Utah Utes vs. Houston Cougars,Wayshawn Parker,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1790148842,4678502035,Wayshawn Parker (UTAH) Plus de 20.5,Wayshawn Parker (UTAH) Plus de 20.5,1.8334,0,False
 17218308,Utah Utes vs. Houston Cougars,Wayshawn Parker,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1790148842,4678502036,Wayshawn Parker (UTAH) moins de 20.5,Wayshawn Parker (UTAH) moins de 20.5,1.7693,0,False
-17218308,Utah Utes vs. Houston Cougars,Wayshawn Parker,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1790144856,4678492548,Wayshawn Parker (UTAH) Plus de 90.5,Wayshawn Parker (UTAH) Plus de 90.5,1.8334,0,False
-17218308,Utah Utes vs. Houston Cougars,Wayshawn Parker,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1790144856,4678492549,Wayshawn Parker (UTAH) moins de 90.5,Wayshawn Parker (UTAH) moins de 90.5,1.7693,0,False
-17218308,Utah Utes vs. Houston Cougars,Makhi Hughes,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1790915304,4680988304,Makhi Hughes (Hou) moins de 51.5,Makhi Hughes (Hou) moins de 51.5,1.7693,0,False
-17218308,Utah Utes vs. Houston Cougars,Makhi Hughes,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1790915304,4680988303,Makhi Hughes (Hou) Plus de 51.5,Makhi Hughes (Hou) Plus de 51.5,1.8334,0,False
-17218308,Utah Utes vs. Houston Cougars,Re'Shaun Sanford II,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1792915930,4687426739,Re'Shaun Sanford II (Hou) Plus de 44.5,Re'Shaun Sanford II (Hou) Plus de 44.5,1.8334,0,False
-17218308,Utah Utes vs. Houston Cougars,Re'Shaun Sanford II,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1792915930,4687426740,Re'Shaun Sanford II (Hou) moins de 44.5,Re'Shaun Sanford II (Hou) moins de 44.5,1.7693,0,False
-17218308,Utah Utes vs. Houston Cougars,Devon Dampier,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1792206637,4685133835,Devon Dampier (UTAH) Plus de 40.5,Devon Dampier (UTAH) Plus de 40.5,1.8334,0,False
-17218308,Utah Utes vs. Houston Cougars,Devon Dampier,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1792206637,4685133836,Devon Dampier (UTAH) moins de 40.5,Devon Dampier (UTAH) moins de 40.5,1.7693,0,False
+17218308,Utah Utes vs. Houston Cougars,Wayshawn Parker,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1790144856,4678492548,Wayshawn Parker (UTAH) Plus de 90.5,Wayshawn Parker (UTAH) Plus de 90.5,1.8,0,False
+17218308,Utah Utes vs. Houston Cougars,Wayshawn Parker,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1790144856,4678492549,Wayshawn Parker (UTAH) moins de 90.5,Wayshawn Parker (UTAH) moins de 90.5,1.8,0,False
+17218308,Utah Utes vs. Houston Cougars,Makhi Hughes,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1794413020,4692502125,Makhi Hughes (Hou) Plus de 52.5,Makhi Hughes (Hou) Plus de 52.5,1.8334,0,False
+17218308,Utah Utes vs. Houston Cougars,Makhi Hughes,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1794413020,4692502126,Makhi Hughes (Hou) moins de 52.5,Makhi Hughes (Hou) moins de 52.5,1.7693,0,False
+17218308,Utah Utes vs. Houston Cougars,Re'Shaun Sanford II,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1794528940,4692827872,Re'Shaun Sanford II (Hou) moins de 43.5,Re'Shaun Sanford II (Hou) moins de 43.5,1.7693,0,False
+17218308,Utah Utes vs. Houston Cougars,Re'Shaun Sanford II,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1794528940,4692827871,Re'Shaun Sanford II (Hou) Plus de 43.5,Re'Shaun Sanford II (Hou) Plus de 43.5,1.8334,0,False
+17218308,Utah Utes vs. Houston Cougars,Devon Dampier,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1792206637,4685133835,Devon Dampier (UTAH) Plus de 40.5,Devon Dampier (UTAH) Plus de 40.5,1.7693,0,False
+17218308,Utah Utes vs. Houston Cougars,Devon Dampier,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1792206637,4685133836,Devon Dampier (UTAH) moins de 40.5,Devon Dampier (UTAH) moins de 40.5,1.8334,0,False
 17218308,Utah Utes vs. Houston Cougars,Conner Weigman,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1787908738,4671812120,Conner Weigman (Hou) Plus de 29.5,Conner Weigman (Hou) Plus de 29.5,1.8334,0,False
 17218308,Utah Utes vs. Houston Cougars,Conner Weigman,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1787908738,4671812121,Conner Weigman (Hou) moins de 29.5,Conner Weigman (Hou) moins de 29.5,1.7693,0,False
+17218308,Utah Utes vs. Houston Cougars,Patrick Overmyer,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1792815052,4687145960,Patrick Overmyer (Hou) Plus de 5.5,Patrick Overmyer (Hou) Plus de 5.5,2.05,0,False
+17218308,Utah Utes vs. Houston Cougars,Patrick Overmyer,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1792815052,4687145961,Patrick Overmyer (Hou) moins de 5.5,Patrick Overmyer (Hou) moins de 5.5,1.625,0,False
+17218308,Utah Utes vs. Houston Cougars,Amare Thomas,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1787111915,4669796248,Amare Thomas (Hou) moins de 4.5,Amare Thomas (Hou) moins de 4.5,1.6061,0,False
+17218308,Utah Utes vs. Houston Cougars,Amare Thomas,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1787111915,4669796247,Amare Thomas (Hou) Plus de 4.5,Amare Thomas (Hou) Plus de 4.5,2.1,0,False
+17218308,Utah Utes vs. Houston Cougars,Trent Walker,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1787111882,4669796181,Trent Walker (Hou) Plus de 3.5,Trent Walker (Hou) Plus de 3.5,1.7693,0,False
+17218308,Utah Utes vs. Houston Cougars,Trent Walker,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1787111882,4669796182,Trent Walker (Hou) moins de 3.5,Trent Walker (Hou) moins de 3.5,1.8696,0,False
+17218308,Utah Utes vs. Houston Cougars,Wayshawn Parker,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1790140025,4678477320,Wayshawn Parker (UTAH) moins de 2.5,Wayshawn Parker (UTAH) moins de 2.5,1.9524,0,False
+17218308,Utah Utes vs. Houston Cougars,Wayshawn Parker,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1790140025,4678477319,Wayshawn Parker (UTAH) Plus de 2.5,Wayshawn Parker (UTAH) Plus de 2.5,1.6897,0,False
+17218308,Utah Utes vs. Houston Cougars,Koby Young,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1786517603,4667869193,Koby Young (Hou) Plus de 2.5,Koby Young (Hou) Plus de 2.5,2.3,0,False
+17218308,Utah Utes vs. Houston Cougars,Koby Young,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1786517603,4667869194,Koby Young (Hou) moins de 2.5,Koby Young (Hou) moins de 2.5,1.5,0,False
+17218308,Utah Utes vs. Houston Cougars,Conner Weigman,"Passes complétées, Joueur (prolongations incluses)",760,71921,1790886420,4680912642,Conner Weigman (Hou) Plus de 18.5,Conner Weigman (Hou) Plus de 18.5,1.7408,0,False
+17218308,Utah Utes vs. Houston Cougars,Conner Weigman,"Passes complétées, Joueur (prolongations incluses)",760,71921,1790886420,4680912643,Conner Weigman (Hou) moins de 18.5,Conner Weigman (Hou) moins de 18.5,1.9091,0,False
+17218308,Utah Utes vs. Houston Cougars,Devon Dampier,"Passes complétées, Joueur (prolongations incluses)",760,71921,1790144252,4678491120,Devon Dampier (UTAH) moins de 18.5,Devon Dampier (UTAH) moins de 18.5,1.6667,0,False
+17218308,Utah Utes vs. Houston Cougars,Devon Dampier,"Passes complétées, Joueur (prolongations incluses)",760,71921,1790144252,4678491119,Devon Dampier (UTAH) Plus de 18.5,Devon Dampier (UTAH) Plus de 18.5,2.0,0,False
+17218308,Utah Utes vs. Houston Cougars,Wayshawn Parker,Yards de course et de réception du joueur Plus/Moins (prolongations incluses),3317,73841,1790148843,4678502037,Wayshawn Parker (UTAH) Plus de 116.5,Wayshawn Parker (UTAH) Plus de 116.5,1.8334,0,False
+17218308,Utah Utes vs. Houston Cougars,Wayshawn Parker,Yards de course et de réception du joueur Plus/Moins (prolongations incluses),3317,73841,1790148843,4678502038,Wayshawn Parker (UTAH) moins de 116.5,Wayshawn Parker (UTAH) moins de 116.5,1.8,0,False
+17218308,Utah Utes vs. Houston Cougars,Devon Dampier,Joueur total de TDs par la passe (Devon Dampier (UTH) (prolongations incluses),2138,72893,1791497801,4682745154,2+,2+,1.8334,0,False
+17218308,Utah Utes vs. Houston Cougars,Devon Dampier,Joueur total de TDs par la passe (Devon Dampier (UTH) (prolongations incluses),2138,72893,1791497801,4682745155,3+,3+,3.2,0,False
+17218308,Utah Utes vs. Houston Cougars,Devon Dampier,Joueur total de TDs par la passe (Devon Dampier (UTH) (prolongations incluses),2138,72893,1791497801,4682745156,4+,4+,6.75,0,False
+17218308,Utah Utes vs. Houston Cougars,Devon Dampier,Joueur total de TDs par la passe (Devon Dampier (UTH) (prolongations incluses),2138,72893,1791497801,4682745157,1+,1+,1.1819,0,False
+17218308,Utah Utes vs. Houston Cougars,Conner Weigman,Joueur total de TDs par la passe (Conner Weigman (HOU) (prolongations incluses),2138,72893,1791497800,4682745152,4+,4+,7.5,0,False
+17218308,Utah Utes vs. Houston Cougars,Conner Weigman,Joueur total de TDs par la passe (Conner Weigman (HOU) (prolongations incluses),2138,72893,1791497800,4682745153,1+,1+,1.2223,0,False
+17218308,Utah Utes vs. Houston Cougars,Conner Weigman,Joueur total de TDs par la passe (Conner Weigman (HOU) (prolongations incluses),2138,72893,1791497800,4682745150,2+,2+,2.0,0,False
+17218308,Utah Utes vs. Houston Cougars,Conner Weigman,Joueur total de TDs par la passe (Conner Weigman (HOU) (prolongations incluses),2138,72893,1791497800,4682745151,3+,3+,3.5,0,False
+17218308,Utah Utes vs. Houston Cougars,Devon Dampier,Joueur total de yards par la passe (Devon Dampier (UTH))(prolongations incluses),2136,72891,1791497804,4682745185,233+,233+,1.8696,0,False
+17218308,Utah Utes vs. Houston Cougars,Devon Dampier,Joueur total de yards par la passe (Devon Dampier (UTH))(prolongations incluses),2136,72891,1791497804,4682745186,243+,243+,2.05,0,False
+17218308,Utah Utes vs. Houston Cougars,Devon Dampier,Joueur total de yards par la passe (Devon Dampier (UTH))(prolongations incluses),2136,72891,1791497804,4682745187,253+,253+,2.25,0,False
+17218308,Utah Utes vs. Houston Cougars,Devon Dampier,Joueur total de yards par la passe (Devon Dampier (UTH))(prolongations incluses),2136,72891,1791497804,4682745188,263+,263+,2.5,0,False
+17218308,Utah Utes vs. Houston Cougars,Devon Dampier,Joueur total de yards par la passe (Devon Dampier (UTH))(prolongations incluses),2136,72891,1791497804,4682745189,273+,273+,2.8,0,False
+17218308,Utah Utes vs. Houston Cougars,Devon Dampier,Joueur total de yards par la passe (Devon Dampier (UTH))(prolongations incluses),2136,72891,1791497804,4682745190,283+,283+,3.2,0,False
+17218308,Utah Utes vs. Houston Cougars,Devon Dampier,Joueur total de yards par la passe (Devon Dampier (UTH))(prolongations incluses),2136,72891,1791497804,4682745191,293+,293+,3.6,0,False
+17218308,Utah Utes vs. Houston Cougars,Devon Dampier,Joueur total de yards par la passe (Devon Dampier (UTH))(prolongations incluses),2136,72891,1791497804,4682745192,303+,303+,4.25,0,False
+17218308,Utah Utes vs. Houston Cougars,Devon Dampier,Joueur total de yards par la passe (Devon Dampier (UTH))(prolongations incluses),2136,72891,1791497804,4682745193,313+,313+,4.75,0,False
+17218308,Utah Utes vs. Houston Cougars,Devon Dampier,Joueur total de yards par la passe (Devon Dampier (UTH))(prolongations incluses),2136,72891,1791497804,4682745194,323+,323+,5.75,0,False
+17218308,Utah Utes vs. Houston Cougars,Devon Dampier,Joueur total de yards par la passe (Devon Dampier (UTH))(prolongations incluses),2136,72891,1791497804,4682745195,333+,333+,6.75,0,False
+17218308,Utah Utes vs. Houston Cougars,Devon Dampier,Joueur total de yards par la passe (Devon Dampier (UTH))(prolongations incluses),2136,72891,1791497804,4682745196,343+,343+,8.0,0,False
+17218308,Utah Utes vs. Houston Cougars,Devon Dampier,Joueur total de yards par la passe (Devon Dampier (UTH))(prolongations incluses),2136,72891,1791497804,4682745197,353+,353+,10.0,0,False
+17218308,Utah Utes vs. Houston Cougars,Devon Dampier,Joueur total de yards par la passe (Devon Dampier (UTH))(prolongations incluses),2136,72891,1791497804,4682745198,363+,363+,12.0,0,False
+17218308,Utah Utes vs. Houston Cougars,Devon Dampier,Joueur total de yards par la passe (Devon Dampier (UTH))(prolongations incluses),2136,72891,1791497804,4682745199,373+,373+,14.0,0,False
+17218308,Utah Utes vs. Houston Cougars,Devon Dampier,Joueur total de yards par la passe (Devon Dampier (UTH))(prolongations incluses),2136,72891,1791497804,4682745200,223+,223+,1.6897,0,False
+17218308,Utah Utes vs. Houston Cougars,Devon Dampier,Joueur total de yards par la passe (Devon Dampier (UTH))(prolongations incluses),2136,72891,1791497804,4682745201,213+,213+,1.5264,0,False
+17218308,Utah Utes vs. Houston Cougars,Conner Weigman,Joueur total de yards par la passe (Conner Weigman (HOU))(prolongations incluses),2136,72891,1791497802,4699199744,233+,233+,1.8696,0,False
+17218308,Utah Utes vs. Houston Cougars,Conner Weigman,Joueur total de yards par la passe (Conner Weigman (HOU))(prolongations incluses),2136,72891,1791497802,4699199745,243+,243+,2.05,0,False
+17218308,Utah Utes vs. Houston Cougars,Conner Weigman,Joueur total de yards par la passe (Conner Weigman (HOU))(prolongations incluses),2136,72891,1791497802,4699199746,253+,253+,2.25,0,False
+17218308,Utah Utes vs. Houston Cougars,Conner Weigman,Joueur total de yards par la passe (Conner Weigman (HOU))(prolongations incluses),2136,72891,1791497802,4699199747,263+,263+,2.5,0,False
+17218308,Utah Utes vs. Houston Cougars,Conner Weigman,Joueur total de yards par la passe (Conner Weigman (HOU))(prolongations incluses),2136,72891,1791497802,4699199748,273+,273+,2.85,0,False
+17218308,Utah Utes vs. Houston Cougars,Conner Weigman,Joueur total de yards par la passe (Conner Weigman (HOU))(prolongations incluses),2136,72891,1791497802,4699199749,283+,283+,3.2,0,False
+17218308,Utah Utes vs. Houston Cougars,Conner Weigman,Joueur total de yards par la passe (Conner Weigman (HOU))(prolongations incluses),2136,72891,1791497802,4699199750,293+,293+,3.6,0,False
+17218308,Utah Utes vs. Houston Cougars,Conner Weigman,Joueur total de yards par la passe (Conner Weigman (HOU))(prolongations incluses),2136,72891,1791497802,4699199751,303+,303+,4.25,0,False
+17218308,Utah Utes vs. Houston Cougars,Conner Weigman,Joueur total de yards par la passe (Conner Weigman (HOU))(prolongations incluses),2136,72891,1791497802,4699199752,313+,313+,5.0,0,False
+17218308,Utah Utes vs. Houston Cougars,Conner Weigman,Joueur total de yards par la passe (Conner Weigman (HOU))(prolongations incluses),2136,72891,1791497802,4699199753,323+,323+,5.75,0,False
+17218308,Utah Utes vs. Houston Cougars,Conner Weigman,Joueur total de yards par la passe (Conner Weigman (HOU))(prolongations incluses),2136,72891,1791497802,4699199754,333+,333+,6.75,0,False
+17218308,Utah Utes vs. Houston Cougars,Conner Weigman,Joueur total de yards par la passe (Conner Weigman (HOU))(prolongations incluses),2136,72891,1791497802,4699199755,343+,343+,8.0,0,False
+17218308,Utah Utes vs. Houston Cougars,Conner Weigman,Joueur total de yards par la passe (Conner Weigman (HOU))(prolongations incluses),2136,72891,1791497802,4699199756,353+,353+,10.0,0,False
+17218308,Utah Utes vs. Houston Cougars,Conner Weigman,Joueur total de yards par la passe (Conner Weigman (HOU))(prolongations incluses),2136,72891,1791497802,4699199757,363+,363+,12.0,0,False
+17218308,Utah Utes vs. Houston Cougars,Conner Weigman,Joueur total de yards par la passe (Conner Weigman (HOU))(prolongations incluses),2136,72891,1791497802,4699199758,373+,373+,15.0,0,False
+17218308,Utah Utes vs. Houston Cougars,Conner Weigman,Joueur total de yards par la passe (Conner Weigman (HOU))(prolongations incluses),2136,72891,1791497802,4699199759,223+,223+,1.6897,0,False
+17218308,Utah Utes vs. Houston Cougars,Conner Weigman,Joueur total de yards par la passe (Conner Weigman (HOU))(prolongations incluses),2136,72891,1791497802,4699199760,213+,213+,1.5556,0,False
+17218308,Utah Utes vs. Houston Cougars,Re'Shaun Sanford,Joueur total de yards par la course (Re'Shaun Sanford (HOU)) (prolongations incluses),2140,72895,1791497811,4682745259,44+,44+,1.9091,0,False
+17218308,Utah Utes vs. Houston Cougars,Re'Shaun Sanford,Joueur total de yards par la course (Re'Shaun Sanford (HOU)) (prolongations incluses),2140,72895,1791497811,4682745260,54+,54+,2.2,0,False
+17218308,Utah Utes vs. Houston Cougars,Re'Shaun Sanford,Joueur total de yards par la course (Re'Shaun Sanford (HOU)) (prolongations incluses),2140,72895,1791497811,4682745261,64+,64+,2.65,0,False
+17218308,Utah Utes vs. Houston Cougars,Re'Shaun Sanford,Joueur total de yards par la course (Re'Shaun Sanford (HOU)) (prolongations incluses),2140,72895,1791497811,4682745262,74+,74+,3.2,0,False
+17218308,Utah Utes vs. Houston Cougars,Re'Shaun Sanford,Joueur total de yards par la course (Re'Shaun Sanford (HOU)) (prolongations incluses),2140,72895,1791497811,4682745263,84+,84+,4.0,0,False
+17218308,Utah Utes vs. Houston Cougars,Re'Shaun Sanford,Joueur total de yards par la course (Re'Shaun Sanford (HOU)) (prolongations incluses),2140,72895,1791497811,4682745264,94+,94+,5.25,0,False
+17218308,Utah Utes vs. Houston Cougars,Re'Shaun Sanford,Joueur total de yards par la course (Re'Shaun Sanford (HOU)) (prolongations incluses),2140,72895,1791497811,4682745265,104+,104+,6.75,0,False
+17218308,Utah Utes vs. Houston Cougars,Re'Shaun Sanford,Joueur total de yards par la course (Re'Shaun Sanford (HOU)) (prolongations incluses),2140,72895,1791497811,4682745266,114+,114+,9.0,0,False
+17218308,Utah Utes vs. Houston Cougars,Re'Shaun Sanford,Joueur total de yards par la course (Re'Shaun Sanford (HOU)) (prolongations incluses),2140,72895,1791497811,4682745267,124+,124+,13.0,0,False
+17218308,Utah Utes vs. Houston Cougars,Re'Shaun Sanford,Joueur total de yards par la course (Re'Shaun Sanford (HOU)) (prolongations incluses),2140,72895,1791497811,4682745268,34+,34+,1.5,0,False
+17218308,Utah Utes vs. Houston Cougars,Re'Shaun Sanford,Joueur total de yards par la course (Re'Shaun Sanford (HOU)) (prolongations incluses),2140,72895,1791497811,4682745269,24+,24+,1.25,0,False
+17218308,Utah Utes vs. Houston Cougars,Makhi Hughes,Joueur total de yards par la course (Makhi Hughes (HOU)) (prolongations incluses),2140,72895,1791497808,4691379409,55+,55+,1.8696,0,False
+17218308,Utah Utes vs. Houston Cougars,Makhi Hughes,Joueur total de yards par la course (Makhi Hughes (HOU)) (prolongations incluses),2140,72895,1791497808,4691379410,65+,65+,2.25,0,False
+17218308,Utah Utes vs. Houston Cougars,Makhi Hughes,Joueur total de yards par la course (Makhi Hughes (HOU)) (prolongations incluses),2140,72895,1791497808,4691379543,75+,75+,2.7,0,False
+17218308,Utah Utes vs. Houston Cougars,Makhi Hughes,Joueur total de yards par la course (Makhi Hughes (HOU)) (prolongations incluses),2140,72895,1791497808,4691379544,85+,85+,3.4,0,False
+17218308,Utah Utes vs. Houston Cougars,Makhi Hughes,Joueur total de yards par la course (Makhi Hughes (HOU)) (prolongations incluses),2140,72895,1791497808,4691379545,95+,95+,4.3,0,False
+17218308,Utah Utes vs. Houston Cougars,Makhi Hughes,Joueur total de yards par la course (Makhi Hughes (HOU)) (prolongations incluses),2140,72895,1791497808,4691379546,105+,105+,5.75,0,False
+17218308,Utah Utes vs. Houston Cougars,Makhi Hughes,Joueur total de yards par la course (Makhi Hughes (HOU)) (prolongations incluses),2140,72895,1791497808,4691379548,125+,125+,11.0,0,False
+17218308,Utah Utes vs. Houston Cougars,Makhi Hughes,Joueur total de yards par la course (Makhi Hughes (HOU)) (prolongations incluses),2140,72895,1791497808,4691379549,135+,135+,16.0,0,False
+17218308,Utah Utes vs. Houston Cougars,Makhi Hughes,Joueur total de yards par la course (Makhi Hughes (HOU)) (prolongations incluses),2140,72895,1791497808,4691379550,45+,45+,1.5264,0,False
+17218308,Utah Utes vs. Houston Cougars,Makhi Hughes,Joueur total de yards par la course (Makhi Hughes (HOU)) (prolongations incluses),2140,72895,1791497808,4691379551,35+,35+,1.2858,0,False
+17218308,Utah Utes vs. Houston Cougars,Devon Dampier,Joueur total de yards par la course (Devon Dampier (UTH)) (prolongations incluses),2140,72895,1791497818,4682745324,45+,45+,1.8696,0,False
+17218308,Utah Utes vs. Houston Cougars,Devon Dampier,Joueur total de yards par la course (Devon Dampier (UTH)) (prolongations incluses),2140,72895,1791497818,4682745325,55+,55+,2.25,0,False
+17218308,Utah Utes vs. Houston Cougars,Devon Dampier,Joueur total de yards par la course (Devon Dampier (UTH)) (prolongations incluses),2140,72895,1791497818,4682745326,65+,65+,2.7,0,False
+17218308,Utah Utes vs. Houston Cougars,Devon Dampier,Joueur total de yards par la course (Devon Dampier (UTH)) (prolongations incluses),2140,72895,1791497818,4682745327,75+,75+,3.4,0,False
+17218308,Utah Utes vs. Houston Cougars,Devon Dampier,Joueur total de yards par la course (Devon Dampier (UTH)) (prolongations incluses),2140,72895,1791497818,4682745328,85+,85+,4.4,0,False
+17218308,Utah Utes vs. Houston Cougars,Devon Dampier,Joueur total de yards par la course (Devon Dampier (UTH)) (prolongations incluses),2140,72895,1791497818,4682745329,95+,95+,5.75,0,False
+17218308,Utah Utes vs. Houston Cougars,Devon Dampier,Joueur total de yards par la course (Devon Dampier (UTH)) (prolongations incluses),2140,72895,1791497818,4682745330,105+,105+,8.0,0,False
+17218308,Utah Utes vs. Houston Cougars,Devon Dampier,Joueur total de yards par la course (Devon Dampier (UTH)) (prolongations incluses),2140,72895,1791497818,4682745332,125+,125+,17.0,0,False
+17218308,Utah Utes vs. Houston Cougars,Devon Dampier,Joueur total de yards par la course (Devon Dampier (UTH)) (prolongations incluses),2140,72895,1791497818,4682745333,35+,35+,1.5264,0,False
+17218308,Utah Utes vs. Houston Cougars,Devon Dampier,Joueur total de yards par la course (Devon Dampier (UTH)) (prolongations incluses),2140,72895,1791497818,4682745334,25+,25+,1.2858,0,False
+17218308,Utah Utes vs. Houston Cougars,Conner Weigman,Joueur total de yards par la course (Conner Weigman (HOU)) (prolongations incluses),2140,72895,1791497907,4694681536,113+,113+,11.0,0,False
+17218308,Utah Utes vs. Houston Cougars,Conner Weigman,Joueur total de yards par la course (Conner Weigman (HOU)) (prolongations incluses),2140,72895,1791497907,4694681537,23+,23+,1.5264,0,False
+17218308,Utah Utes vs. Houston Cougars,Conner Weigman,Joueur total de yards par la course (Conner Weigman (HOU)) (prolongations incluses),2140,72895,1791497907,4694681538,13+,13+,1.3077,0,False
+17218308,Utah Utes vs. Houston Cougars,Conner Weigman,Joueur total de yards par la course (Conner Weigman (HOU)) (prolongations incluses),2140,72895,1791497907,4694681528,33+,33+,1.8696,0,False
+17218308,Utah Utes vs. Houston Cougars,Conner Weigman,Joueur total de yards par la course (Conner Weigman (HOU)) (prolongations incluses),2140,72895,1791497907,4694681529,43+,43+,2.15,0,False
+17218308,Utah Utes vs. Houston Cougars,Conner Weigman,Joueur total de yards par la course (Conner Weigman (HOU)) (prolongations incluses),2140,72895,1791497907,4694681530,53+,53+,2.55,0,False
+17218308,Utah Utes vs. Houston Cougars,Conner Weigman,Joueur total de yards par la course (Conner Weigman (HOU)) (prolongations incluses),2140,72895,1791497907,4694681531,63+,63+,3.1,0,False
+17218308,Utah Utes vs. Houston Cougars,Conner Weigman,Joueur total de yards par la course (Conner Weigman (HOU)) (prolongations incluses),2140,72895,1791497907,4694681532,73+,73+,3.85,0,False
+17218308,Utah Utes vs. Houston Cougars,Conner Weigman,Joueur total de yards par la course (Conner Weigman (HOU)) (prolongations incluses),2140,72895,1791497907,4694681533,83+,83+,4.75,0,False
+17218308,Utah Utes vs. Houston Cougars,Conner Weigman,Joueur total de yards par la course (Conner Weigman (HOU)) (prolongations incluses),2140,72895,1791497907,4694681534,93+,93+,6.0,0,False
+17218308,Utah Utes vs. Houston Cougars,Conner Weigman,Joueur total de yards par la course (Conner Weigman (HOU)) (prolongations incluses),2140,72895,1791497907,4694681535,103+,103+,8.0,0,False
+17218308,Utah Utes vs. Houston Cougars,Wayshawn Parker,Joueur total de yards par la course (Wayshawn Parker (UTH)) (prolongations incluses),2140,72895,1791497819,4682745344,81+,81+,1.5715,0,False
+17218308,Utah Utes vs. Houston Cougars,Wayshawn Parker,Joueur total de yards par la course (Wayshawn Parker (UTH)) (prolongations incluses),2140,72895,1791497819,4682745345,71+,71+,1.3572,0,False
+17218308,Utah Utes vs. Houston Cougars,Wayshawn Parker,Joueur total de yards par la course (Wayshawn Parker (UTH)) (prolongations incluses),2140,72895,1791497819,4682745335,91+,91+,1.9091,0,False
+17218308,Utah Utes vs. Houston Cougars,Wayshawn Parker,Joueur total de yards par la course (Wayshawn Parker (UTH)) (prolongations incluses),2140,72895,1791497819,4682745336,101+,101+,2.2,0,False
+17218308,Utah Utes vs. Houston Cougars,Wayshawn Parker,Joueur total de yards par la course (Wayshawn Parker (UTH)) (prolongations incluses),2140,72895,1791497819,4682745337,111+,111+,2.6,0,False
+17218308,Utah Utes vs. Houston Cougars,Wayshawn Parker,Joueur total de yards par la course (Wayshawn Parker (UTH)) (prolongations incluses),2140,72895,1791497819,4682745338,121+,121+,3.2,0,False
+17218308,Utah Utes vs. Houston Cougars,Wayshawn Parker,Joueur total de yards par la course (Wayshawn Parker (UTH)) (prolongations incluses),2140,72895,1791497819,4682745339,131+,131+,3.85,0,False
+17218308,Utah Utes vs. Houston Cougars,Wayshawn Parker,Joueur total de yards par la course (Wayshawn Parker (UTH)) (prolongations incluses),2140,72895,1791497819,4682745340,141+,141+,5.0,0,False
+17218308,Utah Utes vs. Houston Cougars,Wayshawn Parker,Joueur total de yards par la course (Wayshawn Parker (UTH)) (prolongations incluses),2140,72895,1791497819,4682745341,151+,151+,6.5,0,False
+17218308,Utah Utes vs. Houston Cougars,Wayshawn Parker,Joueur total de yards par la course (Wayshawn Parker (UTH)) (prolongations incluses),2140,72895,1791497819,4682745342,161+,161+,8.5,0,False
+17218308,Utah Utes vs. Houston Cougars,Wayshawn Parker,Joueur total de yards par la course (Wayshawn Parker (UTH)) (prolongations incluses),2140,72895,1791497819,4682745343,171+,171+,12.0,0,False
+17218308,Utah Utes vs. Houston Cougars,Byrd Ficklin,Joueur total de yards par la course (Byrd Ficklin (UTH)) (prolongations incluses),2140,72895,1791497810,4690209683,15+,15+,1.8696,0,False
+17218308,Utah Utes vs. Houston Cougars,Byrd Ficklin,Joueur total de yards par la course (Byrd Ficklin (UTH)) (prolongations incluses),2140,72895,1791497810,4690209684,25+,25+,2.1,0,False
+17218308,Utah Utes vs. Houston Cougars,Byrd Ficklin,Joueur total de yards par la course (Byrd Ficklin (UTH)) (prolongations incluses),2140,72895,1791497810,4690209685,35+,35+,2.35,0,False
+17218308,Utah Utes vs. Houston Cougars,Byrd Ficklin,Joueur total de yards par la course (Byrd Ficklin (UTH)) (prolongations incluses),2140,72895,1791497810,4690209686,45+,45+,2.65,0,False
+17218308,Utah Utes vs. Houston Cougars,Byrd Ficklin,Joueur total de yards par la course (Byrd Ficklin (UTH)) (prolongations incluses),2140,72895,1791497810,4690209687,55+,55+,3.0,0,False
+17218308,Utah Utes vs. Houston Cougars,Byrd Ficklin,Joueur total de yards par la course (Byrd Ficklin (UTH)) (prolongations incluses),2140,72895,1791497810,4690209688,65+,65+,3.5,0,False
+17218308,Utah Utes vs. Houston Cougars,Byrd Ficklin,Joueur total de yards par la course (Byrd Ficklin (UTH)) (prolongations incluses),2140,72895,1791497810,4690209689,75+,75+,4.0,0,False
+17218308,Utah Utes vs. Houston Cougars,Byrd Ficklin,Joueur total de yards par la course (Byrd Ficklin (UTH)) (prolongations incluses),2140,72895,1791497810,4690209690,85+,85+,5.0,0,False
+17218308,Utah Utes vs. Houston Cougars,Byrd Ficklin,Joueur total de yards par la course (Byrd Ficklin (UTH)) (prolongations incluses),2140,72895,1791497810,4690209691,95+,95+,5.75,0,False
+17218308,Utah Utes vs. Houston Cougars,Wayshawn Parker,Joueur total de réception (Wayshawn Parker (UTH)) (incl. OT),2142,72897,1791847750,4683959938,3+,3+,1.8696,0,False
+17218308,Utah Utes vs. Houston Cougars,Wayshawn Parker,Joueur total de réception (Wayshawn Parker (UTH)) (incl. OT),2142,72897,1791847750,4683959939,4+,4+,2.65,0,False
+17218308,Utah Utes vs. Houston Cougars,Wayshawn Parker,Joueur total de réception (Wayshawn Parker (UTH)) (incl. OT),2142,72897,1791847750,4683959940,5+,5+,4.0,0,False
+17218308,Utah Utes vs. Houston Cougars,Wayshawn Parker,Joueur total de réception (Wayshawn Parker (UTH)) (incl. OT),2142,72897,1791847750,4683959941,6+,6+,7.0,0,False
+17218308,Utah Utes vs. Houston Cougars,Wayshawn Parker,Joueur total de réception (Wayshawn Parker (UTH)) (incl. OT),2142,72897,1791847750,4683959942,7+,7+,13.0,0,False
+17218308,Utah Utes vs. Houston Cougars,Wayshawn Parker,Joueur total de réception (Wayshawn Parker (UTH)) (incl. OT),2142,72897,1791847750,4683959943,8+,8+,26.0,0,False
+17218308,Utah Utes vs. Houston Cougars,Wayshawn Parker,Joueur total de réception (Wayshawn Parker (UTH)) (incl. OT),2142,72897,1791847750,4683959944,2+,2+,1.2353,0,False
+17218308,Utah Utes vs. Houston Cougars,Noah Bennee,Joueur total de réception (Noah Bennee (UTH)) (incl. OT),2142,72897,1791497815,4682745300,3+,3+,2.15,0,False
+17218308,Utah Utes vs. Houston Cougars,Noah Bennee,Joueur total de réception (Noah Bennee (UTH)) (incl. OT),2142,72897,1791497815,4682745301,4+,4+,3.2,0,False
+17218308,Utah Utes vs. Houston Cougars,Noah Bennee,Joueur total de réception (Noah Bennee (UTH)) (incl. OT),2142,72897,1791497815,4682745302,5+,5+,5.25,0,False
+17218308,Utah Utes vs. Houston Cougars,Noah Bennee,Joueur total de réception (Noah Bennee (UTH)) (incl. OT),2142,72897,1791497815,4682745303,6+,6+,10.0,0,False
+17218308,Utah Utes vs. Houston Cougars,Noah Bennee,Joueur total de réception (Noah Bennee (UTH)) (incl. OT),2142,72897,1791497815,4682745304,7+,7+,20.0,0,False
+17218308,Utah Utes vs. Houston Cougars,Noah Bennee,Joueur total de réception (Noah Bennee (UTH)) (incl. OT),2142,72897,1791497815,4682745305,8+,8+,41.0,0,False
+17218308,Utah Utes vs. Houston Cougars,Noah Bennee,Joueur total de réception (Noah Bennee (UTH)) (incl. OT),2142,72897,1791497815,4682745306,2+,2+,1.3125,0,False
+17218308,Utah Utes vs. Houston Cougars,Trent Walker,Joueur total de réception (Trent Walker (HOU)) (incl. OT),2142,72897,1791497809,4682745248,9+,9+,10.0,0,False
+17218308,Utah Utes vs. Houston Cougars,Trent Walker,Joueur total de réception (Trent Walker (HOU)) (incl. OT),2142,72897,1791497809,4682745249,3+,3+,1.3572,0,False
+17218308,Utah Utes vs. Houston Cougars,Trent Walker,Joueur total de réception (Trent Walker (HOU)) (incl. OT),2142,72897,1791497809,4682745243,4+,4+,1.8334,0,False
+17218308,Utah Utes vs. Houston Cougars,Trent Walker,Joueur total de réception (Trent Walker (HOU)) (incl. OT),2142,72897,1791497809,4682745244,5+,5+,2.35,0,False
+17218308,Utah Utes vs. Houston Cougars,Trent Walker,Joueur total de réception (Trent Walker (HOU)) (incl. OT),2142,72897,1791497809,4682745245,6+,6+,3.1,0,False
+17218308,Utah Utes vs. Houston Cougars,Trent Walker,Joueur total de réception (Trent Walker (HOU)) (incl. OT),2142,72897,1791497809,4682745246,7+,7+,4.3,0,False
+17218308,Utah Utes vs. Houston Cougars,Trent Walker,Joueur total de réception (Trent Walker (HOU)) (incl. OT),2142,72897,1791497809,4682745247,8+,8+,6.25,0,False
+17218308,Utah Utes vs. Houston Cougars,Braden Pegan,Joueur total de réception (Braden Pegan (UTH)) (incl. OT),2142,72897,1791497905,4682745536,9+,9+,6.75,0,False
+17218308,Utah Utes vs. Houston Cougars,Braden Pegan,Joueur total de réception (Braden Pegan (UTH)) (incl. OT),2142,72897,1791497905,4682745537,10+,10+,12.0,0,False
+17218308,Utah Utes vs. Houston Cougars,Braden Pegan,Joueur total de réception (Braden Pegan (UTH)) (incl. OT),2142,72897,1791497905,4682745538,11+,11+,21.0,0,False
+17218308,Utah Utes vs. Houston Cougars,Braden Pegan,Joueur total de réception (Braden Pegan (UTH)) (incl. OT),2142,72897,1791497905,4682745539,5+,5+,1.4,0,False
+17218308,Utah Utes vs. Houston Cougars,Braden Pegan,Joueur total de réception (Braden Pegan (UTH)) (incl. OT),2142,72897,1791497905,4682745533,6+,6+,2.05,0,False
+17218308,Utah Utes vs. Houston Cougars,Braden Pegan,Joueur total de réception (Braden Pegan (UTH)) (incl. OT),2142,72897,1791497905,4682745534,7+,7+,2.8,0,False
+17218308,Utah Utes vs. Houston Cougars,Braden Pegan,Joueur total de réception (Braden Pegan (UTH)) (incl. OT),2142,72897,1791497905,4682745535,8+,8+,4.25,0,False
+17218308,Utah Utes vs. Houston Cougars,Koby Young,Joueur total de réception (Koby Young (HOU)) (incl. OT),2142,72897,1792206278,4685132995,2+,2+,1.4546,0,False
+17218308,Utah Utes vs. Houston Cougars,Koby Young,Joueur total de réception (Koby Young (HOU)) (incl. OT),2142,72897,1792206278,4685132996,3+,3+,2.4,0,False
+17218308,Utah Utes vs. Houston Cougars,Koby Young,Joueur total de réception (Koby Young (HOU)) (incl. OT),2142,72897,1792206278,4685132997,4+,4+,3.5,0,False
+17218308,Utah Utes vs. Houston Cougars,Koby Young,Joueur total de réception (Koby Young (HOU)) (incl. OT),2142,72897,1792206278,4685132998,5+,5+,6.25,0,False
+17218308,Utah Utes vs. Houston Cougars,Koby Young,Joueur total de réception (Koby Young (HOU)) (incl. OT),2142,72897,1792206278,4685132999,6+,6+,12.0,0,False
+17218308,Utah Utes vs. Houston Cougars,Koby Young,Joueur total de réception (Koby Young (HOU)) (incl. OT),2142,72897,1792206278,4685133000,7+,7+,26.0,0,False
+17218308,Utah Utes vs. Houston Cougars,Amare Thomas,Joueur total de réception (Amare Thomas (HOU)) (incl. OT),2142,72897,1791497906,4682745540,5+,5+,2.25,0,False
+17218308,Utah Utes vs. Houston Cougars,Amare Thomas,Joueur total de réception (Amare Thomas (HOU)) (incl. OT),2142,72897,1791497906,4682745541,6+,6+,2.9,0,False
+17218308,Utah Utes vs. Houston Cougars,Amare Thomas,Joueur total de réception (Amare Thomas (HOU)) (incl. OT),2142,72897,1791497906,4682745542,7+,7+,4.0,0,False
+17218308,Utah Utes vs. Houston Cougars,Amare Thomas,Joueur total de réception (Amare Thomas (HOU)) (incl. OT),2142,72897,1791497906,4682745543,8+,8+,6.25,0,False
+17218308,Utah Utes vs. Houston Cougars,Amare Thomas,Joueur total de réception (Amare Thomas (HOU)) (incl. OT),2142,72897,1791497906,4682745544,9+,9+,10.0,0,False
+17218308,Utah Utes vs. Houston Cougars,Amare Thomas,Joueur total de réception (Amare Thomas (HOU)) (incl. OT),2142,72897,1791497906,4682745545,10+,10+,17.0,0,False
+17218308,Utah Utes vs. Houston Cougars,Amare Thomas,Joueur total de réception (Amare Thomas (HOU)) (incl. OT),2142,72897,1791497906,4682745546,4+,4+,1.4762,0,False
+17218308,Utah Utes vs. Houston Cougars,Patrick Overmyer,Joueur total de réception (Patrick Overmyer (HOU)) (incl. OT),2142,72897,1792208571,4685138547,6+,6+,2.1,0,False
+17218308,Utah Utes vs. Houston Cougars,Patrick Overmyer,Joueur total de réception (Patrick Overmyer (HOU)) (incl. OT),2142,72897,1792208571,4685138548,7+,7+,2.85,0,False
+17218308,Utah Utes vs. Houston Cougars,Patrick Overmyer,Joueur total de réception (Patrick Overmyer (HOU)) (incl. OT),2142,72897,1792208571,4685138549,8+,8+,4.0,0,False
+17218308,Utah Utes vs. Houston Cougars,Patrick Overmyer,Joueur total de réception (Patrick Overmyer (HOU)) (incl. OT),2142,72897,1792208571,4685138550,9+,9+,6.5,0,False
+17218308,Utah Utes vs. Houston Cougars,Patrick Overmyer,Joueur total de réception (Patrick Overmyer (HOU)) (incl. OT),2142,72897,1792208571,4685138551,10+,10+,11.0,0,False
+17218308,Utah Utes vs. Houston Cougars,Patrick Overmyer,Joueur total de réception (Patrick Overmyer (HOU)) (incl. OT),2142,72897,1792208571,4685138552,11+,11+,19.0,0,False
+17218308,Utah Utes vs. Houston Cougars,Patrick Overmyer,Joueur total de réception (Patrick Overmyer (HOU)) (incl. OT),2142,72897,1792208571,4685138553,5+,5+,1.5,0,False

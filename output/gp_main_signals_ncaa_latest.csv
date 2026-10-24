@@ -1,25 +1,3 @@
 captured_at,event_id,match,start_date,market,selection,side,signal,old_line,new_line,old_price,new_price,old_status,new_status,old_is_main_bet,new_is_main_bet
-2026-10-24T22:43:11.684791+00:00,17883352,Clemson Tigers vs. Virginia Tech Hokies,2026-10-24T23:00:00Z,spread,Virginia Tech Hokies (+3.0),Virginia Tech Hokies,MAIN_PRICE_MOVE,3.0,3.0,1.8334,1.8,0,0.0,1,1.0
-2026-10-24T22:43:11.684791+00:00,17883352,Clemson Tigers vs. Virginia Tech Hokies,2026-10-24T23:00:00Z,spread,Clemson Tigers (-3.0),Clemson Tigers,MAIN_PRICE_MOVE,-3.0,-3.0,1.8334,1.8696,0,0.0,1,1.0
-2026-10-24T22:43:11.684791+00:00,17883352,Clemson Tigers vs. Virginia Tech Hokies,2026-10-24T23:00:00Z,total,Moins de 49.5,under,MAIN_SWITCH,49.5,49.5,1.8696,1.8696,0,0.0,0,1.0
-2026-10-24T22:43:11.684791+00:00,17883352,Clemson Tigers vs. Virginia Tech Hokies,2026-10-24T23:00:00Z,total,Plus de 49.5,over,MAIN_SWITCH,49.5,49.5,1.8,1.8,0,0.0,0,1.0
-2026-10-24T22:43:11.684791+00:00,17883356,Oklahoma St Cowboys vs. Colorado Buffaloes,2026-10-24T23:00:00Z,spread,Colorado Buffaloes (+13.5),Colorado Buffaloes,MAIN_PRICE_MOVE,13.5,13.5,1.8334,1.8,0,0.0,1,1.0
-2026-10-24T22:43:11.684791+00:00,17883356,Oklahoma St Cowboys vs. Colorado Buffaloes,2026-10-24T23:00:00Z,spread,Oklahoma St Cowboys (-13.5),Oklahoma St Cowboys,MAIN_PRICE_MOVE,-13.5,-13.5,1.8334,1.8696,0,0.0,1,1.0
-2026-10-24T22:43:11.684791+00:00,18079344,Arkansas St Red Wolves vs. Georgia State Panthers,2026-10-24T23:00:00Z,spread,Georgia State Panthers (-2.5),Georgia State Panthers,MAIN_PRICE_MOVE,-2.5,-2.5,1.8,1.8334,0,0.0,1,1.0
-2026-10-24T22:43:11.684791+00:00,18079344,Arkansas St Red Wolves vs. Georgia State Panthers,2026-10-24T23:00:00Z,spread,Arkansas St Red Wolves (+2.5),Arkansas St Red Wolves,MAIN_PRICE_MOVE,2.5,2.5,1.8696,1.8334,0,0.0,1,1.0
-2026-10-24T22:43:11.684791+00:00,17332032,Texas Longhorns vs. Ole Miss Rebels,2026-10-24T23:30:00Z,spread,Ole Miss Rebels (+3.0),Ole Miss Rebels,MAIN_PRICE_MOVE,3.0,3.0,1.8334,1.8696,0,0.0,1,1.0
-2026-10-24T22:43:11.684791+00:00,17332032,Texas Longhorns vs. Ole Miss Rebels,2026-10-24T23:30:00Z,spread,Texas Longhorns (-3.0),Texas Longhorns,MAIN_PRICE_MOVE,-3.0,-3.0,1.8334,1.8,0,0.0,1,1.0
-2026-10-24T22:43:11.684791+00:00,17332032,Texas Longhorns vs. Ole Miss Rebels,2026-10-24T23:30:00Z,total,Moins de 54.5,under,MAIN_PRICE_MOVE,54.5,54.5,1.8,1.8696,0,0.0,1,1.0
-2026-10-24T22:43:11.684791+00:00,17332032,Texas Longhorns vs. Ole Miss Rebels,2026-10-24T23:30:00Z,total,Plus de 54.5,over,MAIN_PRICE_MOVE,54.5,54.5,1.8696,1.8,0,0.0,1,1.0
-2026-10-24T22:43:11.684791+00:00,17883365,Kentucky Wildcats vs. Vanderbilt Commodores,2026-10-24T23:30:00Z,total,Plus de 51.5,over,MAIN_PRICE_MOVE,51.5,51.5,1.9091,1.8334,0,0.0,1,1.0
-2026-10-24T22:43:11.684791+00:00,17883365,Kentucky Wildcats vs. Vanderbilt Commodores,2026-10-24T23:30:00Z,total,Moins de 51.5,under,MAIN_PRICE_MOVE,51.5,51.5,1.7693,1.8334,0,0.0,1,1.0
-2026-10-24T22:43:11.684791+00:00,17883373,Wisconsin Badgers vs. USC Trojans,2026-10-24T23:30:00Z,spread,Wisconsin Badgers (+2.5),Wisconsin Badgers,MAIN_PRICE_MOVE,2.5,2.5,1.8696,1.8334,0,0.0,1,1.0
-2026-10-24T22:43:11.684791+00:00,17883373,Wisconsin Badgers vs. USC Trojans,2026-10-24T23:30:00Z,spread,USC Trojans (-2.5),USC Trojans,MAIN_PRICE_MOVE,-2.5,-2.5,1.8,1.8334,0,0.0,1,1.0
-2026-10-24T22:43:11.684791+00:00,17883373,Wisconsin Badgers vs. USC Trojans,2026-10-24T23:30:00Z,total,Plus de 50.5,over,MAIN_PRICE_MOVE,50.5,50.5,1.8696,1.8334,0,0.0,1,1.0
-2026-10-24T22:43:11.684791+00:00,17883373,Wisconsin Badgers vs. USC Trojans,2026-10-24T23:30:00Z,total,Moins de 50.5,under,MAIN_PRICE_MOVE,50.5,50.5,1.8,1.8334,0,0.0,1,1.0
-2026-10-24T22:43:11.684791+00:00,18071540,Tulane Green Wave vs. UT San Antonio Roadrunners,2026-10-25T00:00:00Z,spread,UT San Antonio Roadrunners (-3.0),UT San Antonio Roadrunners,MAIN_PRICE_MOVE,-3.0,-3.0,1.8696,1.8334,0,0.0,1,1.0
-2026-10-24T22:43:11.684791+00:00,18071540,Tulane Green Wave vs. UT San Antonio Roadrunners,2026-10-25T00:00:00Z,spread,Tulane Green Wave (+3.0),Tulane Green Wave,MAIN_PRICE_MOVE,3.0,3.0,1.8,1.8334,0,0.0,1,1.0
-2026-10-24T22:43:11.684791+00:00,17218308,Utah Utes vs. Houston Cougars,2026-10-25T02:15:00Z,total,Plus de 57.5,over,MAIN_PRICE_MOVE,57.5,57.5,1.8,1.8334,0,0.0,1,1.0
-2026-10-24T22:43:11.684791+00:00,17218308,Utah Utes vs. Houston Cougars,2026-10-25T02:15:00Z,total,Moins de 57.5,under,MAIN_PRICE_MOVE,57.5,57.5,1.8696,1.8334,0,0.0,1,1.0
-2026-10-24T22:43:11.684791+00:00,17926206,Middle Tennessee Blue Raiders vs. Kennesaw State Owls,2026-10-28T23:00:00Z,total,Moins de 50.5,under,MAIN_SWITCH,50.5,50.5,1.7143,1.7143,7,7.0,1,0.0
-2026-10-24T22:43:11.684791+00:00,17926206,Middle Tennessee Blue Raiders vs. Kennesaw State Owls,2026-10-28T23:00:00Z,total,Plus de 50.5,over,MAIN_SWITCH,50.5,50.5,2.0,2.0,7,7.0,1,0.0
+2026-10-24T23:59:14.246785+00:00,18071540,Tulane Green Wave vs. UT San Antonio Roadrunners,2026-10-25T00:00:00Z,spread,UT San Antonio Roadrunners (-2.5),UT San Antonio Roadrunners,MAIN_PRICE_MOVE,-2.5,-2.5,1.7408,1.8,0,0.0,1,1.0
+2026-10-24T23:59:14.246785+00:00,18071540,Tulane Green Wave vs. UT San Antonio Roadrunners,2026-10-25T00:00:00Z,spread,Tulane Green Wave (+2.5),Tulane Green Wave,MAIN_PRICE_MOVE,2.5,2.5,1.9524,1.8696,0,0.0,1,1.0

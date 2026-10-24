@@ -3,5 +3,7 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17926206,Middle Tennessee Blue Raiders vs. Kennesaw State Owls,2026-10-28T23:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Kennesaw State Owls,,2.15,4702895085,0,False
 17926206,Middle Tennessee Blue Raiders vs. Kennesaw State Owls,2026-10-28T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Middle Tennessee Blue Raiders (-3.5),-3.5,1.9524,4702896949,0,True
 17926206,Middle Tennessee Blue Raiders vs. Kennesaw State Owls,2026-10-28T23:00:00Z,spread,Handicap (inclus prolongations),223,70799,Kennesaw State Owls (+3.5),-3.5,1.7408,4702896950,0,True
-17926206,Middle Tennessee Blue Raiders vs. Kennesaw State Owls,2026-10-28T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 50.5,50.5,1.7143,4702896952,7,True
-17926206,Middle Tennessee Blue Raiders vs. Kennesaw State Owls,2026-10-28T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 50.5,50.5,2.0,4702896951,7,True
+17926206,Middle Tennessee Blue Raiders vs. Kennesaw State Owls,2026-10-28T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 50.5,50.5,1.7143,4702896952,7,False
+17926206,Middle Tennessee Blue Raiders vs. Kennesaw State Owls,2026-10-28T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 48.5,48.5,1.8334,4707210795,0,True
+17926206,Middle Tennessee Blue Raiders vs. Kennesaw State Owls,2026-10-28T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 48.5,48.5,1.8334,4707210796,0,True
+17926206,Middle Tennessee Blue Raiders vs. Kennesaw State Owls,2026-10-28T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 50.5,50.5,2.0,4702896951,7,False

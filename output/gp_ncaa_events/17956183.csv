@@ -1,7 +1,15 @@
 event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id,selection,line,price,odd_id,odd_status,is_main_bet
 17956183,Utah State Aggies vs. COLORADO,2026-10-31T19:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Utah State Aggies,,1.4,4711349890,0,False
 17956183,Utah State Aggies vs. COLORADO,2026-10-31T19:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,COLORADO,,2.65,4711349891,0,False
-17956183,Utah State Aggies vs. COLORADO,2026-10-31T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,COLORADO (+6.5),-6.5,1.8696,4713428848,0,True
-17956183,Utah State Aggies vs. COLORADO,2026-10-31T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Utah State Aggies (-6.5),-6.5,1.8,4713428849,0,True
+17956183,Utah State Aggies vs. COLORADO,2026-10-31T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,COLORADO (+6.5),-6.5,1.8334,4713428848,0,True
+17956183,Utah State Aggies vs. COLORADO,2026-10-31T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Utah State Aggies (-6.5),-6.5,1.8334,4713428849,0,True
+17956183,Utah State Aggies vs. COLORADO,2026-10-31T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,COLORADO (+7.5),-7.5,1.6667,4715993298,0,False
+17956183,Utah State Aggies vs. COLORADO,2026-10-31T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Utah State Aggies (-7.5),-7.5,2.1,4715993299,0,False
+17956183,Utah State Aggies vs. COLORADO,2026-10-31T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,Utah State Aggies (-5.5),-5.5,1.7408,4711895702,0,False
+17956183,Utah State Aggies vs. COLORADO,2026-10-31T19:30:00Z,spread,Handicap (inclus prolongations),223,70799,COLORADO (+5.5),-5.5,1.9524,4711895703,0,False
+17956183,Utah State Aggies vs. COLORADO,2026-10-31T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 64.5,64.5,1.7693,4711349888,0,False
+17956183,Utah State Aggies vs. COLORADO,2026-10-31T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 64.5,64.5,1.9091,4711349889,0,False
 17956183,Utah State Aggies vs. COLORADO,2026-10-31T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 63.5,63.5,1.8334,4711922797,0,True
+17956183,Utah State Aggies vs. COLORADO,2026-10-31T19:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 62.5,62.5,1.9091,4715993230,0,False
 17956183,Utah State Aggies vs. COLORADO,2026-10-31T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 63.5,63.5,1.8334,4711922798,0,True
+17956183,Utah State Aggies vs. COLORADO,2026-10-31T19:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 62.5,62.5,1.7693,4715993231,0,False

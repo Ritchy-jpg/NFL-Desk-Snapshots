@@ -1,7 +1,15 @@
 event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id,selection,line,price,odd_id,odd_status,is_main_bet
 17956166,Pittsburgh Panthers vs. Georgia Tech,2026-10-31T23:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Pittsburgh Panthers,,1.2858,4710840760,0,False
 17956166,Pittsburgh Panthers vs. Georgia Tech,2026-10-31T23:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Georgia Tech,,3.2,4710840759,0,False
+17956166,Pittsburgh Panthers vs. Georgia Tech,2026-10-31T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Georgia Tech (+8.5),-8.5,1.7693,4716082016,0,False
+17956166,Pittsburgh Panthers vs. Georgia Tech,2026-10-31T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Pittsburgh Panthers (-6.5),-6.5,1.6667,4716082027,0,False
+17956166,Pittsburgh Panthers vs. Georgia Tech,2026-10-31T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Georgia Tech (+6.5),-6.5,2.1,4716082028,0,False
 17956166,Pittsburgh Panthers vs. Georgia Tech,2026-10-31T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Pittsburgh Panthers (-7.5),-7.5,1.8334,4712141270,0,True
 17956166,Pittsburgh Panthers vs. Georgia Tech,2026-10-31T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Georgia Tech (+7.5),-7.5,1.8334,4712141271,0,True
-17956166,Pittsburgh Panthers vs. Georgia Tech,2026-10-31T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 53.5,53.5,1.8696,4712141286,0,True
-17956166,Pittsburgh Panthers vs. Georgia Tech,2026-10-31T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 53.5,53.5,1.8,4712141287,0,True
+17956166,Pittsburgh Panthers vs. Georgia Tech,2026-10-31T23:30:00Z,spread,Handicap (inclus prolongations),223,70799,Pittsburgh Panthers (-8.5),-8.5,1.9091,4716082015,0,False
+17956166,Pittsburgh Panthers vs. Georgia Tech,2026-10-31T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 54.5,54.5,1.8,4716081893,0,True
+17956166,Pittsburgh Panthers vs. Georgia Tech,2026-10-31T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 53.5,53.5,1.9091,4712141286,0,False
+17956166,Pittsburgh Panthers vs. Georgia Tech,2026-10-31T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 54.5,54.5,1.8696,4716081894,0,True
+17956166,Pittsburgh Panthers vs. Georgia Tech,2026-10-31T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 53.5,53.5,1.7693,4712141287,0,False
+17956166,Pittsburgh Panthers vs. Georgia Tech,2026-10-31T23:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 55.5,55.5,1.6897,4716081911,0,False
+17956166,Pittsburgh Panthers vs. Georgia Tech,2026-10-31T23:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 55.5,55.5,2.05,4716081912,0,False

@@ -1,21 +1,11 @@
 captured_at,event_id,match,start_date,market,selection,side,signal,old_line,new_line,old_price,new_price,old_status,new_status,old_is_main_bet,new_is_main_bet
-2026-10-27T20:30:19.615572+00:00,17915621,Missouri State Bears vs. Sam Houston State Bearkats,2026-10-28T00:00:00Z,spread,Missouri State Bears (-5.5),Missouri State Bears,MAIN_PRICE_MOVE,-5.5,-5.5,1.8334,1.8,0,0.0,1,1.0
-2026-10-27T20:30:19.615572+00:00,17915621,Missouri State Bears vs. Sam Houston State Bearkats,2026-10-28T00:00:00Z,spread,Sam Houston State Bearkats (+5.5),Sam Houston State Bearkats,MAIN_PRICE_MOVE,5.5,5.5,1.8334,1.8696,0,0.0,1,1.0
-2026-10-27T20:30:19.615572+00:00,17946215,UCF Knights vs. Baylor Bears,2026-10-30T23:30:00Z,spread,Baylor Bears (+1.5),Baylor Bears,MAIN_PRICE_MOVE,1.5,1.5,1.8334,1.8,0,0.0,1,1.0
-2026-10-27T20:30:19.615572+00:00,17946215,UCF Knights vs. Baylor Bears,2026-10-30T23:30:00Z,spread,UCF Knights (-1.5),UCF Knights,MAIN_PRICE_MOVE,-1.5,-1.5,1.8334,1.8696,0,0.0,1,1.0
-2026-10-27T20:30:19.615572+00:00,17946215,UCF Knights vs. Baylor Bears,2026-10-30T23:30:00Z,total,Plus de 48.5,over,MAIN_SWITCH,48.5,48.5,1.8696,1.8696,0,0.0,0,1.0
-2026-10-27T20:30:19.615572+00:00,17946215,UCF Knights vs. Baylor Bears,2026-10-30T23:30:00Z,total,Moins de 48.5,under,MAIN_SWITCH,48.5,48.5,1.8,1.8,0,0.0,0,1.0
-2026-10-27T20:30:19.615572+00:00,17946213,Sacramento State Hornets vs. Kent St Golden Flashes,2026-10-31T02:30:00Z,spread,Sacramento State Hornets (+10.5),Sacramento State Hornets,MAIN_PRICE_MOVE,10.5,10.5,1.8,1.7693,0,0.0,1,1.0
-2026-10-27T20:30:19.615572+00:00,17946213,Sacramento State Hornets vs. Kent St Golden Flashes,2026-10-31T02:30:00Z,spread,Kent St Golden Flashes (-10.5),Kent St Golden Flashes,MAIN_PRICE_MOVE,-10.5,-10.5,1.8696,1.9091,0,0.0,1,1.0
-2026-10-27T20:30:19.615572+00:00,17956168,Duke Blue Devils vs. Boston College Eagles,2026-10-31T16:00:00Z,spread,Boston College Eagles (+7.5),Boston College Eagles,MAIN_SWITCH,7.5,7.5,1.7408,1.7408,0,0.0,0,1.0
-2026-10-27T20:30:19.615572+00:00,17956168,Duke Blue Devils vs. Boston College Eagles,2026-10-31T16:00:00Z,spread,Duke Blue Devils (-7.5),Duke Blue Devils,MAIN_SWITCH,-7.5,-7.5,1.9524,1.9524,0,0.0,0,1.0
-2026-10-27T20:30:19.615572+00:00,17956164,Louisville Cardinals vs. Stanford Cardinal,2026-10-31T19:15:00Z,total,Moins de 61.5,under,MAIN_PRICE_MOVE,61.5,61.5,1.8334,1.7693,0,0.0,1,1.0
-2026-10-27T20:30:19.615572+00:00,17956164,Louisville Cardinals vs. Stanford Cardinal,2026-10-31T19:15:00Z,total,Plus de 61.5,over,MAIN_PRICE_MOVE,61.5,61.5,1.8334,1.9091,0,0.0,1,1.0
-2026-10-27T20:30:19.615572+00:00,17956185,San Diego State Aztecs vs. Wash State Cougars,2026-10-31T23:00:00Z,spread,Wash State Cougars (+2.5),Wash State Cougars,MAIN_PRICE_MOVE,2.5,2.5,1.8334,1.8696,0,0.0,1,1.0
-2026-10-27T20:30:19.615572+00:00,17956185,San Diego State Aztecs vs. Wash State Cougars,2026-10-31T23:00:00Z,spread,San Diego State Aztecs (-2.5),San Diego State Aztecs,MAIN_PRICE_MOVE,-2.5,-2.5,1.8334,1.8,0,0.0,1,1.0
-2026-10-27T20:30:19.615572+00:00,17218317,USC Trojans vs. Ohio State Buckeyes,2026-10-31T23:30:00Z,total,Plus de 51.5,over,MAIN_PRICE_MOVE,51.5,51.5,1.9091,1.8334,0,0.0,1,1.0
-2026-10-27T20:30:19.615572+00:00,17218317,USC Trojans vs. Ohio State Buckeyes,2026-10-31T23:30:00Z,total,Moins de 51.5,under,MAIN_PRICE_MOVE,51.5,51.5,1.7693,1.8334,0,0.0,1,1.0
-2026-10-27T20:30:19.615572+00:00,17956168,Duke Blue Devils vs. Boston College Eagles,2026-10-31T16:00:00Z,spread,Boston College Eagles (+6.5),Boston College Eagles,REMOVED_MAIN,6.5,,1.9524,,0,,1,
-2026-10-27T20:30:19.615572+00:00,17956168,Duke Blue Devils vs. Boston College Eagles,2026-10-31T16:00:00Z,spread,Duke Blue Devils (-6.5),Duke Blue Devils,REMOVED_MAIN,-6.5,,1.7408,,0,,1,
-2026-10-27T20:30:19.615572+00:00,18089682,DAKOTA DU NORD ETAT DU BISON vs. UTEP Miners,2026-10-31T19:30:00Z,spread,UTEP Miners (+25.5),UTEP Miners,REMOVED_MAIN,25.5,,1.8,,0,,1,
-2026-10-27T20:30:19.615572+00:00,18089682,DAKOTA DU NORD ETAT DU BISON vs. UTEP Miners,2026-10-31T19:30:00Z,spread,DAKOTA DU NORD ETAT DU BISON (-25.5),DAKOTA DU NORD ETAT DU BISON,REMOVED_MAIN,-25.5,,1.8696,,0,,1,
+2026-10-27T23:58:03.852668+00:00,17915621,Missouri State Bears vs. Sam Houston State Bearkats,2026-10-28T00:00:00Z,spread,Missouri State Bears (-5.5),Missouri State Bears,MAIN_PRICE_MOVE,-5.5,-5.5,1.8,1.8334,0,0.0,1,1.0
+2026-10-27T23:58:03.852668+00:00,17915621,Missouri State Bears vs. Sam Houston State Bearkats,2026-10-28T00:00:00Z,spread,Sam Houston State Bearkats (+5.5),Sam Houston State Bearkats,MAIN_PRICE_MOVE,5.5,5.5,1.8696,1.8334,0,0.0,1,1.0
+2026-10-27T23:58:03.852668+00:00,17956181,Rutgers Scarlet Knights vs. Michigan Wolverines,2026-10-31T16:30:00Z,spread,Rutgers Scarlet Knights (+14.5),Rutgers Scarlet Knights,MAIN_PRICE_MOVE,14.5,14.5,1.7693,1.8,0,0.0,1,1.0
+2026-10-27T23:58:03.852668+00:00,17956181,Rutgers Scarlet Knights vs. Michigan Wolverines,2026-10-31T16:30:00Z,spread,Michigan Wolverines (-14.5),Michigan Wolverines,MAIN_PRICE_MOVE,-14.5,-14.5,1.9091,1.8696,0,0.0,1,1.0
+2026-10-27T23:58:03.852668+00:00,18089642,South Alabama Jaguars vs. Louisiana Tech Bulldogs,2026-10-31T19:00:00Z,total,Plus de 58.5,over,MAIN_PRICE_MOVE,58.5,58.5,1.9091,1.8334,0,0.0,1,1.0
+2026-10-27T23:58:03.852668+00:00,18089642,South Alabama Jaguars vs. Louisiana Tech Bulldogs,2026-10-31T19:00:00Z,total,Moins de 58.5,under,MAIN_PRICE_MOVE,58.5,58.5,1.7693,1.8334,0,0.0,1,1.0
+2026-10-27T23:58:03.852668+00:00,17956182,Nebraska Cornhuskers vs. Washington Huskies,2026-11-01T00:00:00Z,total,Moins de 49.5,under,MAIN_PRICE_MOVE,49.5,49.5,1.8334,1.8696,0,0.0,1,1.0
+2026-10-27T23:58:03.852668+00:00,17956182,Nebraska Cornhuskers vs. Washington Huskies,2026-11-01T00:00:00Z,total,Plus de 49.5,over,MAIN_PRICE_MOVE,49.5,49.5,1.8334,1.8,0,0.0,1,1.0
+2026-10-27T23:58:03.852668+00:00,17915621,Missouri State Bears vs. Sam Houston State Bearkats,2026-10-28T00:00:00Z,spread,Sam Houston State Bearkats (+6.0),Sam Houston State Bearkats,REMOVED_MAIN,6.0,,1.8334,,0,,1,
+2026-10-27T23:58:03.852668+00:00,17915621,Missouri State Bears vs. Sam Houston State Bearkats,2026-10-28T00:00:00Z,spread,Missouri State Bears (-6.0),Missouri State Bears,REMOVED_MAIN,-6.0,,1.8334,,0,,1,

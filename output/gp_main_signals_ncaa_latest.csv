@@ -1,11 +1,31 @@
 captured_at,event_id,match,start_date,market,selection,side,signal,old_line,new_line,old_price,new_price,old_status,new_status,old_is_main_bet,new_is_main_bet
-2026-10-27T23:58:03.852668+00:00,17915621,Missouri State Bears vs. Sam Houston State Bearkats,2026-10-28T00:00:00Z,spread,Missouri State Bears (-5.5),Missouri State Bears,MAIN_PRICE_MOVE,-5.5,-5.5,1.8,1.8334,0,0.0,1,1.0
-2026-10-27T23:58:03.852668+00:00,17915621,Missouri State Bears vs. Sam Houston State Bearkats,2026-10-28T00:00:00Z,spread,Sam Houston State Bearkats (+5.5),Sam Houston State Bearkats,MAIN_PRICE_MOVE,5.5,5.5,1.8696,1.8334,0,0.0,1,1.0
-2026-10-27T23:58:03.852668+00:00,17956181,Rutgers Scarlet Knights vs. Michigan Wolverines,2026-10-31T16:30:00Z,spread,Rutgers Scarlet Knights (+14.5),Rutgers Scarlet Knights,MAIN_PRICE_MOVE,14.5,14.5,1.7693,1.8,0,0.0,1,1.0
-2026-10-27T23:58:03.852668+00:00,17956181,Rutgers Scarlet Knights vs. Michigan Wolverines,2026-10-31T16:30:00Z,spread,Michigan Wolverines (-14.5),Michigan Wolverines,MAIN_PRICE_MOVE,-14.5,-14.5,1.9091,1.8696,0,0.0,1,1.0
-2026-10-27T23:58:03.852668+00:00,18089642,South Alabama Jaguars vs. Louisiana Tech Bulldogs,2026-10-31T19:00:00Z,total,Plus de 58.5,over,MAIN_PRICE_MOVE,58.5,58.5,1.9091,1.8334,0,0.0,1,1.0
-2026-10-27T23:58:03.852668+00:00,18089642,South Alabama Jaguars vs. Louisiana Tech Bulldogs,2026-10-31T19:00:00Z,total,Moins de 58.5,under,MAIN_PRICE_MOVE,58.5,58.5,1.7693,1.8334,0,0.0,1,1.0
-2026-10-27T23:58:03.852668+00:00,17956182,Nebraska Cornhuskers vs. Washington Huskies,2026-11-01T00:00:00Z,total,Moins de 49.5,under,MAIN_PRICE_MOVE,49.5,49.5,1.8334,1.8696,0,0.0,1,1.0
-2026-10-27T23:58:03.852668+00:00,17956182,Nebraska Cornhuskers vs. Washington Huskies,2026-11-01T00:00:00Z,total,Plus de 49.5,over,MAIN_PRICE_MOVE,49.5,49.5,1.8334,1.8,0,0.0,1,1.0
-2026-10-27T23:58:03.852668+00:00,17915621,Missouri State Bears vs. Sam Houston State Bearkats,2026-10-28T00:00:00Z,spread,Sam Houston State Bearkats (+6.0),Sam Houston State Bearkats,REMOVED_MAIN,6.0,,1.8334,,0,,1,
-2026-10-27T23:58:03.852668+00:00,17915621,Missouri State Bears vs. Sam Houston State Bearkats,2026-10-28T00:00:00Z,spread,Missouri State Bears (-6.0),Missouri State Bears,REMOVED_MAIN,-6.0,,1.8334,,0,,1,
+2026-10-28T16:29:54.321421+00:00,17926205,New Mexico St Aggies vs. Jacksonville State Gamecocks,2026-10-29T00:00:00Z,spread,New Mexico St Aggies (+3.5),New Mexico St Aggies,MAIN_PRICE_MOVE,3.5,3.5,1.7693,1.7408,0,0.0,1,1.0
+2026-10-28T16:29:54.321421+00:00,17926205,New Mexico St Aggies vs. Jacksonville State Gamecocks,2026-10-29T00:00:00Z,spread,Jacksonville State Gamecocks (-3.5),Jacksonville State Gamecocks,MAIN_PRICE_MOVE,-3.5,-3.5,1.9091,1.9524,0,0.0,1,1.0
+2026-10-28T16:29:54.321421+00:00,17926205,New Mexico St Aggies vs. Jacksonville State Gamecocks,2026-10-29T00:00:00Z,spread,New Mexico St Aggies (+3.0),New Mexico St Aggies,MAIN_PRICE_MOVE,3.0,3.0,1.9091,1.8696,0,0.0,1,1.0
+2026-10-28T16:29:54.321421+00:00,17926205,New Mexico St Aggies vs. Jacksonville State Gamecocks,2026-10-29T00:00:00Z,spread,Jacksonville State Gamecocks (-3.0),Jacksonville State Gamecocks,MAIN_PRICE_MOVE,-3.0,-3.0,1.7693,1.8,0,0.0,1,1.0
+2026-10-28T16:29:54.321421+00:00,17935811,North Texas vs. Florida Atlantic Owls,2026-10-29T23:30:00Z,spread,Florida Atlantic Owls (+13.5),Florida Atlantic Owls,MAIN_PRICE_MOVE,13.5,13.5,1.8334,1.9091,0,0.0,1,1.0
+2026-10-28T16:29:54.321421+00:00,17935811,North Texas vs. Florida Atlantic Owls,2026-10-29T23:30:00Z,spread,North Texas (-13.5),North Texas,MAIN_PRICE_MOVE,-13.5,-13.5,1.8334,1.7693,0,0.0,1,1.0
+2026-10-28T16:29:54.321421+00:00,17935811,North Texas vs. Florida Atlantic Owls,2026-10-29T23:30:00Z,total,Plus de 77.5,over,MAIN_PRICE_MOVE,77.5,77.5,1.8696,1.8334,0,0.0,1,1.0
+2026-10-28T16:29:54.321421+00:00,17935811,North Texas vs. Florida Atlantic Owls,2026-10-29T23:30:00Z,total,Moins de 77.5,under,MAIN_PRICE_MOVE,77.5,77.5,1.8,1.8334,0,0.0,1,1.0
+2026-10-28T16:29:54.321421+00:00,17956158,North Carolina State Wolfpack vs. California Golden Bears,2026-10-31T16:00:00Z,spread,North Carolina State Wolfpack (-7.5),North Carolina State Wolfpack,MAIN_SWITCH,-7.5,-7.5,1.9524,1.9524,0,0.0,1,0.0
+2026-10-28T16:29:54.321421+00:00,17956158,North Carolina State Wolfpack vs. California Golden Bears,2026-10-31T16:00:00Z,spread,California Golden Bears (+7.5),California Golden Bears,MAIN_SWITCH,7.5,7.5,1.7408,1.7408,0,0.0,1,0.0
+2026-10-28T16:29:54.321421+00:00,17956168,Duke Blue Devils vs. Boston College Eagles,2026-10-31T16:00:00Z,spread,Boston College Eagles (+7.5),Boston College Eagles,MAIN_SWITCH,7.5,7.5,1.7408,1.7408,0,0.0,1,0.0
+2026-10-28T16:29:54.321421+00:00,17956168,Duke Blue Devils vs. Boston College Eagles,2026-10-31T16:00:00Z,spread,Duke Blue Devils (-7.5),Duke Blue Devils,MAIN_SWITCH,-7.5,-7.5,1.9524,1.9524,0,0.0,1,0.0
+2026-10-28T16:29:54.321421+00:00,17956168,Duke Blue Devils vs. Boston College Eagles,2026-10-31T16:00:00Z,total,Moins de 47.5,under,MAIN_PRICE_MOVE,47.5,47.5,1.8696,1.8334,0,0.0,1,1.0
+2026-10-28T16:29:54.321421+00:00,17956168,Duke Blue Devils vs. Boston College Eagles,2026-10-31T16:00:00Z,total,Plus de 47.5,over,MAIN_PRICE_MOVE,47.5,47.5,1.8,1.8334,0,0.0,1,1.0
+2026-10-28T16:29:54.321421+00:00,18089643,Georgia State Panthers vs. Coastal Carolina,2026-10-31T18:00:00Z,total,Plus de 57.5,over,MAIN_PRICE_MOVE,57.5,57.5,1.7693,1.8,0,0.0,1,1.0
+2026-10-28T16:29:54.321421+00:00,18089643,Georgia State Panthers vs. Coastal Carolina,2026-10-31T18:00:00Z,total,Moins de 57.5,under,MAIN_PRICE_MOVE,57.5,57.5,1.9091,1.8696,0,0.0,1,1.0
+2026-10-28T16:29:54.321421+00:00,18089645,CAROLINE DE L´EST vs. Temple Owls,2026-10-31T19:00:00Z,total,Plus de 49.5,over,MAIN_PRICE_MOVE,49.5,49.5,1.8,1.8334,0,0.0,1,1.0
+2026-10-28T16:29:54.321421+00:00,18089645,CAROLINE DE L´EST vs. Temple Owls,2026-10-31T19:00:00Z,total,Moins de 49.5,under,MAIN_PRICE_MOVE,49.5,49.5,1.8696,1.8334,0,0.0,1,1.0
+2026-10-28T16:29:54.321421+00:00,17956186,Oregon Ducks vs. Northwestern Wildcats,2026-10-31T19:30:00Z,total,Plus de 47.5,over,MAIN_PRICE_MOVE,47.5,47.5,1.8334,1.8696,0,0.0,1,1.0
+2026-10-28T16:29:54.321421+00:00,17956186,Oregon Ducks vs. Northwestern Wildcats,2026-10-31T19:30:00Z,total,Moins de 47.5,under,MAIN_PRICE_MOVE,47.5,47.5,1.8334,1.8,0,0.0,1,1.0
+2026-10-28T16:29:54.321421+00:00,17956172,Oklahoma Sooners vs. South Carolina Gamecocks,2026-10-31T20:15:00Z,spread,South Carolina Gamecocks (+4.5),South Carolina Gamecocks,MAIN_SWITCH,4.5,4.5,1.8696,1.8696,0,0.0,0,1.0
+2026-10-28T16:29:54.321421+00:00,17956172,Oklahoma Sooners vs. South Carolina Gamecocks,2026-10-31T20:15:00Z,spread,Oklahoma Sooners (-4.5),Oklahoma Sooners,MAIN_SWITCH,-4.5,-4.5,1.8,1.8,0,0.0,0,1.0
+2026-10-28T16:29:54.321421+00:00,17956172,Oklahoma Sooners vs. South Carolina Gamecocks,2026-10-31T20:15:00Z,total,Moins de 44.5,under,MAIN_PRICE_MOVE,44.5,44.5,1.8334,1.8,0,0.0,1,1.0
+2026-10-28T16:29:54.321421+00:00,17956172,Oklahoma Sooners vs. South Carolina Gamecocks,2026-10-31T20:15:00Z,total,Plus de 44.5,over,MAIN_PRICE_MOVE,44.5,44.5,1.8334,1.8696,0,0.0,1,1.0
+2026-10-28T16:29:54.321421+00:00,17956165,North Carolina Tar Heels vs. Miami Hurricanes,2026-10-31T23:30:00Z,spread,North Carolina Tar Heels (+14.5),North Carolina Tar Heels,MAIN_PRICE_MOVE,14.5,14.5,1.8334,1.7693,0,0.0,1,1.0
+2026-10-28T16:29:54.321421+00:00,17956165,North Carolina Tar Heels vs. Miami Hurricanes,2026-10-31T23:30:00Z,spread,Miami Hurricanes (-14.5),Miami Hurricanes,MAIN_PRICE_MOVE,-14.5,-14.5,1.8334,1.9091,0,0.0,1,1.0
+2026-10-28T16:29:54.321421+00:00,17956182,Nebraska Cornhuskers vs. Washington Huskies,2026-11-01T00:00:00Z,total,Moins de 49.5,under,MAIN_PRICE_MOVE,49.5,49.5,1.8696,1.8334,0,0.0,1,1.0
+2026-10-28T16:29:54.321421+00:00,17956182,Nebraska Cornhuskers vs. Washington Huskies,2026-11-01T00:00:00Z,total,Plus de 49.5,over,MAIN_PRICE_MOVE,49.5,49.5,1.8,1.8334,0,0.0,1,1.0
+2026-10-28T16:29:54.321421+00:00,18089645,CAROLINE DE L´EST vs. Temple Owls,2026-10-31T19:00:00Z,spread,CAROLINE DE L´EST (-6.5),CAROLINE DE L´EST,REMOVED_MAIN,-6.5,,1.8696,,0,,1,
+2026-10-28T16:29:54.321421+00:00,18089645,CAROLINE DE L´EST vs. Temple Owls,2026-10-31T19:00:00Z,spread,Temple Owls (+6.5),Temple Owls,REMOVED_MAIN,6.5,,1.8,,0,,1,

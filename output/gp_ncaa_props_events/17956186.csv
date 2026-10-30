@@ -1,35 +1,276 @@
 event_id,match,player,market,market_type_id,sport_market_id,child_market_id,odd_id,selection,line,price,odd_status,is_main_bet
-17956186,Oregon Ducks vs. Northwestern Wildcats,Dylan Raiola,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1805495843,4725156800,Dylan Raiola (ORE) moins de 224.5,Dylan Raiola (ORE) moins de 224.5,1.7693,0,True
-17956186,Oregon Ducks vs. Northwestern Wildcats,Dylan Raiola,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1805495843,4725156799,Dylan Raiola (ORE) Plus de 224.5,Dylan Raiola (ORE) Plus de 224.5,1.8334,0,True
-17956186,Oregon Ducks vs. Northwestern Wildcats,Aidan Chiles,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1805496916,4725160835,Aidan Chiles (NW) Plus de 205.5,Aidan Chiles (NW) Plus de 205.5,1.7693,0,True
-17956186,Oregon Ducks vs. Northwestern Wildcats,Aidan Chiles,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1805496916,4725160836,Aidan Chiles (NW) moins de 205.5,Aidan Chiles (NW) moins de 205.5,1.8334,0,True
-17956186,Oregon Ducks vs. Northwestern Wildcats,Dylan Raiola,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1799496946,4707459265,Dylan Raiola (ORE) Plus de 1.5,Dylan Raiola (ORE) Plus de 1.5,1.8696,0,False
-17956186,Oregon Ducks vs. Northwestern Wildcats,Dylan Raiola,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1799496946,4707459266,Dylan Raiola (ORE) moins de 1.5,Dylan Raiola (ORE) moins de 1.5,1.7408,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Dylan Raiola,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1805487631,4725128128,Dylan Raiola (ORE) Plus de 221.5,Dylan Raiola (ORE) Plus de 221.5,1.8334,0,True
+17956186,Oregon Ducks vs. Northwestern Wildcats,Dylan Raiola,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1805487631,4725128129,Dylan Raiola (ORE) moins de 221.5,Dylan Raiola (ORE) moins de 221.5,1.7693,0,True
+17956186,Oregon Ducks vs. Northwestern Wildcats,Aidan Chiles,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1802156529,4715126380,Aidan Chiles (NW) Plus de 204.5,Aidan Chiles (NW) Plus de 204.5,1.7693,0,True
+17956186,Oregon Ducks vs. Northwestern Wildcats,Aidan Chiles,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1802156529,4715126381,Aidan Chiles (NW) moins de 204.5,Aidan Chiles (NW) moins de 204.5,1.8334,0,True
+17956186,Oregon Ducks vs. Northwestern Wildcats,Drew Wagner,Verges de réception du joueur au moins (Drew Wagner (NW)),2143,72898,1806073580,4735994699,28+,28+,1.8696,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Drew Wagner,Verges de réception du joueur au moins (Drew Wagner (NW)),2143,72898,1806073580,4735994700,38+,38+,2.2,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Drew Wagner,Verges de réception du joueur au moins (Drew Wagner (NW)),2143,72898,1806073580,4735994701,48+,48+,2.65,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Drew Wagner,Verges de réception du joueur au moins (Drew Wagner (NW)),2143,72898,1806073580,4735994702,58+,58+,3.3,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Drew Wagner,Verges de réception du joueur au moins (Drew Wagner (NW)),2143,72898,1806073580,4735994703,68+,68+,4.25,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Drew Wagner,Verges de réception du joueur au moins (Drew Wagner (NW)),2143,72898,1806073580,4735994704,78+,78+,5.5,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Drew Wagner,Verges de réception du joueur au moins (Drew Wagner (NW)),2143,72898,1806073580,4735994705,88+,88+,7.25,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Drew Wagner,Verges de réception du joueur au moins (Drew Wagner (NW)),2143,72898,1806073580,4735994706,98+,98+,10.0,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Drew Wagner,Verges de réception du joueur au moins (Drew Wagner (NW)),2143,72898,1806073580,4735994707,108+,108+,14.0,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Drew Wagner,Verges de réception du joueur au moins (Drew Wagner (NW)),2143,72898,1806073580,4735994708,18+,18+,1.4348,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Messiah Hampton,Verges de réception du joueur au moins (Messiah Hampton (ORE)),2143,72898,1807806279,4739493915,54+,54+,3.85,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Messiah Hampton,Verges de réception du joueur au moins (Messiah Hampton (ORE)),2143,72898,1807806279,4739495321,94+,94+,17.0,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Messiah Hampton,Verges de réception du joueur au moins (Messiah Hampton (ORE)),2143,72898,1807806279,4739495322,104+,104+,26.0,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Messiah Hampton,Verges de réception du joueur au moins (Messiah Hampton (ORE)),2143,72898,1807806279,4739493912,24+,24+,1.9091,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Messiah Hampton,Verges de réception du joueur au moins (Messiah Hampton (ORE)),2143,72898,1807806279,4739493913,34+,34+,2.35,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Messiah Hampton,Verges de réception du joueur au moins (Messiah Hampton (ORE)),2143,72898,1807806279,4739493914,44+,44+,2.95,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Messiah Hampton,Verges de réception du joueur au moins (Messiah Hampton (ORE)),2143,72898,1807806279,4739495323,14+,14+,1.4348,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Messiah Hampton,Verges de réception du joueur au moins (Messiah Hampton (ORE)),2143,72898,1807806279,4739493916,64+,64+,5.25,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Messiah Hampton,Verges de réception du joueur au moins (Messiah Hampton (ORE)),2143,72898,1807806279,4739493917,74+,74+,7.5,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Messiah Hampton,Verges de réception du joueur au moins (Messiah Hampton (ORE)),2143,72898,1807806279,4739493918,84+,84+,11.0,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Dakorien Moore,Verges de réception du joueur au moins (Dakorien Moore (ORE)),2143,72898,1806073578,4734458802,51+,51+,1.8334,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Dakorien Moore,Verges de réception du joueur au moins (Dakorien Moore (ORE)),2143,72898,1806073578,4734458803,61+,61+,2.15,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Dakorien Moore,Verges de réception du joueur au moins (Dakorien Moore (ORE)),2143,72898,1806073578,4734458804,71+,71+,2.55,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Dakorien Moore,Verges de réception du joueur au moins (Dakorien Moore (ORE)),2143,72898,1806073578,4734458805,81+,81+,3.1,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Dakorien Moore,Verges de réception du joueur au moins (Dakorien Moore (ORE)),2143,72898,1806073578,4734458806,91+,91+,3.85,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Dakorien Moore,Verges de réception du joueur au moins (Dakorien Moore (ORE)),2143,72898,1806073578,4734458807,101+,101+,4.75,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Dakorien Moore,Verges de réception du joueur au moins (Dakorien Moore (ORE)),2143,72898,1806073578,4734458808,111+,111+,6.0,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Dakorien Moore,Verges de réception du joueur au moins (Dakorien Moore (ORE)),2143,72898,1806073578,4734458809,121+,121+,8.0,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Dakorien Moore,Verges de réception du joueur au moins (Dakorien Moore (ORE)),2143,72898,1806073578,4734458810,131+,131+,11.0,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Dakorien Moore,Verges de réception du joueur au moins (Dakorien Moore (ORE)),2143,72898,1806073578,4734458811,41+,41+,1.4762,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Evan Stewart,Verges de réception du joueur au moins (Evan Stewart (ORE)),2143,72898,1807806278,4734732486,62+,62+,2.2,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Evan Stewart,Verges de réception du joueur au moins (Evan Stewart (ORE)),2143,72898,1807806278,4734732487,72+,72+,2.6,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Evan Stewart,Verges de réception du joueur au moins (Evan Stewart (ORE)),2143,72898,1807806278,4734732488,82+,82+,3.1,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Evan Stewart,Verges de réception du joueur au moins (Evan Stewart (ORE)),2143,72898,1807806278,4734732489,92+,92+,3.85,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Evan Stewart,Verges de réception du joueur au moins (Evan Stewart (ORE)),2143,72898,1807806278,4734732491,112+,112+,6.25,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Evan Stewart,Verges de réception du joueur au moins (Evan Stewart (ORE)),2143,72898,1807806278,4734732492,122+,122+,8.5,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Evan Stewart,Verges de réception du joueur au moins (Evan Stewart (ORE)),2143,72898,1807806278,4734732493,132+,132+,11.0,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Evan Stewart,Verges de réception du joueur au moins (Evan Stewart (ORE)),2143,72898,1807806278,4734732494,42+,42+,1.5264,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Evan Stewart,Verges de réception du joueur au moins (Evan Stewart (ORE)),2143,72898,1807806278,4734732479,52+,52+,1.8696,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Jamari Johnson Johnson,Verges de réception du joueur au moins (Jamari Johnson Johnson (ORE)),2143,72898,1806073827,4727327168,101+,101+,6.5,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Jamari Johnson Johnson,Verges de réception du joueur au moins (Jamari Johnson Johnson (ORE)),2143,72898,1806073827,4727327169,111+,111+,8.5,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Jamari Johnson Johnson,Verges de réception du joueur au moins (Jamari Johnson Johnson (ORE)),2143,72898,1806073827,4727327170,121+,121+,12.0,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Jamari Johnson Johnson,Verges de réception du joueur au moins (Jamari Johnson Johnson (ORE)),2143,72898,1806073827,4727327171,31+,31+,1.5264,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Jamari Johnson Johnson,Verges de réception du joueur au moins (Jamari Johnson Johnson (ORE)),2143,72898,1806073827,4727327226,41+,41+,1.9091,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Jamari Johnson Johnson,Verges de réception du joueur au moins (Jamari Johnson Johnson (ORE)),2143,72898,1806073827,4727327227,51+,51+,2.2,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Jamari Johnson Johnson,Verges de réception du joueur au moins (Jamari Johnson Johnson (ORE)),2143,72898,1806073827,4727327164,61+,61+,2.65,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Jamari Johnson Johnson,Verges de réception du joueur au moins (Jamari Johnson Johnson (ORE)),2143,72898,1806073827,4727327165,71+,71+,3.2,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Jamari Johnson Johnson,Verges de réception du joueur au moins (Jamari Johnson Johnson (ORE)),2143,72898,1806073827,4727327166,81+,81+,4.0,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Jamari Johnson Johnson,Verges de réception du joueur au moins (Jamari Johnson Johnson (ORE)),2143,72898,1806073827,4727327167,91+,91+,5.0,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Griffin Wilde,Verges de réception du joueur au moins (Griffin Wilde (NW)),2143,72898,1806073579,4730613223,84+,84+,1.8696,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Griffin Wilde,Verges de réception du joueur au moins (Griffin Wilde (NW)),2143,72898,1806073579,4730613224,94+,94+,2.15,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Griffin Wilde,Verges de réception du joueur au moins (Griffin Wilde (NW)),2143,72898,1806073579,4730613225,104+,104+,2.5,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Griffin Wilde,Verges de réception du joueur au moins (Griffin Wilde (NW)),2143,72898,1806073579,4730613226,114+,114+,3.0,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Griffin Wilde,Verges de réception du joueur au moins (Griffin Wilde (NW)),2143,72898,1806073579,4730613227,124+,124+,3.6,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Griffin Wilde,Verges de réception du joueur au moins (Griffin Wilde (NW)),2143,72898,1806073579,4730613228,134+,134+,4.5,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Griffin Wilde,Verges de réception du joueur au moins (Griffin Wilde (NW)),2143,72898,1806073579,4730613229,144+,144+,5.5,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Griffin Wilde,Verges de réception du joueur au moins (Griffin Wilde (NW)),2143,72898,1806073579,4730613230,154+,154+,7.25,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Griffin Wilde,Verges de réception du joueur au moins (Griffin Wilde (NW)),2143,72898,1806073579,4730613231,164+,164+,9.0,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Griffin Wilde,Verges de réception du joueur au moins (Griffin Wilde (NW)),2143,72898,1806073579,4730613232,74+,74+,1.5556,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Hayden Eligon,Verges de réception du joueur au moins (Hayden Eligon (NW)),2143,72898,1806073829,4731788067,17+,17+,1.8696,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Hayden Eligon,Verges de réception du joueur au moins (Hayden Eligon (NW)),2143,72898,1806073829,4731788068,27+,27+,2.2,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Hayden Eligon,Verges de réception du joueur au moins (Hayden Eligon (NW)),2143,72898,1806073829,4731788069,37+,37+,2.6,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Hayden Eligon,Verges de réception du joueur au moins (Hayden Eligon (NW)),2143,72898,1806073829,4731788070,47+,47+,3.2,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Hayden Eligon,Verges de réception du joueur au moins (Hayden Eligon (NW)),2143,72898,1806073829,4731788071,57+,57+,4.0,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Hayden Eligon,Verges de réception du joueur au moins (Hayden Eligon (NW)),2143,72898,1806073829,4731788072,67+,67+,5.25,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Hayden Eligon,Verges de réception du joueur au moins (Hayden Eligon (NW)),2143,72898,1806073829,4731788073,77+,77+,6.75,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Hayden Eligon,Verges de réception du joueur au moins (Hayden Eligon (NW)),2143,72898,1806073829,4731788074,87+,87+,9.0,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Hayden Eligon,Verges de réception du joueur au moins (Hayden Eligon (NW)),2143,72898,1806073829,4731788075,97+,97+,13.0,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Dierre Hill,Verges de réception du joueur au moins (Dierre Hill (ORE)),2143,72898,1806073510,4727327501,14+,14+,1.9091,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Dierre Hill,Verges de réception du joueur au moins (Dierre Hill (ORE)),2143,72898,1806073510,4727327502,24+,24+,2.25,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Dierre Hill,Verges de réception du joueur au moins (Dierre Hill (ORE)),2143,72898,1806073510,4727327503,34+,34+,2.8,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Dierre Hill,Verges de réception du joueur au moins (Dierre Hill (ORE)),2143,72898,1806073510,4727327504,44+,44+,3.5,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Dierre Hill,Verges de réception du joueur au moins (Dierre Hill (ORE)),2143,72898,1806073510,4727327505,54+,54+,4.5,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Dierre Hill,Verges de réception du joueur au moins (Dierre Hill (ORE)),2143,72898,1806073510,4727327506,64+,64+,6.0,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Dierre Hill,Verges de réception du joueur au moins (Dierre Hill (ORE)),2143,72898,1806073510,4727327507,74+,74+,8.5,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Dierre Hill,Verges de réception du joueur au moins (Dierre Hill (ORE)),2143,72898,1806073510,4727327508,84+,84+,12.0,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Dierre Hill,Verges de réception du joueur au moins (Dierre Hill (ORE)),2143,72898,1806073510,4727327510,94+,94+,17.0,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Caleb Komolafe,Verges de réception du joueur au moins (Caleb Komolafe (NW)),2143,72898,1806073823,4734457328,19+,19+,2.35,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Caleb Komolafe,Verges de réception du joueur au moins (Caleb Komolafe (NW)),2143,72898,1806073823,4734457329,29+,29+,3.1,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Caleb Komolafe,Verges de réception du joueur au moins (Caleb Komolafe (NW)),2143,72898,1806073823,4734457330,39+,39+,4.25,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Caleb Komolafe,Verges de réception du joueur au moins (Caleb Komolafe (NW)),2143,72898,1806073823,4734457331,49+,49+,6.0,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Caleb Komolafe,Verges de réception du joueur au moins (Caleb Komolafe (NW)),2143,72898,1806073823,4734457332,59+,59+,9.0,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Caleb Komolafe,Verges de réception du joueur au moins (Caleb Komolafe (NW)),2143,72898,1806073823,4734457333,69+,69+,15.0,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Caleb Komolafe,Verges de réception du joueur au moins (Caleb Komolafe (NW)),2143,72898,1806073823,4734457334,79+,79+,26.0,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Caleb Komolafe,Verges de réception du joueur au moins (Caleb Komolafe (NW)),2143,72898,1806073823,4734457335,89+,89+,41.0,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Dylan Raiola,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1799496946,4707459265,Dylan Raiola (ORE) Plus de 1.5,Dylan Raiola (ORE) Plus de 1.5,1.9091,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Dylan Raiola,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1799496946,4707459266,Dylan Raiola (ORE) moins de 1.5,Dylan Raiola (ORE) moins de 1.5,1.7143,0,False
 17956186,Oregon Ducks vs. Northwestern Wildcats,Aidan Chiles,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1799155217,4706612224,Aidan Chiles (NW) moins de 1.5,Aidan Chiles (NW) moins de 1.5,1.3637,0,False
 17956186,Oregon Ducks vs. Northwestern Wildcats,Aidan Chiles,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1799155217,4706612223,Aidan Chiles (NW) Plus de 1.5,Aidan Chiles (NW) Plus de 1.5,2.65,0,False
-17956186,Oregon Ducks vs. Northwestern Wildcats,Griffin Wilde,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1803804197,4719941128,Griffin Wilde (NW) moins de 83.5,Griffin Wilde (NW) moins de 83.5,1.7693,0,False
-17956186,Oregon Ducks vs. Northwestern Wildcats,Griffin Wilde,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1803804197,4719941127,Griffin Wilde (NW) Plus de 83.5,Griffin Wilde (NW) Plus de 83.5,1.8334,0,False
-17956186,Oregon Ducks vs. Northwestern Wildcats,Evan Stewart,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1808477647,4735057112,Evan Stewart (ORE) Plus de 52.5,Evan Stewart (ORE) Plus de 52.5,1.7693,0,False
-17956186,Oregon Ducks vs. Northwestern Wildcats,Evan Stewart,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1808477647,4735057113,Evan Stewart (ORE) moins de 52.5,Evan Stewart (ORE) moins de 52.5,1.8334,0,False
-17956186,Oregon Ducks vs. Northwestern Wildcats,Dakorien Moore,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1805488608,4725131220,Dakorien Moore (ORE) Plus de 51.5,Dakorien Moore (ORE) Plus de 51.5,1.7693,0,False
-17956186,Oregon Ducks vs. Northwestern Wildcats,Dakorien Moore,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1805488608,4725131221,Dakorien Moore (ORE) moins de 51.5,Dakorien Moore (ORE) moins de 51.5,1.8334,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Griffin Wilde,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1805518519,4725239654,Griffin Wilde (NW) Plus de 82.5,Griffin Wilde (NW) Plus de 82.5,1.8334,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Griffin Wilde,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1805518519,4725239655,Griffin Wilde (NW) moins de 82.5,Griffin Wilde (NW) moins de 82.5,1.7693,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Evan Stewart,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1808328264,4734452413,Evan Stewart (ORE) Plus de 51.5,Evan Stewart (ORE) Plus de 51.5,1.7693,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Evan Stewart,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1808328264,4734452414,Evan Stewart (ORE) moins de 51.5,Evan Stewart (ORE) moins de 51.5,1.8334,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Dakorien Moore,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1808328268,4734452421,Dakorien Moore (ORE) Plus de 50.5,Dakorien Moore (ORE) Plus de 50.5,1.7693,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Dakorien Moore,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1808328268,4734452422,Dakorien Moore (ORE) moins de 50.5,Dakorien Moore (ORE) moins de 50.5,1.8334,0,False
 17956186,Oregon Ducks vs. Northwestern Wildcats,Jamari Johnson,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1805520367,4725246672,Jamari Johnson (ORE) Plus de 39.5,Jamari Johnson (ORE) Plus de 39.5,1.8334,0,False
 17956186,Oregon Ducks vs. Northwestern Wildcats,Jamari Johnson,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1805520367,4725246673,Jamari Johnson (ORE) moins de 39.5,Jamari Johnson (ORE) moins de 39.5,1.7693,0,False
-17956186,Oregon Ducks vs. Northwestern Wildcats,Drew Wagner,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1803804202,4719941137,Drew Wagner (NW) Plus de 28.5,Drew Wagner (NW) Plus de 28.5,1.8334,0,False
-17956186,Oregon Ducks vs. Northwestern Wildcats,Drew Wagner,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1803804202,4719941138,Drew Wagner (NW) moins de 28.5,Drew Wagner (NW) moins de 28.5,1.7693,0,False
-17956186,Oregon Ducks vs. Northwestern Wildcats,Messiah Hampton,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1799215840,4706758784,Messiah Hampton (ORE) Plus de 23.5,Messiah Hampton (ORE) Plus de 23.5,1.7693,0,False
-17956186,Oregon Ducks vs. Northwestern Wildcats,Messiah Hampton,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1799215840,4706758785,Messiah Hampton (ORE) moins de 23.5,Messiah Hampton (ORE) moins de 23.5,1.8334,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Drew Wagner,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1802173148,4715183620,Drew Wagner (NW) Plus de 29.5,Drew Wagner (NW) Plus de 29.5,1.8334,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Drew Wagner,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1802173148,4715183621,Drew Wagner (NW) moins de 29.5,Drew Wagner (NW) moins de 29.5,1.7693,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Messiah Hampton,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1799215840,4706758784,Messiah Hampton (ORE) Plus de 23.5,Messiah Hampton (ORE) Plus de 23.5,1.8334,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Messiah Hampton,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1799215840,4706758785,Messiah Hampton (ORE) moins de 23.5,Messiah Hampton (ORE) moins de 23.5,1.7693,0,False
 17956186,Oregon Ducks vs. Northwestern Wildcats,Hayden Eligon II,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1806081135,4727292011,Hayden Eligon II (NW) Plus de 18.5,Hayden Eligon II (NW) Plus de 18.5,1.8334,0,False
 17956186,Oregon Ducks vs. Northwestern Wildcats,Hayden Eligon II,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1806081135,4727292012,Hayden Eligon II (NW) moins de 18.5,Hayden Eligon II (NW) moins de 18.5,1.7693,0,False
 17956186,Oregon Ducks vs. Northwestern Wildcats,Dierre Hill Jr.,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1805500483,4725172352,Dierre Hill Jr. (ORE) Plus de 13.5,Dierre Hill Jr. (ORE) Plus de 13.5,1.7693,0,False
 17956186,Oregon Ducks vs. Northwestern Wildcats,Dierre Hill Jr.,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1805500483,4725172353,Dierre Hill Jr. (ORE) moins de 13.5,Dierre Hill Jr. (ORE) moins de 13.5,1.8334,0,False
 17956186,Oregon Ducks vs. Northwestern Wildcats,Caleb Komolafe,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1799215790,4706758684,Caleb Komolafe (NW) Plus de 8.5,Caleb Komolafe (NW) Plus de 8.5,1.7693,0,False
 17956186,Oregon Ducks vs. Northwestern Wildcats,Caleb Komolafe,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1799215790,4706758685,Caleb Komolafe (NW) moins de 8.5,Caleb Komolafe (NW) moins de 8.5,1.8334,0,False
-17956186,Oregon Ducks vs. Northwestern Wildcats,Dierre Hill Jr.,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1799155426,4706612641,Dierre Hill Jr. (ORE) Plus de 58.5,Dierre Hill Jr. (ORE) Plus de 58.5,1.8334,0,False
-17956186,Oregon Ducks vs. Northwestern Wildcats,Dierre Hill Jr.,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1799155426,4706612642,Dierre Hill Jr. (ORE) moins de 58.5,Dierre Hill Jr. (ORE) moins de 58.5,1.7693,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Dierre Hill Jr.,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1808327560,4734450686,Dierre Hill Jr. (ORE) Plus de 57.5,Dierre Hill Jr. (ORE) Plus de 57.5,1.7693,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Dierre Hill Jr.,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1808327560,4734450687,Dierre Hill Jr. (ORE) moins de 57.5,Dierre Hill Jr. (ORE) moins de 57.5,1.8334,0,False
 17956186,Oregon Ducks vs. Northwestern Wildcats,Caleb Komolafe,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1807893953,4733082601,Caleb Komolafe (NW) Plus de 56.5,Caleb Komolafe (NW) Plus de 56.5,1.7693,0,False
 17956186,Oregon Ducks vs. Northwestern Wildcats,Caleb Komolafe,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1807893953,4733082602,Caleb Komolafe (NW) moins de 56.5,Caleb Komolafe (NW) moins de 56.5,1.8334,0,False
-17956186,Oregon Ducks vs. Northwestern Wildcats,Jordon Davison,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1808327558,4734450682,Jordon Davison (ORE) Plus de 52.5,Jordon Davison (ORE) Plus de 52.5,1.7693,0,False
-17956186,Oregon Ducks vs. Northwestern Wildcats,Jordon Davison,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1808327558,4734450683,Jordon Davison (ORE) moins de 52.5,Jordon Davison (ORE) moins de 52.5,1.8334,0,False
-17956186,Oregon Ducks vs. Northwestern Wildcats,Aidan Chiles,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1802156533,4715126388,Aidan Chiles (NW) Plus de 17.5,Aidan Chiles (NW) Plus de 17.5,1.8334,0,False
-17956186,Oregon Ducks vs. Northwestern Wildcats,Aidan Chiles,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1802156533,4715126389,Aidan Chiles (NW) moins de 17.5,Aidan Chiles (NW) moins de 17.5,1.7693,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Jordon Davison,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1802162188,4715156645,Jordon Davison (ORE) Plus de 53.5,Jordon Davison (ORE) Plus de 53.5,1.8334,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Jordon Davison,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1802162188,4715156646,Jordon Davison (ORE) moins de 53.5,Jordon Davison (ORE) moins de 53.5,1.7693,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Aidan Chiles,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1802156533,4715126388,Aidan Chiles (NW) Plus de 17.5,Aidan Chiles (NW) Plus de 17.5,1.7693,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Aidan Chiles,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1802156533,4715126389,Aidan Chiles (NW) moins de 17.5,Aidan Chiles (NW) moins de 17.5,1.8334,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Griffin Wilde,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1802173210,4715183762,Griffin Wilde (NW) Plus de 6.5,Griffin Wilde (NW) Plus de 6.5,1.9091,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Griffin Wilde,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1802173210,4715183763,Griffin Wilde (NW) moins de 6.5,Griffin Wilde (NW) moins de 6.5,1.7408,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Dakorien Moore,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1799496980,4707459333,Dakorien Moore (ORE) Plus de 4.5,Dakorien Moore (ORE) Plus de 4.5,1.8334,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Dakorien Moore,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1799496980,4707459334,Dakorien Moore (ORE) moins de 4.5,Dakorien Moore (ORE) moins de 4.5,1.8,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Evan Stewart,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1808328155,4734452121,Evan Stewart (ORE) Plus de 4.5,Evan Stewart (ORE) Plus de 4.5,1.8696,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Evan Stewart,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1808328155,4734452122,Evan Stewart (ORE) moins de 4.5,Evan Stewart (ORE) moins de 4.5,1.7693,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Jamari Johnson,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1799496932,4707459237,Jamari Johnson (ORE) Plus de 3.5,Jamari Johnson (ORE) Plus de 3.5,1.8334,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Jamari Johnson,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1799496932,4707459238,Jamari Johnson (ORE) moins de 3.5,Jamari Johnson (ORE) moins de 3.5,1.8,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Drew Wagner,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1802173920,4715187844,Drew Wagner (NW) Plus de 2.5,Drew Wagner (NW) Plus de 2.5,1.6061,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Drew Wagner,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1802173920,4715187845,Drew Wagner (NW) moins de 2.5,Drew Wagner (NW) moins de 2.5,2.1,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Messiah Hampton,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1799155506,4706612801,Messiah Hampton (ORE) Plus de 2.5,Messiah Hampton (ORE) Plus de 2.5,2.1,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Messiah Hampton,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1799155506,4706612802,Messiah Hampton (ORE) moins de 2.5,Messiah Hampton (ORE) moins de 2.5,1.6061,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Dierre Hill Jr.,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1799434031,4707310962,Dierre Hill Jr. (ORE) Plus de 2.5,Dierre Hill Jr. (ORE) Plus de 2.5,2.15,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Dierre Hill Jr.,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1799434031,4707310963,Dierre Hill Jr. (ORE) moins de 2.5,Dierre Hill Jr. (ORE) moins de 2.5,1.5715,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Hayden Eligon II,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1799155320,4706612429,Hayden Eligon II (NW) Plus de 1.5,Hayden Eligon II (NW) Plus de 1.5,1.8334,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Hayden Eligon II,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1799155320,4706612430,Hayden Eligon II (NW) moins de 1.5,Hayden Eligon II (NW) moins de 1.5,1.8,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Caleb Komolafe,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1799155294,4706612377,Caleb Komolafe (NW) Plus de 1.5,Caleb Komolafe (NW) Plus de 1.5,1.8696,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Caleb Komolafe,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1799155294,4706612378,Caleb Komolafe (NW) moins de 1.5,Caleb Komolafe (NW) moins de 1.5,1.7693,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Dylan Raiola,"Passes complétées, Joueur (prolongations incluses)",760,71921,1805483737,4725117865,Dylan Raiola (ORE) Plus de 19.5,Dylan Raiola (ORE) Plus de 19.5,1.8696,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Dylan Raiola,"Passes complétées, Joueur (prolongations incluses)",760,71921,1805483737,4725117866,Dylan Raiola (ORE) moins de 19.5,Dylan Raiola (ORE) moins de 19.5,1.7693,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Aidan Chiles,"Passes complétées, Joueur (prolongations incluses)",760,71921,1799155220,4706612229,Aidan Chiles (NW) Plus de 16.5,Aidan Chiles (NW) Plus de 16.5,1.7693,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Aidan Chiles,"Passes complétées, Joueur (prolongations incluses)",760,71921,1799155220,4706612230,Aidan Chiles (NW) moins de 16.5,Aidan Chiles (NW) moins de 16.5,1.8696,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Dierre Hill Jr.,Verges à la course et à la réception Plus/Moins (prolongation incluse),3317,73841,1808328953,4734454024,Dierre Hill Jr. (ORE) Plus de 76.5,Dierre Hill Jr. (ORE) Plus de 76.5,1.8334,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Dierre Hill Jr.,Verges à la course et à la réception Plus/Moins (prolongation incluse),3317,73841,1808328953,4734454025,Dierre Hill Jr. (ORE) moins de 76.5,Dierre Hill Jr. (ORE) moins de 76.5,1.8,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Caleb Komolafe,Verges à la course et à la réception Plus/Moins (prolongation incluse),3317,73841,1807064265,4730129593,Caleb Komolafe (NW) Plus de 70.5,Caleb Komolafe (NW) Plus de 70.5,1.8,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Caleb Komolafe,Verges à la course et à la réception Plus/Moins (prolongation incluse),3317,73841,1807064265,4730129594,Caleb Komolafe (NW) moins de 70.5,Caleb Komolafe (NW) moins de 70.5,1.8334,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Dylan Raiola,Touchés par la passe du joueur au moins (Dylan Raiola (ORE)),2138,72893,1806073511,4727271009,2+,2+,2.0,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Dylan Raiola,Touchés par la passe du joueur au moins (Dylan Raiola (ORE)),2138,72893,1806073511,4727271010,3+,3+,3.5,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Dylan Raiola,Touchés par la passe du joueur au moins (Dylan Raiola (ORE)),2138,72893,1806073511,4727271011,4+,4+,7.75,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Dylan Raiola,Touchés par la passe du joueur au moins (Dylan Raiola (ORE)),2138,72893,1806073511,4727271012,1+,1+,1.2353,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Aidan Chiles,Touchés par la passe du joueur au moins (Aidan Chiles (NW)),2138,72893,1806073512,4727271016,1+,1+,1.5,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Aidan Chiles,Touchés par la passe du joueur au moins (Aidan Chiles (NW)),2138,72893,1806073512,4727271013,2+,2+,2.85,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Aidan Chiles,Touchés par la passe du joueur au moins (Aidan Chiles (NW)),2138,72893,1806073512,4727271014,3+,3+,4.5,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Aidan Chiles,Touchés par la passe du joueur au moins (Aidan Chiles (NW)),2138,72893,1806073512,4727271015,4+,4+,10.0,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Dylan Raiola,Verges par la passe du joueur au moins (Dylan Raiola (ORE)),2136,72891,1806073577,4727918766,212+,212+,1.7143,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Dylan Raiola,Verges par la passe du joueur au moins (Dylan Raiola (ORE)),2136,72891,1806073577,4727918767,222+,222+,1.9091,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Dylan Raiola,Verges par la passe du joueur au moins (Dylan Raiola (ORE)),2136,72891,1806073577,4727918768,232+,232+,2.1,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Dylan Raiola,Verges par la passe du joueur au moins (Dylan Raiola (ORE)),2136,72891,1806073577,4727918769,242+,242+,2.3,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Dylan Raiola,Verges par la passe du joueur au moins (Dylan Raiola (ORE)),2136,72891,1806073577,4727918770,252+,252+,2.55,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Dylan Raiola,Verges par la passe du joueur au moins (Dylan Raiola (ORE)),2136,72891,1806073577,4727918771,262+,262+,2.85,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Dylan Raiola,Verges par la passe du joueur au moins (Dylan Raiola (ORE)),2136,72891,1806073577,4727918772,272+,272+,3.2,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Dylan Raiola,Verges par la passe du joueur au moins (Dylan Raiola (ORE)),2136,72891,1806073577,4727918773,282+,282+,3.75,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Dylan Raiola,Verges par la passe du joueur au moins (Dylan Raiola (ORE)),2136,72891,1806073577,4727918774,292+,292+,4.25,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Dylan Raiola,Verges par la passe du joueur au moins (Dylan Raiola (ORE)),2136,72891,1806073577,4727918775,302+,302+,5.0,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Dylan Raiola,Verges par la passe du joueur au moins (Dylan Raiola (ORE)),2136,72891,1806073577,4727918776,312+,312+,5.75,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Dylan Raiola,Verges par la passe du joueur au moins (Dylan Raiola (ORE)),2136,72891,1806073577,4727918777,322+,322+,6.75,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Dylan Raiola,Verges par la passe du joueur au moins (Dylan Raiola (ORE)),2136,72891,1806073577,4727918778,332+,332+,8.0,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Dylan Raiola,Verges par la passe du joueur au moins (Dylan Raiola (ORE)),2136,72891,1806073577,4734449435,362+,362+,14.0,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Dylan Raiola,Verges par la passe du joueur au moins (Dylan Raiola (ORE)),2136,72891,1806073577,4727918845,342+,342+,10.0,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Dylan Raiola,Verges par la passe du joueur au moins (Dylan Raiola (ORE)),2136,72891,1806073577,4727918846,352+,352+,12.0,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Dylan Raiola,Verges par la passe du joueur au moins (Dylan Raiola (ORE)),2136,72891,1806073577,4727918847,202+,202+,1.5556,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Aidan Chiles,Verges par la passe du joueur au moins (Aidan Chiles (NW)),2136,72891,1806073826,4727918849,200+,200+,1.7693,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Aidan Chiles,Verges par la passe du joueur au moins (Aidan Chiles (NW)),2136,72891,1806073826,4727918850,210+,210+,2.0,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Aidan Chiles,Verges par la passe du joueur au moins (Aidan Chiles (NW)),2136,72891,1806073826,4727918851,220+,220+,2.15,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Aidan Chiles,Verges par la passe du joueur au moins (Aidan Chiles (NW)),2136,72891,1806073826,4727918852,230+,230+,2.4,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Aidan Chiles,Verges par la passe du joueur au moins (Aidan Chiles (NW)),2136,72891,1806073826,4727918853,240+,240+,2.65,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Aidan Chiles,Verges par la passe du joueur au moins (Aidan Chiles (NW)),2136,72891,1806073826,4727918854,250+,250+,2.95,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Aidan Chiles,Verges par la passe du joueur au moins (Aidan Chiles (NW)),2136,72891,1806073826,4727918855,260+,260+,3.4,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Aidan Chiles,Verges par la passe du joueur au moins (Aidan Chiles (NW)),2136,72891,1806073826,4727918856,270+,270+,3.85,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Aidan Chiles,Verges par la passe du joueur au moins (Aidan Chiles (NW)),2136,72891,1806073826,4727918857,280+,280+,4.4,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Aidan Chiles,Verges par la passe du joueur au moins (Aidan Chiles (NW)),2136,72891,1806073826,4727918858,290+,290+,5.25,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Aidan Chiles,Verges par la passe du joueur au moins (Aidan Chiles (NW)),2136,72891,1806073826,4727918859,300+,300+,6.0,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Aidan Chiles,Verges par la passe du joueur au moins (Aidan Chiles (NW)),2136,72891,1806073826,4727918860,310+,310+,7.25,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Aidan Chiles,Verges par la passe du joueur au moins (Aidan Chiles (NW)),2136,72891,1806073826,4727918861,320+,320+,8.5,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Aidan Chiles,Verges par la passe du joueur au moins (Aidan Chiles (NW)),2136,72891,1806073826,4727918862,330+,330+,10.0,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Aidan Chiles,Verges par la passe du joueur au moins (Aidan Chiles (NW)),2136,72891,1806073826,4727918863,340+,340+,13.0,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Aidan Chiles,Verges par la passe du joueur au moins (Aidan Chiles (NW)),2136,72891,1806073826,4727918864,190+,190+,1.6061,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Aidan Chiles,Verges par la passe du joueur au moins (Aidan Chiles (NW)),2136,72891,1806073826,4732150056,350+,350+,16.0,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Dierre Hill,Verges au sol du joueur au moins (Dierre Hill (ORE)),2140,72895,1806073822,4734449280,79+,79+,2.65,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Dierre Hill,Verges au sol du joueur au moins (Dierre Hill (ORE)),2140,72895,1806073822,4734449281,89+,89+,3.3,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Dierre Hill,Verges au sol du joueur au moins (Dierre Hill (ORE)),2140,72895,1806073822,4734449282,99+,99+,4.0,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Dierre Hill,Verges au sol du joueur au moins (Dierre Hill (ORE)),2140,72895,1806073822,4734449283,109+,109+,5.25,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Dierre Hill,Verges au sol du joueur au moins (Dierre Hill (ORE)),2140,72895,1806073822,4734449284,119+,119+,7.0,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Dierre Hill,Verges au sol du joueur au moins (Dierre Hill (ORE)),2140,72895,1806073822,4734449285,129+,129+,10.0,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Dierre Hill,Verges au sol du joueur au moins (Dierre Hill (ORE)),2140,72895,1806073822,4734449438,39+,39+,1.2667,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Dierre Hill,Verges au sol du joueur au moins (Dierre Hill (ORE)),2140,72895,1806073822,4734449436,139+,139+,13.0,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Dierre Hill,Verges au sol du joueur au moins (Dierre Hill (ORE)),2140,72895,1806073822,4734449437,49+,49+,1.5,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Dierre Hill,Verges au sol du joueur au moins (Dierre Hill (ORE)),2140,72895,1806073822,4734449278,59+,59+,1.9091,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Dierre Hill,Verges au sol du joueur au moins (Dierre Hill (ORE)),2140,72895,1806073822,4734449279,69+,69+,2.25,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Jordon Davison,Verges au sol du joueur au moins (Jordon Davison (ORE)),2140,72895,1806073824,4734449294,56+,56+,1.8696,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Jordon Davison,Verges au sol du joueur au moins (Jordon Davison (ORE)),2140,72895,1806073824,4734449295,66+,66+,2.2,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Jordon Davison,Verges au sol du joueur au moins (Jordon Davison (ORE)),2140,72895,1806073824,4734449296,76+,76+,2.7,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Jordon Davison,Verges au sol du joueur au moins (Jordon Davison (ORE)),2140,72895,1806073824,4734449297,86+,86+,3.4,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Jordon Davison,Verges au sol du joueur au moins (Jordon Davison (ORE)),2140,72895,1806073824,4734449298,96+,96+,4.3,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Jordon Davison,Verges au sol du joueur au moins (Jordon Davison (ORE)),2140,72895,1806073824,4734449299,106+,106+,5.75,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Jordon Davison,Verges au sol du joueur au moins (Jordon Davison (ORE)),2140,72895,1806073824,4734449300,116+,116+,7.75,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Jordon Davison,Verges au sol du joueur au moins (Jordon Davison (ORE)),2140,72895,1806073824,4734449301,126+,126+,11.0,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Jordon Davison,Verges au sol du joueur au moins (Jordon Davison (ORE)),2140,72895,1806073824,4734449302,136+,136+,16.0,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Jordon Davison,Verges au sol du joueur au moins (Jordon Davison (ORE)),2140,72895,1806073824,4734449303,46+,46+,1.5,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Jordon Davison,Verges au sol du joueur au moins (Jordon Davison (ORE)),2140,72895,1806073824,4734449304,36+,36+,1.2858,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Caleb Komolafe,Verges au sol du joueur au moins (Caleb Komolafe (NW)),2140,72895,1806073819,4729535526,60+,60+,1.9091,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Caleb Komolafe,Verges au sol du joueur au moins (Caleb Komolafe (NW)),2140,72895,1806073819,4729535527,70+,70+,2.2,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Caleb Komolafe,Verges au sol du joueur au moins (Caleb Komolafe (NW)),2140,72895,1806073819,4729535528,80+,80+,2.5,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Caleb Komolafe,Verges au sol du joueur au moins (Caleb Komolafe (NW)),2140,72895,1806073819,4729535529,90+,90+,2.95,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Caleb Komolafe,Verges au sol du joueur au moins (Caleb Komolafe (NW)),2140,72895,1806073819,4729535530,100+,100+,3.6,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Caleb Komolafe,Verges au sol du joueur au moins (Caleb Komolafe (NW)),2140,72895,1806073819,4729535531,110+,110+,4.3,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Caleb Komolafe,Verges au sol du joueur au moins (Caleb Komolafe (NW)),2140,72895,1806073819,4729535532,120+,120+,5.25,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Caleb Komolafe,Verges au sol du joueur au moins (Caleb Komolafe (NW)),2140,72895,1806073819,4729535535,50+,50+,1.5715,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Caleb Komolafe,Verges au sol du joueur au moins (Caleb Komolafe (NW)),2140,72895,1806073819,4729535536,40+,40+,1.3449,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Aidan Chiles,Verges au sol du joueur au moins (Aidan Chiles (NW)),2140,72895,1806073828,4727271831,20+,20+,1.9091,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Aidan Chiles,Verges au sol du joueur au moins (Aidan Chiles (NW)),2140,72895,1806073828,4727271832,30+,30+,2.45,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Aidan Chiles,Verges au sol du joueur au moins (Aidan Chiles (NW)),2140,72895,1806073828,4727271833,40+,40+,3.3,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Aidan Chiles,Verges au sol du joueur au moins (Aidan Chiles (NW)),2140,72895,1806073828,4727271834,50+,50+,4.75,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Aidan Chiles,Verges au sol du joueur au moins (Aidan Chiles (NW)),2140,72895,1806073828,4727271835,60+,60+,7.25,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Aidan Chiles,Verges au sol du joueur au moins (Aidan Chiles (NW)),2140,72895,1806073828,4727271836,70+,70+,12.0,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Aidan Chiles,Verges au sol du joueur au moins (Aidan Chiles (NW)),2140,72895,1806073828,4727271837,80+,80+,20.0,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Aidan Chiles,Verges au sol du joueur au moins (Aidan Chiles (NW)),2140,72895,1806073828,4727271838,90+,90+,36.0,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Aidan Chiles,Verges au sol du joueur au moins (Aidan Chiles (NW)),2140,72895,1806073828,4727271839,10+,10+,1.3847,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Drew Wagner,Joueur total de réception (Drew Wagner (NW)) (incl. OT),2142,72897,1806073820,4727271758,4+,4+,2.4,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Drew Wagner,Joueur total de réception (Drew Wagner (NW)) (incl. OT),2142,72897,1806073820,4727271759,5+,5+,3.6,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Drew Wagner,Joueur total de réception (Drew Wagner (NW)) (incl. OT),2142,72897,1806073820,4727271760,6+,6+,5.75,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Drew Wagner,Joueur total de réception (Drew Wagner (NW)) (incl. OT),2142,72897,1806073820,4727271761,7+,7+,10.0,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Drew Wagner,Joueur total de réception (Drew Wagner (NW)) (incl. OT),2142,72897,1806073820,4727271762,8+,8+,19.0,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Drew Wagner,Joueur total de réception (Drew Wagner (NW)) (incl. OT),2142,72897,1806073820,4727271764,3+,3+,1.6897,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Drew Wagner,Joueur total de réception (Drew Wagner (NW)) (incl. OT),2142,72897,1806073820,4727327157,2+,2+,1.1539,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Jamari Johnson Johnson,Joueur total de réception (Jamari Johnson Johnson (ORE)) (incl. OT),2142,72897,1806073821,4727271765,4+,4+,1.8334,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Jamari Johnson Johnson,Joueur total de réception (Jamari Johnson Johnson (ORE)) (incl. OT),2142,72897,1806073821,4727271766,5+,5+,2.65,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Jamari Johnson Johnson,Joueur total de réception (Jamari Johnson Johnson (ORE)) (incl. OT),2142,72897,1806073821,4727271767,6+,6+,4.25,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Jamari Johnson Johnson,Joueur total de réception (Jamari Johnson Johnson (ORE)) (incl. OT),2142,72897,1806073821,4727271768,7+,7+,7.25,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Jamari Johnson Johnson,Joueur total de réception (Jamari Johnson Johnson (ORE)) (incl. OT),2142,72897,1806073821,4727271769,8+,8+,14.0,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Jamari Johnson Johnson,Joueur total de réception (Jamari Johnson Johnson (ORE)) (incl. OT),2142,72897,1806073821,4727271770,9+,9+,26.0,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Jamari Johnson Johnson,Joueur total de réception (Jamari Johnson Johnson (ORE)) (incl. OT),2142,72897,1806073821,4727271771,3+,3+,1.2353,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Dakorien Moore,Joueur total de réception (Dakorien Moore (ORE)) (incl. OT),2142,72897,1806073513,4727271017,5+,5+,1.9524,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Dakorien Moore,Joueur total de réception (Dakorien Moore (ORE)) (incl. OT),2142,72897,1806073513,4727271018,6+,6+,2.7,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Dakorien Moore,Joueur total de réception (Dakorien Moore (ORE)) (incl. OT),2142,72897,1806073513,4727271019,7+,7+,4.0,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Dakorien Moore,Joueur total de réception (Dakorien Moore (ORE)) (incl. OT),2142,72897,1806073513,4727271020,8+,8+,6.75,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Dakorien Moore,Joueur total de réception (Dakorien Moore (ORE)) (incl. OT),2142,72897,1806073513,4727271021,9+,9+,12.0,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Dakorien Moore,Joueur total de réception (Dakorien Moore (ORE)) (incl. OT),2142,72897,1806073513,4727271022,10+,10+,21.0,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Dakorien Moore,Joueur total de réception (Dakorien Moore (ORE)) (incl. OT),2142,72897,1806073513,4727271023,4+,4+,1.3334,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Messiah Hampton,Joueur total de réception (Messiah Hampton (ORE)) (incl. OT),2142,72897,1808327087,4734449440,4+,4+,3.1,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Messiah Hampton,Joueur total de réception (Messiah Hampton (ORE)) (incl. OT),2142,72897,1808327087,4734449441,5+,5+,5.0,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Messiah Hampton,Joueur total de réception (Messiah Hampton (ORE)) (incl. OT),2142,72897,1808327087,4734449442,6+,6+,8.5,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Messiah Hampton,Joueur total de réception (Messiah Hampton (ORE)) (incl. OT),2142,72897,1808327087,4734449443,7+,7+,16.0,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Messiah Hampton,Joueur total de réception (Messiah Hampton (ORE)) (incl. OT),2142,72897,1808327087,4734449444,8+,8+,31.0,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Messiah Hampton,Joueur total de réception (Messiah Hampton (ORE)) (incl. OT),2142,72897,1808327087,4734449445,2+,2+,1.4348,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Messiah Hampton,Joueur total de réception (Messiah Hampton (ORE)) (incl. OT),2142,72897,1808327087,4734449439,3+,3+,2.15,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Griffin Wilde,Joueur total de réception (Griffin Wilde (NW)) (incl. OT),2142,72897,1806073581,4727271248,7+,7+,2.0,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Griffin Wilde,Joueur total de réception (Griffin Wilde (NW)) (incl. OT),2142,72897,1806073581,4727271249,8+,8+,2.6,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Griffin Wilde,Joueur total de réception (Griffin Wilde (NW)) (incl. OT),2142,72897,1806073581,4727271250,9+,9+,3.6,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Griffin Wilde,Joueur total de réception (Griffin Wilde (NW)) (incl. OT),2142,72897,1806073581,4727271251,10+,10+,5.25,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Griffin Wilde,Joueur total de réception (Griffin Wilde (NW)) (incl. OT),2142,72897,1806073581,4727271252,11+,11+,8.0,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Griffin Wilde,Joueur total de réception (Griffin Wilde (NW)) (incl. OT),2142,72897,1806073581,4727271253,12+,12+,13.0,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Griffin Wilde,Joueur total de réception (Griffin Wilde (NW)) (incl. OT),2142,72897,1806073581,4727271254,6+,6+,1.4546,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Evan Stewart,Joueur total de réception (Evan Stewart (ORE)) (incl. OT),2142,72897,1808328756,4734453509,5+,5+,1.9524,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Evan Stewart,Joueur total de réception (Evan Stewart (ORE)) (incl. OT),2142,72897,1808328756,4734453510,6+,6+,2.5,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Evan Stewart,Joueur total de réception (Evan Stewart (ORE)) (incl. OT),2142,72897,1808328756,4734453511,7+,7+,3.3,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Evan Stewart,Joueur total de réception (Evan Stewart (ORE)) (incl. OT),2142,72897,1808328756,4734453512,8+,8+,4.75,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Evan Stewart,Joueur total de réception (Evan Stewart (ORE)) (incl. OT),2142,72897,1808328756,4734453513,9+,9+,6.75,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Evan Stewart,Joueur total de réception (Evan Stewart (ORE)) (incl. OT),2142,72897,1808328756,4734453514,10+,10+,11.0,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Evan Stewart,Joueur total de réception (Evan Stewart (ORE)) (incl. OT),2142,72897,1808328756,4734453515,4+,4+,1.4762,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Hayden Eligon,Joueur total de réception (Hayden Eligon (NW)) (incl. OT),2142,72897,1806073825,4727271798,2+,2+,2.05,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Hayden Eligon,Joueur total de réception (Hayden Eligon (NW)) (incl. OT),2142,72897,1806073825,4727271799,3+,3+,2.75,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Hayden Eligon,Joueur total de réception (Hayden Eligon (NW)) (incl. OT),2142,72897,1806073825,4727271800,4+,4+,4.0,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Hayden Eligon,Joueur total de réception (Hayden Eligon (NW)) (incl. OT),2142,72897,1806073825,4727271801,5+,5+,6.5,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Hayden Eligon,Joueur total de réception (Hayden Eligon (NW)) (incl. OT),2142,72897,1806073825,4727271802,6+,6+,11.0,0,False
+17956186,Oregon Ducks vs. Northwestern Wildcats,Hayden Eligon,Joueur total de réception (Hayden Eligon (NW)) (incl. OT),2142,72897,1806073825,4727271803,7+,7+,20.0,0,False

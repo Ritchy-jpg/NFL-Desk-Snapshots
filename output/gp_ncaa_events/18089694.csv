@@ -1,31 +1,71 @@
 event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id,selection,line,price,odd_id,odd_status,is_main_bet
 18089694,UNLV Rebels vs. Northern Illinois Huskies,2026-11-01T02:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,UNLV Rebels,,1.02,4711340074,0,False
 18089694,UNLV Rebels vs. Northern Illinois Huskies,2026-11-01T02:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Northern Illinois Huskies,,9.0,4711340075,0,False
-18089694,UNLV Rebels vs. Northern Illinois Huskies,2026-11-01T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Northern Illinois Huskies (+25.5),-25.5,1.7143,4716078080,0,False
-18089694,UNLV Rebels vs. Northern Illinois Huskies,2026-11-01T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,UNLV Rebels (-25.5),-25.5,2.0,4716078081,0,False
-18089694,UNLV Rebels vs. Northern Illinois Huskies,2026-11-01T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Northern Illinois Huskies (+26.5),-26.5,1.6667,4716078050,0,False
-18089694,UNLV Rebels vs. Northern Illinois Huskies,2026-11-01T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,UNLV Rebels (-26.5),-26.5,2.1,4716078051,0,False
-18089694,UNLV Rebels vs. Northern Illinois Huskies,2026-11-01T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Northern Illinois Huskies (+21.5),-21.5,2.1,4716078022,0,False
-18089694,UNLV Rebels vs. Northern Illinois Huskies,2026-11-01T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,UNLV Rebels (-21.5),-21.5,1.6667,4716078023,0,False
-18089694,UNLV Rebels vs. Northern Illinois Huskies,2026-11-01T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Northern Illinois Huskies (+24.5),-24.5,1.8,4711340076,0,True
-18089694,UNLV Rebels vs. Northern Illinois Huskies,2026-11-01T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,UNLV Rebels (-24.5),-24.5,1.8696,4711340077,0,True
-18089694,UNLV Rebels vs. Northern Illinois Huskies,2026-11-01T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Northern Illinois Huskies (+22.5),-22.5,2.05,4716078074,0,False
-18089694,UNLV Rebels vs. Northern Illinois Huskies,2026-11-01T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,UNLV Rebels (-22.5),-22.5,1.6897,4716078075,0,False
-18089694,UNLV Rebels vs. Northern Illinois Huskies,2026-11-01T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Northern Illinois Huskies (+23.5),-23.5,1.9524,4716078076,0,False
-18089694,UNLV Rebels vs. Northern Illinois Huskies,2026-11-01T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,UNLV Rebels (-23.5),-23.5,1.7408,4716078077,0,False
-18089694,UNLV Rebels vs. Northern Illinois Huskies,2026-11-01T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,Northern Illinois Huskies (+27.5),-27.5,1.5715,4716078078,0,False
-18089694,UNLV Rebels vs. Northern Illinois Huskies,2026-11-01T02:30:00Z,spread,Handicap (inclus prolongations),223,70799,UNLV Rebels (-27.5),-27.5,2.25,4716078079,0,False
+18089694,UNLV Rebels vs. Northern Illinois Huskies,2026-11-01T02:30:00Z,spread,Écart (prolongation incluse),223,70799,Northern Illinois Huskies (+25.5),-25.5,1.6897,4716078080,0,False
+18089694,UNLV Rebels vs. Northern Illinois Huskies,2026-11-01T02:30:00Z,spread,Écart (prolongation incluse),223,70799,UNLV Rebels (-25.5),-25.5,2.05,4716078081,0,False
+18089694,UNLV Rebels vs. Northern Illinois Huskies,2026-11-01T02:30:00Z,spread,Écart (prolongation incluse),223,70799,Northern Illinois Huskies (+24.5),-24.5,1.7693,4711340076,0,True
+18089694,UNLV Rebels vs. Northern Illinois Huskies,2026-11-01T02:30:00Z,spread,Écart (prolongation incluse),223,70799,UNLV Rebels (-24.5),-24.5,1.9091,4711340077,0,True
+18089694,UNLV Rebels vs. Northern Illinois Huskies,2026-11-01T02:30:00Z,spread,Écart (prolongation incluse),223,70799,Northern Illinois Huskies (+21.5),-21.5,2.1,4716078022,0,False
+18089694,UNLV Rebels vs. Northern Illinois Huskies,2026-11-01T02:30:00Z,spread,Écart (prolongation incluse),223,70799,UNLV Rebels (-21.5),-21.5,1.6667,4716078023,0,False
+18089694,UNLV Rebels vs. Northern Illinois Huskies,2026-11-01T02:30:00Z,spread,Écart (prolongation incluse),223,70799,Northern Illinois Huskies (+31.5),-31.5,1.3572,4716078024,0,False
+18089694,UNLV Rebels vs. Northern Illinois Huskies,2026-11-01T02:30:00Z,spread,Écart (prolongation incluse),223,70799,UNLV Rebels (-31.5),-31.5,3.0,4716078025,0,False
+18089694,UNLV Rebels vs. Northern Illinois Huskies,2026-11-01T02:30:00Z,spread,Écart (prolongation incluse),223,70799,UNLV Rebels (-18.5),-18.5,1.5,4716078028,0,False
+18089694,UNLV Rebels vs. Northern Illinois Huskies,2026-11-01T02:30:00Z,spread,Écart (prolongation incluse),223,70799,Northern Illinois Huskies (+18.5),-18.5,2.5,4716078029,0,False
+18089694,UNLV Rebels vs. Northern Illinois Huskies,2026-11-01T02:30:00Z,spread,Écart (prolongation incluse),223,70799,UNLV Rebels (-19.5),-19.5,1.5455,4716078030,0,False
+18089694,UNLV Rebels vs. Northern Illinois Huskies,2026-11-01T02:30:00Z,spread,Écart (prolongation incluse),223,70799,Northern Illinois Huskies (+19.5),-19.5,2.35,4716078031,0,False
+18089694,UNLV Rebels vs. Northern Illinois Huskies,2026-11-01T02:30:00Z,spread,Écart (prolongation incluse),223,70799,Northern Illinois Huskies (+16.5),-16.5,2.85,4716078038,0,False
+18089694,UNLV Rebels vs. Northern Illinois Huskies,2026-11-01T02:30:00Z,spread,Écart (prolongation incluse),223,70799,UNLV Rebels (-16.5),-16.5,1.3847,4716078039,0,False
+18089694,UNLV Rebels vs. Northern Illinois Huskies,2026-11-01T02:30:00Z,spread,Écart (prolongation incluse),223,70799,UNLV Rebels (-17.5),-17.5,1.4546,4716078042,0,False
+18089694,UNLV Rebels vs. Northern Illinois Huskies,2026-11-01T02:30:00Z,spread,Écart (prolongation incluse),223,70799,Northern Illinois Huskies (+17.5),-17.5,2.6,4716078043,0,False
+18089694,UNLV Rebels vs. Northern Illinois Huskies,2026-11-01T02:30:00Z,spread,Écart (prolongation incluse),223,70799,Northern Illinois Huskies (+30.5),-30.5,1.4167,4716078046,0,False
+18089694,UNLV Rebels vs. Northern Illinois Huskies,2026-11-01T02:30:00Z,spread,Écart (prolongation incluse),223,70799,UNLV Rebels (-30.5),-30.5,2.7,4716078047,0,False
+18089694,UNLV Rebels vs. Northern Illinois Huskies,2026-11-01T02:30:00Z,spread,Écart (prolongation incluse),223,70799,Northern Illinois Huskies (+20.5),-20.5,2.25,4716078048,0,False
+18089694,UNLV Rebels vs. Northern Illinois Huskies,2026-11-01T02:30:00Z,spread,Écart (prolongation incluse),223,70799,UNLV Rebels (-20.5),-20.5,1.5715,4716078049,0,False
+18089694,UNLV Rebels vs. Northern Illinois Huskies,2026-11-01T02:30:00Z,spread,Écart (prolongation incluse),223,70799,Northern Illinois Huskies (+26.5),-26.5,1.6451,4716078050,0,False
+18089694,UNLV Rebels vs. Northern Illinois Huskies,2026-11-01T02:30:00Z,spread,Écart (prolongation incluse),223,70799,UNLV Rebels (-26.5),-26.5,2.15,4716078051,0,False
+18089694,UNLV Rebels vs. Northern Illinois Huskies,2026-11-01T02:30:00Z,spread,Écart (prolongation incluse),223,70799,Northern Illinois Huskies (+32.5),-32.5,1.3226,4716078058,0,False
+18089694,UNLV Rebels vs. Northern Illinois Huskies,2026-11-01T02:30:00Z,spread,Écart (prolongation incluse),223,70799,UNLV Rebels (-32.5),-32.5,3.15,4716078059,0,False
+18089694,UNLV Rebels vs. Northern Illinois Huskies,2026-11-01T02:30:00Z,spread,Écart (prolongation incluse),223,70799,UNLV Rebels (-28.5),-28.5,2.5,4716078070,0,False
+18089694,UNLV Rebels vs. Northern Illinois Huskies,2026-11-01T02:30:00Z,spread,Écart (prolongation incluse),223,70799,Northern Illinois Huskies (+28.5),-28.5,1.5,4716078071,0,False
+18089694,UNLV Rebels vs. Northern Illinois Huskies,2026-11-01T02:30:00Z,spread,Écart (prolongation incluse),223,70799,Northern Illinois Huskies (+29.5),-29.5,1.4762,4716078072,0,False
+18089694,UNLV Rebels vs. Northern Illinois Huskies,2026-11-01T02:30:00Z,spread,Écart (prolongation incluse),223,70799,UNLV Rebels (-29.5),-29.5,2.55,4716078073,0,False
+18089694,UNLV Rebels vs. Northern Illinois Huskies,2026-11-01T02:30:00Z,spread,Écart (prolongation incluse),223,70799,Northern Illinois Huskies (+22.5),-22.5,2.0,4716078074,0,False
+18089694,UNLV Rebels vs. Northern Illinois Huskies,2026-11-01T02:30:00Z,spread,Écart (prolongation incluse),223,70799,UNLV Rebels (-22.5),-22.5,1.7143,4716078075,0,False
+18089694,UNLV Rebels vs. Northern Illinois Huskies,2026-11-01T02:30:00Z,spread,Écart (prolongation incluse),223,70799,Northern Illinois Huskies (+23.5),-23.5,1.9091,4716078076,0,False
+18089694,UNLV Rebels vs. Northern Illinois Huskies,2026-11-01T02:30:00Z,spread,Écart (prolongation incluse),223,70799,UNLV Rebels (-23.5),-23.5,1.7693,4716078077,0,False
+18089694,UNLV Rebels vs. Northern Illinois Huskies,2026-11-01T02:30:00Z,spread,Écart (prolongation incluse),223,70799,Northern Illinois Huskies (+27.5),-27.5,1.5715,4716078078,0,False
+18089694,UNLV Rebels vs. Northern Illinois Huskies,2026-11-01T02:30:00Z,spread,Écart (prolongation incluse),223,70799,UNLV Rebels (-27.5),-27.5,2.25,4716078079,0,False
+18089694,UNLV Rebels vs. Northern Illinois Huskies,2026-11-01T02:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 58.5,58.5,2.4,4716077953,0,False
+18089694,UNLV Rebels vs. Northern Illinois Huskies,2026-11-01T02:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 58.5,58.5,1.5264,4716077954,0,False
+18089694,UNLV Rebels vs. Northern Illinois Huskies,2026-11-01T02:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 48.5,48.5,1.4762,4716077955,0,False
+18089694,UNLV Rebels vs. Northern Illinois Huskies,2026-11-01T02:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 48.5,48.5,2.55,4716077956,0,False
 18089694,UNLV Rebels vs. Northern Illinois Huskies,2026-11-01T02:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 55.5,55.5,2.05,4716077961,0,False
 18089694,UNLV Rebels vs. Northern Illinois Huskies,2026-11-01T02:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 55.5,55.5,1.6897,4716077962,0,False
 18089694,UNLV Rebels vs. Northern Illinois Huskies,2026-11-01T02:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 54.5,54.5,1.8696,4716077965,0,True
+18089694,UNLV Rebels vs. Northern Illinois Huskies,2026-11-01T02:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 54.5,54.5,1.8,4716077966,0,True
+18089694,UNLV Rebels vs. Northern Illinois Huskies,2026-11-01T02:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 51.5,51.5,1.6667,4716077967,0,False
+18089694,UNLV Rebels vs. Northern Illinois Huskies,2026-11-01T02:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 51.5,51.5,2.1,4716077968,0,False
+18089694,UNLV Rebels vs. Northern Illinois Huskies,2026-11-01T02:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 56.5,56.5,2.1,4716077969,0,False
+18089694,UNLV Rebels vs. Northern Illinois Huskies,2026-11-01T02:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 56.5,56.5,1.6667,4716077970,0,False
+18089694,UNLV Rebels vs. Northern Illinois Huskies,2026-11-01T02:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 50.5,50.5,1.5715,4716077971,0,False
+18089694,UNLV Rebels vs. Northern Illinois Huskies,2026-11-01T02:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 50.5,50.5,2.25,4716077972,0,False
+18089694,UNLV Rebels vs. Northern Illinois Huskies,2026-11-01T02:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 53.5,53.5,1.7693,4712603797,0,False
+18089694,UNLV Rebels vs. Northern Illinois Huskies,2026-11-01T02:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 59.5,59.5,2.6,4716077973,0,False
+18089694,UNLV Rebels vs. Northern Illinois Huskies,2026-11-01T02:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 61.5,61.5,2.85,4716077975,0,False
+18089694,UNLV Rebels vs. Northern Illinois Huskies,2026-11-01T02:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 53.5,53.5,1.9091,4712603798,0,False
+18089694,UNLV Rebels vs. Northern Illinois Huskies,2026-11-01T02:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 59.5,59.5,1.4546,4716077974,0,False
+18089694,UNLV Rebels vs. Northern Illinois Huskies,2026-11-01T02:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 61.5,61.5,1.3847,4716077976,0,False
+18089694,UNLV Rebels vs. Northern Illinois Huskies,2026-11-01T02:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 62.5,62.5,1.3334,4716077981,0,False
+18089694,UNLV Rebels vs. Northern Illinois Huskies,2026-11-01T02:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 62.5,62.5,3.1,4716077982,0,False
+18089694,UNLV Rebels vs. Northern Illinois Huskies,2026-11-01T02:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 60.5,60.5,2.65,4716077989,0,False
+18089694,UNLV Rebels vs. Northern Illinois Huskies,2026-11-01T02:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 60.5,60.5,1.4348,4716077990,0,False
+18089694,UNLV Rebels vs. Northern Illinois Huskies,2026-11-01T02:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 49.5,49.5,1.5264,4716077991,0,False
+18089694,UNLV Rebels vs. Northern Illinois Huskies,2026-11-01T02:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 49.5,49.5,2.4,4716077992,0,False
+18089694,UNLV Rebels vs. Northern Illinois Huskies,2026-11-01T02:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 46.5,46.5,1.3637,4716077993,0,False
+18089694,UNLV Rebels vs. Northern Illinois Huskies,2026-11-01T02:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 46.5,46.5,2.9,4716077994,0,False
 18089694,UNLV Rebels vs. Northern Illinois Huskies,2026-11-01T02:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 52.5,52.5,1.9524,4711340078,0,False
 18089694,UNLV Rebels vs. Northern Illinois Huskies,2026-11-01T02:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 52.5,52.5,1.7408,4711340079,0,False
-18089694,UNLV Rebels vs. Northern Illinois Huskies,2026-11-01T02:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 51.5,51.5,1.6667,4716077967,0,False
-18089694,UNLV Rebels vs. Northern Illinois Huskies,2026-11-01T02:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 56.5,56.5,2.15,4716077969,0,False
-18089694,UNLV Rebels vs. Northern Illinois Huskies,2026-11-01T02:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 51.5,51.5,2.1,4716077968,0,False
-18089694,UNLV Rebels vs. Northern Illinois Huskies,2026-11-01T02:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 54.5,54.5,1.8,4716077966,0,True
-18089694,UNLV Rebels vs. Northern Illinois Huskies,2026-11-01T02:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 56.5,56.5,1.6451,4716077970,0,False
-18089694,UNLV Rebels vs. Northern Illinois Huskies,2026-11-01T02:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 53.5,53.5,1.7693,4712603797,0,False
-18089694,UNLV Rebels vs. Northern Illinois Huskies,2026-11-01T02:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 53.5,53.5,1.9091,4712603798,0,False
-18089694,UNLV Rebels vs. Northern Illinois Huskies,2026-11-01T02:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 57.5,57.5,2.25,4716077945,0,False
-18089694,UNLV Rebels vs. Northern Illinois Huskies,2026-11-01T02:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 57.5,57.5,1.5715,4716077946,0,False
+18089694,UNLV Rebels vs. Northern Illinois Huskies,2026-11-01T02:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 47.5,47.5,2.7,4716077943,0,False
+18089694,UNLV Rebels vs. Northern Illinois Huskies,2026-11-01T02:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 47.5,47.5,1.4167,4716077944,0,False
+18089694,UNLV Rebels vs. Northern Illinois Huskies,2026-11-01T02:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 57.5,57.5,2.2,4716077945,0,False
+18089694,UNLV Rebels vs. Northern Illinois Huskies,2026-11-01T02:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 57.5,57.5,1.625,4716077946,0,False

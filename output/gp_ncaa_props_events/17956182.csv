@@ -1,21 +1,295 @@
 event_id,match,player,market,market_type_id,sport_market_id,child_market_id,odd_id,selection,line,price,odd_status,is_main_bet
-17956182,Nebraska Cornhuskers vs. Washington Huskies,Kwazi Gilmer,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1805050259,4723605966,Kwazi Gilmer (Neb) Plus de 71.5,Kwazi Gilmer (Neb) Plus de 71.5,1.8334,0,False
-17956182,Nebraska Cornhuskers vs. Washington Huskies,Kwazi Gilmer,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1805050259,4723605967,Kwazi Gilmer (Neb) moins de 71.5,Kwazi Gilmer (Neb) moins de 71.5,1.7693,0,False
-17956182,Nebraska Cornhuskers vs. Washington Huskies,Chris Lawson,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1808126618,4733879240,Chris Lawson (UW) moins de 62.5,Chris Lawson (UW) moins de 62.5,1.7693,0,False
-17956182,Nebraska Cornhuskers vs. Washington Huskies,Chris Lawson,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1808126618,4733879239,Chris Lawson (UW) Plus de 62.5,Chris Lawson (UW) Plus de 62.5,1.8334,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Anthony Colandrea,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1808847955,4736007664,Anthony Colandrea (Neb) Plus de 221.5,Anthony Colandrea (Neb) Plus de 221.5,1.7693,0,True
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Anthony Colandrea,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1808847955,4736007665,Anthony Colandrea (Neb) moins de 221.5,Anthony Colandrea (Neb) moins de 221.5,1.8334,0,True
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Baron Naone,Verges de réception du joueur au moins (Baron Naone (WAS)),2143,72898,1810054724,4740122890,21+,21+,1.8696,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Baron Naone,Verges de réception du joueur au moins (Baron Naone (WAS)),2143,72898,1810054724,4740122891,31+,31+,2.2,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Baron Naone,Verges de réception du joueur au moins (Baron Naone (WAS)),2143,72898,1810054724,4740122892,41+,41+,2.6,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Baron Naone,Verges de réception du joueur au moins (Baron Naone (WAS)),2143,72898,1810054724,4740122893,51+,51+,3.2,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Baron Naone,Verges de réception du joueur au moins (Baron Naone (WAS)),2143,72898,1810054724,4740122894,61+,61+,3.85,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Baron Naone,Verges de réception du joueur au moins (Baron Naone (WAS)),2143,72898,1810054724,4740122895,71+,71+,5.0,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Baron Naone,Verges de réception du joueur au moins (Baron Naone (WAS)),2143,72898,1810054724,4740122896,81+,81+,6.5,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Baron Naone,Verges de réception du joueur au moins (Baron Naone (WAS)),2143,72898,1810054724,4740122897,91+,91+,8.5,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Baron Naone,Verges de réception du joueur au moins (Baron Naone (WAS)),2143,72898,1810054724,4740122898,101+,101+,12.0,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Baron Naone,Verges de réception du joueur au moins (Baron Naone (WAS)),2143,72898,1810054724,4740122899,11+,11+,1.3847,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Luke Lindenmeyer,Verges de réception du joueur au moins (Luke Lindenmeyer (NEB)),2143,72898,1810054501,4740122306,27+,27+,1.8696,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Luke Lindenmeyer,Verges de réception du joueur au moins (Luke Lindenmeyer (NEB)),2143,72898,1810054501,4740122307,37+,37+,2.3,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Luke Lindenmeyer,Verges de réception du joueur au moins (Luke Lindenmeyer (NEB)),2143,72898,1810054501,4740122308,47+,47+,2.95,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Luke Lindenmeyer,Verges de réception du joueur au moins (Luke Lindenmeyer (NEB)),2143,72898,1810054501,4740122309,57+,57+,3.85,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Luke Lindenmeyer,Verges de réception du joueur au moins (Luke Lindenmeyer (NEB)),2143,72898,1810054501,4740122310,67+,67+,5.5,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Luke Lindenmeyer,Verges de réception du joueur au moins (Luke Lindenmeyer (NEB)),2143,72898,1810054501,4740122311,77+,77+,7.75,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Luke Lindenmeyer,Verges de réception du joueur au moins (Luke Lindenmeyer (NEB)),2143,72898,1810054501,4740122312,87+,87+,12.0,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Luke Lindenmeyer,Verges de réception du joueur au moins (Luke Lindenmeyer (NEB)),2143,72898,1810054501,4740122313,97+,97+,19.0,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Luke Lindenmeyer,Verges de réception du joueur au moins (Luke Lindenmeyer (NEB)),2143,72898,1810054501,4740122314,107+,107+,31.0,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Luke Lindenmeyer,Verges de réception du joueur au moins (Luke Lindenmeyer (NEB)),2143,72898,1810054501,4740122315,17+,17+,1.4167,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Nyziah Hunter,Verges de réception du joueur au moins (Nyziah Hunter (NEB)),2143,72898,1810054647,4740294466,30+,30+,1.8696,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Nyziah Hunter,Verges de réception du joueur au moins (Nyziah Hunter (NEB)),2143,72898,1810054647,4740294467,40+,40+,2.2,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Nyziah Hunter,Verges de réception du joueur au moins (Nyziah Hunter (NEB)),2143,72898,1810054647,4740294468,50+,50+,2.65,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Nyziah Hunter,Verges de réception du joueur au moins (Nyziah Hunter (NEB)),2143,72898,1810054647,4740294469,60+,60+,3.2,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Nyziah Hunter,Verges de réception du joueur au moins (Nyziah Hunter (NEB)),2143,72898,1810054647,4740294470,70+,70+,4.0,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Nyziah Hunter,Verges de réception du joueur au moins (Nyziah Hunter (NEB)),2143,72898,1810054647,4740294471,80+,80+,5.25,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Nyziah Hunter,Verges de réception du joueur au moins (Nyziah Hunter (NEB)),2143,72898,1810054647,4740294472,90+,90+,6.75,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Nyziah Hunter,Verges de réception du joueur au moins (Nyziah Hunter (NEB)),2143,72898,1810054647,4740294473,100+,100+,9.0,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Nyziah Hunter,Verges de réception du joueur au moins (Nyziah Hunter (NEB)),2143,72898,1810054647,4740294474,110+,110+,13.0,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Nyziah Hunter,Verges de réception du joueur au moins (Nyziah Hunter (NEB)),2143,72898,1810054647,4740294475,20+,20+,1.4167,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Jacory Barney Jr.,Verges de réception du joueur au moins (Jacory Barney Jr. (NEB)),2143,72898,1810054553,4740122464,109+,109+,6.75,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Jacory Barney Jr.,Verges de réception du joueur au moins (Jacory Barney Jr. (NEB)),2143,72898,1810054553,4740122465,119+,119+,9.0,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Jacory Barney Jr.,Verges de réception du joueur au moins (Jacory Barney Jr. (NEB)),2143,72898,1810054553,4740122466,29+,29+,1.4348,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Jacory Barney Jr.,Verges de réception du joueur au moins (Jacory Barney Jr. (NEB)),2143,72898,1810054553,4740122457,39+,39+,1.8696,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Jacory Barney Jr.,Verges de réception du joueur au moins (Jacory Barney Jr. (NEB)),2143,72898,1810054553,4740122458,49+,49+,2.15,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Jacory Barney Jr.,Verges de réception du joueur au moins (Jacory Barney Jr. (NEB)),2143,72898,1810054553,4740122459,59+,59+,2.5,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Jacory Barney Jr.,Verges de réception du joueur au moins (Jacory Barney Jr. (NEB)),2143,72898,1810054553,4740122460,69+,69+,2.95,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Jacory Barney Jr.,Verges de réception du joueur au moins (Jacory Barney Jr. (NEB)),2143,72898,1810054553,4740122461,79+,79+,3.5,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Jacory Barney Jr.,Verges de réception du joueur au moins (Jacory Barney Jr. (NEB)),2143,72898,1810054553,4740122462,89+,89+,4.3,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Jacory Barney Jr.,Verges de réception du joueur au moins (Jacory Barney Jr. (NEB)),2143,72898,1810054553,4740122463,99+,99+,5.25,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Rashid Williams,Verges de réception du joueur au moins (Rashid Williams (WAS)),2143,72898,1810054503,4740183214,28+,28+,1.9091,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Rashid Williams,Verges de réception du joueur au moins (Rashid Williams (WAS)),2143,72898,1810054503,4740183215,38+,38+,2.25,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Rashid Williams,Verges de réception du joueur au moins (Rashid Williams (WAS)),2143,72898,1810054503,4740183216,48+,48+,2.7,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Rashid Williams,Verges de réception du joueur au moins (Rashid Williams (WAS)),2143,72898,1810054503,4740183217,58+,58+,3.3,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Rashid Williams,Verges de réception du joueur au moins (Rashid Williams (WAS)),2143,72898,1810054503,4740183218,68+,68+,4.25,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Rashid Williams,Verges de réception du joueur au moins (Rashid Williams (WAS)),2143,72898,1810054503,4740183219,78+,78+,5.5,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Rashid Williams,Verges de réception du joueur au moins (Rashid Williams (WAS)),2143,72898,1810054503,4740183220,88+,88+,7.25,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Rashid Williams,Verges de réception du joueur au moins (Rashid Williams (WAS)),2143,72898,1810054503,4740183221,98+,98+,10.0,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Rashid Williams,Verges de réception du joueur au moins (Rashid Williams (WAS)),2143,72898,1810054503,4740183222,108+,108+,14.0,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Rashid Williams,Verges de réception du joueur au moins (Rashid Williams (WAS)),2143,72898,1810054503,4740183223,18+,18+,1.4546,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Chris Lawson,Verges de réception du joueur au moins (Chris Lawson (WAS)),2143,72898,1810054720,4740122860,58+,58+,1.8696,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Chris Lawson,Verges de réception du joueur au moins (Chris Lawson (WAS)),2143,72898,1810054720,4740122861,68+,68+,2.2,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Chris Lawson,Verges de réception du joueur au moins (Chris Lawson (WAS)),2143,72898,1810054720,4740122862,78+,78+,2.6,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Chris Lawson,Verges de réception du joueur au moins (Chris Lawson (WAS)),2143,72898,1810054720,4740122863,88+,88+,3.1,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Chris Lawson,Verges de réception du joueur au moins (Chris Lawson (WAS)),2143,72898,1810054720,4740122864,98+,98+,3.85,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Chris Lawson,Verges de réception du joueur au moins (Chris Lawson (WAS)),2143,72898,1810054720,4740122865,108+,108+,5.0,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Chris Lawson,Verges de réception du joueur au moins (Chris Lawson (WAS)),2143,72898,1810054720,4740122866,118+,118+,6.25,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Chris Lawson,Verges de réception du joueur au moins (Chris Lawson (WAS)),2143,72898,1810054720,4740122867,128+,128+,8.5,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Chris Lawson,Verges de réception du joueur au moins (Chris Lawson (WAS)),2143,72898,1810054720,4740122868,138+,138+,11.0,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Chris Lawson,Verges de réception du joueur au moins (Chris Lawson (WAS)),2143,72898,1810054720,4740122869,48+,48+,1.5,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Kwazi Gilmer,Verges de réception du joueur au moins (Kwazi Gilmer (NEB)),2143,72898,1810054729,4740122916,67+,67+,1.9091,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Kwazi Gilmer,Verges de réception du joueur au moins (Kwazi Gilmer (NEB)),2143,72898,1810054729,4740122917,77+,77+,2.15,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Kwazi Gilmer,Verges de réception du joueur au moins (Kwazi Gilmer (NEB)),2143,72898,1810054729,4740122918,87+,87+,2.55,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Kwazi Gilmer,Verges de réception du joueur au moins (Kwazi Gilmer (NEB)),2143,72898,1810054729,4740122919,97+,97+,3.0,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Kwazi Gilmer,Verges de réception du joueur au moins (Kwazi Gilmer (NEB)),2143,72898,1810054729,4740122920,107+,107+,3.6,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Kwazi Gilmer,Verges de réception du joueur au moins (Kwazi Gilmer (NEB)),2143,72898,1810054729,4740122921,117+,117+,4.4,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Kwazi Gilmer,Verges de réception du joueur au moins (Kwazi Gilmer (NEB)),2143,72898,1810054729,4740122922,127+,127+,5.5,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Kwazi Gilmer,Verges de réception du joueur au moins (Kwazi Gilmer (NEB)),2143,72898,1810054729,4740122923,137+,137+,7.0,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Kwazi Gilmer,Verges de réception du joueur au moins (Kwazi Gilmer (NEB)),2143,72898,1810054729,4740122925,57+,57+,1.5556,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Dezmen Roebuck,Verges de réception du joueur au moins (Dezmen Roebuck (WAS)),2143,72898,1810054721,4740281876,60+,60+,1.9524,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Dezmen Roebuck,Verges de réception du joueur au moins (Dezmen Roebuck (WAS)),2143,72898,1810054721,4740281877,70+,70+,2.25,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Dezmen Roebuck,Verges de réception du joueur au moins (Dezmen Roebuck (WAS)),2143,72898,1810054721,4740281878,80+,80+,2.7,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Dezmen Roebuck,Verges de réception du joueur au moins (Dezmen Roebuck (WAS)),2143,72898,1810054721,4740281879,90+,90+,3.3,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Dezmen Roebuck,Verges de réception du joueur au moins (Dezmen Roebuck (WAS)),2143,72898,1810054721,4740281880,100+,100+,4.0,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Dezmen Roebuck,Verges de réception du joueur au moins (Dezmen Roebuck (WAS)),2143,72898,1810054721,4740281881,110+,110+,5.25,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Dezmen Roebuck,Verges de réception du joueur au moins (Dezmen Roebuck (WAS)),2143,72898,1810054721,4740281882,120+,120+,6.75,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Dezmen Roebuck,Verges de réception du joueur au moins (Dezmen Roebuck (WAS)),2143,72898,1810054721,4740281885,50+,50+,1.5715,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Mekhi Nelson,Verges de réception du joueur au moins (Mekhi Nelson (NEB)),2143,72898,1810054554,4740122467,16+,16+,2.35,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Mekhi Nelson,Verges de réception du joueur au moins (Mekhi Nelson (NEB)),2143,72898,1810054554,4740122468,26+,26+,3.0,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Mekhi Nelson,Verges de réception du joueur au moins (Mekhi Nelson (NEB)),2143,72898,1810054554,4740122469,36+,36+,4.0,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Mekhi Nelson,Verges de réception du joueur au moins (Mekhi Nelson (NEB)),2143,72898,1810054554,4740122470,46+,46+,5.5,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Mekhi Nelson,Verges de réception du joueur au moins (Mekhi Nelson (NEB)),2143,72898,1810054554,4740122471,56+,56+,7.75,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Mekhi Nelson,Verges de réception du joueur au moins (Mekhi Nelson (NEB)),2143,72898,1810054554,4740122472,66+,66+,12.0,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Mekhi Nelson,Verges de réception du joueur au moins (Mekhi Nelson (NEB)),2143,72898,1810054554,4740122473,76+,76+,18.0,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Mekhi Nelson,Verges de réception du joueur au moins (Mekhi Nelson (NEB)),2143,72898,1810054554,4740122474,86+,86+,31.0,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Jamal Rule,Verges de réception du joueur au moins (Jamal Rule (NEB)),2143,72898,1810054792,4740123115,16+,16+,2.35,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Jamal Rule,Verges de réception du joueur au moins (Jamal Rule (NEB)),2143,72898,1810054792,4740123116,26+,26+,3.0,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Jamal Rule,Verges de réception du joueur au moins (Jamal Rule (NEB)),2143,72898,1810054792,4740123117,36+,36+,4.0,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Jamal Rule,Verges de réception du joueur au moins (Jamal Rule (NEB)),2143,72898,1810054792,4740123118,46+,46+,5.5,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Jamal Rule,Verges de réception du joueur au moins (Jamal Rule (NEB)),2143,72898,1810054792,4740123119,56+,56+,8.0,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Jamal Rule,Verges de réception du joueur au moins (Jamal Rule (NEB)),2143,72898,1810054792,4740123120,66+,66+,12.0,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Jamal Rule,Verges de réception du joueur au moins (Jamal Rule (NEB)),2143,72898,1810054792,4740123121,76+,76+,19.0,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Jamal Rule,Verges de réception du joueur au moins (Jamal Rule (NEB)),2143,72898,1810054792,4740123122,86+,86+,31.0,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Brian Bonner Jr.,Verges de réception du joueur au moins (Brian Bonner Jr. (WAS)),2143,72898,1810054879,4740123352,17+,17+,2.4,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Brian Bonner Jr.,Verges de réception du joueur au moins (Brian Bonner Jr. (WAS)),2143,72898,1810054879,4740123353,27+,27+,3.1,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Brian Bonner Jr.,Verges de réception du joueur au moins (Brian Bonner Jr. (WAS)),2143,72898,1810054879,4740123354,37+,37+,4.0,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Brian Bonner Jr.,Verges de réception du joueur au moins (Brian Bonner Jr. (WAS)),2143,72898,1810054879,4740123355,47+,47+,5.75,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Brian Bonner Jr.,Verges de réception du joueur au moins (Brian Bonner Jr. (WAS)),2143,72898,1810054879,4740123356,57+,57+,8.5,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Brian Bonner Jr.,Verges de réception du joueur au moins (Brian Bonner Jr. (WAS)),2143,72898,1810054879,4740123357,67+,67+,13.0,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Brian Bonner Jr.,Verges de réception du joueur au moins (Brian Bonner Jr. (WAS)),2143,72898,1810054879,4740123358,77+,77+,20.0,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Brian Bonner Jr.,Verges de réception du joueur au moins (Brian Bonner Jr. (WAS)),2143,72898,1810054879,4740123359,87+,87+,31.0,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Anthony Colandrea,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1786803403,4668703994,Anthony Colandrea (Neb) Plus de 1.5,Anthony Colandrea (Neb) Plus de 1.5,1.9091,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Anthony Colandrea,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1786803403,4668703995,Anthony Colandrea (Neb) moins de 1.5,Anthony Colandrea (Neb) moins de 1.5,1.7143,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Kwazi Gilmer,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1808842660,4735994265,Kwazi Gilmer (Neb) Plus de 67.5,Kwazi Gilmer (Neb) Plus de 67.5,1.7693,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Kwazi Gilmer,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1808842660,4735994266,Kwazi Gilmer (Neb) moins de 67.5,Kwazi Gilmer (Neb) moins de 67.5,1.8334,0,False
 17956182,Nebraska Cornhuskers vs. Washington Huskies,Dezmen Roebuck,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1800488453,4710260587,Dezmen Roebuck (UW) Plus de 57.5,Dezmen Roebuck (UW) Plus de 57.5,1.8334,0,False
 17956182,Nebraska Cornhuskers vs. Washington Huskies,Dezmen Roebuck,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1800488453,4710260588,Dezmen Roebuck (UW) moins de 57.5,Dezmen Roebuck (UW) moins de 57.5,1.7693,0,False
-17956182,Nebraska Cornhuskers vs. Washington Huskies,Jacory Barney Jr.,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1793685057,4689909280,Jacory Barney Jr. (Neb) moins de 46.5,Jacory Barney Jr. (Neb) moins de 46.5,1.7693,0,False
-17956182,Nebraska Cornhuskers vs. Washington Huskies,Jacory Barney Jr.,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1793685057,4689909279,Jacory Barney Jr. (Neb) Plus de 46.5,Jacory Barney Jr. (Neb) Plus de 46.5,1.8334,0,False
-17956182,Nebraska Cornhuskers vs. Washington Huskies,Nyziah Hunter,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1805050255,4723605958,Nyziah Hunter (Neb) Plus de 37.5,Nyziah Hunter (Neb) Plus de 37.5,1.7693,0,False
-17956182,Nebraska Cornhuskers vs. Washington Huskies,Nyziah Hunter,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1805050255,4723605959,Nyziah Hunter (Neb) moins de 37.5,Nyziah Hunter (Neb) moins de 37.5,1.8334,0,False
-17956182,Nebraska Cornhuskers vs. Washington Huskies,Luke Lindenmeyer,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1805106932,4723871061,Luke Lindenmeyer (Neb) Plus de 28.5,Luke Lindenmeyer (Neb) Plus de 28.5,1.8334,0,False
-17956182,Nebraska Cornhuskers vs. Washington Huskies,Luke Lindenmeyer,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1805106932,4723871062,Luke Lindenmeyer (Neb) moins de 28.5,Luke Lindenmeyer (Neb) moins de 28.5,1.7693,0,False
-17956182,Nebraska Cornhuskers vs. Washington Huskies,Rashid Williams,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1806851145,4729398478,Rashid Williams (UW) Plus de 28.5,Rashid Williams (UW) Plus de 28.5,1.8334,0,False
-17956182,Nebraska Cornhuskers vs. Washington Huskies,Rashid Williams,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1806851145,4729398479,Rashid Williams (UW) moins de 28.5,Rashid Williams (UW) moins de 28.5,1.7693,0,False
-17956182,Nebraska Cornhuskers vs. Washington Huskies,Baron Naone,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1806851146,4729398480,Baron Naone (UW) Plus de 20.5,Baron Naone (UW) Plus de 20.5,1.7693,0,False
-17956182,Nebraska Cornhuskers vs. Washington Huskies,Baron Naone,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1806851146,4729398481,Baron Naone (UW) moins de 20.5,Baron Naone (UW) moins de 20.5,1.8334,0,False
-17956182,Nebraska Cornhuskers vs. Washington Huskies,Jamal Rule,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1786803701,4668704590,Jamal Rule (Neb) Plus de 5.5,Jamal Rule (Neb) Plus de 5.5,1.7693,0,False
-17956182,Nebraska Cornhuskers vs. Washington Huskies,Jamal Rule,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1786803701,4668704591,Jamal Rule (Neb) moins de 5.5,Jamal Rule (Neb) moins de 5.5,1.8334,0,False
-17956182,Nebraska Cornhuskers vs. Washington Huskies,Jamal Rule,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1807085429,4730193514,Jamal Rule (Neb) Plus de 54.5,Jamal Rule (Neb) Plus de 54.5,1.7693,0,False
-17956182,Nebraska Cornhuskers vs. Washington Huskies,Jamal Rule,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1807085429,4730193515,Jamal Rule (Neb) moins de 54.5,Jamal Rule (Neb) moins de 54.5,1.8334,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Chris Lawson,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1808847530,4736006684,Chris Lawson (UW) Plus de 55.5,Chris Lawson (UW) Plus de 55.5,1.8334,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Chris Lawson,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1808847530,4736006685,Chris Lawson (UW) moins de 55.5,Chris Lawson (UW) moins de 55.5,1.7693,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Jacory Barney Jr.,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1808845315,4736001028,Jacory Barney Jr. (Neb) Plus de 38.5,Jacory Barney Jr. (Neb) Plus de 38.5,1.7693,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Jacory Barney Jr.,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1808845315,4736001029,Jacory Barney Jr. (Neb) moins de 38.5,Jacory Barney Jr. (Neb) moins de 38.5,1.8334,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Nyziah Hunter,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1805044447,4723592870,Nyziah Hunter (Neb) Plus de 34.5,Nyziah Hunter (Neb) Plus de 34.5,1.8334,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Nyziah Hunter,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1805044447,4723592871,Nyziah Hunter (Neb) moins de 34.5,Nyziah Hunter (Neb) moins de 34.5,1.7693,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Luke Lindenmeyer,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1805048981,4723602949,Luke Lindenmeyer (Neb) Plus de 26.5,Luke Lindenmeyer (Neb) Plus de 26.5,1.8,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Luke Lindenmeyer,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1805048981,4723602950,Luke Lindenmeyer (Neb) moins de 26.5,Luke Lindenmeyer (Neb) moins de 26.5,1.8,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Rashid Williams,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1808847849,4736007497,Rashid Williams (UW) Plus de 25.5,Rashid Williams (UW) Plus de 25.5,1.7693,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Rashid Williams,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1808847849,4736007498,Rashid Williams (UW) moins de 25.5,Rashid Williams (UW) moins de 25.5,1.8334,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Baron Naone,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1806851146,4729398480,Baron Naone (UW) Plus de 20.5,Baron Naone (UW) Plus de 20.5,1.8,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Baron Naone,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1806851146,4729398481,Baron Naone (UW) moins de 20.5,Baron Naone (UW) moins de 20.5,1.8,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Mekhi Nelson,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1789677423,4677145536,Mekhi Nelson (Neb) Plus de 5.5,Mekhi Nelson (Neb) Plus de 5.5,1.8334,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Mekhi Nelson,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1789677423,4677145537,Mekhi Nelson (Neb) moins de 5.5,Mekhi Nelson (Neb) moins de 5.5,1.7693,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Jamal Rule,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1787404474,4670500267,Jamal Rule (Neb) Plus de 4.5,Jamal Rule (Neb) Plus de 4.5,1.7693,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Jamal Rule,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1787404474,4670500268,Jamal Rule (Neb) moins de 4.5,Jamal Rule (Neb) moins de 4.5,1.8334,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Jamal Rule,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1808842954,4735995032,Jamal Rule (Neb) Plus de 58.5,Jamal Rule (Neb) Plus de 58.5,1.8334,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Jamal Rule,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1808842954,4735995033,Jamal Rule (Neb) moins de 58.5,Jamal Rule (Neb) moins de 58.5,1.7693,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Anthony Colandrea,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1808843452,4735996528,Anthony Colandrea (Neb) Plus de 44.5,Anthony Colandrea (Neb) Plus de 44.5,1.7693,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Anthony Colandrea,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1808843452,4735996529,Anthony Colandrea (Neb) moins de 44.5,Anthony Colandrea (Neb) moins de 44.5,1.8334,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Mekhi Nelson,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1808969541,4736437413,Mekhi Nelson (Neb) Plus de 33.5,Mekhi Nelson (Neb) Plus de 33.5,1.7693,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Mekhi Nelson,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1808969541,4736437414,Mekhi Nelson (Neb) moins de 33.5,Mekhi Nelson (Neb) moins de 33.5,1.8334,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Dezmen Roebuck,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1786803628,4668704444,Dezmen Roebuck (UW) Plus de 5.5,Dezmen Roebuck (UW) Plus de 5.5,1.625,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Dezmen Roebuck,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1786803628,4668704445,Dezmen Roebuck (UW) moins de 5.5,Dezmen Roebuck (UW) moins de 5.5,2.05,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Kwazi Gilmer,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1805043540,4723590364,Kwazi Gilmer (Neb) Plus de 5.5,Kwazi Gilmer (Neb) Plus de 5.5,2.05,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Kwazi Gilmer,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1805043540,4723590365,Kwazi Gilmer (Neb) moins de 5.5,Kwazi Gilmer (Neb) moins de 5.5,1.625,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Chris Lawson,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1786803591,4668704370,Chris Lawson (UW) Plus de 3.5,Chris Lawson (UW) Plus de 3.5,1.5715,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Chris Lawson,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1786803591,4668704371,Chris Lawson (UW) moins de 3.5,Chris Lawson (UW) moins de 3.5,2.15,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Jacory Barney Jr.,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1786803495,4668704178,Jacory Barney Jr. (Neb) Plus de 3.5,Jacory Barney Jr. (Neb) Plus de 3.5,2.0,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Jacory Barney Jr.,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1786803495,4668704179,Jacory Barney Jr. (Neb) moins de 3.5,Jacory Barney Jr. (Neb) moins de 3.5,1.6667,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Nyziah Hunter,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1787390905,4670467900,Nyziah Hunter (Neb) Plus de 3.5,Nyziah Hunter (Neb) Plus de 3.5,2.0,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Nyziah Hunter,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1787390905,4670467901,Nyziah Hunter (Neb) moins de 3.5,Nyziah Hunter (Neb) moins de 3.5,1.6667,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Luke Lindenmeyer,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1786803369,4668703926,Luke Lindenmeyer (Neb) Plus de 2.5,Luke Lindenmeyer (Neb) Plus de 2.5,1.5556,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Luke Lindenmeyer,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1786803369,4668703927,Luke Lindenmeyer (Neb) moins de 2.5,Luke Lindenmeyer (Neb) moins de 2.5,2.2,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Rashid Williams,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1786803396,4668703980,Rashid Williams (UW) Plus de 2.5,Rashid Williams (UW) Plus de 2.5,1.8696,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Rashid Williams,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1786803396,4668703981,Rashid Williams (UW) moins de 2.5,Rashid Williams (UW) moins de 2.5,1.7693,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Baron Naone,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1786803621,4668704430,Baron Naone (UW) Plus de 2.5,Baron Naone (UW) Plus de 2.5,1.9091,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Baron Naone,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1786803621,4668704431,Baron Naone (UW) moins de 2.5,Baron Naone (UW) moins de 2.5,1.7408,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Jamal Rule,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1786803703,4668704594,Jamal Rule (Neb) Plus de 1.5,Jamal Rule (Neb) Plus de 1.5,2.65,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Jamal Rule,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1786803703,4668704595,Jamal Rule (Neb) moins de 1.5,Jamal Rule (Neb) moins de 1.5,1.3847,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Mekhi Nelson,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1789677424,4677145538,Mekhi Nelson (Neb) Plus de 1.5,Mekhi Nelson (Neb) Plus de 1.5,2.65,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Mekhi Nelson,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1789677424,4677145539,Mekhi Nelson (Neb) moins de 1.5,Mekhi Nelson (Neb) moins de 1.5,1.3847,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Anthony Colandrea,"Passes complétées, Joueur (prolongations incluses)",760,71921,1805048984,4723602955,Anthony Colandrea (Neb) Plus de 19.5,Anthony Colandrea (Neb) Plus de 19.5,1.8696,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Anthony Colandrea,"Passes complétées, Joueur (prolongations incluses)",760,71921,1805048984,4723602956,Anthony Colandrea (Neb) moins de 19.5,Anthony Colandrea (Neb) moins de 19.5,1.7693,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Jamal Rule,Verges à la course et à la réception Plus/Moins (prolongation incluse),3317,73841,1809919438,4739778852,Jamal Rule (Neb) Plus de 67.5,Jamal Rule (Neb) Plus de 67.5,1.8334,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Jamal Rule,Verges à la course et à la réception Plus/Moins (prolongation incluse),3317,73841,1809919438,4739778853,Jamal Rule (Neb) moins de 67.5,Jamal Rule (Neb) moins de 67.5,1.8,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Mekhi Nelson,Verges à la course et à la réception Plus/Moins (prolongation incluse),3317,73841,1808945757,4736364749,Mekhi Nelson (Neb) Plus de 42.5,Mekhi Nelson (Neb) Plus de 42.5,1.8334,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Mekhi Nelson,Verges à la course et à la réception Plus/Moins (prolongation incluse),3317,73841,1808945757,4736364750,Mekhi Nelson (Neb) moins de 42.5,Mekhi Nelson (Neb) moins de 42.5,1.8,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Anthony Colandrea,Touchés par la passe du joueur au moins (Anthony Colandrea (NEB)),2138,72893,1810054732,4740122936,1+,1+,1.1819,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Anthony Colandrea,Touchés par la passe du joueur au moins (Anthony Colandrea (NEB)),2138,72893,1810054732,4740122933,2+,2+,1.8696,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Anthony Colandrea,Touchés par la passe du joueur au moins (Anthony Colandrea (NEB)),2138,72893,1810054732,4740122934,3+,3+,3.3,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Anthony Colandrea,Touchés par la passe du joueur au moins (Anthony Colandrea (NEB)),2138,72893,1810054732,4740122935,4+,4+,7.0,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Anthony Colandrea,Verges par la passe du joueur au moins (Anthony Colandrea (NEB)),2136,72891,1810054735,4740281888,235+,235+,2.1,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Anthony Colandrea,Verges par la passe du joueur au moins (Anthony Colandrea (NEB)),2136,72891,1810054735,4740281889,245+,245+,2.3,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Anthony Colandrea,Verges par la passe du joueur au moins (Anthony Colandrea (NEB)),2136,72891,1810054735,4740281890,255+,255+,2.55,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Anthony Colandrea,Verges par la passe du joueur au moins (Anthony Colandrea (NEB)),2136,72891,1810054735,4740281891,265+,265+,2.85,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Anthony Colandrea,Verges par la passe du joueur au moins (Anthony Colandrea (NEB)),2136,72891,1810054735,4740281892,275+,275+,3.3,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Anthony Colandrea,Verges par la passe du joueur au moins (Anthony Colandrea (NEB)),2136,72891,1810054735,4740281893,285+,285+,3.75,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Anthony Colandrea,Verges par la passe du joueur au moins (Anthony Colandrea (NEB)),2136,72891,1810054735,4740281894,295+,295+,4.3,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Anthony Colandrea,Verges par la passe du joueur au moins (Anthony Colandrea (NEB)),2136,72891,1810054735,4740281895,305+,305+,5.0,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Anthony Colandrea,Verges par la passe du joueur au moins (Anthony Colandrea (NEB)),2136,72891,1810054735,4740281896,315+,315+,5.75,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Anthony Colandrea,Verges par la passe du joueur au moins (Anthony Colandrea (NEB)),2136,72891,1810054735,4740281897,325+,325+,6.75,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Anthony Colandrea,Verges par la passe du joueur au moins (Anthony Colandrea (NEB)),2136,72891,1810054735,4740281898,335+,335+,8.5,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Anthony Colandrea,Verges par la passe du joueur au moins (Anthony Colandrea (NEB)),2136,72891,1810054735,4740281899,345+,345+,10.0,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Anthony Colandrea,Verges par la passe du joueur au moins (Anthony Colandrea (NEB)),2136,72891,1810054735,4740281900,355+,355+,12.0,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Anthony Colandrea,Verges par la passe du joueur au moins (Anthony Colandrea (NEB)),2136,72891,1810054735,4740281901,365+,365+,15.0,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Anthony Colandrea,Verges par la passe du joueur au moins (Anthony Colandrea (NEB)),2136,72891,1810054735,4740281902,215+,215+,1.7143,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Anthony Colandrea,Verges par la passe du joueur au moins (Anthony Colandrea (NEB)),2136,72891,1810054735,4740281903,205+,205+,1.5556,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Anthony Colandrea,Verges par la passe du joueur au moins (Anthony Colandrea (NEB)),2136,72891,1810054735,4740281887,225+,225+,1.9091,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Demond Williams,Verges par la passe du joueur au moins (Demond Williams (WAS)),2136,72891,1810054552,4740122440,231+,231+,1.8696,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Demond Williams,Verges par la passe du joueur au moins (Demond Williams (WAS)),2136,72891,1810054552,4740122441,241+,241+,2.05,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Demond Williams,Verges par la passe du joueur au moins (Demond Williams (WAS)),2136,72891,1810054552,4740122442,251+,251+,2.2,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Demond Williams,Verges par la passe du joueur au moins (Demond Williams (WAS)),2136,72891,1810054552,4740122443,261+,261+,2.4,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Demond Williams,Verges par la passe du joueur au moins (Demond Williams (WAS)),2136,72891,1810054552,4740122444,271+,271+,2.65,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Demond Williams,Verges par la passe du joueur au moins (Demond Williams (WAS)),2136,72891,1810054552,4740122445,281+,281+,2.95,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Demond Williams,Verges par la passe du joueur au moins (Demond Williams (WAS)),2136,72891,1810054552,4740122446,291+,291+,3.3,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Demond Williams,Verges par la passe du joueur au moins (Demond Williams (WAS)),2136,72891,1810054552,4740122447,301+,301+,3.75,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Demond Williams,Verges par la passe du joueur au moins (Demond Williams (WAS)),2136,72891,1810054552,4740122448,311+,311+,4.25,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Demond Williams,Verges par la passe du joueur au moins (Demond Williams (WAS)),2136,72891,1810054552,4740122449,321+,321+,4.75,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Demond Williams,Verges par la passe du joueur au moins (Demond Williams (WAS)),2136,72891,1810054552,4740122450,331+,331+,5.5,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Demond Williams,Verges par la passe du joueur au moins (Demond Williams (WAS)),2136,72891,1810054552,4740122451,341+,341+,6.25,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Demond Williams,Verges par la passe du joueur au moins (Demond Williams (WAS)),2136,72891,1810054552,4740122452,351+,351+,7.25,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Demond Williams,Verges par la passe du joueur au moins (Demond Williams (WAS)),2136,72891,1810054552,4740122453,361+,361+,9.0,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Demond Williams,Verges par la passe du joueur au moins (Demond Williams (WAS)),2136,72891,1810054552,4740122454,371+,371+,10.0,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Demond Williams,Verges par la passe du joueur au moins (Demond Williams (WAS)),2136,72891,1810054552,4740122455,221+,221+,1.7143,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Demond Williams,Verges par la passe du joueur au moins (Demond Williams (WAS)),2136,72891,1810054552,4740122456,211+,211+,1.5556,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Mekhi Nelson,Verges au sol du joueur au moins (Mekhi Nelson (NEB)),2140,72895,1810054555,4740122475,34+,34+,1.8696,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Mekhi Nelson,Verges au sol du joueur au moins (Mekhi Nelson (NEB)),2140,72895,1810054555,4740122476,44+,44+,2.35,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Mekhi Nelson,Verges au sol du joueur au moins (Mekhi Nelson (NEB)),2140,72895,1810054555,4740122477,54+,54+,3.0,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Mekhi Nelson,Verges au sol du joueur au moins (Mekhi Nelson (NEB)),2140,72895,1810054555,4740122478,64+,64+,4.0,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Mekhi Nelson,Verges au sol du joueur au moins (Mekhi Nelson (NEB)),2140,72895,1810054555,4740122479,74+,74+,5.75,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Mekhi Nelson,Verges au sol du joueur au moins (Mekhi Nelson (NEB)),2140,72895,1810054555,4740122480,84+,84+,8.5,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Mekhi Nelson,Verges au sol du joueur au moins (Mekhi Nelson (NEB)),2140,72895,1810054555,4740122481,94+,94+,14.0,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Mekhi Nelson,Verges au sol du joueur au moins (Mekhi Nelson (NEB)),2140,72895,1810054555,4740122482,104+,104+,21.0,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Mekhi Nelson,Verges au sol du joueur au moins (Mekhi Nelson (NEB)),2140,72895,1810054555,4740122483,114+,114+,36.0,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Mekhi Nelson,Verges au sol du joueur au moins (Mekhi Nelson (NEB)),2140,72895,1810054555,4740122484,24+,24+,1.4,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Mekhi Nelson,Verges au sol du joueur au moins (Mekhi Nelson (NEB)),2140,72895,1810054555,4740122485,14+,14+,1.1539,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Anthony Colandrea,Verges au sol du joueur au moins (Anthony Colandrea (NEB)),2140,72895,1810054733,4740122944,114+,114+,26.0,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Anthony Colandrea,Verges au sol du joueur au moins (Anthony Colandrea (NEB)),2140,72895,1810054733,4740122945,34+,34+,1.4445,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Anthony Colandrea,Verges au sol du joueur au moins (Anthony Colandrea (NEB)),2140,72895,1810054733,4740122946,24+,24+,1.1819,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Anthony Colandrea,Verges au sol du joueur au moins (Anthony Colandrea (NEB)),2140,72895,1810054733,4740281886,124+,124+,51.0,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Anthony Colandrea,Verges au sol du joueur au moins (Anthony Colandrea (NEB)),2140,72895,1810054733,4740122937,44+,44+,1.9091,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Anthony Colandrea,Verges au sol du joueur au moins (Anthony Colandrea (NEB)),2140,72895,1810054733,4740122938,54+,54+,2.4,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Anthony Colandrea,Verges au sol du joueur au moins (Anthony Colandrea (NEB)),2140,72895,1810054733,4740122939,64+,64+,3.2,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Anthony Colandrea,Verges au sol du joueur au moins (Anthony Colandrea (NEB)),2140,72895,1810054733,4740122940,74+,74+,4.4,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Anthony Colandrea,Verges au sol du joueur au moins (Anthony Colandrea (NEB)),2140,72895,1810054733,4740122941,84+,84+,6.25,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Anthony Colandrea,Verges au sol du joueur au moins (Anthony Colandrea (NEB)),2140,72895,1810054733,4740122942,94+,94+,10.0,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Anthony Colandrea,Verges au sol du joueur au moins (Anthony Colandrea (NEB)),2140,72895,1810054733,4740122943,104+,104+,16.0,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Brian Bonner Jr.,Verges au sol du joueur au moins (Brian Bonner Jr. (WAS)),2140,72895,1810054878,4740123341,46+,46+,1.8696,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Brian Bonner Jr.,Verges au sol du joueur au moins (Brian Bonner Jr. (WAS)),2140,72895,1810054878,4740123342,56+,56+,2.2,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Brian Bonner Jr.,Verges au sol du joueur au moins (Brian Bonner Jr. (WAS)),2140,72895,1810054878,4740123343,66+,66+,2.6,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Brian Bonner Jr.,Verges au sol du joueur au moins (Brian Bonner Jr. (WAS)),2140,72895,1810054878,4740123344,76+,76+,3.2,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Brian Bonner Jr.,Verges au sol du joueur au moins (Brian Bonner Jr. (WAS)),2140,72895,1810054878,4740123345,86+,86+,4.0,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Brian Bonner Jr.,Verges au sol du joueur au moins (Brian Bonner Jr. (WAS)),2140,72895,1810054878,4740123346,96+,96+,5.25,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Brian Bonner Jr.,Verges au sol du joueur au moins (Brian Bonner Jr. (WAS)),2140,72895,1810054878,4740123347,106+,106+,6.75,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Brian Bonner Jr.,Verges au sol du joueur au moins (Brian Bonner Jr. (WAS)),2140,72895,1810054878,4740123348,116+,116+,9.0,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Brian Bonner Jr.,Verges au sol du joueur au moins (Brian Bonner Jr. (WAS)),2140,72895,1810054878,4740123349,126+,126+,13.0,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Brian Bonner Jr.,Verges au sol du joueur au moins (Brian Bonner Jr. (WAS)),2140,72895,1810054878,4740123350,36+,36+,1.4762,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Brian Bonner Jr.,Verges au sol du joueur au moins (Brian Bonner Jr. (WAS)),2140,72895,1810054878,4740123351,26+,26+,1.25,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Jamal Rule,Verges au sol du joueur au moins (Jamal Rule (NEB)),2140,72895,1810054790,4740123104,89+,89+,3.1,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Jamal Rule,Verges au sol du joueur au moins (Jamal Rule (NEB)),2140,72895,1810054790,4740123105,99+,99+,3.75,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Jamal Rule,Verges au sol du joueur au moins (Jamal Rule (NEB)),2140,72895,1810054790,4740123106,109+,109+,4.5,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Jamal Rule,Verges au sol du joueur au moins (Jamal Rule (NEB)),2140,72895,1810054790,4740123107,119+,119+,5.75,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Jamal Rule,Verges au sol du joueur au moins (Jamal Rule (NEB)),2140,72895,1810054790,4740123108,129+,129+,7.5,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Jamal Rule,Verges au sol du joueur au moins (Jamal Rule (NEB)),2140,72895,1810054790,4740123109,139+,139+,10.0,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Jamal Rule,Verges au sol du joueur au moins (Jamal Rule (NEB)),2140,72895,1810054790,4740123110,49+,49+,1.6061,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Jamal Rule,Verges au sol du joueur au moins (Jamal Rule (NEB)),2140,72895,1810054790,4740123111,39+,39+,1.3847,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Jamal Rule,Verges au sol du joueur au moins (Jamal Rule (NEB)),2140,72895,1810054790,4740123101,59+,59+,1.9091,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Jamal Rule,Verges au sol du joueur au moins (Jamal Rule (NEB)),2140,72895,1810054790,4740123102,69+,69+,2.2,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Jamal Rule,Verges au sol du joueur au moins (Jamal Rule (NEB)),2140,72895,1810054790,4740123103,79+,79+,2.55,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Luke Lindenmeyer,Joueur total de réception (Luke Lindenmeyer (NEB)) (incl. OT),2142,72897,1810054500,4740122304,8+,8+,19.0,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Luke Lindenmeyer,Joueur total de réception (Luke Lindenmeyer (NEB)) (incl. OT),2142,72897,1810054500,4740122305,2+,2+,1.1334,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Luke Lindenmeyer,Joueur total de réception (Luke Lindenmeyer (NEB)) (incl. OT),2142,72897,1810054500,4740122299,3+,3+,1.6471,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Luke Lindenmeyer,Joueur total de réception (Luke Lindenmeyer (NEB)) (incl. OT),2142,72897,1810054500,4740122300,4+,4+,2.35,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Luke Lindenmeyer,Joueur total de réception (Luke Lindenmeyer (NEB)) (incl. OT),2142,72897,1810054500,4740122301,5+,5+,3.5,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Luke Lindenmeyer,Joueur total de réception (Luke Lindenmeyer (NEB)) (incl. OT),2142,72897,1810054500,4740122302,6+,6+,5.75,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Luke Lindenmeyer,Joueur total de réception (Luke Lindenmeyer (NEB)) (incl. OT),2142,72897,1810054500,4740122303,7+,7+,10.0,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Dezmen Roebuck,Joueur total de réception (Dezmen Roebuck (WAS)) (incl. OT),2142,72897,1810054722,4740122880,6+,6+,1.8,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Dezmen Roebuck,Joueur total de réception (Dezmen Roebuck (WAS)) (incl. OT),2142,72897,1810054722,4740122881,7+,7+,2.45,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Dezmen Roebuck,Joueur total de réception (Dezmen Roebuck (WAS)) (incl. OT),2142,72897,1810054722,4740122882,8+,8+,3.6,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Dezmen Roebuck,Joueur total de réception (Dezmen Roebuck (WAS)) (incl. OT),2142,72897,1810054722,4740122883,9+,9+,5.75,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Dezmen Roebuck,Joueur total de réception (Dezmen Roebuck (WAS)) (incl. OT),2142,72897,1810054722,4740122884,10+,10+,10.0,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Dezmen Roebuck,Joueur total de réception (Dezmen Roebuck (WAS)) (incl. OT),2142,72897,1810054722,4740122885,11+,11+,18.0,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Dezmen Roebuck,Joueur total de réception (Dezmen Roebuck (WAS)) (incl. OT),2142,72897,1810054722,4740122886,5+,5+,1.2667,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Rashid Williams,Joueur total de réception (Rashid Williams (WAS)) (incl. OT),2142,72897,1810054508,4740122341,3+,3+,1.9524,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Rashid Williams,Joueur total de réception (Rashid Williams (WAS)) (incl. OT),2142,72897,1810054508,4740122342,4+,4+,2.95,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Rashid Williams,Joueur total de réception (Rashid Williams (WAS)) (incl. OT),2142,72897,1810054508,4740122343,5+,5+,5.0,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Rashid Williams,Joueur total de réception (Rashid Williams (WAS)) (incl. OT),2142,72897,1810054508,4740122344,6+,6+,10.0,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Rashid Williams,Joueur total de réception (Rashid Williams (WAS)) (incl. OT),2142,72897,1810054508,4740122345,7+,7+,20.0,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Rashid Williams,Joueur total de réception (Rashid Williams (WAS)) (incl. OT),2142,72897,1810054508,4740122346,8+,8+,41.0,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Rashid Williams,Joueur total de réception (Rashid Williams (WAS)) (incl. OT),2142,72897,1810054508,4740122347,2+,2+,1.2858,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Baron Naone,Joueur total de réception (Baron Naone (WAS)) (incl. OT),2142,72897,1810054731,4740122927,3+,3+,2.0,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Baron Naone,Joueur total de réception (Baron Naone (WAS)) (incl. OT),2142,72897,1810054731,4740122928,4+,4+,3.1,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Baron Naone,Joueur total de réception (Baron Naone (WAS)) (incl. OT),2142,72897,1810054731,4740122929,5+,5+,5.5,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Baron Naone,Joueur total de réception (Baron Naone (WAS)) (incl. OT),2142,72897,1810054731,4740122930,6+,6+,11.0,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Baron Naone,Joueur total de réception (Baron Naone (WAS)) (incl. OT),2142,72897,1810054731,4740122931,7+,7+,26.0,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Baron Naone,Joueur total de réception (Baron Naone (WAS)) (incl. OT),2142,72897,1810054731,4740122932,2+,2+,1.2858,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Nyziah Hunter,Joueur total de réception (Nyziah Hunter (NEB)) (incl. OT),2142,72897,1810054644,4740122681,4+,4+,2.0,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Nyziah Hunter,Joueur total de réception (Nyziah Hunter (NEB)) (incl. OT),2142,72897,1810054644,4740122682,5+,5+,2.85,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Nyziah Hunter,Joueur total de réception (Nyziah Hunter (NEB)) (incl. OT),2142,72897,1810054644,4740122683,6+,6+,4.5,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Nyziah Hunter,Joueur total de réception (Nyziah Hunter (NEB)) (incl. OT),2142,72897,1810054644,4740122684,7+,7+,7.75,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Nyziah Hunter,Joueur total de réception (Nyziah Hunter (NEB)) (incl. OT),2142,72897,1810054644,4740122685,8+,8+,15.0,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Nyziah Hunter,Joueur total de réception (Nyziah Hunter (NEB)) (incl. OT),2142,72897,1810054644,4740122686,9+,9+,26.0,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Nyziah Hunter,Joueur total de réception (Nyziah Hunter (NEB)) (incl. OT),2142,72897,1810054644,4740122687,3+,3+,1.3077,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Jacory Barney Jr.,Joueur total de réception (Jacory Barney Jr. (NEB)) (incl. OT),2142,72897,1810054551,4740122433,4+,4+,2.0,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Jacory Barney Jr.,Joueur total de réception (Jacory Barney Jr. (NEB)) (incl. OT),2142,72897,1810054551,4740122434,5+,5+,2.6,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Jacory Barney Jr.,Joueur total de réception (Jacory Barney Jr. (NEB)) (incl. OT),2142,72897,1810054551,4740122435,6+,6+,3.6,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Jacory Barney Jr.,Joueur total de réception (Jacory Barney Jr. (NEB)) (incl. OT),2142,72897,1810054551,4740122436,7+,7+,5.25,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Jacory Barney Jr.,Joueur total de réception (Jacory Barney Jr. (NEB)) (incl. OT),2142,72897,1810054551,4740122437,8+,8+,8.5,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Jacory Barney Jr.,Joueur total de réception (Jacory Barney Jr. (NEB)) (incl. OT),2142,72897,1810054551,4740122438,9+,9+,14.0,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Jacory Barney Jr.,Joueur total de réception (Jacory Barney Jr. (NEB)) (incl. OT),2142,72897,1810054551,4740122439,3+,3+,1.3449,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Chris Lawson,Joueur total de réception (Chris Lawson (WAS)) (incl. OT),2142,72897,1810054642,4740122671,5+,5+,2.2,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Chris Lawson,Joueur total de réception (Chris Lawson (WAS)) (incl. OT),2142,72897,1810054642,4740122672,6+,6+,3.1,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Chris Lawson,Joueur total de réception (Chris Lawson (WAS)) (incl. OT),2142,72897,1810054642,4740122673,7+,7+,4.75,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Chris Lawson,Joueur total de réception (Chris Lawson (WAS)) (incl. OT),2142,72897,1810054642,4740122674,8+,8+,8.0,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Chris Lawson,Joueur total de réception (Chris Lawson (WAS)) (incl. OT),2142,72897,1810054642,4740122675,9+,9+,15.0,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Chris Lawson,Joueur total de réception (Chris Lawson (WAS)) (incl. OT),2142,72897,1810054642,4740122676,10+,10+,26.0,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Chris Lawson,Joueur total de réception (Chris Lawson (WAS)) (incl. OT),2142,72897,1810054642,4740122677,4+,4+,1.4348,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Kwazi Gilmer,Joueur total de réception (Kwazi Gilmer (NEB)) (incl. OT),2142,72897,1810054727,4740122912,5+,5+,1.5,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Kwazi Gilmer,Joueur total de réception (Kwazi Gilmer (NEB)) (incl. OT),2142,72897,1810054727,4740122906,6+,6+,2.1,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Kwazi Gilmer,Joueur total de réception (Kwazi Gilmer (NEB)) (incl. OT),2142,72897,1810054727,4740122907,7+,7+,2.7,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Kwazi Gilmer,Joueur total de réception (Kwazi Gilmer (NEB)) (incl. OT),2142,72897,1810054727,4740122908,8+,8+,3.75,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Kwazi Gilmer,Joueur total de réception (Kwazi Gilmer (NEB)) (incl. OT),2142,72897,1810054727,4740122909,9+,9+,5.25,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Kwazi Gilmer,Joueur total de réception (Kwazi Gilmer (NEB)) (incl. OT),2142,72897,1810054727,4740122910,10+,10+,8.5,0,False
+17956182,Nebraska Cornhuskers vs. Washington Huskies,Kwazi Gilmer,Joueur total de réception (Kwazi Gilmer (NEB)) (incl. OT),2142,72897,1810054727,4740122911,11+,11+,13.0,0,False

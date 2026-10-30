@@ -1,19 +1,135 @@
 event_id,match,player,market,market_type_id,sport_market_id,child_market_id,odd_id,selection,line,price,odd_status,is_main_bet
-17332042,GEORGIE BULLDOGS vs. Florida Gators,Gunner Stockton,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1803207583,4718070625,Gunner Stockton (UGa) Plus de 245.5,Gunner Stockton (UGa) Plus de 245.5,1.7693,0,True
-17332042,GEORGIE BULLDOGS vs. Florida Gators,Gunner Stockton,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1803207583,4718070626,Gunner Stockton (UGa) moins de 245.5,Gunner Stockton (UGa) moins de 245.5,1.8334,0,True
-17332042,GEORGIE BULLDOGS vs. Florida Gators,Gunner Stockton,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1786065802,4666713941,Gunner Stockton (UGa) Plus de 1.5,Gunner Stockton (UGa) Plus de 1.5,1.5,0,False
-17332042,GEORGIE BULLDOGS vs. Florida Gators,Gunner Stockton,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1786065802,4666713942,Gunner Stockton (UGa) moins de 1.5,Gunner Stockton (UGa) moins de 1.5,2.25,0,False
-17332042,GEORGIE BULLDOGS vs. Florida Gators,Craig Dandridge,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1803206677,4718068568,Craig Dandridge (UGa) moins de 45.5,Craig Dandridge (UGa) moins de 45.5,1.7693,0,False
-17332042,GEORGIE BULLDOGS vs. Florida Gators,Craig Dandridge,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1803206677,4718068567,Craig Dandridge (UGa) Plus de 45.5,Craig Dandridge (UGa) Plus de 45.5,1.8334,0,False
-17332042,GEORGIE BULLDOGS vs. Florida Gators,Talyn Taylor,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1803206674,4718068561,Talyn Taylor (UGa) Plus de 45.5,Talyn Taylor (UGa) Plus de 45.5,1.8334,0,False
-17332042,GEORGIE BULLDOGS vs. Florida Gators,Talyn Taylor,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1803206674,4718068562,Talyn Taylor (UGa) moins de 45.5,Talyn Taylor (UGa) moins de 45.5,1.7693,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Gunner Stockton,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1803206664,4718068541,Gunner Stockton (UGa) Plus de 246.5,Gunner Stockton (UGa) Plus de 246.5,1.7693,0,True
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Gunner Stockton,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1803206664,4718068542,Gunner Stockton (UGa) moins de 246.5,Gunner Stockton (UGa) moins de 246.5,1.8334,0,True
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Lawson Luckie,Verges de réception du joueur au moins (Lawson Luckie (UGA)),2143,72898,1804179827,4740174681,82+,82+,10.0,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Lawson Luckie,Verges de réception du joueur au moins (Lawson Luckie (UGA)),2143,72898,1804179827,4740174675,22+,22+,1.8696,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Lawson Luckie,Verges de réception du joueur au moins (Lawson Luckie (UGA)),2143,72898,1804179827,4740174676,32+,32+,2.25,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Lawson Luckie,Verges de réception du joueur au moins (Lawson Luckie (UGA)),2143,72898,1804179827,4740174677,42+,42+,2.85,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Lawson Luckie,Verges de réception du joueur au moins (Lawson Luckie (UGA)),2143,72898,1804179827,4740174678,52+,52+,3.75,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Lawson Luckie,Verges de réception du joueur au moins (Lawson Luckie (UGA)),2143,72898,1804179827,4740174679,62+,62+,5.0,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Lawson Luckie,Verges de réception du joueur au moins (Lawson Luckie (UGA)),2143,72898,1804179827,4740174808,12+,12+,1.3847,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Lawson Luckie,Verges de réception du joueur au moins (Lawson Luckie (UGA)),2143,72898,1804179827,4740174680,72+,72+,6.75,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Lawson Luckie,Verges de réception du joueur au moins (Lawson Luckie (UGA)),2143,72898,1804179827,4740174806,92+,92+,15.0,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,London Humphreys,Verges de réception du joueur au moins (London Humphreys (UGA)),2143,72898,1804179832,4721198946,32+,32+,1.8334,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,London Humphreys,Verges de réception du joueur au moins (London Humphreys (UGA)),2143,72898,1804179832,4721198947,42+,42+,2.2,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,London Humphreys,Verges de réception du joueur au moins (London Humphreys (UGA)),2143,72898,1804179832,4721198948,52+,52+,2.7,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,London Humphreys,Verges de réception du joueur au moins (London Humphreys (UGA)),2143,72898,1804179832,4721198949,62+,62+,3.4,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,London Humphreys,Verges de réception du joueur au moins (London Humphreys (UGA)),2143,72898,1804179832,4721198950,72+,72+,4.4,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,London Humphreys,Verges de réception du joueur au moins (London Humphreys (UGA)),2143,72898,1804179832,4721198951,82+,82+,5.75,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,London Humphreys,Verges de réception du joueur au moins (London Humphreys (UGA)),2143,72898,1804179832,4721198952,92+,92+,8.0,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,London Humphreys,Verges de réception du joueur au moins (London Humphreys (UGA)),2143,72898,1804179832,4721198954,112+,112+,17.0,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,London Humphreys,Verges de réception du joueur au moins (London Humphreys (UGA)),2143,72898,1804179832,4721198955,22+,22+,1.4445,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Talyn Taylor,Verges de réception du joueur au moins (Talyn Taylor (UGA)),2143,72898,1804179823,4721198854,45+,45+,1.9091,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Talyn Taylor,Verges de réception du joueur au moins (Talyn Taylor (UGA)),2143,72898,1804179823,4721198855,55+,55+,2.2,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Talyn Taylor,Verges de réception du joueur au moins (Talyn Taylor (UGA)),2143,72898,1804179823,4721198856,65+,65+,2.6,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Talyn Taylor,Verges de réception du joueur au moins (Talyn Taylor (UGA)),2143,72898,1804179823,4721198857,75+,75+,3.1,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Talyn Taylor,Verges de réception du joueur au moins (Talyn Taylor (UGA)),2143,72898,1804179823,4721198858,85+,85+,3.85,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Talyn Taylor,Verges de réception du joueur au moins (Talyn Taylor (UGA)),2143,72898,1804179823,4721198859,95+,95+,5.0,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Talyn Taylor,Verges de réception du joueur au moins (Talyn Taylor (UGA)),2143,72898,1804179823,4721198860,105+,105+,6.25,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Talyn Taylor,Verges de réception du joueur au moins (Talyn Taylor (UGA)),2143,72898,1804179823,4721198862,125+,125+,12.0,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Talyn Taylor,Verges de réception du joueur au moins (Talyn Taylor (UGA)),2143,72898,1804179823,4721198863,35+,35+,1.5,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Craig Dandridge,Verges de réception du joueur au moins (Craig Dandridge (UGA)),2143,72898,1804179826,4740140000,127+,127+,13.0,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Craig Dandridge,Verges de réception du joueur au moins (Craig Dandridge (UGA)),2143,72898,1804179826,4740140001,37+,37+,1.5264,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Craig Dandridge,Verges de réception du joueur au moins (Craig Dandridge (UGA)),2143,72898,1804179826,4740139992,47+,47+,1.9091,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Craig Dandridge,Verges de réception du joueur au moins (Craig Dandridge (UGA)),2143,72898,1804179826,4740139993,57+,57+,2.2,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Craig Dandridge,Verges de réception du joueur au moins (Craig Dandridge (UGA)),2143,72898,1804179826,4740139994,67+,67+,2.65,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Craig Dandridge,Verges de réception du joueur au moins (Craig Dandridge (UGA)),2143,72898,1804179826,4740139995,77+,77+,3.2,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Craig Dandridge,Verges de réception du joueur au moins (Craig Dandridge (UGA)),2143,72898,1804179826,4740139996,87+,87+,4.0,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Craig Dandridge,Verges de réception du joueur au moins (Craig Dandridge (UGA)),2143,72898,1804179826,4740139997,97+,97+,5.25,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Craig Dandridge,Verges de réception du joueur au moins (Craig Dandridge (UGA)),2143,72898,1804179826,4740139998,107+,107+,6.75,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Craig Dandridge,Verges de réception du joueur au moins (Craig Dandridge (UGA)),2143,72898,1804179826,4740139999,117+,117+,9.0,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Jadan Baugh,Verges de réception du joueur au moins (Jadan Baugh (FLA)),2143,72898,1804179831,4736716064,39+,39+,4.4,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Jadan Baugh,Verges de réception du joueur au moins (Jadan Baugh (FLA)),2143,72898,1804179831,4736716065,49+,49+,6.25,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Jadan Baugh,Verges de réception du joueur au moins (Jadan Baugh (FLA)),2143,72898,1804179831,4736716066,59+,59+,10.0,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Jadan Baugh,Verges de réception du joueur au moins (Jadan Baugh (FLA)),2143,72898,1804179831,4736716067,69+,69+,16.0,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Jadan Baugh,Verges de réception du joueur au moins (Jadan Baugh (FLA)),2143,72898,1804179831,4736716068,79+,79+,26.0,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Jadan Baugh,Verges de réception du joueur au moins (Jadan Baugh (FLA)),2143,72898,1804179831,4736716069,89+,89+,51.0,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Jadan Baugh,Verges de réception du joueur au moins (Jadan Baugh (FLA)),2143,72898,1804179831,4736716062,19+,19+,2.4,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Jadan Baugh,Verges de réception du joueur au moins (Jadan Baugh (FLA)),2143,72898,1804179831,4736716063,29+,29+,3.2,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Gunner Stockton,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1786065802,4666713941,Gunner Stockton (UGa) Plus de 1.5,Gunner Stockton (UGa) Plus de 1.5,1.4445,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Gunner Stockton,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1786065802,4666713942,Gunner Stockton (UGa) moins de 1.5,Gunner Stockton (UGa) moins de 1.5,2.4,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Talyn Taylor,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1810127927,4740318864,Talyn Taylor (UGa) Plus de 46.5,Talyn Taylor (UGa) Plus de 46.5,1.8,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Talyn Taylor,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1810127927,4740318865,Talyn Taylor (UGa) moins de 46.5,Talyn Taylor (UGa) moins de 46.5,1.8,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Craig Dandridge,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1803206677,4718068568,Craig Dandridge (UGa) moins de 45.5,Craig Dandridge (UGa) moins de 45.5,1.8,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Craig Dandridge,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1803206677,4718068567,Craig Dandridge (UGa) Plus de 45.5,Craig Dandridge (UGa) Plus de 45.5,1.8,0,False
 17332042,GEORGIE BULLDOGS vs. Florida Gators,London Humphreys,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1786352099,4667472154,London Humphreys (UGa) Plus de 32.5,London Humphreys (UGa) Plus de 32.5,1.8334,0,False
 17332042,GEORGIE BULLDOGS vs. Florida Gators,London Humphreys,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1786352099,4667472155,London Humphreys (UGa) moins de 32.5,London Humphreys (UGa) moins de 32.5,1.7693,0,False
-17332042,GEORGIE BULLDOGS vs. Florida Gators,Lawson Luckie,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1787671402,4671253648,Lawson Luckie (UGa) Plus de 23.5,Lawson Luckie (UGa) Plus de 23.5,1.8334,0,False
-17332042,GEORGIE BULLDOGS vs. Florida Gators,Lawson Luckie,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1787671402,4671253649,Lawson Luckie (UGa) moins de 23.5,Lawson Luckie (UGa) moins de 23.5,1.7693,0,False
-17332042,GEORGIE BULLDOGS vs. Florida Gators,Jadan Baugh,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1802990265,4717538085,Jadan Baugh (Fla) Plus de 7.5,Jadan Baugh (Fla) Plus de 7.5,1.7693,0,False
-17332042,GEORGIE BULLDOGS vs. Florida Gators,Jadan Baugh,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1802990265,4717538086,Jadan Baugh (Fla) moins de 7.5,Jadan Baugh (Fla) moins de 7.5,1.8334,0,False
-17332042,GEORGIE BULLDOGS vs. Florida Gators,Jadan Baugh,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1803201363,4718055725,Jadan Baugh (Fla) Plus de 79.5,Jadan Baugh (Fla) Plus de 79.5,1.8334,0,False
-17332042,GEORGIE BULLDOGS vs. Florida Gators,Jadan Baugh,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1803201363,4718055726,Jadan Baugh (Fla) moins de 79.5,Jadan Baugh (Fla) moins de 79.5,1.7693,0,False
-17332042,GEORGIE BULLDOGS vs. Florida Gators,Gunner Stockton,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1786368764,4667510945,Gunner Stockton (UGa) Plus de 25.5,Gunner Stockton (UGa) Plus de 25.5,1.8334,0,False
-17332042,GEORGIE BULLDOGS vs. Florida Gators,Gunner Stockton,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1786368764,4667510946,Gunner Stockton (UGa) moins de 25.5,Gunner Stockton (UGa) moins de 25.5,1.7693,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Lawson Luckie,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1787111505,4669795320,Lawson Luckie (UGa) moins de 22.5,Lawson Luckie (UGa) moins de 22.5,1.8334,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Lawson Luckie,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1787111505,4669795319,Lawson Luckie (UGa) Plus de 22.5,Lawson Luckie (UGa) Plus de 22.5,1.7693,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Jadan Baugh,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1786065904,4666714145,Jadan Baugh (Fla) Plus de 8.5,Jadan Baugh (Fla) Plus de 8.5,1.7693,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Jadan Baugh,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1786065904,4666714146,Jadan Baugh (Fla) moins de 8.5,Jadan Baugh (Fla) moins de 8.5,1.8334,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Jadan Baugh,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1809902651,4739724227,Jadan Baugh (Fla) Plus de 83.5,Jadan Baugh (Fla) Plus de 83.5,1.8334,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Jadan Baugh,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1809902651,4739724228,Jadan Baugh (Fla) moins de 83.5,Jadan Baugh (Fla) moins de 83.5,1.7693,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Nate Frazier,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1786458604,4667725971,Nate Frazier (UGa) Plus de 58.5,Nate Frazier (UGa) Plus de 58.5,1.7693,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Nate Frazier,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1786458604,4667725972,Nate Frazier (UGa) moins de 58.5,Nate Frazier (UGa) moins de 58.5,1.8334,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Dwight Phillips Jr.,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1786065995,4666714328,Dwight Phillips Jr. (UGa) moins de 57.5,Dwight Phillips Jr. (UGa) moins de 57.5,1.8334,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Dwight Phillips Jr.,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1786065995,4666714327,Dwight Phillips Jr. (UGa) Plus de 57.5,Dwight Phillips Jr. (UGa) Plus de 57.5,1.7693,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Gunner Stockton,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1786368764,4667510945,Gunner Stockton (UGa) Plus de 25.5,Gunner Stockton (UGa) Plus de 25.5,1.7693,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Gunner Stockton,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1786368764,4667510946,Gunner Stockton (UGa) moins de 25.5,Gunner Stockton (UGa) moins de 25.5,1.8334,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Gunner Stockton,"Passes complétées, Joueur (prolongations incluses)",760,71921,1787111501,4669795312,Gunner Stockton (UGa) moins de 18.5,Gunner Stockton (UGa) moins de 18.5,1.8696,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Gunner Stockton,"Passes complétées, Joueur (prolongations incluses)",760,71921,1787111501,4669795311,Gunner Stockton (UGa) Plus de 18.5,Gunner Stockton (UGa) Plus de 18.5,1.7693,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Jadan Baugh,Verges à la course et à la réception Plus/Moins (prolongation incluse),3317,73841,1810130983,4740326394,Jadan Baugh (Fla) Plus de 96.5,Jadan Baugh (Fla) Plus de 96.5,1.8,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Jadan Baugh,Verges à la course et à la réception Plus/Moins (prolongation incluse),3317,73841,1810130983,4740326395,Jadan Baugh (Fla) moins de 96.5,Jadan Baugh (Fla) moins de 96.5,1.8334,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Gunner Stockton,Touchés par la passe du joueur au moins (Gunner Stockton (UGA)),2138,72893,1804179825,4721198875,2+,2+,1.5264,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Gunner Stockton,Touchés par la passe du joueur au moins (Gunner Stockton (UGA)),2138,72893,1804179825,4721198876,3+,3+,2.35,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Gunner Stockton,Touchés par la passe du joueur au moins (Gunner Stockton (UGA)),2138,72893,1804179825,4721198877,4+,4+,4.25,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Gunner Stockton,Touchés par la passe du joueur au moins (Gunner Stockton (UGA)),2138,72893,1804179825,4721198878,1+,1+,1.1112,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Gunner Stockton,Verges par la passe du joueur au moins (Gunner Stockton (UGA)),2136,72891,1804179828,4738982144,245+,245+,1.9091,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Gunner Stockton,Verges par la passe du joueur au moins (Gunner Stockton (UGA)),2136,72891,1804179828,4738982145,255+,255+,2.05,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Gunner Stockton,Verges par la passe du joueur au moins (Gunner Stockton (UGA)),2136,72891,1804179828,4738982146,265+,265+,2.3,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Gunner Stockton,Verges par la passe du joueur au moins (Gunner Stockton (UGA)),2136,72891,1804179828,4738982147,275+,275+,2.55,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Gunner Stockton,Verges par la passe du joueur au moins (Gunner Stockton (UGA)),2136,72891,1804179828,4738982148,285+,285+,2.85,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Gunner Stockton,Verges par la passe du joueur au moins (Gunner Stockton (UGA)),2136,72891,1804179828,4738982149,295+,295+,3.2,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Gunner Stockton,Verges par la passe du joueur au moins (Gunner Stockton (UGA)),2136,72891,1804179828,4738982150,305+,305+,3.75,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Gunner Stockton,Verges par la passe du joueur au moins (Gunner Stockton (UGA)),2136,72891,1804179828,4738982151,315+,315+,4.25,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Gunner Stockton,Verges par la passe du joueur au moins (Gunner Stockton (UGA)),2136,72891,1804179828,4738982152,325+,325+,5.0,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Gunner Stockton,Verges par la passe du joueur au moins (Gunner Stockton (UGA)),2136,72891,1804179828,4738982153,335+,335+,5.75,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Gunner Stockton,Verges par la passe du joueur au moins (Gunner Stockton (UGA)),2136,72891,1804179828,4738982154,345+,345+,6.75,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Gunner Stockton,Verges par la passe du joueur au moins (Gunner Stockton (UGA)),2136,72891,1804179828,4738982155,355+,355+,8.0,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Gunner Stockton,Verges par la passe du joueur au moins (Gunner Stockton (UGA)),2136,72891,1804179828,4738982156,365+,365+,10.0,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Gunner Stockton,Verges par la passe du joueur au moins (Gunner Stockton (UGA)),2136,72891,1804179828,4738982157,375+,375+,12.0,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Gunner Stockton,Verges par la passe du joueur au moins (Gunner Stockton (UGA)),2136,72891,1804179828,4738982158,385+,385+,15.0,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Gunner Stockton,Verges par la passe du joueur au moins (Gunner Stockton (UGA)),2136,72891,1804179828,4738982159,235+,235+,1.6897,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Gunner Stockton,Verges par la passe du joueur au moins (Gunner Stockton (UGA)),2136,72891,1804179828,4738982160,225+,225+,1.5556,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Nate Frazier,Verges au sol du joueur au moins (Nate Frazier (UGA)),2140,72895,1804179830,4740183488,74+,74+,2.65,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Nate Frazier,Verges au sol du joueur au moins (Nate Frazier (UGA)),2140,72895,1804179830,4740183489,84+,84+,3.2,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Nate Frazier,Verges au sol du joueur au moins (Nate Frazier (UGA)),2140,72895,1804179830,4740183490,94+,94+,4.0,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Nate Frazier,Verges au sol du joueur au moins (Nate Frazier (UGA)),2140,72895,1804179830,4740183491,104+,104+,5.25,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Nate Frazier,Verges au sol du joueur au moins (Nate Frazier (UGA)),2140,72895,1804179830,4740183492,114+,114+,6.75,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Nate Frazier,Verges au sol du joueur au moins (Nate Frazier (UGA)),2140,72895,1804179830,4740183493,124+,124+,9.0,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Nate Frazier,Verges au sol du joueur au moins (Nate Frazier (UGA)),2140,72895,1804179830,4740183494,134+,134+,13.0,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Nate Frazier,Verges au sol du joueur au moins (Nate Frazier (UGA)),2140,72895,1804179830,4740183495,44+,44+,1.5,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Nate Frazier,Verges au sol du joueur au moins (Nate Frazier (UGA)),2140,72895,1804179830,4740183496,34+,34+,1.2667,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Nate Frazier,Verges au sol du joueur au moins (Nate Frazier (UGA)),2140,72895,1804179830,4740183486,54+,54+,1.8696,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Nate Frazier,Verges au sol du joueur au moins (Nate Frazier (UGA)),2140,72895,1804179830,4740183487,64+,64+,2.2,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Dwight Phillips,Verges au sol du joueur au moins (Dwight Phillips (UGA)),2140,72895,1804179829,4737065649,57+,57+,1.9091,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Dwight Phillips,Verges au sol du joueur au moins (Dwight Phillips (UGA)),2140,72895,1804179829,4737065650,67+,67+,2.25,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Dwight Phillips,Verges au sol du joueur au moins (Dwight Phillips (UGA)),2140,72895,1804179829,4737065651,77+,77+,2.75,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Dwight Phillips,Verges au sol du joueur au moins (Dwight Phillips (UGA)),2140,72895,1804179829,4737065652,87+,87+,3.4,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Dwight Phillips,Verges au sol du joueur au moins (Dwight Phillips (UGA)),2140,72895,1804179829,4737065653,97+,97+,4.4,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Dwight Phillips,Verges au sol du joueur au moins (Dwight Phillips (UGA)),2140,72895,1804179829,4737065654,107+,107+,5.75,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Dwight Phillips,Verges au sol du joueur au moins (Dwight Phillips (UGA)),2140,72895,1804179829,4737065655,117+,117+,8.0,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Dwight Phillips,Verges au sol du joueur au moins (Dwight Phillips (UGA)),2140,72895,1804179829,4737065656,127+,127+,12.0,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Dwight Phillips,Verges au sol du joueur au moins (Dwight Phillips (UGA)),2140,72895,1804179829,4737065657,137+,137+,17.0,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Dwight Phillips,Verges au sol du joueur au moins (Dwight Phillips (UGA)),2140,72895,1804179829,4737065658,47+,47+,1.5264,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Dwight Phillips,Verges au sol du joueur au moins (Dwight Phillips (UGA)),2140,72895,1804179829,4737065659,37+,37+,1.3077,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Gunner Stockton,Verges au sol du joueur au moins (Gunner Stockton (UGA)),2140,72895,1804179822,4722874321,25+,25+,1.8696,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Gunner Stockton,Verges au sol du joueur au moins (Gunner Stockton (UGA)),2140,72895,1804179822,4722874322,35+,35+,2.45,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Gunner Stockton,Verges au sol du joueur au moins (Gunner Stockton (UGA)),2140,72895,1804179822,4722874323,45+,45+,3.4,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Gunner Stockton,Verges au sol du joueur au moins (Gunner Stockton (UGA)),2140,72895,1804179822,4722874324,55+,55+,5.0,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Gunner Stockton,Verges au sol du joueur au moins (Gunner Stockton (UGA)),2140,72895,1804179822,4722874325,65+,65+,7.75,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Gunner Stockton,Verges au sol du joueur au moins (Gunner Stockton (UGA)),2140,72895,1804179822,4722874326,75+,75+,13.0,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Gunner Stockton,Verges au sol du joueur au moins (Gunner Stockton (UGA)),2140,72895,1804179822,4722874327,85+,85+,21.0,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Gunner Stockton,Verges au sol du joueur au moins (Gunner Stockton (UGA)),2140,72895,1804179822,4722874328,95+,95+,41.0,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Gunner Stockton,Verges au sol du joueur au moins (Gunner Stockton (UGA)),2140,72895,1804179822,4722874329,15+,15+,1.3334,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Jadan Baugh,Verges au sol du joueur au moins (Jadan Baugh (FLA)),2140,72895,1804179824,4740174665,83+,83+,1.9091,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Jadan Baugh,Verges au sol du joueur au moins (Jadan Baugh (FLA)),2140,72895,1804179824,4740174666,93+,93+,2.1,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Jadan Baugh,Verges au sol du joueur au moins (Jadan Baugh (FLA)),2140,72895,1804179824,4740174667,103+,103+,2.4,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Jadan Baugh,Verges au sol du joueur au moins (Jadan Baugh (FLA)),2140,72895,1804179824,4740174668,113+,113+,2.75,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Jadan Baugh,Verges au sol du joueur au moins (Jadan Baugh (FLA)),2140,72895,1804179824,4740174669,123+,123+,3.2,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Jadan Baugh,Verges au sol du joueur au moins (Jadan Baugh (FLA)),2140,72895,1804179824,4740174670,133+,133+,3.85,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Jadan Baugh,Verges au sol du joueur au moins (Jadan Baugh (FLA)),2140,72895,1804179824,4740174671,153+,153+,5.5,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Jadan Baugh,Verges au sol du joueur au moins (Jadan Baugh (FLA)),2140,72895,1804179824,4740174672,163+,163+,6.75,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Jadan Baugh,Verges au sol du joueur au moins (Jadan Baugh (FLA)),2140,72895,1804179824,4740174673,73+,73+,1.625,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Jadan Baugh,Verges au sol du joueur au moins (Jadan Baugh (FLA)),2140,72895,1804179824,4740174674,63+,63+,1.4546,0,False
+17332042,GEORGIE BULLDOGS vs. Florida Gators,Jadan Baugh,Verges au sol du joueur au moins (Jadan Baugh (FLA)),2140,72895,1804179824,4740174805,143+,143+,4.5,0,False

@@ -1,35 +1,259 @@
 event_id,match,player,market,market_type_id,sport_market_id,child_market_id,odd_id,selection,line,price,odd_status,is_main_bet
-17956169,Cincinnati Bearcats vs. Utah Utes,Devon Dampier,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1808345600,4734494906,Devon Dampier (UTAH) Plus de 237.5,Devon Dampier (UTAH) Plus de 237.5,1.8334,0,True
-17956169,Cincinnati Bearcats vs. Utah Utes,Devon Dampier,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1808345600,4734494907,Devon Dampier (UTAH) moins de 237.5,Devon Dampier (UTAH) moins de 237.5,1.7693,0,True
-17956169,Cincinnati Bearcats vs. Utah Utes,JC French,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1803235949,4718187434,JC French (CIN) Plus de 186.5,JC French (CIN) Plus de 186.5,1.8,0,True
-17956169,Cincinnati Bearcats vs. Utah Utes,JC French,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1803235949,4718187435,JC French (CIN) moins de 186.5,JC French (CIN) moins de 186.5,1.8,0,True
+17956169,Cincinnati Bearcats vs. Utah Utes,Devon Dampier,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1804805945,4722942627,Devon Dampier (UTAH) Plus de 232.5,Devon Dampier (UTAH) Plus de 232.5,1.7693,0,True
+17956169,Cincinnati Bearcats vs. Utah Utes,Devon Dampier,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1804805945,4722942628,Devon Dampier (UTAH) moins de 232.5,Devon Dampier (UTAH) moins de 232.5,1.8334,0,True
+17956169,Cincinnati Bearcats vs. Utah Utes,JC French,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1810071633,4740168908,JC French (CIN) Plus de 197.5,JC French (CIN) Plus de 197.5,1.8334,0,True
+17956169,Cincinnati Bearcats vs. Utah Utes,JC French,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1810071633,4740168909,JC French (CIN) moins de 197.5,JC French (CIN) moins de 197.5,1.7693,0,True
+17956169,Cincinnati Bearcats vs. Utah Utes,Wayshawn Parker,Verges de réception du joueur au moins (Wayshawn Parker (UTH)),2143,72898,1806074957,4730839105,24+,24+,1.8696,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Wayshawn Parker,Verges de réception du joueur au moins (Wayshawn Parker (UTH)),2143,72898,1806074957,4730839106,34+,34+,2.3,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Wayshawn Parker,Verges de réception du joueur au moins (Wayshawn Parker (UTH)),2143,72898,1806074957,4730839107,44+,44+,2.85,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Wayshawn Parker,Verges de réception du joueur au moins (Wayshawn Parker (UTH)),2143,72898,1806074957,4730839108,54+,54+,3.75,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Wayshawn Parker,Verges de réception du joueur au moins (Wayshawn Parker (UTH)),2143,72898,1806074957,4730839109,64+,64+,5.0,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Wayshawn Parker,Verges de réception du joueur au moins (Wayshawn Parker (UTH)),2143,72898,1806074957,4730839110,74+,74+,7.0,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Wayshawn Parker,Verges de réception du joueur au moins (Wayshawn Parker (UTH)),2143,72898,1806074957,4730839111,84+,84+,10.0,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Wayshawn Parker,Verges de réception du joueur au moins (Wayshawn Parker (UTH)),2143,72898,1806074957,4730839112,94+,94+,15.0,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Wayshawn Parker,Verges de réception du joueur au moins (Wayshawn Parker (UTH)),2143,72898,1806074957,4730839113,104+,104+,21.0,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Wayshawn Parker,Verges de réception du joueur au moins (Wayshawn Parker (UTH)),2143,72898,1806074957,4730839114,14+,14+,1.3847,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Noah Bennee,Verges de réception du joueur au moins (Noah Bennee (UTH)),2143,72898,1806074952,4727329062,27+,27+,1.8696,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Noah Bennee,Verges de réception du joueur au moins (Noah Bennee (UTH)),2143,72898,1806074952,4727329063,37+,37+,2.3,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Noah Bennee,Verges de réception du joueur au moins (Noah Bennee (UTH)),2143,72898,1806074952,4727329064,47+,47+,2.95,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Noah Bennee,Verges de réception du joueur au moins (Noah Bennee (UTH)),2143,72898,1806074952,4727329065,57+,57+,3.85,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Noah Bennee,Verges de réception du joueur au moins (Noah Bennee (UTH)),2143,72898,1806074952,4727329066,67+,67+,5.25,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Noah Bennee,Verges de réception du joueur au moins (Noah Bennee (UTH)),2143,72898,1806074952,4727329067,77+,77+,7.75,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Noah Bennee,Verges de réception du joueur au moins (Noah Bennee (UTH)),2143,72898,1806074952,4727329068,87+,87+,12.0,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Noah Bennee,Verges de réception du joueur au moins (Noah Bennee (UTH)),2143,72898,1806074952,4727329069,97+,97+,18.0,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Noah Bennee,Verges de réception du joueur au moins (Noah Bennee (UTH)),2143,72898,1806074952,4727329070,107+,107+,31.0,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Noah Bennee,Verges de réception du joueur au moins (Noah Bennee (UTH)),2143,72898,1806074952,4727329071,17+,17+,1.4167,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Isaiah Johnson,Verges de réception du joueur au moins (Isaiah Johnson (CIN)),2143,72898,1806075066,4727275471,33+,33+,1.8696,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Isaiah Johnson,Verges de réception du joueur au moins (Isaiah Johnson (CIN)),2143,72898,1806075066,4727275472,43+,43+,2.25,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Isaiah Johnson,Verges de réception du joueur au moins (Isaiah Johnson (CIN)),2143,72898,1806075066,4727275473,53+,53+,2.7,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Isaiah Johnson,Verges de réception du joueur au moins (Isaiah Johnson (CIN)),2143,72898,1806075066,4727275474,63+,63+,3.4,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Isaiah Johnson,Verges de réception du joueur au moins (Isaiah Johnson (CIN)),2143,72898,1806075066,4727275475,73+,73+,4.4,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Isaiah Johnson,Verges de réception du joueur au moins (Isaiah Johnson (CIN)),2143,72898,1806075066,4727275476,83+,83+,6.0,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Isaiah Johnson,Verges de réception du joueur au moins (Isaiah Johnson (CIN)),2143,72898,1806075066,4727275477,93+,93+,8.5,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Isaiah Johnson,Verges de réception du joueur au moins (Isaiah Johnson (CIN)),2143,72898,1806075066,4727275478,103+,103+,12.0,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Isaiah Johnson,Verges de réception du joueur au moins (Isaiah Johnson (CIN)),2143,72898,1806075066,4727275479,113+,113+,17.0,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Isaiah Johnson,Verges de réception du joueur au moins (Isaiah Johnson (CIN)),2143,72898,1806075066,4727275480,23+,23+,1.4546,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Ricky Johnson,Verges de réception du joueur au moins (Ricky Johnson (UTH)),2143,72898,1806074951,4727275145,34+,34+,1.8696,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Ricky Johnson,Verges de réception du joueur au moins (Ricky Johnson (UTH)),2143,72898,1806074951,4727275146,44+,44+,2.25,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Ricky Johnson,Verges de réception du joueur au moins (Ricky Johnson (UTH)),2143,72898,1806074951,4727275147,54+,54+,2.75,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Ricky Johnson,Verges de réception du joueur au moins (Ricky Johnson (UTH)),2143,72898,1806074951,4727275148,64+,64+,3.5,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Ricky Johnson,Verges de réception du joueur au moins (Ricky Johnson (UTH)),2143,72898,1806074951,4727275149,74+,74+,4.5,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Ricky Johnson,Verges de réception du joueur au moins (Ricky Johnson (UTH)),2143,72898,1806074951,4727275150,84+,84+,6.0,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Ricky Johnson,Verges de réception du joueur au moins (Ricky Johnson (UTH)),2143,72898,1806074951,4727275151,94+,94+,8.5,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Ricky Johnson,Verges de réception du joueur au moins (Ricky Johnson (UTH)),2143,72898,1806074951,4727275152,104+,104+,12.0,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Ricky Johnson,Verges de réception du joueur au moins (Ricky Johnson (UTH)),2143,72898,1806074951,4727275153,114+,114+,18.0,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Ricky Johnson,Verges de réception du joueur au moins (Ricky Johnson (UTH)),2143,72898,1806074951,4727275154,24+,24+,1.4762,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,JaVonnie Gibson,Verges de réception du joueur au moins (JaVonnie Gibson (CIN)),2143,72898,1806075064,4728530465,40+,40+,1.5264,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,JaVonnie Gibson,Verges de réception du joueur au moins (JaVonnie Gibson (CIN)),2143,72898,1806075064,4728530456,50+,50+,1.9091,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,JaVonnie Gibson,Verges de réception du joueur au moins (JaVonnie Gibson (CIN)),2143,72898,1806075064,4728530457,60+,60+,2.25,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,JaVonnie Gibson,Verges de réception du joueur au moins (JaVonnie Gibson (CIN)),2143,72898,1806075064,4728530458,70+,70+,2.65,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,JaVonnie Gibson,Verges de réception du joueur au moins (JaVonnie Gibson (CIN)),2143,72898,1806075064,4728530459,80+,80+,3.2,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,JaVonnie Gibson,Verges de réception du joueur au moins (JaVonnie Gibson (CIN)),2143,72898,1806075064,4728530460,90+,90+,4.0,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,JaVonnie Gibson,Verges de réception du joueur au moins (JaVonnie Gibson (CIN)),2143,72898,1806075064,4728530461,100+,100+,5.25,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,JaVonnie Gibson,Verges de réception du joueur au moins (JaVonnie Gibson (CIN)),2143,72898,1806075064,4728530462,110+,110+,6.75,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,JaVonnie Gibson,Verges de réception du joueur au moins (JaVonnie Gibson (CIN)),2143,72898,1806075064,4728530463,120+,120+,9.0,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Malachi Henry,Verges de réception du joueur au moins (Malachi Henry (CIN)),2143,72898,1806074954,4731870831,32+,32+,1.9091,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Malachi Henry,Verges de réception du joueur au moins (Malachi Henry (CIN)),2143,72898,1806074954,4731870832,42+,42+,2.1,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Malachi Henry,Verges de réception du joueur au moins (Malachi Henry (CIN)),2143,72898,1806074954,4731870833,52+,52+,2.4,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Malachi Henry,Verges de réception du joueur au moins (Malachi Henry (CIN)),2143,72898,1806074954,4731870834,62+,62+,2.75,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Malachi Henry,Verges de réception du joueur au moins (Malachi Henry (CIN)),2143,72898,1806074954,4731870835,72+,72+,3.2,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Malachi Henry,Verges de réception du joueur au moins (Malachi Henry (CIN)),2143,72898,1806074954,4731870836,82+,82+,3.85,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Malachi Henry,Verges de réception du joueur au moins (Malachi Henry (CIN)),2143,72898,1806074954,4731870837,92+,92+,4.5,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Malachi Henry,Verges de réception du joueur au moins (Malachi Henry (CIN)),2143,72898,1806074954,4731870839,112+,112+,6.75,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Malachi Henry,Verges de réception du joueur au moins (Malachi Henry (CIN)),2143,72898,1806074954,4731870840,22+,22+,1.5264,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Creed Whittemore,Verges de réception du joueur au moins (Creed Whittemore (UTH)),2143,72898,1806075071,4727919877,48+,48+,1.9091,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Creed Whittemore,Verges de réception du joueur au moins (Creed Whittemore (UTH)),2143,72898,1806075071,4727919878,58+,58+,2.2,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Creed Whittemore,Verges de réception du joueur au moins (Creed Whittemore (UTH)),2143,72898,1806075071,4727919879,68+,68+,2.65,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Creed Whittemore,Verges de réception du joueur au moins (Creed Whittemore (UTH)),2143,72898,1806075071,4727919880,78+,78+,3.2,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Creed Whittemore,Verges de réception du joueur au moins (Creed Whittemore (UTH)),2143,72898,1806075071,4727919881,88+,88+,4.0,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Creed Whittemore,Verges de réception du joueur au moins (Creed Whittemore (UTH)),2143,72898,1806075071,4727919882,98+,98+,5.25,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Creed Whittemore,Verges de réception du joueur au moins (Creed Whittemore (UTH)),2143,72898,1806075071,4727919883,108+,108+,6.75,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Creed Whittemore,Verges de réception du joueur au moins (Creed Whittemore (UTH)),2143,72898,1806075071,4727919884,118+,118+,9.0,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Creed Whittemore,Verges de réception du joueur au moins (Creed Whittemore (UTH)),2143,72898,1806075071,4727919885,128+,128+,13.0,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Creed Whittemore,Verges de réception du joueur au moins (Creed Whittemore (UTH)),2143,72898,1806075071,4727919886,38+,38+,1.5264,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Braden Pegan,Verges de réception du joueur au moins (Braden Pegan (UTH)),2143,72898,1806074953,4733913056,134+,134+,9.0,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Braden Pegan,Verges de réception du joueur au moins (Braden Pegan (UTH)),2143,72898,1806074953,4733913057,144+,144+,12.0,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Braden Pegan,Verges de réception du joueur au moins (Braden Pegan (UTH)),2143,72898,1806074953,4733913058,54+,54+,1.5264,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Braden Pegan,Verges de réception du joueur au moins (Braden Pegan (UTH)),2143,72898,1806074953,4733913049,64+,64+,1.9091,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Braden Pegan,Verges de réception du joueur au moins (Braden Pegan (UTH)),2143,72898,1806074953,4733913050,74+,74+,2.2,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Braden Pegan,Verges de réception du joueur au moins (Braden Pegan (UTH)),2143,72898,1806074953,4733913051,84+,84+,2.65,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Braden Pegan,Verges de réception du joueur au moins (Braden Pegan (UTH)),2143,72898,1806074953,4733913052,94+,94+,3.2,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Braden Pegan,Verges de réception du joueur au moins (Braden Pegan (UTH)),2143,72898,1806074953,4733913053,104+,104+,4.0,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Braden Pegan,Verges de réception du joueur au moins (Braden Pegan (UTH)),2143,72898,1806074953,4733913054,114+,114+,5.0,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Braden Pegan,Verges de réception du joueur au moins (Braden Pegan (UTH)),2143,72898,1806074953,4733913055,124+,124+,6.75,0,False
 17956169,Cincinnati Bearcats vs. Utah Utes,Devon Dampier,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1799853428,4708332409,Devon Dampier (UTAH) Plus de 1.5,Devon Dampier (UTAH) Plus de 1.5,1.7693,0,False
 17956169,Cincinnati Bearcats vs. Utah Utes,Devon Dampier,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1799853428,4708332410,Devon Dampier (UTAH) moins de 1.5,Devon Dampier (UTAH) moins de 1.5,1.8334,0,False
-17956169,Cincinnati Bearcats vs. Utah Utes,JC French,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1799853364,4708332281,JC French (CIN) Plus de 1.5,JC French (CIN) Plus de 1.5,2.6,0,False
-17956169,Cincinnati Bearcats vs. Utah Utes,JC French,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1799853364,4708332282,JC French (CIN) moins de 1.5,JC French (CIN) moins de 1.5,1.3847,0,False
-17956169,Cincinnati Bearcats vs. Utah Utes,Braden Pegan,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1802648365,4716620501,Braden Pegan (UTAH) Plus de 64.5,Braden Pegan (UTAH) Plus de 64.5,1.8334,0,False
-17956169,Cincinnati Bearcats vs. Utah Utes,Braden Pegan,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1802648365,4716620502,Braden Pegan (UTAH) moins de 64.5,Braden Pegan (UTAH) moins de 64.5,1.7693,0,False
-17956169,Cincinnati Bearcats vs. Utah Utes,Creed Whittemore,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1808714503,4735681899,Creed Whittemore (UTAH) Plus de 48.5,Creed Whittemore (UTAH) Plus de 48.5,1.8334,0,False
-17956169,Cincinnati Bearcats vs. Utah Utes,Creed Whittemore,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1808714503,4735681900,Creed Whittemore (UTAH) moins de 48.5,Creed Whittemore (UTAH) moins de 48.5,1.7693,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,JC French,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1799853364,4708332281,JC French (CIN) Plus de 1.5,JC French (CIN) Plus de 1.5,2.55,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,JC French,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1799853364,4708332282,JC French (CIN) moins de 1.5,JC French (CIN) moins de 1.5,1.4,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Braden Pegan,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1800086182,4709080926,Braden Pegan (UTAH) Plus de 63.5,Braden Pegan (UTAH) Plus de 63.5,1.8334,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Braden Pegan,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1800086182,4709080927,Braden Pegan (UTAH) moins de 63.5,Braden Pegan (UTAH) moins de 63.5,1.7693,0,False
 17956169,Cincinnati Bearcats vs. Utah Utes,JaVonnie Gibson,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1803236975,4718189880,JaVonnie Gibson (CIN) moins de 47.5,JaVonnie Gibson (CIN) moins de 47.5,1.8334,0,False
 17956169,Cincinnati Bearcats vs. Utah Utes,JaVonnie Gibson,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1803236975,4718189879,JaVonnie Gibson (CIN) Plus de 47.5,JaVonnie Gibson (CIN) Plus de 47.5,1.7693,0,False
-17956169,Cincinnati Bearcats vs. Utah Utes,Ricky Johnson,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1800086209,4709080980,Ricky Johnson (UTAH) Plus de 34.5,Ricky Johnson (UTAH) Plus de 34.5,1.7693,0,False
-17956169,Cincinnati Bearcats vs. Utah Utes,Ricky Johnson,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1800086209,4709080981,Ricky Johnson (UTAH) moins de 34.5,Ricky Johnson (UTAH) moins de 34.5,1.8334,0,False
-17956169,Cincinnati Bearcats vs. Utah Utes,Isaiah Johnson,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1804786944,4722897052,Isaiah Johnson (CIN) Plus de 33.5,Isaiah Johnson (CIN) Plus de 33.5,1.7693,0,False
-17956169,Cincinnati Bearcats vs. Utah Utes,Isaiah Johnson,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1804786944,4722897053,Isaiah Johnson (CIN) moins de 33.5,Isaiah Johnson (CIN) moins de 33.5,1.8334,0,False
-17956169,Cincinnati Bearcats vs. Utah Utes,Malachi Henry,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1799853448,4708332449,Malachi Henry (CIN) Plus de 32.5,Malachi Henry (CIN) Plus de 32.5,1.8334,0,False
-17956169,Cincinnati Bearcats vs. Utah Utes,Malachi Henry,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1799853448,4708332450,Malachi Henry (CIN) moins de 32.5,Malachi Henry (CIN) moins de 32.5,1.7693,0,False
-17956169,Cincinnati Bearcats vs. Utah Utes,Noah Bennee,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1803235670,4718186840,Noah Bennee (UTAH) moins de 27.5,Noah Bennee (UTAH) moins de 27.5,1.7693,0,False
-17956169,Cincinnati Bearcats vs. Utah Utes,Noah Bennee,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1803235670,4718186839,Noah Bennee (UTAH) Plus de 27.5,Noah Bennee (UTAH) Plus de 27.5,1.8334,0,False
-17956169,Cincinnati Bearcats vs. Utah Utes,Wayshawn Parker,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1803535816,4718999408,Wayshawn Parker (UTAH) moins de 25.5,Wayshawn Parker (UTAH) moins de 25.5,1.8334,0,False
-17956169,Cincinnati Bearcats vs. Utah Utes,Wayshawn Parker,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1803535816,4718999407,Wayshawn Parker (UTAH) Plus de 25.5,Wayshawn Parker (UTAH) Plus de 25.5,1.7693,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Creed Whittemore,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1804786935,4722897034,Creed Whittemore (UTAH) Plus de 46.5,Creed Whittemore (UTAH) Plus de 46.5,1.7693,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Creed Whittemore,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1804786935,4722897035,Creed Whittemore (UTAH) moins de 46.5,Creed Whittemore (UTAH) moins de 46.5,1.8334,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Ricky Johnson,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1803235683,4718186865,Ricky Johnson (UTAH) Plus de 33.5,Ricky Johnson (UTAH) Plus de 33.5,1.7693,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Ricky Johnson,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1803235683,4718186866,Ricky Johnson (UTAH) moins de 33.5,Ricky Johnson (UTAH) moins de 33.5,1.8334,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Isaiah Johnson,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1804786944,4722897052,Isaiah Johnson (CIN) Plus de 33.5,Isaiah Johnson (CIN) Plus de 33.5,1.8334,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Isaiah Johnson,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1804786944,4722897053,Isaiah Johnson (CIN) moins de 33.5,Isaiah Johnson (CIN) moins de 33.5,1.7693,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Malachi Henry,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1800086187,4709080936,Malachi Henry (CIN) Plus de 31.5,Malachi Henry (CIN) Plus de 31.5,1.7693,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Malachi Henry,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1800086187,4709080937,Malachi Henry (CIN) moins de 31.5,Malachi Henry (CIN) moins de 31.5,1.8334,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Noah Bennee,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1803236422,4718188536,Noah Bennee (UTAH) Plus de 26.5,Noah Bennee (UTAH) Plus de 26.5,1.7693,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Noah Bennee,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1803236422,4718188537,Noah Bennee (UTAH) moins de 26.5,Noah Bennee (UTAH) moins de 26.5,1.8334,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Wayshawn Parker,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1803535816,4718999408,Wayshawn Parker (UTAH) moins de 25.5,Wayshawn Parker (UTAH) moins de 25.5,1.8,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Wayshawn Parker,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1803535816,4718999407,Wayshawn Parker (UTAH) Plus de 25.5,Wayshawn Parker (UTAH) Plus de 25.5,1.8,0,False
 17956169,Cincinnati Bearcats vs. Utah Utes,Cole Tabb,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1804778177,4722874978,Cole Tabb (CIN) Plus de 10.5,Cole Tabb (CIN) Plus de 10.5,1.7693,0,False
 17956169,Cincinnati Bearcats vs. Utah Utes,Cole Tabb,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1804778177,4722874979,Cole Tabb (CIN) moins de 10.5,Cole Tabb (CIN) moins de 10.5,1.8334,0,False
-17956169,Cincinnati Bearcats vs. Utah Utes,Wayshawn Parker,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1803236556,4718188861,Wayshawn Parker (UTAH) Plus de 93.5,Wayshawn Parker (UTAH) Plus de 93.5,1.7693,0,False
-17956169,Cincinnati Bearcats vs. Utah Utes,Wayshawn Parker,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1803236556,4718188862,Wayshawn Parker (UTAH) moins de 93.5,Wayshawn Parker (UTAH) moins de 93.5,1.8334,0,False
-17956169,Cincinnati Bearcats vs. Utah Utes,Cole Tabb,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1807364362,4731011228,Cole Tabb (CIN) Plus de 60.5,Cole Tabb (CIN) Plus de 60.5,1.8334,0,False
-17956169,Cincinnati Bearcats vs. Utah Utes,Cole Tabb,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1807364362,4731011229,Cole Tabb (CIN) moins de 60.5,Cole Tabb (CIN) moins de 60.5,1.7693,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Wayshawn Parker,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1803235679,4718186857,Wayshawn Parker (UTAH) Plus de 94.5,Wayshawn Parker (UTAH) Plus de 94.5,1.7693,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Wayshawn Parker,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1803235679,4718186858,Wayshawn Parker (UTAH) moins de 94.5,Wayshawn Parker (UTAH) moins de 94.5,1.8334,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Cole Tabb,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1806296186,4727898670,Cole Tabb (CIN) Plus de 61.5,Cole Tabb (CIN) Plus de 61.5,1.8334,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Cole Tabb,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1806296186,4727898671,Cole Tabb (CIN) moins de 61.5,Cole Tabb (CIN) moins de 61.5,1.7693,0,False
 17956169,Cincinnati Bearcats vs. Utah Utes,Devon Dampier,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1800489260,4710262342,Devon Dampier (UTAH) Plus de 43.5,Devon Dampier (UTAH) Plus de 43.5,1.8334,0,False
 17956169,Cincinnati Bearcats vs. Utah Utes,Devon Dampier,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1800489260,4710262343,Devon Dampier (UTAH) moins de 43.5,Devon Dampier (UTAH) moins de 43.5,1.7693,0,False
-17956169,Cincinnati Bearcats vs. Utah Utes,JC French,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1808345598,4734494902,JC French (CIN) Plus de 33.5,JC French (CIN) Plus de 33.5,1.8334,0,False
-17956169,Cincinnati Bearcats vs. Utah Utes,JC French,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1808345598,4734494903,JC French (CIN) moins de 33.5,JC French (CIN) moins de 33.5,1.7693,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,JC French,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1810062565,4740146834,JC French (CIN) Plus de 35.5,JC French (CIN) Plus de 35.5,1.8334,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,JC French,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1810062565,4740146835,JC French (CIN) moins de 35.5,JC French (CIN) moins de 35.5,1.7693,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Braden Pegan,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1799853399,4708332352,Braden Pegan (UTAH) moins de 4.5,Braden Pegan (UTAH) moins de 4.5,1.6897,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Braden Pegan,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1799853399,4708332351,Braden Pegan (UTAH) Plus de 4.5,Braden Pegan (UTAH) Plus de 4.5,1.9524,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,JaVonnie Gibson,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1799853565,4708332683,JaVonnie Gibson (CIN) Plus de 3.5,JaVonnie Gibson (CIN) Plus de 3.5,1.5715,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,JaVonnie Gibson,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1799853565,4708332684,JaVonnie Gibson (CIN) moins de 3.5,JaVonnie Gibson (CIN) moins de 3.5,2.15,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Isaiah Johnson,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1799853549,4708332651,Isaiah Johnson (CIN) Plus de 3.5,Isaiah Johnson (CIN) Plus de 3.5,1.8334,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Isaiah Johnson,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1799853549,4708332652,Isaiah Johnson (CIN) moins de 3.5,Isaiah Johnson (CIN) moins de 3.5,1.8,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Noah Bennee,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1799853338,4708332229,Noah Bennee (UTAH) Plus de 2.5,Noah Bennee (UTAH) Plus de 2.5,1.625,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Noah Bennee,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1799853338,4708332230,Noah Bennee (UTAH) moins de 2.5,Noah Bennee (UTAH) moins de 2.5,2.05,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Ricky Johnson,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1799853557,4708332667,Ricky Johnson (UTAH) Plus de 2.5,Ricky Johnson (UTAH) Plus de 2.5,1.7693,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Ricky Johnson,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1799853557,4708332668,Ricky Johnson (UTAH) moins de 2.5,Ricky Johnson (UTAH) moins de 2.5,1.8696,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Malachi Henry,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1799853450,4708332453,Malachi Henry (CIN) Plus de 2.5,Malachi Henry (CIN) Plus de 2.5,1.8334,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Malachi Henry,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1799853450,4708332454,Malachi Henry (CIN) moins de 2.5,Malachi Henry (CIN) moins de 2.5,1.8,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Cole Tabb,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1799853529,4708332611,Cole Tabb (CIN) Plus de 1.5,Cole Tabb (CIN) Plus de 1.5,1.6667,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Cole Tabb,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1799853529,4708332612,Cole Tabb (CIN) moins de 1.5,Cole Tabb (CIN) moins de 1.5,2.0,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Devon Dampier,"Passes complétées, Joueur (prolongations incluses)",760,71921,1803235956,4718187448,Devon Dampier (UTAH) Plus de 18.5,Devon Dampier (UTAH) Plus de 18.5,1.8696,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Devon Dampier,"Passes complétées, Joueur (prolongations incluses)",760,71921,1803235956,4718187449,Devon Dampier (UTAH) moins de 18.5,Devon Dampier (UTAH) moins de 18.5,1.7693,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Wayshawn Parker,Verges à la course et à la réception Plus/Moins (prolongation incluse),3317,73841,1804997571,4723422028,Wayshawn Parker (UTAH) Plus de 126.5,Wayshawn Parker (UTAH) Plus de 126.5,1.8,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Wayshawn Parker,Verges à la course et à la réception Plus/Moins (prolongation incluse),3317,73841,1804997571,4723422029,Wayshawn Parker (UTAH) moins de 126.5,Wayshawn Parker (UTAH) moins de 126.5,1.8334,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Cole Tabb,Verges à la course et à la réception Plus/Moins (prolongation incluse),3317,73841,1807364363,4731011230,Cole Tabb (CIN) Plus de 76.5,Cole Tabb (CIN) Plus de 76.5,1.8,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Cole Tabb,Verges à la course et à la réception Plus/Moins (prolongation incluse),3317,73841,1807364363,4731011231,Cole Tabb (CIN) moins de 76.5,Cole Tabb (CIN) moins de 76.5,1.8334,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Devon Dampier,Touchés par la passe du joueur au moins (Devon Dampier (UTH)),2138,72893,1806074808,4727274768,1+,1+,1.2106,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Devon Dampier,Touchés par la passe du joueur au moins (Devon Dampier (UTH)),2138,72893,1806074808,4727274765,2+,2+,1.9524,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Devon Dampier,Touchés par la passe du joueur au moins (Devon Dampier (UTH)),2138,72893,1806074808,4727274766,3+,3+,3.4,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Devon Dampier,Touchés par la passe du joueur au moins (Devon Dampier (UTH)),2138,72893,1806074808,4727274767,4+,4+,7.25,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,JC French IV,Touchés par la passe du joueur au moins (JC French IV (CIN)),2138,72893,1806074958,4727275218,2+,2+,2.8,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,JC French IV,Touchés par la passe du joueur au moins (JC French IV (CIN)),2138,72893,1806074958,4727275219,3+,3+,4.5,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,JC French IV,Touchés par la passe du joueur au moins (JC French IV (CIN)),2138,72893,1806074958,4727275220,4+,4+,10.0,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,JC French IV,Touchés par la passe du joueur au moins (JC French IV (CIN)),2138,72893,1806074958,4727275221,1+,1+,1.4762,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Devon Dampier,Verges par la passe du joueur au moins (Devon Dampier (UTH)),2136,72891,1806074956,4738984577,232+,232+,1.9091,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Devon Dampier,Verges par la passe du joueur au moins (Devon Dampier (UTH)),2136,72891,1806074956,4738984578,242+,242+,2.05,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Devon Dampier,Verges par la passe du joueur au moins (Devon Dampier (UTH)),2136,72891,1806074956,4738984579,252+,252+,2.3,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Devon Dampier,Verges par la passe du joueur au moins (Devon Dampier (UTH)),2136,72891,1806074956,4738984580,262+,262+,2.55,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Devon Dampier,Verges par la passe du joueur au moins (Devon Dampier (UTH)),2136,72891,1806074956,4738984581,272+,272+,2.85,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Devon Dampier,Verges par la passe du joueur au moins (Devon Dampier (UTH)),2136,72891,1806074956,4738984582,282+,282+,3.2,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Devon Dampier,Verges par la passe du joueur au moins (Devon Dampier (UTH)),2136,72891,1806074956,4738984583,292+,292+,3.75,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Devon Dampier,Verges par la passe du joueur au moins (Devon Dampier (UTH)),2136,72891,1806074956,4738984584,302+,302+,4.25,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Devon Dampier,Verges par la passe du joueur au moins (Devon Dampier (UTH)),2136,72891,1806074956,4738984585,312+,312+,5.0,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Devon Dampier,Verges par la passe du joueur au moins (Devon Dampier (UTH)),2136,72891,1806074956,4738984586,322+,322+,5.75,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Devon Dampier,Verges par la passe du joueur au moins (Devon Dampier (UTH)),2136,72891,1806074956,4738984587,332+,332+,6.75,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Devon Dampier,Verges par la passe du joueur au moins (Devon Dampier (UTH)),2136,72891,1806074956,4738984588,342+,342+,8.0,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Devon Dampier,Verges par la passe du joueur au moins (Devon Dampier (UTH)),2136,72891,1806074956,4738984589,352+,352+,10.0,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Devon Dampier,Verges par la passe du joueur au moins (Devon Dampier (UTH)),2136,72891,1806074956,4738984590,362+,362+,12.0,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Devon Dampier,Verges par la passe du joueur au moins (Devon Dampier (UTH)),2136,72891,1806074956,4738984591,372+,372+,15.0,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Devon Dampier,Verges par la passe du joueur au moins (Devon Dampier (UTH)),2136,72891,1806074956,4738984816,212+,212+,1.5556,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Devon Dampier,Verges par la passe du joueur au moins (Devon Dampier (UTH)),2136,72891,1806074956,4738984592,222+,222+,1.6897,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,JC French IV,Verges par la passe du joueur au moins (JC French IV (CIN)),2136,72891,1806075068,4727329103,198+,198+,1.9091,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,JC French IV,Verges par la passe du joueur au moins (JC French IV (CIN)),2136,72891,1806075068,4727329104,208+,208+,2.05,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,JC French IV,Verges par la passe du joueur au moins (JC French IV (CIN)),2136,72891,1806075068,4727329105,218+,218+,2.25,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,JC French IV,Verges par la passe du joueur au moins (JC French IV (CIN)),2136,72891,1806075068,4727329106,228+,228+,2.45,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,JC French IV,Verges par la passe du joueur au moins (JC French IV (CIN)),2136,72891,1806075068,4727329107,238+,238+,2.7,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,JC French IV,Verges par la passe du joueur au moins (JC French IV (CIN)),2136,72891,1806075068,4727329108,248+,248+,3.0,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,JC French IV,Verges par la passe du joueur au moins (JC French IV (CIN)),2136,72891,1806075068,4727329109,258+,258+,3.4,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,JC French IV,Verges par la passe du joueur au moins (JC French IV (CIN)),2136,72891,1806075068,4727329110,268+,268+,3.85,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,JC French IV,Verges par la passe du joueur au moins (JC French IV (CIN)),2136,72891,1806075068,4727329111,278+,278+,4.3,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,JC French IV,Verges par la passe du joueur au moins (JC French IV (CIN)),2136,72891,1806075068,4727329112,288+,288+,5.0,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,JC French IV,Verges par la passe du joueur au moins (JC French IV (CIN)),2136,72891,1806075068,4727329113,298+,298+,5.5,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,JC French IV,Verges par la passe du joueur au moins (JC French IV (CIN)),2136,72891,1806075068,4727329114,308+,308+,6.5,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,JC French IV,Verges par la passe du joueur au moins (JC French IV (CIN)),2136,72891,1806075068,4727329115,318+,318+,7.5,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,JC French IV,Verges par la passe du joueur au moins (JC French IV (CIN)),2136,72891,1806075068,4727329116,328+,328+,9.0,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,JC French IV,Verges par la passe du joueur au moins (JC French IV (CIN)),2136,72891,1806075068,4727329117,338+,338+,11.0,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,JC French IV,Verges par la passe du joueur au moins (JC French IV (CIN)),2136,72891,1806075068,4727329118,188+,188+,1.7408,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,JC French IV,Verges par la passe du joueur au moins (JC French IV (CIN)),2136,72891,1806075068,4727329119,178+,178+,1.5883,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Cole Tabb,Verges au sol du joueur au moins (Cole Tabb (CIN)),2140,72895,1806074955,4730807398,56+,56+,1.8696,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Cole Tabb,Verges au sol du joueur au moins (Cole Tabb (CIN)),2140,72895,1806074955,4730807399,66+,66+,2.15,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Cole Tabb,Verges au sol du joueur au moins (Cole Tabb (CIN)),2140,72895,1806074955,4730807400,76+,76+,2.45,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Cole Tabb,Verges au sol du joueur au moins (Cole Tabb (CIN)),2140,72895,1806074955,4730807401,86+,86+,2.9,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Cole Tabb,Verges au sol du joueur au moins (Cole Tabb (CIN)),2140,72895,1806074955,4730807402,96+,96+,3.5,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Cole Tabb,Verges au sol du joueur au moins (Cole Tabb (CIN)),2140,72895,1806074955,4730807403,106+,106+,4.25,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Cole Tabb,Verges au sol du joueur au moins (Cole Tabb (CIN)),2140,72895,1806074955,4730807404,116+,116+,5.25,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Cole Tabb,Verges au sol du joueur au moins (Cole Tabb (CIN)),2140,72895,1806074955,4730807405,126+,126+,6.5,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Cole Tabb,Verges au sol du joueur au moins (Cole Tabb (CIN)),2140,72895,1806074955,4730807406,136+,136+,8.5,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Cole Tabb,Verges au sol du joueur au moins (Cole Tabb (CIN)),2140,72895,1806074955,4730807407,46+,46+,1.5264,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Cole Tabb,Verges au sol du joueur au moins (Cole Tabb (CIN)),2140,72895,1806074955,4730807408,36+,36+,1.2858,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Devon Dampier,Verges au sol du joueur au moins (Devon Dampier (UTH)),2140,72895,1806074949,4733428544,87+,87+,3.85,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Devon Dampier,Verges au sol du joueur au moins (Devon Dampier (UTH)),2140,72895,1806074949,4733428545,97+,97+,4.75,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Devon Dampier,Verges au sol du joueur au moins (Devon Dampier (UTH)),2140,72895,1806074949,4733428546,107+,107+,6.25,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Devon Dampier,Verges au sol du joueur au moins (Devon Dampier (UTH)),2140,72895,1806074949,4733428547,117+,117+,8.5,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Devon Dampier,Verges au sol du joueur au moins (Devon Dampier (UTH)),2140,72895,1806074949,4733428548,127+,127+,11.0,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Devon Dampier,Verges au sol du joueur au moins (Devon Dampier (UTH)),2140,72895,1806074949,4733428549,37+,37+,1.5556,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Devon Dampier,Verges au sol du joueur au moins (Devon Dampier (UTH)),2140,72895,1806074949,4733428550,27+,27+,1.3334,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Devon Dampier,Verges au sol du joueur au moins (Devon Dampier (UTH)),2140,72895,1806074949,4733428540,47+,47+,1.8696,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Devon Dampier,Verges au sol du joueur au moins (Devon Dampier (UTH)),2140,72895,1806074949,4733428541,57+,57+,2.2,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Devon Dampier,Verges au sol du joueur au moins (Devon Dampier (UTH)),2140,72895,1806074949,4733428542,67+,67+,2.55,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Devon Dampier,Verges au sol du joueur au moins (Devon Dampier (UTH)),2140,72895,1806074949,4733428543,77+,77+,3.1,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,JC French IV,Verges au sol du joueur au moins (JC French IV (CIN)),2140,72895,1806075070,4730803880,27+,27+,1.8696,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,JC French IV,Verges au sol du joueur au moins (JC French IV (CIN)),2140,72895,1806075070,4730803881,37+,37+,2.3,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,JC French IV,Verges au sol du joueur au moins (JC French IV (CIN)),2140,72895,1806075070,4730803882,47+,47+,2.95,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,JC French IV,Verges au sol du joueur au moins (JC French IV (CIN)),2140,72895,1806075070,4730803883,57+,57+,3.85,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,JC French IV,Verges au sol du joueur au moins (JC French IV (CIN)),2140,72895,1806075070,4730803884,67+,67+,5.25,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,JC French IV,Verges au sol du joueur au moins (JC French IV (CIN)),2140,72895,1806075070,4730803885,77+,77+,7.75,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,JC French IV,Verges au sol du joueur au moins (JC French IV (CIN)),2140,72895,1806075070,4730803886,87+,87+,12.0,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,JC French IV,Verges au sol du joueur au moins (JC French IV (CIN)),2140,72895,1806075070,4730803887,97+,97+,18.0,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,JC French IV,Verges au sol du joueur au moins (JC French IV (CIN)),2140,72895,1806075070,4730803888,107+,107+,31.0,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,JC French IV,Verges au sol du joueur au moins (JC French IV (CIN)),2140,72895,1806075070,4730803889,17+,17+,1.3637,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Wayshawn Parker,Verges au sol du joueur au moins (Wayshawn Parker (UTH)),2140,72895,1806074946,4730613952,155+,155+,6.25,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Wayshawn Parker,Verges au sol du joueur au moins (Wayshawn Parker (UTH)),2140,72895,1806074946,4730613953,165+,165+,8.0,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Wayshawn Parker,Verges au sol du joueur au moins (Wayshawn Parker (UTH)),2140,72895,1806074946,4730614097,175+,175+,11.0,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Wayshawn Parker,Verges au sol du joueur au moins (Wayshawn Parker (UTH)),2140,72895,1806074946,4730614098,85+,85+,1.5883,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Wayshawn Parker,Verges au sol du joueur au moins (Wayshawn Parker (UTH)),2140,72895,1806074946,4730614099,75+,75+,1.3637,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Wayshawn Parker,Verges au sol du joueur au moins (Wayshawn Parker (UTH)),2140,72895,1806074946,4730613946,95+,95+,1.9091,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Wayshawn Parker,Verges au sol du joueur au moins (Wayshawn Parker (UTH)),2140,72895,1806074946,4730613947,105+,105+,2.2,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Wayshawn Parker,Verges au sol du joueur au moins (Wayshawn Parker (UTH)),2140,72895,1806074946,4730613949,125+,125+,3.1,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Wayshawn Parker,Verges au sol du joueur au moins (Wayshawn Parker (UTH)),2140,72895,1806074946,4730613950,135+,135+,3.85,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Wayshawn Parker,Verges au sol du joueur au moins (Wayshawn Parker (UTH)),2140,72895,1806074946,4730613951,145+,145+,4.75,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Ricky Johnson,Joueur total de réception (Ricky Johnson (UTH)) (incl. OT),2142,72897,1806074959,4727275222,3+,3+,1.9091,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Ricky Johnson,Joueur total de réception (Ricky Johnson (UTH)) (incl. OT),2142,72897,1806074959,4727275223,4+,4+,2.85,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Ricky Johnson,Joueur total de réception (Ricky Johnson (UTH)) (incl. OT),2142,72897,1806074959,4727275224,5+,5+,5.0,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Ricky Johnson,Joueur total de réception (Ricky Johnson (UTH)) (incl. OT),2142,72897,1806074959,4727275225,6+,6+,9.0,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Ricky Johnson,Joueur total de réception (Ricky Johnson (UTH)) (incl. OT),2142,72897,1806074959,4727275226,7+,7+,19.0,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Ricky Johnson,Joueur total de réception (Ricky Johnson (UTH)) (incl. OT),2142,72897,1806074959,4727275227,8+,8+,41.0,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Ricky Johnson,Joueur total de réception (Ricky Johnson (UTH)) (incl. OT),2142,72897,1806074959,4727275228,2+,2+,1.2353,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Isaiah Johnson,Joueur total de réception (Isaiah Johnson (CIN)) (incl. OT),2142,72897,1806075065,4727275463,4+,4+,1.9091,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Isaiah Johnson,Joueur total de réception (Isaiah Johnson (CIN)) (incl. OT),2142,72897,1806075065,4727275464,5+,5+,2.65,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Isaiah Johnson,Joueur total de réception (Isaiah Johnson (CIN)) (incl. OT),2142,72897,1806075065,4727275465,6+,6+,4.0,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Isaiah Johnson,Joueur total de réception (Isaiah Johnson (CIN)) (incl. OT),2142,72897,1806075065,4727275466,7+,7+,6.75,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Isaiah Johnson,Joueur total de réception (Isaiah Johnson (CIN)) (incl. OT),2142,72897,1806075065,4727275467,8+,8+,12.0,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Isaiah Johnson,Joueur total de réception (Isaiah Johnson (CIN)) (incl. OT),2142,72897,1806075065,4727275469,9+,9+,21.0,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Isaiah Johnson,Joueur total de réception (Isaiah Johnson (CIN)) (incl. OT),2142,72897,1806075065,4727275470,3+,3+,1.3077,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Braden Pegan,Joueur total de réception (Braden Pegan (UTH)) (incl. OT),2142,72897,1806075069,4727275505,5+,5+,1.9524,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Braden Pegan,Joueur total de réception (Braden Pegan (UTH)) (incl. OT),2142,72897,1806075069,4727275506,6+,6+,2.65,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Braden Pegan,Joueur total de réception (Braden Pegan (UTH)) (incl. OT),2142,72897,1806075069,4727275507,7+,7+,3.85,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Braden Pegan,Joueur total de réception (Braden Pegan (UTH)) (incl. OT),2142,72897,1806075069,4727275508,8+,8+,6.25,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Braden Pegan,Joueur total de réception (Braden Pegan (UTH)) (incl. OT),2142,72897,1806075069,4727275509,9+,9+,11.0,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Braden Pegan,Joueur total de réception (Braden Pegan (UTH)) (incl. OT),2142,72897,1806075069,4727275510,10+,10+,20.0,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Braden Pegan,Joueur total de réception (Braden Pegan (UTH)) (incl. OT),2142,72897,1806075069,4727275511,4+,4+,1.3847,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Malachi Henry,Joueur total de réception (Malachi Henry (CIN)) (incl. OT),2142,72897,1806074950,4727275140,3+,3+,1.8696,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Malachi Henry,Joueur total de réception (Malachi Henry (CIN)) (incl. OT),2142,72897,1806074950,4727275141,4+,4+,2.35,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Malachi Henry,Joueur total de réception (Malachi Henry (CIN)) (incl. OT),2142,72897,1806074950,4727275142,5+,5+,3.0,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Malachi Henry,Joueur total de réception (Malachi Henry (CIN)) (incl. OT),2142,72897,1806074950,4727275143,6+,6+,4.0,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Malachi Henry,Joueur total de réception (Malachi Henry (CIN)) (incl. OT),2142,72897,1806074950,4727275144,7+,7+,5.75,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Malachi Henry,Joueur total de réception (Malachi Henry (CIN)) (incl. OT),2142,72897,1806074950,4727275444,8+,8+,8.5,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Malachi Henry,Joueur total de réception (Malachi Henry (CIN)) (incl. OT),2142,72897,1806074950,4727275445,2+,2+,1.4,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Noah Bennee,Joueur total de réception (Noah Bennee (UTH)) (incl. OT),2142,72897,1806075067,4729443033,9+,9+,36.0,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Noah Bennee,Joueur total de réception (Noah Bennee (UTH)) (incl. OT),2142,72897,1806075067,4727275481,3+,3+,1.4167,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Noah Bennee,Joueur total de réception (Noah Bennee (UTH)) (incl. OT),2142,72897,1806075067,4727275482,4+,4+,2.2,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Noah Bennee,Joueur total de réception (Noah Bennee (UTH)) (incl. OT),2142,72897,1806075067,4727275483,5+,5+,3.2,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Noah Bennee,Joueur total de réception (Noah Bennee (UTH)) (incl. OT),2142,72897,1806075067,4727275484,6+,6+,5.25,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Noah Bennee,Joueur total de réception (Noah Bennee (UTH)) (incl. OT),2142,72897,1806075067,4727275485,7+,7+,10.0,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,Noah Bennee,Joueur total de réception (Noah Bennee (UTH)) (incl. OT),2142,72897,1806075067,4727275486,8+,8+,19.0,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,JaVonnie Gibson,Joueur total de réception (JaVonnie Gibson (CIN)) (incl. OT),2142,72897,1806074948,4727275122,5+,5+,2.2,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,JaVonnie Gibson,Joueur total de réception (JaVonnie Gibson (CIN)) (incl. OT),2142,72897,1806074948,4727275123,6+,6+,3.1,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,JaVonnie Gibson,Joueur total de réception (JaVonnie Gibson (CIN)) (incl. OT),2142,72897,1806074948,4727275124,7+,7+,5.0,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,JaVonnie Gibson,Joueur total de réception (JaVonnie Gibson (CIN)) (incl. OT),2142,72897,1806074948,4727275125,8+,8+,9.0,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,JaVonnie Gibson,Joueur total de réception (JaVonnie Gibson (CIN)) (incl. OT),2142,72897,1806074948,4727275126,9+,9+,17.0,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,JaVonnie Gibson,Joueur total de réception (JaVonnie Gibson (CIN)) (incl. OT),2142,72897,1806074948,4727275127,10+,10+,31.0,0,False
+17956169,Cincinnati Bearcats vs. Utah Utes,JaVonnie Gibson,Joueur total de réception (JaVonnie Gibson (CIN)) (incl. OT),2142,72897,1806074948,4727275128,4+,4+,1.4546,0,False

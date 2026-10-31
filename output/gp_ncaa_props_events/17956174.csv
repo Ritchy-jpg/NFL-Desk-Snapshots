@@ -1,8 +1,17 @@
 event_id,match,player,market,market_type_id,sport_market_id,child_market_id,odd_id,selection,line,price,odd_status,is_main_bet
-17956174,TCU Horned Frogs vs. Kansas Jayhawks,Jaden Craig,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1810216024,4740919258,Jaden Craig (TCU) Plus de 262.5,Jaden Craig (TCU) Plus de 262.5,1.7693,0,True
-17956174,TCU Horned Frogs vs. Kansas Jayhawks,Jaden Craig,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1810216024,4740919259,Jaden Craig (TCU) moins de 262.5,Jaden Craig (TCU) moins de 262.5,1.8334,0,True
-17956174,TCU Horned Frogs vs. Kansas Jayhawks,Isaiah Marshall,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1810725804,4742260109,Isaiah Marshall (KU) Plus de 175.5,Isaiah Marshall (KU) Plus de 175.5,1.7693,0,True
-17956174,TCU Horned Frogs vs. Kansas Jayhawks,Isaiah Marshall,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1810725804,4742260110,Isaiah Marshall (KU) moins de 175.5,Isaiah Marshall (KU) moins de 175.5,1.8334,0,True
+17956174,TCU Horned Frogs vs. Kansas Jayhawks,Jaden Craig,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1809902899,4739724776,Jaden Craig (TCU) Plus de 263.5,Jaden Craig (TCU) Plus de 263.5,1.8334,0,True
+17956174,TCU Horned Frogs vs. Kansas Jayhawks,Jaden Craig,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1809902899,4739724777,Jaden Craig (TCU) moins de 263.5,Jaden Craig (TCU) moins de 263.5,1.7693,0,True
+17956174,TCU Horned Frogs vs. Kansas Jayhawks,Isaiah Marshall,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1810725211,4742258644,Isaiah Marshall (KU) Plus de 176.5,Isaiah Marshall (KU) Plus de 176.5,1.7693,0,True
+17956174,TCU Horned Frogs vs. Kansas Jayhawks,Isaiah Marshall,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1810725211,4742258645,Isaiah Marshall (KU) moins de 176.5,Isaiah Marshall (KU) moins de 176.5,1.8334,0,True
+17956174,TCU Horned Frogs vs. Kansas Jayhawks,Carson Bruhn,Verges de réception du joueur au moins (Carson Bruhn (KAN)),2143,72898,1806073845,4727271904,40+,40+,3.6,0,False
+17956174,TCU Horned Frogs vs. Kansas Jayhawks,Carson Bruhn,Verges de réception du joueur au moins (Carson Bruhn (KAN)),2143,72898,1806073845,4727271905,50+,50+,5.25,0,False
+17956174,TCU Horned Frogs vs. Kansas Jayhawks,Carson Bruhn,Verges de réception du joueur au moins (Carson Bruhn (KAN)),2143,72898,1806073845,4727271906,60+,60+,7.75,0,False
+17956174,TCU Horned Frogs vs. Kansas Jayhawks,Carson Bruhn,Verges de réception du joueur au moins (Carson Bruhn (KAN)),2143,72898,1806073845,4727271907,70+,70+,13.0,0,False
+17956174,TCU Horned Frogs vs. Kansas Jayhawks,Carson Bruhn,Verges de réception du joueur au moins (Carson Bruhn (KAN)),2143,72898,1806073845,4727271908,80+,80+,21.0,0,False
+17956174,TCU Horned Frogs vs. Kansas Jayhawks,Carson Bruhn,Verges de réception du joueur au moins (Carson Bruhn (KAN)),2143,72898,1806073845,4727271909,90+,90+,41.0,0,False
+17956174,TCU Horned Frogs vs. Kansas Jayhawks,Carson Bruhn,Verges de réception du joueur au moins (Carson Bruhn (KAN)),2143,72898,1806073845,4727271911,10+,10+,1.4762,0,False
+17956174,TCU Horned Frogs vs. Kansas Jayhawks,Carson Bruhn,Verges de réception du joueur au moins (Carson Bruhn (KAN)),2143,72898,1806073845,4727271902,20+,20+,2.1,0,False
+17956174,TCU Horned Frogs vs. Kansas Jayhawks,Carson Bruhn,Verges de réception du joueur au moins (Carson Bruhn (KAN)),2143,72898,1806073845,4727271903,30+,30+,2.6,0,False
 17956174,TCU Horned Frogs vs. Kansas Jayhawks,Cam Pickett,Verges de réception du joueur au moins (Cam Pickett (KAN)),2143,72898,1806073854,4742278483,36+,36+,1.9091,0,False
 17956174,TCU Horned Frogs vs. Kansas Jayhawks,Cam Pickett,Verges de réception du joueur au moins (Cam Pickett (KAN)),2143,72898,1806073854,4742278484,46+,46+,2.25,0,False
 17956174,TCU Horned Frogs vs. Kansas Jayhawks,Cam Pickett,Verges de réception du joueur au moins (Cam Pickett (KAN)),2143,72898,1806073854,4742278485,56+,56+,2.8,0,False
@@ -32,17 +41,27 @@ event_id,match,player,market,market_type_id,sport_market_id,child_market_id,odd_
 17956174,TCU Horned Frogs vs. Kansas Jayhawks,Kari Ashley,Verges de réception du joueur au moins (Kari Ashley (TCU)),2143,72898,1806073844,4736887022,105+,105+,5.5,0,False
 17956174,TCU Horned Frogs vs. Kansas Jayhawks,Kari Ashley,Verges de réception du joueur au moins (Kari Ashley (TCU)),2143,72898,1806073844,4736887024,125+,125+,9.0,0,False
 17956174,TCU Horned Frogs vs. Kansas Jayhawks,Kari Ashley,Verges de réception du joueur au moins (Kari Ashley (TCU)),2143,72898,1806073844,4736887025,35+,35+,1.5,0,False
-17956174,TCU Horned Frogs vs. Kansas Jayhawks,Ed Small,Verges de réception du joueur au moins (Ed Small (TCU)),2143,72898,1806073851,4740933248,107+,107+,6.25,0,False
-17956174,TCU Horned Frogs vs. Kansas Jayhawks,Ed Small,Verges de réception du joueur au moins (Ed Small (TCU)),2143,72898,1806073851,4740933249,117+,117+,7.75,0,False
-17956174,TCU Horned Frogs vs. Kansas Jayhawks,Ed Small,Verges de réception du joueur au moins (Ed Small (TCU)),2143,72898,1806073851,4740933250,27+,27+,1.5556,0,False
-17956174,TCU Horned Frogs vs. Kansas Jayhawks,Ed Small,Verges de réception du joueur au moins (Ed Small (TCU)),2143,72898,1806073851,4740933241,37+,37+,1.9091,0,False
-17956174,TCU Horned Frogs vs. Kansas Jayhawks,Ed Small,Verges de réception du joueur au moins (Ed Small (TCU)),2143,72898,1806073851,4740933242,47+,47+,2.15,0,False
-17956174,TCU Horned Frogs vs. Kansas Jayhawks,Ed Small,Verges de réception du joueur au moins (Ed Small (TCU)),2143,72898,1806073851,4740933243,57+,57+,2.45,0,False
-17956174,TCU Horned Frogs vs. Kansas Jayhawks,Ed Small,Verges de réception du joueur au moins (Ed Small (TCU)),2143,72898,1806073851,4740933244,67+,67+,2.85,0,False
-17956174,TCU Horned Frogs vs. Kansas Jayhawks,Ed Small,Verges de réception du joueur au moins (Ed Small (TCU)),2143,72898,1806073851,4740933245,77+,77+,3.4,0,False
-17956174,TCU Horned Frogs vs. Kansas Jayhawks,Ed Small,Verges de réception du joueur au moins (Ed Small (TCU)),2143,72898,1806073851,4740933246,87+,87+,4.0,0,False
-17956174,TCU Horned Frogs vs. Kansas Jayhawks,Ed Small,Verges de réception du joueur au moins (Ed Small (TCU)),2143,72898,1806073851,4740933247,97+,97+,5.0,0,False
-17956174,TCU Horned Frogs vs. Kansas Jayhawks,Nahzae Cox,Verges de réception du joueur au moins (Nahzae Cox (KAN)),2143,72898,1806073848,4727327340,30+,30+,2.1,0,False
+17956174,TCU Horned Frogs vs. Kansas Jayhawks,Ed Small,Verges de réception du joueur au moins (Ed Small (TCU)),2143,72898,1806073851,4743000722,41+,41+,1.8696,0,False
+17956174,TCU Horned Frogs vs. Kansas Jayhawks,Ed Small,Verges de réception du joueur au moins (Ed Small (TCU)),2143,72898,1806073851,4743000723,51+,51+,2.15,0,False
+17956174,TCU Horned Frogs vs. Kansas Jayhawks,Ed Small,Verges de réception du joueur au moins (Ed Small (TCU)),2143,72898,1806073851,4743000724,61+,61+,2.5,0,False
+17956174,TCU Horned Frogs vs. Kansas Jayhawks,Ed Small,Verges de réception du joueur au moins (Ed Small (TCU)),2143,72898,1806073851,4743000725,71+,71+,2.95,0,False
+17956174,TCU Horned Frogs vs. Kansas Jayhawks,Ed Small,Verges de réception du joueur au moins (Ed Small (TCU)),2143,72898,1806073851,4743000726,81+,81+,3.5,0,False
+17956174,TCU Horned Frogs vs. Kansas Jayhawks,Ed Small,Verges de réception du joueur au moins (Ed Small (TCU)),2143,72898,1806073851,4743000727,91+,91+,4.3,0,False
+17956174,TCU Horned Frogs vs. Kansas Jayhawks,Ed Small,Verges de réception du joueur au moins (Ed Small (TCU)),2143,72898,1806073851,4743000728,101+,101+,5.25,0,False
+17956174,TCU Horned Frogs vs. Kansas Jayhawks,Ed Small,Verges de réception du joueur au moins (Ed Small (TCU)),2143,72898,1806073851,4743000729,111+,111+,6.75,0,False
+17956174,TCU Horned Frogs vs. Kansas Jayhawks,Ed Small,Verges de réception du joueur au moins (Ed Small (TCU)),2143,72898,1806073851,4743000730,121+,121+,9.0,0,False
+17956174,TCU Horned Frogs vs. Kansas Jayhawks,Ed Small,Verges de réception du joueur au moins (Ed Small (TCU)),2143,72898,1806073851,4743000731,31+,31+,1.5556,0,False
+17956174,TCU Horned Frogs vs. Kansas Jayhawks,Jordan Dwyer,Verges de réception du joueur au moins (Jordan Dwyer (TCU)),2143,72898,1806073853,4740933268,84+,84+,1.9091,0,False
+17956174,TCU Horned Frogs vs. Kansas Jayhawks,Jordan Dwyer,Verges de réception du joueur au moins (Jordan Dwyer (TCU)),2143,72898,1806073853,4740933269,94+,94+,2.15,0,False
+17956174,TCU Horned Frogs vs. Kansas Jayhawks,Jordan Dwyer,Verges de réception du joueur au moins (Jordan Dwyer (TCU)),2143,72898,1806073853,4740933270,104+,104+,2.5,0,False
+17956174,TCU Horned Frogs vs. Kansas Jayhawks,Jordan Dwyer,Verges de réception du joueur au moins (Jordan Dwyer (TCU)),2143,72898,1806073853,4740933271,114+,114+,2.95,0,False
+17956174,TCU Horned Frogs vs. Kansas Jayhawks,Jordan Dwyer,Verges de réception du joueur au moins (Jordan Dwyer (TCU)),2143,72898,1806073853,4740933272,124+,124+,3.5,0,False
+17956174,TCU Horned Frogs vs. Kansas Jayhawks,Jordan Dwyer,Verges de réception du joueur au moins (Jordan Dwyer (TCU)),2143,72898,1806073853,4740933273,134+,134+,4.3,0,False
+17956174,TCU Horned Frogs vs. Kansas Jayhawks,Jordan Dwyer,Verges de réception du joueur au moins (Jordan Dwyer (TCU)),2143,72898,1806073853,4740933274,144+,144+,5.25,0,False
+17956174,TCU Horned Frogs vs. Kansas Jayhawks,Jordan Dwyer,Verges de réception du joueur au moins (Jordan Dwyer (TCU)),2143,72898,1806073853,4740933275,154+,154+,6.5,0,False
+17956174,TCU Horned Frogs vs. Kansas Jayhawks,Jordan Dwyer,Verges de réception du joueur au moins (Jordan Dwyer (TCU)),2143,72898,1806073853,4740933276,164+,164+,8.5,0,False
+17956174,TCU Horned Frogs vs. Kansas Jayhawks,Jordan Dwyer,Verges de réception du joueur au moins (Jordan Dwyer (TCU)),2143,72898,1806073853,4740933277,74+,74+,1.5715,0,False
+17956174,TCU Horned Frogs vs. Kansas Jayhawks,Nahzae Cox,Verges de réception du joueur au moins (Nahzae Cox (KAN)),2143,72898,1806073848,4727327340,30+,30+,2.15,0,False
 17956174,TCU Horned Frogs vs. Kansas Jayhawks,Nahzae Cox,Verges de réception du joueur au moins (Nahzae Cox (KAN)),2143,72898,1806073848,4727327341,40+,40+,2.55,0,False
 17956174,TCU Horned Frogs vs. Kansas Jayhawks,Nahzae Cox,Verges de réception du joueur au moins (Nahzae Cox (KAN)),2143,72898,1806073848,4727327342,50+,50+,3.3,0,False
 17956174,TCU Horned Frogs vs. Kansas Jayhawks,Nahzae Cox,Verges de réception du joueur au moins (Nahzae Cox (KAN)),2143,72898,1806073848,4727327343,60+,60+,4.4,0,False
@@ -51,25 +70,7 @@ event_id,match,player,market,market_type_id,sport_market_id,child_market_id,odd_
 17956174,TCU Horned Frogs vs. Kansas Jayhawks,Nahzae Cox,Verges de réception du joueur au moins (Nahzae Cox (KAN)),2143,72898,1806073848,4727327346,90+,90+,13.0,0,False
 17956174,TCU Horned Frogs vs. Kansas Jayhawks,Nahzae Cox,Verges de réception du joueur au moins (Nahzae Cox (KAN)),2143,72898,1806073848,4727327347,100+,100+,21.0,0,False
 17956174,TCU Horned Frogs vs. Kansas Jayhawks,Nahzae Cox,Verges de réception du joueur au moins (Nahzae Cox (KAN)),2143,72898,1806073848,4727327348,110+,110+,36.0,0,False
-17956174,TCU Horned Frogs vs. Kansas Jayhawks,Nahzae Cox,Verges de réception du joueur au moins (Nahzae Cox (KAN)),2143,72898,1806073848,4727327349,20+,20+,1.5715,0,False
-17956174,TCU Horned Frogs vs. Kansas Jayhawks,Jordan Dwyer,Verges de réception du joueur au moins (Jordan Dwyer (TCU)),2143,72898,1806073853,4741572928,73+,73+,1.5715,0,False
-17956174,TCU Horned Frogs vs. Kansas Jayhawks,Jordan Dwyer,Verges de réception du joueur au moins (Jordan Dwyer (TCU)),2143,72898,1806073853,4741572919,83+,83+,1.9091,0,False
-17956174,TCU Horned Frogs vs. Kansas Jayhawks,Jordan Dwyer,Verges de réception du joueur au moins (Jordan Dwyer (TCU)),2143,72898,1806073853,4741572920,93+,93+,2.15,0,False
-17956174,TCU Horned Frogs vs. Kansas Jayhawks,Jordan Dwyer,Verges de réception du joueur au moins (Jordan Dwyer (TCU)),2143,72898,1806073853,4741572921,103+,103+,2.5,0,False
-17956174,TCU Horned Frogs vs. Kansas Jayhawks,Jordan Dwyer,Verges de réception du joueur au moins (Jordan Dwyer (TCU)),2143,72898,1806073853,4741572922,113+,113+,2.95,0,False
-17956174,TCU Horned Frogs vs. Kansas Jayhawks,Jordan Dwyer,Verges de réception du joueur au moins (Jordan Dwyer (TCU)),2143,72898,1806073853,4741572923,123+,123+,3.5,0,False
-17956174,TCU Horned Frogs vs. Kansas Jayhawks,Jordan Dwyer,Verges de réception du joueur au moins (Jordan Dwyer (TCU)),2143,72898,1806073853,4741572924,133+,133+,4.25,0,False
-17956174,TCU Horned Frogs vs. Kansas Jayhawks,Jordan Dwyer,Verges de réception du joueur au moins (Jordan Dwyer (TCU)),2143,72898,1806073853,4741572925,143+,143+,5.25,0,False
-17956174,TCU Horned Frogs vs. Kansas Jayhawks,Jordan Dwyer,Verges de réception du joueur au moins (Jordan Dwyer (TCU)),2143,72898,1806073853,4741572926,153+,153+,6.5,0,False
-17956174,TCU Horned Frogs vs. Kansas Jayhawks,Jordan Dwyer,Verges de réception du joueur au moins (Jordan Dwyer (TCU)),2143,72898,1806073853,4741572927,163+,163+,8.5,0,False
-17956174,TCU Horned Frogs vs. Kansas Jayhawks,Carson Bruhn,Verges de réception du joueur au moins (Carson Bruhn (KAN)),2143,72898,1806073845,4742278381,16+,16+,1.8696,0,False
-17956174,TCU Horned Frogs vs. Kansas Jayhawks,Carson Bruhn,Verges de réception du joueur au moins (Carson Bruhn (KAN)),2143,72898,1806073845,4742278382,26+,26+,2.4,0,False
-17956174,TCU Horned Frogs vs. Kansas Jayhawks,Carson Bruhn,Verges de réception du joueur au moins (Carson Bruhn (KAN)),2143,72898,1806073845,4742278383,36+,36+,3.2,0,False
-17956174,TCU Horned Frogs vs. Kansas Jayhawks,Carson Bruhn,Verges de réception du joueur au moins (Carson Bruhn (KAN)),2143,72898,1806073845,4742278384,46+,46+,4.4,0,False
-17956174,TCU Horned Frogs vs. Kansas Jayhawks,Carson Bruhn,Verges de réception du joueur au moins (Carson Bruhn (KAN)),2143,72898,1806073845,4742278385,56+,56+,6.5,0,False
-17956174,TCU Horned Frogs vs. Kansas Jayhawks,Carson Bruhn,Verges de réception du joueur au moins (Carson Bruhn (KAN)),2143,72898,1806073845,4742278386,66+,66+,10.0,0,False
-17956174,TCU Horned Frogs vs. Kansas Jayhawks,Carson Bruhn,Verges de réception du joueur au moins (Carson Bruhn (KAN)),2143,72898,1806073845,4742278387,76+,76+,17.0,0,False
-17956174,TCU Horned Frogs vs. Kansas Jayhawks,Carson Bruhn,Verges de réception du joueur au moins (Carson Bruhn (KAN)),2143,72898,1806073845,4742278388,86+,86+,31.0,0,False
+17956174,TCU Horned Frogs vs. Kansas Jayhawks,Nahzae Cox,Verges de réception du joueur au moins (Nahzae Cox (KAN)),2143,72898,1806073848,4727327349,20+,20+,1.5883,0,False
 17956174,TCU Horned Frogs vs. Kansas Jayhawks,Dylan Edwards,Verges de réception du joueur au moins (Dylan Edwards (KAN)),2143,72898,1806073855,4730612916,15+,15+,1.9091,0,False
 17956174,TCU Horned Frogs vs. Kansas Jayhawks,Dylan Edwards,Verges de réception du joueur au moins (Dylan Edwards (KAN)),2143,72898,1806073855,4730612917,25+,25+,2.45,0,False
 17956174,TCU Horned Frogs vs. Kansas Jayhawks,Dylan Edwards,Verges de réception du joueur au moins (Dylan Edwards (KAN)),2143,72898,1806073855,4730612919,35+,35+,3.3,0,False
@@ -78,22 +79,22 @@ event_id,match,player,market,market_type_id,sport_market_id,child_market_id,odd_
 17956174,TCU Horned Frogs vs. Kansas Jayhawks,Dylan Edwards,Verges de réception du joueur au moins (Dylan Edwards (KAN)),2143,72898,1806073855,4730612922,65+,65+,11.0,0,False
 17956174,TCU Horned Frogs vs. Kansas Jayhawks,Dylan Edwards,Verges de réception du joueur au moins (Dylan Edwards (KAN)),2143,72898,1806073855,4730612923,75+,75+,18.0,0,False
 17956174,TCU Horned Frogs vs. Kansas Jayhawks,Dylan Edwards,Verges de réception du joueur au moins (Dylan Edwards (KAN)),2143,72898,1806073855,4730612924,85+,85+,31.0,0,False
-17956174,TCU Horned Frogs vs. Kansas Jayhawks,Jaden Craig,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1798920181,4706060139,Jaden Craig (TCU) Plus de 1.5,Jaden Craig (TCU) Plus de 1.5,1.7143,0,False
-17956174,TCU Horned Frogs vs. Kansas Jayhawks,Jaden Craig,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1798920181,4706060140,Jaden Craig (TCU) moins de 1.5,Jaden Craig (TCU) moins de 1.5,1.9091,0,False
-17956174,TCU Horned Frogs vs. Kansas Jayhawks,Isaiah Marshall,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1804898163,4723182493,Isaiah Marshall (KU) Plus de 0.5,Isaiah Marshall (KU) Plus de 0.5,1.4,0,False
-17956174,TCU Horned Frogs vs. Kansas Jayhawks,Isaiah Marshall,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1804898163,4723182494,Isaiah Marshall (KU) moins de 0.5,Isaiah Marshall (KU) moins de 0.5,2.55,0,False
-17956174,TCU Horned Frogs vs. Kansas Jayhawks,Jordan Dwyer,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1810216802,4740921033,Jordan Dwyer (TCU) Plus de 82.5,Jordan Dwyer (TCU) Plus de 82.5,1.8,0,False
-17956174,TCU Horned Frogs vs. Kansas Jayhawks,Jordan Dwyer,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1810216802,4740921034,Jordan Dwyer (TCU) moins de 82.5,Jordan Dwyer (TCU) moins de 82.5,1.8,0,False
+17956174,TCU Horned Frogs vs. Kansas Jayhawks,Jaden Craig,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1798920181,4706060139,Jaden Craig (TCU) Plus de 1.5,Jaden Craig (TCU) Plus de 1.5,1.7408,0,False
+17956174,TCU Horned Frogs vs. Kansas Jayhawks,Jaden Craig,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1798920181,4706060140,Jaden Craig (TCU) moins de 1.5,Jaden Craig (TCU) moins de 1.5,1.8696,0,False
+17956174,TCU Horned Frogs vs. Kansas Jayhawks,Isaiah Marshall,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1804898163,4723182493,Isaiah Marshall (KU) Plus de 0.5,Isaiah Marshall (KU) Plus de 0.5,1.3847,0,False
+17956174,TCU Horned Frogs vs. Kansas Jayhawks,Isaiah Marshall,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1804898163,4723182494,Isaiah Marshall (KU) moins de 0.5,Isaiah Marshall (KU) moins de 0.5,2.6,0,False
+17956174,TCU Horned Frogs vs. Kansas Jayhawks,Jordan Dwyer,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1810216023,4740919256,Jordan Dwyer (TCU) Plus de 83.5,Jordan Dwyer (TCU) Plus de 83.5,1.8334,0,False
+17956174,TCU Horned Frogs vs. Kansas Jayhawks,Jordan Dwyer,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1810216023,4740919257,Jordan Dwyer (TCU) moins de 83.5,Jordan Dwyer (TCU) moins de 83.5,1.7693,0,False
 17956174,TCU Horned Frogs vs. Kansas Jayhawks,Nacari Ashley,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1802986543,4717528570,Nacari Ashley (TCU) Plus de 44.5,Nacari Ashley (TCU) Plus de 44.5,1.7693,0,False
 17956174,TCU Horned Frogs vs. Kansas Jayhawks,Nacari Ashley,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1802986543,4717528571,Nacari Ashley (TCU) moins de 44.5,Nacari Ashley (TCU) moins de 44.5,1.8334,0,False
-17956174,TCU Horned Frogs vs. Kansas Jayhawks,Nik McMillan,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1800485869,4710253641,Nik McMillan (KU) Plus de 39.5,Nik McMillan (KU) Plus de 39.5,1.7693,0,False
-17956174,TCU Horned Frogs vs. Kansas Jayhawks,Nik McMillan,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1800485869,4710253642,Nik McMillan (KU) moins de 39.5,Nik McMillan (KU) moins de 39.5,1.8334,0,False
+17956174,TCU Horned Frogs vs. Kansas Jayhawks,Nik McMillan,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1800485869,4710253641,Nik McMillan (KU) Plus de 39.5,Nik McMillan (KU) Plus de 39.5,1.8334,0,False
+17956174,TCU Horned Frogs vs. Kansas Jayhawks,Nik McMillan,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1800485869,4710253642,Nik McMillan (KU) moins de 39.5,Nik McMillan (KU) moins de 39.5,1.7693,0,False
 17956174,TCU Horned Frogs vs. Kansas Jayhawks,Ed Small,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1803032241,4717637241,Ed Small (TCU) Plus de 37.5,Ed Small (TCU) Plus de 37.5,1.7693,0,False
 17956174,TCU Horned Frogs vs. Kansas Jayhawks,Ed Small,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1803032241,4717637242,Ed Small (TCU) moins de 37.5,Ed Small (TCU) moins de 37.5,1.8334,0,False
 17956174,TCU Horned Frogs vs. Kansas Jayhawks,Cam Pickett,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1810725802,4742260105,Cam Pickett (KU) Plus de 35.5,Cam Pickett (KU) Plus de 35.5,1.7693,0,False
 17956174,TCU Horned Frogs vs. Kansas Jayhawks,Cam Pickett,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1810725802,4742260106,Cam Pickett (KU) moins de 35.5,Cam Pickett (KU) moins de 35.5,1.8334,0,False
-17956174,TCU Horned Frogs vs. Kansas Jayhawks,Nahzae Cox,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1810725213,4742258648,Nahzae Cox (KU) Plus de 25.5,Nahzae Cox (KU) Plus de 25.5,1.8334,0,False
-17956174,TCU Horned Frogs vs. Kansas Jayhawks,Nahzae Cox,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1810725213,4742258649,Nahzae Cox (KU) moins de 25.5,Nahzae Cox (KU) moins de 25.5,1.7693,0,False
+17956174,TCU Horned Frogs vs. Kansas Jayhawks,Nahzae Cox,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1810725213,4742258648,Nahzae Cox (KU) Plus de 25.5,Nahzae Cox (KU) Plus de 25.5,1.7693,0,False
+17956174,TCU Horned Frogs vs. Kansas Jayhawks,Nahzae Cox,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1810725213,4742258649,Nahzae Cox (KU) moins de 25.5,Nahzae Cox (KU) moins de 25.5,1.8334,0,False
 17956174,TCU Horned Frogs vs. Kansas Jayhawks,Carson Bruhn,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1810725806,4742260113,Carson Bruhn (KU) Plus de 15.5,Carson Bruhn (KU) Plus de 15.5,1.7693,0,False
 17956174,TCU Horned Frogs vs. Kansas Jayhawks,Carson Bruhn,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1810725806,4742260114,Carson Bruhn (KU) moins de 15.5,Carson Bruhn (KU) moins de 15.5,1.8334,0,False
 17956174,TCU Horned Frogs vs. Kansas Jayhawks,Dylan Edwards,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1799301558,4706973773,Dylan Edwards (KU) Plus de 13.5,Dylan Edwards (KU) Plus de 13.5,1.7693,0,False
@@ -102,24 +103,24 @@ event_id,match,player,market,market_type_id,sport_market_id,child_market_id,odd_
 17956174,TCU Horned Frogs vs. Kansas Jayhawks,Dylan Edwards,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1803031689,4717635929,Dylan Edwards (KU) moins de 79.5,Dylan Edwards (KU) moins de 79.5,1.8334,0,False
 17956174,TCU Horned Frogs vs. Kansas Jayhawks,Jon Denman,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1803025821,4717620957,Jon Denman (TCU) Plus de 53.5,Jon Denman (TCU) Plus de 53.5,1.7693,0,False
 17956174,TCU Horned Frogs vs. Kansas Jayhawks,Jon Denman,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1803025821,4717620958,Jon Denman (TCU) moins de 53.5,Jon Denman (TCU) moins de 53.5,1.8334,0,False
-17956174,TCU Horned Frogs vs. Kansas Jayhawks,Isaiah Marshall,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1804897136,4723180058,Isaiah Marshall (KU) Plus de 25.5,Isaiah Marshall (KU) Plus de 25.5,1.7693,0,False
-17956174,TCU Horned Frogs vs. Kansas Jayhawks,Isaiah Marshall,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1804897136,4723180059,Isaiah Marshall (KU) moins de 25.5,Isaiah Marshall (KU) moins de 25.5,1.8334,0,False
+17956174,TCU Horned Frogs vs. Kansas Jayhawks,Isaiah Marshall,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1804897136,4723180058,Isaiah Marshall (KU) Plus de 25.5,Isaiah Marshall (KU) Plus de 25.5,1.8334,0,False
+17956174,TCU Horned Frogs vs. Kansas Jayhawks,Isaiah Marshall,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1804897136,4723180059,Isaiah Marshall (KU) moins de 25.5,Isaiah Marshall (KU) moins de 25.5,1.7693,0,False
 17956174,TCU Horned Frogs vs. Kansas Jayhawks,Jaden Craig,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1810206991,4740896181,Jaden Craig (TCU) Plus de 10.5,Jaden Craig (TCU) Plus de 10.5,1.8334,0,False
 17956174,TCU Horned Frogs vs. Kansas Jayhawks,Jaden Craig,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1810206991,4740896182,Jaden Craig (TCU) moins de 10.5,Jaden Craig (TCU) moins de 10.5,1.7693,0,False
 17956174,TCU Horned Frogs vs. Kansas Jayhawks,Jordan Dwyer,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1802990200,4717537933,Jordan Dwyer (TCU) Plus de 6.5,Jordan Dwyer (TCU) Plus de 6.5,2.1,0,False
 17956174,TCU Horned Frogs vs. Kansas Jayhawks,Jordan Dwyer,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1802990200,4717537934,Jordan Dwyer (TCU) moins de 6.5,Jordan Dwyer (TCU) moins de 6.5,1.6061,0,False
 17956174,TCU Horned Frogs vs. Kansas Jayhawks,Nacari Ashley,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1802986292,4717528024,Nacari Ashley (TCU) moins de 3.5,Nacari Ashley (TCU) moins de 3.5,2.05,0,False
 17956174,TCU Horned Frogs vs. Kansas Jayhawks,Nacari Ashley,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1802986292,4717528023,Nacari Ashley (TCU) Plus de 3.5,Nacari Ashley (TCU) Plus de 3.5,1.625,0,False
-17956174,TCU Horned Frogs vs. Kansas Jayhawks,Ed Small,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1799301572,4706973801,Ed Small (TCU) Plus de 3.5,Ed Small (TCU) Plus de 3.5,1.7408,0,False
-17956174,TCU Horned Frogs vs. Kansas Jayhawks,Ed Small,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1799301572,4706973802,Ed Small (TCU) moins de 3.5,Ed Small (TCU) moins de 3.5,1.9091,0,False
+17956174,TCU Horned Frogs vs. Kansas Jayhawks,Ed Small,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1799301572,4706973801,Ed Small (TCU) Plus de 3.5,Ed Small (TCU) Plus de 3.5,1.7693,0,False
+17956174,TCU Horned Frogs vs. Kansas Jayhawks,Ed Small,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1799301572,4706973802,Ed Small (TCU) moins de 3.5,Ed Small (TCU) moins de 3.5,1.8696,0,False
 17956174,TCU Horned Frogs vs. Kansas Jayhawks,Cam Pickett,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1810725803,4742260107,Cam Pickett (KU) Plus de 3.5,Cam Pickett (KU) Plus de 3.5,2.25,0,False
 17956174,TCU Horned Frogs vs. Kansas Jayhawks,Cam Pickett,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1810725803,4742260108,Cam Pickett (KU) moins de 3.5,Cam Pickett (KU) moins de 3.5,1.5264,0,False
 17956174,TCU Horned Frogs vs. Kansas Jayhawks,Nik McMillan,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1799433674,4707310200,Nik McMillan (KU) moins de 2.5,Nik McMillan (KU) moins de 2.5,1.8334,0,False
 17956174,TCU Horned Frogs vs. Kansas Jayhawks,Nik McMillan,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1799433674,4707310199,Nik McMillan (KU) Plus de 2.5,Nik McMillan (KU) Plus de 2.5,1.8,0,False
 17956174,TCU Horned Frogs vs. Kansas Jayhawks,Dylan Edwards,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1798920233,4706060243,Dylan Edwards (KU) Plus de 2.5,Dylan Edwards (KU) Plus de 2.5,2.15,0,False
 17956174,TCU Horned Frogs vs. Kansas Jayhawks,Dylan Edwards,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1798920233,4706060244,Dylan Edwards (KU) moins de 2.5,Dylan Edwards (KU) moins de 2.5,1.5715,0,False
-17956174,TCU Horned Frogs vs. Kansas Jayhawks,Nahzae Cox,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1803031710,4717635970,Nahzae Cox (KU) Plus de 1.5,Nahzae Cox (KU) Plus de 1.5,1.5264,0,False
-17956174,TCU Horned Frogs vs. Kansas Jayhawks,Nahzae Cox,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1803031710,4717635971,Nahzae Cox (KU) moins de 1.5,Nahzae Cox (KU) moins de 1.5,2.25,0,False
+17956174,TCU Horned Frogs vs. Kansas Jayhawks,Nahzae Cox,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1803031710,4717635970,Nahzae Cox (KU) Plus de 1.5,Nahzae Cox (KU) Plus de 1.5,1.5,0,False
+17956174,TCU Horned Frogs vs. Kansas Jayhawks,Nahzae Cox,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1803031710,4717635971,Nahzae Cox (KU) moins de 1.5,Nahzae Cox (KU) moins de 1.5,2.3,0,False
 17956174,TCU Horned Frogs vs. Kansas Jayhawks,Carson Bruhn,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1799750580,4708055803,Carson Bruhn (KU) Plus de 1.5,Carson Bruhn (KU) Plus de 1.5,1.6667,0,False
 17956174,TCU Horned Frogs vs. Kansas Jayhawks,Carson Bruhn,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1799750580,4708055804,Carson Bruhn (KU) moins de 1.5,Carson Bruhn (KU) moins de 1.5,2.0,0,False
 17956174,TCU Horned Frogs vs. Kansas Jayhawks,Jaden Craig,"Passes complétées, Joueur (prolongations incluses)",760,71921,1802969132,4717484602,Jaden Craig (TCU) Plus de 21.5,Jaden Craig (TCU) Plus de 21.5,1.8696,0,False
@@ -160,16 +161,17 @@ event_id,match,player,market,market_type_id,sport_market_id,child_market_id,odd_
 17956174,TCU Horned Frogs vs. Kansas Jayhawks,Jon Denman,Verges au sol du joueur au moins (Jon Denman (TCU)),2140,72895,1808863766,4736095469,138+,138+,17.0,0,False
 17956174,TCU Horned Frogs vs. Kansas Jayhawks,Jon Denman,Verges au sol du joueur au moins (Jon Denman (TCU)),2140,72895,1808863766,4736095470,48+,48+,1.5264,0,False
 17956174,TCU Horned Frogs vs. Kansas Jayhawks,Jon Denman,Verges au sol du joueur au moins (Jon Denman (TCU)),2140,72895,1808863766,4736095471,38+,38+,1.3077,0,False
-17956174,TCU Horned Frogs vs. Kansas Jayhawks,Dylan Edwards,Verges au sol du joueur au moins (Dylan Edwards (KAN)),2140,72895,1806073856,4738969184,142+,142+,4.4,0,False
-17956174,TCU Horned Frogs vs. Kansas Jayhawks,Dylan Edwards,Verges au sol du joueur au moins (Dylan Edwards (KAN)),2140,72895,1806073856,4738969185,152+,152+,5.25,0,False
-17956174,TCU Horned Frogs vs. Kansas Jayhawks,Dylan Edwards,Verges au sol du joueur au moins (Dylan Edwards (KAN)),2140,72895,1806073856,4738969186,162+,162+,6.5,0,False
-17956174,TCU Horned Frogs vs. Kansas Jayhawks,Dylan Edwards,Verges au sol du joueur au moins (Dylan Edwards (KAN)),2140,72895,1806073856,4738969187,72+,72+,1.625,0,False
-17956174,TCU Horned Frogs vs. Kansas Jayhawks,Dylan Edwards,Verges au sol du joueur au moins (Dylan Edwards (KAN)),2140,72895,1806073856,4738969188,62+,62+,1.4348,0,False
-17956174,TCU Horned Frogs vs. Kansas Jayhawks,Dylan Edwards,Verges au sol du joueur au moins (Dylan Edwards (KAN)),2140,72895,1806073856,4738969178,82+,82+,1.9091,0,False
-17956174,TCU Horned Frogs vs. Kansas Jayhawks,Dylan Edwards,Verges au sol du joueur au moins (Dylan Edwards (KAN)),2140,72895,1806073856,4738969179,92+,92+,2.1,0,False
-17956174,TCU Horned Frogs vs. Kansas Jayhawks,Dylan Edwards,Verges au sol du joueur au moins (Dylan Edwards (KAN)),2140,72895,1806073856,4738969181,112+,112+,2.75,0,False
-17956174,TCU Horned Frogs vs. Kansas Jayhawks,Dylan Edwards,Verges au sol du joueur au moins (Dylan Edwards (KAN)),2140,72895,1806073856,4738969182,122+,122+,3.2,0,False
-17956174,TCU Horned Frogs vs. Kansas Jayhawks,Dylan Edwards,Verges au sol du joueur au moins (Dylan Edwards (KAN)),2140,72895,1806073856,4738969183,132+,132+,3.75,0,False
+17956174,TCU Horned Frogs vs. Kansas Jayhawks,Dylan Edwards,Verges au sol du joueur au moins (Dylan Edwards (KAN)),2140,72895,1806073856,4733912448,159+,159+,6.0,0,False
+17956174,TCU Horned Frogs vs. Kansas Jayhawks,Dylan Edwards,Verges au sol du joueur au moins (Dylan Edwards (KAN)),2140,72895,1806073856,4733912449,69+,69+,1.6061,0,False
+17956174,TCU Horned Frogs vs. Kansas Jayhawks,Dylan Edwards,Verges au sol du joueur au moins (Dylan Edwards (KAN)),2140,72895,1806073856,4733912450,59+,59+,1.4167,0,False
+17956174,TCU Horned Frogs vs. Kansas Jayhawks,Dylan Edwards,Verges au sol du joueur au moins (Dylan Edwards (KAN)),2140,72895,1806073856,4733912440,79+,79+,1.8696,0,False
+17956174,TCU Horned Frogs vs. Kansas Jayhawks,Dylan Edwards,Verges au sol du joueur au moins (Dylan Edwards (KAN)),2140,72895,1806073856,4733912441,89+,89+,2.1,0,False
+17956174,TCU Horned Frogs vs. Kansas Jayhawks,Dylan Edwards,Verges au sol du joueur au moins (Dylan Edwards (KAN)),2140,72895,1806073856,4733912442,99+,99+,2.35,0,False
+17956174,TCU Horned Frogs vs. Kansas Jayhawks,Dylan Edwards,Verges au sol du joueur au moins (Dylan Edwards (KAN)),2140,72895,1806073856,4733912443,109+,109+,2.7,0,False
+17956174,TCU Horned Frogs vs. Kansas Jayhawks,Dylan Edwards,Verges au sol du joueur au moins (Dylan Edwards (KAN)),2140,72895,1806073856,4733912444,119+,119+,3.1,0,False
+17956174,TCU Horned Frogs vs. Kansas Jayhawks,Dylan Edwards,Verges au sol du joueur au moins (Dylan Edwards (KAN)),2140,72895,1806073856,4733912445,129+,129+,3.6,0,False
+17956174,TCU Horned Frogs vs. Kansas Jayhawks,Dylan Edwards,Verges au sol du joueur au moins (Dylan Edwards (KAN)),2140,72895,1806073856,4733912446,139+,139+,4.25,0,False
+17956174,TCU Horned Frogs vs. Kansas Jayhawks,Dylan Edwards,Verges au sol du joueur au moins (Dylan Edwards (KAN)),2140,72895,1806073856,4733912447,149+,149+,5.0,0,False
 17956174,TCU Horned Frogs vs. Kansas Jayhawks,Jaden Craig,Verges au sol du joueur au moins (Jaden Craig (TCU)),2140,72895,1810221996,4740933785,11+,11+,1.9091,0,False
 17956174,TCU Horned Frogs vs. Kansas Jayhawks,Jaden Craig,Verges au sol du joueur au moins (Jaden Craig (TCU)),2140,72895,1810221996,4740933786,21+,21+,2.65,0,False
 17956174,TCU Horned Frogs vs. Kansas Jayhawks,Jaden Craig,Verges au sol du joueur au moins (Jaden Craig (TCU)),2140,72895,1810221996,4740933787,31+,31+,4.0,0,False
@@ -183,18 +185,32 @@ event_id,match,player,market,market_type_id,sport_market_id,child_market_id,odd_
 17956174,TCU Horned Frogs vs. Kansas Jayhawks,Nik McMillan,Joueur total de réception (Nik McMillan (KAN)) (incl. OT),2142,72897,1806073850,4727271956,7+,7+,13.0,0,False
 17956174,TCU Horned Frogs vs. Kansas Jayhawks,Nik McMillan,Joueur total de réception (Nik McMillan (KAN)) (incl. OT),2142,72897,1806073850,4727271957,8+,8+,26.0,0,False
 17956174,TCU Horned Frogs vs. Kansas Jayhawks,Nik McMillan,Joueur total de réception (Nik McMillan (KAN)) (incl. OT),2142,72897,1806073850,4727271958,2+,2+,1.2353,0,False
-17956174,TCU Horned Frogs vs. Kansas Jayhawks,Ed Small,Joueur total de réception (Ed Small (TCU)) (incl. OT),2142,72897,1810221841,4740933413,4+,4+,1.8,0,False
-17956174,TCU Horned Frogs vs. Kansas Jayhawks,Ed Small,Joueur total de réception (Ed Small (TCU)) (incl. OT),2142,72897,1810221841,4740933415,5+,5+,2.3,0,False
-17956174,TCU Horned Frogs vs. Kansas Jayhawks,Ed Small,Joueur total de réception (Ed Small (TCU)) (incl. OT),2142,72897,1810221841,4740933416,6+,6+,3.1,0,False
-17956174,TCU Horned Frogs vs. Kansas Jayhawks,Ed Small,Joueur total de réception (Ed Small (TCU)) (incl. OT),2142,72897,1810221841,4740933418,7+,7+,4.5,0,False
-17956174,TCU Horned Frogs vs. Kansas Jayhawks,Ed Small,Joueur total de réception (Ed Small (TCU)) (incl. OT),2142,72897,1810221841,4740933420,8+,8+,6.75,0,False
-17956174,TCU Horned Frogs vs. Kansas Jayhawks,Ed Small,Joueur total de réception (Ed Small (TCU)) (incl. OT),2142,72897,1810221841,4740933422,9+,9+,11.0,0,False
-17956174,TCU Horned Frogs vs. Kansas Jayhawks,Ed Small,Joueur total de réception (Ed Small (TCU)) (incl. OT),2142,72897,1810221841,4740933425,3+,3+,1.3334,0,False
+17956174,TCU Horned Frogs vs. Kansas Jayhawks,Ed Small,Joueur total de réception (Ed Small (TCU)) (incl. OT),2142,72897,1810221841,4740933413,4+,4+,1.6471,0,False
+17956174,TCU Horned Frogs vs. Kansas Jayhawks,Ed Small,Joueur total de réception (Ed Small (TCU)) (incl. OT),2142,72897,1810221841,4740933415,5+,5+,2.15,0,False
+17956174,TCU Horned Frogs vs. Kansas Jayhawks,Ed Small,Joueur total de réception (Ed Small (TCU)) (incl. OT),2142,72897,1810221841,4740933416,6+,6+,2.85,0,False
+17956174,TCU Horned Frogs vs. Kansas Jayhawks,Ed Small,Joueur total de réception (Ed Small (TCU)) (incl. OT),2142,72897,1810221841,4740933418,7+,7+,4.0,0,False
+17956174,TCU Horned Frogs vs. Kansas Jayhawks,Ed Small,Joueur total de réception (Ed Small (TCU)) (incl. OT),2142,72897,1810221841,4740933420,8+,8+,5.75,0,False
+17956174,TCU Horned Frogs vs. Kansas Jayhawks,Ed Small,Joueur total de réception (Ed Small (TCU)) (incl. OT),2142,72897,1810221841,4740933422,9+,9+,9.0,0,False
+17956174,TCU Horned Frogs vs. Kansas Jayhawks,Ed Small,Joueur total de réception (Ed Small (TCU)) (incl. OT),2142,72897,1810221841,4740933425,3+,3+,1.2353,0,False
+17956174,TCU Horned Frogs vs. Kansas Jayhawks,Jordan Dwyer,Joueur total de réception (Jordan Dwyer (TCU)) (incl. OT),2142,72897,1810221839,4740935732,5+,5+,1.3334,0,False
+17956174,TCU Horned Frogs vs. Kansas Jayhawks,Jordan Dwyer,Joueur total de réception (Jordan Dwyer (TCU)) (incl. OT),2142,72897,1810221839,4740933398,7+,7+,2.25,0,False
+17956174,TCU Horned Frogs vs. Kansas Jayhawks,Jordan Dwyer,Joueur total de réception (Jordan Dwyer (TCU)) (incl. OT),2142,72897,1810221839,4740933399,8+,8+,3.0,0,False
+17956174,TCU Horned Frogs vs. Kansas Jayhawks,Jordan Dwyer,Joueur total de réception (Jordan Dwyer (TCU)) (incl. OT),2142,72897,1810221839,4740933400,9+,9+,4.25,0,False
+17956174,TCU Horned Frogs vs. Kansas Jayhawks,Jordan Dwyer,Joueur total de réception (Jordan Dwyer (TCU)) (incl. OT),2142,72897,1810221839,4740933401,10+,10+,6.25,0,False
+17956174,TCU Horned Frogs vs. Kansas Jayhawks,Jordan Dwyer,Joueur total de réception (Jordan Dwyer (TCU)) (incl. OT),2142,72897,1810221839,4740933402,11+,11+,10.0,0,False
+17956174,TCU Horned Frogs vs. Kansas Jayhawks,Jordan Dwyer,Joueur total de réception (Jordan Dwyer (TCU)) (incl. OT),2142,72897,1810221839,4740933404,6+,6+,1.7693,0,False
+17956174,TCU Horned Frogs vs. Kansas Jayhawks,Cam Pickett,Joueur total de réception (Cam Pickett (KAN)) (incl. OT),2142,72897,1806073847,4745419762,9+,9+,36.0,0,False
+17956174,TCU Horned Frogs vs. Kansas Jayhawks,Cam Pickett,Joueur total de réception (Cam Pickett (KAN)) (incl. OT),2142,72897,1806073847,4727271929,3+,3+,1.4762,0,False
+17956174,TCU Horned Frogs vs. Kansas Jayhawks,Cam Pickett,Joueur total de réception (Cam Pickett (KAN)) (incl. OT),2142,72897,1806073847,4727271930,4+,4+,2.3,0,False
+17956174,TCU Horned Frogs vs. Kansas Jayhawks,Cam Pickett,Joueur total de réception (Cam Pickett (KAN)) (incl. OT),2142,72897,1806073847,4727271931,5+,5+,3.3,0,False
+17956174,TCU Horned Frogs vs. Kansas Jayhawks,Cam Pickett,Joueur total de réception (Cam Pickett (KAN)) (incl. OT),2142,72897,1806073847,4727271932,6+,6+,5.5,0,False
+17956174,TCU Horned Frogs vs. Kansas Jayhawks,Cam Pickett,Joueur total de réception (Cam Pickett (KAN)) (incl. OT),2142,72897,1806073847,4727271933,7+,7+,10.0,0,False
+17956174,TCU Horned Frogs vs. Kansas Jayhawks,Cam Pickett,Joueur total de réception (Cam Pickett (KAN)) (incl. OT),2142,72897,1806073847,4727271934,8+,8+,19.0,0,False
 17956174,TCU Horned Frogs vs. Kansas Jayhawks,Kari Ashley,Joueur total de réception (Kari Ashley (TCU)) (incl. OT),2142,72897,1810221840,4740933409,8+,8+,10.0,0,False
 17956174,TCU Horned Frogs vs. Kansas Jayhawks,Kari Ashley,Joueur total de réception (Kari Ashley (TCU)) (incl. OT),2142,72897,1810221840,4740933410,9+,9+,20.0,0,False
 17956174,TCU Horned Frogs vs. Kansas Jayhawks,Kari Ashley,Joueur total de réception (Kari Ashley (TCU)) (incl. OT),2142,72897,1810221840,4740933411,10+,10+,41.0,0,False
 17956174,TCU Horned Frogs vs. Kansas Jayhawks,Kari Ashley,Joueur total de réception (Kari Ashley (TCU)) (incl. OT),2142,72897,1810221840,4740933412,4+,4+,1.5,0,False
-17956174,TCU Horned Frogs vs. Kansas Jayhawks,Kari Ashley,Joueur total de réception (Kari Ashley (TCU)) (incl. OT),2142,72897,1810221840,4740933405,5+,5+,2.4,0,False
+17956174,TCU Horned Frogs vs. Kansas Jayhawks,Kari Ashley,Joueur total de réception (Kari Ashley (TCU)) (incl. OT),2142,72897,1810221840,4740933405,5+,5+,2.35,0,False
 17956174,TCU Horned Frogs vs. Kansas Jayhawks,Kari Ashley,Joueur total de réception (Kari Ashley (TCU)) (incl. OT),2142,72897,1810221840,4740933406,6+,6+,3.4,0,False
 17956174,TCU Horned Frogs vs. Kansas Jayhawks,Kari Ashley,Joueur total de réception (Kari Ashley (TCU)) (incl. OT),2142,72897,1810221840,4740933407,7+,7+,5.5,0,False
 17956174,TCU Horned Frogs vs. Kansas Jayhawks,Nahzae Cox,Joueur total de réception (Nahzae Cox (KAN)) (incl. OT),2142,72897,1806073849,4727271946,3+,3+,2.4,0,False

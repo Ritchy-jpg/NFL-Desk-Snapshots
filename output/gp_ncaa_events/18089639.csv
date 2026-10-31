@@ -1,6 +1,7 @@
 event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id,selection,line,price,odd_id,odd_status,is_main_bet
 18089639,Memphis Tigers vs. Army Black Knights,2026-11-01T00:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Memphis Tigers,,1.4167,4710892446,0,False
 18089639,Memphis Tigers vs. Army Black Knights,2026-11-01T00:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Army Black Knights,,2.6,4710892447,0,False
+18089639,Memphis Tigers vs. Army Black Knights,2026-11-01T00:00:00Z,spread,Écart (prolongation incluse),223,70799,Memphis Tigers (+9.5),9.5,1.1,4716080640,0,False
 18089639,Memphis Tigers vs. Army Black Knights,2026-11-01T00:00:00Z,spread,Écart (prolongation incluse),223,70799,Army Black Knights (+3.5),-3.5,2.1,4716080641,0,False
 18089639,Memphis Tigers vs. Army Black Knights,2026-11-01T00:00:00Z,spread,Écart (prolongation incluse),223,70799,Memphis Tigers (-3.5),-3.5,1.6667,4716080642,0,False
 18089639,Memphis Tigers vs. Army Black Knights,2026-11-01T00:00:00Z,spread,Écart (prolongation incluse),223,70799,Memphis Tigers (-4.5),-4.5,1.7143,4716080643,0,False
@@ -23,6 +24,8 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 18089639,Memphis Tigers vs. Army Black Knights,2026-11-01T00:00:00Z,spread,Écart (prolongation incluse),223,70799,Army Black Knights (+18.5),-18.5,1.1819,4716080596,0,False
 18089639,Memphis Tigers vs. Army Black Knights,2026-11-01T00:00:00Z,spread,Écart (prolongation incluse),223,70799,Memphis Tigers (-14.5),-14.5,3.2,4716080597,0,False
 18089639,Memphis Tigers vs. Army Black Knights,2026-11-01T00:00:00Z,spread,Écart (prolongation incluse),223,70799,Army Black Knights (+14.5),-14.5,1.3125,4716080598,0,False
+18089639,Memphis Tigers vs. Army Black Knights,2026-11-01T00:00:00Z,spread,Écart (prolongation incluse),223,70799,Army Black Knights (-6.5),6.5,4.4,4716080599,0,False
+18089639,Memphis Tigers vs. Army Black Knights,2026-11-01T00:00:00Z,spread,Écart (prolongation incluse),223,70799,Memphis Tigers (+6.5),6.5,1.1819,4716080600,0,False
 18089639,Memphis Tigers vs. Army Black Knights,2026-11-01T00:00:00Z,spread,Écart (prolongation incluse),223,70799,Memphis Tigers (-16.5),-16.5,3.5,4716080601,0,False
 18089639,Memphis Tigers vs. Army Black Knights,2026-11-01T00:00:00Z,spread,Écart (prolongation incluse),223,70799,Army Black Knights (+16.5),-16.5,1.2667,4716080602,0,False
 18089639,Memphis Tigers vs. Army Black Knights,2026-11-01T00:00:00Z,spread,Écart (prolongation incluse),223,70799,Army Black Knights (+2.5),-2.5,2.5,4716080603,0,False
@@ -43,61 +46,82 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 18089639,Memphis Tigers vs. Army Black Knights,2026-11-01T00:00:00Z,spread,Écart (prolongation incluse),223,70799,Memphis Tigers (-1.5),-1.5,1.4546,4716080618,0,False
 18089639,Memphis Tigers vs. Army Black Knights,2026-11-01T00:00:00Z,spread,Écart (prolongation incluse),223,70799,Memphis Tigers (-5.5),-5.5,1.8,4716080619,0,True
 18089639,Memphis Tigers vs. Army Black Knights,2026-11-01T00:00:00Z,spread,Écart (prolongation incluse),223,70799,Army Black Knights (+5.5),-5.5,1.8696,4716080620,0,True
+18089639,Memphis Tigers vs. Army Black Knights,2026-11-01T00:00:00Z,spread,Écart (prolongation incluse),223,70799,Army Black Knights (-7.5),7.5,5.5,4716080621,0,False
+18089639,Memphis Tigers vs. Army Black Knights,2026-11-01T00:00:00Z,spread,Écart (prolongation incluse),223,70799,Memphis Tigers (+7.5),7.5,1.125,4716080622,0,False
 18089639,Memphis Tigers vs. Army Black Knights,2026-11-01T00:00:00Z,spread,Écart (prolongation incluse),223,70799,Army Black Knights (-3.5),3.5,3.7,4716080623,0,False
 18089639,Memphis Tigers vs. Army Black Knights,2026-11-01T00:00:00Z,spread,Écart (prolongation incluse),223,70799,Memphis Tigers (+3.5),3.5,1.25,4716080624,0,False
+18089639,Memphis Tigers vs. Army Black Knights,2026-11-01T00:00:00Z,spread,Écart (prolongation incluse),223,70799,Army Black Knights (+20.5),-20.5,1.1429,4716080627,0,False
+18089639,Memphis Tigers vs. Army Black Knights,2026-11-01T00:00:00Z,spread,Écart (prolongation incluse),223,70799,Memphis Tigers (-20.5),-20.5,5.0,4716080628,0,False
+18089639,Memphis Tigers vs. Army Black Knights,2026-11-01T00:00:00Z,spread,Écart (prolongation incluse),223,70799,Army Black Knights (+21.5),-21.5,1.1112,4716080629,0,False
+18089639,Memphis Tigers vs. Army Black Knights,2026-11-01T00:00:00Z,spread,Écart (prolongation incluse),223,70799,Memphis Tigers (-21.5),-21.5,6.0,4716080630,0,False
 18089639,Memphis Tigers vs. Army Black Knights,2026-11-01T00:00:00Z,spread,Écart (prolongation incluse),223,70799,Army Black Knights (-2.5),2.5,3.1,4716080631,0,False
 18089639,Memphis Tigers vs. Army Black Knights,2026-11-01T00:00:00Z,spread,Écart (prolongation incluse),223,70799,Memphis Tigers (+2.5),2.5,1.3334,4716080632,0,False
 18089639,Memphis Tigers vs. Army Black Knights,2026-11-01T00:00:00Z,spread,Écart (prolongation incluse),223,70799,Army Black Knights (-4.5),4.5,4.0,4716080633,0,False
 18089639,Memphis Tigers vs. Army Black Knights,2026-11-01T00:00:00Z,spread,Écart (prolongation incluse),223,70799,Memphis Tigers (+4.5),4.5,1.2223,4716080634,0,False
 18089639,Memphis Tigers vs. Army Black Knights,2026-11-01T00:00:00Z,spread,Écart (prolongation incluse),223,70799,Army Black Knights (-5.5),5.5,4.2,4716080635,0,False
 18089639,Memphis Tigers vs. Army Black Knights,2026-11-01T00:00:00Z,spread,Écart (prolongation incluse),223,70799,Memphis Tigers (+5.5),5.5,1.2,4716080636,0,False
+18089639,Memphis Tigers vs. Army Black Knights,2026-11-01T00:00:00Z,spread,Écart (prolongation incluse),223,70799,Army Black Knights (-8.5),8.5,6.0,4716080637,0,False
+18089639,Memphis Tigers vs. Army Black Knights,2026-11-01T00:00:00Z,spread,Écart (prolongation incluse),223,70799,Memphis Tigers (+8.5),8.5,1.1112,4716080638,0,False
+18089639,Memphis Tigers vs. Army Black Knights,2026-11-01T00:00:00Z,spread,Écart (prolongation incluse),223,70799,Army Black Knights (-9.5),9.5,6.5,4716080639,0,False
+18089639,Memphis Tigers vs. Army Black Knights,2026-11-01T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 72.5,72.5,3.75,4716080531,0,False
+18089639,Memphis Tigers vs. Army Black Knights,2026-11-01T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 72.5,72.5,1.2353,4716080532,0,False
+18089639,Memphis Tigers vs. Army Black Knights,2026-11-01T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 73.5,73.5,4.2,4716080533,0,False
+18089639,Memphis Tigers vs. Army Black Knights,2026-11-01T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 73.5,73.5,1.2,4716080534,0,False
 18089639,Memphis Tigers vs. Army Black Knights,2026-11-01T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 70.5,70.5,3.4,4716080535,0,False
 18089639,Memphis Tigers vs. Army Black Knights,2026-11-01T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 70.5,70.5,1.2858,4716080536,0,False
 18089639,Memphis Tigers vs. Army Black Knights,2026-11-01T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 71.5,71.5,3.5,4716080537,0,False
-18089639,Memphis Tigers vs. Army Black Knights,2026-11-01T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 71.5,71.5,1.2667,4716080538,0,False
+18089639,Memphis Tigers vs. Army Black Knights,2026-11-01T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 74.5,74.5,4.4,4717940121,0,False
 18089639,Memphis Tigers vs. Army Black Knights,2026-11-01T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 51.5,51.5,1.3334,4716080539,0,False
 18089639,Memphis Tigers vs. Army Black Knights,2026-11-01T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 51.5,51.5,3.1,4716080540,0,False
 18089639,Memphis Tigers vs. Army Black Knights,2026-11-01T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 61.5,61.5,1.9524,4716080541,0,False
 18089639,Memphis Tigers vs. Army Black Knights,2026-11-01T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 61.5,61.5,1.7408,4716080542,0,False
-18089639,Memphis Tigers vs. Army Black Knights,2026-11-01T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 53.5,53.5,1.4167,4716080543,0,False
-18089639,Memphis Tigers vs. Army Black Knights,2026-11-01T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 53.5,53.5,2.7,4716080544,0,False
-18089639,Memphis Tigers vs. Army Black Knights,2026-11-01T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 63.5,63.5,2.2,4716080545,0,False
+18089639,Memphis Tigers vs. Army Black Knights,2026-11-01T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 53.5,53.5,1.4348,4716080543,0,False
+18089639,Memphis Tigers vs. Army Black Knights,2026-11-01T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 53.5,53.5,2.65,4716080544,0,False
+18089639,Memphis Tigers vs. Army Black Knights,2026-11-01T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 63.5,63.5,2.25,4716080545,0,False
 18089639,Memphis Tigers vs. Army Black Knights,2026-11-01T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 56.5,56.5,2.25,4710892450,0,False
 18089639,Memphis Tigers vs. Army Black Knights,2026-11-01T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 56.5,56.5,1.5715,4710892451,0,False
-18089639,Memphis Tigers vs. Army Black Knights,2026-11-01T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 63.5,63.5,1.625,4716080546,0,False
+18089639,Memphis Tigers vs. Army Black Knights,2026-11-01T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 58.5,58.5,2.05,4712145335,0,False
 18089639,Memphis Tigers vs. Army Black Knights,2026-11-01T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 47.5,47.5,1.2,4716080549,0,False
 18089639,Memphis Tigers vs. Army Black Knights,2026-11-01T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 47.5,47.5,4.2,4716080550,0,False
 18089639,Memphis Tigers vs. Army Black Knights,2026-11-01T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 67.5,67.5,2.75,4716080551,0,False
-18089639,Memphis Tigers vs. Army Black Knights,2026-11-01T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 67.5,67.5,1.4,4716080552,0,False
+18089639,Memphis Tigers vs. Army Black Knights,2026-11-01T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 63.5,63.5,1.5715,4716080546,0,False
+18089639,Memphis Tigers vs. Army Black Knights,2026-11-01T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 45.5,45.5,1.1539,4716080553,0,False
 18089639,Memphis Tigers vs. Army Black Knights,2026-11-01T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 57.5,57.5,1.6451,4711914538,0,False
 18089639,Memphis Tigers vs. Army Black Knights,2026-11-01T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 65.5,65.5,2.5,4716080555,0,False
-18089639,Memphis Tigers vs. Army Black Knights,2026-11-01T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 57.5,57.5,2.15,4711914539,0,False
+18089639,Memphis Tigers vs. Army Black Knights,2026-11-01T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 45.5,45.5,4.75,4716080554,0,False
 18089639,Memphis Tigers vs. Army Black Knights,2026-11-01T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 55.5,55.5,1.5455,4716080557,0,False
 18089639,Memphis Tigers vs. Army Black Knights,2026-11-01T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 55.5,55.5,2.35,4716080558,0,False
 18089639,Memphis Tigers vs. Army Black Knights,2026-11-01T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 54.5,54.5,1.4762,4716080559,0,False
 18089639,Memphis Tigers vs. Army Black Knights,2026-11-01T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 54.5,54.5,2.55,4716080560,0,False
 18089639,Memphis Tigers vs. Army Black Knights,2026-11-01T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 64.5,64.5,2.3,4716080561,0,False
+18089639,Memphis Tigers vs. Army Black Knights,2026-11-01T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 57.5,57.5,2.15,4711914539,0,False
 18089639,Memphis Tigers vs. Army Black Knights,2026-11-01T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 64.5,64.5,1.5556,4716080562,0,False
 18089639,Memphis Tigers vs. Army Black Knights,2026-11-01T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 65.5,65.5,1.5,4716080556,0,False
 18089639,Memphis Tigers vs. Army Black Knights,2026-11-01T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 66.5,66.5,1.4348,4716080565,0,False
 18089639,Memphis Tigers vs. Army Black Knights,2026-11-01T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 58.5,58.5,1.6897,4712145334,0,False
+18089639,Memphis Tigers vs. Army Black Knights,2026-11-01T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 46.5,46.5,1.1819,4716080567,0,False
 18089639,Memphis Tigers vs. Army Black Knights,2026-11-01T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 66.5,66.5,2.65,4716080566,0,False
-18089639,Memphis Tigers vs. Army Black Knights,2026-11-01T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 58.5,58.5,2.05,4712145335,0,False
 18089639,Memphis Tigers vs. Army Black Knights,2026-11-01T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 48.5,48.5,1.2353,4716080569,0,False
-18089639,Memphis Tigers vs. Army Black Knights,2026-11-01T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 48.5,48.5,3.75,4716080570,0,False
+18089639,Memphis Tigers vs. Army Black Knights,2026-11-01T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 75.5,75.5,4.75,4727092408,0,False
 18089639,Memphis Tigers vs. Army Black Knights,2026-11-01T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 49.5,49.5,1.2667,4716080571,0,False
-18089639,Memphis Tigers vs. Army Black Knights,2026-11-01T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 49.5,49.5,3.5,4716080572,0,False
-18089639,Memphis Tigers vs. Army Black Knights,2026-11-01T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 59.5,59.5,1.8334,4716080573,0,True
-18089639,Memphis Tigers vs. Army Black Knights,2026-11-01T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 59.5,59.5,1.8334,4716080574,0,True
+18089639,Memphis Tigers vs. Army Black Knights,2026-11-01T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 46.5,46.5,4.4,4716080568,0,False
+18089639,Memphis Tigers vs. Army Black Knights,2026-11-01T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 59.5,59.5,1.8,4716080573,0,False
+18089639,Memphis Tigers vs. Army Black Knights,2026-11-01T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 48.5,48.5,3.75,4716080570,0,False
 18089639,Memphis Tigers vs. Army Black Knights,2026-11-01T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 69.5,69.5,3.2,4716080575,0,False
-18089639,Memphis Tigers vs. Army Black Knights,2026-11-01T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 69.5,69.5,1.3125,4716080576,0,False
+18089639,Memphis Tigers vs. Army Black Knights,2026-11-01T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 49.5,49.5,3.5,4716080572,0,False
 18089639,Memphis Tigers vs. Army Black Knights,2026-11-01T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 68.5,68.5,2.9,4716080577,0,False
-18089639,Memphis Tigers vs. Army Black Knights,2026-11-01T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 68.5,68.5,1.3637,4716080578,0,False
-18089639,Memphis Tigers vs. Army Black Knights,2026-11-01T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 60.5,60.5,1.8696,4716080579,0,False
-18089639,Memphis Tigers vs. Army Black Knights,2026-11-01T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 60.5,60.5,1.8,4716080580,0,False
+18089639,Memphis Tigers vs. Army Black Knights,2026-11-01T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 59.5,59.5,1.8696,4716080574,0,False
+18089639,Memphis Tigers vs. Army Black Knights,2026-11-01T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 60.5,60.5,1.8334,4716080579,0,True
+18089639,Memphis Tigers vs. Army Black Knights,2026-11-01T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 60.5,60.5,1.8334,4716080580,0,True
 18089639,Memphis Tigers vs. Army Black Knights,2026-11-01T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 62.5,62.5,2.1,4716080581,0,False
 18089639,Memphis Tigers vs. Army Black Knights,2026-11-01T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 62.5,62.5,1.6667,4716080582,0,False
 18089639,Memphis Tigers vs. Army Black Knights,2026-11-01T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 50.5,50.5,1.2858,4716080583,0,False
 18089639,Memphis Tigers vs. Army Black Knights,2026-11-01T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 50.5,50.5,3.4,4716080584,0,False
 18089639,Memphis Tigers vs. Army Black Knights,2026-11-01T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 52.5,52.5,1.4,4716080585,0,False
 18089639,Memphis Tigers vs. Army Black Knights,2026-11-01T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 52.5,52.5,2.75,4716080586,0,False
+18089639,Memphis Tigers vs. Army Black Knights,2026-11-01T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 68.5,68.5,1.3637,4716080578,0,False
+18089639,Memphis Tigers vs. Army Black Knights,2026-11-01T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 75.5,75.5,1.1539,4727092409,0,False
+18089639,Memphis Tigers vs. Army Black Knights,2026-11-01T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 69.5,69.5,1.3125,4716080576,0,False
+18089639,Memphis Tigers vs. Army Black Knights,2026-11-01T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 71.5,71.5,1.2667,4716080538,0,False
+18089639,Memphis Tigers vs. Army Black Knights,2026-11-01T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 74.5,74.5,1.1819,4717940122,0,False
+18089639,Memphis Tigers vs. Army Black Knights,2026-11-01T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 67.5,67.5,1.4,4716080552,0,False

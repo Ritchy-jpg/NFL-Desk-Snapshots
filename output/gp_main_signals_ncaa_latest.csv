@@ -1,35 +1,15 @@
 captured_at,event_id,match,start_date,market,selection,side,signal,old_line,new_line,old_price,new_price,old_status,new_status,old_is_main_bet,new_is_main_bet
-2026-10-31T23:22:38.588720+00:00,17956165,North Carolina Tar Heels vs. Miami Hurricanes,2026-10-31T23:30:00Z,total,Moins de 52.5,under,MAIN_SWITCH,52.5,52.5,1.8696,1.8696,0,0.0,0,1.0
-2026-10-31T23:22:38.588720+00:00,17956165,North Carolina Tar Heels vs. Miami Hurricanes,2026-10-31T23:30:00Z,total,Plus de 52.5,over,MAIN_SWITCH,52.5,52.5,1.8,1.8,0,0.0,0,1.0
-2026-10-31T23:22:38.588720+00:00,17956166,Pittsburgh Panthers vs. Georgia Tech,2026-10-31T23:30:00Z,total,Moins de 54.5,under,MAIN_PRICE_MOVE,54.5,54.5,1.9091,1.8334,0,0.0,1,1.0
-2026-10-31T23:22:38.588720+00:00,17956166,Pittsburgh Panthers vs. Georgia Tech,2026-10-31T23:30:00Z,total,Plus de 54.5,over,MAIN_PRICE_MOVE,54.5,54.5,1.7693,1.8334,0,0.0,1,1.0
-2026-10-31T23:22:38.588720+00:00,17956175,Arkansas Razorbacks vs. Missouri Tigers,2026-10-31T23:45:00Z,spread,Arkansas Razorbacks (+10.5),Arkansas Razorbacks,MAIN_PRICE_MOVE,10.5,10.5,1.8,1.8334,0,0.0,1,1.0
-2026-10-31T23:22:38.588720+00:00,17956175,Arkansas Razorbacks vs. Missouri Tigers,2026-10-31T23:45:00Z,spread,Missouri Tigers (-10.5),Missouri Tigers,MAIN_PRICE_MOVE,-10.5,-10.5,1.8696,1.8334,0,0.0,1,1.0
-2026-10-31T23:22:38.588720+00:00,18089639,Memphis Tigers vs. Army Black Knights,2026-11-01T00:00:00Z,total,Plus de 58.5,over,MAIN_SWITCH,58.5,58.5,1.7693,1.7693,0,0.0,1,0.0
-2026-10-31T23:22:38.588720+00:00,18089639,Memphis Tigers vs. Army Black Knights,2026-11-01T00:00:00Z,total,Moins de 58.5,under,MAIN_SWITCH,58.5,58.5,1.9091,1.9091,0,0.0,1,0.0
-2026-10-31T23:22:38.588720+00:00,17956179,FRESNO vs. Oregon State Beavers,2026-11-01T03:00:00Z,spread,Oregon State Beavers (-5.5),Oregon State Beavers,MAIN_SWITCH,-5.5,-5.5,1.8,1.8,0,0.0,0,1.0
-2026-10-31T23:22:38.588720+00:00,17956179,FRESNO vs. Oregon State Beavers,2026-11-01T03:00:00Z,spread,FRESNO (+5.5),FRESNO,MAIN_SWITCH,5.5,5.5,1.8696,1.8696,0,0.0,0,1.0
-2026-10-31T23:22:38.588720+00:00,17956165,North Carolina Tar Heels vs. Miami Hurricanes,2026-10-31T23:30:00Z,total,Moins de 53.5,under,REMOVED_MAIN,53.5,,1.8334,,0,,1,
-2026-10-31T23:22:38.588720+00:00,17956165,North Carolina Tar Heels vs. Miami Hurricanes,2026-10-31T23:30:00Z,total,Plus de 53.5,over,REMOVED_MAIN,53.5,,1.8334,,0,,1,
-2026-10-31T23:22:38.588720+00:00,17956165,North Carolina Tar Heels vs. Miami Hurricanes,2026-10-31T23:30:00Z,spread,North Carolina Tar Heels (+14.0),North Carolina Tar Heels,REMOVED_MAIN,14.0,,1.8334,,0,,1,
-2026-10-31T23:22:38.588720+00:00,17956165,North Carolina Tar Heels vs. Miami Hurricanes,2026-10-31T23:30:00Z,spread,Miami Hurricanes (-14.0),Miami Hurricanes,REMOVED_MAIN,-14.0,,1.8334,,0,,1,
-2026-10-31T23:22:38.588720+00:00,17988254,Akron Zips vs. Ohio Bobcats,2026-11-04T00:00:00Z,total,Plus de 49.5,over,REMOVED_MAIN,49.5,,1.8334,,0,,1,
-2026-10-31T23:22:38.588720+00:00,17988254,Akron Zips vs. Ohio Bobcats,2026-11-04T00:00:00Z,total,Moins de 49.5,under,REMOVED_MAIN,49.5,,1.8334,,0,,1,
-2026-10-31T23:22:38.588720+00:00,17988254,Akron Zips vs. Ohio Bobcats,2026-11-04T00:00:00Z,spread,Akron Zips (+12.5),Akron Zips,REMOVED_MAIN,12.5,,1.8696,,0,,1,
-2026-10-31T23:22:38.588720+00:00,17988254,Akron Zips vs. Ohio Bobcats,2026-11-04T00:00:00Z,spread,Ohio Bobcats (-12.5),Ohio Bobcats,REMOVED_MAIN,-12.5,,1.8,,0,,1,
-2026-10-31T23:22:38.588720+00:00,17988255,Miami Redhawks vs. Buffalo Bulls,2026-11-04T01:00:00Z,spread,Miami Redhawks (-5.5),Miami Redhawks,REMOVED_MAIN,-5.5,,1.8334,,0,,1,
-2026-10-31T23:22:38.588720+00:00,17988255,Miami Redhawks vs. Buffalo Bulls,2026-11-04T01:00:00Z,spread,Buffalo Bulls (+5.5),Buffalo Bulls,REMOVED_MAIN,5.5,,1.8334,,0,,1,
-2026-10-31T23:22:38.588720+00:00,17988255,Miami Redhawks vs. Buffalo Bulls,2026-11-04T01:00:00Z,total,Plus de 45.5,over,REMOVED_MAIN,45.5,,1.8334,,0,,1,
-2026-10-31T23:22:38.588720+00:00,17988255,Miami Redhawks vs. Buffalo Bulls,2026-11-04T01:00:00Z,total,Moins de 45.5,under,REMOVED_MAIN,45.5,,1.8334,,0,,1,
-2026-10-31T23:22:38.588720+00:00,17998448,MICHIGAN EST vs. Central Mich Chippewas,2026-11-05T00:30:00Z,total,Plus de 45.5,over,REMOVED_MAIN,45.5,,1.8334,,0,,1,
-2026-10-31T23:22:38.588720+00:00,17998448,MICHIGAN EST vs. Central Mich Chippewas,2026-11-05T00:30:00Z,total,Moins de 45.5,under,REMOVED_MAIN,45.5,,1.8334,,0,,1,
-2026-10-31T23:22:38.588720+00:00,17998448,MICHIGAN EST vs. Central Mich Chippewas,2026-11-05T00:30:00Z,spread,MICHIGAN EST (-2.5),MICHIGAN EST,REMOVED_MAIN,-2.5,,1.8696,,0,,1,
-2026-10-31T23:22:38.588720+00:00,17998448,MICHIGAN EST vs. Central Mich Chippewas,2026-11-05T00:30:00Z,spread,Central Mich Chippewas (+2.5),Central Mich Chippewas,REMOVED_MAIN,2.5,,1.8,,0,,1,
-2026-10-31T23:22:38.588720+00:00,17998450,UMass Minutemen vs. Ball State Cardinals,2026-11-05T00:00:00Z,spread,UMass Minutemen (-3.5),UMass Minutemen,REMOVED_MAIN,-3.5,,1.8,,0,,1,
-2026-10-31T23:22:38.588720+00:00,17998450,UMass Minutemen vs. Ball State Cardinals,2026-11-05T00:00:00Z,spread,Ball State Cardinals (+3.5),Ball State Cardinals,REMOVED_MAIN,3.5,,1.8696,,0,,1,
-2026-10-31T23:22:38.588720+00:00,17998450,UMass Minutemen vs. Ball State Cardinals,2026-11-05T00:00:00Z,total,Plus de 48.5,over,REMOVED_MAIN,48.5,,1.8334,,0,,1,
-2026-10-31T23:22:38.588720+00:00,17998450,UMass Minutemen vs. Ball State Cardinals,2026-11-05T00:00:00Z,total,Moins de 48.5,under,REMOVED_MAIN,48.5,,1.8334,,0,,1,
-2026-10-31T23:22:38.588720+00:00,18029226,Tennessee Volunteers vs. Kentucky Wildcats,2026-11-07T05:00:00Z,spread,Tennessee Volunteers (-6.5),Tennessee Volunteers,REMOVED_MAIN,-6.5,,1.8696,,0,,1,
-2026-10-31T23:22:38.588720+00:00,18029226,Tennessee Volunteers vs. Kentucky Wildcats,2026-11-07T05:00:00Z,spread,Kentucky Wildcats (+6.5),Kentucky Wildcats,REMOVED_MAIN,6.5,,1.8,,0,,1,
-2026-10-31T23:22:38.588720+00:00,18029226,Tennessee Volunteers vs. Kentucky Wildcats,2026-11-07T05:00:00Z,total,Plus de 50.5,over,REMOVED_MAIN,50.5,,1.8696,,0,,1,
-2026-10-31T23:22:38.588720+00:00,18029226,Tennessee Volunteers vs. Kentucky Wildcats,2026-11-07T05:00:00Z,total,Moins de 50.5,under,REMOVED_MAIN,50.5,,1.8,,0,,1,
+2026-11-01T00:41:24.510326+00:00,17956187,Boise State Broncos vs. Texas State Bobcats,2026-11-01T02:00:00Z,spread,Texas State Bobcats (+10.5),Texas State Bobcats,MAIN_PRICE_MOVE,10.5,10.5,1.8334,1.8,0,0.0,1,1.0
+2026-11-01T00:41:24.510326+00:00,17956187,Boise State Broncos vs. Texas State Bobcats,2026-11-01T02:00:00Z,spread,Boise State Broncos (-10.5),Boise State Broncos,MAIN_PRICE_MOVE,-10.5,-10.5,1.8334,1.8696,0,0.0,1,1.0
+2026-11-01T00:41:24.510326+00:00,17956187,Boise State Broncos vs. Texas State Bobcats,2026-11-01T02:00:00Z,total,Plus de 63.5,over,MAIN_PRICE_MOVE,63.5,63.5,1.8334,1.8696,0,0.0,1,1.0
+2026-11-01T00:41:24.510326+00:00,17956187,Boise State Broncos vs. Texas State Bobcats,2026-11-01T02:00:00Z,total,Moins de 63.5,under,MAIN_PRICE_MOVE,63.5,63.5,1.8334,1.8,0,0.0,1,1.0
+2026-11-01T00:41:24.510326+00:00,17956179,FRESNO vs. Oregon State Beavers,2026-11-01T03:00:00Z,spread,Oregon State Beavers (-5.5),Oregon State Beavers,MAIN_SWITCH,-5.5,-5.5,1.8,1.8,0,0.0,1,0.0
+2026-11-01T00:41:24.510326+00:00,17956179,FRESNO vs. Oregon State Beavers,2026-11-01T03:00:00Z,spread,FRESNO (+5.5),FRESNO,MAIN_SWITCH,5.5,5.5,1.8696,1.8696,0,0.0,1,0.0
+2026-11-01T00:41:24.510326+00:00,17235353,Utah Utes vs. BYU Cougars,2026-11-07T05:00:00Z,spread,Utah Utes (-2.5),Utah Utes,REMOVED_MAIN,-2.5,,1.7693,,0,,1,
+2026-11-01T00:41:24.510326+00:00,17235353,Utah Utes vs. BYU Cougars,2026-11-07T05:00:00Z,spread,BYU Cougars (+2.5),BYU Cougars,REMOVED_MAIN,2.5,,1.9091,,0,,1,
+2026-11-01T00:41:24.510326+00:00,17235353,Utah Utes vs. BYU Cougars,2026-11-07T05:00:00Z,total,Plus de 48.5,over,REMOVED_MAIN,48.5,,1.8696,,0,,1,
+2026-11-01T00:41:24.510326+00:00,17235353,Utah Utes vs. BYU Cougars,2026-11-07T05:00:00Z,total,Moins de 48.5,under,REMOVED_MAIN,48.5,,1.8,,0,,1,
+2026-11-01T00:41:24.510326+00:00,18018787,SMU Mustangs vs. Virginia Tech Hokies,2026-11-07T00:00:00Z,spread,SMU Mustangs (-7.5),SMU Mustangs,REMOVED_MAIN,-7.5,,1.8,,7,,1,
+2026-11-01T00:41:24.510326+00:00,18018787,SMU Mustangs vs. Virginia Tech Hokies,2026-11-07T00:00:00Z,spread,Virginia Tech Hokies (+7.5),Virginia Tech Hokies,REMOVED_MAIN,7.5,,1.8696,,7,,1,
+2026-11-01T00:41:24.510326+00:00,18018787,SMU Mustangs vs. Virginia Tech Hokies,2026-11-07T00:00:00Z,total,Plus de 57.5,over,REMOVED_MAIN,57.5,,1.8334,,7,,1,
+2026-11-01T00:41:24.510326+00:00,18018787,SMU Mustangs vs. Virginia Tech Hokies,2026-11-07T00:00:00Z,total,Moins de 57.5,under,REMOVED_MAIN,57.5,,1.8334,,7,,1,

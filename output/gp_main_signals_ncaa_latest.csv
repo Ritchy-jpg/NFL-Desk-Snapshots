@@ -1,15 +1,31 @@
 captured_at,event_id,match,start_date,market,selection,side,signal,old_line,new_line,old_price,new_price,old_status,new_status,old_is_main_bet,new_is_main_bet
-2026-11-01T00:41:24.510326+00:00,17956187,Boise State Broncos vs. Texas State Bobcats,2026-11-01T02:00:00Z,spread,Texas State Bobcats (+10.5),Texas State Bobcats,MAIN_PRICE_MOVE,10.5,10.5,1.8334,1.8,0,0.0,1,1.0
-2026-11-01T00:41:24.510326+00:00,17956187,Boise State Broncos vs. Texas State Bobcats,2026-11-01T02:00:00Z,spread,Boise State Broncos (-10.5),Boise State Broncos,MAIN_PRICE_MOVE,-10.5,-10.5,1.8334,1.8696,0,0.0,1,1.0
-2026-11-01T00:41:24.510326+00:00,17956187,Boise State Broncos vs. Texas State Bobcats,2026-11-01T02:00:00Z,total,Plus de 63.5,over,MAIN_PRICE_MOVE,63.5,63.5,1.8334,1.8696,0,0.0,1,1.0
-2026-11-01T00:41:24.510326+00:00,17956187,Boise State Broncos vs. Texas State Bobcats,2026-11-01T02:00:00Z,total,Moins de 63.5,under,MAIN_PRICE_MOVE,63.5,63.5,1.8334,1.8,0,0.0,1,1.0
-2026-11-01T00:41:24.510326+00:00,17956179,FRESNO vs. Oregon State Beavers,2026-11-01T03:00:00Z,spread,Oregon State Beavers (-5.5),Oregon State Beavers,MAIN_SWITCH,-5.5,-5.5,1.8,1.8,0,0.0,1,0.0
-2026-11-01T00:41:24.510326+00:00,17956179,FRESNO vs. Oregon State Beavers,2026-11-01T03:00:00Z,spread,FRESNO (+5.5),FRESNO,MAIN_SWITCH,5.5,5.5,1.8696,1.8696,0,0.0,1,0.0
-2026-11-01T00:41:24.510326+00:00,17235353,Utah Utes vs. BYU Cougars,2026-11-07T05:00:00Z,spread,Utah Utes (-2.5),Utah Utes,REMOVED_MAIN,-2.5,,1.7693,,0,,1,
-2026-11-01T00:41:24.510326+00:00,17235353,Utah Utes vs. BYU Cougars,2026-11-07T05:00:00Z,spread,BYU Cougars (+2.5),BYU Cougars,REMOVED_MAIN,2.5,,1.9091,,0,,1,
-2026-11-01T00:41:24.510326+00:00,17235353,Utah Utes vs. BYU Cougars,2026-11-07T05:00:00Z,total,Plus de 48.5,over,REMOVED_MAIN,48.5,,1.8696,,0,,1,
-2026-11-01T00:41:24.510326+00:00,17235353,Utah Utes vs. BYU Cougars,2026-11-07T05:00:00Z,total,Moins de 48.5,under,REMOVED_MAIN,48.5,,1.8,,0,,1,
-2026-11-01T00:41:24.510326+00:00,18018787,SMU Mustangs vs. Virginia Tech Hokies,2026-11-07T00:00:00Z,spread,SMU Mustangs (-7.5),SMU Mustangs,REMOVED_MAIN,-7.5,,1.8,,7,,1,
-2026-11-01T00:41:24.510326+00:00,18018787,SMU Mustangs vs. Virginia Tech Hokies,2026-11-07T00:00:00Z,spread,Virginia Tech Hokies (+7.5),Virginia Tech Hokies,REMOVED_MAIN,7.5,,1.8696,,7,,1,
-2026-11-01T00:41:24.510326+00:00,18018787,SMU Mustangs vs. Virginia Tech Hokies,2026-11-07T00:00:00Z,total,Plus de 57.5,over,REMOVED_MAIN,57.5,,1.8334,,7,,1,
-2026-11-01T00:41:24.510326+00:00,18018787,SMU Mustangs vs. Virginia Tech Hokies,2026-11-07T00:00:00Z,total,Moins de 57.5,under,REMOVED_MAIN,57.5,,1.8334,,7,,1,
+2026-11-02T20:04:31.909763+00:00,17332054,LSU Tigers vs. Alabama Crimson Tide,2026-11-07T20:30:00Z,total,Moins de 52.5,under,MAIN_PRICE_MOVE,52.5,52.5,1.8334,1.8,0,0.0,1,1.0
+2026-11-02T20:04:31.909763+00:00,17332054,LSU Tigers vs. Alabama Crimson Tide,2026-11-07T20:30:00Z,total,Plus de 52.5,over,MAIN_PRICE_MOVE,52.5,52.5,1.8334,1.8696,0,0.0,1,1.0
+2026-11-02T20:04:31.909763+00:00,17218336,Michigan Wolverines vs. Michigan State Spartans,2026-11-07T05:00:00Z,spread,Michigan Wolverines (-14.5),Michigan Wolverines,REMOVED_MAIN,-14.5,,1.8696,,7,,1,
+2026-11-02T20:04:31.909763+00:00,17218336,Michigan Wolverines vs. Michigan State Spartans,2026-11-07T05:00:00Z,spread,Michigan State Spartans (+14.5),Michigan State Spartans,REMOVED_MAIN,14.5,,1.8,,7,,1,
+2026-11-02T20:04:31.909763+00:00,17218336,Michigan Wolverines vs. Michigan State Spartans,2026-11-07T05:00:00Z,total,Plus de 39.5,over,REMOVED_MAIN,39.5,,1.8334,,7,,1,
+2026-11-02T20:04:31.909763+00:00,17218336,Michigan Wolverines vs. Michigan State Spartans,2026-11-07T05:00:00Z,total,Moins de 39.5,under,REMOVED_MAIN,39.5,,1.8334,,7,,1,
+2026-11-02T20:04:31.909763+00:00,17218339,Ohio State Buckeyes vs. Oregon Ducks,2026-11-07T05:00:00Z,total,Plus de 45.5,over,REMOVED_MAIN,45.5,,1.8334,,7,,1,
+2026-11-02T20:04:31.909763+00:00,17218339,Ohio State Buckeyes vs. Oregon Ducks,2026-11-07T05:00:00Z,total,Moins de 45.5,under,REMOVED_MAIN,45.5,,1.8334,,7,,1,
+2026-11-02T20:04:31.909763+00:00,17218339,Ohio State Buckeyes vs. Oregon Ducks,2026-11-07T05:00:00Z,spread,Ohio State Buckeyes (-13.5),Ohio State Buckeyes,REMOVED_MAIN,-13.5,,1.8,,7,,1,
+2026-11-02T20:04:31.909763+00:00,17218339,Ohio State Buckeyes vs. Oregon Ducks,2026-11-07T05:00:00Z,spread,Oregon Ducks (+13.5),Oregon Ducks,REMOVED_MAIN,13.5,,1.8696,,7,,1,
+2026-11-02T20:04:31.909763+00:00,17332054,LSU Tigers vs. Alabama Crimson Tide,2026-11-07T20:30:00Z,spread,Alabama Crimson Tide (+4.5),Alabama Crimson Tide,REMOVED_MAIN,4.5,,1.8,,0,,1,
+2026-11-02T20:04:31.909763+00:00,17332054,LSU Tigers vs. Alabama Crimson Tide,2026-11-07T20:30:00Z,spread,LSU Tigers (-4.5),LSU Tigers,REMOVED_MAIN,-4.5,,1.8696,,0,,1,
+2026-11-02T20:04:31.909763+00:00,18029205,Northwestern Wildcats vs. Iowa Hawkeyes,2026-11-07T05:00:00Z,total,Plus de 42.5,over,REMOVED_MAIN,42.5,,1.8334,,7,,1,
+2026-11-02T20:04:31.909763+00:00,18029205,Northwestern Wildcats vs. Iowa Hawkeyes,2026-11-07T05:00:00Z,total,Moins de 42.5,under,REMOVED_MAIN,42.5,,1.8334,,7,,1,
+2026-11-02T20:04:31.909763+00:00,18029205,Northwestern Wildcats vs. Iowa Hawkeyes,2026-11-07T05:00:00Z,spread,Northwestern Wildcats (-2.5),Northwestern Wildcats,REMOVED_MAIN,-2.5,,1.8334,,7,,1,
+2026-11-02T20:04:31.909763+00:00,18029205,Northwestern Wildcats vs. Iowa Hawkeyes,2026-11-07T05:00:00Z,spread,Iowa Hawkeyes (+2.5),Iowa Hawkeyes,REMOVED_MAIN,2.5,,1.8334,,7,,1,
+2026-11-02T20:04:31.909763+00:00,18029206,Missouri Tigers vs. Texas Longhorns,2026-11-07T05:00:00Z,total,Plus de 49.5,over,REMOVED_MAIN,49.5,,1.8334,,0,,1,
+2026-11-02T20:04:31.909763+00:00,18029206,Missouri Tigers vs. Texas Longhorns,2026-11-07T05:00:00Z,total,Moins de 49.5,under,REMOVED_MAIN,49.5,,1.8334,,0,,1,
+2026-11-02T20:04:31.909763+00:00,18029206,Missouri Tigers vs. Texas Longhorns,2026-11-07T05:00:00Z,spread,Missouri Tigers (+3.5),Missouri Tigers,REMOVED_MAIN,3.5,,1.8696,,0,,1,
+2026-11-02T20:04:31.909763+00:00,18029206,Missouri Tigers vs. Texas Longhorns,2026-11-07T05:00:00Z,spread,Texas Longhorns (-3.5),Texas Longhorns,REMOVED_MAIN,-3.5,,1.8,,0,,1,
+2026-11-02T20:04:31.909763+00:00,18029214,Minnesota U Gophers vs. UCLA Bruins,2026-11-07T05:00:00Z,spread,Minnesota U Gophers (+6.5),Minnesota U Gophers,REMOVED_MAIN,6.5,,1.8334,,7,,1,
+2026-11-02T20:04:31.909763+00:00,18029214,Minnesota U Gophers vs. UCLA Bruins,2026-11-07T05:00:00Z,spread,UCLA Bruins (-6.5),UCLA Bruins,REMOVED_MAIN,-6.5,,1.8334,,7,,1,
+2026-11-02T20:04:31.909763+00:00,18029214,Minnesota U Gophers vs. UCLA Bruins,2026-11-07T05:00:00Z,total,Plus de 42.5,over,REMOVED_MAIN,42.5,,1.8334,,7,,1,
+2026-11-02T20:04:31.909763+00:00,18029214,Minnesota U Gophers vs. UCLA Bruins,2026-11-07T05:00:00Z,total,Moins de 42.5,under,REMOVED_MAIN,42.5,,1.8334,,7,,1,
+2026-11-02T20:04:31.909763+00:00,18029226,Tennessee Volunteers vs. Kentucky Wildcats,2026-11-07T23:15:00Z,spread,Kentucky Wildcats (+5.5),Kentucky Wildcats,REMOVED_MAIN,5.5,,1.8334,,0,,1,
+2026-11-02T20:04:31.909763+00:00,18029226,Tennessee Volunteers vs. Kentucky Wildcats,2026-11-07T23:15:00Z,spread,Tennessee Volunteers (-5.5),Tennessee Volunteers,REMOVED_MAIN,-5.5,,1.8334,,0,,1,
+2026-11-02T20:04:31.909763+00:00,18197909,Army Black Knights vs. Air Force Falcons,2026-11-08T00:30:00Z,spread,Army Black Knights (-5.5),Army Black Knights,REMOVED_MAIN,-5.5,,1.8,,7,,1,
+2026-11-02T20:04:31.909763+00:00,18197909,Army Black Knights vs. Air Force Falcons,2026-11-08T00:30:00Z,spread,Air Force Falcons (+5.5),Air Force Falcons,REMOVED_MAIN,5.5,,1.8696,,7,,1,
+2026-11-02T20:04:31.909763+00:00,18197909,Army Black Knights vs. Air Force Falcons,2026-11-08T00:30:00Z,total,Plus de 50.5,over,REMOVED_MAIN,50.5,,1.8334,,7,,1,
+2026-11-02T20:04:31.909763+00:00,18197909,Army Black Knights vs. Air Force Falcons,2026-11-08T00:30:00Z,total,Moins de 50.5,under,REMOVED_MAIN,50.5,,1.8334,,7,,1,

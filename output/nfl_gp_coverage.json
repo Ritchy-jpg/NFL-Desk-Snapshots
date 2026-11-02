@@ -1,5 +1,5 @@
 {
-  "observed_at": "2026-11-02T22:11:21.644466+00:00",
+  "observed_at": "2026-11-02T23:40:35.350734+00:00",
   "expected_events": 16,
   "successful_events": 16,
   "events": [
@@ -9,15 +9,23 @@
       "prop_selections": 1671,
       "players": 49,
       "prop_markets": 568,
-      "main_selections": 102
+      "main_selections": 102,
+      "raw_child_markets": 728,
+      "raw_named_child_markets": 684,
+      "raw_odds": 3269,
+      "props_status": "PARSED"
     },
     {
       "event_id": 16552398,
       "match": "BAL Ravens vs. JAX Jaguars",
-      "prop_selections": 789,
+      "prop_selections": 797,
       "players": 29,
       "prop_markets": 265,
-      "main_selections": 90
+      "main_selections": 90,
+      "raw_child_markets": 399,
+      "raw_named_child_markets": 336,
+      "raw_odds": 1886,
+      "props_status": "PARSED"
     },
     {
       "event_id": 16498842,
@@ -25,7 +33,11 @@
       "prop_selections": 154,
       "players": 14,
       "prop_markets": 77,
-      "main_selections": 6
+      "main_selections": 70,
+      "raw_child_markets": 114,
+      "raw_named_child_markets": 114,
+      "raw_odds": 648,
+      "props_status": "PARSED"
     },
     {
       "event_id": 16552383,
@@ -33,7 +45,11 @@
       "prop_selections": 148,
       "players": 13,
       "prop_markets": 74,
-      "main_selections": 6
+      "main_selections": 70,
+      "raw_child_markets": 109,
+      "raw_named_child_markets": 109,
+      "raw_odds": 642,
+      "props_status": "PARSED"
     },
     {
       "event_id": 16552384,
@@ -41,7 +57,11 @@
       "prop_selections": 0,
       "players": 0,
       "prop_markets": 0,
-      "main_selections": 6
+      "main_selections": 70,
+      "raw_child_markets": 0,
+      "raw_named_child_markets": 0,
+      "raw_odds": 291,
+      "props_status": "NO_PLAYER_CHILD_MARKETS_RETURNED"
     },
     {
       "event_id": 16552385,
@@ -49,15 +69,23 @@
       "prop_selections": 98,
       "players": 9,
       "prop_markets": 49,
-      "main_selections": 6
+      "main_selections": 70,
+      "raw_child_markets": 70,
+      "raw_named_child_markets": 70,
+      "raw_odds": 511,
+      "props_status": "PARSED"
     },
     {
       "event_id": 16552389,
       "match": "NO Saints vs. CLE Browns",
-      "prop_selections": 0,
-      "players": 0,
-      "prop_markets": 0,
-      "main_selections": 6
+      "prop_selections": 136,
+      "players": 12,
+      "prop_markets": 68,
+      "main_selections": 70,
+      "raw_child_markets": 98,
+      "raw_named_child_markets": 98,
+      "raw_odds": 607,
+      "props_status": "PARSED"
     },
     {
       "event_id": 16552390,
@@ -65,7 +93,11 @@
       "prop_selections": 150,
       "players": 12,
       "prop_markets": 75,
-      "main_selections": 6
+      "main_selections": 70,
+      "raw_child_markets": 109,
+      "raw_named_child_markets": 109,
+      "raw_odds": 646,
+      "props_status": "PARSED"
     },
     {
       "event_id": 16552395,
@@ -73,15 +105,23 @@
       "prop_selections": 0,
       "players": 0,
       "prop_markets": 0,
-      "main_selections": 6
+      "main_selections": 70,
+      "raw_child_markets": 0,
+      "raw_named_child_markets": 0,
+      "raw_odds": 293,
+      "props_status": "NO_PLAYER_CHILD_MARKETS_RETURNED"
     },
     {
       "event_id": 16552397,
       "match": "IND Colts vs. DAL Cowboys",
-      "prop_selections": 0,
-      "players": 0,
-      "prop_markets": 0,
-      "main_selections": 6
+      "prop_selections": 74,
+      "players": 6,
+      "prop_markets": 37,
+      "main_selections": 70,
+      "raw_child_markets": 54,
+      "raw_named_child_markets": 54,
+      "raw_odds": 453,
+      "props_status": "PARSED"
     },
     {
       "event_id": 16552381,
@@ -89,7 +129,11 @@
       "prop_selections": 64,
       "players": 6,
       "prop_markets": 32,
-      "main_selections": 6
+      "main_selections": 70,
+      "raw_child_markets": 48,
+      "raw_named_child_markets": 48,
+      "raw_odds": 488,
+      "props_status": "PARSED"
     },
     {
       "event_id": 16552377,
@@ -97,7 +141,11 @@
       "prop_selections": 0,
       "players": 0,
       "prop_markets": 0,
-      "main_selections": 6
+      "main_selections": 6,
+      "raw_child_markets": 0,
+      "raw_named_child_markets": 0,
+      "raw_odds": 37,
+      "props_status": "NO_PLAYER_CHILD_MARKETS_RETURNED"
     },
     {
       "event_id": 16552378,
@@ -105,7 +153,11 @@
       "prop_selections": 348,
       "players": 10,
       "prop_markets": 83,
-      "main_selections": 6
+      "main_selections": 70,
+      "raw_child_markets": 112,
+      "raw_named_child_markets": 108,
+      "raw_odds": 1013,
+      "props_status": "PARSED"
     },
     {
       "event_id": 16552380,
@@ -113,7 +165,11 @@
       "prop_selections": 0,
       "players": 0,
       "prop_markets": 0,
-      "main_selections": 6
+      "main_selections": 70,
+      "raw_child_markets": 0,
+      "raw_named_child_markets": 0,
+      "raw_odds": 285,
+      "props_status": "NO_PLAYER_CHILD_MARKETS_RETURNED"
     },
     {
       "event_id": 16552367,
@@ -121,7 +177,11 @@
       "prop_selections": 0,
       "players": 0,
       "prop_markets": 0,
-      "main_selections": 6
+      "main_selections": 6,
+      "raw_child_markets": 0,
+      "raw_named_child_markets": 0,
+      "raw_odds": 37,
+      "props_status": "NO_PLAYER_CHILD_MARKETS_RETURNED"
     },
     {
       "event_id": 16552350,
@@ -129,10 +189,15 @@
       "prop_selections": 122,
       "players": 11,
       "prop_markets": 61,
-      "main_selections": 2
+      "main_selections": 2,
+      "raw_child_markets": 90,
+      "raw_named_child_markets": 90,
+      "raw_odds": 468,
+      "props_status": "PARSED"
     }
   ],
-  "props": 3544,
-  "main_contracts": 272,
-  "complete": true
+  "props": 3762,
+  "main_contracts": 976,
+  "complete": true,
+  "completeness_scope": "events returned by GP GetEvents; not website or NFL schedule completeness"
 }

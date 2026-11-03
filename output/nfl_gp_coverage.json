@@ -1,18 +1,18 @@
 {
-  "observed_at": "2026-11-03T04:40:01.735071+00:00",
+  "observed_at": "2026-11-03T10:32:05.383101+00:00",
   "expected_events": 15,
   "successful_events": 15,
   "events": [
     {
       "event_id": 16552398,
       "match": "BAL Ravens vs. JAX Jaguars",
-      "prop_selections": 1474,
+      "prop_selections": 1471,
       "players": 29,
-      "prop_markets": 502,
+      "prop_markets": 503,
       "main_selections": 90,
-      "raw_child_markets": 679,
-      "raw_named_child_markets": 618,
-      "raw_odds": 2754,
+      "raw_child_markets": 680,
+      "raw_named_child_markets": 619,
+      "raw_odds": 2828,
       "props_status": "PARSED"
     },
     {
@@ -24,7 +24,7 @@
       "main_selections": 70,
       "raw_child_markets": 145,
       "raw_named_child_markets": 131,
-      "raw_odds": 1005,
+      "raw_odds": 1081,
       "props_status": "PARSED"
     },
     {
@@ -36,7 +36,7 @@
       "main_selections": 70,
       "raw_child_markets": 109,
       "raw_named_child_markets": 109,
-      "raw_odds": 642,
+      "raw_odds": 641,
       "props_status": "PARSED"
     },
     {
@@ -60,7 +60,7 @@
       "main_selections": 70,
       "raw_child_markets": 70,
       "raw_named_child_markets": 70,
-      "raw_odds": 512,
+      "raw_odds": 509,
       "props_status": "PARSED"
     },
     {
@@ -72,7 +72,7 @@
       "main_selections": 70,
       "raw_child_markets": 98,
       "raw_named_child_markets": 98,
-      "raw_odds": 624,
+      "raw_odds": 610,
       "props_status": "PARSED"
     },
     {
@@ -90,13 +90,13 @@
     {
       "event_id": 16552395,
       "match": "KC Chiefs vs. NY Jets",
-      "prop_selections": 168,
+      "prop_selections": 166,
       "players": 16,
-      "prop_markets": 84,
+      "prop_markets": 83,
       "main_selections": 70,
-      "raw_child_markets": 122,
-      "raw_named_child_markets": 122,
-      "raw_odds": 690,
+      "raw_child_markets": 121,
+      "raw_named_child_markets": 121,
+      "raw_odds": 677,
       "props_status": "PARSED"
     },
     {
@@ -108,7 +108,7 @@
       "main_selections": 70,
       "raw_child_markets": 54,
       "raw_named_child_markets": 54,
-      "raw_odds": 453,
+      "raw_odds": 441,
       "props_status": "PARSED"
     },
     {
@@ -120,7 +120,7 @@
       "main_selections": 70,
       "raw_child_markets": 48,
       "raw_named_child_markets": 48,
-      "raw_odds": 488,
+      "raw_odds": 490,
       "props_status": "PARSED"
     },
     {
@@ -129,22 +129,22 @@
       "prop_selections": 0,
       "players": 0,
       "prop_markets": 0,
-      "main_selections": 70,
+      "main_selections": 6,
       "raw_child_markets": 0,
       "raw_named_child_markets": 0,
-      "raw_odds": 165,
+      "raw_odds": 55,
       "props_status": "NO_PLAYER_CHILD_MARKETS_RETURNED"
     },
     {
       "event_id": 16552378,
       "match": "NE Patriots vs. GB Packers",
-      "prop_selections": 347,
+      "prop_selections": 349,
       "players": 10,
       "prop_markets": 83,
       "main_selections": 70,
       "raw_child_markets": 112,
       "raw_named_child_markets": 108,
-      "raw_odds": 1012,
+      "raw_odds": 1015,
       "props_status": "PARSED"
     },
     {
@@ -156,7 +156,7 @@
       "main_selections": 70,
       "raw_child_markets": 0,
       "raw_named_child_markets": 0,
-      "raw_odds": 285,
+      "raw_odds": 273,
       "props_status": "NO_PLAYER_CHILD_MARKETS_RETURNED"
     },
     {
@@ -165,10 +165,10 @@
       "prop_selections": 0,
       "players": 0,
       "prop_markets": 0,
-      "main_selections": 70,
+      "main_selections": 6,
       "raw_child_markets": 0,
       "raw_named_child_markets": 0,
-      "raw_odds": 165,
+      "raw_odds": 47,
       "props_status": "NO_PLAYER_CHILD_MARKETS_RETURNED"
     },
     {
@@ -180,12 +180,12 @@
       "main_selections": 70,
       "raw_child_markets": 90,
       "raw_named_child_markets": 90,
-      "raw_odds": 604,
+      "raw_odds": 591,
       "props_status": "PARSED"
     }
   ],
-  "props": 3081,
-  "main_contracts": 1070,
+  "props": 3078,
+  "main_contracts": 942,
   "complete": true,
   "completeness_scope": "events returned by GP GetEvents; not website or NFL schedule completeness"
 }

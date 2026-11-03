@@ -1,5 +1,5 @@
 {
-  "observed_at": "2026-11-03T02:08:45.874522+00:00",
+  "observed_at": "2026-11-03T04:40:01.735071+00:00",
   "expected_events": 15,
   "successful_events": 15,
   "events": [
@@ -12,19 +12,19 @@
       "main_selections": 90,
       "raw_child_markets": 679,
       "raw_named_child_markets": 618,
-      "raw_odds": 2753,
+      "raw_odds": 2754,
       "props_status": "PARSED"
     },
     {
       "event_id": 16498842,
       "match": "ATL Falcons vs. CIN Bengals",
-      "prop_selections": 154,
-      "players": 14,
-      "prop_markets": 77,
+      "prop_selections": 300,
+      "players": 15,
+      "prop_markets": 94,
       "main_selections": 70,
-      "raw_child_markets": 114,
-      "raw_named_child_markets": 114,
-      "raw_odds": 644,
+      "raw_child_markets": 145,
+      "raw_named_child_markets": 131,
+      "raw_odds": 1005,
       "props_status": "PARSED"
     },
     {
@@ -60,7 +60,7 @@
       "main_selections": 70,
       "raw_child_markets": 70,
       "raw_named_child_markets": 70,
-      "raw_odds": 511,
+      "raw_odds": 512,
       "props_status": "PARSED"
     },
     {
@@ -184,7 +184,7 @@
       "props_status": "PARSED"
     }
   ],
-  "props": 2935,
+  "props": 3081,
   "main_contracts": 1070,
   "complete": true,
   "completeness_scope": "events returned by GP GetEvents; not website or NFL schedule completeness"

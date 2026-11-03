@@ -1,24 +1,24 @@
 {
-  "observed_at": "2026-11-03T10:32:05.383101+00:00",
+  "observed_at": "2026-11-03T12:40:04.211749+00:00",
   "expected_events": 15,
   "successful_events": 15,
   "events": [
     {
       "event_id": 16552398,
       "match": "BAL Ravens vs. JAX Jaguars",
-      "prop_selections": 1471,
+      "prop_selections": 1459,
       "players": 29,
-      "prop_markets": 503,
+      "prop_markets": 498,
       "main_selections": 90,
-      "raw_child_markets": 680,
-      "raw_named_child_markets": 619,
-      "raw_odds": 2828,
+      "raw_child_markets": 676,
+      "raw_named_child_markets": 615,
+      "raw_odds": 2822,
       "props_status": "PARSED"
     },
     {
       "event_id": 16498842,
       "match": "ATL Falcons vs. CIN Bengals",
-      "prop_selections": 300,
+      "prop_selections": 299,
       "players": 15,
       "prop_markets": 94,
       "main_selections": 70,
@@ -60,7 +60,7 @@
       "main_selections": 70,
       "raw_child_markets": 70,
       "raw_named_child_markets": 70,
-      "raw_odds": 509,
+      "raw_odds": 510,
       "props_status": "PARSED"
     },
     {
@@ -96,7 +96,7 @@
       "main_selections": 70,
       "raw_child_markets": 121,
       "raw_named_child_markets": 121,
-      "raw_odds": 677,
+      "raw_odds": 676,
       "props_status": "PARSED"
     },
     {
@@ -144,7 +144,7 @@
       "main_selections": 70,
       "raw_child_markets": 112,
       "raw_named_child_markets": 108,
-      "raw_odds": 1015,
+      "raw_odds": 1013,
       "props_status": "PARSED"
     },
     {
@@ -184,7 +184,7 @@
       "props_status": "PARSED"
     }
   ],
-  "props": 3078,
+  "props": 3065,
   "main_contracts": 942,
   "complete": true,
   "completeness_scope": "events returned by GP GetEvents; not website or NFL schedule completeness"

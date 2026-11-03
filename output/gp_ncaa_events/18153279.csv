@@ -1,7 +1,15 @@
 event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id,selection,line,price,odd_id,odd_status,is_main_bet
 18153279,North Texas vs. Rice Owls,2026-11-07T21:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,North Texas,,1.0834,4752379088,0,False
 18153279,North Texas vs. Rice Owls,2026-11-07T21:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Rice Owls,,6.0,4752379087,0,False
+18153279,North Texas vs. Rice Owls,2026-11-07T21:00:00Z,spread,Écart (prolongation incluse),223,70799,Rice Owls (+17.5),-17.5,1.7693,4757411559,0,False
+18153279,North Texas vs. Rice Owls,2026-11-07T21:00:00Z,spread,Écart (prolongation incluse),223,70799,North Texas (-17.5),-17.5,1.9091,4757411560,0,False
+18153279,North Texas vs. Rice Owls,2026-11-07T21:00:00Z,spread,Écart (prolongation incluse),223,70799,North Texas (-15.5),-15.5,1.7408,4757411561,0,False
+18153279,North Texas vs. Rice Owls,2026-11-07T21:00:00Z,spread,Écart (prolongation incluse),223,70799,Rice Owls (+15.5),-15.5,1.9524,4757411562,0,False
 18153279,North Texas vs. Rice Owls,2026-11-07T21:00:00Z,spread,Écart (prolongation incluse),223,70799,Rice Owls (+16.5),-16.5,1.8696,4752379085,0,True
 18153279,North Texas vs. Rice Owls,2026-11-07T21:00:00Z,spread,Écart (prolongation incluse),223,70799,North Texas (-16.5),-16.5,1.8,4752379086,0,True
+18153279,North Texas vs. Rice Owls,2026-11-07T21:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 65.5,65.5,1.7143,4753272236,0,False
+18153279,North Texas vs. Rice Owls,2026-11-07T21:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 65.5,65.5,2.0,4753272237,0,False
+18153279,North Texas vs. Rice Owls,2026-11-07T21:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 63.5,63.5,1.8696,4753963919,0,False
+18153279,North Texas vs. Rice Owls,2026-11-07T21:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 63.5,63.5,1.8,4753963920,0,False
 18153279,North Texas vs. Rice Owls,2026-11-07T21:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 64.5,64.5,1.8334,4752379089,0,True
 18153279,North Texas vs. Rice Owls,2026-11-07T21:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 64.5,64.5,1.8334,4752379090,0,True

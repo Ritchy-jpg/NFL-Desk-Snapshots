@@ -1,7 +1,15 @@
 event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id,selection,line,price,odd_id,odd_status,is_main_bet
 18029223,Georgia Tech vs. Louisville Cardinals,2026-11-08T00:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Georgia Tech,,5.0,4752184412,0,False
 18029223,Georgia Tech vs. Louisville Cardinals,2026-11-08T00:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Louisville Cardinals,,1.125,4752184413,0,False
-18029223,Georgia Tech vs. Louisville Cardinals,2026-11-08T00:30:00Z,spread,Écart (prolongation incluse),223,70799,Louisville Cardinals (-14.5),14.5,1.8334,4753983960,0,True
+18029223,Georgia Tech vs. Louisville Cardinals,2026-11-08T00:30:00Z,spread,Écart (prolongation incluse),223,70799,Louisville Cardinals (-13.5),13.5,1.7143,4752184416,0,False
+18029223,Georgia Tech vs. Louisville Cardinals,2026-11-08T00:30:00Z,spread,Écart (prolongation incluse),223,70799,Georgia Tech (+13.5),13.5,2.0,4752184417,0,False
+18029223,Georgia Tech vs. Louisville Cardinals,2026-11-08T00:30:00Z,spread,Écart (prolongation incluse),223,70799,Georgia Tech (+15.5),15.5,1.7693,4757410159,0,False
+18029223,Georgia Tech vs. Louisville Cardinals,2026-11-08T00:30:00Z,spread,Écart (prolongation incluse),223,70799,Louisville Cardinals (-15.5),15.5,1.9091,4757410160,0,False
 18029223,Georgia Tech vs. Louisville Cardinals,2026-11-08T00:30:00Z,spread,Écart (prolongation incluse),223,70799,Georgia Tech (+14.5),14.5,1.8334,4753983959,0,True
+18029223,Georgia Tech vs. Louisville Cardinals,2026-11-08T00:30:00Z,spread,Écart (prolongation incluse),223,70799,Louisville Cardinals (-14.5),14.5,1.8334,4753983960,0,True
 18029223,Georgia Tech vs. Louisville Cardinals,2026-11-08T00:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 61.5,61.5,1.8,4757410026,0,True
 18029223,Georgia Tech vs. Louisville Cardinals,2026-11-08T00:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 61.5,61.5,1.8696,4757410028,0,True
+18029223,Georgia Tech vs. Louisville Cardinals,2026-11-08T00:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 62.5,62.5,2.05,4757410035,0,False
+18029223,Georgia Tech vs. Louisville Cardinals,2026-11-08T00:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 60.5,60.5,1.7693,4753983957,0,False
+18029223,Georgia Tech vs. Louisville Cardinals,2026-11-08T00:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 60.5,60.5,1.9091,4753983958,0,False
+18029223,Georgia Tech vs. Louisville Cardinals,2026-11-08T00:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 62.5,62.5,1.6897,4757410038,0,False

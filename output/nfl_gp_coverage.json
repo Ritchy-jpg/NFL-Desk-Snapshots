@@ -1,30 +1,18 @@
 {
-  "observed_at": "2026-11-02T23:40:35.350734+00:00",
-  "expected_events": 16,
-  "successful_events": 16,
+  "observed_at": "2026-11-03T01:55:07.175039+00:00",
+  "expected_events": 15,
+  "successful_events": 15,
   "events": [
-    {
-      "event_id": 16552403,
-      "match": "SEA Seahawks vs. CHI Bears",
-      "prop_selections": 1671,
-      "players": 49,
-      "prop_markets": 568,
-      "main_selections": 102,
-      "raw_child_markets": 728,
-      "raw_named_child_markets": 684,
-      "raw_odds": 3269,
-      "props_status": "PARSED"
-    },
     {
       "event_id": 16552398,
       "match": "BAL Ravens vs. JAX Jaguars",
-      "prop_selections": 797,
+      "prop_selections": 1474,
       "players": 29,
-      "prop_markets": 265,
+      "prop_markets": 502,
       "main_selections": 90,
-      "raw_child_markets": 399,
-      "raw_named_child_markets": 336,
-      "raw_odds": 1886,
+      "raw_child_markets": 679,
+      "raw_named_child_markets": 618,
+      "raw_odds": 2751,
       "props_status": "PARSED"
     },
     {
@@ -36,7 +24,7 @@
       "main_selections": 70,
       "raw_child_markets": 114,
       "raw_named_child_markets": 114,
-      "raw_odds": 648,
+      "raw_odds": 644,
       "props_status": "PARSED"
     },
     {
@@ -84,7 +72,7 @@
       "main_selections": 70,
       "raw_child_markets": 98,
       "raw_named_child_markets": 98,
-      "raw_odds": 607,
+      "raw_odds": 624,
       "props_status": "PARSED"
     },
     {
@@ -102,14 +90,14 @@
     {
       "event_id": 16552395,
       "match": "KC Chiefs vs. NY Jets",
-      "prop_selections": 0,
-      "players": 0,
-      "prop_markets": 0,
+      "prop_selections": 168,
+      "players": 16,
+      "prop_markets": 84,
       "main_selections": 70,
-      "raw_child_markets": 0,
-      "raw_named_child_markets": 0,
-      "raw_odds": 293,
-      "props_status": "NO_PLAYER_CHILD_MARKETS_RETURNED"
+      "raw_child_markets": 122,
+      "raw_named_child_markets": 122,
+      "raw_odds": 690,
+      "props_status": "PARSED"
     },
     {
       "event_id": 16552397,
@@ -141,22 +129,22 @@
       "prop_selections": 0,
       "players": 0,
       "prop_markets": 0,
-      "main_selections": 6,
+      "main_selections": 70,
       "raw_child_markets": 0,
       "raw_named_child_markets": 0,
-      "raw_odds": 37,
+      "raw_odds": 165,
       "props_status": "NO_PLAYER_CHILD_MARKETS_RETURNED"
     },
     {
       "event_id": 16552378,
       "match": "NE Patriots vs. GB Packers",
-      "prop_selections": 348,
+      "prop_selections": 347,
       "players": 10,
       "prop_markets": 83,
       "main_selections": 70,
       "raw_child_markets": 112,
       "raw_named_child_markets": 108,
-      "raw_odds": 1013,
+      "raw_odds": 1012,
       "props_status": "PARSED"
     },
     {
@@ -177,10 +165,10 @@
       "prop_selections": 0,
       "players": 0,
       "prop_markets": 0,
-      "main_selections": 6,
+      "main_selections": 70,
       "raw_child_markets": 0,
       "raw_named_child_markets": 0,
-      "raw_odds": 37,
+      "raw_odds": 165,
       "props_status": "NO_PLAYER_CHILD_MARKETS_RETURNED"
     },
     {
@@ -189,15 +177,15 @@
       "prop_selections": 122,
       "players": 11,
       "prop_markets": 61,
-      "main_selections": 2,
+      "main_selections": 70,
       "raw_child_markets": 90,
       "raw_named_child_markets": 90,
-      "raw_odds": 468,
+      "raw_odds": 604,
       "props_status": "PARSED"
     }
   ],
-  "props": 3762,
-  "main_contracts": 976,
+  "props": 2935,
+  "main_contracts": 1070,
   "complete": true,
   "completeness_scope": "events returned by GP GetEvents; not website or NFL schedule completeness"
 }

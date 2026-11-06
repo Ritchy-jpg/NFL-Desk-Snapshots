@@ -1,8 +1,8 @@
 event_id,match,player,market,market_type_id,sport_market_id,child_market_id,odd_id,selection,line,price,odd_status,is_main_bet
 18029222,Syracuse Orange vs. Clemson Tigers,Steve Angeli,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1820354158,4770330504,Steve Angeli (Syr) Plus de 215.5,Steve Angeli (Syr) Plus de 215.5,1.7693,0,True
 18029222,Syracuse Orange vs. Clemson Tigers,Steve Angeli,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1820354158,4770330505,Steve Angeli (Syr) moins de 215.5,Steve Angeli (Syr) moins de 215.5,1.8334,0,True
-18029222,Syracuse Orange vs. Clemson Tigers,Tait Reynolds,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1818525885,4764436713,Tait Reynolds (Clem) Plus de 195.5,Tait Reynolds (Clem) Plus de 195.5,1.7693,0,True
-18029222,Syracuse Orange vs. Clemson Tigers,Tait Reynolds,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1818525885,4764436714,Tait Reynolds (Clem) moins de 195.5,Tait Reynolds (Clem) moins de 195.5,1.8334,0,True
+18029222,Syracuse Orange vs. Clemson Tigers,Tait Reynolds,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1818517820,4764418357,Tait Reynolds (Clem) Plus de 196.5,Tait Reynolds (Clem) Plus de 196.5,1.8334,0,True
+18029222,Syracuse Orange vs. Clemson Tigers,Tait Reynolds,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1818517820,4764418358,Tait Reynolds (Clem) moins de 196.5,Tait Reynolds (Clem) moins de 196.5,1.7693,0,True
 18029222,Syracuse Orange vs. Clemson Tigers,Daunte Bacheyie,Verges de réception du joueur au moins (Daunte Bacheyie (SYR)),2143,72898,1820379851,4770413036,28+,28+,1.8696,0,False
 18029222,Syracuse Orange vs. Clemson Tigers,Daunte Bacheyie,Verges de réception du joueur au moins (Daunte Bacheyie (SYR)),2143,72898,1820379851,4770413037,38+,38+,2.25,0,False
 18029222,Syracuse Orange vs. Clemson Tigers,Daunte Bacheyie,Verges de réception du joueur au moins (Daunte Bacheyie (SYR)),2143,72898,1820379851,4770413038,48+,48+,2.75,0,False
@@ -41,51 +41,40 @@ event_id,match,player,market,market_type_id,sport_market_id,child_market_id,odd_
 18029222,Syracuse Orange vs. Clemson Tigers,Calvin Russell,Verges de réception du joueur au moins (Calvin Russell (SYR)),2143,72898,1820379844,4770412974,122+,122+,9.0,0,False
 18029222,Syracuse Orange vs. Clemson Tigers,Calvin Russell,Verges de réception du joueur au moins (Calvin Russell (SYR)),2143,72898,1820379844,4770412975,132+,132+,12.0,0,False
 18029222,Syracuse Orange vs. Clemson Tigers,Calvin Russell,Verges de réception du joueur au moins (Calvin Russell (SYR)),2143,72898,1820379844,4770412976,42+,42+,1.5,0,False
-18029222,Syracuse Orange vs. Clemson Tigers,T.J. Moore,Verges de réception du joueur au moins (T.J. Moore (CLE)),2143,72898,1820379848,4770413008,39+,39+,1.8696,0,False
-18029222,Syracuse Orange vs. Clemson Tigers,T.J. Moore,Verges de réception du joueur au moins (T.J. Moore (CLE)),2143,72898,1820379848,4770413009,49+,49+,2.15,0,False
-18029222,Syracuse Orange vs. Clemson Tigers,T.J. Moore,Verges de réception du joueur au moins (T.J. Moore (CLE)),2143,72898,1820379848,4770413010,59+,59+,2.45,0,False
-18029222,Syracuse Orange vs. Clemson Tigers,T.J. Moore,Verges de réception du joueur au moins (T.J. Moore (CLE)),2143,72898,1820379848,4770413011,69+,69+,2.9,0,False
-18029222,Syracuse Orange vs. Clemson Tigers,T.J. Moore,Verges de réception du joueur au moins (T.J. Moore (CLE)),2143,72898,1820379848,4770413012,79+,79+,3.5,0,False
-18029222,Syracuse Orange vs. Clemson Tigers,T.J. Moore,Verges de réception du joueur au moins (T.J. Moore (CLE)),2143,72898,1820379848,4770413013,89+,89+,4.25,0,False
-18029222,Syracuse Orange vs. Clemson Tigers,T.J. Moore,Verges de réception du joueur au moins (T.J. Moore (CLE)),2143,72898,1820379848,4770413014,99+,99+,5.25,0,False
-18029222,Syracuse Orange vs. Clemson Tigers,T.J. Moore,Verges de réception du joueur au moins (T.J. Moore (CLE)),2143,72898,1820379848,4770413015,109+,109+,6.5,0,False
-18029222,Syracuse Orange vs. Clemson Tigers,T.J. Moore,Verges de réception du joueur au moins (T.J. Moore (CLE)),2143,72898,1820379848,4770413016,119+,119+,8.5,0,False
-18029222,Syracuse Orange vs. Clemson Tigers,T.J. Moore,Verges de réception du joueur au moins (T.J. Moore (CLE)),2143,72898,1820379848,4770413017,29+,29+,1.5264,0,False
-18029222,Syracuse Orange vs. Clemson Tigers,Umari Hatcher,Verges de réception du joueur au moins (Umari Hatcher (SYR)),2143,72898,1820379840,4770950597,81+,81+,1.9091,0,False
-18029222,Syracuse Orange vs. Clemson Tigers,Umari Hatcher,Verges de réception du joueur au moins (Umari Hatcher (SYR)),2143,72898,1820379840,4770950598,91+,91+,2.1,0,False
-18029222,Syracuse Orange vs. Clemson Tigers,Umari Hatcher,Verges de réception du joueur au moins (Umari Hatcher (SYR)),2143,72898,1820379840,4770950599,101+,101+,2.35,0,False
-18029222,Syracuse Orange vs. Clemson Tigers,Umari Hatcher,Verges de réception du joueur au moins (Umari Hatcher (SYR)),2143,72898,1820379840,4770950600,111+,111+,2.65,0,False
-18029222,Syracuse Orange vs. Clemson Tigers,Umari Hatcher,Verges de réception du joueur au moins (Umari Hatcher (SYR)),2143,72898,1820379840,4770950601,121+,121+,3.1,0,False
-18029222,Syracuse Orange vs. Clemson Tigers,Umari Hatcher,Verges de réception du joueur au moins (Umari Hatcher (SYR)),2143,72898,1820379840,4770950602,131+,131+,3.5,0,False
-18029222,Syracuse Orange vs. Clemson Tigers,Umari Hatcher,Verges de réception du joueur au moins (Umari Hatcher (SYR)),2143,72898,1820379840,4770950603,141+,141+,4.0,0,False
-18029222,Syracuse Orange vs. Clemson Tigers,Umari Hatcher,Verges de réception du joueur au moins (Umari Hatcher (SYR)),2143,72898,1820379840,4770950604,151+,151+,5.0,0,False
-18029222,Syracuse Orange vs. Clemson Tigers,Umari Hatcher,Verges de réception du joueur au moins (Umari Hatcher (SYR)),2143,72898,1820379840,4770950605,161+,161+,5.75,0,False
-18029222,Syracuse Orange vs. Clemson Tigers,Umari Hatcher,Verges de réception du joueur au moins (Umari Hatcher (SYR)),2143,72898,1820379840,4770950606,71+,71+,1.625,0,False
-18029222,Syracuse Orange vs. Clemson Tigers,Olsen Patt-Henry,Verges de réception du joueur au moins (Olsen Patt-Henry (CLE)),2143,72898,1820379843,4772011264,68+,68+,6.75,0,False
-18029222,Syracuse Orange vs. Clemson Tigers,Olsen Patt-Henry,Verges de réception du joueur au moins (Olsen Patt-Henry (CLE)),2143,72898,1820379843,4772011265,78+,78+,10.0,0,False
-18029222,Syracuse Orange vs. Clemson Tigers,Olsen Patt-Henry,Verges de réception du joueur au moins (Olsen Patt-Henry (CLE)),2143,72898,1820379843,4772011266,88+,88+,15.0,0,False
-18029222,Syracuse Orange vs. Clemson Tigers,Olsen Patt-Henry,Verges de réception du joueur au moins (Olsen Patt-Henry (CLE)),2143,72898,1820379843,4772011267,98+,98+,21.0,0,False
-18029222,Syracuse Orange vs. Clemson Tigers,Olsen Patt-Henry,Verges de réception du joueur au moins (Olsen Patt-Henry (CLE)),2143,72898,1820379843,4772011259,18+,18+,1.8696,0,False
-18029222,Syracuse Orange vs. Clemson Tigers,Olsen Patt-Henry,Verges de réception du joueur au moins (Olsen Patt-Henry (CLE)),2143,72898,1820379843,4772011260,28+,28+,2.25,0,False
-18029222,Syracuse Orange vs. Clemson Tigers,Olsen Patt-Henry,Verges de réception du joueur au moins (Olsen Patt-Henry (CLE)),2143,72898,1820379843,4772011261,38+,38+,2.85,0,False
-18029222,Syracuse Orange vs. Clemson Tigers,Olsen Patt-Henry,Verges de réception du joueur au moins (Olsen Patt-Henry (CLE)),2143,72898,1820379843,4772011262,48+,48+,3.75,0,False
-18029222,Syracuse Orange vs. Clemson Tigers,Olsen Patt-Henry,Verges de réception du joueur au moins (Olsen Patt-Henry (CLE)),2143,72898,1820379843,4772011263,58+,58+,5.0,0,False
+18029222,Syracuse Orange vs. Clemson Tigers,T.J. Moore,Verges de réception du joueur au moins (T.J. Moore (CLE)),2143,72898,1820379848,4782130283,41+,41+,1.9091,0,False
+18029222,Syracuse Orange vs. Clemson Tigers,T.J. Moore,Verges de réception du joueur au moins (T.J. Moore (CLE)),2143,72898,1820379848,4782130284,51+,51+,2.15,0,False
+18029222,Syracuse Orange vs. Clemson Tigers,T.J. Moore,Verges de réception du joueur au moins (T.J. Moore (CLE)),2143,72898,1820379848,4782130285,61+,61+,2.5,0,False
+18029222,Syracuse Orange vs. Clemson Tigers,T.J. Moore,Verges de réception du joueur au moins (T.J. Moore (CLE)),2143,72898,1820379848,4782130286,71+,71+,3.0,0,False
+18029222,Syracuse Orange vs. Clemson Tigers,T.J. Moore,Verges de réception du joueur au moins (T.J. Moore (CLE)),2143,72898,1820379848,4782130287,81+,81+,3.6,0,False
+18029222,Syracuse Orange vs. Clemson Tigers,T.J. Moore,Verges de réception du joueur au moins (T.J. Moore (CLE)),2143,72898,1820379848,4782130288,91+,91+,4.4,0,False
+18029222,Syracuse Orange vs. Clemson Tigers,T.J. Moore,Verges de réception du joueur au moins (T.J. Moore (CLE)),2143,72898,1820379848,4782130289,101+,101+,5.5,0,False
+18029222,Syracuse Orange vs. Clemson Tigers,T.J. Moore,Verges de réception du joueur au moins (T.J. Moore (CLE)),2143,72898,1820379848,4782130290,111+,111+,7.0,0,False
+18029222,Syracuse Orange vs. Clemson Tigers,T.J. Moore,Verges de réception du joueur au moins (T.J. Moore (CLE)),2143,72898,1820379848,4782130291,121+,121+,9.0,0,False
+18029222,Syracuse Orange vs. Clemson Tigers,T.J. Moore,Verges de réception du joueur au moins (T.J. Moore (CLE)),2143,72898,1820379848,4782130292,31+,31+,1.5556,0,False
+18029222,Syracuse Orange vs. Clemson Tigers,Umari Hatcher,Verges de réception du joueur au moins (Umari Hatcher (SYR)),2143,72898,1820379840,4770412928,110+,110+,2.6,0,False
+18029222,Syracuse Orange vs. Clemson Tigers,Umari Hatcher,Verges de réception du joueur au moins (Umari Hatcher (SYR)),2143,72898,1820379840,4770412929,120+,120+,3.0,0,False
+18029222,Syracuse Orange vs. Clemson Tigers,Umari Hatcher,Verges de réception du joueur au moins (Umari Hatcher (SYR)),2143,72898,1820379840,4770412932,150+,150+,4.75,0,False
+18029222,Syracuse Orange vs. Clemson Tigers,Umari Hatcher,Verges de réception du joueur au moins (Umari Hatcher (SYR)),2143,72898,1820379840,4770412933,160+,160+,5.75,0,False
+18029222,Syracuse Orange vs. Clemson Tigers,Umari Hatcher,Verges de réception du joueur au moins (Umari Hatcher (SYR)),2143,72898,1820379840,4770412934,70+,70+,1.5883,0,False
+18029222,Syracuse Orange vs. Clemson Tigers,Umari Hatcher,Verges de réception du joueur au moins (Umari Hatcher (SYR)),2143,72898,1820379840,4770412925,80+,80+,1.8334,0,False
+18029222,Syracuse Orange vs. Clemson Tigers,Umari Hatcher,Verges de réception du joueur au moins (Umari Hatcher (SYR)),2143,72898,1820379840,4770412926,90+,90+,2.05,0,False
+18029222,Syracuse Orange vs. Clemson Tigers,Umari Hatcher,Verges de réception du joueur au moins (Umari Hatcher (SYR)),2143,72898,1820379840,4770412927,100+,100+,2.3,0,False
 18029222,Syracuse Orange vs. Clemson Tigers,Steve Angeli,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1813035994,4748674312,Steve Angeli (Syr) Plus de 1.5,Steve Angeli (Syr) Plus de 1.5,2.2,0,False
 18029222,Syracuse Orange vs. Clemson Tigers,Steve Angeli,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1813035994,4748674313,Steve Angeli (Syr) moins de 1.5,Steve Angeli (Syr) moins de 1.5,1.5264,0,False
 18029222,Syracuse Orange vs. Clemson Tigers,Tait Reynolds,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1813036326,4748674978,Tait Reynolds (Clem) Plus de 1.5,Tait Reynolds (Clem) Plus de 1.5,2.4,0,False
-18029222,Syracuse Orange vs. Clemson Tigers,Tait Reynolds,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1813036326,4748674979,Tait Reynolds (Clem) moins de 1.5,Tait Reynolds (Clem) moins de 1.5,1.4445,0,False
+18029222,Syracuse Orange vs. Clemson Tigers,Tait Reynolds,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1813036326,4748674979,Tait Reynolds (Clem) moins de 1.5,Tait Reynolds (Clem) moins de 1.5,1.4348,0,False
 18029222,Syracuse Orange vs. Clemson Tigers,Umari Hatcher,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1820081152,4769499626,Umari Hatcher (Syr) Plus de 79.5,Umari Hatcher (Syr) Plus de 79.5,1.7693,0,False
 18029222,Syracuse Orange vs. Clemson Tigers,Umari Hatcher,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1820081152,4769499627,Umari Hatcher (Syr) moins de 79.5,Umari Hatcher (Syr) moins de 79.5,1.8334,0,False
-18029222,Syracuse Orange vs. Clemson Tigers,Calvin Russell III,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1820080520,4769497979,Calvin Russell III (Syr) Plus de 52.5,Calvin Russell III (Syr) Plus de 52.5,1.8334,0,False
-18029222,Syracuse Orange vs. Clemson Tigers,Calvin Russell III,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1820080520,4769497980,Calvin Russell III (Syr) moins de 52.5,Calvin Russell III (Syr) moins de 52.5,1.7693,0,False
+18029222,Syracuse Orange vs. Clemson Tigers,Calvin Russell III,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1820080832,4769498774,Calvin Russell III (Syr) Plus de 51.5,Calvin Russell III (Syr) Plus de 51.5,1.8334,0,False
+18029222,Syracuse Orange vs. Clemson Tigers,Calvin Russell III,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1820080832,4769498775,Calvin Russell III (Syr) moins de 51.5,Calvin Russell III (Syr) moins de 51.5,1.7693,0,False
 18029222,Syracuse Orange vs. Clemson Tigers,Ahmad Miller,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1820548275,4770932025,Ahmad Miller (Syr) Plus de 57.5,Ahmad Miller (Syr) Plus de 57.5,1.8334,0,False
 18029222,Syracuse Orange vs. Clemson Tigers,Ahmad Miller,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1820548275,4770932026,Ahmad Miller (Syr) moins de 57.5,Ahmad Miller (Syr) moins de 57.5,1.7693,0,False
-18029222,Syracuse Orange vs. Clemson Tigers,Jarvis Green,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1821846643,4775076227,Jarvis Green (Clem) Plus de 56.5,Jarvis Green (Clem) Plus de 56.5,1.8334,0,False
-18029222,Syracuse Orange vs. Clemson Tigers,Jarvis Green,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1821846643,4775076228,Jarvis Green (Clem) moins de 56.5,Jarvis Green (Clem) moins de 56.5,1.7693,0,False
-18029222,Syracuse Orange vs. Clemson Tigers,Tait Reynolds,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1820076366,4769488122,Tait Reynolds (Clem) Plus de 40.5,Tait Reynolds (Clem) Plus de 40.5,1.8,0,False
-18029222,Syracuse Orange vs. Clemson Tigers,Tait Reynolds,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1820076366,4769488123,Tait Reynolds (Clem) moins de 40.5,Tait Reynolds (Clem) moins de 40.5,1.8,0,False
-18029222,Syracuse Orange vs. Clemson Tigers,Tylik Hill,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1820071260,4769476019,Tylik Hill (Syr) Plus de 33.5,Tylik Hill (Syr) Plus de 33.5,1.8334,0,False
-18029222,Syracuse Orange vs. Clemson Tigers,Tylik Hill,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1820071260,4769476020,Tylik Hill (Syr) moins de 33.5,Tylik Hill (Syr) moins de 33.5,1.7693,0,False
+18029222,Syracuse Orange vs. Clemson Tigers,Jarvis Green,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1818503204,4764384625,Jarvis Green (Clem) Plus de 55.5,Jarvis Green (Clem) Plus de 55.5,1.7693,0,False
+18029222,Syracuse Orange vs. Clemson Tigers,Jarvis Green,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1818503204,4764384626,Jarvis Green (Clem) moins de 55.5,Jarvis Green (Clem) moins de 55.5,1.8334,0,False
+18029222,Syracuse Orange vs. Clemson Tigers,Tait Reynolds,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1818525886,4764436715,Tait Reynolds (Clem) Plus de 39.5,Tait Reynolds (Clem) Plus de 39.5,1.7693,0,False
+18029222,Syracuse Orange vs. Clemson Tigers,Tait Reynolds,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1818525886,4764436716,Tait Reynolds (Clem) moins de 39.5,Tait Reynolds (Clem) moins de 39.5,1.8334,0,False
+18029222,Syracuse Orange vs. Clemson Tigers,Tylik Hill,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1820073899,4769482361,Tylik Hill (Syr) Plus de 32.5,Tylik Hill (Syr) Plus de 32.5,1.7693,0,False
+18029222,Syracuse Orange vs. Clemson Tigers,Tylik Hill,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1820073899,4769482362,Tylik Hill (Syr) moins de 32.5,Tylik Hill (Syr) moins de 32.5,1.8334,0,False
 18029222,Syracuse Orange vs. Clemson Tigers,Steve Angeli,Touchés par la passe du joueur au moins (Steve Angeli (SYR)),2138,72893,1820379839,4770412921,2+,2+,2.2,0,False
 18029222,Syracuse Orange vs. Clemson Tigers,Steve Angeli,Touchés par la passe du joueur au moins (Steve Angeli (SYR)),2138,72893,1820379839,4770412922,3+,3+,4.0,0,False
 18029222,Syracuse Orange vs. Clemson Tigers,Steve Angeli,Touchés par la passe du joueur au moins (Steve Angeli (SYR)),2138,72893,1820379839,4770412923,4+,4+,9.0,0,False
@@ -107,17 +96,6 @@ event_id,match,player,market,market_type_id,sport_market_id,child_market_id,odd_
 18029222,Syracuse Orange vs. Clemson Tigers,Steve Angeli,Verges par la passe du joueur au moins (Steve Angeli (SYR)),2136,72891,1820379837,4770412893,219+,219+,1.8696,0,False
 18029222,Syracuse Orange vs. Clemson Tigers,Steve Angeli,Verges par la passe du joueur au moins (Steve Angeli (SYR)),2136,72891,1820379837,4770412894,229+,229+,2.05,0,False
 18029222,Syracuse Orange vs. Clemson Tigers,Steve Angeli,Verges par la passe du joueur au moins (Steve Angeli (SYR)),2136,72891,1820379837,4770412895,239+,239+,2.25,0,False
-18029222,Syracuse Orange vs. Clemson Tigers,Chris Johnson Jr.,Verges au sol du joueur au moins (Chris Johnson Jr. (CLE)),2140,72895,1820379841,4770412935,33+,33+,1.8696,0,False
-18029222,Syracuse Orange vs. Clemson Tigers,Chris Johnson Jr.,Verges au sol du joueur au moins (Chris Johnson Jr. (CLE)),2140,72895,1820379841,4770412936,43+,43+,2.25,0,False
-18029222,Syracuse Orange vs. Clemson Tigers,Chris Johnson Jr.,Verges au sol du joueur au moins (Chris Johnson Jr. (CLE)),2140,72895,1820379841,4770412937,53+,53+,2.75,0,False
-18029222,Syracuse Orange vs. Clemson Tigers,Chris Johnson Jr.,Verges au sol du joueur au moins (Chris Johnson Jr. (CLE)),2140,72895,1820379841,4770412938,63+,63+,3.5,0,False
-18029222,Syracuse Orange vs. Clemson Tigers,Chris Johnson Jr.,Verges au sol du joueur au moins (Chris Johnson Jr. (CLE)),2140,72895,1820379841,4770412939,73+,73+,4.5,0,False
-18029222,Syracuse Orange vs. Clemson Tigers,Chris Johnson Jr.,Verges au sol du joueur au moins (Chris Johnson Jr. (CLE)),2140,72895,1820379841,4770412940,83+,83+,6.25,0,False
-18029222,Syracuse Orange vs. Clemson Tigers,Chris Johnson Jr.,Verges au sol du joueur au moins (Chris Johnson Jr. (CLE)),2140,72895,1820379841,4770412941,93+,93+,9.0,0,False
-18029222,Syracuse Orange vs. Clemson Tigers,Chris Johnson Jr.,Verges au sol du joueur au moins (Chris Johnson Jr. (CLE)),2140,72895,1820379841,4770412942,103+,103+,13.0,0,False
-18029222,Syracuse Orange vs. Clemson Tigers,Chris Johnson Jr.,Verges au sol du joueur au moins (Chris Johnson Jr. (CLE)),2140,72895,1820379841,4770412943,113+,113+,19.0,0,False
-18029222,Syracuse Orange vs. Clemson Tigers,Chris Johnson Jr.,Verges au sol du joueur au moins (Chris Johnson Jr. (CLE)),2140,72895,1820379841,4770412944,23+,23+,1.4445,0,False
-18029222,Syracuse Orange vs. Clemson Tigers,Chris Johnson Jr.,Verges au sol du joueur au moins (Chris Johnson Jr. (CLE)),2140,72895,1820379841,4770412945,13+,13+,1.2,0,False
 18029222,Syracuse Orange vs. Clemson Tigers,Jarvis Green,Verges au sol du joueur au moins (Jarvis Green (CLE)),2140,72895,1820379847,4776595424,110+,110+,7.5,0,False
 18029222,Syracuse Orange vs. Clemson Tigers,Jarvis Green,Verges au sol du joueur au moins (Jarvis Green (CLE)),2140,72895,1820379847,4776595425,120+,120+,11.0,0,False
 18029222,Syracuse Orange vs. Clemson Tigers,Jarvis Green,Verges au sol du joueur au moins (Jarvis Green (CLE)),2140,72895,1820379847,4776595427,40+,40+,1.4762,0,False
@@ -129,7 +107,7 @@ event_id,match,player,market,market_type_id,sport_market_id,child_market_id,odd_
 18029222,Syracuse Orange vs. Clemson Tigers,Jarvis Green,Verges au sol du joueur au moins (Jarvis Green (CLE)),2140,72895,1820379847,4776595422,90+,90+,4.25,0,False
 18029222,Syracuse Orange vs. Clemson Tigers,Jarvis Green,Verges au sol du joueur au moins (Jarvis Green (CLE)),2140,72895,1820379847,4776595423,100+,100+,5.5,0,False
 18029222,Syracuse Orange vs. Clemson Tigers,Tylik Hill,Verges au sol du joueur au moins (Tylik Hill (SYR)),2140,72895,1820379842,4770412946,34+,34+,1.9091,0,False
-18029222,Syracuse Orange vs. Clemson Tigers,Tylik Hill,Verges au sol du joueur au moins (Tylik Hill (SYR)),2140,72895,1820379842,4770412947,44+,44+,2.15,0,False
+18029222,Syracuse Orange vs. Clemson Tigers,Tylik Hill,Verges au sol du joueur au moins (Tylik Hill (SYR)),2140,72895,1820379842,4770412947,44+,44+,2.2,0,False
 18029222,Syracuse Orange vs. Clemson Tigers,Tylik Hill,Verges au sol du joueur au moins (Tylik Hill (SYR)),2140,72895,1820379842,4770412948,54+,54+,2.55,0,False
 18029222,Syracuse Orange vs. Clemson Tigers,Tylik Hill,Verges au sol du joueur au moins (Tylik Hill (SYR)),2140,72895,1820379842,4770412949,64+,64+,3.0,0,False
 18029222,Syracuse Orange vs. Clemson Tigers,Tylik Hill,Verges au sol du joueur au moins (Tylik Hill (SYR)),2140,72895,1820379842,4770412950,74+,74+,3.75,0,False
@@ -150,3 +128,13 @@ event_id,match,player,market,market_type_id,sport_market_id,child_market_id,odd_
 18029222,Syracuse Orange vs. Clemson Tigers,Ahmad Miller,Verges au sol du joueur au moins (Ahmad Miller (SYR)),2140,72895,1820379836,4771245847,138+,138+,10.0,0,False
 18029222,Syracuse Orange vs. Clemson Tigers,Ahmad Miller,Verges au sol du joueur au moins (Ahmad Miller (SYR)),2140,72895,1820379836,4771245848,48+,48+,1.5883,0,False
 18029222,Syracuse Orange vs. Clemson Tigers,Ahmad Miller,Verges au sol du joueur au moins (Ahmad Miller (SYR)),2140,72895,1820379836,4771245849,38+,38+,1.3637,0,False
+18029222,Syracuse Orange vs. Clemson Tigers,Chris Johnson Jr.,Verges au sol du joueur au moins (Chris Johnson Jr. (CLE)),2140,72895,1820379841,4781420320,18+,18+,1.3847,0,False
+18029222,Syracuse Orange vs. Clemson Tigers,Chris Johnson Jr.,Verges au sol du joueur au moins (Chris Johnson Jr. (CLE)),2140,72895,1820379841,4781420065,38+,38+,2.2,0,False
+18029222,Syracuse Orange vs. Clemson Tigers,Chris Johnson Jr.,Verges au sol du joueur au moins (Chris Johnson Jr. (CLE)),2140,72895,1820379841,4781420064,28+,28+,1.8696,0,False
+18029222,Syracuse Orange vs. Clemson Tigers,Chris Johnson Jr.,Verges au sol du joueur au moins (Chris Johnson Jr. (CLE)),2140,72895,1820379841,4781420067,58+,58+,3.3,0,False
+18029222,Syracuse Orange vs. Clemson Tigers,Chris Johnson Jr.,Verges au sol du joueur au moins (Chris Johnson Jr. (CLE)),2140,72895,1820379841,4781420066,48+,48+,2.65,0,False
+18029222,Syracuse Orange vs. Clemson Tigers,Chris Johnson Jr.,Verges au sol du joueur au moins (Chris Johnson Jr. (CLE)),2140,72895,1820379841,4781420068,68+,68+,4.25,0,False
+18029222,Syracuse Orange vs. Clemson Tigers,Chris Johnson Jr.,Verges au sol du joueur au moins (Chris Johnson Jr. (CLE)),2140,72895,1820379841,4781420069,78+,78+,5.5,0,False
+18029222,Syracuse Orange vs. Clemson Tigers,Chris Johnson Jr.,Verges au sol du joueur au moins (Chris Johnson Jr. (CLE)),2140,72895,1820379841,4781420070,88+,88+,7.25,0,False
+18029222,Syracuse Orange vs. Clemson Tigers,Chris Johnson Jr.,Verges au sol du joueur au moins (Chris Johnson Jr. (CLE)),2140,72895,1820379841,4781420318,98+,98+,10.0,0,False
+18029222,Syracuse Orange vs. Clemson Tigers,Chris Johnson Jr.,Verges au sol du joueur au moins (Chris Johnson Jr. (CLE)),2140,72895,1820379841,4781420319,108+,108+,15.0,0,False

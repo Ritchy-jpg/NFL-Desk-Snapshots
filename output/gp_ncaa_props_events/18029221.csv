@@ -1,6 +1,15 @@
 event_id,match,player,market,market_type_id,sport_market_id,child_market_id,odd_id,selection,line,price,odd_status,is_main_bet
 18029221,Florida Gators vs. Oklahoma Sooners,John Mateer,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1819814028,4768687032,John Mateer (Okla) Plus de 190.5,John Mateer (Okla) Plus de 190.5,1.8334,0,True
 18029221,Florida Gators vs. Oklahoma Sooners,John Mateer,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1819814028,4768687033,John Mateer (Okla) moins de 190.5,John Mateer (Okla) moins de 190.5,1.7693,0,True
+18029221,Florida Gators vs. Oklahoma Sooners,Ivan Carreon,Verges de réception du joueur au moins (Ivan Carreon (OKL)),2143,72898,1819707297,4781846889,32+,32+,1.9091,0,False
+18029221,Florida Gators vs. Oklahoma Sooners,Ivan Carreon,Verges de réception du joueur au moins (Ivan Carreon (OKL)),2143,72898,1819707297,4781846890,42+,42+,2.15,0,False
+18029221,Florida Gators vs. Oklahoma Sooners,Ivan Carreon,Verges de réception du joueur au moins (Ivan Carreon (OKL)),2143,72898,1819707297,4781846891,52+,52+,2.5,0,False
+18029221,Florida Gators vs. Oklahoma Sooners,Ivan Carreon,Verges de réception du joueur au moins (Ivan Carreon (OKL)),2143,72898,1819707297,4781846892,62+,62+,2.95,0,False
+18029221,Florida Gators vs. Oklahoma Sooners,Ivan Carreon,Verges de réception du joueur au moins (Ivan Carreon (OKL)),2143,72898,1819707297,4781846893,72+,72+,3.5,0,False
+18029221,Florida Gators vs. Oklahoma Sooners,Ivan Carreon,Verges de réception du joueur au moins (Ivan Carreon (OKL)),2143,72898,1819707297,4781846894,82+,82+,4.3,0,False
+18029221,Florida Gators vs. Oklahoma Sooners,Ivan Carreon,Verges de réception du joueur au moins (Ivan Carreon (OKL)),2143,72898,1819707297,4781846895,92+,92+,5.25,0,False
+18029221,Florida Gators vs. Oklahoma Sooners,Ivan Carreon,Verges de réception du joueur au moins (Ivan Carreon (OKL)),2143,72898,1819707297,4781846897,112+,112+,8.5,0,False
+18029221,Florida Gators vs. Oklahoma Sooners,Ivan Carreon,Verges de réception du joueur au moins (Ivan Carreon (OKL)),2143,72898,1819707297,4781846898,22+,22+,1.4445,0,False
 18029221,Florida Gators vs. Oklahoma Sooners,Dallas Wilson,Verges de réception du joueur au moins (Dallas Wilson (FLA)),2143,72898,1819707426,4768391877,36+,36+,1.8696,0,False
 18029221,Florida Gators vs. Oklahoma Sooners,Dallas Wilson,Verges de réception du joueur au moins (Dallas Wilson (FLA)),2143,72898,1819707426,4768391878,46+,46+,2.2,0,False
 18029221,Florida Gators vs. Oklahoma Sooners,Dallas Wilson,Verges de réception du joueur au moins (Dallas Wilson (FLA)),2143,72898,1819707426,4768391879,56+,56+,2.6,0,False
@@ -11,25 +20,16 @@ event_id,match,player,market,market_type_id,sport_market_id,child_market_id,odd_
 18029221,Florida Gators vs. Oklahoma Sooners,Dallas Wilson,Verges de réception du joueur au moins (Dallas Wilson (FLA)),2143,72898,1819707426,4768391884,106+,106+,8.5,0,False
 18029221,Florida Gators vs. Oklahoma Sooners,Dallas Wilson,Verges de réception du joueur au moins (Dallas Wilson (FLA)),2143,72898,1819707426,4768391885,116+,116+,11.0,0,False
 18029221,Florida Gators vs. Oklahoma Sooners,Dallas Wilson,Verges de réception du joueur au moins (Dallas Wilson (FLA)),2143,72898,1819707426,4768391886,26+,26+,1.4546,0,False
-18029221,Florida Gators vs. Oklahoma Sooners,Ivan Carreon,Verges de réception du joueur au moins (Ivan Carreon (OKL)),2143,72898,1819707297,4781288140,36+,36+,1.8696,0,False
-18029221,Florida Gators vs. Oklahoma Sooners,Ivan Carreon,Verges de réception du joueur au moins (Ivan Carreon (OKL)),2143,72898,1819707297,4781288141,46+,46+,2.15,0,False
-18029221,Florida Gators vs. Oklahoma Sooners,Ivan Carreon,Verges de réception du joueur au moins (Ivan Carreon (OKL)),2143,72898,1819707297,4781288142,56+,56+,2.5,0,False
-18029221,Florida Gators vs. Oklahoma Sooners,Ivan Carreon,Verges de réception du joueur au moins (Ivan Carreon (OKL)),2143,72898,1819707297,4781288143,66+,66+,3.0,0,False
-18029221,Florida Gators vs. Oklahoma Sooners,Ivan Carreon,Verges de réception du joueur au moins (Ivan Carreon (OKL)),2143,72898,1819707297,4781288144,76+,76+,3.6,0,False
-18029221,Florida Gators vs. Oklahoma Sooners,Ivan Carreon,Verges de réception du joueur au moins (Ivan Carreon (OKL)),2143,72898,1819707297,4781288145,86+,86+,4.5,0,False
-18029221,Florida Gators vs. Oklahoma Sooners,Ivan Carreon,Verges de réception du joueur au moins (Ivan Carreon (OKL)),2143,72898,1819707297,4781288146,96+,96+,5.75,0,False
-18029221,Florida Gators vs. Oklahoma Sooners,Ivan Carreon,Verges de réception du joueur au moins (Ivan Carreon (OKL)),2143,72898,1819707297,4781288147,106+,106+,7.25,0,False
-18029221,Florida Gators vs. Oklahoma Sooners,Ivan Carreon,Verges de réception du joueur au moins (Ivan Carreon (OKL)),2143,72898,1819707297,4781288148,116+,116+,10.0,0,False
-18029221,Florida Gators vs. Oklahoma Sooners,Ivan Carreon,Verges de réception du joueur au moins (Ivan Carreon (OKL)),2143,72898,1819707297,4781288149,26+,26+,1.4546,0,False
-18029221,Florida Gators vs. Oklahoma Sooners,Eric Singleton Jr.,Verges de réception du joueur au moins (Eric Singleton Jr. (FLA)),2143,72898,1819707428,4780455498,35+,35+,1.8696,0,False
-18029221,Florida Gators vs. Oklahoma Sooners,Eric Singleton Jr.,Verges de réception du joueur au moins (Eric Singleton Jr. (FLA)),2143,72898,1819707428,4780455499,45+,45+,2.25,0,False
-18029221,Florida Gators vs. Oklahoma Sooners,Eric Singleton Jr.,Verges de réception du joueur au moins (Eric Singleton Jr. (FLA)),2143,72898,1819707428,4780455500,55+,55+,2.75,0,False
-18029221,Florida Gators vs. Oklahoma Sooners,Eric Singleton Jr.,Verges de réception du joueur au moins (Eric Singleton Jr. (FLA)),2143,72898,1819707428,4780455501,65+,65+,3.5,0,False
-18029221,Florida Gators vs. Oklahoma Sooners,Eric Singleton Jr.,Verges de réception du joueur au moins (Eric Singleton Jr. (FLA)),2143,72898,1819707428,4780455502,75+,75+,4.5,0,False
-18029221,Florida Gators vs. Oklahoma Sooners,Eric Singleton Jr.,Verges de réception du joueur au moins (Eric Singleton Jr. (FLA)),2143,72898,1819707428,4780455503,85+,85+,6.25,0,False
-18029221,Florida Gators vs. Oklahoma Sooners,Eric Singleton Jr.,Verges de réception du joueur au moins (Eric Singleton Jr. (FLA)),2143,72898,1819707428,4780455504,95+,95+,8.5,0,False
-18029221,Florida Gators vs. Oklahoma Sooners,Eric Singleton Jr.,Verges de réception du joueur au moins (Eric Singleton Jr. (FLA)),2143,72898,1819707428,4780455505,105+,105+,13.0,0,False
-18029221,Florida Gators vs. Oklahoma Sooners,Eric Singleton Jr.,Verges de réception du joueur au moins (Eric Singleton Jr. (FLA)),2143,72898,1819707428,4780455507,25+,25+,1.4762,0,False
+18029221,Florida Gators vs. Oklahoma Sooners,Eric Singleton Jr.,Verges de réception du joueur au moins (Eric Singleton Jr. (FLA)),2143,72898,1819707428,4775834176,91+,91+,8.5,0,False
+18029221,Florida Gators vs. Oklahoma Sooners,Eric Singleton Jr.,Verges de réception du joueur au moins (Eric Singleton Jr. (FLA)),2143,72898,1819707428,4775834177,101+,101+,12.0,0,False
+18029221,Florida Gators vs. Oklahoma Sooners,Eric Singleton Jr.,Verges de réception du joueur au moins (Eric Singleton Jr. (FLA)),2143,72898,1819707428,4775834178,111+,111+,17.0,0,False
+18029221,Florida Gators vs. Oklahoma Sooners,Eric Singleton Jr.,Verges de réception du joueur au moins (Eric Singleton Jr. (FLA)),2143,72898,1819707428,4775834180,31+,31+,1.9091,0,False
+18029221,Florida Gators vs. Oklahoma Sooners,Eric Singleton Jr.,Verges de réception du joueur au moins (Eric Singleton Jr. (FLA)),2143,72898,1819707428,4775834174,71+,71+,4.5,0,False
+18029221,Florida Gators vs. Oklahoma Sooners,Eric Singleton Jr.,Verges de réception du joueur au moins (Eric Singleton Jr. (FLA)),2143,72898,1819707428,4775834171,41+,41+,2.25,0,False
+18029221,Florida Gators vs. Oklahoma Sooners,Eric Singleton Jr.,Verges de réception du joueur au moins (Eric Singleton Jr. (FLA)),2143,72898,1819707428,4781818492,21+,21+,1.4762,0,False
+18029221,Florida Gators vs. Oklahoma Sooners,Eric Singleton Jr.,Verges de réception du joueur au moins (Eric Singleton Jr. (FLA)),2143,72898,1819707428,4775834173,61+,61+,3.5,0,False
+18029221,Florida Gators vs. Oklahoma Sooners,Eric Singleton Jr.,Verges de réception du joueur au moins (Eric Singleton Jr. (FLA)),2143,72898,1819707428,4775834172,51+,51+,2.75,0,False
+18029221,Florida Gators vs. Oklahoma Sooners,Eric Singleton Jr.,Verges de réception du joueur au moins (Eric Singleton Jr. (FLA)),2143,72898,1819707428,4775834175,81+,81+,6.0,0,False
 18029221,Florida Gators vs. Oklahoma Sooners,Rocky Beers,Verges de réception du joueur au moins (Rocky Beers (OKL)),2143,72898,1819707430,4772556272,38+,38+,1.8696,0,False
 18029221,Florida Gators vs. Oklahoma Sooners,Rocky Beers,Verges de réception du joueur au moins (Rocky Beers (OKL)),2143,72898,1819707430,4772556273,48+,48+,2.2,0,False
 18029221,Florida Gators vs. Oklahoma Sooners,Rocky Beers,Verges de réception du joueur au moins (Rocky Beers (OKL)),2143,72898,1819707430,4772556274,58+,58+,2.6,0,False
@@ -40,16 +40,15 @@ event_id,match,player,market,market_type_id,sport_market_id,child_market_id,odd_
 18029221,Florida Gators vs. Oklahoma Sooners,Rocky Beers,Verges de réception du joueur au moins (Rocky Beers (OKL)),2143,72898,1819707430,4772556279,108+,108+,8.5,0,False
 18029221,Florida Gators vs. Oklahoma Sooners,Rocky Beers,Verges de réception du joueur au moins (Rocky Beers (OKL)),2143,72898,1819707430,4772556280,118+,118+,12.0,0,False
 18029221,Florida Gators vs. Oklahoma Sooners,Rocky Beers,Verges de réception du joueur au moins (Rocky Beers (OKL)),2143,72898,1819707430,4772556281,28+,28+,1.5,0,False
-18029221,Florida Gators vs. Oklahoma Sooners,Isaiah Sategna,Verges de réception du joueur au moins (Isaiah Sategna (OKL)),2143,72898,1819707299,4768391508,51+,51+,1.8696,0,False
-18029221,Florida Gators vs. Oklahoma Sooners,Isaiah Sategna,Verges de réception du joueur au moins (Isaiah Sategna (OKL)),2143,72898,1819707299,4768391509,61+,61+,2.15,0,False
-18029221,Florida Gators vs. Oklahoma Sooners,Isaiah Sategna,Verges de réception du joueur au moins (Isaiah Sategna (OKL)),2143,72898,1819707299,4768391510,71+,71+,2.5,0,False
-18029221,Florida Gators vs. Oklahoma Sooners,Isaiah Sategna,Verges de réception du joueur au moins (Isaiah Sategna (OKL)),2143,72898,1819707299,4768391511,81+,81+,3.0,0,False
-18029221,Florida Gators vs. Oklahoma Sooners,Isaiah Sategna,Verges de réception du joueur au moins (Isaiah Sategna (OKL)),2143,72898,1819707299,4768391512,91+,91+,3.6,0,False
-18029221,Florida Gators vs. Oklahoma Sooners,Isaiah Sategna,Verges de réception du joueur au moins (Isaiah Sategna (OKL)),2143,72898,1819707299,4768391513,101+,101+,4.4,0,False
-18029221,Florida Gators vs. Oklahoma Sooners,Isaiah Sategna,Verges de réception du joueur au moins (Isaiah Sategna (OKL)),2143,72898,1819707299,4768391514,111+,111+,5.5,0,False
-18029221,Florida Gators vs. Oklahoma Sooners,Isaiah Sategna,Verges de réception du joueur au moins (Isaiah Sategna (OKL)),2143,72898,1819707299,4768391515,121+,121+,7.25,0,False
-18029221,Florida Gators vs. Oklahoma Sooners,Isaiah Sategna,Verges de réception du joueur au moins (Isaiah Sategna (OKL)),2143,72898,1819707299,4768391516,131+,131+,9.0,0,False
-18029221,Florida Gators vs. Oklahoma Sooners,Isaiah Sategna,Verges de réception du joueur au moins (Isaiah Sategna (OKL)),2143,72898,1819707299,4768391517,41+,41+,1.5264,0,False
+18029221,Florida Gators vs. Oklahoma Sooners,Isaiah Sategna,Verges de réception du joueur au moins (Isaiah Sategna (OKL)),2143,72898,1819707299,4781330241,125+,125+,7.5,0,False
+18029221,Florida Gators vs. Oklahoma Sooners,Isaiah Sategna,Verges de réception du joueur au moins (Isaiah Sategna (OKL)),2143,72898,1819707299,4781330242,135+,135+,10.0,0,False
+18029221,Florida Gators vs. Oklahoma Sooners,Isaiah Sategna,Verges de réception du joueur au moins (Isaiah Sategna (OKL)),2143,72898,1819707299,4781330243,45+,45+,1.5264,0,False
+18029221,Florida Gators vs. Oklahoma Sooners,Isaiah Sategna,Verges de réception du joueur au moins (Isaiah Sategna (OKL)),2143,72898,1819707299,4781330234,55+,55+,1.8334,0,False
+18029221,Florida Gators vs. Oklahoma Sooners,Isaiah Sategna,Verges de réception du joueur au moins (Isaiah Sategna (OKL)),2143,72898,1819707299,4781330235,65+,65+,2.15,0,False
+18029221,Florida Gators vs. Oklahoma Sooners,Isaiah Sategna,Verges de réception du joueur au moins (Isaiah Sategna (OKL)),2143,72898,1819707299,4781330236,75+,75+,2.5,0,False
+18029221,Florida Gators vs. Oklahoma Sooners,Isaiah Sategna,Verges de réception du joueur au moins (Isaiah Sategna (OKL)),2143,72898,1819707299,4781330237,85+,85+,3.0,0,False
+18029221,Florida Gators vs. Oklahoma Sooners,Isaiah Sategna,Verges de réception du joueur au moins (Isaiah Sategna (OKL)),2143,72898,1819707299,4781330238,95+,95+,3.6,0,False
+18029221,Florida Gators vs. Oklahoma Sooners,Isaiah Sategna,Verges de réception du joueur au moins (Isaiah Sategna (OKL)),2143,72898,1819707299,4781330239,105+,105+,4.5,0,False
 18029221,Florida Gators vs. Oklahoma Sooners,Lloyd Avant,Verges de réception du joueur au moins (Lloyd Avant (OKL)),2143,72898,1819855201,4771035218,18+,18+,2.25,0,False
 18029221,Florida Gators vs. Oklahoma Sooners,Lloyd Avant,Verges de réception du joueur au moins (Lloyd Avant (OKL)),2143,72898,1819855201,4771035219,28+,28+,2.7,0,False
 18029221,Florida Gators vs. Oklahoma Sooners,Lloyd Avant,Verges de réception du joueur au moins (Lloyd Avant (OKL)),2143,72898,1819855201,4771035220,38+,38+,3.3,0,False
@@ -58,39 +57,47 @@ event_id,match,player,market,market_type_id,sport_market_id,child_market_id,odd_
 18029221,Florida Gators vs. Oklahoma Sooners,Lloyd Avant,Verges de réception du joueur au moins (Lloyd Avant (OKL)),2143,72898,1819855201,4771035223,68+,68+,6.75,0,False
 18029221,Florida Gators vs. Oklahoma Sooners,Lloyd Avant,Verges de réception du joueur au moins (Lloyd Avant (OKL)),2143,72898,1819855201,4771035224,78+,78+,9.0,0,False
 18029221,Florida Gators vs. Oklahoma Sooners,Lloyd Avant,Verges de réception du joueur au moins (Lloyd Avant (OKL)),2143,72898,1819855201,4771035225,88+,88+,12.0,0,False
+18029221,Florida Gators vs. Oklahoma Sooners,Jadan Baugh,Verges de réception du joueur au moins (Jadan Baugh (FLA)),2143,72898,1819855202,4768917664,79+,79+,26.0,0,False
+18029221,Florida Gators vs. Oklahoma Sooners,Jadan Baugh,Verges de réception du joueur au moins (Jadan Baugh (FLA)),2143,72898,1819855202,4768917665,89+,89+,51.0,0,False
+18029221,Florida Gators vs. Oklahoma Sooners,Jadan Baugh,Verges de réception du joueur au moins (Jadan Baugh (FLA)),2143,72898,1819855202,4768917658,19+,19+,2.35,0,False
+18029221,Florida Gators vs. Oklahoma Sooners,Jadan Baugh,Verges de réception du joueur au moins (Jadan Baugh (FLA)),2143,72898,1819855202,4768917659,29+,29+,3.1,0,False
+18029221,Florida Gators vs. Oklahoma Sooners,Jadan Baugh,Verges de réception du joueur au moins (Jadan Baugh (FLA)),2143,72898,1819855202,4768917660,39+,39+,4.3,0,False
+18029221,Florida Gators vs. Oklahoma Sooners,Jadan Baugh,Verges de réception du joueur au moins (Jadan Baugh (FLA)),2143,72898,1819855202,4768917661,49+,49+,6.25,0,False
+18029221,Florida Gators vs. Oklahoma Sooners,Jadan Baugh,Verges de réception du joueur au moins (Jadan Baugh (FLA)),2143,72898,1819855202,4768917662,59+,59+,10.0,0,False
+18029221,Florida Gators vs. Oklahoma Sooners,Jadan Baugh,Verges de réception du joueur au moins (Jadan Baugh (FLA)),2143,72898,1819855202,4768917663,69+,69+,16.0,0,False
 18029221,Florida Gators vs. Oklahoma Sooners,Tramell Jones Jr.,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1821607182,4774439339,Tramell Jones Jr. (Fla) Plus de 1.5,Tramell Jones Jr. (Fla) Plus de 1.5,2.45,0,False
 18029221,Florida Gators vs. Oklahoma Sooners,Tramell Jones Jr.,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1821607182,4774439340,Tramell Jones Jr. (Fla) moins de 1.5,Tramell Jones Jr. (Fla) moins de 1.5,1.4167,0,False
 18029221,Florida Gators vs. Oklahoma Sooners,John Mateer,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1813028805,4748656059,John Mateer (Okla) Plus de 1.5,John Mateer (Okla) Plus de 1.5,2.65,0,False
 18029221,Florida Gators vs. Oklahoma Sooners,John Mateer,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1813028805,4748656060,John Mateer (Okla) moins de 1.5,John Mateer (Okla) moins de 1.5,1.3637,0,False
-18029221,Florida Gators vs. Oklahoma Sooners,Isaiah Sategna,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1819418074,4767606396,Isaiah Sategna (Okla) Plus de 52.5,Isaiah Sategna (Okla) Plus de 52.5,1.8334,0,False
-18029221,Florida Gators vs. Oklahoma Sooners,Isaiah Sategna,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1819418074,4767606397,Isaiah Sategna (Okla) moins de 52.5,Isaiah Sategna (Okla) moins de 52.5,1.7693,0,False
-18029221,Florida Gators vs. Oklahoma Sooners,Rocky Beers,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1818655801,4765006258,Rocky Beers (Okla) Plus de 35.5,Rocky Beers (Okla) Plus de 35.5,1.8334,0,False
-18029221,Florida Gators vs. Oklahoma Sooners,Rocky Beers,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1818655801,4765006259,Rocky Beers (Okla) moins de 35.5,Rocky Beers (Okla) moins de 35.5,1.7693,0,False
-18029221,Florida Gators vs. Oklahoma Sooners,Luke Harpring,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1813201224,4749066451,Luke Harpring (Fla) Plus de 7.5,Luke Harpring (Fla) Plus de 7.5,1.8,0,False
-18029221,Florida Gators vs. Oklahoma Sooners,Luke Harpring,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1813201224,4749066452,Luke Harpring (Fla) moins de 7.5,Luke Harpring (Fla) moins de 7.5,1.8,0,False
+18029221,Florida Gators vs. Oklahoma Sooners,Isaiah Sategna,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1819418074,4767606396,Isaiah Sategna (Okla) Plus de 52.5,Isaiah Sategna (Okla) Plus de 52.5,1.7693,0,False
+18029221,Florida Gators vs. Oklahoma Sooners,Isaiah Sategna,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1819418074,4767606397,Isaiah Sategna (Okla) moins de 52.5,Isaiah Sategna (Okla) moins de 52.5,1.8334,0,False
+18029221,Florida Gators vs. Oklahoma Sooners,Rocky Beers,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1818655801,4765006258,Rocky Beers (Okla) Plus de 35.5,Rocky Beers (Okla) Plus de 35.5,1.8,0,False
+18029221,Florida Gators vs. Oklahoma Sooners,Rocky Beers,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1818655801,4765006259,Rocky Beers (Okla) moins de 35.5,Rocky Beers (Okla) moins de 35.5,1.8,0,False
+18029221,Florida Gators vs. Oklahoma Sooners,Luke Harpring,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1813201224,4749066451,Luke Harpring (Fla) Plus de 7.5,Luke Harpring (Fla) Plus de 7.5,1.7693,0,False
+18029221,Florida Gators vs. Oklahoma Sooners,Luke Harpring,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1813201224,4749066452,Luke Harpring (Fla) moins de 7.5,Luke Harpring (Fla) moins de 7.5,1.8334,0,False
 18029221,Florida Gators vs. Oklahoma Sooners,Lloyd Avant,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1818655674,4765005964,Lloyd Avant (Okla) Plus de 7.5,Lloyd Avant (Okla) Plus de 7.5,1.8334,0,False
 18029221,Florida Gators vs. Oklahoma Sooners,Lloyd Avant,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1818655674,4765005965,Lloyd Avant (Okla) moins de 7.5,Lloyd Avant (Okla) moins de 7.5,1.7693,0,False
-18029221,Florida Gators vs. Oklahoma Sooners,Lloyd Avant,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1818655675,4765005966,Lloyd Avant (Okla) Plus de 26.5,Lloyd Avant (Okla) Plus de 26.5,1.8334,0,False
-18029221,Florida Gators vs. Oklahoma Sooners,Lloyd Avant,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1818655675,4765005967,Lloyd Avant (Okla) moins de 26.5,Lloyd Avant (Okla) moins de 26.5,1.7693,0,False
+18029221,Florida Gators vs. Oklahoma Sooners,Lloyd Avant,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1818654902,4765004226,Lloyd Avant (Okla) Plus de 25.5,Lloyd Avant (Okla) Plus de 25.5,1.7693,0,False
+18029221,Florida Gators vs. Oklahoma Sooners,Lloyd Avant,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1818654902,4765004227,Lloyd Avant (Okla) moins de 25.5,Lloyd Avant (Okla) moins de 25.5,1.8334,0,False
 18029221,Florida Gators vs. Oklahoma Sooners,John Mateer,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1818653010,4764996074,John Mateer (Okla) Plus de 17.5,John Mateer (Okla) Plus de 17.5,1.8334,0,False
 18029221,Florida Gators vs. Oklahoma Sooners,John Mateer,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1818653010,4764996075,John Mateer (Okla) moins de 17.5,John Mateer (Okla) moins de 17.5,1.7693,0,False
-18029221,Florida Gators vs. Oklahoma Sooners,Isaiah Sategna,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1818655804,4765006264,Isaiah Sategna (Okla) Plus de 4.5,Isaiah Sategna (Okla) Plus de 4.5,1.6667,0,False
-18029221,Florida Gators vs. Oklahoma Sooners,Isaiah Sategna,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1818655804,4765006265,Isaiah Sategna (Okla) moins de 4.5,Isaiah Sategna (Okla) moins de 4.5,2.0,0,False
-18029221,Florida Gators vs. Oklahoma Sooners,Rocky Beers,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1813192244,4749045253,Rocky Beers (Okla) Plus de 3.5,Rocky Beers (Okla) Plus de 3.5,1.8696,0,False
-18029221,Florida Gators vs. Oklahoma Sooners,Rocky Beers,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1813192244,4749045254,Rocky Beers (Okla) moins de 3.5,Rocky Beers (Okla) moins de 3.5,1.7693,0,False
-18029221,Florida Gators vs. Oklahoma Sooners,Lloyd Avant,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1813201220,4749066443,Lloyd Avant (Okla) Plus de 1.5,Lloyd Avant (Okla) Plus de 1.5,2.05,0,False
-18029221,Florida Gators vs. Oklahoma Sooners,Lloyd Avant,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1813201220,4749066444,Lloyd Avant (Okla) moins de 1.5,Lloyd Avant (Okla) moins de 1.5,1.625,0,False
+18029221,Florida Gators vs. Oklahoma Sooners,Isaiah Sategna,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1818655804,4765006264,Isaiah Sategna (Okla) Plus de 4.5,Isaiah Sategna (Okla) Plus de 4.5,1.6897,0,False
+18029221,Florida Gators vs. Oklahoma Sooners,Isaiah Sategna,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1818655804,4765006265,Isaiah Sategna (Okla) moins de 4.5,Isaiah Sategna (Okla) moins de 4.5,1.9524,0,False
+18029221,Florida Gators vs. Oklahoma Sooners,Rocky Beers,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1813192244,4749045253,Rocky Beers (Okla) Plus de 3.5,Rocky Beers (Okla) Plus de 3.5,1.8334,0,False
+18029221,Florida Gators vs. Oklahoma Sooners,Rocky Beers,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1813192244,4749045254,Rocky Beers (Okla) moins de 3.5,Rocky Beers (Okla) moins de 3.5,1.8,0,False
+18029221,Florida Gators vs. Oklahoma Sooners,Lloyd Avant,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1813201220,4749066443,Lloyd Avant (Okla) Plus de 1.5,Lloyd Avant (Okla) Plus de 1.5,2.0,0,False
+18029221,Florida Gators vs. Oklahoma Sooners,Lloyd Avant,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1813201220,4749066444,Lloyd Avant (Okla) moins de 1.5,Lloyd Avant (Okla) moins de 1.5,1.6667,0,False
 18029221,Florida Gators vs. Oklahoma Sooners,Luke Harpring,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1813028970,4748656389,Luke Harpring (Fla) Plus de 0.5,Luke Harpring (Fla) Plus de 0.5,1.4167,0,False
 18029221,Florida Gators vs. Oklahoma Sooners,Luke Harpring,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1813028970,4748656390,Luke Harpring (Fla) moins de 0.5,Luke Harpring (Fla) moins de 0.5,2.55,0,False
 18029221,Florida Gators vs. Oklahoma Sooners,John Mateer,"Passes complétées, Joueur (prolongations incluses)",760,71921,1818653208,4764996515,John Mateer (Okla) Plus de 17.5,John Mateer (Okla) Plus de 17.5,1.8696,0,False
 18029221,Florida Gators vs. Oklahoma Sooners,John Mateer,"Passes complétées, Joueur (prolongations incluses)",760,71921,1818653208,4764996516,John Mateer (Okla) moins de 17.5,John Mateer (Okla) moins de 17.5,1.7693,0,False
 18029221,Florida Gators vs. Oklahoma Sooners,Lloyd Avant,Verges à la course et à la réception Plus/Moins (prolongation incluse),3317,73841,1818658766,4765020584,Lloyd Avant (Okla) moins de 37.5,Lloyd Avant (Okla) moins de 37.5,1.8,0,False
 18029221,Florida Gators vs. Oklahoma Sooners,Lloyd Avant,Verges à la course et à la réception Plus/Moins (prolongation incluse),3317,73841,1818658766,4765020583,Lloyd Avant (Okla) Plus de 37.5,Lloyd Avant (Okla) Plus de 37.5,1.8334,0,False
-18029221,Florida Gators vs. Oklahoma Sooners,Tramell Jones Jr.,Touchés par la passe du joueur au moins (Tramell Jones Jr. (FLA)),2138,72893,1821610939,4774449921,2+,2+,2.35,0,False
-18029221,Florida Gators vs. Oklahoma Sooners,Tramell Jones Jr.,Touchés par la passe du joueur au moins (Tramell Jones Jr. (FLA)),2138,72893,1821610939,4774449922,3+,3+,4.0,0,False
+18029221,Florida Gators vs. Oklahoma Sooners,Tramell Jones Jr.,Touchés par la passe du joueur au moins (Tramell Jones Jr. (FLA)),2138,72893,1821610939,4774449921,2+,2+,2.4,0,False
+18029221,Florida Gators vs. Oklahoma Sooners,Tramell Jones Jr.,Touchés par la passe du joueur au moins (Tramell Jones Jr. (FLA)),2138,72893,1821610939,4774449922,3+,3+,4.25,0,False
 18029221,Florida Gators vs. Oklahoma Sooners,Tramell Jones Jr.,Touchés par la passe du joueur au moins (Tramell Jones Jr. (FLA)),2138,72893,1821610939,4774449923,4+,4+,9.0,0,False
-18029221,Florida Gators vs. Oklahoma Sooners,Tramell Jones Jr.,Touchés par la passe du joueur au moins (Tramell Jones Jr. (FLA)),2138,72893,1821610939,4774449924,1+,1+,1.3449,0,False
-18029221,Florida Gators vs. Oklahoma Sooners,John Mateer,Touchés par la passe du joueur au moins (John Mateer (OKL)),2138,72893,1819707298,4768391504,1+,1+,1.4762,0,False
+18029221,Florida Gators vs. Oklahoma Sooners,Tramell Jones Jr.,Touchés par la passe du joueur au moins (Tramell Jones Jr. (FLA)),2138,72893,1821610939,4774449924,1+,1+,1.3572,0,False
+18029221,Florida Gators vs. Oklahoma Sooners,John Mateer,Touchés par la passe du joueur au moins (John Mateer (OKL)),2138,72893,1819707298,4768391504,1+,1+,1.5,0,False
 18029221,Florida Gators vs. Oklahoma Sooners,John Mateer,Touchés par la passe du joueur au moins (John Mateer (OKL)),2138,72893,1819707298,4768391505,2+,2+,2.8,0,False
 18029221,Florida Gators vs. Oklahoma Sooners,John Mateer,Touchés par la passe du joueur au moins (John Mateer (OKL)),2138,72893,1819707298,4768391506,3+,3+,4.5,0,False
 18029221,Florida Gators vs. Oklahoma Sooners,John Mateer,Touchés par la passe du joueur au moins (John Mateer (OKL)),2138,72893,1819707298,4768391507,4+,4+,10.0,0,False
@@ -111,23 +118,23 @@ event_id,match,player,market,market_type_id,sport_market_id,child_market_id,odd_
 18029221,Florida Gators vs. Oklahoma Sooners,Tramell Jones Jr.,Verges par la passe du joueur au moins (Tramell Jones Jr. (FLA)),2136,72891,1821531824,4774246045,293+,293+,5.75,0,False
 18029221,Florida Gators vs. Oklahoma Sooners,Tramell Jones Jr.,Verges par la passe du joueur au moins (Tramell Jones Jr. (FLA)),2136,72891,1821531824,4774246046,303+,303+,6.75,0,False
 18029221,Florida Gators vs. Oklahoma Sooners,Tramell Jones Jr.,Verges par la passe du joueur au moins (Tramell Jones Jr. (FLA)),2136,72891,1821531824,4774246047,313+,313+,8.0,0,False
-18029221,Florida Gators vs. Oklahoma Sooners,John Mateer,Verges par la passe du joueur au moins (John Mateer (OKL)),2136,72891,1819707425,4780828000,229+,229+,2.5,0,False
-18029221,Florida Gators vs. Oklahoma Sooners,John Mateer,Verges par la passe du joueur au moins (John Mateer (OKL)),2136,72891,1819707425,4780828001,239+,239+,2.8,0,False
-18029221,Florida Gators vs. Oklahoma Sooners,John Mateer,Verges par la passe du joueur au moins (John Mateer (OKL)),2136,72891,1819707425,4780828002,249+,249+,3.2,0,False
-18029221,Florida Gators vs. Oklahoma Sooners,John Mateer,Verges par la passe du joueur au moins (John Mateer (OKL)),2136,72891,1819707425,4780828003,259+,259+,3.6,0,False
-18029221,Florida Gators vs. Oklahoma Sooners,John Mateer,Verges par la passe du joueur au moins (John Mateer (OKL)),2136,72891,1819707425,4780828004,269+,269+,4.0,0,False
-18029221,Florida Gators vs. Oklahoma Sooners,John Mateer,Verges par la passe du joueur au moins (John Mateer (OKL)),2136,72891,1819707425,4780828005,279+,279+,4.75,0,False
-18029221,Florida Gators vs. Oklahoma Sooners,John Mateer,Verges par la passe du joueur au moins (John Mateer (OKL)),2136,72891,1819707425,4780828006,289+,289+,5.5,0,False
-18029221,Florida Gators vs. Oklahoma Sooners,John Mateer,Verges par la passe du joueur au moins (John Mateer (OKL)),2136,72891,1819707425,4780828007,299+,299+,6.5,0,False
-18029221,Florida Gators vs. Oklahoma Sooners,John Mateer,Verges par la passe du joueur au moins (John Mateer (OKL)),2136,72891,1819707425,4780828008,309+,309+,7.75,0,False
-18029221,Florida Gators vs. Oklahoma Sooners,John Mateer,Verges par la passe du joueur au moins (John Mateer (OKL)),2136,72891,1819707425,4780828009,319+,319+,9.0,0,False
-18029221,Florida Gators vs. Oklahoma Sooners,John Mateer,Verges par la passe du joueur au moins (John Mateer (OKL)),2136,72891,1819707425,4780828010,329+,329+,11.0,0,False
-18029221,Florida Gators vs. Oklahoma Sooners,John Mateer,Verges par la passe du joueur au moins (John Mateer (OKL)),2136,72891,1819707425,4780828011,339+,339+,14.0,0,False
-18029221,Florida Gators vs. Oklahoma Sooners,John Mateer,Verges par la passe du joueur au moins (John Mateer (OKL)),2136,72891,1819707425,4780828012,189+,189+,1.6897,0,False
-18029221,Florida Gators vs. Oklahoma Sooners,John Mateer,Verges par la passe du joueur au moins (John Mateer (OKL)),2136,72891,1819707425,4780828013,179+,179+,1.5264,0,False
-18029221,Florida Gators vs. Oklahoma Sooners,John Mateer,Verges par la passe du joueur au moins (John Mateer (OKL)),2136,72891,1819707425,4780827997,199+,199+,1.8696,0,False
-18029221,Florida Gators vs. Oklahoma Sooners,John Mateer,Verges par la passe du joueur au moins (John Mateer (OKL)),2136,72891,1819707425,4780827998,209+,209+,2.05,0,False
-18029221,Florida Gators vs. Oklahoma Sooners,John Mateer,Verges par la passe du joueur au moins (John Mateer (OKL)),2136,72891,1819707425,4780827999,219+,219+,2.25,0,False
+18029221,Florida Gators vs. Oklahoma Sooners,John Mateer,Verges par la passe du joueur au moins (John Mateer (OKL)),2136,72891,1819707425,4781420355,215+,215+,2.25,0,False
+18029221,Florida Gators vs. Oklahoma Sooners,John Mateer,Verges par la passe du joueur au moins (John Mateer (OKL)),2136,72891,1819707425,4781420356,225+,225+,2.5,0,False
+18029221,Florida Gators vs. Oklahoma Sooners,John Mateer,Verges par la passe du joueur au moins (John Mateer (OKL)),2136,72891,1819707425,4781420357,235+,235+,2.8,0,False
+18029221,Florida Gators vs. Oklahoma Sooners,John Mateer,Verges par la passe du joueur au moins (John Mateer (OKL)),2136,72891,1819707425,4781420358,245+,245+,3.1,0,False
+18029221,Florida Gators vs. Oklahoma Sooners,John Mateer,Verges par la passe du joueur au moins (John Mateer (OKL)),2136,72891,1819707425,4781420359,255+,255+,3.6,0,False
+18029221,Florida Gators vs. Oklahoma Sooners,John Mateer,Verges par la passe du joueur au moins (John Mateer (OKL)),2136,72891,1819707425,4781420360,265+,265+,4.0,0,False
+18029221,Florida Gators vs. Oklahoma Sooners,John Mateer,Verges par la passe du joueur au moins (John Mateer (OKL)),2136,72891,1819707425,4781420361,275+,275+,4.75,0,False
+18029221,Florida Gators vs. Oklahoma Sooners,John Mateer,Verges par la passe du joueur au moins (John Mateer (OKL)),2136,72891,1819707425,4781420362,285+,285+,5.5,0,False
+18029221,Florida Gators vs. Oklahoma Sooners,John Mateer,Verges par la passe du joueur au moins (John Mateer (OKL)),2136,72891,1819707425,4781420363,295+,295+,6.25,0,False
+18029221,Florida Gators vs. Oklahoma Sooners,John Mateer,Verges par la passe du joueur au moins (John Mateer (OKL)),2136,72891,1819707425,4781420364,305+,305+,7.5,0,False
+18029221,Florida Gators vs. Oklahoma Sooners,John Mateer,Verges par la passe du joueur au moins (John Mateer (OKL)),2136,72891,1819707425,4781420365,315+,315+,9.0,0,False
+18029221,Florida Gators vs. Oklahoma Sooners,John Mateer,Verges par la passe du joueur au moins (John Mateer (OKL)),2136,72891,1819707425,4781420366,325+,325+,11.0,0,False
+18029221,Florida Gators vs. Oklahoma Sooners,John Mateer,Verges par la passe du joueur au moins (John Mateer (OKL)),2136,72891,1819707425,4781420367,335+,335+,13.0,0,False
+18029221,Florida Gators vs. Oklahoma Sooners,John Mateer,Verges par la passe du joueur au moins (John Mateer (OKL)),2136,72891,1819707425,4781420368,185+,185+,1.6897,0,False
+18029221,Florida Gators vs. Oklahoma Sooners,John Mateer,Verges par la passe du joueur au moins (John Mateer (OKL)),2136,72891,1819707425,4781420369,175+,175+,1.5264,0,False
+18029221,Florida Gators vs. Oklahoma Sooners,John Mateer,Verges par la passe du joueur au moins (John Mateer (OKL)),2136,72891,1819707425,4781420029,195+,195+,1.8696,0,False
+18029221,Florida Gators vs. Oklahoma Sooners,John Mateer,Verges par la passe du joueur au moins (John Mateer (OKL)),2136,72891,1819707425,4781420030,205+,205+,2.05,0,False
 18029221,Florida Gators vs. Oklahoma Sooners,Jadan Baugh,Verges au sol du joueur au moins (Jadan Baugh (FLA)),2140,72895,1819707427,4769983339,92+,92+,1.8696,0,False
 18029221,Florida Gators vs. Oklahoma Sooners,Jadan Baugh,Verges au sol du joueur au moins (Jadan Baugh (FLA)),2140,72895,1819707427,4769983341,112+,112+,2.6,0,False
 18029221,Florida Gators vs. Oklahoma Sooners,Jadan Baugh,Verges au sol du joueur au moins (Jadan Baugh (FLA)),2140,72895,1819707427,4769983342,122+,122+,3.2,0,False
@@ -160,9 +167,9 @@ event_id,match,player,market,market_type_id,sport_market_id,child_market_id,odd_
 18029221,Florida Gators vs. Oklahoma Sooners,Isaiah Sategna,Joueur total de réception (Isaiah Sategna (OKL)) (incl. OT),2142,72897,1819863219,4768937761,8+,8+,5.75,0,False
 18029221,Florida Gators vs. Oklahoma Sooners,Isaiah Sategna,Joueur total de réception (Isaiah Sategna (OKL)) (incl. OT),2142,72897,1819863219,4768937762,9+,9+,10.0,0,False
 18029221,Florida Gators vs. Oklahoma Sooners,Isaiah Sategna,Joueur total de réception (Isaiah Sategna (OKL)) (incl. OT),2142,72897,1819863219,4768937763,10+,10+,19.0,0,False
-18029221,Florida Gators vs. Oklahoma Sooners,Isaiah Sategna,Joueur total de réception (Isaiah Sategna (OKL)) (incl. OT),2142,72897,1819863219,4768937764,4+,4+,1.2353,0,False
-18029221,Florida Gators vs. Oklahoma Sooners,Isaiah Sategna,Joueur total de réception (Isaiah Sategna (OKL)) (incl. OT),2142,72897,1819863219,4768937758,5+,5+,1.7693,0,False
-18029221,Florida Gators vs. Oklahoma Sooners,Isaiah Sategna,Joueur total de réception (Isaiah Sategna (OKL)) (incl. OT),2142,72897,1819863219,4768937759,6+,6+,2.45,0,False
+18029221,Florida Gators vs. Oklahoma Sooners,Isaiah Sategna,Joueur total de réception (Isaiah Sategna (OKL)) (incl. OT),2142,72897,1819863219,4768937764,4+,4+,1.2223,0,False
+18029221,Florida Gators vs. Oklahoma Sooners,Isaiah Sategna,Joueur total de réception (Isaiah Sategna (OKL)) (incl. OT),2142,72897,1819863219,4768937758,5+,5+,1.7408,0,False
+18029221,Florida Gators vs. Oklahoma Sooners,Isaiah Sategna,Joueur total de réception (Isaiah Sategna (OKL)) (incl. OT),2142,72897,1819863219,4768937759,6+,6+,2.4,0,False
 18029221,Florida Gators vs. Oklahoma Sooners,Rocky Beers,Joueur total de réception (Rocky Beers (OKL)) (incl. OT),2142,72897,1819863221,4768937772,4+,4+,1.8,0,False
 18029221,Florida Gators vs. Oklahoma Sooners,Rocky Beers,Joueur total de réception (Rocky Beers (OKL)) (incl. OT),2142,72897,1819863221,4768937773,5+,5+,2.45,0,False
 18029221,Florida Gators vs. Oklahoma Sooners,Rocky Beers,Joueur total de réception (Rocky Beers (OKL)) (incl. OT),2142,72897,1819863221,4768937774,6+,6+,3.6,0,False
@@ -170,3 +177,10 @@ event_id,match,player,market,market_type_id,sport_market_id,child_market_id,odd_
 18029221,Florida Gators vs. Oklahoma Sooners,Rocky Beers,Joueur total de réception (Rocky Beers (OKL)) (incl. OT),2142,72897,1819863221,4768937776,8+,8+,10.0,0,False
 18029221,Florida Gators vs. Oklahoma Sooners,Rocky Beers,Joueur total de réception (Rocky Beers (OKL)) (incl. OT),2142,72897,1819863221,4768937777,9+,9+,18.0,0,False
 18029221,Florida Gators vs. Oklahoma Sooners,Rocky Beers,Joueur total de réception (Rocky Beers (OKL)) (incl. OT),2142,72897,1819863221,4768937778,3+,3+,1.2667,0,False
+18029221,Florida Gators vs. Oklahoma Sooners,Eric Singleton Jr.,Joueur total de réception (Eric Singleton Jr. (FLA)) (incl. OT),2142,72897,1819863220,4781838084,9+,9+,8.0,0,False
+18029221,Florida Gators vs. Oklahoma Sooners,Eric Singleton Jr.,Joueur total de réception (Eric Singleton Jr. (FLA)) (incl. OT),2142,72897,1819863220,4768937765,3+,3+,1.3077,0,False
+18029221,Florida Gators vs. Oklahoma Sooners,Eric Singleton Jr.,Joueur total de réception (Eric Singleton Jr. (FLA)) (incl. OT),2142,72897,1819863220,4768937766,4+,4+,1.7143,0,False
+18029221,Florida Gators vs. Oklahoma Sooners,Eric Singleton Jr.,Joueur total de réception (Eric Singleton Jr. (FLA)) (incl. OT),2142,72897,1819863220,4768937767,5+,5+,2.15,0,False
+18029221,Florida Gators vs. Oklahoma Sooners,Eric Singleton Jr.,Joueur total de réception (Eric Singleton Jr. (FLA)) (incl. OT),2142,72897,1819863220,4768937768,6+,6+,2.8,0,False
+18029221,Florida Gators vs. Oklahoma Sooners,Eric Singleton Jr.,Joueur total de réception (Eric Singleton Jr. (FLA)) (incl. OT),2142,72897,1819863220,4768937769,7+,7+,3.85,0,False
+18029221,Florida Gators vs. Oklahoma Sooners,Eric Singleton Jr.,Joueur total de réception (Eric Singleton Jr. (FLA)) (incl. OT),2142,72897,1819863220,4768937770,8+,8+,5.25,0,False

@@ -1,15 +1,103 @@
 event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id,selection,line,price,odd_id,odd_status,is_main_bet
-18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Boston College Eagles,,2.9,4752116890,0,False
-18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Florida State Seminoles,,1.3449,4752116891,0,False
-18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,Boston College Eagles (+7.5),7.5,1.6897,4757406984,0,False
-18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,Florida State Seminoles (-7.5),7.5,2.05,4757406986,0,False
-18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,Florida State Seminoles (-5.5),5.5,1.7408,4757407021,0,False
-18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,Boston College Eagles (+5.5),5.5,1.9524,4757407023,0,False
-18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,Boston College Eagles (+6.5),6.5,1.8696,4752116892,0,True
-18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,Florida State Seminoles (-6.5),6.5,1.8,4752116893,0,True
-18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 52.5,52.5,2.05,4753942656,0,False
-18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 50.5,50.5,1.9091,4757406927,0,False
-18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 50.5,50.5,1.7693,4757406928,0,False
-18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 52.5,52.5,1.6897,4753942655,0,False
-18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 51.5,51.5,1.7693,4752116894,0,True
-18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 51.5,51.5,1.9091,4752116895,0,True
+18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1,,2.8,4752116890,0,False
+18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,2,,1.3637,4752116891,0,False
+18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (-12.5),12.5,2.7,4757406976,0,False
+18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (+7.5),7.5,1.6667,4757406984,0,False
+18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (-7.5),7.5,2.1,4757406986,0,False
+18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (+17.5),17.5,1.2223,4757406989,0,False
+18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (-17.5),17.5,4.0,4757406990,0,False
+18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (+19.5),19.5,1.1819,4757406992,0,False
+18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (-19.5),19.5,4.4,4757406994,0,False
+18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (-14.5),14.5,3.2,4757406996,0,False
+18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (+14.5),14.5,1.3125,4757406998,0,False
+18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (+15.5),15.5,1.2858,4757407000,0,False
+18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (-15.5),15.5,3.4,4757407003,0,False
+18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (+6.5),6.5,1.8334,4752116892,0,True
+18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (-9.5),9.5,2.25,4757407005,0,False
+18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (-6.5),6.5,1.8334,4752116893,0,True
+18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (+9.5),9.5,1.5715,4757407007,0,False
+18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (+18.5),18.5,1.2,4757407009,0,False
+18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (-18.5),18.5,4.2,4757407011,0,False
+18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (+8.5),8.5,1.625,4757407013,0,False
+18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (-8.5),8.5,2.2,4757407015,0,False
+18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (-4.5),4.5,1.6897,4757407017,0,False
+18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (+4.5),4.5,2.05,4757407019,0,False
+18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (-5.5),5.5,1.7408,4757407021,0,False
+18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (+5.5),5.5,1.9524,4757407023,0,False
+18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (+1.5),1.5,2.7,4757407025,0,False
+18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (-1.5),1.5,1.4167,4757407027,0,False
+18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (-2.5),2.5,1.4762,4757407029,0,False
+18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (+2.5),2.5,2.55,4757407030,0,False
+18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (-3.5),3.5,1.625,4757407033,0,False
+18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (+3.5),3.5,2.2,4757407035,0,False
+18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+1.5),-1.5,1.3334,4757407038,0,False
+18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-1.5),-1.5,3.1,4757407044,0,False
+18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-4.5),-4.5,4.2,4757407046,0,False
+18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+4.5),-4.5,1.2,4757407048,0,False
+18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+3.5),-3.5,1.2223,4757407050,0,False
+18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-3.5),-3.5,4.0,4757407052,0,False
+18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+2.5),-2.5,1.3031,4757407053,0,False
+18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-2.5),-2.5,3.25,4757407056,0,False
+18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+5.5),-5.5,1.1667,4757407058,0,False
+18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-5.5),-5.5,4.5,4757407060,0,False
+18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (+16.5),16.5,1.2667,4757407072,0,False
+18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (-16.5),16.5,3.5,4757407075,0,False
+18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (+10.5),10.5,1.5,4757407078,0,False
+18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (-10.5),10.5,2.5,4757407081,0,False
+18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (+11.5),11.5,1.4546,4757407082,0,False
+18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (-11.5),11.5,2.6,4757407085,0,False
+18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (-13.5),13.5,2.85,4757407087,0,False
+18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (+13.5),13.5,1.3847,4757407089,0,False
+18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-6.5),-6.5,5.0,4757406966,0,False
+18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+6.5),-6.5,1.1429,4757406969,0,False
+18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (+12.5),12.5,1.4167,4757406974,0,False
+18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 52.5,52.5,1.8696,4753942656,0,True
+18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 63.5,63.5,1.25,4757406859,0,False
+18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 63.5,63.5,3.7,4757406862,0,False
+18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 62.5,62.5,1.2858,4757406865,0,False
+18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 62.5,62.5,3.4,4757406867,0,False
+18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 61.5,61.5,1.3334,4757406869,0,False
+18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 61.5,61.5,3.1,4757406871,0,False
+18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 60.5,60.5,1.3637,4757406873,0,False
+18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 60.5,60.5,2.9,4757406875,0,False
+18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 51.5,51.5,1.9091,4752116894,0,False
+18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 51.5,51.5,1.7693,4752116895,0,False
+18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 64.5,64.5,1.2353,4757406888,0,False
+18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 64.5,64.5,3.75,4757406889,0,False
+18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 59.5,59.5,1.4,4757406903,0,False
+18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 59.5,59.5,2.75,4757406904,0,False
+18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 49.5,49.5,1.625,4757406906,0,False
+18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 49.5,49.5,2.2,4757406908,0,False
+18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 58.5,58.5,1.4546,4757406910,0,False
+18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 58.5,58.5,2.6,4757406912,0,False
+18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 48.5,48.5,1.5556,4757406914,0,False
+18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 48.5,48.5,2.3,4757406916,0,False
+18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 46.5,46.5,2.65,4757406917,0,False
+18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 46.5,46.5,1.4348,4757406919,0,False
+18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 56.5,56.5,1.5556,4757406921,0,False
+18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 56.5,56.5,2.3,4757406922,0,False
+18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 53.5,53.5,1.7408,4757406924,0,False
+18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 53.5,53.5,1.9524,4757406926,0,False
+18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 50.5,50.5,2.1,4757406927,0,False
+18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 50.5,50.5,1.6667,4757406928,0,False
+18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 57.5,57.5,1.5,4757406930,0,False
+18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 57.5,57.5,2.5,4757406931,0,False
+18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 55.5,55.5,1.5715,4757406933,0,False
+18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 55.5,55.5,2.25,4757406934,0,False
+18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 54.5,54.5,1.6897,4757406936,0,False
+18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 54.5,54.5,2.05,4757406937,0,False
+18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 47.5,47.5,2.5,4757406939,0,False
+18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 47.5,47.5,1.5,4757406941,0,False
+18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 44.5,44.5,2.9,4757406943,0,False
+18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 44.5,44.5,1.3637,4757406945,0,False
+18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 41.5,41.5,3.7,4757406946,0,False
+18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 41.5,41.5,1.25,4757406948,0,False
+18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 45.5,45.5,2.7,4757406950,0,False
+18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 45.5,45.5,1.4167,4757406951,0,False
+18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 40.5,40.5,4.2,4757406953,0,False
+18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 40.5,40.5,1.2,4757406954,0,False
+18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 42.5,42.5,3.5,4757406956,0,False
+18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 42.5,42.5,1.2667,4757406957,0,False
+18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 43.5,43.5,1.3031,4757406958,0,False
+18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 43.5,43.5,3.25,4757406960,0,False
+18029210,Boston College Eagles vs. Florida State Seminoles,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 52.5,52.5,1.8,4753942655,0,True

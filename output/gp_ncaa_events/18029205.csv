@@ -1,15 +1,71 @@
 event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id,selection,line,price,odd_id,odd_status,is_main_bet
-18029205,Northwestern Wildcats vs. Iowa Hawkeyes,2026-11-08T00:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Iowa Hawkeyes,,2.0,4732574725,0,False
-18029205,Northwestern Wildcats vs. Iowa Hawkeyes,2026-11-08T00:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Northwestern Wildcats,,1.6897,4732574726,0,False
-18029205,Northwestern Wildcats vs. Iowa Hawkeyes,2026-11-08T00:30:00Z,spread,Écart (prolongation incluse),223,70799,Northwestern Wildcats (-3.5),-3.5,2.1,4757408064,0,False
-18029205,Northwestern Wildcats vs. Iowa Hawkeyes,2026-11-08T00:30:00Z,spread,Écart (prolongation incluse),223,70799,Iowa Hawkeyes (+2.5),-2.5,1.8696,4732574727,0,True
-18029205,Northwestern Wildcats vs. Iowa Hawkeyes,2026-11-08T00:30:00Z,spread,Écart (prolongation incluse),223,70799,Northwestern Wildcats (-2.5),-2.5,1.8,4732574728,0,True
-18029205,Northwestern Wildcats vs. Iowa Hawkeyes,2026-11-08T00:30:00Z,spread,Écart (prolongation incluse),223,70799,Iowa Hawkeyes (+1.5),-1.5,1.9524,4749337112,0,False
-18029205,Northwestern Wildcats vs. Iowa Hawkeyes,2026-11-08T00:30:00Z,spread,Écart (prolongation incluse),223,70799,Northwestern Wildcats (-1.5),-1.5,1.7408,4749337113,0,False
-18029205,Northwestern Wildcats vs. Iowa Hawkeyes,2026-11-08T00:30:00Z,spread,Écart (prolongation incluse),223,70799,Iowa Hawkeyes (+3.5),-3.5,1.6667,4757408063,0,False
-18029205,Northwestern Wildcats vs. Iowa Hawkeyes,2026-11-08T00:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 44.5,44.5,1.7408,4753983978,0,False
-18029205,Northwestern Wildcats vs. Iowa Hawkeyes,2026-11-08T00:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 44.5,44.5,1.9524,4753983979,0,False
-18029205,Northwestern Wildcats vs. Iowa Hawkeyes,2026-11-08T00:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 45.5,45.5,1.8334,4757408147,0,True
-18029205,Northwestern Wildcats vs. Iowa Hawkeyes,2026-11-08T00:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 45.5,45.5,1.8334,4757408148,0,True
-18029205,Northwestern Wildcats vs. Iowa Hawkeyes,2026-11-08T00:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 46.5,46.5,1.7693,4757408149,0,False
-18029205,Northwestern Wildcats vs. Iowa Hawkeyes,2026-11-08T00:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 46.5,46.5,1.9091,4757408150,0,False
+18029205,Northwestern Wildcats vs. Iowa Hawkeyes,2026-11-08T00:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,2,,2.0,4732574725,0,False
+18029205,Northwestern Wildcats vs. Iowa Hawkeyes,2026-11-08T00:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1,,1.6897,4732574726,0,False
+18029205,Northwestern Wildcats vs. Iowa Hawkeyes,2026-11-08T00:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (+2.5),-2.5,1.8334,4732574727,0,True
+18029205,Northwestern Wildcats vs. Iowa Hawkeyes,2026-11-08T00:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (-2.5),-2.5,1.8334,4732574728,0,True
+18029205,Northwestern Wildcats vs. Iowa Hawkeyes,2026-11-08T00:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (+1.5),-1.5,1.9091,4749337112,0,False
+18029205,Northwestern Wildcats vs. Iowa Hawkeyes,2026-11-08T00:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (-1.5),-1.5,1.7693,4749337113,0,False
+18029205,Northwestern Wildcats vs. Iowa Hawkeyes,2026-11-08T00:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (+9.5),-9.5,1.3334,4757408051,0,False
+18029205,Northwestern Wildcats vs. Iowa Hawkeyes,2026-11-08T00:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (-9.5),-9.5,3.1,4757408052,0,False
+18029205,Northwestern Wildcats vs. Iowa Hawkeyes,2026-11-08T00:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (-8.5),-8.5,3.0,4757408053,0,False
+18029205,Northwestern Wildcats vs. Iowa Hawkeyes,2026-11-08T00:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (+8.5),-8.5,1.3572,4757408054,0,False
+18029205,Northwestern Wildcats vs. Iowa Hawkeyes,2026-11-08T00:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (-5.5),-5.5,2.35,4757408055,0,False
+18029205,Northwestern Wildcats vs. Iowa Hawkeyes,2026-11-08T00:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (+5.5),-5.5,1.5455,4757408056,0,False
+18029205,Northwestern Wildcats vs. Iowa Hawkeyes,2026-11-08T00:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (-4.5),-4.5,2.25,4757408057,0,False
+18029205,Northwestern Wildcats vs. Iowa Hawkeyes,2026-11-08T00:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (+4.5),-4.5,1.5715,4757408058,0,False
+18029205,Northwestern Wildcats vs. Iowa Hawkeyes,2026-11-08T00:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (-7.5),-7.5,2.85,4757408059,0,False
+18029205,Northwestern Wildcats vs. Iowa Hawkeyes,2026-11-08T00:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (+7.5),-7.5,1.3847,4757408060,0,False
+18029205,Northwestern Wildcats vs. Iowa Hawkeyes,2026-11-08T00:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (-6.5),-6.5,2.5,4757408061,0,False
+18029205,Northwestern Wildcats vs. Iowa Hawkeyes,2026-11-08T00:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (+6.5),-6.5,1.5,4757408062,0,False
+18029205,Northwestern Wildcats vs. Iowa Hawkeyes,2026-11-08T00:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (+3.5),-3.5,1.6451,4757408063,0,False
+18029205,Northwestern Wildcats vs. Iowa Hawkeyes,2026-11-08T00:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (-3.5),-3.5,2.15,4757408064,0,False
+18029205,Northwestern Wildcats vs. Iowa Hawkeyes,2026-11-08T00:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (+6.5),6.5,1.3334,4757408065,0,False
+18029205,Northwestern Wildcats vs. Iowa Hawkeyes,2026-11-08T00:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (-6.5),6.5,3.1,4757408066,0,False
+18029205,Northwestern Wildcats vs. Iowa Hawkeyes,2026-11-08T00:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (-1.5),1.5,2.15,4757408069,0,False
+18029205,Northwestern Wildcats vs. Iowa Hawkeyes,2026-11-08T00:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (+1.5),1.5,1.6451,4757408070,0,False
+18029205,Northwestern Wildcats vs. Iowa Hawkeyes,2026-11-08T00:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (+5.5),5.5,1.3637,4757408089,0,False
+18029205,Northwestern Wildcats vs. Iowa Hawkeyes,2026-11-08T00:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (-5.5),5.5,2.9,4757408090,0,False
+18029205,Northwestern Wildcats vs. Iowa Hawkeyes,2026-11-08T00:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (+4.5),4.5,1.4167,4757408091,0,False
+18029205,Northwestern Wildcats vs. Iowa Hawkeyes,2026-11-08T00:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (-4.5),4.5,2.7,4757408092,0,False
+18029205,Northwestern Wildcats vs. Iowa Hawkeyes,2026-11-08T00:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (+3.5),3.5,1.4546,4757408095,0,False
+18029205,Northwestern Wildcats vs. Iowa Hawkeyes,2026-11-08T00:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (-3.5),3.5,2.6,4757408096,0,False
+18029205,Northwestern Wildcats vs. Iowa Hawkeyes,2026-11-08T00:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (-2.5),2.5,2.25,4757408097,0,False
+18029205,Northwestern Wildcats vs. Iowa Hawkeyes,2026-11-08T00:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (+2.5),2.5,1.5715,4757408098,0,False
+18029205,Northwestern Wildcats vs. Iowa Hawkeyes,2026-11-08T00:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (-11.5),-11.5,3.7,4757408107,0,False
+18029205,Northwestern Wildcats vs. Iowa Hawkeyes,2026-11-08T00:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (+11.5),-11.5,1.25,4757408108,0,False
+18029205,Northwestern Wildcats vs. Iowa Hawkeyes,2026-11-08T00:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (-10.5),-10.5,3.5,4757408109,0,False
+18029205,Northwestern Wildcats vs. Iowa Hawkeyes,2026-11-08T00:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (+10.5),-10.5,1.2667,4757408110,0,False
+18029205,Northwestern Wildcats vs. Iowa Hawkeyes,2026-11-08T00:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 52.5,52.5,2.9,4757408129,0,False
+18029205,Northwestern Wildcats vs. Iowa Hawkeyes,2026-11-08T00:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 52.5,52.5,1.3637,4757408130,0,False
+18029205,Northwestern Wildcats vs. Iowa Hawkeyes,2026-11-08T00:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 42.5,42.5,1.625,4732574723,0,False
+18029205,Northwestern Wildcats vs. Iowa Hawkeyes,2026-11-08T00:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 42.5,42.5,2.2,4732574724,0,False
+18029205,Northwestern Wildcats vs. Iowa Hawkeyes,2026-11-08T00:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 43.5,43.5,1.6897,4757408135,0,False
+18029205,Northwestern Wildcats vs. Iowa Hawkeyes,2026-11-08T00:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 43.5,43.5,2.05,4757408136,0,False
+18029205,Northwestern Wildcats vs. Iowa Hawkeyes,2026-11-08T00:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 47.5,47.5,2.15,4757408137,0,False
+18029205,Northwestern Wildcats vs. Iowa Hawkeyes,2026-11-08T00:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 47.5,47.5,1.6451,4757408138,0,False
+18029205,Northwestern Wildcats vs. Iowa Hawkeyes,2026-11-08T00:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 37.5,37.5,3.0,4757408141,0,False
+18029205,Northwestern Wildcats vs. Iowa Hawkeyes,2026-11-08T00:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 37.5,37.5,1.3572,4757408142,0,False
+18029205,Northwestern Wildcats vs. Iowa Hawkeyes,2026-11-08T00:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 49.5,49.5,2.35,4757408143,0,False
+18029205,Northwestern Wildcats vs. Iowa Hawkeyes,2026-11-08T00:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 49.5,49.5,1.5455,4757408144,0,False
+18029205,Northwestern Wildcats vs. Iowa Hawkeyes,2026-11-08T00:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 48.5,48.5,2.25,4757408145,0,False
+18029205,Northwestern Wildcats vs. Iowa Hawkeyes,2026-11-08T00:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 48.5,48.5,1.5715,4757408146,0,False
+18029205,Northwestern Wildcats vs. Iowa Hawkeyes,2026-11-08T00:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 45.5,45.5,1.8696,4757408147,0,False
+18029205,Northwestern Wildcats vs. Iowa Hawkeyes,2026-11-08T00:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 45.5,45.5,1.8,4757408148,0,False
+18029205,Northwestern Wildcats vs. Iowa Hawkeyes,2026-11-08T00:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 46.5,46.5,1.7408,4757408149,0,False
+18029205,Northwestern Wildcats vs. Iowa Hawkeyes,2026-11-08T00:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 46.5,46.5,1.9524,4757408150,0,False
+18029205,Northwestern Wildcats vs. Iowa Hawkeyes,2026-11-08T00:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 36.5,36.5,3.4,4757408153,0,False
+18029205,Northwestern Wildcats vs. Iowa Hawkeyes,2026-11-08T00:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 36.5,36.5,1.2858,4757408154,0,False
+18029205,Northwestern Wildcats vs. Iowa Hawkeyes,2026-11-08T00:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 39.5,39.5,2.65,4757408167,0,False
+18029205,Northwestern Wildcats vs. Iowa Hawkeyes,2026-11-08T00:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 39.5,39.5,1.4348,4757408168,0,False
+18029205,Northwestern Wildcats vs. Iowa Hawkeyes,2026-11-08T00:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 38.5,38.5,2.75,4757408169,0,False
+18029205,Northwestern Wildcats vs. Iowa Hawkeyes,2026-11-08T00:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 38.5,38.5,1.4,4757408170,0,False
+18029205,Northwestern Wildcats vs. Iowa Hawkeyes,2026-11-08T00:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 44.5,44.5,1.8,4753983978,0,True
+18029205,Northwestern Wildcats vs. Iowa Hawkeyes,2026-11-08T00:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 44.5,44.5,1.8696,4753983979,0,True
+18029205,Northwestern Wildcats vs. Iowa Hawkeyes,2026-11-08T00:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 50.5,50.5,2.5,4757408115,0,False
+18029205,Northwestern Wildcats vs. Iowa Hawkeyes,2026-11-08T00:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 50.5,50.5,1.5,4757408116,0,False
+18029205,Northwestern Wildcats vs. Iowa Hawkeyes,2026-11-08T00:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 40.5,40.5,1.5,4757408117,0,False
+18029205,Northwestern Wildcats vs. Iowa Hawkeyes,2026-11-08T00:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 40.5,40.5,2.5,4757408118,0,False
+18029205,Northwestern Wildcats vs. Iowa Hawkeyes,2026-11-08T00:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 51.5,51.5,2.7,4757408121,0,False
+18029205,Northwestern Wildcats vs. Iowa Hawkeyes,2026-11-08T00:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 51.5,51.5,1.4167,4757408122,0,False
+18029205,Northwestern Wildcats vs. Iowa Hawkeyes,2026-11-08T00:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 41.5,41.5,1.5715,4757408123,0,False
+18029205,Northwestern Wildcats vs. Iowa Hawkeyes,2026-11-08T00:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 41.5,41.5,2.25,4757408124,0,False

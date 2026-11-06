@@ -1,15 +1,71 @@
 event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id,selection,line,price,odd_id,odd_status,is_main_bet
-18029209,Kansas Jayhawks vs. UCF Knights,2026-11-07T20:45:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Kansas Jayhawks,,1.625,4752093642,0,False
-18029209,Kansas Jayhawks vs. UCF Knights,2026-11-07T20:45:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,UCF Knights,,2.1,4752093643,0,False
-18029209,Kansas Jayhawks vs. UCF Knights,2026-11-07T20:45:00Z,spread,Écart (prolongation incluse),223,70799,UCF Knights (+3.5),-3.5,1.6667,4757403585,0,False
-18029209,Kansas Jayhawks vs. UCF Knights,2026-11-07T20:45:00Z,spread,Écart (prolongation incluse),223,70799,Kansas Jayhawks (-3.5),-3.5,2.1,4757403586,0,False
-18029209,Kansas Jayhawks vs. UCF Knights,2026-11-07T20:45:00Z,spread,Écart (prolongation incluse),223,70799,Kansas Jayhawks (-1.5),-1.5,1.6897,4757403621,0,False
-18029209,Kansas Jayhawks vs. UCF Knights,2026-11-07T20:45:00Z,spread,Écart (prolongation incluse),223,70799,UCF Knights (+1.5),-1.5,2.05,4757403622,0,False
-18029209,Kansas Jayhawks vs. UCF Knights,2026-11-07T20:45:00Z,spread,Écart (prolongation incluse),223,70799,UCF Knights (+2.5),-2.5,1.9091,4752093646,0,True
-18029209,Kansas Jayhawks vs. UCF Knights,2026-11-07T20:45:00Z,spread,Écart (prolongation incluse),223,70799,Kansas Jayhawks (-2.5),-2.5,1.7693,4752093647,0,True
-18029209,Kansas Jayhawks vs. UCF Knights,2026-11-07T20:45:00Z,total,Total (prolongations incluses),225,70803,Moins de 47.5,47.5,1.9091,4754086979,0,False
-18029209,Kansas Jayhawks vs. UCF Knights,2026-11-07T20:45:00Z,total,Total (prolongations incluses),225,70803,Plus de 47.5,47.5,1.7693,4754086980,0,False
-18029209,Kansas Jayhawks vs. UCF Knights,2026-11-07T20:45:00Z,total,Total (prolongations incluses),225,70803,Moins de 49.5,49.5,1.7408,4757403687,0,False
-18029209,Kansas Jayhawks vs. UCF Knights,2026-11-07T20:45:00Z,total,Total (prolongations incluses),225,70803,Plus de 49.5,49.5,1.9524,4757403688,0,False
-18029209,Kansas Jayhawks vs. UCF Knights,2026-11-07T20:45:00Z,total,Total (prolongations incluses),225,70803,Moins de 48.5,48.5,1.8334,4752093644,0,True
-18029209,Kansas Jayhawks vs. UCF Knights,2026-11-07T20:45:00Z,total,Total (prolongations incluses),225,70803,Plus de 48.5,48.5,1.8334,4752093645,0,True
+18029209,Kansas Jayhawks vs. UCF Knights,2026-11-07T20:45:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1,,1.5715,4752093642,0,False
+18029209,Kansas Jayhawks vs. UCF Knights,2026-11-07T20:45:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,2,,2.2,4752093643,0,False
+18029209,Kansas Jayhawks vs. UCF Knights,2026-11-07T20:45:00Z,spread,Écart (prolongation incluse),223,70799,2 (+9.5),-9.5,1.3637,4757403567,0,False
+18029209,Kansas Jayhawks vs. UCF Knights,2026-11-07T20:45:00Z,spread,Écart (prolongation incluse),223,70799,1 (-9.5),-9.5,2.9,4757403568,0,False
+18029209,Kansas Jayhawks vs. UCF Knights,2026-11-07T20:45:00Z,spread,Écart (prolongation incluse),223,70799,1 (+2.5),2.5,1.4762,4757403571,0,False
+18029209,Kansas Jayhawks vs. UCF Knights,2026-11-07T20:45:00Z,spread,Écart (prolongation incluse),223,70799,2 (-2.5),2.5,2.55,4757403572,0,False
+18029209,Kansas Jayhawks vs. UCF Knights,2026-11-07T20:45:00Z,spread,Écart (prolongation incluse),223,70799,1 (-6.5),-6.5,2.35,4757403573,0,False
+18029209,Kansas Jayhawks vs. UCF Knights,2026-11-07T20:45:00Z,spread,Écart (prolongation incluse),223,70799,2 (+6.5),-6.5,1.5455,4757403574,0,False
+18029209,Kansas Jayhawks vs. UCF Knights,2026-11-07T20:45:00Z,spread,Écart (prolongation incluse),223,70799,1 (+3.5),3.5,1.3572,4757403575,0,False
+18029209,Kansas Jayhawks vs. UCF Knights,2026-11-07T20:45:00Z,spread,Écart (prolongation incluse),223,70799,2 (-3.5),3.5,3.0,4757403576,0,False
+18029209,Kansas Jayhawks vs. UCF Knights,2026-11-07T20:45:00Z,spread,Écart (prolongation incluse),223,70799,1 (-5.5),-5.5,2.2,4757403579,0,False
+18029209,Kansas Jayhawks vs. UCF Knights,2026-11-07T20:45:00Z,spread,Écart (prolongation incluse),223,70799,2 (+5.5),-5.5,1.625,4757403580,0,False
+18029209,Kansas Jayhawks vs. UCF Knights,2026-11-07T20:45:00Z,spread,Écart (prolongation incluse),223,70799,2 (-5.5),5.5,3.4,4757403583,0,False
+18029209,Kansas Jayhawks vs. UCF Knights,2026-11-07T20:45:00Z,spread,Écart (prolongation incluse),223,70799,1 (+5.5),5.5,1.2858,4757403584,0,False
+18029209,Kansas Jayhawks vs. UCF Knights,2026-11-07T20:45:00Z,spread,Écart (prolongation incluse),223,70799,2 (+3.5),-3.5,1.7408,4757403585,0,True
+18029209,Kansas Jayhawks vs. UCF Knights,2026-11-07T20:45:00Z,spread,Écart (prolongation incluse),223,70799,1 (-3.5),-3.5,1.9524,4757403586,0,True
+18029209,Kansas Jayhawks vs. UCF Knights,2026-11-07T20:45:00Z,spread,Écart (prolongation incluse),223,70799,1 (-4.5),-4.5,2.1,4757403593,0,False
+18029209,Kansas Jayhawks vs. UCF Knights,2026-11-07T20:45:00Z,spread,Écart (prolongation incluse),223,70799,2 (+4.5),-4.5,1.6667,4757403594,0,False
+18029209,Kansas Jayhawks vs. UCF Knights,2026-11-07T20:45:00Z,spread,Écart (prolongation incluse),223,70799,1 (+4.5),4.5,1.3125,4757403595,0,False
+18029209,Kansas Jayhawks vs. UCF Knights,2026-11-07T20:45:00Z,spread,Écart (prolongation incluse),223,70799,2 (-4.5),4.5,3.2,4757403596,0,False
+18029209,Kansas Jayhawks vs. UCF Knights,2026-11-07T20:45:00Z,spread,Écart (prolongation incluse),223,70799,1 (-8.5),-8.5,2.85,4757403597,0,False
+18029209,Kansas Jayhawks vs. UCF Knights,2026-11-07T20:45:00Z,spread,Écart (prolongation incluse),223,70799,2 (+2.5),-2.5,2.05,4752093646,0,False
+18029209,Kansas Jayhawks vs. UCF Knights,2026-11-07T20:45:00Z,spread,Écart (prolongation incluse),223,70799,1 (-2.5),-2.5,1.6897,4752093647,0,False
+18029209,Kansas Jayhawks vs. UCF Knights,2026-11-07T20:45:00Z,spread,Écart (prolongation incluse),223,70799,2 (+8.5),-8.5,1.3847,4757403598,0,False
+18029209,Kansas Jayhawks vs. UCF Knights,2026-11-07T20:45:00Z,spread,Écart (prolongation incluse),223,70799,1 (+1.5),1.5,1.5264,4757403607,0,False
+18029209,Kansas Jayhawks vs. UCF Knights,2026-11-07T20:45:00Z,spread,Écart (prolongation incluse),223,70799,2 (-1.5),1.5,2.4,4757403608,0,False
+18029209,Kansas Jayhawks vs. UCF Knights,2026-11-07T20:45:00Z,spread,Écart (prolongation incluse),223,70799,1 (-7.5),-7.5,2.65,4757403609,0,False
+18029209,Kansas Jayhawks vs. UCF Knights,2026-11-07T20:45:00Z,spread,Écart (prolongation incluse),223,70799,2 (+7.5),-7.5,1.4348,4757403610,0,False
+18029209,Kansas Jayhawks vs. UCF Knights,2026-11-07T20:45:00Z,spread,Écart (prolongation incluse),223,70799,1 (-10.5),-10.5,3.25,4757403611,0,False
+18029209,Kansas Jayhawks vs. UCF Knights,2026-11-07T20:45:00Z,spread,Écart (prolongation incluse),223,70799,2 (+10.5),-10.5,1.3031,4757403612,0,False
+18029209,Kansas Jayhawks vs. UCF Knights,2026-11-07T20:45:00Z,spread,Écart (prolongation incluse),223,70799,2 (+11.5),-11.5,1.2667,4757403613,0,False
+18029209,Kansas Jayhawks vs. UCF Knights,2026-11-07T20:45:00Z,spread,Écart (prolongation incluse),223,70799,1 (-11.5),-11.5,3.5,4757403614,0,False
+18029209,Kansas Jayhawks vs. UCF Knights,2026-11-07T20:45:00Z,spread,Écart (prolongation incluse),223,70799,1 (-1.5),-1.5,1.6451,4757403621,0,False
+18029209,Kansas Jayhawks vs. UCF Knights,2026-11-07T20:45:00Z,spread,Écart (prolongation incluse),223,70799,2 (+1.5),-1.5,2.15,4757403622,0,False
+18029209,Kansas Jayhawks vs. UCF Knights,2026-11-07T20:45:00Z,spread,Écart (prolongation incluse),223,70799,1 (-3.0),-3.0,1.8,4752179570,0,True
+18029209,Kansas Jayhawks vs. UCF Knights,2026-11-07T20:45:00Z,spread,Écart (prolongation incluse),223,70799,2 (+3.0),-3.0,1.8696,4752179571,0,True
+18029209,Kansas Jayhawks vs. UCF Knights,2026-11-07T20:45:00Z,total,Total (prolongations incluses),225,70803,Plus de 54.5,54.5,2.7,4757403648,0,False
+18029209,Kansas Jayhawks vs. UCF Knights,2026-11-07T20:45:00Z,total,Total (prolongations incluses),225,70803,Moins de 44.5,44.5,2.25,4757403651,0,False
+18029209,Kansas Jayhawks vs. UCF Knights,2026-11-07T20:45:00Z,total,Total (prolongations incluses),225,70803,Plus de 44.5,44.5,1.5715,4757403652,0,False
+18029209,Kansas Jayhawks vs. UCF Knights,2026-11-07T20:45:00Z,total,Total (prolongations incluses),225,70803,Moins de 41.5,41.5,2.65,4757403653,0,False
+18029209,Kansas Jayhawks vs. UCF Knights,2026-11-07T20:45:00Z,total,Total (prolongations incluses),225,70803,Plus de 41.5,41.5,1.4348,4757403654,0,False
+18029209,Kansas Jayhawks vs. UCF Knights,2026-11-07T20:45:00Z,total,Total (prolongations incluses),225,70803,Moins de 51.5,51.5,1.5556,4757403657,0,False
+18029209,Kansas Jayhawks vs. UCF Knights,2026-11-07T20:45:00Z,total,Total (prolongations incluses),225,70803,Plus de 51.5,51.5,2.3,4757403658,0,False
+18029209,Kansas Jayhawks vs. UCF Knights,2026-11-07T20:45:00Z,total,Total (prolongations incluses),225,70803,Moins de 46.5,46.5,2.0,4757403663,0,False
+18029209,Kansas Jayhawks vs. UCF Knights,2026-11-07T20:45:00Z,total,Total (prolongations incluses),225,70803,Plus de 46.5,46.5,1.7143,4757403664,0,False
+18029209,Kansas Jayhawks vs. UCF Knights,2026-11-07T20:45:00Z,total,Total (prolongations incluses),225,70803,Plus de 39.5,39.5,1.3334,4757403665,0,False
+18029209,Kansas Jayhawks vs. UCF Knights,2026-11-07T20:45:00Z,total,Total (prolongations incluses),225,70803,Moins de 39.5,39.5,3.1,4757403666,0,False
+18029209,Kansas Jayhawks vs. UCF Knights,2026-11-07T20:45:00Z,total,Total (prolongations incluses),225,70803,Moins de 50.5,50.5,1.6451,4757403675,0,False
+18029209,Kansas Jayhawks vs. UCF Knights,2026-11-07T20:45:00Z,total,Total (prolongations incluses),225,70803,Plus de 50.5,50.5,2.15,4757403676,0,False
+18029209,Kansas Jayhawks vs. UCF Knights,2026-11-07T20:45:00Z,total,Total (prolongations incluses),225,70803,Moins de 40.5,40.5,2.9,4757403679,0,False
+18029209,Kansas Jayhawks vs. UCF Knights,2026-11-07T20:45:00Z,total,Total (prolongations incluses),225,70803,Plus de 40.5,40.5,1.3637,4757403680,0,False
+18029209,Kansas Jayhawks vs. UCF Knights,2026-11-07T20:45:00Z,total,Total (prolongations incluses),225,70803,Moins de 45.5,45.5,2.1,4757403683,0,False
+18029209,Kansas Jayhawks vs. UCF Knights,2026-11-07T20:45:00Z,total,Total (prolongations incluses),225,70803,Plus de 45.5,45.5,1.6667,4757403684,0,False
+18029209,Kansas Jayhawks vs. UCF Knights,2026-11-07T20:45:00Z,total,Total (prolongations incluses),225,70803,Moins de 42.5,42.5,2.55,4757403685,0,False
+18029209,Kansas Jayhawks vs. UCF Knights,2026-11-07T20:45:00Z,total,Total (prolongations incluses),225,70803,Plus de 42.5,42.5,1.4762,4757403686,0,False
+18029209,Kansas Jayhawks vs. UCF Knights,2026-11-07T20:45:00Z,total,Total (prolongations incluses),225,70803,Moins de 49.5,49.5,1.6897,4757403687,0,False
+18029209,Kansas Jayhawks vs. UCF Knights,2026-11-07T20:45:00Z,total,Total (prolongations incluses),225,70803,Plus de 49.5,49.5,2.05,4757403688,0,False
+18029209,Kansas Jayhawks vs. UCF Knights,2026-11-07T20:45:00Z,total,Total (prolongations incluses),225,70803,Moins de 55.5,55.5,1.3334,4757403689,0,False
+18029209,Kansas Jayhawks vs. UCF Knights,2026-11-07T20:45:00Z,total,Total (prolongations incluses),225,70803,Plus de 55.5,55.5,3.1,4757403690,0,False
+18029209,Kansas Jayhawks vs. UCF Knights,2026-11-07T20:45:00Z,total,Total (prolongations incluses),225,70803,Moins de 52.5,52.5,1.5,4757403693,0,False
+18029209,Kansas Jayhawks vs. UCF Knights,2026-11-07T20:45:00Z,total,Total (prolongations incluses),225,70803,Plus de 52.5,52.5,2.5,4757403694,0,False
+18029209,Kansas Jayhawks vs. UCF Knights,2026-11-07T20:45:00Z,total,Total (prolongations incluses),225,70803,Moins de 47.5,47.5,1.8696,4754086979,0,True
+18029209,Kansas Jayhawks vs. UCF Knights,2026-11-07T20:45:00Z,total,Total (prolongations incluses),225,70803,Plus de 47.5,47.5,1.8,4754086980,0,True
+18029209,Kansas Jayhawks vs. UCF Knights,2026-11-07T20:45:00Z,total,Total (prolongations incluses),225,70803,Moins de 48.5,48.5,1.7693,4752093644,0,False
+18029209,Kansas Jayhawks vs. UCF Knights,2026-11-07T20:45:00Z,total,Total (prolongations incluses),225,70803,Plus de 48.5,48.5,1.9091,4752093645,0,False
+18029209,Kansas Jayhawks vs. UCF Knights,2026-11-07T20:45:00Z,total,Total (prolongations incluses),225,70803,Moins de 43.5,43.5,2.4,4757403641,0,False
+18029209,Kansas Jayhawks vs. UCF Knights,2026-11-07T20:45:00Z,total,Total (prolongations incluses),225,70803,Plus de 43.5,43.5,1.5264,4757403642,0,False
+18029209,Kansas Jayhawks vs. UCF Knights,2026-11-07T20:45:00Z,total,Total (prolongations incluses),225,70803,Moins de 53.5,53.5,1.4546,4757403645,0,False
+18029209,Kansas Jayhawks vs. UCF Knights,2026-11-07T20:45:00Z,total,Total (prolongations incluses),225,70803,Plus de 53.5,53.5,2.6,4757403646,0,False
+18029209,Kansas Jayhawks vs. UCF Knights,2026-11-07T20:45:00Z,total,Total (prolongations incluses),225,70803,Moins de 54.5,54.5,1.4167,4757403647,0,False

@@ -1,15 +1,71 @@
 event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id,selection,line,price,odd_id,odd_status,is_main_bet
-18153357,Middle Tennessee Blue Raiders vs. Western Kentucky Hilltoppers,2026-11-07T20:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Middle Tennessee Blue Raiders,,1.8334,4752395760,0,False
-18153357,Middle Tennessee Blue Raiders vs. Western Kentucky Hilltoppers,2026-11-07T20:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Western Kentucky Hilltoppers,,1.8334,4752395761,0,False
-18153357,Middle Tennessee Blue Raiders vs. Western Kentucky Hilltoppers,2026-11-07T20:30:00Z,spread,Écart (prolongation incluse),223,70799,Western Kentucky Hilltoppers (+3.5),-3.5,1.625,4757401593,0,False
-18153357,Middle Tennessee Blue Raiders vs. Western Kentucky Hilltoppers,2026-11-07T20:30:00Z,spread,Écart (prolongation incluse),223,70799,Middle Tennessee Blue Raiders (-3.5),-3.5,2.2,4757401594,0,False
-18153357,Middle Tennessee Blue Raiders vs. Western Kentucky Hilltoppers,2026-11-07T20:30:00Z,spread,Écart (prolongation incluse),223,70799,Western Kentucky Hilltoppers (+2.5),-2.5,1.7408,4757401595,0,False
-18153357,Middle Tennessee Blue Raiders vs. Western Kentucky Hilltoppers,2026-11-07T20:30:00Z,spread,Écart (prolongation incluse),223,70799,Middle Tennessee Blue Raiders (-2.5),-2.5,1.9524,4757401596,0,False
-18153357,Middle Tennessee Blue Raiders vs. Western Kentucky Hilltoppers,2026-11-07T20:30:00Z,spread,Écart (prolongation incluse),223,70799,Western Kentucky Hilltoppers (+1.5),-1.5,1.8,4752395773,0,True
-18153357,Middle Tennessee Blue Raiders vs. Western Kentucky Hilltoppers,2026-11-07T20:30:00Z,spread,Écart (prolongation incluse),223,70799,Middle Tennessee Blue Raiders (-1.5),-1.5,1.8696,4752395774,0,True
+18153357,Middle Tennessee Blue Raiders vs. Western Kentucky Hilltoppers,2026-11-07T20:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1,,2.0,4752395760,0,False
+18153357,Middle Tennessee Blue Raiders vs. Western Kentucky Hilltoppers,2026-11-07T20:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,2,,1.6897,4752395761,0,False
+18153357,Middle Tennessee Blue Raiders vs. Western Kentucky Hilltoppers,2026-11-07T20:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (+1.5),1.5,1.9091,4754902786,0,False
+18153357,Middle Tennessee Blue Raiders vs. Western Kentucky Hilltoppers,2026-11-07T20:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (-1.5),1.5,1.7693,4754902787,0,False
+18153357,Middle Tennessee Blue Raiders vs. Western Kentucky Hilltoppers,2026-11-07T20:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (-9.5),9.5,3.1,4757401523,0,False
+18153357,Middle Tennessee Blue Raiders vs. Western Kentucky Hilltoppers,2026-11-07T20:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (+9.5),9.5,1.3334,4757401524,0,False
+18153357,Middle Tennessee Blue Raiders vs. Western Kentucky Hilltoppers,2026-11-07T20:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (+8.5),8.5,1.3572,4757401525,0,False
+18153357,Middle Tennessee Blue Raiders vs. Western Kentucky Hilltoppers,2026-11-07T20:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (-8.5),8.5,3.0,4757401526,0,False
+18153357,Middle Tennessee Blue Raiders vs. Western Kentucky Hilltoppers,2026-11-07T20:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (+7.5),7.5,1.3847,4757401527,0,False
+18153357,Middle Tennessee Blue Raiders vs. Western Kentucky Hilltoppers,2026-11-07T20:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (-7.5),7.5,2.85,4757401528,0,False
+18153357,Middle Tennessee Blue Raiders vs. Western Kentucky Hilltoppers,2026-11-07T20:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (+6.5),6.5,1.5,4757401529,0,False
+18153357,Middle Tennessee Blue Raiders vs. Western Kentucky Hilltoppers,2026-11-07T20:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (-6.5),6.5,2.5,4757401530,0,False
+18153357,Middle Tennessee Blue Raiders vs. Western Kentucky Hilltoppers,2026-11-07T20:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (+5.5),5.5,1.5455,4757401531,0,False
+18153357,Middle Tennessee Blue Raiders vs. Western Kentucky Hilltoppers,2026-11-07T20:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (-5.5),5.5,2.35,4757401532,0,False
+18153357,Middle Tennessee Blue Raiders vs. Western Kentucky Hilltoppers,2026-11-07T20:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (+4.5),4.5,1.625,4757401533,0,False
+18153357,Middle Tennessee Blue Raiders vs. Western Kentucky Hilltoppers,2026-11-07T20:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (-4.5),4.5,2.2,4757401535,0,False
+18153357,Middle Tennessee Blue Raiders vs. Western Kentucky Hilltoppers,2026-11-07T20:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (+3.5),3.5,1.6667,4757401536,0,False
+18153357,Middle Tennessee Blue Raiders vs. Western Kentucky Hilltoppers,2026-11-07T20:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (-3.5),3.5,2.1,4757401537,0,False
+18153357,Middle Tennessee Blue Raiders vs. Western Kentucky Hilltoppers,2026-11-07T20:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (-2.5),2.5,1.8696,4757401539,0,True
+18153357,Middle Tennessee Blue Raiders vs. Western Kentucky Hilltoppers,2026-11-07T20:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (+2.5),2.5,1.8,4757401541,0,True
+18153357,Middle Tennessee Blue Raiders vs. Western Kentucky Hilltoppers,2026-11-07T20:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (-10.5),10.5,3.4,4757401546,0,False
+18153357,Middle Tennessee Blue Raiders vs. Western Kentucky Hilltoppers,2026-11-07T20:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (+10.5),10.5,1.2858,4757401547,0,False
+18153357,Middle Tennessee Blue Raiders vs. Western Kentucky Hilltoppers,2026-11-07T20:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (-11.5),11.5,3.7,4757401549,0,False
+18153357,Middle Tennessee Blue Raiders vs. Western Kentucky Hilltoppers,2026-11-07T20:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (+11.5),11.5,1.25,4757401552,0,False
+18153357,Middle Tennessee Blue Raiders vs. Western Kentucky Hilltoppers,2026-11-07T20:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (+4.5),-4.5,1.4348,4757401566,0,False
+18153357,Middle Tennessee Blue Raiders vs. Western Kentucky Hilltoppers,2026-11-07T20:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (-4.5),-4.5,2.65,4757401568,0,False
+18153357,Middle Tennessee Blue Raiders vs. Western Kentucky Hilltoppers,2026-11-07T20:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (-6.5),-6.5,3.0,4757401570,0,False
+18153357,Middle Tennessee Blue Raiders vs. Western Kentucky Hilltoppers,2026-11-07T20:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (+6.5),-6.5,1.3572,4757401572,0,False
+18153357,Middle Tennessee Blue Raiders vs. Western Kentucky Hilltoppers,2026-11-07T20:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (+5.5),-5.5,1.4,4757401591,0,False
+18153357,Middle Tennessee Blue Raiders vs. Western Kentucky Hilltoppers,2026-11-07T20:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (-5.5),-5.5,2.75,4757401592,0,False
+18153357,Middle Tennessee Blue Raiders vs. Western Kentucky Hilltoppers,2026-11-07T20:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (+3.5),-3.5,1.5,4757401593,0,False
+18153357,Middle Tennessee Blue Raiders vs. Western Kentucky Hilltoppers,2026-11-07T20:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (-3.5),-3.5,2.5,4757401594,0,False
+18153357,Middle Tennessee Blue Raiders vs. Western Kentucky Hilltoppers,2026-11-07T20:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (+2.5),-2.5,1.625,4757401595,0,False
+18153357,Middle Tennessee Blue Raiders vs. Western Kentucky Hilltoppers,2026-11-07T20:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (-2.5),-2.5,2.2,4757401596,0,False
+18153357,Middle Tennessee Blue Raiders vs. Western Kentucky Hilltoppers,2026-11-07T20:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (+1.5),-1.5,1.6667,4752395773,0,False
+18153357,Middle Tennessee Blue Raiders vs. Western Kentucky Hilltoppers,2026-11-07T20:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (-1.5),-1.5,2.1,4752395774,0,False
+18153357,Middle Tennessee Blue Raiders vs. Western Kentucky Hilltoppers,2026-11-07T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 49.5,49.5,2.3,4757401633,0,False
+18153357,Middle Tennessee Blue Raiders vs. Western Kentucky Hilltoppers,2026-11-07T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 49.5,49.5,1.5556,4757401634,0,False
+18153357,Middle Tennessee Blue Raiders vs. Western Kentucky Hilltoppers,2026-11-07T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 48.5,48.5,2.5,4757401635,0,False
+18153357,Middle Tennessee Blue Raiders vs. Western Kentucky Hilltoppers,2026-11-07T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 48.5,48.5,1.5,4757401636,0,False
+18153357,Middle Tennessee Blue Raiders vs. Western Kentucky Hilltoppers,2026-11-07T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 47.5,47.5,2.65,4757401637,0,False
+18153357,Middle Tennessee Blue Raiders vs. Western Kentucky Hilltoppers,2026-11-07T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 47.5,47.5,1.4348,4757401638,0,False
+18153357,Middle Tennessee Blue Raiders vs. Western Kentucky Hilltoppers,2026-11-07T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 46.5,46.5,2.85,4757401639,0,False
+18153357,Middle Tennessee Blue Raiders vs. Western Kentucky Hilltoppers,2026-11-07T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 46.5,46.5,1.3847,4757401640,0,False
+18153357,Middle Tennessee Blue Raiders vs. Western Kentucky Hilltoppers,2026-11-07T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 45.5,45.5,1.3572,4757401641,0,False
 18153357,Middle Tennessee Blue Raiders vs. Western Kentucky Hilltoppers,2026-11-07T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 53.5,53.5,1.8334,4753960872,0,True
+18153357,Middle Tennessee Blue Raiders vs. Western Kentucky Hilltoppers,2026-11-07T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 45.5,45.5,3.0,4757401642,0,False
 18153357,Middle Tennessee Blue Raiders vs. Western Kentucky Hilltoppers,2026-11-07T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 53.5,53.5,1.8334,4753960873,0,True
+18153357,Middle Tennessee Blue Raiders vs. Western Kentucky Hilltoppers,2026-11-07T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 57.5,57.5,1.5455,4757401655,0,False
+18153357,Middle Tennessee Blue Raiders vs. Western Kentucky Hilltoppers,2026-11-07T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 57.5,57.5,2.35,4757401656,0,False
+18153357,Middle Tennessee Blue Raiders vs. Western Kentucky Hilltoppers,2026-11-07T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 59.5,59.5,1.4167,4757401659,0,False
+18153357,Middle Tennessee Blue Raiders vs. Western Kentucky Hilltoppers,2026-11-07T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 59.5,59.5,2.7,4757401660,0,False
+18153357,Middle Tennessee Blue Raiders vs. Western Kentucky Hilltoppers,2026-11-07T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 55.5,55.5,2.15,4757401665,0,False
+18153357,Middle Tennessee Blue Raiders vs. Western Kentucky Hilltoppers,2026-11-07T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 55.5,55.5,1.6451,4757401666,0,False
+18153357,Middle Tennessee Blue Raiders vs. Western Kentucky Hilltoppers,2026-11-07T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 50.5,50.5,1.625,4757401671,0,False
+18153357,Middle Tennessee Blue Raiders vs. Western Kentucky Hilltoppers,2026-11-07T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 50.5,50.5,2.2,4757401672,0,False
+18153357,Middle Tennessee Blue Raiders vs. Western Kentucky Hilltoppers,2026-11-07T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 60.5,60.5,1.3847,4757401673,0,False
+18153357,Middle Tennessee Blue Raiders vs. Western Kentucky Hilltoppers,2026-11-07T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 60.5,60.5,2.85,4757401674,0,False
+18153357,Middle Tennessee Blue Raiders vs. Western Kentucky Hilltoppers,2026-11-07T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 61.5,61.5,1.3334,4757401675,0,False
+18153357,Middle Tennessee Blue Raiders vs. Western Kentucky Hilltoppers,2026-11-07T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 61.5,61.5,3.1,4757401676,0,False
+18153357,Middle Tennessee Blue Raiders vs. Western Kentucky Hilltoppers,2026-11-07T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 51.5,51.5,1.6897,4757401677,0,False
+18153357,Middle Tennessee Blue Raiders vs. Western Kentucky Hilltoppers,2026-11-07T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 51.5,51.5,2.05,4757401678,0,False
+18153357,Middle Tennessee Blue Raiders vs. Western Kentucky Hilltoppers,2026-11-07T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 58.5,58.5,1.4762,4757401679,0,False
+18153357,Middle Tennessee Blue Raiders vs. Western Kentucky Hilltoppers,2026-11-07T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 58.5,58.5,2.55,4757401680,0,False
+18153357,Middle Tennessee Blue Raiders vs. Western Kentucky Hilltoppers,2026-11-07T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 56.5,56.5,1.5715,4757401681,0,False
+18153357,Middle Tennessee Blue Raiders vs. Western Kentucky Hilltoppers,2026-11-07T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 56.5,56.5,2.25,4757401682,0,False
+18153357,Middle Tennessee Blue Raiders vs. Western Kentucky Hilltoppers,2026-11-07T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 54.5,54.5,1.9524,4757401683,0,False
+18153357,Middle Tennessee Blue Raiders vs. Western Kentucky Hilltoppers,2026-11-07T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 54.5,54.5,1.7408,4757401684,0,False
 18153357,Middle Tennessee Blue Raiders vs. Western Kentucky Hilltoppers,2026-11-07T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 52.5,52.5,1.8,4752395762,0,False
-18153357,Middle Tennessee Blue Raiders vs. Western Kentucky Hilltoppers,2026-11-07T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 54.5,54.5,2.0,4757401683,0,False
 18153357,Middle Tennessee Blue Raiders vs. Western Kentucky Hilltoppers,2026-11-07T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 52.5,52.5,1.8696,4752395763,0,False
-18153357,Middle Tennessee Blue Raiders vs. Western Kentucky Hilltoppers,2026-11-07T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 54.5,54.5,1.7143,4757401684,0,False

@@ -1,15 +1,103 @@
 event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id,selection,line,price,odd_id,odd_status,is_main_bet
-18029215,Connecticut Huskies vs. North Carolina Tar Heels,2026-11-07T17:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,North Carolina Tar Heels,,1.3334,4752097384,0,False
-18029215,Connecticut Huskies vs. North Carolina Tar Heels,2026-11-07T17:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,Connecticut Huskies,,2.95,4752097385,0,False
-18029215,Connecticut Huskies vs. North Carolina Tar Heels,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,North Carolina Tar Heels (-7.0),7.0,1.8696,4753942697,0,True
-18029215,Connecticut Huskies vs. North Carolina Tar Heels,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,Connecticut Huskies (+7.0),7.0,1.8,4753942698,0,True
-18029215,Connecticut Huskies vs. North Carolina Tar Heels,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,Connecticut Huskies (+7.5),7.5,1.7143,4753169805,0,False
-18029215,Connecticut Huskies vs. North Carolina Tar Heels,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,North Carolina Tar Heels (-7.5),7.5,2.0,4753169806,0,False
-18029215,Connecticut Huskies vs. North Carolina Tar Heels,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,North Carolina Tar Heels (-6.5),6.5,1.7693,4757403288,0,True
-18029215,Connecticut Huskies vs. North Carolina Tar Heels,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,Connecticut Huskies (+6.5),6.5,1.9091,4757403289,0,True
-18029215,Connecticut Huskies vs. North Carolina Tar Heels,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 53.5,53.5,2.0,4757403332,0,False
-18029215,Connecticut Huskies vs. North Carolina Tar Heels,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 53.5,53.5,1.7143,4757403333,0,False
-18029215,Connecticut Huskies vs. North Carolina Tar Heels,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 54.5,54.5,1.8696,4753942695,0,True
+18029215,Connecticut Huskies vs. North Carolina Tar Heels,2026-11-07T17:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,2,,1.2858,4752097384,0,False
+18029215,Connecticut Huskies vs. North Carolina Tar Heels,2026-11-07T17:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1,,3.2,4752097385,0,False
+18029215,Connecticut Huskies vs. North Carolina Tar Heels,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (-19.5),19.5,3.5,4757403264,0,False
+18029215,Connecticut Huskies vs. North Carolina Tar Heels,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (+19.5),19.5,1.2667,4757403265,0,False
+18029215,Connecticut Huskies vs. North Carolina Tar Heels,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (-18.5),18.5,3.4,4757403266,0,False
+18029215,Connecticut Huskies vs. North Carolina Tar Heels,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (+18.5),18.5,1.2858,4757403267,0,False
+18029215,Connecticut Huskies vs. North Carolina Tar Heels,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-1.5),-1.5,3.4,4757403268,0,False
+18029215,Connecticut Huskies vs. North Carolina Tar Heels,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+1.5),-1.5,1.2858,4757403269,0,False
+18029215,Connecticut Huskies vs. North Carolina Tar Heels,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+5.5),-5.5,1.1429,4757403280,0,False
+18029215,Connecticut Huskies vs. North Carolina Tar Heels,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (-20.5),20.5,3.7,4757403272,0,False
+18029215,Connecticut Huskies vs. North Carolina Tar Heels,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (+20.5),20.5,1.25,4757403273,0,False
+18029215,Connecticut Huskies vs. North Carolina Tar Heels,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-4.5),-4.5,4.75,4757403276,0,False
+18029215,Connecticut Huskies vs. North Carolina Tar Heels,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (+7.5),7.5,1.8334,4753169805,0,True
+18029215,Connecticut Huskies vs. North Carolina Tar Heels,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (+4.5),4.5,2.3,4757403278,0,False
+18029215,Connecticut Huskies vs. North Carolina Tar Heels,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (-7.5),7.5,1.8334,4753169806,0,True
+18029215,Connecticut Huskies vs. North Carolina Tar Heels,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (-4.5),4.5,1.5556,4757403279,0,False
+18029215,Connecticut Huskies vs. North Carolina Tar Heels,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-5.5),-5.5,5.0,4757403281,0,False
+18029215,Connecticut Huskies vs. North Carolina Tar Heels,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+3.5),-3.5,1.1819,4757403282,0,False
+18029215,Connecticut Huskies vs. North Carolina Tar Heels,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-3.5),-3.5,4.4,4757403283,0,False
+18029215,Connecticut Huskies vs. North Carolina Tar Heels,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+2.5),-2.5,1.25,4757403284,0,False
+18029215,Connecticut Huskies vs. North Carolina Tar Heels,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-2.5),-2.5,3.7,4757403285,0,False
+18029215,Connecticut Huskies vs. North Carolina Tar Heels,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (-5.5),5.5,1.625,4757403286,0,False
+18029215,Connecticut Huskies vs. North Carolina Tar Heels,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (+5.5),5.5,2.2,4757403287,0,False
+18029215,Connecticut Huskies vs. North Carolina Tar Heels,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (-6.5),6.5,1.6667,4757403288,0,False
+18029215,Connecticut Huskies vs. North Carolina Tar Heels,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (+6.5),6.5,2.1,4757403289,0,False
+18029215,Connecticut Huskies vs. North Carolina Tar Heels,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (-3.5),3.5,1.5,4757403290,0,False
+18029215,Connecticut Huskies vs. North Carolina Tar Heels,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (+3.5),3.5,2.5,4757403291,0,False
+18029215,Connecticut Huskies vs. North Carolina Tar Heels,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (-9.5),9.5,1.9524,4757403292,0,False
+18029215,Connecticut Huskies vs. North Carolina Tar Heels,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (+9.5),9.5,1.7408,4757403293,0,False
+18029215,Connecticut Huskies vs. North Carolina Tar Heels,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (+8.5),8.5,1.7693,4752097361,0,False
+18029215,Connecticut Huskies vs. North Carolina Tar Heels,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (-8.5),8.5,1.9091,4752097362,0,False
+18029215,Connecticut Huskies vs. North Carolina Tar Heels,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (-2.5),2.5,1.3847,4757403238,0,False
+18029215,Connecticut Huskies vs. North Carolina Tar Heels,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (+2.5),2.5,2.85,4757403239,0,False
+18029215,Connecticut Huskies vs. North Carolina Tar Heels,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (-1.5),1.5,1.3334,4757403240,0,False
+18029215,Connecticut Huskies vs. North Carolina Tar Heels,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (+1.5),1.5,3.1,4757403241,0,False
+18029215,Connecticut Huskies vs. North Carolina Tar Heels,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (-16.5),16.5,2.85,4757403244,0,False
+18029215,Connecticut Huskies vs. North Carolina Tar Heels,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (+16.5),16.5,1.3847,4757403245,0,False
+18029215,Connecticut Huskies vs. North Carolina Tar Heels,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (-17.5),17.5,3.1,4757403248,0,False
+18029215,Connecticut Huskies vs. North Carolina Tar Heels,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (+17.5),17.5,1.3334,4757403249,0,False
+18029215,Connecticut Huskies vs. North Carolina Tar Heels,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (-15.5),15.5,2.7,4757403250,0,False
+18029215,Connecticut Huskies vs. North Carolina Tar Heels,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (+15.5),15.5,1.4167,4757403251,0,False
+18029215,Connecticut Huskies vs. North Carolina Tar Heels,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (+14.5),14.5,1.4348,4757403252,0,False
+18029215,Connecticut Huskies vs. North Carolina Tar Heels,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (-14.5),14.5,2.65,4757403253,0,False
+18029215,Connecticut Huskies vs. North Carolina Tar Heels,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (+11.5),11.5,1.5715,4757403254,0,False
+18029215,Connecticut Huskies vs. North Carolina Tar Heels,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (-11.5),11.5,2.25,4757403255,0,False
+18029215,Connecticut Huskies vs. North Carolina Tar Heels,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (-10.5),10.5,2.15,4757403256,0,False
+18029215,Connecticut Huskies vs. North Carolina Tar Heels,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (+10.5),10.5,1.6451,4757403257,0,False
+18029215,Connecticut Huskies vs. North Carolina Tar Heels,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (+13.5),13.5,1.5264,4757403258,0,False
+18029215,Connecticut Huskies vs. North Carolina Tar Heels,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (-13.5),13.5,2.4,4757403259,0,False
+18029215,Connecticut Huskies vs. North Carolina Tar Heels,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+4.5),-4.5,1.1539,4757403277,0,False
+18029215,Connecticut Huskies vs. North Carolina Tar Heels,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (+12.5),12.5,1.5556,4757403262,0,False
+18029215,Connecticut Huskies vs. North Carolina Tar Heels,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (-12.5),12.5,2.3,4757403263,0,False
+18029215,Connecticut Huskies vs. North Carolina Tar Heels,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 56.5,56.5,1.6897,4757403294,0,False
+18029215,Connecticut Huskies vs. North Carolina Tar Heels,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 56.5,56.5,2.05,4757403295,0,False
+18029215,Connecticut Huskies vs. North Carolina Tar Heels,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 46.5,46.5,1.3334,4757403296,0,False
+18029215,Connecticut Huskies vs. North Carolina Tar Heels,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 46.5,46.5,3.1,4757403297,0,False
+18029215,Connecticut Huskies vs. North Carolina Tar Heels,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 66.5,66.5,4.0,4757403298,0,False
+18029215,Connecticut Huskies vs. North Carolina Tar Heels,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 66.5,66.5,1.2223,4757403299,0,False
+18029215,Connecticut Huskies vs. North Carolina Tar Heels,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 58.5,58.5,1.5715,4757403300,0,False
+18029215,Connecticut Huskies vs. North Carolina Tar Heels,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 58.5,58.5,2.25,4757403301,0,False
+18029215,Connecticut Huskies vs. North Carolina Tar Heels,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 48.5,48.5,1.4348,4757403302,0,False
+18029215,Connecticut Huskies vs. North Carolina Tar Heels,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 48.5,48.5,2.65,4757403303,0,False
 18029215,Connecticut Huskies vs. North Carolina Tar Heels,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 54.5,54.5,1.8,4753942696,0,True
+18029215,Connecticut Huskies vs. North Carolina Tar Heels,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 54.5,54.5,1.8696,4753942695,0,True
+18029215,Connecticut Huskies vs. North Carolina Tar Heels,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 57.5,57.5,1.6451,4757403306,0,False
+18029215,Connecticut Huskies vs. North Carolina Tar Heels,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 57.5,57.5,2.15,4757403307,0,False
+18029215,Connecticut Huskies vs. North Carolina Tar Heels,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 47.5,47.5,1.3847,4757403308,0,False
+18029215,Connecticut Huskies vs. North Carolina Tar Heels,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 47.5,47.5,2.85,4757403309,0,False
+18029215,Connecticut Huskies vs. North Carolina Tar Heels,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 59.5,59.5,1.5,4757403312,0,False
+18029215,Connecticut Huskies vs. North Carolina Tar Heels,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 59.5,59.5,2.5,4757403313,0,False
+18029215,Connecticut Huskies vs. North Carolina Tar Heels,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 49.5,49.5,1.4762,4757403314,0,False
+18029215,Connecticut Huskies vs. North Carolina Tar Heels,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 52.5,52.5,1.6897,4752987570,0,False
+18029215,Connecticut Huskies vs. North Carolina Tar Heels,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 49.5,49.5,2.55,4757403315,0,False
+18029215,Connecticut Huskies vs. North Carolina Tar Heels,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 52.5,52.5,2.05,4752987569,0,False
+18029215,Connecticut Huskies vs. North Carolina Tar Heels,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 44.5,44.5,1.2667,4757403320,0,False
+18029215,Connecticut Huskies vs. North Carolina Tar Heels,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 44.5,44.5,3.5,4757403321,0,False
+18029215,Connecticut Huskies vs. North Carolina Tar Heels,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 64.5,64.5,3.2,4757403322,0,False
+18029215,Connecticut Huskies vs. North Carolina Tar Heels,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 64.5,64.5,1.3125,4757403323,0,False
 18029215,Connecticut Huskies vs. North Carolina Tar Heels,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 55.5,55.5,1.7408,4757403324,0,False
 18029215,Connecticut Huskies vs. North Carolina Tar Heels,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 55.5,55.5,1.9524,4757403325,0,False
+18029215,Connecticut Huskies vs. North Carolina Tar Heels,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 45.5,45.5,1.3125,4757403326,0,False
+18029215,Connecticut Huskies vs. North Carolina Tar Heels,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 45.5,45.5,3.2,4757403327,0,False
+18029215,Connecticut Huskies vs. North Carolina Tar Heels,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 65.5,65.5,3.5,4757403328,0,False
+18029215,Connecticut Huskies vs. North Carolina Tar Heels,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 65.5,65.5,1.2667,4757403329,0,False
+18029215,Connecticut Huskies vs. North Carolina Tar Heels,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 50.5,50.5,2.4,4757403330,0,False
+18029215,Connecticut Huskies vs. North Carolina Tar Heels,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 50.5,50.5,1.5264,4757403331,0,False
+18029215,Connecticut Huskies vs. North Carolina Tar Heels,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 53.5,53.5,1.9524,4757403332,0,False
+18029215,Connecticut Huskies vs. North Carolina Tar Heels,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 53.5,53.5,1.7408,4757403333,0,False
+18029215,Connecticut Huskies vs. North Carolina Tar Heels,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 42.5,42.5,1.2,4757403334,0,False
+18029215,Connecticut Huskies vs. North Carolina Tar Heels,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 42.5,42.5,4.2,4757403335,0,False
+18029215,Connecticut Huskies vs. North Carolina Tar Heels,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 43.5,43.5,4.0,4757403336,0,False
+18029215,Connecticut Huskies vs. North Carolina Tar Heels,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 43.5,43.5,1.2223,4757403337,0,False
+18029215,Connecticut Huskies vs. North Carolina Tar Heels,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 62.5,62.5,2.9,4757403342,0,False
+18029215,Connecticut Huskies vs. North Carolina Tar Heels,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 62.5,62.5,1.3637,4757403343,0,False
+18029215,Connecticut Huskies vs. North Carolina Tar Heels,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 63.5,63.5,3.1,4757403344,0,False
+18029215,Connecticut Huskies vs. North Carolina Tar Heels,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 63.5,63.5,1.3334,4757403345,0,False
+18029215,Connecticut Huskies vs. North Carolina Tar Heels,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 60.5,60.5,2.55,4757403346,0,False
+18029215,Connecticut Huskies vs. North Carolina Tar Heels,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 60.5,60.5,1.4762,4757403347,0,False
+18029215,Connecticut Huskies vs. North Carolina Tar Heels,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 61.5,61.5,1.4167,4757403348,0,False
+18029215,Connecticut Huskies vs. North Carolina Tar Heels,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 61.5,61.5,2.7,4757403349,0,False
+18029215,Connecticut Huskies vs. North Carolina Tar Heels,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 51.5,51.5,2.2,4752097382,0,False
+18029215,Connecticut Huskies vs. North Carolina Tar Heels,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 51.5,51.5,1.625,4752097383,0,False

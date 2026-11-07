@@ -1,8 +1,12 @@
 event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id,selection,line,price,odd_id,odd_status,is_main_bet
 17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,2,,2.4,4729672573,0,False
 17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1,,1.4762,4729672574,0,False
-17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (+8.5),8.5,1.1429,4757407752,0,False
-17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (-8.5),8.5,5.0,4757407753,0,False
+17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (+10.5),10.5,1.1112,4757407744,0,False
+17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (-10.5),10.5,6.0,4757407746,0,False
+17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (+9.5),9.5,1.1334,4757407748,0,False
+17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (-9.5),9.5,5.25,4757407750,0,False
+17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (+8.5),8.5,1.1334,4757407752,0,False
+17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (-8.5),8.5,5.25,4757407753,0,False
 17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (+3.5),3.5,1.3125,4757407754,0,False
 17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (-3.5),3.5,3.2,4757407755,0,False
 17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (-1.5),1.5,2.6,4757407757,0,False
@@ -15,89 +19,109 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (-5.5),5.5,3.7,4757407772,0,False
 17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (+6.5),6.5,1.2223,4757407773,0,False
 17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (-6.5),6.5,4.0,4757407774,0,False
-17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (+4.5),4.5,1.2858,4757407775,0,False
-17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-5.5),-5.5,2.0,4752282144,0,False
+17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (+4.5),4.5,1.2667,4757407775,0,False
+17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-5.5),-5.5,1.9524,4752282144,0,False
 17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-3.5),-3.5,1.7693,4757407777,0,False
-17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (-4.5),4.5,3.4,4757407776,0,False
-17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-2.5),-2.5,1.625,4757407779,0,False
-17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+2.5),-2.5,2.2,4757407780,0,False
+17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (-4.5),4.5,3.5,4757407776,0,False
+17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-2.5),-2.5,1.5715,4757407779,0,False
+17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+2.5),-2.5,2.25,4757407780,0,False
 17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+3.5),-3.5,1.9091,4757407778,0,False
-17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+5.5),-5.5,1.7143,4752282145,0,False
-17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+13.5),-13.5,1.3031,4757407783,0,False
-17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-13.5),-13.5,3.25,4757407784,0,False
+17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-19.5),-19.5,5.25,4757407782,0,False
+17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+5.5),-5.5,1.7408,4752282145,0,False
+17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-13.5),-13.5,3.2,4757407784,0,False
+17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+13.5),-13.5,1.3125,4757407783,0,False
 17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+16.5),-16.5,1.2223,4757407785,0,False
 17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-16.5),-16.5,4.0,4757407787,0,False
+17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+19.5),-19.5,1.1334,4757407781,0,False
+17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (+11.5),11.5,1.1,4759097773,0,False
 17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-8.5),-8.5,2.5,4757407789,0,False
+17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (-11.5),11.5,6.5,4759097774,0,False
 17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+8.5),-8.5,1.5,4757407791,0,False
 17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+15.5),-15.5,1.2353,4757407793,0,False
 17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-15.5),-15.5,3.75,4757407795,0,False
 17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+14.5),-14.5,1.25,4757407796,0,False
 17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-14.5),-14.5,3.7,4757407798,0,False
-17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-9.5),-9.5,2.55,4757407799,0,False
 17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-6.5),-6.5,2.1,4753626167,0,False
+17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-9.5),-9.5,2.55,4757407799,0,False
 17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+6.5),-6.5,1.6667,4753626168,0,False
-17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+9.5),-9.5,1.4762,4757407800,0,False
+17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-18.5),-18.5,5.0,4757407802,0,False
 17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-1.5),-1.5,1.5455,4757407803,0,False
 17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+1.5),-1.5,2.35,4757407804,0,False
-17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+10.5),-10.5,1.3847,4757407805,0,False
-17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-10.5),-10.5,2.85,4757407806,0,False
-17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-7.5),-7.5,2.4,4757407809,0,False
-17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+7.5),-7.5,1.5264,4757407810,0,False
-17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+11.5),-11.5,1.3572,4757407811,0,False
-17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-11.5),-11.5,3.0,4757407812,0,False
+17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+9.5),-9.5,1.4762,4757407800,0,False
+17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-10.5),-10.5,2.75,4757407806,0,False
+17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+10.5),-10.5,1.4,4757407805,0,False
+17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-20.5),-20.5,6.0,4757407808,0,False
+17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-7.5),-7.5,2.35,4757407809,0,False
+17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+7.5),-7.5,1.5455,4757407810,0,False
+17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+11.5),-11.5,1.3637,4757407811,0,False
+17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-11.5),-11.5,2.9,4757407812,0,False
 17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-12.5),-12.5,3.1,4757407813,0,False
 17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+12.5),-12.5,1.3334,4757407814,0,False
 17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+17.5),-17.5,1.1819,4757407815,0,False
 17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-17.5),-17.5,4.4,4757407816,0,False
 17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+4.5),-4.5,1.8,4748762571,0,True
 17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-4.5),-4.5,1.8696,4748762572,0,True
-17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 47.5,47.5,1.7143,4752074112,0,False
-17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 47.5,47.5,2.0,4752074113,0,False
-17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 48.5,48.5,1.8334,4729672576,0,True
-17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 43.5,43.5,2.55,4757407648,0,False
-17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 43.5,43.5,1.4762,4757407650,0,False
+17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+18.5),-18.5,1.1429,4757407801,0,False
+17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+20.5),-20.5,1.1112,4757407807,0,False
+17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 47.5,47.5,1.6897,4752074112,0,False
+17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 47.5,47.5,2.05,4752074113,0,False
+17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 48.5,48.5,1.8696,4729672576,0,True
+17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 43.5,43.5,2.6,4757407648,0,False
+17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 43.5,43.5,1.4546,4757407650,0,False
 17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 53.5,53.5,2.4,4757407652,0,False
 17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 53.5,53.5,1.5264,4757407655,0,False
-17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 42.5,42.5,2.7,4757407664,0,False
-17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 42.5,42.5,1.4167,4757407665,0,False
-17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 52.5,52.5,2.35,4757407667,0,False
-17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 52.5,52.5,1.5455,4757407669,0,False
+17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 62.5,62.5,1.1819,4757407660,0,False
+17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 62.5,62.5,4.4,4757407662,0,False
+17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 42.5,42.5,2.75,4757407664,0,False
+17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 42.5,42.5,1.4,4757407665,0,False
+17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 52.5,52.5,2.3,4757407667,0,False
+17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 52.5,52.5,1.5556,4757407669,0,False
+17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 61.5,61.5,1.2,4757407671,0,False
+17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 61.5,61.5,4.2,4757407673,0,False
 17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 41.5,41.5,2.85,4757407674,0,False
 17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 58.5,58.5,1.2858,4757407743,0,False
 17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 41.5,41.5,1.3847,4757407676,0,False
-17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 51.5,51.5,1.625,4757407678,0,False
-17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 51.5,51.5,2.2,4757407679,0,False
-17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 60.5,60.5,1.2223,4757407682,0,False
-17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 60.5,60.5,4.0,4757407684,0,False
+17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 64.5,64.5,5.25,4783860286,0,False
+17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 51.5,51.5,2.15,4757407679,0,False
+17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 51.5,51.5,1.6451,4757407678,0,False
+17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 64.5,64.5,1.1334,4783860287,0,False
+17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 60.5,60.5,1.2353,4757407682,0,False
+17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 60.5,60.5,3.75,4757407684,0,False
 17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 40.5,40.5,3.2,4757407687,0,False
 17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 40.5,40.5,1.3125,4757407689,0,False
-17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 50.5,50.5,1.7143,4757407691,0,False
-17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 50.5,50.5,2.0,4757407692,0,False
+17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 50.5,50.5,1.7408,4757407691,0,False
+17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 50.5,50.5,1.9524,4757407692,0,False
 17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 37.5,37.5,1.2223,4757407694,0,False
 17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 37.5,37.5,4.0,4757407696,0,False
 17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 57.5,57.5,3.1,4757407698,0,False
 17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 57.5,57.5,1.3334,4757407699,0,False
-17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 44.5,44.5,1.5455,4757407700,0,False
-17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 44.5,44.5,2.35,4757407702,0,False
-17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 49.5,49.5,1.7693,4757407705,0,False
-17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 49.5,49.5,1.9091,4757407707,0,False
+17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 44.5,44.5,1.5264,4757407700,0,False
+17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 44.5,44.5,2.4,4757407702,0,False
+17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 49.5,49.5,1.8,4757407705,0,False
+17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 49.5,49.5,1.8696,4757407707,0,False
 17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 36.5,36.5,1.1819,4757407708,0,False
 17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 36.5,36.5,4.4,4757407709,0,False
-17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 56.5,56.5,2.9,4757407711,0,False
-17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 56.5,56.5,1.3637,4757407712,0,False
-17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 39.5,39.5,1.2858,4757407714,0,False
-17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 39.5,39.5,3.4,4757407717,0,False
-17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 38.5,38.5,1.2667,4757407719,0,False
-17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 38.5,38.5,3.5,4757407721,0,False
+17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 63.5,63.5,1.1429,4758441566,0,False
+17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 56.5,56.5,2.85,4757407711,0,False
+17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 63.5,63.5,5.0,4758441567,0,False
+17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 56.5,56.5,1.3847,4757407712,0,False
+17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 39.5,39.5,1.2667,4757407714,0,False
+17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 39.5,39.5,3.5,4757407717,0,False
+17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 38.5,38.5,1.25,4757407719,0,False
+17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 38.5,38.5,3.7,4757407721,0,False
+17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 35.5,35.5,1.1429,4757407722,0,False
 17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 45.5,45.5,1.625,4752468714,0,False
 17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 46.5,46.5,1.6451,4752275562,0,False
+17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 35.5,35.5,5.0,4757407724,0,False
+17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 34.5,34.5,1.1334,4757407726,0,False
+17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 34.5,34.5,5.25,4757407727,0,False
 17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 45.5,45.5,2.2,4752468715,0,False
+17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 55.5,55.5,2.75,4757407729,0,False
 17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 46.5,46.5,2.15,4752275563,0,False
-17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 55.5,55.5,2.85,4757407729,0,False
-17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 55.5,55.5,1.3847,4757407731,0,False
+17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 55.5,55.5,1.4,4757407731,0,False
 17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 54.5,54.5,2.55,4757407735,0,False
 17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 54.5,54.5,1.4762,4757407738,0,False
-17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 59.5,59.5,3.75,4757407739,0,False
-17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 59.5,59.5,1.2353,4757407740,0,False
+17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 59.5,59.5,3.7,4757407739,0,False
+17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 59.5,59.5,1.25,4757407740,0,False
 17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 58.5,58.5,3.4,4757407741,0,False
-17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 48.5,48.5,1.8334,4729672575,0,True
+17235353,Utah Utes vs. BYU Cougars,2026-11-07T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 48.5,48.5,1.8,4729672575,0,True

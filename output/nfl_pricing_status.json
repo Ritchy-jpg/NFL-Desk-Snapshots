@@ -1,5 +1,8 @@
 {
-  "status": "UNAVAILABLE",
-  "checked_at": "2026-11-07T23:45:52.533388+00:00",
-  "reason": "Benchmark stale: 190.7 minutes (limit 45)"
+  "status": "READY",
+  "checked_at": "2026-11-08T09:40:44.792496+00:00",
+  "benchmark_observed_at": "2026-11-08T09:40:40+00:00",
+  "candidates": 0,
+  "candidate_scope": "GP_PIN_PRICE_SCREEN_ONLY",
+  "note": "This price-filtered list is not the exhaustive football candidate board."
 }

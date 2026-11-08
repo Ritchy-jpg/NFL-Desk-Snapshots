@@ -1,78 +1,30 @@
 {
-  "observed_at": "2026-11-08T20:41:06.806745+00:00",
-  "expected_events": 8,
-  "successful_events": 8,
+  "observed_at": "2026-11-08T22:32:40.576244+00:00",
+  "expected_events": 3,
+  "successful_events": 3,
   "events": [
-    {
-      "event_id": 16552381,
-      "match": "LA Chargers vs. HOU Texans",
-      "prop_selections": 1791,
-      "players": 47,
-      "prop_markets": 608,
-      "main_selections": 102,
-      "raw_child_markets": 803,
-      "raw_named_child_markets": 732,
-      "raw_odds": 3446,
-      "props_status": "PARSED"
-    },
-    {
-      "event_id": 16552377,
-      "match": "SEA Seahawks vs. ARZ Cardinals",
-      "prop_selections": 1486,
-      "players": 46,
-      "prop_markets": 501,
-      "main_selections": 102,
-      "raw_child_markets": 635,
-      "raw_named_child_markets": 604,
-      "raw_odds": 2959,
-      "props_status": "PARSED"
-    },
-    {
-      "event_id": 16552378,
-      "match": "NE Patriots vs. GB Packers",
-      "prop_selections": 1573,
-      "players": 50,
-      "prop_markets": 526,
-      "main_selections": 102,
-      "raw_child_markets": 678,
-      "raw_named_child_markets": 638,
-      "raw_odds": 3054,
-      "props_status": "PARSED"
-    },
-    {
-      "event_id": 16552380,
-      "match": "SF 49ers vs. LV Raiders",
-      "prop_selections": 1629,
-      "players": 46,
-      "prop_markets": 535,
-      "main_selections": 102,
-      "raw_child_markets": 691,
-      "raw_named_child_markets": 648,
-      "raw_odds": 3169,
-      "props_status": "PARSED"
-    },
     {
       "event_id": 16552367,
       "match": "CHI Bears vs. TB Buccaneers",
-      "prop_selections": 1652,
+      "prop_selections": 1651,
       "players": 48,
       "prop_markets": 534,
       "main_selections": 102,
       "raw_child_markets": 688,
       "raw_named_child_markets": 641,
-      "raw_odds": 3228,
+      "raw_odds": 3227,
       "props_status": "PARSED"
     },
     {
       "event_id": 16552350,
       "match": "MIN Vikings vs. BUF Bills",
-      "prop_selections": 1564,
-      "players": 40,
-      "prop_markets": 513,
+      "prop_selections": 1572,
+      "players": 42,
+      "prop_markets": 516,
       "main_selections": 102,
-      "raw_child_markets": 674,
-      "raw_named_child_markets": 624,
-      "raw_odds": 3060,
+      "raw_child_markets": 678,
+      "raw_named_child_markets": 628,
+      "raw_odds": 3074,
       "props_status": "PARSED"
     },
     {
@@ -86,22 +38,10 @@
       "raw_named_child_markets": 0,
       "raw_odds": 190,
       "props_status": "NO_PLAYER_CHILD_MARKETS_RETURNED"
-    },
-    {
-      "event_id": 16767355,
-      "match": "Pittsburgh Steelers @ Cincinnati Bengals",
-      "prop_selections": 0,
-      "players": 0,
-      "prop_markets": 0,
-      "main_selections": 0,
-      "raw_child_markets": 0,
-      "raw_named_child_markets": 0,
-      "raw_odds": 0,
-      "props_status": "NO_PLAYER_CHILD_MARKETS_RETURNED"
     }
   ],
-  "props": 9695,
-  "main_contracts": 706,
+  "props": 3223,
+  "main_contracts": 298,
   "complete": true,
   "completeness_scope": "events returned by GP GetEvents; not website or NFL schedule completeness"
 }

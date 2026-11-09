@@ -1,18 +1,18 @@
 {
-  "observed_at": "2026-11-09T01:25:42.890927+00:00",
+  "observed_at": "2026-11-09T03:41:26.429401+00:00",
   "expected_events": 15,
   "successful_events": 15,
   "events": [
     {
       "event_id": 16552350,
       "match": "MIN Vikings vs. BUF Bills",
-      "prop_selections": 1575,
+      "prop_selections": 1576,
       "players": 42,
-      "prop_markets": 517,
+      "prop_markets": 516,
       "main_selections": 102,
-      "raw_child_markets": 679,
-      "raw_named_child_markets": 629,
-      "raw_odds": 3093,
+      "raw_child_markets": 672,
+      "raw_named_child_markets": 628,
+      "raw_odds": 3085,
       "props_status": "PARSED"
     },
     {
@@ -48,7 +48,7 @@
       "main_selections": 6,
       "raw_child_markets": 0,
       "raw_named_child_markets": 0,
-      "raw_odds": 6,
+      "raw_odds": 10,
       "props_status": "NO_PLAYER_CHILD_MARKETS_RETURNED"
     },
     {
@@ -84,7 +84,7 @@
       "main_selections": 6,
       "raw_child_markets": 0,
       "raw_named_child_markets": 0,
-      "raw_odds": 10,
+      "raw_odds": 12,
       "props_status": "NO_PLAYER_CHILD_MARKETS_RETURNED"
     },
     {
@@ -144,7 +144,7 @@
       "main_selections": 6,
       "raw_child_markets": 0,
       "raw_named_child_markets": 0,
-      "raw_odds": 12,
+      "raw_odds": 10,
       "props_status": "NO_PLAYER_CHILD_MARKETS_RETURNED"
     },
     {
@@ -184,7 +184,7 @@
       "props_status": "NO_PLAYER_CHILD_MARKETS_RETURNED"
     }
   ],
-  "props": 1575,
+  "props": 1576,
   "main_contracts": 184,
   "complete": true,
   "completeness_scope": "events returned by GP GetEvents; not website or NFL schedule completeness"

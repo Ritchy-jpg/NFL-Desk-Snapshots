@@ -1,537 +1,65 @@
 match_gp,match_pin,market,selection,gp_line,gp_price,pin_main_line,line_gap,pin_exact_line,pin_exact_price,pin_exact_fair_prob,pin_exact_fair_price,exact_ev_pct,pricing_status,pin_line,pin_price,pin_fair_prob,pin_fair_price,price_ev_pct,line_edge,gp_odd_id,pin_snapshot_at,abs_line_edge
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,total,Moins de 68.5,68.5,1.7693,66.5,2.0,68.5,1.735,0.5499351491569391,1.8183962264150941,-2.6999740596627575,EXACT_ALT,68.5,1.735,0.5499351491569391,1.8183962264150941,-2.6999740596627575,2.0,4757411378,2026-11-07T20:23:57+00:00,2.0
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,total,Moins de 67.5,67.5,1.8334,66.5,1.0,67.5,1.833,0.5205336123463249,1.921105527638191,-4.5653675124248005,EXACT_ALT,67.5,1.833,0.5205336123463249,1.921105527638191,-4.5653675124248005,1.0,4757411412,2026-11-07T20:23:57+00:00,1.0
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,total,Moins de 66.5,66.5,1.9091,66.5,0.0,66.5,1.934,0.4977927810958193,2.0088680229525298,-4.96638016099713,EXACT_MAIN,66.5,1.934,0.4977927810958193,2.0088680229525298,-4.96638016099713,0.0,4757411370,2026-11-07T20:23:57+00:00,0.0
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,total,Moins de 64.5,64.5,2.15,66.5,-2.0,64.5,2.16,0.44171620573791676,2.2638970157987126,-5.031015766347902,EXACT_ALT,64.5,2.16,0.44171620573791676,2.2638970157987126,-5.031015766347902,-2.0,4757411385,2026-11-07T20:23:57+00:00,2.0
-Utah State Aggies vs. FRESNO,Utah State Aggies vs Fresno State Bulldogs,total,Plus de 41.5,41.5,1.6897,43.0,1.5,41.5,1.704,0.5590062111801242,1.788888888888889,-5.544720496894417,EXACT_ALT,41.5,1.704,0.5590062111801242,1.788888888888889,-5.544720496894417,1.5,4752455469,2026-11-07T20:23:57+00:00,1.5
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,total,Moins de 50.5,50.5,1.7693,49.0,1.5,50.5,1.793,0.5322201930602661,1.878921568627451,-5.834281241847106,EXACT_ALT,50.5,1.793,0.5322201930602661,1.878921568627451,-5.834281241847106,1.5,4757409942,2026-11-07T20:23:57+00:00,1.5
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,total,Moins de 65.5,65.5,2.0,66.5,-1.0,65.5,2.03,0.4699738903394256,2.1277777777777778,-6.005221932114879,EXACT_ALT,65.5,2.03,0.4699738903394256,2.1277777777777778,-6.005221932114879,-1.0,4757411414,2026-11-07T20:23:57+00:00,1.0
-Oregon State Beavers vs. Texas State Bobcats,Oregon State Beavers vs Texas State Bobcats,total,Plus de 69.5,69.5,1.6897,71.0,1.5,69.5,1.719,0.5556991470664254,1.7995348837209302,-6.103515120186098,EXACT_ALT,69.5,1.719,0.5556991470664254,1.7995348837209302,-6.103515120186098,1.5,4753702517,2026-11-07T20:23:57+00:00,1.5
-Oregon State Beavers vs. Texas State Bobcats,Oregon State Beavers vs Texas State Bobcats,total,Moins de 72.5,72.5,1.7693,71.0,1.5,72.5,1.8,0.5300261096605744,1.8866995073891626,-6.222480417754572,EXACT_ALT,72.5,1.8,0.5300261096605744,1.8866995073891626,-6.222480417754572,1.5,4757369172,2026-11-07T20:23:57+00:00,1.5
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,total,Moins de 50.5,50.5,1.6897,49.0,1.5,50.5,1.719,0.5545478103135527,1.8032710280373832,-6.298056491319004,EXACT_ALT,50.5,1.719,0.5545478103135527,1.8032710280373832,-6.298056491319004,1.5,4757411765,2026-11-07T20:23:57+00:00,1.5
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,total,Plus de 47.5,47.5,1.7408,49.0,1.5,47.5,1.775,0.5371577574967407,1.8616504854368927,-6.491577574967389,EXACT_ALT,47.5,1.775,0.5371577574967407,1.8616504854368927,-6.491577574967389,1.5,4757411760,2026-11-07T20:23:57+00:00,1.5
-Oregon State Beavers vs. Texas State Bobcats,Oregon State Beavers vs Texas State Bobcats,total,Moins de 71.5,71.5,1.8696,71.0,0.5,71.5,1.909,0.5,2.0,-6.520000000000003,EXACT_ALT,71.5,1.909,0.5,2.0,-6.520000000000003,0.5,4757369166,2026-11-07T20:23:57+00:00,0.5
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,total,Moins de 49.5,49.5,1.7693,49.0,0.5,49.5,1.813,0.5270023480302635,1.8975247524752477,-6.757474563005483,EXACT_ALT,49.5,1.813,0.5270023480302635,1.8975247524752477,-6.757474563005483,0.5,4752278771,2026-11-07T20:23:57+00:00,0.5
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,total,Plus de 47.5,47.5,1.6897,49.0,1.5,47.5,1.729,0.5507924136139257,1.815566037735849,-6.932605871654973,EXACT_ALT,47.5,1.729,0.5507924136139257,1.815566037735849,-6.932605871654973,1.5,4753771268,2026-11-07T20:23:57+00:00,1.5
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,total,Plus de 48.5,48.5,1.8334,49.0,0.5,48.5,1.877,0.5074783521385463,1.9705274043433298,-6.958918918918922,EXACT_ALT,48.5,1.877,0.5074783521385463,1.9705274043433298,-6.958918918918922,0.5,4753970599,2026-11-07T20:23:57+00:00,0.5
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,total,Moins de 49.5,49.5,1.8334,49.0,0.5,49.5,1.884,0.5065479308538501,1.974146845915202,-7.129502357255135,EXACT_ALT,49.5,1.884,0.5065479308538501,1.974146845915202,-7.129502357255135,0.5,4757409961,2026-11-07T20:23:57+00:00,0.5
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,total,Plus de 48.5,48.5,1.7693,49.0,0.5,48.5,1.826,0.5227391531625719,1.9129999999999998,-7.511761630946145,EXACT_ALT,48.5,1.826,0.5227391531625719,1.9129999999999998,-7.511761630946145,0.5,4757409980,2026-11-07T20:23:57+00:00,0.5
-Utah State Aggies vs. FRESNO,Utah State Aggies vs Fresno State Bulldogs,total,Moins de 44.5,44.5,1.7408,43.0,1.5,44.5,1.8,0.5300261096605744,1.8866995073891626,-7.7330548302872115,EXACT_ALT,44.5,1.8,0.5300261096605744,1.8866995073891626,-7.7330548302872115,1.5,4757369270,2026-11-07T20:23:57+00:00,1.5
-Utah State Aggies vs. FRESNO,Utah State Aggies vs Fresno State Bulldogs,total,Plus de 42.5,42.5,1.7408,43.0,0.5,42.5,1.806,0.5291970802919708,1.8896551724137933,-7.877372262773729,EXACT_ALT,42.5,1.806,0.5291970802919708,1.8896551724137933,-7.877372262773729,0.5,4753972238,2026-11-07T20:23:57+00:00,0.5
-Oregon State Beavers vs. Texas State Bobcats,Oregon State Beavers vs Texas State Bobcats,total,Plus de 70.5,70.5,1.7408,71.0,0.5,70.5,1.806,0.5291970802919708,1.8896551724137933,-7.877372262773729,EXACT_ALT,70.5,1.806,0.5291970802919708,1.8896551724137933,-7.877372262773729,0.5,4754480007,2026-11-07T20:23:57+00:00,0.5
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,total,Moins de 47.5,47.5,2.05,49.0,-1.5,47.5,2.12,0.4492075863860743,2.226142278773858,-7.912444790854778,EXACT_ALT,47.5,2.12,0.4492075863860743,2.226142278773858,-7.912444790854778,-1.5,4753771267,2026-11-07T20:23:57+00:00,1.5
-Utah State Aggies vs. FRESNO,Utah State Aggies vs Fresno State Bulldogs,total,Moins de 43.5,43.5,1.8334,43.0,0.5,43.5,1.9,0.5022268797484936,1.99113197704747,-7.92172386691119,EXACT_ALT,43.5,1.9,0.5022268797484936,1.99113197704747,-7.92172386691119,0.5,4757369260,2026-11-07T20:23:57+00:00,0.5
-Utah State Aggies vs. FRESNO,Utah State Aggies vs Fresno State Bulldogs,total,Moins de 42.5,42.5,1.9524,43.0,-0.5,42.5,2.03,0.47080291970802923,2.1240310077519378,-8.080437956204378,EXACT_ALT,42.5,2.03,0.47080291970802923,2.1240310077519378,-8.080437956204378,-0.5,4753972237,2026-11-07T20:23:57+00:00,0.5
-Oregon State Beavers vs. Texas State Bobcats,Oregon State Beavers vs Texas State Bobcats,total,Moins de 70.5,70.5,1.9524,71.0,-0.5,70.5,2.03,0.47080291970802923,2.1240310077519378,-8.080437956204378,EXACT_ALT,70.5,2.03,0.47080291970802923,2.1240310077519378,-8.080437956204378,-0.5,4754480008,2026-11-07T20:23:57+00:00,0.5
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,total,Plus de 64.5,64.5,1.6451,66.5,2.0,64.5,1.709,0.5582837942620832,1.7912037037037039,-8.156733005944695,EXACT_ALT,64.5,1.709,0.5582837942620832,1.7912037037037039,-8.156733005944695,2.0,4757411386,2026-11-07T20:23:57+00:00,2.0
-Utah State Aggies vs. FRESNO,Utah State Aggies vs Fresno State Bulldogs,total,Plus de 44.5,44.5,1.9524,43.0,-1.5,44.5,2.03,0.4699738903394256,2.1277777777777778,-8.242297650130547,EXACT_ALT,44.5,2.03,0.4699738903394256,2.1277777777777778,-8.242297650130547,-1.5,4757369269,2026-11-07T20:23:57+00:00,1.5
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,total,Plus de 50.5,50.5,2.05,49.0,-1.5,50.5,2.14,0.44545218968644723,2.244909831297266,-8.682301114278324,EXACT_ALT,50.5,2.14,0.44545218968644723,2.244909831297266,-8.682301114278324,-1.5,4757411764,2026-11-07T20:23:57+00:00,1.5
-Utah State Aggies vs. FRESNO,Utah State Aggies vs Fresno State Bulldogs,total,Plus de 43.5,43.5,1.8334,43.0,-0.5,43.5,1.917,0.49777312025150644,2.0089473684210524,-8.738276133088817,EXACT_ALT,43.5,1.917,0.49777312025150644,2.0089473684210524,-8.738276133088817,-0.5,4757369259,2026-11-07T20:23:57+00:00,0.5
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,total,Moins de 48.5,48.5,1.9091,49.0,-0.5,48.5,2.0,0.4772608468374281,2.095290251916758,-8.8861317302666,EXACT_ALT,48.5,2.0,0.4772608468374281,2.095290251916758,-8.8861317302666,-0.5,4757409979,2026-11-07T20:23:57+00:00,0.5
-Oregon State Beavers vs. Texas State Bobcats,Oregon State Beavers vs Texas State Bobcats,total,Moins de 69.5,69.5,2.05,71.0,-1.5,69.5,2.15,0.4443008529335746,2.2507271669575335,-8.918325148617223,EXACT_ALT,69.5,2.15,0.4443008529335746,2.2507271669575335,-8.918325148617223,-1.5,4753702518,2026-11-07T20:23:57+00:00,1.5
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,total,Plus de 65.5,65.5,1.7143,66.5,1.0,65.5,1.8,0.5300261096605744,1.8866995073891626,-9.137624020887735,EXACT_ALT,65.5,1.8,0.5300261096605744,1.8866995073891626,-9.137624020887735,1.0,4757411413,2026-11-07T20:23:57+00:00,1.0
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,total,Plus de 49.5,49.5,1.8334,49.0,-0.5,49.5,1.934,0.49345206914614975,2.026539278131635,-9.530497642744907,EXACT_ALT,49.5,1.934,0.49345206914614975,2.026539278131635,-9.530497642744907,-0.5,4757409962,2026-11-07T20:23:57+00:00,0.5
-Utah State Aggies vs. FRESNO,Utah State Aggies vs Fresno State Bulldogs,total,Moins de 41.5,41.5,2.05,43.0,-1.5,41.5,2.16,0.44099378881987567,2.2676056338028174,-9.596273291925495,EXACT_ALT,41.5,2.16,0.44099378881987567,2.2676056338028174,-9.596273291925495,-1.5,4752455468,2026-11-07T20:23:57+00:00,1.5
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,total,Moins de 47.5,47.5,1.9524,49.0,-1.5,47.5,2.06,0.4628422425032595,2.16056338028169,-9.634680573663623,EXACT_ALT,47.5,2.06,0.4628422425032595,2.16056338028169,-9.634680573663623,-1.5,4757411761,2026-11-07T20:23:57+00:00,1.5
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,total,Plus de 49.5,49.5,1.9091,49.0,-0.5,49.5,2.02,0.47299765196973653,2.1141753998896853,-9.700018262457599,EXACT_ALT,49.5,2.02,0.47299765196973653,2.1141753998896853,-9.700018262457599,-0.5,4752278770,2026-11-07T20:23:57+00:00,0.5
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,total,Moins de 48.5,48.5,1.8334,49.0,-0.5,48.5,1.934,0.49252164786145375,2.0303676078849224,-9.701081081081075,EXACT_ALT,48.5,1.934,0.49252164786145375,2.0303676078849224,-9.701081081081075,-0.5,4753970600,2026-11-07T20:23:57+00:00,0.5
-Oregon State Beavers vs. Texas State Bobcats,Oregon State Beavers vs Texas State Bobcats,total,Plus de 71.5,71.5,1.8,71.0,-0.5,71.5,1.909,0.5,2.0,-9.999999999999998,EXACT_ALT,71.5,1.909,0.5,2.0,-9.999999999999998,-0.5,4757369165,2026-11-07T20:23:57+00:00,0.5
-Oregon State Beavers vs. Texas State Bobcats,Oregon State Beavers vs Texas State Bobcats,total,Plus de 72.5,72.5,1.9091,71.0,-1.5,72.5,2.03,0.4699738903394256,2.1277777777777778,-10.277284595300262,EXACT_ALT,72.5,2.03,0.4699738903394256,2.1277777777777778,-10.277284595300262,-1.5,4757369171,2026-11-07T20:23:57+00:00,1.5
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,total,Plus de 50.5,50.5,1.9091,49.0,-1.5,50.5,2.04,0.4677798069397339,2.137757947573898,-10.696157057135391,EXACT_ALT,50.5,2.04,0.4677798069397339,2.137757947573898,-10.696157057135391,-1.5,4757409941,2026-11-07T20:23:57+00:00,1.5
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,total,Plus de 66.5,66.5,1.7693,66.5,0.0,66.5,1.917,0.5022072189041807,1.9912099276111686,-11.144476759283295,EXACT_MAIN,66.5,1.917,0.5022072189041807,1.9912099276111686,-11.144476759283295,0.0,4757411369,2026-11-07T20:23:57+00:00,0.0
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,total,Plus de 67.5,67.5,1.8334,66.5,-1.0,67.5,1.99,0.4794663876536751,2.0856519367157667,-12.094632487575208,EXACT_ALT,67.5,1.99,0.4794663876536751,2.0856519367157667,-12.094632487575208,-1.0,4757411411,2026-11-07T20:23:57+00:00,1.0
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,total,Plus de 68.5,68.5,1.9091,66.5,-2.0,68.5,2.12,0.4500648508430609,2.2219020172910664,-14.078119325551242,EXACT_ALT,68.5,2.12,0.4500648508430609,2.2219020172910664,-14.078119325551242,-2.0,4757411377,2026-11-07T20:23:57+00:00,2.0
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,total,Plus de 82.5,82.5,4.2,66.5,-16.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-16.0,4786384253,2026-11-07T20:23:57+00:00,16.0
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,total,Moins de 82.5,82.5,1.2,66.5,16.0,,,,,,NO_EXACT_PIN_LINE,,,,,,16.0,4786384254,2026-11-07T20:23:57+00:00,16.0
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,total,Plus de 33.5,33.5,1.1112,49.0,15.5,,,,,,NO_EXACT_PIN_LINE,,,,,,15.5,4757411778,2026-11-07T20:23:57+00:00,15.5
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,total,Moins de 33.5,33.5,6.0,49.0,-15.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-15.5,4757411779,2026-11-07T20:23:57+00:00,15.5
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,total,Plus de 64.5,64.5,4.75,49.0,-15.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-15.5,4786384277,2026-11-07T20:23:57+00:00,15.5
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,total,Moins de 64.5,64.5,1.1539,49.0,15.5,,,,,,NO_EXACT_PIN_LINE,,,,,,15.5,4786384276,2026-11-07T20:23:57+00:00,15.5
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,total,Moins de 81.5,81.5,1.2223,66.5,15.0,,,,,,NO_EXACT_PIN_LINE,,,,,,15.0,4786384256,2026-11-07T20:23:57+00:00,15.0
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,total,Plus de 81.5,81.5,4.0,66.5,-15.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-15.0,4786384255,2026-11-07T20:23:57+00:00,15.0
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,total,Moins de 34.5,34.5,5.25,49.0,-14.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-14.5,4757411776,2026-11-07T20:23:57+00:00,14.5
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,total,Plus de 34.5,34.5,1.1334,49.0,14.5,,,,,,NO_EXACT_PIN_LINE,,,,,,14.5,4757411777,2026-11-07T20:23:57+00:00,14.5
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,total,Plus de 63.5,63.5,5.0,49.0,-14.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-14.5,4757411790,2026-11-07T20:23:57+00:00,14.5
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,total,Moins de 63.5,63.5,1.1429,49.0,14.5,,,,,,NO_EXACT_PIN_LINE,,,,,,14.5,4757411791,2026-11-07T20:23:57+00:00,14.5
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,total,Moins de 34.5,34.5,5.0,49.0,-14.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-14.5,4757409951,2026-11-07T20:23:57+00:00,14.5
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,total,Plus de 34.5,34.5,1.1429,49.0,14.5,,,,,,NO_EXACT_PIN_LINE,,,,,,14.5,4757409952,2026-11-07T20:23:57+00:00,14.5
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,total,Moins de 63.5,63.5,1.1819,49.0,14.5,,,,,,NO_EXACT_PIN_LINE,,,,,,14.5,4759968724,2026-11-07T20:23:57+00:00,14.5
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,total,Plus de 63.5,63.5,4.4,49.0,-14.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-14.5,4759968725,2026-11-07T20:23:57+00:00,14.5
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,total,Plus de 80.5,80.5,3.75,66.5,-14.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-14.0,4759018669,2026-11-07T20:23:57+00:00,14.0
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,total,Moins de 80.5,80.5,1.2353,66.5,14.0,,,,,,NO_EXACT_PIN_LINE,,,,,,14.0,4759018670,2026-11-07T20:23:57+00:00,14.0
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,total,Plus de 52.5,52.5,1.1819,66.5,14.0,,,,,,NO_EXACT_PIN_LINE,,,,,,14.0,4757411387,2026-11-07T20:23:57+00:00,14.0
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,total,Moins de 52.5,52.5,4.4,66.5,-14.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-14.0,4757411388,2026-11-07T20:23:57+00:00,14.0
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,total,Plus de 62.5,62.5,4.5,49.0,-13.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-13.5,4757411746,2026-11-07T20:23:57+00:00,13.5
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,total,Moins de 62.5,62.5,1.1667,49.0,13.5,,,,,,NO_EXACT_PIN_LINE,,,,,,13.5,4757411747,2026-11-07T20:23:57+00:00,13.5
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,total,Moins de 35.5,35.5,5.0,49.0,-13.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-13.5,4757411768,2026-11-07T20:23:57+00:00,13.5
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,total,Plus de 35.5,35.5,1.1429,49.0,13.5,,,,,,NO_EXACT_PIN_LINE,,,,,,13.5,4757411769,2026-11-07T20:23:57+00:00,13.5
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,total,Moins de 35.5,35.5,4.75,49.0,-13.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-13.5,4757409929,2026-11-07T20:23:57+00:00,13.5
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,total,Plus de 35.5,35.5,1.1539,49.0,13.5,,,,,,NO_EXACT_PIN_LINE,,,,,,13.5,4757409930,2026-11-07T20:23:57+00:00,13.5
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,total,Moins de 62.5,62.5,1.2,49.0,13.5,,,,,,NO_EXACT_PIN_LINE,,,,,,13.5,4757409965,2026-11-07T20:23:57+00:00,13.5
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,total,Plus de 62.5,62.5,4.2,49.0,-13.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-13.5,4757409966,2026-11-07T20:23:57+00:00,13.5
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,total,Plus de 79.5,79.5,3.5,66.5,-13.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-13.0,4759018667,2026-11-07T20:23:57+00:00,13.0
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,total,Moins de 79.5,79.5,1.2667,66.5,13.0,,,,,,NO_EXACT_PIN_LINE,,,,,,13.0,4759018668,2026-11-07T20:23:57+00:00,13.0
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,total,Plus de 53.5,53.5,1.2,66.5,13.0,,,,,,NO_EXACT_PIN_LINE,,,,,,13.0,4757411395,2026-11-07T20:23:57+00:00,13.0
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,total,Moins de 53.5,53.5,4.2,66.5,-13.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-13.0,4757411396,2026-11-07T20:23:57+00:00,13.0
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,total,Moins de 36.5,36.5,4.4,49.0,-12.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-12.5,4757411772,2026-11-07T20:23:57+00:00,12.5
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,total,Plus de 36.5,36.5,1.1819,49.0,12.5,,,,,,NO_EXACT_PIN_LINE,,,,,,12.5,4757411773,2026-11-07T20:23:57+00:00,12.5
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,total,Plus de 61.5,61.5,4.2,49.0,-12.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-12.5,4757411792,2026-11-07T20:23:57+00:00,12.5
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,total,Moins de 61.5,61.5,1.2,49.0,12.5,,,,,,NO_EXACT_PIN_LINE,,,,,,12.5,4757411793,2026-11-07T20:23:57+00:00,12.5
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,total,Plus de 36.5,36.5,1.1819,49.0,12.5,,,,,,NO_EXACT_PIN_LINE,,,,,,12.5,4757409949,2026-11-07T20:23:57+00:00,12.5
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,total,Moins de 36.5,36.5,4.4,49.0,-12.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-12.5,4757409950,2026-11-07T20:23:57+00:00,12.5
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,total,Moins de 61.5,61.5,1.2353,49.0,12.5,,,,,,NO_EXACT_PIN_LINE,,,,,,12.5,4757409967,2026-11-07T20:23:57+00:00,12.5
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,total,Plus de 61.5,61.5,3.75,49.0,-12.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-12.5,4757409968,2026-11-07T20:23:57+00:00,12.5
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,total,Plus de 78.5,78.5,3.4,66.5,-12.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-12.0,4757411375,2026-11-07T20:23:57+00:00,12.0
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,total,Moins de 78.5,78.5,1.2858,66.5,12.0,,,,,,NO_EXACT_PIN_LINE,,,,,,12.0,4757411376,2026-11-07T20:23:57+00:00,12.0
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,total,Moins de 54.5,54.5,4.0,66.5,-12.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-12.0,4757411381,2026-11-07T20:23:57+00:00,12.0
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,total,Plus de 54.5,54.5,1.2223,66.5,12.0,,,,,,NO_EXACT_PIN_LINE,,,,,,12.0,4757411382,2026-11-07T20:23:57+00:00,12.0
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,total,Plus de 60.5,60.5,4.0,49.0,-11.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-11.5,4757411766,2026-11-07T20:23:57+00:00,11.5
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,total,Plus de 37.5,37.5,1.2223,49.0,11.5,,,,,,NO_EXACT_PIN_LINE,,,,,,11.5,4757411774,2026-11-07T20:23:57+00:00,11.5
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,total,Moins de 37.5,37.5,4.0,49.0,-11.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-11.5,4757411775,2026-11-07T20:23:57+00:00,11.5
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,total,Moins de 60.5,60.5,1.2223,49.0,11.5,,,,,,NO_EXACT_PIN_LINE,,,,,,11.5,4757411767,2026-11-07T20:23:57+00:00,11.5
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,total,Moins de 37.5,37.5,3.75,49.0,-11.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-11.5,4757409927,2026-11-07T20:23:57+00:00,11.5
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,total,Plus de 37.5,37.5,1.2353,49.0,11.5,,,,,,NO_EXACT_PIN_LINE,,,,,,11.5,4757409928,2026-11-07T20:23:57+00:00,11.5
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,total,Moins de 60.5,60.5,1.2667,49.0,11.5,,,,,,NO_EXACT_PIN_LINE,,,,,,11.5,4757409973,2026-11-07T20:23:57+00:00,11.5
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,total,Plus de 60.5,60.5,3.5,49.0,-11.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-11.5,4757409974,2026-11-07T20:23:57+00:00,11.5
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,total,Plus de 55.5,55.5,1.2667,66.5,11.0,,,,,,NO_EXACT_PIN_LINE,,,,,,11.0,4757411403,2026-11-07T20:23:57+00:00,11.0
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,total,Moins de 55.5,55.5,3.5,66.5,-11.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-11.0,4757411404,2026-11-07T20:23:57+00:00,11.0
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,total,Plus de 77.5,77.5,3.15,66.5,-11.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-11.0,4757411417,2026-11-07T20:23:57+00:00,11.0
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,total,Moins de 77.5,77.5,1.3226,66.5,11.0,,,,,,NO_EXACT_PIN_LINE,,,,,,11.0,4757411418,2026-11-07T20:23:57+00:00,11.0
-Utah State Aggies vs. FRESNO,Utah State Aggies vs Fresno State Bulldogs,total,Plus de 53.5,53.5,3.5,43.0,-10.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-10.5,4782567620,2026-11-07T20:23:57+00:00,10.5
-Utah State Aggies vs. FRESNO,Utah State Aggies vs Fresno State Bulldogs,total,Moins de 53.5,53.5,1.2667,43.0,10.5,,,,,,NO_EXACT_PIN_LINE,,,,,,10.5,4782567621,2026-11-07T20:23:57+00:00,10.5
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,total,Moins de 38.5,38.5,3.5,49.0,-10.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-10.5,4757411740,2026-11-07T20:23:57+00:00,10.5
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,total,Plus de 38.5,38.5,1.2667,49.0,10.5,,,,,,NO_EXACT_PIN_LINE,,,,,,10.5,4757411741,2026-11-07T20:23:57+00:00,10.5
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,total,Plus de 59.5,59.5,3.7,49.0,-10.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-10.5,4757411782,2026-11-07T20:23:57+00:00,10.5
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,total,Moins de 59.5,59.5,1.25,49.0,10.5,,,,,,NO_EXACT_PIN_LINE,,,,,,10.5,4757411783,2026-11-07T20:23:57+00:00,10.5
-Oregon State Beavers vs. Texas State Bobcats,Oregon State Beavers vs Texas State Bobcats,total,Moins de 81.5,81.5,1.3334,71.0,10.5,,,,,,NO_EXACT_PIN_LINE,,,,,,10.5,4757491249,2026-11-07T20:23:57+00:00,10.5
-Oregon State Beavers vs. Texas State Bobcats,Oregon State Beavers vs Texas State Bobcats,total,Plus de 81.5,81.5,3.1,71.0,-10.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-10.5,4757491250,2026-11-07T20:23:57+00:00,10.5
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,total,Moins de 59.5,59.5,1.2858,49.0,10.5,,,,,,NO_EXACT_PIN_LINE,,,,,,10.5,4757409933,2026-11-07T20:23:57+00:00,10.5
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,total,Plus de 59.5,59.5,3.4,49.0,-10.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-10.5,4757409934,2026-11-07T20:23:57+00:00,10.5
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,total,Moins de 38.5,38.5,3.5,49.0,-10.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-10.5,4757409957,2026-11-07T20:23:57+00:00,10.5
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,total,Plus de 38.5,38.5,1.2667,49.0,10.5,,,,,,NO_EXACT_PIN_LINE,,,,,,10.5,4757409958,2026-11-07T20:23:57+00:00,10.5
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,total,Plus de 56.5,56.5,1.2858,66.5,10.0,,,,,,NO_EXACT_PIN_LINE,,,,,,10.0,4757411365,2026-11-07T20:23:57+00:00,10.0
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,total,Moins de 56.5,56.5,3.4,66.5,-10.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-10.0,4757411366,2026-11-07T20:23:57+00:00,10.0
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,total,Plus de 76.5,76.5,3.0,66.5,-10.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-10.0,4757411367,2026-11-07T20:23:57+00:00,10.0
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,total,Moins de 76.5,76.5,1.3572,66.5,10.0,,,,,,NO_EXACT_PIN_LINE,,,,,,10.0,4757411368,2026-11-07T20:23:57+00:00,10.0
-Utah State Aggies vs. FRESNO,Utah State Aggies vs Fresno State Bulldogs,total,Moins de 52.5,52.5,1.2858,43.0,9.5,,,,,,NO_EXACT_PIN_LINE,,,,,,9.5,4757369266,2026-11-07T20:23:57+00:00,9.5
-Utah State Aggies vs. FRESNO,Utah State Aggies vs Fresno State Bulldogs,total,Plus de 33.5,33.5,1.25,43.0,9.5,,,,,,NO_EXACT_PIN_LINE,,,,,,9.5,4757369257,2026-11-07T20:23:57+00:00,9.5
-Utah State Aggies vs. FRESNO,Utah State Aggies vs Fresno State Bulldogs,total,Moins de 33.5,33.5,3.7,43.0,-9.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-9.5,4757369258,2026-11-07T20:23:57+00:00,9.5
-Utah State Aggies vs. FRESNO,Utah State Aggies vs Fresno State Bulldogs,total,Plus de 52.5,52.5,3.4,43.0,-9.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-9.5,4757369265,2026-11-07T20:23:57+00:00,9.5
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,total,Plus de 58.5,58.5,3.4,49.0,-9.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-9.5,4757411742,2026-11-07T20:23:57+00:00,9.5
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,total,Moins de 58.5,58.5,1.2858,49.0,9.5,,,,,,NO_EXACT_PIN_LINE,,,,,,9.5,4757411743,2026-11-07T20:23:57+00:00,9.5
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,total,Moins de 39.5,39.5,3.4,49.0,-9.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-9.5,4757411780,2026-11-07T20:23:57+00:00,9.5
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,total,Plus de 39.5,39.5,1.2858,49.0,9.5,,,,,,NO_EXACT_PIN_LINE,,,,,,9.5,4757411781,2026-11-07T20:23:57+00:00,9.5
-Oregon State Beavers vs. Texas State Bobcats,Oregon State Beavers vs Texas State Bobcats,total,Plus de 61.5,61.5,1.3031,71.0,9.5,,,,,,NO_EXACT_PIN_LINE,,,,,,9.5,4757369189,2026-11-07T20:23:57+00:00,9.5
-Oregon State Beavers vs. Texas State Bobcats,Oregon State Beavers vs Texas State Bobcats,total,Moins de 61.5,61.5,3.25,71.0,-9.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-9.5,4757369190,2026-11-07T20:23:57+00:00,9.5
-Oregon State Beavers vs. Texas State Bobcats,Oregon State Beavers vs Texas State Bobcats,total,Plus de 80.5,80.5,3.0,71.0,-9.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-9.5,4757369192,2026-11-07T20:23:57+00:00,9.5
-Oregon State Beavers vs. Texas State Bobcats,Oregon State Beavers vs Texas State Bobcats,total,Moins de 80.5,80.5,1.3572,71.0,9.5,,,,,,NO_EXACT_PIN_LINE,,,,,,9.5,4757369191,2026-11-07T20:23:57+00:00,9.5
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,total,Moins de 58.5,58.5,1.3226,49.0,9.5,,,,,,NO_EXACT_PIN_LINE,,,,,,9.5,4757409935,2026-11-07T20:23:57+00:00,9.5
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,total,Plus de 58.5,58.5,3.15,49.0,-9.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-9.5,4757409936,2026-11-07T20:23:57+00:00,9.5
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,total,Plus de 39.5,39.5,1.2858,49.0,9.5,,,,,,NO_EXACT_PIN_LINE,,,,,,9.5,4757409959,2026-11-07T20:23:57+00:00,9.5
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,total,Moins de 39.5,39.5,3.4,49.0,-9.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-9.5,4757409960,2026-11-07T20:23:57+00:00,9.5
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,total,Plus de 57.5,57.5,1.3125,66.5,9.0,,,,,,NO_EXACT_PIN_LINE,,,,,,9.0,4757411401,2026-11-07T20:23:57+00:00,9.0
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,total,Moins de 57.5,57.5,3.2,66.5,-9.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-9.0,4757411402,2026-11-07T20:23:57+00:00,9.0
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,total,Plus de 75.5,75.5,2.85,66.5,-9.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-9.0,4757411415,2026-11-07T20:23:57+00:00,9.0
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,total,Moins de 75.5,75.5,1.3847,66.5,9.0,,,,,,NO_EXACT_PIN_LINE,,,,,,9.0,4757411416,2026-11-07T20:23:57+00:00,9.0
-Utah State Aggies vs. FRESNO,Utah State Aggies vs Fresno State Bulldogs,total,Plus de 51.5,51.5,3.1,43.0,-8.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-8.5,4757369251,2026-11-07T20:23:57+00:00,8.5
-Utah State Aggies vs. FRESNO,Utah State Aggies vs Fresno State Bulldogs,total,Moins de 51.5,51.5,1.3334,43.0,8.5,,,,,,NO_EXACT_PIN_LINE,,,,,,8.5,4757369252,2026-11-07T20:23:57+00:00,8.5
-Utah State Aggies vs. FRESNO,Utah State Aggies vs Fresno State Bulldogs,total,Plus de 34.5,34.5,1.2858,43.0,8.5,,,,,,NO_EXACT_PIN_LINE,,,,,,8.5,4757369279,2026-11-07T20:23:57+00:00,8.5
-Utah State Aggies vs. FRESNO,Utah State Aggies vs Fresno State Bulldogs,total,Moins de 34.5,34.5,3.4,43.0,-8.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-8.5,4757369280,2026-11-07T20:23:57+00:00,8.5
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,total,Plus de 40.5,40.5,1.3226,49.0,8.5,,,,,,NO_EXACT_PIN_LINE,,,,,,8.5,4757411752,2026-11-07T20:23:57+00:00,8.5
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,total,Moins de 40.5,40.5,3.15,49.0,-8.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-8.5,4757411753,2026-11-07T20:23:57+00:00,8.5
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,total,Plus de 57.5,57.5,3.1,49.0,-8.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-8.5,4757411784,2026-11-07T20:23:57+00:00,8.5
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,total,Moins de 57.5,57.5,1.3334,49.0,8.5,,,,,,NO_EXACT_PIN_LINE,,,,,,8.5,4757411785,2026-11-07T20:23:57+00:00,8.5
-Oregon State Beavers vs. Texas State Bobcats,Oregon State Beavers vs Texas State Bobcats,total,Plus de 79.5,79.5,2.85,71.0,-8.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-8.5,4757369161,2026-11-07T20:23:57+00:00,8.5
-Oregon State Beavers vs. Texas State Bobcats,Oregon State Beavers vs Texas State Bobcats,total,Moins de 79.5,79.5,1.3847,71.0,8.5,,,,,,NO_EXACT_PIN_LINE,,,,,,8.5,4757369162,2026-11-07T20:23:57+00:00,8.5
-Oregon State Beavers vs. Texas State Bobcats,Oregon State Beavers vs Texas State Bobcats,total,Moins de 62.5,62.5,3.1,71.0,-8.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-8.5,4757369181,2026-11-07T20:23:57+00:00,8.5
-Oregon State Beavers vs. Texas State Bobcats,Oregon State Beavers vs Texas State Bobcats,total,Plus de 62.5,62.5,1.3334,71.0,8.5,,,,,,NO_EXACT_PIN_LINE,,,,,,8.5,4757369182,2026-11-07T20:23:57+00:00,8.5
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,total,Moins de 57.5,57.5,1.3637,49.0,8.5,,,,,,NO_EXACT_PIN_LINE,,,,,,8.5,4757409925,2026-11-07T20:23:57+00:00,8.5
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,total,Plus de 57.5,57.5,2.9,49.0,-8.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-8.5,4757409926,2026-11-07T20:23:57+00:00,8.5
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,total,Moins de 40.5,40.5,3.2,49.0,-8.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-8.5,4757409971,2026-11-07T20:23:57+00:00,8.5
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,total,Plus de 40.5,40.5,1.3125,49.0,8.5,,,,,,NO_EXACT_PIN_LINE,,,,,,8.5,4757409972,2026-11-07T20:23:57+00:00,8.5
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,total,Plus de 58.5,58.5,1.3637,66.5,8.0,,,,,,NO_EXACT_PIN_LINE,,,,,,8.0,4757411371,2026-11-07T20:23:57+00:00,8.0
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,total,Moins de 58.5,58.5,2.9,66.5,-8.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-8.0,4757411372,2026-11-07T20:23:57+00:00,8.0
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,total,Moins de 74.5,74.5,1.4348,66.5,8.0,,,,,,NO_EXACT_PIN_LINE,,,,,,8.0,4757411383,2026-11-07T20:23:57+00:00,8.0
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,total,Plus de 74.5,74.5,2.65,66.5,-8.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-8.0,4757411384,2026-11-07T20:23:57+00:00,8.0
-Utah State Aggies vs. FRESNO,Utah State Aggies vs Fresno State Bulldogs,total,Moins de 50.5,50.5,1.4,43.0,7.5,,,,,,NO_EXACT_PIN_LINE,,,,,,7.5,4757369267,2026-11-07T20:23:57+00:00,7.5
-Utah State Aggies vs. FRESNO,Utah State Aggies vs Fresno State Bulldogs,total,Plus de 35.5,35.5,1.3226,43.0,7.5,,,,,,NO_EXACT_PIN_LINE,,,,,,7.5,4757369263,2026-11-07T20:23:57+00:00,7.5
-Utah State Aggies vs. FRESNO,Utah State Aggies vs Fresno State Bulldogs,total,Moins de 35.5,35.5,3.15,43.0,-7.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-7.5,4757369264,2026-11-07T20:23:57+00:00,7.5
-Utah State Aggies vs. FRESNO,Utah State Aggies vs Fresno State Bulldogs,total,Plus de 50.5,50.5,2.75,43.0,-7.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-7.5,4757369268,2026-11-07T20:23:57+00:00,7.5
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,total,Plus de 41.5,41.5,1.3847,49.0,7.5,,,,,,NO_EXACT_PIN_LINE,,,,,,7.5,4757411750,2026-11-07T20:23:57+00:00,7.5
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,total,Moins de 41.5,41.5,2.85,49.0,-7.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-7.5,4757411751,2026-11-07T20:23:57+00:00,7.5
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,total,Plus de 56.5,56.5,2.9,49.0,-7.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-7.5,4757411786,2026-11-07T20:23:57+00:00,7.5
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,total,Moins de 56.5,56.5,1.3637,49.0,7.5,,,,,,NO_EXACT_PIN_LINE,,,,,,7.5,4757411787,2026-11-07T20:23:57+00:00,7.5
-Oregon State Beavers vs. Texas State Bobcats,Oregon State Beavers vs Texas State Bobcats,total,Moins de 78.5,78.5,1.4546,71.0,7.5,,,,,,NO_EXACT_PIN_LINE,,,,,,7.5,4757369163,2026-11-07T20:23:57+00:00,7.5
-Oregon State Beavers vs. Texas State Bobcats,Oregon State Beavers vs Texas State Bobcats,total,Plus de 78.5,78.5,2.6,71.0,-7.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-7.5,4757369164,2026-11-07T20:23:57+00:00,7.5
-Oregon State Beavers vs. Texas State Bobcats,Oregon State Beavers vs Texas State Bobcats,total,Plus de 63.5,63.5,1.3847,71.0,7.5,,,,,,NO_EXACT_PIN_LINE,,,,,,7.5,4757369188,2026-11-07T20:23:57+00:00,7.5
-Oregon State Beavers vs. Texas State Bobcats,Oregon State Beavers vs Texas State Bobcats,total,Moins de 63.5,63.5,2.85,71.0,-7.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-7.5,4757369187,2026-11-07T20:23:57+00:00,7.5
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,total,Plus de 56.5,56.5,2.7,49.0,-7.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-7.5,4757409947,2026-11-07T20:23:57+00:00,7.5
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,total,Moins de 56.5,56.5,1.4167,49.0,7.5,,,,,,NO_EXACT_PIN_LINE,,,,,,7.5,4757409948,2026-11-07T20:23:57+00:00,7.5
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,total,Moins de 41.5,41.5,2.85,49.0,-7.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-7.5,4757409969,2026-11-07T20:23:57+00:00,7.5
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,total,Plus de 41.5,41.5,1.3847,49.0,7.5,,,,,,NO_EXACT_PIN_LINE,,,,,,7.5,4757409970,2026-11-07T20:23:57+00:00,7.5
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,total,Plus de 59.5,59.5,1.4,66.5,7.0,,,,,,NO_EXACT_PIN_LINE,,,,,,7.0,4757411393,2026-11-07T20:23:57+00:00,7.0
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,total,Moins de 59.5,59.5,2.75,66.5,-7.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-7.0,4757411394,2026-11-07T20:23:57+00:00,7.0
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,total,Plus de 73.5,73.5,2.55,66.5,-7.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-7.0,4757411423,2026-11-07T20:23:57+00:00,7.0
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,total,Moins de 73.5,73.5,1.4762,66.5,7.0,,,,,,NO_EXACT_PIN_LINE,,,,,,7.0,4757411424,2026-11-07T20:23:57+00:00,7.0
-Utah State Aggies vs. FRESNO,Utah State Aggies vs Fresno State Bulldogs,total,Moins de 49.5,49.5,1.4348,43.0,6.5,,,,,,NO_EXACT_PIN_LINE,,,,,,6.5,4757369275,2026-11-07T20:23:57+00:00,6.5
-Utah State Aggies vs. FRESNO,Utah State Aggies vs Fresno State Bulldogs,total,Plus de 49.5,49.5,2.65,43.0,-6.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-6.5,4757369276,2026-11-07T20:23:57+00:00,6.5
-Utah State Aggies vs. FRESNO,Utah State Aggies vs Fresno State Bulldogs,total,Plus de 36.5,36.5,1.3572,43.0,6.5,,,,,,NO_EXACT_PIN_LINE,,,,,,6.5,4757369281,2026-11-07T20:23:57+00:00,6.5
-Utah State Aggies vs. FRESNO,Utah State Aggies vs Fresno State Bulldogs,total,Moins de 36.5,36.5,3.0,43.0,-6.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-6.5,4757369282,2026-11-07T20:23:57+00:00,6.5
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,total,Plus de 42.5,42.5,1.4167,49.0,6.5,,,,,,NO_EXACT_PIN_LINE,,,,,,6.5,4757411748,2026-11-07T20:23:57+00:00,6.5
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,total,Moins de 42.5,42.5,2.7,49.0,-6.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-6.5,4757411749,2026-11-07T20:23:57+00:00,6.5
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,total,Plus de 55.5,55.5,2.85,49.0,-6.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-6.5,4757411770,2026-11-07T20:23:57+00:00,6.5
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,total,Moins de 55.5,55.5,1.3847,49.0,6.5,,,,,,NO_EXACT_PIN_LINE,,,,,,6.5,4757411771,2026-11-07T20:23:57+00:00,6.5
-Oregon State Beavers vs. Texas State Bobcats,Oregon State Beavers vs Texas State Bobcats,total,Moins de 77.5,77.5,1.5,71.0,6.5,,,,,,NO_EXACT_PIN_LINE,,,,,,6.5,4757369174,2026-11-07T20:23:57+00:00,6.5
-Oregon State Beavers vs. Texas State Bobcats,Oregon State Beavers vs Texas State Bobcats,total,Plus de 77.5,77.5,2.5,71.0,-6.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-6.5,4757369173,2026-11-07T20:23:57+00:00,6.5
-Oregon State Beavers vs. Texas State Bobcats,Oregon State Beavers vs Texas State Bobcats,total,Moins de 64.5,64.5,2.7,71.0,-6.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-6.5,4757369179,2026-11-07T20:23:57+00:00,6.5
-Oregon State Beavers vs. Texas State Bobcats,Oregon State Beavers vs Texas State Bobcats,total,Plus de 64.5,64.5,1.4167,71.0,6.5,,,,,,NO_EXACT_PIN_LINE,,,,,,6.5,4757369180,2026-11-07T20:23:57+00:00,6.5
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,total,Moins de 55.5,55.5,1.4348,49.0,6.5,,,,,,NO_EXACT_PIN_LINE,,,,,,6.5,4757409931,2026-11-07T20:23:57+00:00,6.5
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,total,Plus de 55.5,55.5,2.65,49.0,-6.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-6.5,4757409932,2026-11-07T20:23:57+00:00,6.5
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,total,Moins de 42.5,42.5,2.75,49.0,-6.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-6.5,4757409963,2026-11-07T20:23:57+00:00,6.5
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,total,Plus de 42.5,42.5,1.4,49.0,6.5,,,,,,NO_EXACT_PIN_LINE,,,,,,6.5,4757409964,2026-11-07T20:23:57+00:00,6.5
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,total,Plus de 72.5,72.5,2.4,66.5,-6.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-6.0,4757411389,2026-11-07T20:23:57+00:00,6.0
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,total,Moins de 72.5,72.5,1.5264,66.5,6.0,,,,,,NO_EXACT_PIN_LINE,,,,,,6.0,4757411390,2026-11-07T20:23:57+00:00,6.0
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,total,Plus de 60.5,60.5,1.4348,66.5,6.0,,,,,,NO_EXACT_PIN_LINE,,,,,,6.0,4757411407,2026-11-07T20:23:57+00:00,6.0
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,total,Moins de 60.5,60.5,2.65,66.5,-6.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-6.0,4757411408,2026-11-07T20:23:57+00:00,6.0
-Utah State Aggies vs. FRESNO,Utah State Aggies vs Fresno State Bulldogs,total,Plus de 37.5,37.5,1.4348,43.0,5.5,,,,,,NO_EXACT_PIN_LINE,,,,,,5.5,4757369255,2026-11-07T20:23:57+00:00,5.5
-Utah State Aggies vs. FRESNO,Utah State Aggies vs Fresno State Bulldogs,total,Moins de 37.5,37.5,2.65,43.0,-5.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-5.5,4757369256,2026-11-07T20:23:57+00:00,5.5
-Utah State Aggies vs. FRESNO,Utah State Aggies vs Fresno State Bulldogs,total,Moins de 48.5,48.5,1.4762,43.0,5.5,,,,,,NO_EXACT_PIN_LINE,,,,,,5.5,4757369277,2026-11-07T20:23:57+00:00,5.5
-Utah State Aggies vs. FRESNO,Utah State Aggies vs Fresno State Bulldogs,total,Plus de 48.5,48.5,2.55,43.0,-5.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-5.5,4757369278,2026-11-07T20:23:57+00:00,5.5
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,total,Plus de 43.5,43.5,1.4762,49.0,5.5,,,,,,NO_EXACT_PIN_LINE,,,,,,5.5,4757411754,2026-11-07T20:23:57+00:00,5.5
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,total,Moins de 43.5,43.5,2.55,49.0,-5.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-5.5,4757411755,2026-11-07T20:23:57+00:00,5.5
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,total,Plus de 54.5,54.5,2.6,49.0,-5.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-5.5,4757411788,2026-11-07T20:23:57+00:00,5.5
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,total,Moins de 54.5,54.5,1.4546,49.0,5.5,,,,,,NO_EXACT_PIN_LINE,,,,,,5.5,4757411789,2026-11-07T20:23:57+00:00,5.5
-Oregon State Beavers vs. Texas State Bobcats,Oregon State Beavers vs Texas State Bobcats,total,Plus de 76.5,76.5,2.35,71.0,-5.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-5.5,4757369177,2026-11-07T20:23:57+00:00,5.5
-Oregon State Beavers vs. Texas State Bobcats,Oregon State Beavers vs Texas State Bobcats,total,Moins de 65.5,65.5,2.55,71.0,-5.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-5.5,4757369183,2026-11-07T20:23:57+00:00,5.5
-Oregon State Beavers vs. Texas State Bobcats,Oregon State Beavers vs Texas State Bobcats,total,Plus de 65.5,65.5,1.4762,71.0,5.5,,,,,,NO_EXACT_PIN_LINE,,,,,,5.5,4757369184,2026-11-07T20:23:57+00:00,5.5
-Oregon State Beavers vs. Texas State Bobcats,Oregon State Beavers vs Texas State Bobcats,total,Moins de 76.5,76.5,1.5455,71.0,5.5,,,,,,NO_EXACT_PIN_LINE,,,,,,5.5,4757369178,2026-11-07T20:23:57+00:00,5.5
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,total,Plus de 54.5,54.5,2.5,49.0,-5.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-5.5,4757409946,2026-11-07T20:23:57+00:00,5.5
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,total,Moins de 54.5,54.5,1.5,49.0,5.5,,,,,,NO_EXACT_PIN_LINE,,,,,,5.5,4757409945,2026-11-07T20:23:57+00:00,5.5
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,total,Moins de 43.5,43.5,2.6,49.0,-5.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-5.5,4757409975,2026-11-07T20:23:57+00:00,5.5
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,total,Plus de 43.5,43.5,1.4546,49.0,5.5,,,,,,NO_EXACT_PIN_LINE,,,,,,5.5,4757409976,2026-11-07T20:23:57+00:00,5.5
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,total,Plus de 61.5,61.5,1.5,66.5,5.0,,,,,,NO_EXACT_PIN_LINE,,,,,,5.0,4757411409,2026-11-07T20:23:57+00:00,5.0
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,total,Moins de 61.5,61.5,2.5,66.5,-5.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-5.0,4757411410,2026-11-07T20:23:57+00:00,5.0
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,total,Plus de 71.5,71.5,2.25,66.5,-5.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-5.0,4757411419,2026-11-07T20:23:57+00:00,5.0
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,total,Moins de 71.5,71.5,1.5715,66.5,5.0,,,,,,NO_EXACT_PIN_LINE,,,,,,5.0,4757411420,2026-11-07T20:23:57+00:00,5.0
-Utah State Aggies vs. FRESNO,Utah State Aggies vs Fresno State Bulldogs,total,Moins de 47.5,47.5,1.5455,43.0,4.5,,,,,,NO_EXACT_PIN_LINE,,,,,,4.5,4757369253,2026-11-07T20:23:57+00:00,4.5
-Utah State Aggies vs. FRESNO,Utah State Aggies vs Fresno State Bulldogs,total,Plus de 47.5,47.5,2.35,43.0,-4.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-4.5,4757369254,2026-11-07T20:23:57+00:00,4.5
-Utah State Aggies vs. FRESNO,Utah State Aggies vs Fresno State Bulldogs,total,Moins de 38.5,38.5,2.5,43.0,-4.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-4.5,4757369283,2026-11-07T20:23:57+00:00,4.5
-Utah State Aggies vs. FRESNO,Utah State Aggies vs Fresno State Bulldogs,total,Plus de 38.5,38.5,1.5,43.0,4.5,,,,,,NO_EXACT_PIN_LINE,,,,,,4.5,4757369284,2026-11-07T20:23:57+00:00,4.5
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,total,Plus de 44.5,44.5,1.5455,49.0,4.5,,,,,,NO_EXACT_PIN_LINE,,,,,,4.5,4757411758,2026-11-07T20:23:57+00:00,4.5
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,total,Moins de 44.5,44.5,2.35,49.0,-4.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-4.5,4757411759,2026-11-07T20:23:57+00:00,4.5
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,total,Plus de 53.5,53.5,2.5,49.0,-4.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-4.5,4757411796,2026-11-07T20:23:57+00:00,4.5
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,total,Moins de 53.5,53.5,1.5,49.0,4.5,,,,,,NO_EXACT_PIN_LINE,,,,,,4.5,4757411797,2026-11-07T20:23:57+00:00,4.5
-Oregon State Beavers vs. Texas State Bobcats,Oregon State Beavers vs Texas State Bobcats,total,Plus de 75.5,75.5,2.25,71.0,-4.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-4.5,4757369169,2026-11-07T20:23:57+00:00,4.5
-Oregon State Beavers vs. Texas State Bobcats,Oregon State Beavers vs Texas State Bobcats,total,Moins de 75.5,75.5,1.5715,71.0,4.5,,,,,,NO_EXACT_PIN_LINE,,,,,,4.5,4757369170,2026-11-07T20:23:57+00:00,4.5
-Oregon State Beavers vs. Texas State Bobcats,Oregon State Beavers vs Texas State Bobcats,total,Plus de 66.5,66.5,1.5264,71.0,4.5,,,,,,NO_EXACT_PIN_LINE,,,,,,4.5,4752475747,2026-11-07T20:23:57+00:00,4.5
-Oregon State Beavers vs. Texas State Bobcats,Oregon State Beavers vs Texas State Bobcats,total,Moins de 66.5,66.5,2.4,71.0,-4.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-4.5,4752475748,2026-11-07T20:23:57+00:00,4.5
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,total,Plus de 53.5,53.5,2.3,49.0,-4.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-4.5,4757409939,2026-11-07T20:23:57+00:00,4.5
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,total,Moins de 53.5,53.5,1.5556,49.0,4.5,,,,,,NO_EXACT_PIN_LINE,,,,,,4.5,4757409940,2026-11-07T20:23:57+00:00,4.5
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,total,Moins de 44.5,44.5,2.4,49.0,-4.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-4.5,4757409977,2026-11-07T20:23:57+00:00,4.5
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,total,Plus de 44.5,44.5,1.5264,49.0,4.5,,,,,,NO_EXACT_PIN_LINE,,,,,,4.5,4757409978,2026-11-07T20:23:57+00:00,4.5
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,total,Plus de 62.5,62.5,1.5455,66.5,4.0,,,,,,NO_EXACT_PIN_LINE,,,,,,4.0,4757411391,2026-11-07T20:23:57+00:00,4.0
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,total,Moins de 62.5,62.5,2.35,66.5,-4.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-4.0,4757411392,2026-11-07T20:23:57+00:00,4.0
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,total,Plus de 70.5,70.5,2.15,66.5,-4.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-4.0,4757411421,2026-11-07T20:23:57+00:00,4.0
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,total,Moins de 70.5,70.5,1.6451,66.5,4.0,,,,,,NO_EXACT_PIN_LINE,,,,,,4.0,4757411422,2026-11-07T20:23:57+00:00,4.0
-Utah State Aggies vs. FRESNO,Utah State Aggies vs Fresno State Bulldogs,total,Moins de 46.5,46.5,1.625,43.0,3.5,,,,,,NO_EXACT_PIN_LINE,,,,,,3.5,4757369271,2026-11-07T20:23:57+00:00,3.5
-Utah State Aggies vs. FRESNO,Utah State Aggies vs Fresno State Bulldogs,total,Plus de 46.5,46.5,2.2,43.0,-3.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-3.5,4757369272,2026-11-07T20:23:57+00:00,3.5
-Utah State Aggies vs. FRESNO,Utah State Aggies vs Fresno State Bulldogs,total,Plus de 39.5,39.5,1.5455,43.0,3.5,,,,,,NO_EXACT_PIN_LINE,,,,,,3.5,4757369286,2026-11-07T20:23:57+00:00,3.5
-Utah State Aggies vs. FRESNO,Utah State Aggies vs Fresno State Bulldogs,total,Moins de 39.5,39.5,2.35,43.0,-3.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-3.5,4757369285,2026-11-07T20:23:57+00:00,3.5
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,total,Plus de 52.5,52.5,2.35,49.0,-3.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-3.5,4757411744,2026-11-07T20:23:57+00:00,3.5
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,total,Moins de 52.5,52.5,1.5455,49.0,3.5,,,,,,NO_EXACT_PIN_LINE,,,,,,3.5,4757411745,2026-11-07T20:23:57+00:00,3.5
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,total,Plus de 45.5,45.5,1.625,49.0,3.5,,,,,,NO_EXACT_PIN_LINE,,,,,,3.5,4757411756,2026-11-07T20:23:57+00:00,3.5
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,total,Moins de 45.5,45.5,2.2,49.0,-3.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-3.5,4757411757,2026-11-07T20:23:57+00:00,3.5
-Oregon State Beavers vs. Texas State Bobcats,Oregon State Beavers vs Texas State Bobcats,total,Plus de 67.5,67.5,1.5556,71.0,3.5,,,,,,NO_EXACT_PIN_LINE,,,,,,3.5,4753177044,2026-11-07T20:23:57+00:00,3.5
-Oregon State Beavers vs. Texas State Bobcats,Oregon State Beavers vs Texas State Bobcats,total,Moins de 67.5,67.5,2.3,71.0,-3.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-3.5,4753177045,2026-11-07T20:23:57+00:00,3.5
-Oregon State Beavers vs. Texas State Bobcats,Oregon State Beavers vs Texas State Bobcats,total,Plus de 74.5,74.5,2.1,71.0,-3.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-3.5,4757369175,2026-11-07T20:23:57+00:00,3.5
-Oregon State Beavers vs. Texas State Bobcats,Oregon State Beavers vs Texas State Bobcats,total,Moins de 74.5,74.5,1.6667,71.0,3.5,,,,,,NO_EXACT_PIN_LINE,,,,,,3.5,4757369176,2026-11-07T20:23:57+00:00,3.5
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,total,Plus de 52.5,52.5,2.2,49.0,-3.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-3.5,4757409943,2026-11-07T20:23:57+00:00,3.5
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,total,Moins de 52.5,52.5,1.625,49.0,3.5,,,,,,NO_EXACT_PIN_LINE,,,,,,3.5,4757409944,2026-11-07T20:23:57+00:00,3.5
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,total,Moins de 45.5,45.5,2.25,49.0,-3.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-3.5,4752474447,2026-11-07T20:23:57+00:00,3.5
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,total,Plus de 45.5,45.5,1.5715,49.0,3.5,,,,,,NO_EXACT_PIN_LINE,,,,,,3.5,4752474448,2026-11-07T20:23:57+00:00,3.5
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,total,Plus de 69.5,69.5,2.1,66.5,-3.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-3.0,4757411405,2026-11-07T20:23:57+00:00,3.0
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,total,Moins de 69.5,69.5,1.6667,66.5,3.0,,,,,,NO_EXACT_PIN_LINE,,,,,,3.0,4757411406,2026-11-07T20:23:57+00:00,3.0
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,total,Plus de 63.5,63.5,1.5715,66.5,3.0,,,,,,NO_EXACT_PIN_LINE,,,,,,3.0,4752305360,2026-11-07T20:23:57+00:00,3.0
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,total,Moins de 63.5,63.5,2.25,66.5,-3.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-3.0,4752305359,2026-11-07T20:23:57+00:00,3.0
-Utah State Aggies vs. FRESNO,Utah State Aggies vs Fresno State Bulldogs,total,Plus de 45.5,45.5,2.15,43.0,-2.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-2.5,4757369261,2026-11-07T20:23:57+00:00,2.5
-Utah State Aggies vs. FRESNO,Utah State Aggies vs Fresno State Bulldogs,total,Moins de 45.5,45.5,1.6451,43.0,2.5,,,,,,NO_EXACT_PIN_LINE,,,,,,2.5,4757369262,2026-11-07T20:23:57+00:00,2.5
-Utah State Aggies vs. FRESNO,Utah State Aggies vs Fresno State Bulldogs,total,Moins de 40.5,40.5,2.2,43.0,-2.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-2.5,4757369273,2026-11-07T20:23:57+00:00,2.5
-Utah State Aggies vs. FRESNO,Utah State Aggies vs Fresno State Bulldogs,total,Plus de 40.5,40.5,1.625,43.0,2.5,,,,,,NO_EXACT_PIN_LINE,,,,,,2.5,4757369274,2026-11-07T20:23:57+00:00,2.5
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,total,Plus de 46.5,46.5,1.6667,49.0,2.5,,,,,,NO_EXACT_PIN_LINE,,,,,,2.5,4757411762,2026-11-07T20:23:57+00:00,2.5
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,total,Moins de 46.5,46.5,2.1,49.0,-2.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-2.5,4757411763,2026-11-07T20:23:57+00:00,2.5
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,total,Plus de 51.5,51.5,2.2,49.0,-2.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-2.5,4757411794,2026-11-07T20:23:57+00:00,2.5
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,total,Moins de 51.5,51.5,1.625,49.0,2.5,,,,,,NO_EXACT_PIN_LINE,,,,,,2.5,4757411795,2026-11-07T20:23:57+00:00,2.5
-Oregon State Beavers vs. Texas State Bobcats,Oregon State Beavers vs Texas State Bobcats,total,Plus de 73.5,73.5,2.05,71.0,-2.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-2.5,4757369167,2026-11-07T20:23:57+00:00,2.5
-Oregon State Beavers vs. Texas State Bobcats,Oregon State Beavers vs Texas State Bobcats,total,Moins de 73.5,73.5,1.6897,71.0,2.5,,,,,,NO_EXACT_PIN_LINE,,,,,,2.5,4757369168,2026-11-07T20:23:57+00:00,2.5
-Oregon State Beavers vs. Texas State Bobcats,Oregon State Beavers vs Texas State Bobcats,total,Plus de 68.5,68.5,1.625,71.0,2.5,,,,,,NO_EXACT_PIN_LINE,,,,,,2.5,4753692000,2026-11-07T20:23:57+00:00,2.5
-Oregon State Beavers vs. Texas State Bobcats,Oregon State Beavers vs Texas State Bobcats,total,Moins de 68.5,68.5,2.2,71.0,-2.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-2.5,4753691999,2026-11-07T20:23:57+00:00,2.5
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,total,Plus de 51.5,51.5,2.1,49.0,-2.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-2.5,4757409937,2026-11-07T20:23:57+00:00,2.5
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,total,Moins de 51.5,51.5,1.6667,49.0,2.5,,,,,,NO_EXACT_PIN_LINE,,,,,,2.5,4757409938,2026-11-07T20:23:57+00:00,2.5
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,total,Plus de 46.5,46.5,1.625,49.0,2.5,,,,,,NO_EXACT_PIN_LINE,,,,,,2.5,4753192509,2026-11-07T20:23:57+00:00,2.5
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,total,Moins de 46.5,46.5,2.2,49.0,-2.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-2.5,4753192510,2026-11-07T20:23:57+00:00,2.5
-Utah State Aggies vs. FRESNO,Utah State Aggies vs Fresno State Bulldogs,spread,1 (-5.5),-5.5,2.7,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757369344,2026-11-07T20:23:57+00:00,
-Utah State Aggies vs. FRESNO,Utah State Aggies vs Fresno State Bulldogs,spread,2 (+5.5),5.5,1.4167,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757369345,2026-11-07T20:23:57+00:00,
-Utah State Aggies vs. FRESNO,Utah State Aggies vs Fresno State Bulldogs,spread,1 (-4.5),-4.5,2.55,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757369346,2026-11-07T20:23:57+00:00,
-Utah State Aggies vs. FRESNO,Utah State Aggies vs Fresno State Bulldogs,spread,2 (+4.5),4.5,1.4762,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757369347,2026-11-07T20:23:57+00:00,
-Utah State Aggies vs. FRESNO,Utah State Aggies vs Fresno State Bulldogs,spread,1 (-6.5),-6.5,2.9,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757369348,2026-11-07T20:23:57+00:00,
-Utah State Aggies vs. FRESNO,Utah State Aggies vs Fresno State Bulldogs,spread,2 (+6.5),6.5,1.3637,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757369349,2026-11-07T20:23:57+00:00,
-Utah State Aggies vs. FRESNO,Utah State Aggies vs Fresno State Bulldogs,spread,1 (-3.5),-3.5,2.4,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757369350,2026-11-07T20:23:57+00:00,
-Utah State Aggies vs. FRESNO,Utah State Aggies vs Fresno State Bulldogs,spread,2 (+3.5),3.5,1.5264,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757369351,2026-11-07T20:23:57+00:00,
-Utah State Aggies vs. FRESNO,Utah State Aggies vs Fresno State Bulldogs,spread,1 (-8.5),-8.5,3.75,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757369352,2026-11-07T20:23:57+00:00,
-Utah State Aggies vs. FRESNO,Utah State Aggies vs Fresno State Bulldogs,spread,2 (+8.5),8.5,1.2353,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757369353,2026-11-07T20:23:57+00:00,
-Utah State Aggies vs. FRESNO,Utah State Aggies vs Fresno State Bulldogs,spread,2 (-5.5),-5.5,2.7,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757369354,2026-11-07T20:23:57+00:00,
-Utah State Aggies vs. FRESNO,Utah State Aggies vs Fresno State Bulldogs,spread,1 (+5.5),5.5,1.4167,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757369355,2026-11-07T20:23:57+00:00,
-Utah State Aggies vs. FRESNO,Utah State Aggies vs Fresno State Bulldogs,spread,2 (-6.5),-6.5,3.0,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757369356,2026-11-07T20:23:57+00:00,
-Utah State Aggies vs. FRESNO,Utah State Aggies vs Fresno State Bulldogs,spread,1 (+6.5),6.5,1.3572,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757369357,2026-11-07T20:23:57+00:00,
-Utah State Aggies vs. FRESNO,Utah State Aggies vs Fresno State Bulldogs,spread,2 (-9.5),-9.5,4.0,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757369358,2026-11-07T20:23:57+00:00,
-Utah State Aggies vs. FRESNO,Utah State Aggies vs Fresno State Bulldogs,spread,1 (+9.5),9.5,1.2223,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757369359,2026-11-07T20:23:57+00:00,
-Utah State Aggies vs. FRESNO,Utah State Aggies vs Fresno State Bulldogs,spread,1 (+12.5),12.5,1.1334,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757369360,2026-11-07T20:23:57+00:00,
-Utah State Aggies vs. FRESNO,Utah State Aggies vs Fresno State Bulldogs,spread,2 (-12.5),-12.5,5.25,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757369361,2026-11-07T20:23:57+00:00,
-Utah State Aggies vs. FRESNO,Utah State Aggies vs Fresno State Bulldogs,spread,2 (-11.5),-11.5,5.0,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757369362,2026-11-07T20:23:57+00:00,
-Utah State Aggies vs. FRESNO,Utah State Aggies vs Fresno State Bulldogs,spread,1 (+11.5),11.5,1.1429,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757369363,2026-11-07T20:23:57+00:00,
-Utah State Aggies vs. FRESNO,Utah State Aggies vs Fresno State Bulldogs,spread,2 (-1.5),-1.5,1.9091,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757369364,2026-11-07T20:23:57+00:00,
-Utah State Aggies vs. FRESNO,Utah State Aggies vs Fresno State Bulldogs,spread,1 (+1.5),1.5,1.7693,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757369365,2026-11-07T20:23:57+00:00,
-Utah State Aggies vs. FRESNO,Utah State Aggies vs Fresno State Bulldogs,spread,1 (+3.5),3.5,1.5264,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757369366,2026-11-07T20:23:57+00:00,
-Utah State Aggies vs. FRESNO,Utah State Aggies vs Fresno State Bulldogs,spread,2 (-3.5),-3.5,2.4,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757369367,2026-11-07T20:23:57+00:00,
-Utah State Aggies vs. FRESNO,Utah State Aggies vs Fresno State Bulldogs,spread,2 (-2.5),-2.5,2.05,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4752455466,2026-11-07T20:23:57+00:00,
-Utah State Aggies vs. FRESNO,Utah State Aggies vs Fresno State Bulldogs,spread,1 (+2.5),2.5,1.6897,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4752455467,2026-11-07T20:23:57+00:00,
-Utah State Aggies vs. FRESNO,Utah State Aggies vs Fresno State Bulldogs,spread,1 (-9.5),-9.5,4.0,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4781629792,2026-11-07T20:23:57+00:00,
-Utah State Aggies vs. FRESNO,Utah State Aggies vs Fresno State Bulldogs,spread,2 (+9.5),9.5,1.2223,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4781629793,2026-11-07T20:23:57+00:00,
-Utah State Aggies vs. FRESNO,Utah State Aggies vs Fresno State Bulldogs,spread,1 (+10.5),10.5,1.1819,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757369328,2026-11-07T20:23:57+00:00,
-Utah State Aggies vs. FRESNO,Utah State Aggies vs Fresno State Bulldogs,spread,2 (-10.5),-10.5,4.4,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757369329,2026-11-07T20:23:57+00:00,
-Utah State Aggies vs. FRESNO,Utah State Aggies vs Fresno State Bulldogs,spread,1 (-7.5),-7.5,3.5,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757369332,2026-11-07T20:23:57+00:00,
-Utah State Aggies vs. FRESNO,Utah State Aggies vs Fresno State Bulldogs,spread,2 (+7.5),7.5,1.2667,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757369333,2026-11-07T20:23:57+00:00,
-Utah State Aggies vs. FRESNO,Utah State Aggies vs Fresno State Bulldogs,spread,2 (-4.5),-4.5,2.6,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757369334,2026-11-07T20:23:57+00:00,
-Utah State Aggies vs. FRESNO,Utah State Aggies vs Fresno State Bulldogs,spread,1 (+4.5),4.5,1.4546,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757369335,2026-11-07T20:23:57+00:00,
-Utah State Aggies vs. FRESNO,Utah State Aggies vs Fresno State Bulldogs,spread,2 (-7.5),-7.5,3.5,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757369336,2026-11-07T20:23:57+00:00,
-Utah State Aggies vs. FRESNO,Utah State Aggies vs Fresno State Bulldogs,spread,1 (+7.5),7.5,1.2667,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757369337,2026-11-07T20:23:57+00:00,
-Utah State Aggies vs. FRESNO,Utah State Aggies vs Fresno State Bulldogs,spread,1 (+8.5),8.5,1.25,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757369338,2026-11-07T20:23:57+00:00,
-Utah State Aggies vs. FRESNO,Utah State Aggies vs Fresno State Bulldogs,spread,2 (-8.5),-8.5,3.7,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757369339,2026-11-07T20:23:57+00:00,
-Utah State Aggies vs. FRESNO,Utah State Aggies vs Fresno State Bulldogs,spread,1 (-2.5),-2.5,2.05,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757369340,2026-11-07T20:23:57+00:00,
-Utah State Aggies vs. FRESNO,Utah State Aggies vs Fresno State Bulldogs,spread,2 (+2.5),2.5,1.6897,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757369341,2026-11-07T20:23:57+00:00,
-Utah State Aggies vs. FRESNO,Utah State Aggies vs Fresno State Bulldogs,spread,1 (-1.5),-1.5,1.9091,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757369342,2026-11-07T20:23:57+00:00,
-Utah State Aggies vs. FRESNO,Utah State Aggies vs Fresno State Bulldogs,spread,2 (+1.5),1.5,1.7693,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757369343,2026-11-07T20:23:57+00:00,
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,spread,2 (+3.5),3.5,1.1819,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757411840,2026-11-07T20:23:57+00:00,
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,spread,1 (-3.5),-3.5,4.4,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757411841,2026-11-07T20:23:57+00:00,
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,spread,2 (-12.5),-12.5,2.65,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757411842,2026-11-07T20:23:57+00:00,
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,spread,1 (+12.5),12.5,1.4348,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757411843,2026-11-07T20:23:57+00:00,
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,spread,1 (+2.5),2.5,2.7,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757411844,2026-11-07T20:23:57+00:00,
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,spread,2 (-2.5),-2.5,1.4167,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757411845,2026-11-07T20:23:57+00:00,
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,spread,2 (-13.5),-13.5,2.85,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757411846,2026-11-07T20:23:57+00:00,
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,spread,1 (+13.5),13.5,1.3847,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757411847,2026-11-07T20:23:57+00:00,
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,spread,2 (-7.5),-7.5,2.05,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757411848,2026-11-07T20:23:57+00:00,
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,spread,1 (+7.5),7.5,1.6897,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757411849,2026-11-07T20:23:57+00:00,
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,spread,1 (+3.5),3.5,2.3,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757411850,2026-11-07T20:23:57+00:00,
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,spread,2 (-3.5),-3.5,1.5556,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757411851,2026-11-07T20:23:57+00:00,
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,spread,1 (+17.5),17.5,1.2223,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757411852,2026-11-07T20:23:57+00:00,
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,spread,2 (-17.5),-17.5,4.0,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757411853,2026-11-07T20:23:57+00:00,
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,spread,1 (+18.5),18.5,1.2,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757411854,2026-11-07T20:23:57+00:00,
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,spread,2 (-18.5),-18.5,4.2,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757411855,2026-11-07T20:23:57+00:00,
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,spread,1 (+14.5),14.5,1.3334,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757411856,2026-11-07T20:23:57+00:00,
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,spread,2 (-14.5),-14.5,3.1,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757411857,2026-11-07T20:23:57+00:00,
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,spread,2 (-6.5),-6.5,1.8,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757411858,2026-11-07T20:23:57+00:00,
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,spread,1 (+6.5),6.5,1.8696,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757411859,2026-11-07T20:23:57+00:00,
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,spread,2 (-16.5),-16.5,3.5,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757411860,2026-11-07T20:23:57+00:00,
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,spread,1 (+16.5),16.5,1.2667,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757411861,2026-11-07T20:23:57+00:00,
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,spread,1 (+1.5),1.5,3.0,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757411862,2026-11-07T20:23:57+00:00,
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,spread,2 (-1.5),-1.5,1.3572,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757411863,2026-11-07T20:23:57+00:00,
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,spread,2 (+6.5),6.5,1.125,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757411834,2026-11-07T20:23:57+00:00,
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,spread,1 (+9.5),9.5,1.625,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4753266731,2026-11-07T20:23:57+00:00,
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,spread,2 (-9.5),-9.5,2.2,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4753266732,2026-11-07T20:23:57+00:00,
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,spread,2 (+1.5),1.5,1.2858,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757411824,2026-11-07T20:23:57+00:00,
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,spread,1 (+7.0),7.0,1.7693,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4788059083,2026-11-07T20:23:57+00:00,
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,spread,1 (-7.5),-7.5,7.0,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4774959947,2026-11-07T20:23:57+00:00,
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,spread,2 (-7.0),-7.0,1.9091,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4788059084,2026-11-07T20:23:57+00:00,
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,spread,2 (+7.5),7.5,1.0834,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4774959948,2026-11-07T20:23:57+00:00,
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,spread,2 (+8.5),8.5,1.0625,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4783238649,2026-11-07T20:23:57+00:00,
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,spread,2 (-10.5),-10.5,2.4,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4752289373,2026-11-07T20:23:57+00:00,
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,spread,1 (+10.5),10.5,1.5264,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4752289374,2026-11-07T20:23:57+00:00,
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,spread,2 (-21.5),-21.5,6.0,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757411808,2026-11-07T20:23:57+00:00,
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,spread,1 (+21.5),21.5,1.1112,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757411809,2026-11-07T20:23:57+00:00,
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,spread,2 (-20.5),-20.5,5.0,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757411810,2026-11-07T20:23:57+00:00,
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,spread,1 (+20.5),20.5,1.1429,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757411811,2026-11-07T20:23:57+00:00,
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,spread,2 (+2.5),2.5,1.2667,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757411823,2026-11-07T20:23:57+00:00,
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,spread,1 (+15.5),15.5,1.3031,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757411820,2026-11-07T20:23:57+00:00,
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,spread,1 (+11.5),11.5,1.4762,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4752278765,2026-11-07T20:23:57+00:00,
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,spread,1 (-2.5),-2.5,3.5,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757411822,2026-11-07T20:23:57+00:00,
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,spread,2 (-15.5),-15.5,3.25,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757411821,2026-11-07T20:23:57+00:00,
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,spread,2 (-11.5),-11.5,2.55,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4752278764,2026-11-07T20:23:57+00:00,
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,spread,1 (-1.5),-1.5,3.4,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757411825,2026-11-07T20:23:57+00:00,
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,spread,2 (-8.5),-8.5,2.15,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757411826,2026-11-07T20:23:57+00:00,
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,spread,1 (+8.5),8.5,1.6451,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757411827,2026-11-07T20:23:57+00:00,
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,spread,1 (+19.5),19.5,1.1667,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757411828,2026-11-07T20:23:57+00:00,
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,spread,2 (-19.5),-19.5,4.5,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757411829,2026-11-07T20:23:57+00:00,
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,spread,2 (-5.5),-5.5,1.6897,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757411830,2026-11-07T20:23:57+00:00,
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,spread,1 (+5.5),5.5,2.05,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757411831,2026-11-07T20:23:57+00:00,
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,spread,2 (-4.5),-4.5,1.6451,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757411832,2026-11-07T20:23:57+00:00,
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,spread,1 (+4.5),4.5,2.15,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757411833,2026-11-07T20:23:57+00:00,
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,spread,1 (-8.5),-8.5,8.0,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4783238650,2026-11-07T20:23:57+00:00,
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,spread,1 (-6.5),-6.5,5.5,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757411835,2026-11-07T20:23:57+00:00,
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,spread,2 (+4.5),4.5,1.1429,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757411836,2026-11-07T20:23:57+00:00,
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,spread,1 (-4.5),-4.5,5.0,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757411837,2026-11-07T20:23:57+00:00,
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,spread,1 (-5.5),-5.5,5.25,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757411838,2026-11-07T20:23:57+00:00,
-UTEP Miners vs. Hawaii Rainbow Warriors,UTEP Miners vs Hawaii Rainbow Warriors,spread,2 (+5.5),5.5,1.1334,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757411839,2026-11-07T20:23:57+00:00,
-Oregon State Beavers vs. Texas State Bobcats,Oregon State Beavers vs Texas State Bobcats,spread,2 (+14.5),14.5,1.3031,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757369121,2026-11-07T20:23:57+00:00,
-Oregon State Beavers vs. Texas State Bobcats,Oregon State Beavers vs Texas State Bobcats,spread,1 (-14.5),-14.5,3.25,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757369122,2026-11-07T20:23:57+00:00,
-Oregon State Beavers vs. Texas State Bobcats,Oregon State Beavers vs Texas State Bobcats,spread,2 (-3.5),-3.5,3.5,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757369125,2026-11-07T20:23:57+00:00,
-Oregon State Beavers vs. Texas State Bobcats,Oregon State Beavers vs Texas State Bobcats,spread,1 (+3.5),3.5,1.2667,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757369126,2026-11-07T20:23:57+00:00,
-Oregon State Beavers vs. Texas State Bobcats,Oregon State Beavers vs Texas State Bobcats,spread,2 (+3.5),3.5,2.1,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757369127,2026-11-07T20:23:57+00:00,
-Oregon State Beavers vs. Texas State Bobcats,Oregon State Beavers vs Texas State Bobcats,spread,1 (-3.5),-3.5,1.6667,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757369128,2026-11-07T20:23:57+00:00,
-Oregon State Beavers vs. Texas State Bobcats,Oregon State Beavers vs Texas State Bobcats,spread,1 (+5.5),5.5,1.2223,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4781945385,2026-11-07T20:23:57+00:00,
-Oregon State Beavers vs. Texas State Bobcats,Oregon State Beavers vs Texas State Bobcats,spread,1 (+4.5),4.5,1.2353,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757369129,2026-11-07T20:23:57+00:00,
-Oregon State Beavers vs. Texas State Bobcats,Oregon State Beavers vs Texas State Bobcats,spread,2 (-5.5),-5.5,4.0,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4781945386,2026-11-07T20:23:57+00:00,
-Oregon State Beavers vs. Texas State Bobcats,Oregon State Beavers vs Texas State Bobcats,spread,1 (-16.5),-16.5,3.7,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757369132,2026-11-07T20:23:57+00:00,
-Oregon State Beavers vs. Texas State Bobcats,Oregon State Beavers vs Texas State Bobcats,spread,2 (-4.5),-4.5,3.75,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757369130,2026-11-07T20:23:57+00:00,
-Oregon State Beavers vs. Texas State Bobcats,Oregon State Beavers vs Texas State Bobcats,spread,1 (-12.5),-12.5,2.85,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757369134,2026-11-07T20:23:57+00:00,
-Oregon State Beavers vs. Texas State Bobcats,Oregon State Beavers vs Texas State Bobcats,spread,2 (+12.5),12.5,1.3847,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757369133,2026-11-07T20:23:57+00:00,
-Oregon State Beavers vs. Texas State Bobcats,Oregon State Beavers vs Texas State Bobcats,spread,1 (-15.5),-15.5,3.5,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757369136,2026-11-07T20:23:57+00:00,
-Oregon State Beavers vs. Texas State Bobcats,Oregon State Beavers vs Texas State Bobcats,spread,2 (+10.5),10.5,1.4546,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757369137,2026-11-07T20:23:57+00:00,
-Oregon State Beavers vs. Texas State Bobcats,Oregon State Beavers vs Texas State Bobcats,spread,1 (-10.5),-10.5,2.6,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757369138,2026-11-07T20:23:57+00:00,
-Oregon State Beavers vs. Texas State Bobcats,Oregon State Beavers vs Texas State Bobcats,spread,2 (+13.5),13.5,1.3572,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757369139,2026-11-07T20:23:57+00:00,
-Oregon State Beavers vs. Texas State Bobcats,Oregon State Beavers vs Texas State Bobcats,spread,1 (-13.5),-13.5,3.0,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757369140,2026-11-07T20:23:57+00:00,
-Oregon State Beavers vs. Texas State Bobcats,Oregon State Beavers vs Texas State Bobcats,spread,2 (+11.5),11.5,1.4167,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757369141,2026-11-07T20:23:57+00:00,
-Oregon State Beavers vs. Texas State Bobcats,Oregon State Beavers vs Texas State Bobcats,spread,1 (-11.5),-11.5,2.7,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757369142,2026-11-07T20:23:57+00:00,
-Oregon State Beavers vs. Texas State Bobcats,Oregon State Beavers vs Texas State Bobcats,spread,2 (+1.5),1.5,2.55,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757369143,2026-11-07T20:23:57+00:00,
-Oregon State Beavers vs. Texas State Bobcats,Oregon State Beavers vs Texas State Bobcats,spread,1 (-1.5),-1.5,1.4762,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757369144,2026-11-07T20:23:57+00:00,
-Oregon State Beavers vs. Texas State Bobcats,Oregon State Beavers vs Texas State Bobcats,spread,2 (+2.5),2.5,2.4,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757369145,2026-11-07T20:23:57+00:00,
-Oregon State Beavers vs. Texas State Bobcats,Oregon State Beavers vs Texas State Bobcats,spread,1 (-2.5),-2.5,1.5264,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757369146,2026-11-07T20:23:57+00:00,
-Oregon State Beavers vs. Texas State Bobcats,Oregon State Beavers vs Texas State Bobcats,spread,2 (-1.5),-1.5,2.85,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757369147,2026-11-07T20:23:57+00:00,
-Oregon State Beavers vs. Texas State Bobcats,Oregon State Beavers vs Texas State Bobcats,spread,1 (+1.5),1.5,1.3847,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757369148,2026-11-07T20:23:57+00:00,
-Oregon State Beavers vs. Texas State Bobcats,Oregon State Beavers vs Texas State Bobcats,spread,1 (+2.5),2.5,1.3572,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757369149,2026-11-07T20:23:57+00:00,
-Oregon State Beavers vs. Texas State Bobcats,Oregon State Beavers vs Texas State Bobcats,spread,1 (-8.5),-8.5,2.3,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4752475710,2026-11-07T20:23:57+00:00,
-Oregon State Beavers vs. Texas State Bobcats,Oregon State Beavers vs Texas State Bobcats,spread,2 (-2.5),-2.5,3.0,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757369150,2026-11-07T20:23:57+00:00,
-Oregon State Beavers vs. Texas State Bobcats,Oregon State Beavers vs Texas State Bobcats,spread,1 (-4.5),-4.5,1.7408,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757369152,2026-11-07T20:23:57+00:00,
-Oregon State Beavers vs. Texas State Bobcats,Oregon State Beavers vs Texas State Bobcats,spread,2 (+4.5),4.5,1.9524,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757369151,2026-11-07T20:23:57+00:00,
-Oregon State Beavers vs. Texas State Bobcats,Oregon State Beavers vs Texas State Bobcats,spread,1 (-5.5),-5.5,1.8334,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757369154,2026-11-07T20:23:57+00:00,
-Oregon State Beavers vs. Texas State Bobcats,Oregon State Beavers vs Texas State Bobcats,spread,2 (+5.5),5.5,1.8334,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757369153,2026-11-07T20:23:57+00:00,
-Oregon State Beavers vs. Texas State Bobcats,Oregon State Beavers vs Texas State Bobcats,spread,1 (-9.5),-9.5,2.4,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757369156,2026-11-07T20:23:57+00:00,
-Oregon State Beavers vs. Texas State Bobcats,Oregon State Beavers vs Texas State Bobcats,spread,2 (+8.5),8.5,1.5556,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4752475709,2026-11-07T20:23:57+00:00,
-Oregon State Beavers vs. Texas State Bobcats,Oregon State Beavers vs Texas State Bobcats,spread,2 (+9.5),9.5,1.5264,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757369155,2026-11-07T20:23:57+00:00,
-Oregon State Beavers vs. Texas State Bobcats,Oregon State Beavers vs Texas State Bobcats,spread,2 (+6.5),6.5,1.7693,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4754288200,2026-11-07T20:23:57+00:00,
-Oregon State Beavers vs. Texas State Bobcats,Oregon State Beavers vs Texas State Bobcats,spread,1 (-6.5),-6.5,1.9091,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4754288201,2026-11-07T20:23:57+00:00,
-Oregon State Beavers vs. Texas State Bobcats,Oregon State Beavers vs Texas State Bobcats,spread,2 (+7.5),7.5,1.5715,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4753177046,2026-11-07T20:23:57+00:00,
-Oregon State Beavers vs. Texas State Bobcats,Oregon State Beavers vs Texas State Bobcats,spread,1 (-7.5),-7.5,2.25,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4753177047,2026-11-07T20:23:57+00:00,
-Oregon State Beavers vs. Texas State Bobcats,Oregon State Beavers vs Texas State Bobcats,spread,2 (+16.5),16.5,1.25,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757369131,2026-11-07T20:23:57+00:00,
-Oregon State Beavers vs. Texas State Bobcats,Oregon State Beavers vs Texas State Bobcats,spread,2 (+15.5),15.5,1.2667,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757369135,2026-11-07T20:23:57+00:00,
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,spread,1 (-9.5),-9.5,1.4348,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757411456,2026-11-07T20:23:57+00:00,
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,spread,2 (+3.5),3.5,4.2,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757411457,2026-11-07T20:23:57+00:00,
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,spread,1 (-3.5),-3.5,1.2,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757411458,2026-11-07T20:23:57+00:00,
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,spread,2 (+6.5),6.5,3.4,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757411459,2026-11-07T20:23:57+00:00,
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,spread,1 (-6.5),-6.5,1.2858,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757411460,2026-11-07T20:23:57+00:00,
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,spread,1 (-1.5),-1.5,1.1334,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757883653,2026-11-07T20:23:57+00:00,
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,spread,1 (-7.5),-7.5,1.3637,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757411462,2026-11-07T20:23:57+00:00,
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,spread,2 (+1.5),1.5,5.25,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757883652,2026-11-07T20:23:57+00:00,
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,spread,1 (-4.5),-4.5,1.2353,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757411464,2026-11-07T20:23:57+00:00,
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,spread,1 (-5.5),-5.5,1.2667,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757411465,2026-11-07T20:23:57+00:00,
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,spread,2 (+4.5),4.5,3.75,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757411463,2026-11-07T20:23:57+00:00,
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,spread,1 (-16.5),-16.5,1.8334,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4752473739,2026-11-07T20:23:57+00:00,
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,spread,1 (-28.5),-28.5,4.4,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757411468,2026-11-07T20:23:57+00:00,
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,spread,1 (-18.5),-18.5,2.15,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757411469,2026-11-07T20:23:57+00:00,
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,spread,2 (+5.5),5.5,3.5,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757411466,2026-11-07T20:23:57+00:00,
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,spread,2 (+16.5),16.5,1.8334,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4752473738,2026-11-07T20:23:57+00:00,
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,spread,1 (-26.5),-26.5,3.5,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757411472,2026-11-07T20:23:57+00:00,
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,spread,2 (+18.5),18.5,1.6451,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757411470,2026-11-07T20:23:57+00:00,
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,spread,1 (-30.5),-30.5,5.0,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757411474,2026-11-07T20:23:57+00:00,
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,spread,2 (+26.5),26.5,1.2667,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757411471,2026-11-07T20:23:57+00:00,
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,spread,2 (+28.5),28.5,1.1819,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757411467,2026-11-07T20:23:57+00:00,
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,spread,2 (+24.5),24.5,1.3334,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757411477,2026-11-07T20:23:57+00:00,
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,spread,1 (-24.5),-24.5,3.1,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757411478,2026-11-07T20:23:57+00:00,
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,spread,1 (-14.5),-14.5,1.7408,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757411479,2026-11-07T20:23:57+00:00,
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,spread,2 (+14.5),14.5,1.9524,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757411480,2026-11-07T20:23:57+00:00,
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,spread,2 (+27.5),27.5,1.2223,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757411481,2026-11-07T20:23:57+00:00,
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,spread,1 (-27.5),-27.5,4.0,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757411482,2026-11-07T20:23:57+00:00,
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,spread,2 (+25.5),25.5,1.2858,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757411483,2026-11-07T20:23:57+00:00,
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,spread,1 (-25.5),-25.5,3.4,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757411484,2026-11-07T20:23:57+00:00,
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,spread,2 (+20.5),20.5,1.5455,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757411485,2026-11-07T20:23:57+00:00,
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,spread,1 (-20.5),-20.5,2.35,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757411486,2026-11-07T20:23:57+00:00,
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,spread,2 (+23.5),23.5,1.3847,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757411487,2026-11-07T20:23:57+00:00,
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,spread,1 (-23.5),-23.5,2.85,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757411488,2026-11-07T20:23:57+00:00,
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,spread,2 (+22.5),22.5,1.4348,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757411489,2026-11-07T20:23:57+00:00,
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,spread,1 (-22.5),-22.5,2.65,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757411490,2026-11-07T20:23:57+00:00,
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,spread,2 (+29.5),29.5,1.1539,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757411491,2026-11-07T20:23:57+00:00,
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,spread,2 (+30.5),30.5,1.1429,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757411473,2026-11-07T20:23:57+00:00,
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,spread,2 (+17.5),17.5,1.7143,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4752305357,2026-11-07T20:23:57+00:00,
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,spread,1 (-17.5),-17.5,2.0,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4752305358,2026-11-07T20:23:57+00:00,
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,spread,2 (+7.5),7.5,2.9,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757411461,2026-11-07T20:23:57+00:00,
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,spread,1 (-29.5),-29.5,4.75,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757411664,2026-11-07T20:23:57+00:00,
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,spread,1 (-15.5),-15.5,1.8,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757411665,2026-11-07T20:23:57+00:00,
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,spread,2 (+15.5),15.5,1.8696,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757411666,2026-11-07T20:23:57+00:00,
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,spread,2 (+10.5),10.5,2.5,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757411667,2026-11-07T20:23:57+00:00,
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,spread,1 (-10.5),-10.5,1.5,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757411668,2026-11-07T20:23:57+00:00,
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,spread,1 (-13.5),-13.5,1.6451,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757411669,2026-11-07T20:23:57+00:00,
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,spread,2 (+13.5),13.5,2.15,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757411670,2026-11-07T20:23:57+00:00,
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,spread,1 (-12.5),-12.5,1.5715,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757411671,2026-11-07T20:23:57+00:00,
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,spread,2 (+12.5),12.5,2.25,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757411672,2026-11-07T20:23:57+00:00,
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,spread,1 (-19.5),-19.5,2.25,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757411673,2026-11-07T20:23:57+00:00,
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,spread,2 (+19.5),19.5,1.5715,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757411674,2026-11-07T20:23:57+00:00,
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,spread,1 (-11.5),-11.5,1.5455,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757411445,2026-11-07T20:23:57+00:00,
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,spread,2 (+11.5),11.5,2.35,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757411446,2026-11-07T20:23:57+00:00,
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,spread,1 (-31.5),-31.5,6.0,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757411447,2026-11-07T20:23:57+00:00,
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,spread,2 (+31.5),31.5,1.1112,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757411448,2026-11-07T20:23:57+00:00,
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,spread,1 (-21.5),-21.5,2.55,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757411449,2026-11-07T20:23:57+00:00,
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,spread,2 (+21.5),21.5,1.4762,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757411450,2026-11-07T20:23:57+00:00,
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,spread,1 (-2.5),-2.5,1.1429,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757411451,2026-11-07T20:23:57+00:00,
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,spread,2 (+2.5),2.5,5.0,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757411452,2026-11-07T20:23:57+00:00,
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,spread,1 (-8.5),-8.5,1.4,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757411453,2026-11-07T20:23:57+00:00,
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,spread,2 (+8.5),8.5,2.75,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757411454,2026-11-07T20:23:57+00:00,
-Texas Tech Red Raiders vs. West Virginia Mountaineers,Texas Tech Red Raiders vs West Virginia Mountaineers,spread,2 (+9.5),9.5,2.65,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757411455,2026-11-07T20:23:57+00:00,
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,spread,2 (-8.5),-8.5,6.0,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757409920,2026-11-07T20:23:57+00:00,
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,spread,2 (+19.5),19.5,1.05,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757409902,2026-11-07T20:23:57+00:00,
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,spread,2 (+15.5),15.5,1.125,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757409878,2026-11-07T20:23:57+00:00,
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,spread,2 (+7.5),7.5,1.4167,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4753192507,2026-11-07T20:23:57+00:00,
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,spread,1 (-7.5),-7.5,2.7,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4753192508,2026-11-07T20:23:57+00:00,
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,spread,2 (+17.5),17.5,1.0834,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757409886,2026-11-07T20:23:57+00:00,
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,spread,2 (+16.5),16.5,1.1112,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757409881,2026-11-07T20:23:57+00:00,
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,spread,2 (-10.5),-10.5,7.5,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4774052162,2026-11-07T20:23:57+00:00,
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,spread,1 (+10.5),10.5,1.0715,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4774052163,2026-11-07T20:23:57+00:00,
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,spread,1 (-6.5),-6.5,2.35,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757409869,2026-11-07T20:23:57+00:00,
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,spread,1 (+11.5),11.5,1.05,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4780177998,2026-11-07T20:23:57+00:00,
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,spread,1 (-8.5),-8.5,2.9,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4752474446,2026-11-07T20:23:57+00:00,
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,spread,1 (-1.5),-1.5,1.5715,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757409872,2026-11-07T20:23:57+00:00,
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,spread,1 (-10.5),-10.5,3.5,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757409873,2026-11-07T20:23:57+00:00,
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,spread,2 (-11.5),-11.5,8.5,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4780177997,2026-11-07T20:23:57+00:00,
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,spread,2 (+1.5),1.5,2.25,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757409871,2026-11-07T20:23:57+00:00,
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,spread,2 (+6.5),6.5,1.5455,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757409870,2026-11-07T20:23:57+00:00,
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,spread,1 (-15.5),-15.5,5.5,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757409877,2026-11-07T20:23:57+00:00,
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,spread,2 (+8.5),8.5,1.3637,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4752474445,2026-11-07T20:23:57+00:00,
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,spread,1 (+7.5),7.5,1.125,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757409879,2026-11-07T20:23:57+00:00,
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,spread,2 (-7.5),-7.5,5.5,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757409880,2026-11-07T20:23:57+00:00,
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,spread,2 (+10.5),10.5,1.2667,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757409874,2026-11-07T20:23:57+00:00,
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,spread,1 (-16.5),-16.5,6.0,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757409882,2026-11-07T20:23:57+00:00,
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,spread,1 (-14.5),-14.5,5.0,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757409883,2026-11-07T20:23:57+00:00,
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,spread,2 (-4.5),-4.5,3.7,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757409912,2026-11-07T20:23:57+00:00,
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,spread,1 (-17.5),-17.5,7.0,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757409885,2026-11-07T20:23:57+00:00,
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,spread,2 (+14.5),14.5,1.1429,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757409884,2026-11-07T20:23:57+00:00,
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,spread,1 (-12.5),-12.5,4.0,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757409887,2026-11-07T20:23:57+00:00,
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,spread,2 (+12.5),12.5,1.2223,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757409888,2026-11-07T20:23:57+00:00,
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,spread,2 (+9.5),9.5,1.3334,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757409889,2026-11-07T20:23:57+00:00,
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,spread,1 (-9.5),-9.5,3.1,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757409890,2026-11-07T20:23:57+00:00,
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,spread,2 (+13.5),13.5,1.1819,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757409891,2026-11-07T20:23:57+00:00,
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,spread,1 (-13.5),-13.5,4.4,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757409892,2026-11-07T20:23:57+00:00,
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,spread,1 (-11.5),-11.5,3.75,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757409893,2026-11-07T20:23:57+00:00,
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,spread,2 (-2.5),-2.5,2.7,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757409914,2026-11-07T20:23:57+00:00,
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,spread,1 (-18.5),-18.5,8.0,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757409895,2026-11-07T20:23:57+00:00,
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,spread,2 (+11.5),11.5,1.2353,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757409894,2026-11-07T20:23:57+00:00,
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,spread,2 (+3.5),3.5,1.8,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757409897,2026-11-07T20:23:57+00:00,
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,spread,1 (-3.5),-3.5,1.8696,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757409898,2026-11-07T20:23:57+00:00,
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,spread,2 (+5.5),5.5,1.625,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757409899,2026-11-07T20:23:57+00:00,
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,spread,1 (-5.5),-5.5,2.2,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757409900,2026-11-07T20:23:57+00:00,
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,spread,1 (-19.5),-19.5,8.5,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757409901,2026-11-07T20:23:57+00:00,
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,spread,2 (+18.5),18.5,1.0625,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757409896,2026-11-07T20:23:57+00:00,
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,spread,2 (+2.5),2.5,2.1,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757409903,2026-11-07T20:23:57+00:00,
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,spread,1 (-2.5),-2.5,1.6667,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757409904,2026-11-07T20:23:57+00:00,
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,spread,2 (+4.5),4.5,1.6897,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757409905,2026-11-07T20:23:57+00:00,
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,spread,1 (-4.5),-4.5,2.05,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757409906,2026-11-07T20:23:57+00:00,
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,spread,1 (+1.5),1.5,1.4762,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757409907,2026-11-07T20:23:57+00:00,
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,spread,2 (-1.5),-1.5,2.55,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757409908,2026-11-07T20:23:57+00:00,
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,spread,1 (+9.5),9.5,1.1,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757528309,2026-11-07T20:23:57+00:00,
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,spread,1 (+6.5),6.5,1.1819,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757409909,2026-11-07T20:23:57+00:00,
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,spread,1 (+4.5),4.5,1.25,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757409911,2026-11-07T20:23:57+00:00,
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,spread,2 (-9.5),-9.5,6.5,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757528310,2026-11-07T20:23:57+00:00,
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,spread,1 (+2.5),2.5,1.4167,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757409913,2026-11-07T20:23:57+00:00,
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,spread,2 (-6.5),-6.5,4.4,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757409910,2026-11-07T20:23:57+00:00,
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,spread,1 (+5.5),5.5,1.2223,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757409915,2026-11-07T20:23:57+00:00,
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,spread,2 (-5.5),-5.5,4.0,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757409916,2026-11-07T20:23:57+00:00,
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,spread,1 (+3.5),3.5,1.3031,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757409917,2026-11-07T20:23:57+00:00,
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,spread,2 (-3.5),-3.5,3.25,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757409918,2026-11-07T20:23:57+00:00,
-UNLV Rebels vs. Wyoming Cowboys,UNLV Rebels vs Wyoming Cowboys,spread,1 (+8.5),8.5,1.1112,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4757409919,2026-11-07T20:23:57+00:00,
+Ohio State Buckeyes vs. Northwestern Wildcats,Ohio State Buckeyes vs Northwestern Wildcats,total,Moins de 48.5,48.5,1.8696,47.5,1.0,48.5,1.793,0.5297665879884605,1.8876237623762375,-0.9548387096774191,EXACT_ALT,48.5,1.793,0.5297665879884605,1.8876237623762375,-0.9548387096774191,1.0,4781299110,2026-11-09T13:30:10+00:00,1.0
+UCLA Bruins vs. Illinois Fighting Illini,UCLA Bruins vs Illinois Fighting Illini,total,Moins de 47.5,47.5,1.8334,46.5,1.0,47.5,1.763,0.538843839916296,1.855825242718447,-1.2083703897462938,EXACT_ALT,47.5,1.763,0.538843839916296,1.855825242718447,-1.2083703897462938,1.0,4776122328,2026-11-09T13:30:10+00:00,1.0
+Miami Redhawks vs. Ohio Bobcats,Miami Ohio RedHawks vs Ohio Bobcats,total,Plus de 47.5,47.5,1.8334,48.5,1.0,47.5,1.787,0.53183128111082,1.880295566502463,-2.4940529211422646,EXACT_ALT,47.5,1.787,0.53183128111082,1.880295566502463,-2.4940529211422646,1.0,4788206682,2026-11-09T13:30:10+00:00,1.0
+BYU Cougars vs. Baylor Bears,BYU Cougars vs Baylor Bears,total,Plus de 47.5,47.5,1.8,48.5,1.0,47.5,1.763,0.538843839916296,1.855825242718447,-3.0081088150667123,EXACT_ALT,47.5,1.763,0.538843839916296,1.855825242718447,-3.0081088150667123,1.0,4777684277,2026-11-09T13:30:10+00:00,1.0
+Toledo Rockets vs. UMass Minutemen,Toledo Rockets vs UMASS Minutemen,total,Moins de 53.5,53.5,1.8334,52.5,1.0,53.5,1.8,0.5287958115183247,1.8910891089108908,-3.050575916230358,EXACT_ALT,53.5,1.8,0.5287958115183247,1.8910891089108908,-3.050575916230358,1.0,4788220306,2026-11-09T13:30:10+00:00,1.0
+Ball State Cardinals vs. Buffalo Bulls,Ball State Cardinals vs Buffalo Bulls,total,Moins de 51.5,51.5,1.8334,51.0,0.5,51.5,1.833,0.51801209571391,1.9304568527918782,-5.027662371811736,EXACT_ALT,51.5,1.833,0.51801209571391,1.9304568527918782,-5.027662371811736,0.5,4788225189,2026-11-09T13:30:10+00:00,0.5
+LSU Tigers vs. Texas Longhorns,LSU Tigers vs Texas Longhorns,total,Moins de 46.5,46.5,1.8334,46.0,0.5,46.5,1.833,0.51801209571391,1.9304568527918782,-5.027662371811736,EXACT_ALT,46.5,1.833,0.51801209571391,1.9304568527918782,-5.027662371811736,0.5,4395053800,2026-11-09T13:30:10+00:00,0.5
+Bowling Green Falcons vs. Kent St Golden Flashes,Bowling Green Falcons vs Kent State Golden Flashes,total,Plus de 44.5,44.5,1.8334,45.0,0.5,44.5,1.84,0.5159168639831623,1.9382967873533914,-5.411802157327028,EXACT_ALT,44.5,1.84,0.5159168639831623,1.9382967873533914,-5.411802157327028,0.5,4788079521,2026-11-09T13:30:10+00:00,0.5
+Central Mich Chippewas vs. Sacramento State Hornets,Central Michigan Chippewas vs Sacramento State Hornets,total,Moins de 44.5,44.5,1.8334,44.0,0.5,44.5,1.84,0.5159168639831623,1.9382967873533914,-5.411802157327028,EXACT_ALT,44.5,1.84,0.5159168639831623,1.9382967873533914,-5.411802157327028,0.5,4788248655,2026-11-09T13:30:10+00:00,0.5
+GEORGIE BULLDOGS vs. Missouri Tigers,Georgia Bulldogs vs Missouri Tigers,total,Plus de 46.5,46.5,1.8334,47.0,0.5,46.5,1.847,0.514968487394958,1.941866394696583,-5.585677521008392,EXACT_ALT,46.5,1.847,0.514968487394958,1.941866394696583,-5.585677521008392,0.5,4777241245,2026-11-09T13:30:10+00:00,0.5
+Indiana Hoosiers vs. USC Trojans,Indiana Hoosiers vs USC Trojans,total,Plus de 49.5,49.5,1.8334,49.5,0.0,49.5,1.917,0.5,2.0,-8.330000000000004,EXACT_MAIN,49.5,1.917,0.5,2.0,-8.330000000000004,0.0,4788247052,2026-11-09T13:30:10+00:00,0.0
+Indiana Hoosiers vs. USC Trojans,Indiana Hoosiers vs USC Trojans,total,Moins de 49.5,49.5,1.8334,49.5,0.0,49.5,1.917,0.5,2.0,-8.330000000000004,EXACT_MAIN,49.5,1.917,0.5,2.0,-8.330000000000004,0.0,4788247053,2026-11-09T13:30:10+00:00,0.0
+GEORGIE BULLDOGS vs. Missouri Tigers,Georgia Bulldogs vs Missouri Tigers,total,Moins de 46.5,46.5,1.8334,47.0,-0.5,46.5,1.961,0.485031512605042,2.0617217108825123,-11.074322478991604,EXACT_ALT,46.5,1.961,0.485031512605042,2.0617217108825123,-11.074322478991604,-0.5,4777241246,2026-11-09T13:30:10+00:00,0.5
+Bowling Green Falcons vs. Kent St Golden Flashes,Bowling Green Falcons vs Kent State Golden Flashes,total,Moins de 44.5,44.5,1.8334,45.0,-0.5,44.5,1.961,0.48408313601683767,2.065760869565217,-11.24819784267299,EXACT_ALT,44.5,1.961,0.48408313601683767,2.065760869565217,-11.24819784267299,-0.5,4788079520,2026-11-09T13:30:10+00:00,0.5
+Central Mich Chippewas vs. Sacramento State Hornets,Central Michigan Chippewas vs Sacramento State Hornets,total,Plus de 44.5,44.5,1.8334,44.0,-0.5,44.5,1.961,0.48408313601683767,2.065760869565217,-11.24819784267299,EXACT_ALT,44.5,1.961,0.48408313601683767,2.065760869565217,-11.24819784267299,-0.5,4788248654,2026-11-09T13:30:10+00:00,0.5
+Ball State Cardinals vs. Buffalo Bulls,Ball State Cardinals vs Buffalo Bulls,total,Plus de 51.5,51.5,1.8334,51.0,-0.5,51.5,1.97,0.4819879042860899,2.0747408619749046,-11.632337628188283,EXACT_ALT,51.5,1.97,0.4819879042860899,2.0747408619749046,-11.632337628188283,-0.5,4788225188,2026-11-09T13:30:10+00:00,0.5
+LSU Tigers vs. Texas Longhorns,LSU Tigers vs Texas Longhorns,total,Plus de 46.5,46.5,1.8334,46.0,-0.5,46.5,1.97,0.4819879042860899,2.0747408619749046,-11.632337628188283,EXACT_ALT,46.5,1.97,0.4819879042860899,2.0747408619749046,-11.632337628188283,-0.5,4395053799,2026-11-09T13:30:10+00:00,0.5
+Toledo Rockets vs. UMass Minutemen,Toledo Rockets vs UMASS Minutemen,total,Plus de 53.5,53.5,1.8334,52.5,-1.0,53.5,2.02,0.4712041884816754,2.1222222222222222,-13.609424083769639,EXACT_ALT,53.5,2.02,0.4712041884816754,2.1222222222222222,-13.609424083769639,-1.0,4788220305,2026-11-09T13:30:10+00:00,1.0
+BYU Cougars vs. Baylor Bears,BYU Cougars vs Baylor Bears,total,Moins de 47.5,47.5,1.8696,48.5,-1.0,47.5,2.06,0.4611561600837038,2.1684628474191725,-13.782244310750736,EXACT_ALT,47.5,2.06,0.4611561600837038,2.1684628474191725,-13.782244310750736,-1.0,4777684278,2026-11-09T13:30:10+00:00,1.0
+Miami Redhawks vs. Ohio Bobcats,Miami Ohio RedHawks vs Ohio Bobcats,total,Moins de 47.5,47.5,1.8334,48.5,-1.0,47.5,2.03,0.46816871888918005,2.1359820928931166,-14.165947078857732,EXACT_ALT,47.5,2.03,0.46816871888918005,2.1359820928931166,-14.165947078857732,-1.0,4788206681,2026-11-09T13:30:10+00:00,1.0
+Ohio State Buckeyes vs. Northwestern Wildcats,Ohio State Buckeyes vs Northwestern Wildcats,total,Plus de 48.5,48.5,1.8,47.5,-1.0,48.5,2.02,0.4702334120115395,2.126603457891801,-15.357985837922882,EXACT_ALT,48.5,2.02,0.4702334120115395,2.126603457891801,-15.357985837922882,-1.0,4781299109,2026-11-09T13:30:10+00:00,1.0
+UCLA Bruins vs. Illinois Fighting Illini,UCLA Bruins vs Illinois Fighting Illini,total,Plus de 47.5,47.5,1.8334,46.5,-1.0,47.5,2.06,0.4611561600837038,2.1684628474191725,-15.451629610253747,EXACT_ALT,47.5,2.06,0.4611561600837038,2.1684628474191725,-15.451629610253747,-1.0,4776122329,2026-11-09T13:30:10+00:00,1.0
+Oregon Ducks vs. Michigan Wolverines,Oregon Ducks vs Michigan Wolverines,total,Plus de 44.5,44.5,1.8334,39.0,-5.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-5.5,4395047560,2026-11-09T13:30:10+00:00,5.5
+Oregon Ducks vs. Michigan Wolverines,Oregon Ducks vs Michigan Wolverines,total,Moins de 44.5,44.5,1.8334,39.0,5.5,,,,,,NO_EXACT_PIN_LINE,,,,,,5.5,4395047561,2026-11-09T13:30:10+00:00,5.5
+SMU Mustangs vs. Wake Forest Demon Deacons,SMU Mustangs vs Wake Forest Demon Deacons,total,Plus de 56.5,56.5,1.8334,61.0,4.5,,,,,,NO_EXACT_PIN_LINE,,,,,,4.5,4777685580,2026-11-09T13:30:10+00:00,4.5
+SMU Mustangs vs. Wake Forest Demon Deacons,SMU Mustangs vs Wake Forest Demon Deacons,total,Moins de 56.5,56.5,1.8334,61.0,-4.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-4.5,4777685581,2026-11-09T13:30:10+00:00,4.5
+Boise State Broncos vs. Oregon State Beavers,Boise State Broncos vs Oregon State Beavers,total,Plus de 63.5,63.5,1.8334,66.5,3.0,,,,,,NO_EXACT_PIN_LINE,,,,,,3.0,4777383441,2026-11-09T13:30:10+00:00,3.0
+Boise State Broncos vs. Oregon State Beavers,Boise State Broncos vs Oregon State Beavers,total,Moins de 63.5,63.5,1.8334,66.5,-3.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-3.0,4777383442,2026-11-09T13:30:10+00:00,3.0
+Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,total,Plus de 51.5,51.5,1.8696,54.0,2.5,,,,,,NO_EXACT_PIN_LINE,,,,,,2.5,4775832974,2026-11-09T13:30:10+00:00,2.5
+Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,total,Moins de 51.5,51.5,1.8,54.0,-2.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-2.5,4775832975,2026-11-09T13:30:10+00:00,2.5
+Kentucky Wildcats vs. Florida Gators,Kentucky Wildcats vs Florida Gators,total,Plus de 54.5,54.5,1.8,52.0,-2.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-2.5,4786911974,2026-11-09T13:30:10+00:00,2.5
+Kentucky Wildcats vs. Florida Gators,Kentucky Wildcats vs Florida Gators,total,Moins de 54.5,54.5,1.8696,52.0,2.5,,,,,,NO_EXACT_PIN_LINE,,,,,,2.5,4786911975,2026-11-09T13:30:10+00:00,2.5
+Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,spread,1 (+1.5),1.5,1.8,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4775832181,2026-11-09T13:30:10+00:00,
+Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,spread,2 (-1.5),-1.5,1.8696,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4775832182,2026-11-09T13:30:10+00:00,
+Ball State Cardinals vs. Buffalo Bulls,Ball State Cardinals vs Buffalo Bulls,spread,1 (+3.0),3.0,1.8334,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4788225190,2026-11-09T13:30:10+00:00,
+Ball State Cardinals vs. Buffalo Bulls,Ball State Cardinals vs Buffalo Bulls,spread,2 (-3.0),-3.0,1.8334,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4788225191,2026-11-09T13:30:10+00:00,
+BYU Cougars vs. Baylor Bears,BYU Cougars vs Baylor Bears,spread,1 (-7.5),-7.5,1.9091,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4777684230,2026-11-09T13:30:10+00:00,
+BYU Cougars vs. Baylor Bears,BYU Cougars vs Baylor Bears,spread,2 (+7.5),7.5,1.7693,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4777684231,2026-11-09T13:30:10+00:00,
+Boise State Broncos vs. Oregon State Beavers,Boise State Broncos vs Oregon State Beavers,spread,1 (-5.5),-5.5,1.8696,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4776409033,2026-11-09T13:30:10+00:00,
+Boise State Broncos vs. Oregon State Beavers,Boise State Broncos vs Oregon State Beavers,spread,2 (+5.5),5.5,1.8,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4776409034,2026-11-09T13:30:10+00:00,
+Bowling Green Falcons vs. Kent St Golden Flashes,Bowling Green Falcons vs Kent State Golden Flashes,spread,2 (+5.5),5.5,1.8334,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4788079522,2026-11-09T13:30:10+00:00,
+Bowling Green Falcons vs. Kent St Golden Flashes,Bowling Green Falcons vs Kent State Golden Flashes,spread,1 (-5.5),-5.5,1.8334,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4788079523,2026-11-09T13:30:10+00:00,
+Central Mich Chippewas vs. Sacramento State Hornets,Central Michigan Chippewas vs Sacramento State Hornets,spread,1 (-15.5),-15.5,1.8334,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4788248652,2026-11-09T13:30:10+00:00,
+Central Mich Chippewas vs. Sacramento State Hornets,Central Michigan Chippewas vs Sacramento State Hornets,spread,2 (+15.5),15.5,1.8334,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4788248653,2026-11-09T13:30:10+00:00,
+Kentucky Wildcats vs. Florida Gators,Kentucky Wildcats vs Florida Gators,spread,1 (-1.5),-1.5,1.8,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4777231650,2026-11-09T13:30:10+00:00,
+Kentucky Wildcats vs. Florida Gators,Kentucky Wildcats vs Florida Gators,spread,2 (+1.5),1.5,1.8696,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4777231651,2026-11-09T13:30:10+00:00,
+GEORGIE BULLDOGS vs. Missouri Tigers,Georgia Bulldogs vs Missouri Tigers,spread,1 (-12.5),-12.5,1.8334,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4779334294,2026-11-09T13:30:10+00:00,
+GEORGIE BULLDOGS vs. Missouri Tigers,Georgia Bulldogs vs Missouri Tigers,spread,2 (+12.5),12.5,1.8334,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4779334295,2026-11-09T13:30:10+00:00,
+UCLA Bruins vs. Illinois Fighting Illini,UCLA Bruins vs Illinois Fighting Illini,spread,2 (+9.5),9.5,1.8696,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4788272213,2026-11-09T13:30:10+00:00,
+UCLA Bruins vs. Illinois Fighting Illini,UCLA Bruins vs Illinois Fighting Illini,spread,1 (-9.5),-9.5,1.8,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4788272214,2026-11-09T13:30:10+00:00,
+Indiana Hoosiers vs. USC Trojans,Indiana Hoosiers vs USC Trojans,spread,2 (+7.0),7.0,1.8696,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4770402418,2026-11-09T13:30:10+00:00,
+Indiana Hoosiers vs. USC Trojans,Indiana Hoosiers vs USC Trojans,spread,1 (-7.0),-7.0,1.8,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4770402419,2026-11-09T13:30:10+00:00,
+LSU Tigers vs. Texas Longhorns,LSU Tigers vs Texas Longhorns,spread,1 (-5.5),-5.5,1.8334,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4395054513,2026-11-09T13:30:10+00:00,
+LSU Tigers vs. Texas Longhorns,LSU Tigers vs Texas Longhorns,spread,2 (+5.5),5.5,1.8334,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4395054514,2026-11-09T13:30:10+00:00,
+Miami Redhawks vs. Ohio Bobcats,Miami Ohio RedHawks vs Ohio Bobcats,spread,1 (-1.5),-1.5,1.8334,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4788206683,2026-11-09T13:30:10+00:00,
+Miami Redhawks vs. Ohio Bobcats,Miami Ohio RedHawks vs Ohio Bobcats,spread,2 (+1.5),1.5,1.8334,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4788206684,2026-11-09T13:30:10+00:00,
+Oregon Ducks vs. Michigan Wolverines,Oregon Ducks vs Michigan Wolverines,spread,1 (-5.5),-5.5,1.8334,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4395047540,2026-11-09T13:30:10+00:00,
+Oregon Ducks vs. Michigan Wolverines,Oregon Ducks vs Michigan Wolverines,spread,2 (+5.5),5.5,1.8334,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4395047541,2026-11-09T13:30:10+00:00,
+Ohio State Buckeyes vs. Northwestern Wildcats,Ohio State Buckeyes vs Northwestern Wildcats,spread,2 (+10.5),10.5,1.8334,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4781483640,2026-11-09T13:30:10+00:00,
+Ohio State Buckeyes vs. Northwestern Wildcats,Ohio State Buckeyes vs Northwestern Wildcats,spread,1 (-10.5),-10.5,1.8334,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4781483639,2026-11-09T13:30:10+00:00,
+SMU Mustangs vs. Wake Forest Demon Deacons,SMU Mustangs vs Wake Forest Demon Deacons,spread,1 (+3.5),3.5,1.7693,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4777685222,2026-11-09T13:30:10+00:00,
+SMU Mustangs vs. Wake Forest Demon Deacons,SMU Mustangs vs Wake Forest Demon Deacons,spread,2 (-3.5),-3.5,1.9091,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4777685223,2026-11-09T13:30:10+00:00,
+Toledo Rockets vs. UMass Minutemen,Toledo Rockets vs UMASS Minutemen,spread,1 (-14.0),-14.0,1.8334,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4788220329,2026-11-09T13:30:10+00:00,
+Toledo Rockets vs. UMass Minutemen,Toledo Rockets vs UMASS Minutemen,spread,2 (+14.0),14.0,1.8334,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4788220330,2026-11-09T13:30:10+00:00,

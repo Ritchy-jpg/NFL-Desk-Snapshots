@@ -1,18 +1,18 @@
 {
-  "observed_at": "2026-11-10T02:38:24.547572+00:00",
+  "observed_at": "2026-11-10T02:49:23.442488+00:00",
   "expected_events": 14,
   "successful_events": 14,
   "events": [
     {
       "event_id": 16564440,
       "match": "NY Giants vs. WAS Commanders",
-      "prop_selections": 1496,
-      "players": 27,
-      "prop_markets": 464,
+      "prop_selections": 1489,
+      "players": 28,
+      "prop_markets": 461,
       "main_selections": 90,
-      "raw_child_markets": 616,
-      "raw_named_child_markets": 569,
-      "raw_odds": 2880,
+      "raw_child_markets": 614,
+      "raw_named_child_markets": 567,
+      "raw_odds": 2873,
       "props_status": "PARSED"
     },
     {
@@ -24,7 +24,7 @@
       "main_selections": 8,
       "raw_child_markets": 100,
       "raw_named_child_markets": 89,
-      "raw_odds": 865,
+      "raw_odds": 895,
       "props_status": "PARSED"
     },
     {
@@ -172,7 +172,7 @@
       "props_status": "PARSED"
     }
   ],
-  "props": 2617,
+  "props": 2610,
   "main_contracts": 298,
   "complete": true,
   "completeness_scope": "events returned by GP GetEvents; not website or NFL schedule completeness"

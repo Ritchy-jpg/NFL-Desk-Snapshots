@@ -1,6 +1,9 @@
 name: Polymarket public API smoke test
 on:
   workflow_dispatch:
+  push:
+    branches:
+      - feature/polymarket-readonly-v1
   pull_request:
     paths:
       - 'polymarket_readonly.py'

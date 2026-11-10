@@ -1,30 +1,30 @@
 {
-  "observed_at": "2026-11-10T02:49:23.442488+00:00",
+  "observed_at": "2026-11-10T05:19:20.678866+00:00",
   "expected_events": 14,
   "successful_events": 14,
   "events": [
     {
       "event_id": 16564440,
       "match": "NY Giants vs. WAS Commanders",
-      "prop_selections": 1489,
-      "players": 28,
-      "prop_markets": 461,
+      "prop_selections": 1490,
+      "players": 27,
+      "prop_markets": 464,
       "main_selections": 90,
-      "raw_child_markets": 614,
-      "raw_named_child_markets": 567,
-      "raw_odds": 2873,
+      "raw_child_markets": 616,
+      "raw_named_child_markets": 569,
+      "raw_odds": 2872,
       "props_status": "PARSED"
     },
     {
       "event_id": 16503490,
       "match": "DET Lions vs. NE Patriots",
-      "prop_selections": 303,
+      "prop_selections": 302,
       "players": 8,
       "prop_markets": 67,
       "main_selections": 8,
       "raw_child_markets": 100,
       "raw_named_child_markets": 89,
-      "raw_odds": 895,
+      "raw_odds": 896,
       "props_status": "PARSED"
     },
     {
@@ -45,10 +45,10 @@
       "prop_selections": 0,
       "players": 0,
       "prop_markets": 0,
-      "main_selections": 70,
+      "main_selections": 6,
       "raw_child_markets": 0,
       "raw_named_child_markets": 0,
-      "raw_odds": 165,
+      "raw_odds": 34,
       "props_status": "NO_PLAYER_CHILD_MARKETS_RETURNED"
     },
     {
@@ -57,10 +57,10 @@
       "prop_selections": 0,
       "players": 0,
       "prop_markets": 0,
-      "main_selections": 70,
+      "main_selections": 6,
       "raw_child_markets": 0,
       "raw_named_child_markets": 0,
-      "raw_odds": 165,
+      "raw_odds": 37,
       "props_status": "NO_PLAYER_CHILD_MARKETS_RETURNED"
     },
     {
@@ -72,7 +72,7 @@
       "main_selections": 6,
       "raw_child_markets": 100,
       "raw_named_child_markets": 100,
-      "raw_odds": 442,
+      "raw_odds": 440,
       "props_status": "PARSED"
     },
     {
@@ -120,7 +120,7 @@
       "main_selections": 6,
       "raw_child_markets": 83,
       "raw_named_child_markets": 83,
-      "raw_odds": 382,
+      "raw_odds": 400,
       "props_status": "PARSED"
     },
     {
@@ -150,14 +150,14 @@
     {
       "event_id": 16767355,
       "match": "CIN Bengals vs. PIT Steelers",
-      "prop_selections": 0,
-      "players": 0,
-      "prop_markets": 0,
+      "prop_selections": 182,
+      "players": 15,
+      "prop_markets": 91,
       "main_selections": 6,
-      "raw_child_markets": 0,
-      "raw_named_child_markets": 0,
-      "raw_odds": 101,
-      "props_status": "NO_PLAYER_CHILD_MARKETS_RETURNED"
+      "raw_child_markets": 133,
+      "raw_named_child_markets": 133,
+      "raw_odds": 523,
+      "props_status": "PARSED"
     },
     {
       "event_id": 16768117,
@@ -172,8 +172,8 @@
       "props_status": "PARSED"
     }
   ],
-  "props": 2610,
-  "main_contracts": 298,
+  "props": 2792,
+  "main_contracts": 170,
   "complete": true,
   "completeness_scope": "events returned by GP GetEvents; not website or NFL schedule completeness"
 }

@@ -30,9 +30,18 @@ def compare(poly, sharp):
         r["pinnacle_outcome_odds"] = s["pinnacle_outcome_odds"]
         r["pinnacle_opposite_odds"] = s["pinnacle_opposite_odds"]
         r["pinnacle_verified_at_utc"] = s["verified_at_utc"]
+        # Reject historical or non-synchronous comparisons as actionable signals.
+        try:
+            poly_time = datetime.fromisoformat(str(p.get("captured_at_utc", "")).replace("Z", "+00:00"))
+            sharp_time = datetime.fromisoformat(str(s["verified_at_utc"]).replace("Z", "+00:00"))
+            age_seconds = abs((poly_time - sharp_time).total_seconds())
+        except (ValueError, TypeError):
+            age_seconds = float("inf")
         a, b = num(s["pinnacle_outcome_odds"]), num(s["pinnacle_opposite_odds"])
         ask = num(p.get("best_ask"))
-        if not a or not b or a <= 1 or b <= 1:
+        if age_seconds > 300:
+            r["decision"] = "PASS_STALE_SHARP_SNAPSHOT"
+        elif not a or not b or a <= 1 or b <= 1:
             r["decision"] = "PASS_INVALID_SHARP"
         elif not ask or not 0 < ask < 1:
             r["decision"] = "PASS_NO_ASK"

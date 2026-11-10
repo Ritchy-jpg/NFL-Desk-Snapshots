@@ -1,0 +1,35 @@
+name: Polymarket public API smoke test
+on:
+  workflow_dispatch:
+  pull_request:
+    paths:
+      - 'polymarket_readonly.py'
+      - 'requirements-polymarket.txt'
+      - 'tests/test_polymarket_readonly.py'
+      - 'polymarket_probe.py'
+      - '.github/workflows/polymarket-smoke.yml'
+jobs:
+  smoke:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: python -m pip install -r requirements-polymarket.txt
+      - run: python -m unittest discover -s tests -p 'test_polymarket_readonly.py'
+      - name: Gamma and CLOB public connectivity
+        run: python polymarket_probe.py --output polymarket_probe.json
+      - name: SDK discovery
+        run: python polymarket_readonly.py --max-markets 100 --output polymarket_snapshot.json
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: polymarket-smoke-results
+          path: |
+            polymarket_probe.json
+            polymarket_snapshot.json
+          if-no-files-found: ignore

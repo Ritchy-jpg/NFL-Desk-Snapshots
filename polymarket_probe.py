@@ -53,6 +53,16 @@ def run(max_pages, page_size):
     report = {"captured_at_utc": datetime.now(timezone.utc).isoformat(),
               "read_only": True, "events_scanned": 0, "scan_complete": False,
               "matches": [], "status": "NO_VERIFIED_PRICE"}
+    report["search"] = {"queries": [], "errors": []}
+    for query in ("Kent State Bowling Green", "Kent State", "Bowling Green"):
+        try:
+            results = fetch(GAMMA, "/public-search", {"q": query, "limit_per_type": 100})
+            report["search"]["queries"].append({
+                "q": query,
+                "events": [{"id": e.get("id"), "title": e.get("title"), "slug": e.get("slug")}
+                           for e in results.get("events", [])]})
+        except (urllib.error.URLError, ValueError, KeyError) as error:
+            report["search"]["errors"].append({"q": query, "error": str(error)})
     for offset in range(0, max_pages * page_size, page_size):
         events = fetch(GAMMA, "/events",
                        {"closed": "false", "limit": page_size, "offset": offset})

@@ -1,42 +1,30 @@
 {
-  "observed_at": "2026-11-10T00:22:59.612799+00:00",
-  "expected_events": 15,
-  "successful_events": 15,
+  "observed_at": "2026-11-10T02:38:24.547572+00:00",
+  "expected_events": 14,
+  "successful_events": 14,
   "events": [
-    {
-      "event_id": 16552350,
-      "match": "MIN Vikings vs. BUF Bills",
-      "prop_selections": 1690,
-      "players": 55,
-      "prop_markets": 573,
-      "main_selections": 102,
-      "raw_child_markets": 738,
-      "raw_named_child_markets": 688,
-      "raw_odds": 3406,
-      "props_status": "PARSED"
-    },
     {
       "event_id": 16564440,
       "match": "NY Giants vs. WAS Commanders",
-      "prop_selections": 781,
-      "players": 28,
-      "prop_markets": 249,
+      "prop_selections": 1496,
+      "players": 27,
+      "prop_markets": 464,
       "main_selections": 90,
-      "raw_child_markets": 361,
-      "raw_named_child_markets": 314,
-      "raw_odds": 1920,
+      "raw_child_markets": 616,
+      "raw_named_child_markets": 569,
+      "raw_odds": 2880,
       "props_status": "PARSED"
     },
     {
       "event_id": 16503490,
       "match": "DET Lions vs. NE Patriots",
-      "prop_selections": 319,
-      "players": 9,
-      "prop_markets": 69,
+      "prop_selections": 303,
+      "players": 8,
+      "prop_markets": 67,
       "main_selections": 8,
-      "raw_child_markets": 110,
-      "raw_named_child_markets": 91,
-      "raw_odds": 907,
+      "raw_child_markets": 100,
+      "raw_named_child_markets": 89,
+      "raw_odds": 865,
       "props_status": "PARSED"
     },
     {
@@ -57,10 +45,10 @@
       "prop_selections": 0,
       "players": 0,
       "prop_markets": 0,
-      "main_selections": 6,
+      "main_selections": 70,
       "raw_child_markets": 0,
       "raw_named_child_markets": 0,
-      "raw_odds": 37,
+      "raw_odds": 165,
       "props_status": "NO_PLAYER_CHILD_MARKETS_RETURNED"
     },
     {
@@ -69,10 +57,10 @@
       "prop_selections": 0,
       "players": 0,
       "prop_markets": 0,
-      "main_selections": 6,
+      "main_selections": 70,
       "raw_child_markets": 0,
       "raw_named_child_markets": 0,
-      "raw_odds": 37,
+      "raw_odds": 165,
       "props_status": "NO_PLAYER_CHILD_MARKETS_RETURNED"
     },
     {
@@ -126,26 +114,26 @@
     {
       "event_id": 16564503,
       "match": "LV Raiders vs. SEA Seahawks",
-      "prop_selections": 0,
-      "players": 0,
-      "prop_markets": 0,
+      "prop_selections": 116,
+      "players": 12,
+      "prop_markets": 58,
       "main_selections": 6,
-      "raw_child_markets": 0,
-      "raw_named_child_markets": 0,
-      "raw_odds": 82,
-      "props_status": "NO_PLAYER_CHILD_MARKETS_RETURNED"
+      "raw_child_markets": 83,
+      "raw_named_child_markets": 83,
+      "raw_odds": 382,
+      "props_status": "PARSED"
     },
     {
       "event_id": 16564791,
       "match": "ARZ Cardinals vs. LA Rams",
-      "prop_selections": 0,
-      "players": 0,
-      "prop_markets": 0,
+      "prop_selections": 96,
+      "players": 9,
+      "prop_markets": 48,
       "main_selections": 6,
-      "raw_child_markets": 0,
-      "raw_named_child_markets": 0,
-      "raw_odds": 102,
-      "props_status": "NO_PLAYER_CHILD_MARKETS_RETURNED"
+      "raw_child_markets": 69,
+      "raw_named_child_markets": 69,
+      "raw_odds": 310,
+      "props_status": "PARSED"
     },
     {
       "event_id": 16564809,
@@ -177,15 +165,15 @@
       "prop_selections": 92,
       "players": 9,
       "prop_markets": 46,
-      "main_selections": 2,
+      "main_selections": 6,
       "raw_child_markets": 68,
       "raw_named_child_markets": 68,
-      "raw_odds": 339,
+      "raw_odds": 347,
       "props_status": "PARSED"
     }
   ],
-  "props": 3396,
-  "main_contracts": 268,
+  "props": 2617,
+  "main_contracts": 298,
   "complete": true,
   "completeness_scope": "events returned by GP GetEvents; not website or NFL schedule completeness"
 }

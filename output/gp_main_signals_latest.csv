@@ -1,7 +1,8 @@
 match,market,signal,old,new,old_side,new_side
 ARZ Cardinals vs. DEN Broncos,total,MAIN_LINE_MOVE,43.0,43.5,,
 ARZ Cardinals vs. DET Lions,total,MAIN_LINE_MOVE,54.0,55.0,,
-ARZ Cardinals vs. LA Rams,spread,MAIN_LINE_MOVE,-7.5,-7.0,2,2
+ARZ Cardinals vs. LA Rams,spread,MAIN_LINE_MOVE,-7.5,-9.5,2,2
+ARZ Cardinals vs. LA Rams,total,MAIN_LINE_MOVE,44.5,40.5,,
 ATL Falcons vs. BAL Ravens,total,MAIN_LINE_MOVE,43.5,44.0,,
 ATL Falcons vs. CHI Bears,spread,MAIN_LINE_MOVE,-3.5,-1.0,CHI Bears,CHI Bears
 ATL Falcons vs. CHI Bears,total,MAIN_LINE_MOVE,47.5,51.0,,
@@ -46,6 +47,7 @@ DAL Cowboys vs. ARZ Cardinals,spread,MAIN_LINE_MOVE,-6.0,-7.0,DAL Cowboys,DAL Co
 DAL Cowboys vs. ARZ Cardinals,total,MAIN_LINE_MOVE,52.5,54.5,,
 DAL Cowboys vs. BAL Ravens,spread,MAIN_LINE_MOVE,-2.5,-3.0,BAL Ravens,BAL Ravens
 DAL Cowboys vs. BAL Ravens,total,MAIN_LINE_MOVE,52.5,54.5,,
+DAL Cowboys vs. SF 49ers,spread,MAIN_LINE_MOVE,-4.5,-3.5,2,2
 DAL Cowboys vs. TB Buccaneers,total,MAIN_LINE_MOVE,47.0,49.5,,
 DEN Broncos vs. LA Rams,spread,MAIN_LINE_MOVE,-2.5,-1.0,LA Rams,LA Rams
 DEN Broncos vs. LA Rams,total,MAIN_LINE_MOVE,45.5,44.0,,
@@ -55,7 +57,6 @@ DET Lions vs. GB Packers,spread,MAIN_LINE_MOVE,-3.0,-3.5,DET Lions,DET Lions
 DET Lions vs. GB Packers,total,MAIN_LINE_MOVE,52.5,55.5,,
 DET Lions vs. MIN Vikings,spread,MAIN_LINE_MOVE,-3.0,-3.5,DET Lions,DET Lions
 DET Lions vs. MIN Vikings,total,MAIN_LINE_MOVE,46.5,46.0,,
-DET Lions vs. NE Patriots,spread,MAIN_LINE_MOVE,-2.5,-3.0,1,1
 DET Lions vs. NE Patriots,total,MAIN_LINE_MOVE,49.5,51.5,,
 DET Lions vs. NY Jets,total,MAIN_LINE_MOVE,48.0,49.0,,
 GB Packers vs. ATL Falcons,spread,MAIN_LINE_MOVE,-6.5,-4.5,GB Packers,GB Packers
@@ -97,6 +98,7 @@ LV Raiders vs. KC Chiefs,spread,MAIN_LINE_MOVE,-5.0,-4.0,KC Chiefs,KC Chiefs
 LV Raiders vs. KC Chiefs,total,MAIN_LINE_MOVE,45.5,47.5,,
 LV Raiders vs. LA Rams,spread,MAIN_LINE_MOVE,-4.5,-3.5,LA Rams,LA Rams
 LV Raiders vs. LA Rams,total,MAIN_LINE_MOVE,47.0,48.5,,
+LV Raiders vs. SEA Seahawks,spread,MAIN_LINE_MOVE,-3.0,-3.5,2,2
 MIA Dolphins vs. CIN Bengals,spread,MAIN_LINE_MOVE,-7.5,-7.0,CIN Bengals,CIN Bengals
 MIA Dolphins vs. CIN Bengals,total,MAIN_LINE_MOVE,42.5,44.5,,
 MIA Dolphins vs. DET Lions,spread,MAIN_LINE_MOVE,-7.0,-6.5,DET Lions,2
@@ -104,7 +106,6 @@ MIA Dolphins vs. DET Lions,total,MAIN_LINE_MOVE,49.5,50.0,,
 MIA Dolphins vs. KC Chiefs,spread,MAIN_LINE_MOVE,-10.5,-9.5,KC Chiefs,KC Chiefs
 MIA Dolphins vs. KC Chiefs,total,MAIN_LINE_MOVE,46.0,45.5,,
 MIA Dolphins vs. NE Patriots,total,MAIN_LINE_MOVE,44.5,41.5,,
-MIN Vikings vs. BUF Bills,total,MAIN_LINE_MOVE,45.5,45.0,,
 MIN Vikings vs. IND Colts,spread,MAIN_LINE_MOVE,-5.5,-6.5,MIN Vikings,MIN Vikings
 MIN Vikings vs. MIA Dolphins,spread,MAIN_LINE_MOVE,-10.5,-9.5,MIN Vikings,MIN Vikings
 MIN Vikings vs. MIA Dolphins,total,MAIN_LINE_MOVE,41.5,38.5,,
@@ -127,6 +128,8 @@ NY Giants vs. NO Saints,spread,MAIN_LINE_MOVE,-1.5,-1.0,NY Giants,NO Saints
 NY Giants vs. NO Saints,total,MAIN_LINE_MOVE,45.0,46.0,,
 NY Giants vs. TEN Titans,spread,MAIN_LINE_MOVE,-5.5,-2.5,NY Giants,NY Giants
 NY Giants vs. TEN Titans,total,MAIN_LINE_MOVE,43.0,37.5,,
+NY Giants vs. WAS Commanders,spread,MAIN_LINE_MOVE,-1.5,-2.5,1,1
+NY Jets vs. BUF Bills,total,MAIN_LINE_MOVE,50.5,51.5,,
 NY Jets vs. LV Raiders,spread,MAIN_LINE_MOVE,-1.0,-1.5,NY Jets,NY Jets
 NY Jets vs. LV Raiders,total,MAIN_LINE_MOVE,44.5,46.5,,
 NY Jets vs. MIA Dolphins,spread,MAIN_LINE_MOVE,-5.0,-4.0,NY Jets,NY Jets

@@ -65,12 +65,19 @@ def run(max_pages, page_size):
                            for e in results.get("events", [])]})
         except (urllib.error.URLError, ValueError, KeyError) as error:
             report["search"]["errors"].append({"q": query, "error": str(error)})
+    slug = "cfb-kentst-bowlgr-2026-11-10"
+    try:
+        direct_events = fetch(GAMMA, "/events", {"slug": slug})
+        report["direct_slug"] = {"slug": slug, "count": len(direct_events)}
+    except (urllib.error.URLError, ValueError, KeyError) as error:
+        direct_events = []
+        report["direct_slug"] = {"slug": slug, "error": str(error)}
     seen_ids = set()
     for offset in range(0, max_pages * page_size, page_size):
         events = fetch(GAMMA, "/events",
                        {"closed": "false", "limit": page_size, "offset": offset})
         report["events_scanned"] += len(events)
-        for event in events + (searched_events if offset == 0 else []):
+        for event in events + (searched_events + direct_events if offset == 0 else []):
             if str(event.get("id")) in seen_ids:
                 continue
             seen_ids.add(str(event.get("id")))
@@ -98,7 +105,7 @@ def run(max_pages, page_size):
         if len(events) < page_size:
             report["scan_complete"] = True
             break
-    print(json.dumps({"search": report["search"]}, ensure_ascii=False)[:9000])
+    print(json.dumps({"search": report["search"], "direct_slug": report["direct_slug"]}, ensure_ascii=False)[:9000])
     if report["matches"]:
         report["status"] = "BOOKS_CAPTURED_REVIEW_MARKET_RULES"
     return report

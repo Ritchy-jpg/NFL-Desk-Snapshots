@@ -10,6 +10,7 @@ on:
       - 'requirements-polymarket.txt'
       - 'tests/test_polymarket_readonly.py'
       - 'polymarket_probe.py'
+      - 'polymarket_quotes_export.py'
       - '.github/workflows/polymarket-smoke.yml'
 jobs:
   smoke:
@@ -26,6 +27,8 @@ jobs:
       - run: python -m unittest discover -s tests -p 'test_polymarket_readonly.py'
       - name: Gamma and CLOB public connectivity
         run: python polymarket_probe.py --output polymarket_probe.json
+      - name: Export NCAA CLOB quotes
+        run: python polymarket_quotes_export.py --input polymarket_probe.json --output polymarket_ncaa_quotes.csv
       - name: SDK discovery
         run: python polymarket_readonly.py --max-markets 100 --output polymarket_snapshot.json
       - uses: actions/upload-artifact@v4
@@ -34,5 +37,6 @@ jobs:
           name: polymarket-smoke-results
           path: |
             polymarket_probe.json
+            polymarket_ncaa_quotes.csv
             polymarket_snapshot.json
           if-no-files-found: ignore

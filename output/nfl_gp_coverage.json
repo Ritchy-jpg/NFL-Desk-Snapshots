@@ -1,18 +1,18 @@
 {
-  "observed_at": "2026-11-10T21:54:33.068527+00:00",
+  "observed_at": "2026-11-10T22:26:53.432715+00:00",
   "expected_events": 14,
   "successful_events": 14,
   "events": [
     {
       "event_id": 16564440,
       "match": "NY Giants vs. WAS Commanders",
-      "prop_selections": 1467,
+      "prop_selections": 1468,
       "players": 26,
       "prop_markets": 457,
       "main_selections": 90,
       "raw_child_markets": 596,
       "raw_named_child_markets": 559,
-      "raw_odds": 2844,
+      "raw_odds": 2845,
       "props_status": "PARSED"
     },
     {
@@ -24,31 +24,31 @@
       "main_selections": 8,
       "raw_child_markets": 202,
       "raw_named_child_markets": 189,
-      "raw_odds": 1219,
+      "raw_odds": 1218,
       "props_status": "PARSED"
     },
     {
       "event_id": 16564454,
       "match": "ATL Falcons vs. KC Chiefs",
-      "prop_selections": 322,
+      "prop_selections": 321,
       "players": 22,
       "prop_markets": 166,
       "main_selections": 6,
       "raw_child_markets": 216,
       "raw_named_child_markets": 216,
-      "raw_odds": 695,
+      "raw_odds": 693,
       "props_status": "PARSED"
     },
     {
       "event_id": 16564465,
       "match": "GB Packers vs. MIN Vikings",
-      "prop_selections": 316,
+      "prop_selections": 317,
       "players": 23,
       "prop_markets": 163,
       "main_selections": 6,
       "raw_child_markets": 213,
       "raw_named_child_markets": 213,
-      "raw_odds": 650,
+      "raw_odds": 652,
       "props_status": "PARSED"
     },
     {
@@ -72,7 +72,7 @@
       "main_selections": 6,
       "raw_child_markets": 235,
       "raw_named_child_markets": 235,
-      "raw_odds": 699,
+      "raw_odds": 700,
       "props_status": "PARSED"
     },
     {
@@ -84,7 +84,7 @@
       "main_selections": 6,
       "raw_child_markets": 239,
       "raw_named_child_markets": 239,
-      "raw_odds": 710,
+      "raw_odds": 719,
       "props_status": "PARSED"
     },
     {
@@ -114,13 +114,13 @@
     {
       "event_id": 16564503,
       "match": "LV Raiders vs. SEA Seahawks",
-      "prop_selections": 360,
+      "prop_selections": 352,
       "players": 26,
-      "prop_markets": 187,
+      "prop_markets": 184,
       "main_selections": 6,
-      "raw_child_markets": 247,
-      "raw_named_child_markets": 247,
-      "raw_odds": 724,
+      "raw_child_markets": 244,
+      "raw_named_child_markets": 244,
+      "raw_odds": 716,
       "props_status": "PARSED"
     },
     {
@@ -138,25 +138,25 @@
     {
       "event_id": 16564809,
       "match": "DAL Cowboys vs. SF 49ers",
-      "prop_selections": 269,
-      "players": 18,
-      "prop_markets": 137,
+      "prop_selections": 280,
+      "players": 19,
+      "prop_markets": 143,
       "main_selections": 6,
       "raw_child_markets": 183,
-      "raw_named_child_markets": 176,
-      "raw_odds": 589,
+      "raw_named_child_markets": 183,
+      "raw_odds": 591,
       "props_status": "PARSED"
     },
     {
       "event_id": 16767355,
       "match": "CIN Bengals vs. PIT Steelers",
-      "prop_selections": 557,
+      "prop_selections": 558,
       "players": 17,
       "prop_markets": 138,
       "main_selections": 6,
       "raw_child_markets": 224,
       "raw_named_child_markets": 180,
-      "raw_odds": 1312,
+      "raw_odds": 1316,
       "props_status": "PARSED"
     },
     {
@@ -172,7 +172,7 @@
       "props_status": "PARSED"
     }
   ],
-  "props": 5915,
+  "props": 5920,
   "main_contracts": 170,
   "complete": true,
   "completeness_scope": "events returned by GP GetEvents; not website or NFL schedule completeness"

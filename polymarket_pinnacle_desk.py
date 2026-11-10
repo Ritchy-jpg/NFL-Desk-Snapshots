@@ -10,7 +10,7 @@ from datetime import datetime
 
 EVENT = "cfb-kentst-bowlgr-2026-11-10"
 GAME = "Bowling Green Falcons vs Kent State Golden Flashes"
-PATTERN = re.compile(r"^(?:Total|Total Points|Over/Under):?\\s*(\\d+(?:\\.\\d+)?)$", re.I)
+PATTERN = re.compile(r"^Kent State vs\\. Bowling Green: O/U ([0-9]+(?:\\.[0-9]+)?)$", re.I)
 
 def timestamp(s):
     try:

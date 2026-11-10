@@ -1,42 +1,42 @@
 {
-  "observed_at": "2026-11-09T20:15:40.929052+00:00",
+  "observed_at": "2026-11-10T00:22:59.612799+00:00",
   "expected_events": 15,
   "successful_events": 15,
   "events": [
     {
       "event_id": 16552350,
       "match": "MIN Vikings vs. BUF Bills",
-      "prop_selections": 1669,
-      "players": 54,
-      "prop_markets": 556,
+      "prop_selections": 1690,
+      "players": 55,
+      "prop_markets": 573,
       "main_selections": 102,
-      "raw_child_markets": 724,
-      "raw_named_child_markets": 674,
-      "raw_odds": 3352,
+      "raw_child_markets": 738,
+      "raw_named_child_markets": 688,
+      "raw_odds": 3406,
       "props_status": "PARSED"
     },
     {
       "event_id": 16564440,
       "match": "NY Giants vs. WAS Commanders",
-      "prop_selections": 379,
-      "players": 26,
-      "prop_markets": 196,
+      "prop_selections": 781,
+      "players": 28,
+      "prop_markets": 249,
       "main_selections": 90,
-      "raw_child_markets": 258,
-      "raw_named_child_markets": 258,
-      "raw_odds": 1077,
+      "raw_child_markets": 361,
+      "raw_named_child_markets": 314,
+      "raw_odds": 1920,
       "props_status": "PARSED"
     },
     {
       "event_id": 16503490,
       "match": "DET Lions vs. NE Patriots",
-      "prop_selections": 102,
+      "prop_selections": 319,
       "players": 9,
-      "prop_markets": 51,
+      "prop_markets": 69,
       "main_selections": 8,
-      "raw_child_markets": 77,
-      "raw_named_child_markets": 77,
-      "raw_odds": 416,
+      "raw_child_markets": 110,
+      "raw_named_child_markets": 91,
+      "raw_odds": 907,
       "props_status": "PARSED"
     },
     {
@@ -84,7 +84,7 @@
       "main_selections": 6,
       "raw_child_markets": 100,
       "raw_named_child_markets": 100,
-      "raw_odds": 443,
+      "raw_odds": 442,
       "props_status": "PARSED"
     },
     {
@@ -102,14 +102,14 @@
     {
       "event_id": 16767341,
       "match": "NO Saints vs. CAR Panthers",
-      "prop_selections": 0,
-      "players": 0,
-      "prop_markets": 0,
+      "prop_selections": 166,
+      "players": 21,
+      "prop_markets": 83,
       "main_selections": 6,
-      "raw_child_markets": 0,
-      "raw_named_child_markets": 0,
-      "raw_odds": 103,
-      "props_status": "NO_PLAYER_CHILD_MARKETS_RETURNED"
+      "raw_child_markets": 118,
+      "raw_named_child_markets": 118,
+      "raw_odds": 473,
+      "props_status": "PARSED"
     },
     {
       "event_id": 17176321,
@@ -120,7 +120,7 @@
       "main_selections": 6,
       "raw_child_markets": 103,
       "raw_named_child_markets": 103,
-      "raw_odds": 422,
+      "raw_odds": 436,
       "props_status": "PARSED"
     },
     {
@@ -132,7 +132,7 @@
       "main_selections": 6,
       "raw_child_markets": 0,
       "raw_named_child_markets": 0,
-      "raw_odds": 80,
+      "raw_odds": 82,
       "props_status": "NO_PLAYER_CHILD_MARKETS_RETURNED"
     },
     {
@@ -144,7 +144,7 @@
       "main_selections": 6,
       "raw_child_markets": 0,
       "raw_named_child_markets": 0,
-      "raw_odds": 101,
+      "raw_odds": 102,
       "props_status": "NO_PLAYER_CHILD_MARKETS_RETURNED"
     },
     {
@@ -156,7 +156,7 @@
       "main_selections": 6,
       "raw_child_markets": 0,
       "raw_named_child_markets": 0,
-      "raw_odds": 109,
+      "raw_odds": 111,
       "props_status": "NO_PLAYER_CHILD_MARKETS_RETURNED"
     },
     {
@@ -174,17 +174,17 @@
     {
       "event_id": 16768117,
       "match": "BAL Ravens vs. LA Chargers",
-      "prop_selections": 0,
-      "players": 0,
-      "prop_markets": 0,
+      "prop_selections": 92,
+      "players": 9,
+      "prop_markets": 46,
       "main_selections": 2,
-      "raw_child_markets": 0,
-      "raw_named_child_markets": 0,
-      "raw_odds": 93,
-      "props_status": "NO_PLAYER_CHILD_MARKETS_RETURNED"
+      "raw_child_markets": 68,
+      "raw_named_child_markets": 68,
+      "raw_odds": 339,
+      "props_status": "PARSED"
     }
   ],
-  "props": 2498,
+  "props": 3396,
   "main_contracts": 268,
   "complete": true,
   "completeness_scope": "events returned by GP GetEvents; not website or NFL schedule completeness"

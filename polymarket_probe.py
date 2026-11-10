@@ -54,20 +54,26 @@ def run(max_pages, page_size):
               "read_only": True, "events_scanned": 0, "scan_complete": False,
               "matches": [], "status": "NO_VERIFIED_PRICE"}
     report["search"] = {"queries": [], "errors": []}
+    searched_events = []
     for query in ("Kent State Bowling Green", "Kent State", "Bowling Green"):
         try:
             results = fetch(GAMMA, "/public-search", {"q": query, "limit_per_type": 100})
+            searched_events.extend(results.get("events", []))
             report["search"]["queries"].append({
                 "q": query,
                 "events": [{"id": e.get("id"), "title": e.get("title"), "slug": e.get("slug")}
                            for e in results.get("events", [])]})
         except (urllib.error.URLError, ValueError, KeyError) as error:
             report["search"]["errors"].append({"q": query, "error": str(error)})
+    seen_ids = set()
     for offset in range(0, max_pages * page_size, page_size):
         events = fetch(GAMMA, "/events",
                        {"closed": "false", "limit": page_size, "offset": offset})
         report["events_scanned"] += len(events)
-        for event in events:
+        for event in events + (searched_events if offset == 0 else []):
+            if str(event.get("id")) in seen_ids:
+                continue
+            seen_ids.add(str(event.get("id")))
             text = (str(event.get("title", "")) + " " + str(event.get("slug", ""))).lower()
             if not (("kent state" in text or "kent-state" in text)
                     and ("bowling green" in text or "bowling-green" in text)):
@@ -92,6 +98,7 @@ def run(max_pages, page_size):
         if len(events) < page_size:
             report["scan_complete"] = True
             break
+    print(json.dumps({"search": report["search"]}, ensure_ascii=False)[:9000])
     if report["matches"]:
         report["status"] = "BOOKS_CAPTURED_REVIEW_MARKET_RULES"
     return report

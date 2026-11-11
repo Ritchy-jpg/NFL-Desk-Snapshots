@@ -1,0 +1,49 @@
+name: Polymarket NFL and NCAA public scanner
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17,47 * * * *'
+  pull_request:
+    paths:
+      - 'polymarket_scanner.py'
+      - 'tests/test_polymarket_scanner.py'
+      - '.github/workflows/polymarket-scanner.yml'
+  push:
+    branches: [main]
+    paths:
+      - 'polymarket_scanner.py'
+      - 'tests/test_polymarket_scanner.py'
+      - '.github/workflows/polymarket-scanner.yml'
+permissions:
+  contents: read
+concurrency:
+  group: polymarket-public-scanner-${{ github.ref }}
+  cancel-in-progress: false
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.11'
+      - name: Validate discovery and quote calculations
+        run: python -m unittest discover -s tests -p test_polymarket_scanner.py -v
+      - name: Collect public Polymarket books
+        run: python polymarket_scanner.py --output-dir polymarket-output
+      - name: Publish mobile report
+        if: always()
+        run: |
+          if test -f polymarket-output/report.md; then
+            cat polymarket-output/report.md >> "$GITHUB_STEP_SUMMARY"
+          fi
+      - uses: actions/upload-artifact@v6
+        if: always()
+        with:
+          name: polymarket-pregame-${{ github.run_id }}-${{ github.run_attempt }}
+          path: polymarket-output/
+          if-no-files-found: warn
+          retention-days: 90

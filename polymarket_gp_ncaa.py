@@ -75,12 +75,15 @@ def team_labels(row):
 
 def poly_contract(row, labels):
     kind = TYPES.get(row["market_type"])
-    side = normalize(row["outcome"])
+    outcome = row["outcome"]
+    side = normalize(outcome)
     rules = row["rules"]
     if not re.search(r"will resolve to", rules, re.I):
         return None
     if kind == MONEYLINE:
-        if not re.search(r"overtime is included", rules, re.I):
+        if not (re.search(r"overtime is included", rules, re.I)
+                and re.search(rf'resolve to "{re.escape(outcome)}" if {re.escape(outcome)} win[s]? the game',
+                              rules, re.I)):
             return None
         options = [i for i, variants in enumerate(labels) if side in variants]
         return (kind, options[0], None) if len(options) == 1 else None
@@ -91,8 +94,9 @@ def poly_contract(row, labels):
         match = re.fullmatch(r".+: O/U (\d+\.5)", row["question"])
         threshold = int(line + Decimal("0.5"))
         if (match and decimal(match[1]) == line and side in {"over", "under"}
-                and re.search(rf"score {threshold} or more points\b", rules, re.I)
-                and re.search(rf"less than {threshold}\b", rules, re.I)):
+                and re.search(rf'resolve to "Over" if [^.]*score {threshold} or more points\b',
+                              rules, re.I)
+                and re.search(rf'less than {threshold}\b[^.]*resolve to "Under"', rules, re.I)):
             return kind, side, line
     if kind == SPREAD:
         match = re.fullmatch(r"Spread: (.+) \((-\d+\.5)\)", row["question"])
@@ -100,7 +104,9 @@ def poly_contract(row, labels):
         if match and decimal(match[2]) == line and len(options) == 1:
             favorite = [i for i, variants in enumerate(labels) if normalize(match[1]) in variants]
             threshold = int(-line + Decimal("0.5"))
-            if (len(favorite) == 1 and re.search(
+            fallback = re.search(r'otherwise, this market will resolve to "([^"]+)"', rules, re.I)
+            if (len(favorite) == 1 and fallback and normalize(fallback[1]) in labels[1 - favorite[0]]
+                    and re.search(
                     rf'resolve to "{re.escape(match[1])}" if .+? win[s]? the game by {threshold} or more points\b',
                     rules, re.I)):
                 return kind, options[0], line if options == favorite else -line

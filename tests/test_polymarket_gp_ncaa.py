@@ -16,7 +16,8 @@ class GoldenPalaceNCAATests(unittest.TestCase):
                      "match": "UMass vs. Toledo", "kickoff_utc": "2026-11-12T00:30:00Z",
                      "market_type": "spreads", "outcome": "UMass", "provider_line": "-14.5",
                      "question": "Spread: Toledo (-14.5)",
-                     "rules": 'This market will resolve to "Toledo" if Toledo win the game by 15 or more points.',
+                     "rules": ('This market will resolve to "Toledo" if Toledo win the game by 15 or more points. '
+                               'Otherwise, this market will resolve to "UMass".'),
                      "teams": json.dumps([{"alias": "UMass", "name": "Minutemen"},
                                           {"alias": "Toledo", "name": "Rockets"}]),
                      "status": "OK", "net_at_10_pusd": "0.542455", "asset_id": "11",
@@ -48,10 +49,15 @@ class GoldenPalaceNCAATests(unittest.TestCase):
         rows, _ = compare([{**self.poly, "status": "STALE_BOOK"}], [self.gp], None)
         self.assertIsNone(rows[0]["poly_decimal_net_at_10_pusd"])
 
+    def test_rejects_swapped_spread_fallback(self):
+        row = {**self.poly, "rules": self.poly["rules"].replace('"UMass"', '"Toledo"')}
+        self.assertEqual(compare([row], [self.gp], None)[0], [])
+
     def test_matches_total_and_preserves_quote_time_separately(self):
         poly = {**self.poly, "market_type": "totals", "provider_line": "51.5", "outcome": "Under",
                 "question": "UMass vs. Toledo: O/U 51.5",
-                "rules": 'Resolve to "Over" if both teams score 52 or more points. Under if less than 52.'}
+                "rules": ('Resolve to "Over" if both teams score 52 or more points. '
+                          'If less than 52, this market will resolve to "Under".')}
         poly["rules"] = "This market will " + poly["rules"].lower()
         gp = {**self.gp, "market_type": "total", "selection": "Moins de 51.5", "line": "51.5",
               "market_name": "Total (prolongations incluses)", "source_observed_at": "2026-11-11T17:13:00Z"}

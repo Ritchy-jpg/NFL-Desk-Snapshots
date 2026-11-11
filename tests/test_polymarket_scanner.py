@@ -63,9 +63,12 @@ class PolymarketScannerTests(unittest.TestCase):
     def test_discovery_follows_pagination_and_merges_sibling_props(self):
         parent = {"id": "1", "gameId": 1, "slug": "nfl-was-nyg-2026-11-13",
                   "startTime": self.kickoff.isoformat(), "markets": []}
-        sibling = {**parent, "id": "2", "slug": parent["slug"] + "-more-markets",
-                   "markets": [self.market]}
-        pages = [{"events": [parent], "next_cursor": "next"}, {"events": [sibling]}]
+        sibling = {**parent, "id": "2", "slug": parent["slug"] + "-player-props",
+                   "parentEventId": 1, "gameId": None, "markets": [self.market]}
+        wrong_parent = {**sibling, "id": "3", "parentEventId": 99,
+                        "markets": [{**self.market, "id": "unrelated"}]}
+        pages = [{"events": [parent], "next_cursor": "next"},
+                 {"events": [sibling, wrong_parent]}]
         with patch.object(scanner, "fetch", side_effect=pages) as fetch:
             events = scanner.discover("nfl", "1", self.observed, 7)
         self.assertEqual(events[0]["markets"], [self.market])

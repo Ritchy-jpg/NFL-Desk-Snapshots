@@ -94,7 +94,8 @@ def discover(league, series, now, days):
             raise ValueError("Réponse Gamma sans liste d’événements")
         for event in page["events"]:
             start = timestamp(event.get("startTime"))
-            if (event.get("gameId") and event.get("slug", "").startswith(LEAGUES[league] + "-")
+            if ((event.get("gameId") or event.get("parentEventId"))
+                    and event.get("slug", "").startswith(LEAGUES[league] + "-")
                     and start and now < start <= now + timedelta(days=days)
                     and not event.get("live") and not event.get("ended")):
                 events[event["id"]] = event
@@ -108,23 +109,29 @@ def discover(league, series, now, days):
 
 
 def canonical_events(events):
-    """Use the dated fixture slug and merge same-game sibling market inventories."""
-    games = defaultdict(list)
+    """Merge prop events by parent ID, including children without a game ID."""
+    parents, children, siblings = {}, defaultdict(list), defaultdict(list)
     for event in events:
-        games[event["gameId"]].append(event)
+        parent_id = event.get("parentEventId")
+        if event.get("gameId") and GAME_SLUG.fullmatch(event["slug"]):
+            parents[str(event["id"])] = event
+        elif parent_id:
+            children[str(parent_id)].append(event)
+        elif event.get("gameId"):
+            siblings[event["gameId"]].append(event)
+    games = Counter(parent["gameId"] for parent in parents.values())
     result = []
-    for siblings in games.values():
-        parents = [event for event in siblings if GAME_SLUG.fullmatch(event["slug"])]
-        # Multiple dated events with one game ID remain visible for review.
-        for parent in parents:
-            markets = {market["id"]: market for market in parent.get("markets") or []}
-            if len(parents) == 1:
-                for sibling in siblings:
-                    if (sibling["slug"].startswith(parent["slug"] + "-")
-                            and timestamp(sibling.get("startTime")) == timestamp(parent["startTime"])):
-                        for market in sibling.get("markets") or []:
-                            markets.setdefault(market["id"], market)
-            result.append({**parent, "markets": list(markets.values())})
+    for parent_id, parent in parents.items():
+        markets = {market["id"]: market for market in parent.get("markets") or []}
+        candidates = list(children[parent_id])
+        if games[parent["gameId"]] == 1:
+            candidates.extend(siblings[parent["gameId"]])
+        for child in candidates:
+            if (child["slug"].startswith(parent["slug"] + "-")
+                    and timestamp(child.get("startTime")) == timestamp(parent["startTime"])):
+                for market in child.get("markets") or []:
+                    markets.setdefault(market["id"], market)
+        result.append({**parent, "markets": list(markets.values())})
     return result
 
 

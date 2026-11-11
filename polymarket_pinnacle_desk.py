@@ -232,12 +232,32 @@ def settlement(market, key, league, pin_name):
             return "PERIODE_NON_CONFIRMEE"
     if kind in {"totals", "team_totals"}:
         threshold = str(math.ceil(line))
-        if (not re.search(r"\b" + threshold + r" or more points", scoring)
-                or not re.search(r"less than " + threshold + r"\b", scoring)):
+        over = rf'resolve to "over" if [^.!?]*\bscore {threshold} or more points'
+        under = (rf'(?:less than {threshold}\b[^.!?]*resolve to "under"|'
+                 rf'resolve to "under" if [^.!?]*less than {threshold}\b)')
+        if not re.search(over, scoring) or not re.search(under, scoring):
             return "SEUIL_REGLEMENT_NON_CONFIRME"
-    if kind == "spreads" and not re.search(
-            r"\b" + str(math.ceil(abs(line))) + r" or more points", scoring):
-        return "SEUIL_REGLEMENT_NON_CONFIRME"
+        if kind == "totals" and "combine to score" not in scoring:
+            return "EQUIPE_REGLEMENT_NON_CONFIRMEE"
+        if kind == "team_totals":
+            label = re.split(r" (?:[1-4][HQ] )?Team Total:", market["question"], flags=re.I)[0]
+            if not re.search(rf'\b(?:the )?{re.escape(label.lower())} score {threshold} or more points', scoring):
+                return "EQUIPE_REGLEMENT_NON_CONFIRMEE"
+    if kind == "spreads":
+        favorite = re.search(r'Spread: (.+) \(([+-]?\d+\.5)\)', market["question"], flags=re.I)
+        if not favorite or number(favorite[2]) >= 0:
+            return "SEUIL_REGLEMENT_NON_CONFIRME"
+        team = re.escape(favorite[1].lower())
+        threshold = str(math.ceil(abs(line)))
+        other = next((o.lower() for o in arr(market["outcomes"]) if name(o) != name(favorite[1])), "")
+        if (not other or not re.search(rf'resolve to "{team}" if (?:the )?{team} '
+                                       rf'(?:win the game|outscore [^.!?]+) by {threshold} or more points', scoring)
+                or f'otherwise, this market will resolve to "{other}"' not in scoring):
+            return "SEUIL_REGLEMENT_NON_CONFIRME"
+    if kind == "moneyline" and not all(
+            f'resolve to "{outcome.lower()}" if {outcome.lower()} win the game' in scoring
+            for outcome in arr(market["outcomes"])):
+            return "SEUIL_REGLEMENT_NON_CONFIRME"
     return None
 
 
@@ -408,6 +428,8 @@ def compare(league, events, fixtures, pairs, books, now):
                 error = "PAIRE_PINNACLE_INCOMPLETE_OU_AMBIGUE"
             if not error:
                 error = settlement(market, key, league, pin["market_name"])
+            if not error and pin["seen"] >= min(start, fixtures[game][2]):
+                error = "PINNACLE_APRES_COUP_ENVOI"
             market_start = timestamp(market.get("gameStartTime"))
             tokens = arr(market.get("clobTokenIds"))
             if not error and (market_start != start or len(tokens) != 2 or tokens[0] == tokens[1]
@@ -445,7 +467,10 @@ def compare(league, events, fixtures, pairs, books, now):
                    "pin_observed_at": pin["seen"], "pin_decimal": odds[side],
                    "pin_opposite": next(v for s, v in odds.items() if s != side),
                    "pin_fair": fair, "pin_fair_decimal": 1 / fair, "ask_verifie": False,
-                   "settlement_scope": "MATCH_TERMINE_NORMALEMENT"}
+                   "settlement_scope": "MATCH_TERMINE_NORMALEMENT",
+                   "exceptional_settlement": "ANNULATION_REPORT_ABANDON_PEUT_DIFFERER",
+                   "polymarket_rules": market.get("description"),
+                   "pinnacle_market_name": pin["market_name"]}
             cutoff = min(card["start"], fixtures[card["fixture_id"]][2])
             row["status"] = evaluate(row, market, books.get(token), cutoff, pin, side)
             both_verified.append(row["ask_verifie"])

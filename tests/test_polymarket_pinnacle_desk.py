@@ -6,7 +6,7 @@ from pathlib import Path
 from unittest.mock import patch
 
 from polymarket_pinnacle_desk import (
-    canonical_events, compare, discover, economics, fee_rate, load_board, market_key, match_fixture, timestamp,
+    canonical_events, compare, discover, economics, fee_rate, load_board, market_key, match_fixture, settlement, timestamp,
 )
 
 START = timestamp("2026-11-11T00:00:00Z")
@@ -84,6 +84,24 @@ class DeskTests(unittest.TestCase):
         self.assertGreater(rows[0]["ev"], 0.02)
         self.assertEqual(rows[1]["status"], "LIQUIDITE_INSUFFISANTE")
         self.assertNotIn("ev", rows[1])
+
+    def test_reversed_total_payout_rules_are_rejected(self):
+        key = ("totals", "result", "", 41.5)
+        swapped = MARKET["description"].replace('"Over"', '"temporary"')
+        swapped = swapped.replace('"Under"', '"Over"').replace('"temporary"', '"Under"')
+        self.assertEqual(settlement({**MARKET, "description": swapped}, key, "ncaa",
+                                    "Total (incl. overtime)"), "SEUIL_REGLEMENT_NON_CONFIRME")
+
+    def test_pinnacle_quote_after_earlier_provider_kickoff_is_blocked(self):
+        later_start = START + timedelta(minutes=15)
+        game = self.fixtures[GAME]
+        fixtures = {GAME: (game[0], game[1], later_start)}
+        key = ("totals", "result", "", 41.5)
+        pairs = {(GAME, key): {**self.pairs[GAME, key], "seen": START + timedelta(minutes=5)}}
+        _, rows, anomalies = compare("ncaa", [{**EVENT, "markets": [MARKET]}], fixtures, pairs,
+                                     {"11": book(0.48), "12": book(0.53)}, OBSERVED)
+        self.assertEqual(rows, [])
+        self.assertEqual(anomalies["PINNACLE_APRES_COUP_ENVOI"], 1)
 
     def test_fee_and_buy_price_tick(self):
         self.assertEqual(fee_rate(MARKET), 0.05)

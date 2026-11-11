@@ -13,8 +13,6 @@ from datetime import datetime, timezone
 from decimal import Decimal
 from pathlib import Path
 
-from polymarket import AsyncPublicClient, PolymarketError, RateLimitError
-
 
 def plain(value):
     """Serialize typed SDK models without converting Decimal prices to float."""
@@ -41,6 +39,8 @@ def sports_candidate(market):
 
 
 async def collect(max_markets, page_size):
+    from polymarket import AsyncPublicClient
+
     checked = 0
     candidates = []
     async with AsyncPublicClient() as client:
@@ -72,6 +72,8 @@ async def collect(max_markets, page_size):
 
 
 def main():
+    from polymarket import PolymarketError, RateLimitError
+
     parser = argparse.ArgumentParser()
     parser.add_argument("--max-markets", type=int, default=200)
     parser.add_argument("--page-size", type=int, default=50)

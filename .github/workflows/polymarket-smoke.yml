@@ -1,51 +1,60 @@
-name: Polymarket public API smoke test
+name: Polymarket Pinnacle read-only comparator
 on:
   workflow_dispatch:
+  schedule:
+    - cron: '7,37 * * * *'
   push:
-    branches:
-      - feature/polymarket-readonly-v1
+    branches: [feature/polymarket-readonly-v1]
+    paths:
+      - 'polymarket_*.py'
+      - 'tests/test_polymarket*.py'
+      - '.github/workflows/polymarket-smoke.yml'
   pull_request:
     paths:
-      - 'polymarket_readonly.py'
-      - 'requirements-polymarket.txt'
-      - 'tests/test_polymarket_readonly.py'
-      - 'polymarket_probe.py'
-      - 'polymarket_quotes_export.py'
+      - 'polymarket_*.py'
+      - 'tests/test_polymarket*.py'
       - '.github/workflows/polymarket-smoke.yml'
+permissions:
+  contents: read
+concurrency:
+  group: polymarket-pinnacle-${{ github.event_name }}-${{ github.ref }}
+  cancel-in-progress: true
 jobs:
-  smoke:
+  compare:
     runs-on: ubuntu-latest
-    timeout-minutes: 8
-    permissions:
-      contents: read
+    timeout-minutes: 12
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - uses: actions/checkout@v6
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@v6
         with:
           python-version: '3.11'
-      - run: python -m pip install -r requirements-polymarket.txt
-      - run: python -m unittest discover -s tests -p 'test_polymarket_readonly.py'
-      - name: Gamma and CLOB public connectivity
-        run: python polymarket_probe.py --output polymarket_probe.json
-      - name: Export NCAA CLOB quotes
-        run: python polymarket_quotes_export.py --input polymarket_probe.json --output polymarket_ncaa_quotes.csv
-      - name: Audit NCAA CLOB quotes
-        run: python polymarket_quotes_audit.py --input polymarket_ncaa_quotes.csv --output polymarket_ncaa_audit.csv
-      - name: Compare to verified Pinnacle quotes only
-        run: python polymarket_pinnacle_compare.py --polymarket polymarket_ncaa_audit.csv --output polymarket_pinnacle_comparison.csv
-      - name: Join existing Desk Pinnacle NCAA snapshot
-        run: python polymarket_pinnacle_desk.py --poly polymarket_ncaa_audit.csv --pin output/gp_pin_main_ncaa_latest.csv --output polymarket_pinnacle_historical.csv
-      - name: SDK discovery
-        run: python polymarket_readonly.py --max-markets 100 --output polymarket_snapshot.json
+      - name: Comparator tests
+        run: python -m unittest discover -s tests -p 'test_polymarket*.py' -v
+      - name: Read published Pinnacle boards
+        uses: actions/checkout@v6
+        with:
+          ref: main
+          persist-credentials: false
+          path: published
+          sparse-checkout: |
+            output/pinnacle_nfl_board.csv
+            output/pinnacle_ncaa_board.csv
+          sparse-checkout-cone-mode: false
+      - name: Compare real public order books
+        run: |
+          python polymarket_pinnacle_desk.py --board-dir published/output \
+            --source "$(git -C published rev-parse HEAD)" --output-dir results
+      - name: Publish mobile report
+        if: always()
+        run: |
+          if test -f results/report.md; then
+            cat results/report.md >> "$GITHUB_STEP_SUMMARY"
+          fi
       - uses: actions/upload-artifact@v4
         if: always()
         with:
-          name: polymarket-smoke-results
-          path: |
-            polymarket_probe.json
-            polymarket_ncaa_quotes.csv
-            polymarket_ncaa_audit.csv
-            polymarket_pinnacle_comparison.csv
-            polymarket_pinnacle_historical.csv
-            polymarket_snapshot.json
-          if-no-files-found: ignore
+          name: polymarket-pinnacle-results
+          path: results/
+          if-no-files-found: warn

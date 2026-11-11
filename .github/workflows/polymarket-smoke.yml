@@ -1,0 +1,60 @@
+name: Polymarket Pinnacle read-only comparator
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '7,37 * * * *'
+  push:
+    branches: [feature/polymarket-readonly-v1]
+    paths:
+      - 'polymarket_*.py'
+      - 'tests/test_polymarket*.py'
+      - '.github/workflows/polymarket-smoke.yml'
+  pull_request:
+    paths:
+      - 'polymarket_*.py'
+      - 'tests/test_polymarket*.py'
+      - '.github/workflows/polymarket-smoke.yml'
+permissions:
+  contents: read
+concurrency:
+  group: polymarket-pinnacle-${{ github.event_name }}-${{ github.ref }}
+  cancel-in-progress: true
+jobs:
+  compare:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.11'
+      - name: Comparator tests
+        run: python -m unittest discover -s tests -p 'test_polymarket*.py' -v
+      - name: Read published Pinnacle boards
+        uses: actions/checkout@v6
+        with:
+          ref: main
+          persist-credentials: false
+          path: published
+          sparse-checkout: |
+            output/pinnacle_nfl_board.csv
+            output/pinnacle_ncaa_board.csv
+          sparse-checkout-cone-mode: false
+      - name: Compare real public order books
+        run: |
+          python polymarket_pinnacle_desk.py --board-dir published/output \
+            --source "$(git -C published rev-parse HEAD)" --output-dir results
+      - name: Publish mobile report
+        if: always()
+        run: |
+          if test -f results/report.md; then
+            cat results/report.md >> "$GITHUB_STEP_SUMMARY"
+          fi
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: polymarket-pinnacle-results
+          path: results/
+          if-no-files-found: warn

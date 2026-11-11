@@ -247,6 +247,8 @@ def reference(quotes):
 
 def analyze(league, catalog, books):
     for event, market, outcomes, ids in catalog:
+        teams = json.dumps([{key: team.get(key) for key in ("alias", "name")}
+                            for team in event.get("teams") or []], ensure_ascii=False)
         kickoff = timestamp(event["startTime"])
         quotes = [quote(books.get(asset_id), market, asset_id, kickoff) for asset_id in ids]
         band, status = reference(quotes)
@@ -256,6 +258,7 @@ def analyze(league, catalog, books):
                    "market_id": market["id"], "condition_id": market["conditionId"],
                    "asset_id": asset_id, "question": market.get("question"), "outcome": outcome,
                    "provider_line": market.get("line"), "rules": market["description"],
+                   "teams": teams,
                    "reference_status": status, **book}
             if band:
                 row["reference_low"], row["reference_high"] = band[index]

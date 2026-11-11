@@ -6,12 +6,17 @@ on:
   pull_request:
     paths:
       - 'polymarket_scanner.py'
+      - 'polymarket_gp_ncaa.py'
+      - 'tests/test_polymarket_gp_ncaa.py'
       - 'tests/test_polymarket_scanner.py'
       - '.github/workflows/polymarket-scanner.yml'
   push:
     branches: [main]
     paths:
+      - 'output/gp_main_ncaa_latest.csv'
       - 'polymarket_scanner.py'
+      - 'polymarket_gp_ncaa.py'
+      - 'tests/test_polymarket_gp_ncaa.py'
       - 'tests/test_polymarket_scanner.py'
       - '.github/workflows/polymarket-scanner.yml'
 permissions:
@@ -31,14 +36,29 @@ jobs:
         with:
           python-version: '3.11'
       - name: Validate discovery and quote calculations
-        run: python -m unittest discover -s tests -p test_polymarket_scanner.py -v
+        run: python -m unittest discover -s tests -p 'test_polymarket*.py' -v
       - name: Collect public Polymarket books
         run: python polymarket_scanner.py --output-dir polymarket-output
+      - name: Compare the published Golden Palace NCAA export
+        if: ${{ !cancelled() && hashFiles('polymarket-output/polymarket_quotes.csv') != '' }}
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gp=output/gp_main_ncaa_latest.csv
+          published="$(gh api --method GET "repos/$GITHUB_REPOSITORY/commits" \
+            -f sha="$GITHUB_SHA" -f path="$gp" -F per_page=1 \
+            --jq '.[0].commit.committer.date // empty' || true)"
+          python polymarket_gp_ncaa.py --gp "$gp" \
+            --poly polymarket-output/polymarket_quotes.csv \
+            --gp-published-at "$published" --output-dir polymarket-output
       - name: Publish mobile report
         if: always()
         run: |
           if test -f polymarket-output/report.md; then
             cat polymarket-output/report.md >> "$GITHUB_STEP_SUMMARY"
+          fi
+          if test -f polymarket-output/gp_polymarket_ncaa_report.md; then
+            cat polymarket-output/gp_polymarket_ncaa_report.md >> "$GITHUB_STEP_SUMMARY"
           fi
       - uses: actions/upload-artifact@v6
         if: always()

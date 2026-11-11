@@ -117,6 +117,20 @@ class DeskTests(unittest.TestCase):
         duplicate = {**self.fixtures, "duplicate": self.fixtures[GAME]}
         self.assertEqual(match_fixture(EVENT, duplicate, "ncaa")[2], "MATCH_AMBIGU")
 
+    def test_provider_aliases_keep_team_identity(self):
+        event = {**EVENT, "teams": [
+            {"alias": "Duke", "name": "Blue Devils", "league": "cfb"},
+            {"alias": "Miami (FL)", "name": "Hurricanes", "league": "cfb"},
+        ]}
+        fixtures = {
+            "correct": ("Miami vs Duke", ["miami hurricanes", "duke blue devils"], START),
+            "other": ("Miami Ohio vs Duke", ["miami ohio redhawks", "duke blue devils"], START),
+        }
+        game, labels, error = match_fixture(event, fixtures, "ncaa")
+        self.assertIsNone(error)
+        self.assertEqual(game, "correct")
+        self.assertEqual(labels["miami fl"], "home")
+
     def test_sibling_markets_count_as_one_fixture(self):
         parent = {**EVENT, "markets": [MARKET]}
         child = {**EVENT, "slug": EVENT["slug"] + "-exact-margin",

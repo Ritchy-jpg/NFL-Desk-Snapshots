@@ -23,6 +23,18 @@ PERIODS = {
 MARKET_TYPES = {prefix + kind: (kind, *period)
                 for prefix, period in PERIODS.items()
                 for kind in ("moneyline", "spreads", "totals", "team_totals")}
+# Exact provider-name differences observed on both published boards.
+NCAA_PIN_NAMES = {
+    "uconn huskies": "connecticut huskies",
+    "miami fl hurricanes": "miami hurricanes",
+    "sam houston bearkats": "sam houston state bearkats",
+    "delaware fightin blue hens": "delaware blue hens",
+    "florida international panthers": "fiu panthers",
+    "middle tennessee blue raiders": "middle tennessee state blue raiders",
+    "marshall thundering herd": "marshall herd",
+    "unlv runnin rebels": "unlv rebels",
+    "hawai i rainbow warriors": "hawaii rainbow warriors",
+}
 MAX_SKEW = timedelta(minutes=5)
 MAX_BOOK_AGE = timedelta(minutes=2)
 MIN_DEPTH = 10  # collateral at the best ask
@@ -63,8 +75,11 @@ def team_names(team, league):
     full = f"{alias} {label}".strip() if league == "ncaa" else label
     variants = {alias, full}
     # Preserve the mascot when using an alias that can denote two schools.
-    if league == "ncaa" and alias in {"miami", "ohio", "usc"}:
-        variants.discard(alias)
+    if league == "ncaa":
+        if alias in {"miami", "ohio", "usc"}:
+            variants.discard(alias)
+        if full in NCAA_PIN_NAMES:
+            variants.add(NCAA_PIN_NAMES[full])
     return variants - {""}
 
 

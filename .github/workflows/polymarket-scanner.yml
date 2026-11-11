@@ -2,7 +2,7 @@ name: Polymarket NFL and NCAA public scanner
 on:
   workflow_dispatch:
   schedule:
-    - cron: '7,37 * * * *'
+    - cron: '17,47 * * * *'
   pull_request:
     paths:
       - 'polymarket_scanner.py'

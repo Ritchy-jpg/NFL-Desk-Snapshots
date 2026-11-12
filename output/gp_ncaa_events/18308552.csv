@@ -1,31 +1,71 @@
 event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id,selection,line,price,odd_id,odd_status,is_main_bet
 18308552,Air Force Falcons vs. San Jose State Spartans,2026-11-15T00:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1,,1.1819,4791660269,0,False
 18308552,Air Force Falcons vs. San Jose State Spartans,2026-11-15T00:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,2,,4.0,4791660270,0,False
+18308552,Air Force Falcons vs. San Jose State Spartans,2026-11-15T00:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+18.5),-18.5,1.4348,4794670336,0,False
+18308552,Air Force Falcons vs. San Jose State Spartans,2026-11-15T00:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-18.5),-18.5,2.65,4794670337,0,False
 18308552,Air Force Falcons vs. San Jose State Spartans,2026-11-15T00:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+14.5),-14.5,1.6451,4794670340,0,False
 18308552,Air Force Falcons vs. San Jose State Spartans,2026-11-15T00:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-14.5),-14.5,2.15,4794670341,0,False
-18308552,Air Force Falcons vs. San Jose State Spartans,2026-11-15T00:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-9.5),-9.5,1.6451,4794670374,0,False
-18308552,Air Force Falcons vs. San Jose State Spartans,2026-11-15T00:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-11.5),-11.5,1.8,4791965319,0,True
-18308552,Air Force Falcons vs. San Jose State Spartans,2026-11-15T00:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+9.5),-9.5,2.15,4794670375,0,False
-18308552,Air Force Falcons vs. San Jose State Spartans,2026-11-15T00:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+11.5),-11.5,1.8696,4791965318,0,True
-18308552,Air Force Falcons vs. San Jose State Spartans,2026-11-15T00:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+13.5),-13.5,1.7693,4794670382,0,False
-18308552,Air Force Falcons vs. San Jose State Spartans,2026-11-15T00:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-13.5),-13.5,1.9091,4794670383,0,False
-18308552,Air Force Falcons vs. San Jose State Spartans,2026-11-15T00:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-10.5),-10.5,1.7408,4791660272,0,False
-18308552,Air Force Falcons vs. San Jose State Spartans,2026-11-15T00:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-12.5),-12.5,1.8696,4792354032,0,False
-18308552,Air Force Falcons vs. San Jose State Spartans,2026-11-15T00:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+10.5),-10.5,1.9524,4791660271,0,False
-18308552,Air Force Falcons vs. San Jose State Spartans,2026-11-15T00:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+12.5),-12.5,1.8,4792354033,0,False
+18308552,Air Force Falcons vs. San Jose State Spartans,2026-11-15T00:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+6.5),-6.5,2.65,4794670342,0,False
+18308552,Air Force Falcons vs. San Jose State Spartans,2026-11-15T00:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-6.5),-6.5,1.4348,4794670343,0,False
+18308552,Air Force Falcons vs. San Jose State Spartans,2026-11-15T00:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-11.5),-11.5,1.8,4791965319,0,False
+18308552,Air Force Falcons vs. San Jose State Spartans,2026-11-15T00:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+11.5),-11.5,1.8696,4791965318,0,False
+18308552,Air Force Falcons vs. San Jose State Spartans,2026-11-15T00:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-4.5),-4.5,1.3637,4794670354,0,False
+18308552,Air Force Falcons vs. San Jose State Spartans,2026-11-15T00:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+4.5),-4.5,2.9,4794670355,0,False
 18308552,Air Force Falcons vs. San Jose State Spartans,2026-11-15T00:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-8.5),-8.5,1.625,4794670356,0,False
 18308552,Air Force Falcons vs. San Jose State Spartans,2026-11-15T00:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+8.5),-8.5,2.2,4794670357,0,False
-18308552,Air Force Falcons vs. San Jose State Spartans,2026-11-15T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 45.5,45.5,1.7143,4794670304,0,False
-18308552,Air Force Falcons vs. San Jose State Spartans,2026-11-15T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 44.5,44.5,1.625,4794670305,0,False
-18308552,Air Force Falcons vs. San Jose State Spartans,2026-11-15T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 47.5,47.5,1.8334,4792058753,0,True
-18308552,Air Force Falcons vs. San Jose State Spartans,2026-11-15T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 44.5,44.5,2.2,4794670306,0,False
+18308552,Air Force Falcons vs. San Jose State Spartans,2026-11-15T00:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+20.5),-20.5,1.3637,4794670362,0,False
+18308552,Air Force Falcons vs. San Jose State Spartans,2026-11-15T00:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-20.5),-20.5,2.9,4794670363,0,False
+18308552,Air Force Falcons vs. San Jose State Spartans,2026-11-15T00:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+15.5),-15.5,1.625,4794670368,0,False
+18308552,Air Force Falcons vs. San Jose State Spartans,2026-11-15T00:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-15.5),-15.5,2.2,4794670369,0,False
+18308552,Air Force Falcons vs. San Jose State Spartans,2026-11-15T00:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-5.5),-5.5,1.4,4794670370,0,False
+18308552,Air Force Falcons vs. San Jose State Spartans,2026-11-15T00:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+5.5),-5.5,2.75,4794670371,0,False
+18308552,Air Force Falcons vs. San Jose State Spartans,2026-11-15T00:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-9.5),-9.5,1.6451,4794670374,0,False
+18308552,Air Force Falcons vs. San Jose State Spartans,2026-11-15T00:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+9.5),-9.5,2.15,4794670375,0,False
+18308552,Air Force Falcons vs. San Jose State Spartans,2026-11-15T00:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+19.5),-19.5,1.4,4794670376,0,False
+18308552,Air Force Falcons vs. San Jose State Spartans,2026-11-15T00:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-19.5),-19.5,2.75,4794670377,0,False
+18308552,Air Force Falcons vs. San Jose State Spartans,2026-11-15T00:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+13.5),-13.5,1.7693,4794670382,0,False
+18308552,Air Force Falcons vs. San Jose State Spartans,2026-11-15T00:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-13.5),-13.5,1.9091,4794670383,0,False
+18308552,Air Force Falcons vs. San Jose State Spartans,2026-11-15T00:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+16.5),-16.5,1.5556,4794670384,0,False
+18308552,Air Force Falcons vs. San Jose State Spartans,2026-11-15T00:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-16.5),-16.5,2.3,4794670385,0,False
+18308552,Air Force Falcons vs. San Jose State Spartans,2026-11-15T00:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+10.5),-10.5,1.9524,4791660271,0,False
+18308552,Air Force Falcons vs. San Jose State Spartans,2026-11-15T00:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-10.5),-10.5,1.7408,4791660272,0,False
+18308552,Air Force Falcons vs. San Jose State Spartans,2026-11-15T00:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-12.5),-12.5,1.8334,4792354032,0,True
+18308552,Air Force Falcons vs. San Jose State Spartans,2026-11-15T00:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+12.5),-12.5,1.8334,4792354033,0,True
+18308552,Air Force Falcons vs. San Jose State Spartans,2026-11-15T00:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-7.5),-7.5,1.5556,4794670330,0,False
+18308552,Air Force Falcons vs. San Jose State Spartans,2026-11-15T00:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+7.5),-7.5,2.3,4794670331,0,False
+18308552,Air Force Falcons vs. San Jose State Spartans,2026-11-15T00:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+17.5),-17.5,1.5,4794670334,0,False
+18308552,Air Force Falcons vs. San Jose State Spartans,2026-11-15T00:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-17.5),-17.5,2.5,4794670335,0,False
 18308552,Air Force Falcons vs. San Jose State Spartans,2026-11-15T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 47.5,47.5,1.8334,4792058752,0,True
-18308552,Air Force Falcons vs. San Jose State Spartans,2026-11-15T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 50.5,50.5,1.5715,4794670285,0,False
-18308552,Air Force Falcons vs. San Jose State Spartans,2026-11-15T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 50.5,50.5,2.25,4794670286,0,False
-18308552,Air Force Falcons vs. San Jose State Spartans,2026-11-15T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 49.5,49.5,2.15,4791660273,0,False
-18308552,Air Force Falcons vs. San Jose State Spartans,2026-11-15T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 49.5,49.5,1.6451,4791660274,0,False
+18308552,Air Force Falcons vs. San Jose State Spartans,2026-11-15T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 47.5,47.5,1.8334,4792058753,0,True
 18308552,Air Force Falcons vs. San Jose State Spartans,2026-11-15T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 48.5,48.5,1.6897,4792022553,0,False
 18308552,Air Force Falcons vs. San Jose State Spartans,2026-11-15T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 48.5,48.5,2.05,4792022554,0,False
+18308552,Air Force Falcons vs. San Jose State Spartans,2026-11-15T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 39.5,39.5,1.3125,4794670257,0,False
+18308552,Air Force Falcons vs. San Jose State Spartans,2026-11-15T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 39.5,39.5,3.2,4794670258,0,False
+18308552,Air Force Falcons vs. San Jose State Spartans,2026-11-15T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 53.5,53.5,1.4,4794670277,0,False
+18308552,Air Force Falcons vs. San Jose State Spartans,2026-11-15T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 53.5,53.5,2.75,4794670278,0,False
+18308552,Air Force Falcons vs. San Jose State Spartans,2026-11-15T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 51.5,51.5,1.5,4794670279,0,False
+18308552,Air Force Falcons vs. San Jose State Spartans,2026-11-15T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 51.5,51.5,2.5,4794670280,0,False
+18308552,Air Force Falcons vs. San Jose State Spartans,2026-11-15T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 52.5,52.5,1.4167,4794670281,0,False
+18308552,Air Force Falcons vs. San Jose State Spartans,2026-11-15T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 52.5,52.5,2.7,4794670282,0,False
+18308552,Air Force Falcons vs. San Jose State Spartans,2026-11-15T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 50.5,50.5,1.5715,4794670285,0,False
+18308552,Air Force Falcons vs. San Jose State Spartans,2026-11-15T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 50.5,50.5,2.25,4794670286,0,False
+18308552,Air Force Falcons vs. San Jose State Spartans,2026-11-15T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 55.5,55.5,1.2858,4794670287,0,False
+18308552,Air Force Falcons vs. San Jose State Spartans,2026-11-15T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 55.5,55.5,3.4,4794670288,0,False
+18308552,Air Force Falcons vs. San Jose State Spartans,2026-11-15T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 54.5,54.5,3.0,4794670291,0,False
+18308552,Air Force Falcons vs. San Jose State Spartans,2026-11-15T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 54.5,54.5,1.3572,4794670292,0,False
+18308552,Air Force Falcons vs. San Jose State Spartans,2026-11-15T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 41.5,41.5,2.65,4794670293,0,False
+18308552,Air Force Falcons vs. San Jose State Spartans,2026-11-15T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 41.5,41.5,1.4348,4794670294,0,False
+18308552,Air Force Falcons vs. San Jose State Spartans,2026-11-15T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 40.5,40.5,1.3572,4794670295,0,False
+18308552,Air Force Falcons vs. San Jose State Spartans,2026-11-15T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 40.5,40.5,3.0,4794670296,0,False
+18308552,Air Force Falcons vs. San Jose State Spartans,2026-11-15T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 43.5,43.5,1.5264,4794670297,0,False
+18308552,Air Force Falcons vs. San Jose State Spartans,2026-11-15T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 43.5,43.5,2.4,4794670298,0,False
+18308552,Air Force Falcons vs. San Jose State Spartans,2026-11-15T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 42.5,42.5,1.4762,4794670299,0,False
+18308552,Air Force Falcons vs. San Jose State Spartans,2026-11-15T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 42.5,42.5,2.55,4794670300,0,False
 18308552,Air Force Falcons vs. San Jose State Spartans,2026-11-15T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 46.5,46.5,1.9091,4794670301,0,False
 18308552,Air Force Falcons vs. San Jose State Spartans,2026-11-15T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 46.5,46.5,1.7693,4794670302,0,False
 18308552,Air Force Falcons vs. San Jose State Spartans,2026-11-15T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 45.5,45.5,2.0,4794670303,0,False
+18308552,Air Force Falcons vs. San Jose State Spartans,2026-11-15T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 45.5,45.5,1.7143,4794670304,0,False
+18308552,Air Force Falcons vs. San Jose State Spartans,2026-11-15T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 44.5,44.5,1.625,4794670305,0,False
+18308552,Air Force Falcons vs. San Jose State Spartans,2026-11-15T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 44.5,44.5,2.2,4794670306,0,False
+18308552,Air Force Falcons vs. San Jose State Spartans,2026-11-15T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 49.5,49.5,2.15,4791660273,0,False
+18308552,Air Force Falcons vs. San Jose State Spartans,2026-11-15T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 49.5,49.5,1.6451,4791660274,0,False

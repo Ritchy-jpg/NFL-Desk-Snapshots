@@ -1,29 +1,227 @@
 event_id,match,player,market,market_type_id,sport_market_id,child_market_id,odd_id,selection,line,price,odd_status,is_main_bet
-18102821,Colorado Buffaloes vs. Houston Cougars,Conner Weigman,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1830919455,4801135341,Conner Weigman (Hou) Plus de 246.5,Conner Weigman (Hou) Plus de 246.5,1.7693,0,True
-18102821,Colorado Buffaloes vs. Houston Cougars,Conner Weigman,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1830919455,4801135342,Conner Weigman (Hou) moins de 246.5,Conner Weigman (Hou) moins de 246.5,1.8334,0,True
-18102821,Colorado Buffaloes vs. Houston Cougars,Isaac Wilson,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1829797098,4797724325,Isaac Wilson (CU) Plus de 203.5,Isaac Wilson (CU) Plus de 203.5,1.7693,0,True
-18102821,Colorado Buffaloes vs. Houston Cougars,Isaac Wilson,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1829797098,4797724326,Isaac Wilson (CU) moins de 203.5,Isaac Wilson (CU) moins de 203.5,1.8334,0,True
+18102821,Colorado Buffaloes vs. Houston Cougars,Conner Weigman,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1830919455,4801135341,Conner Weigman (Hou) Plus de 246.5,Conner Weigman (Hou) Plus de 246.5,1.8,0,True
+18102821,Colorado Buffaloes vs. Houston Cougars,Conner Weigman,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1830919455,4801135342,Conner Weigman (Hou) moins de 246.5,Conner Weigman (Hou) moins de 246.5,1.8,0,True
+18102821,Colorado Buffaloes vs. Houston Cougars,Isaac Wilson,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1829793992,4797717160,Isaac Wilson (CU) moins de 204.5,Isaac Wilson (CU) moins de 204.5,1.8334,0,True
+18102821,Colorado Buffaloes vs. Houston Cougars,Isaac Wilson,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1829793992,4797717159,Isaac Wilson (CU) Plus de 204.5,Isaac Wilson (CU) Plus de 204.5,1.7693,0,True
+18102821,Colorado Buffaloes vs. Houston Cougars,Quanell Farrakhan Jr.,Verges de réception du joueur au moins (Quanell Farrakhan Jr. (COL)),2143,72898,1831976072,4804696944,26+,26+,1.8696,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Quanell Farrakhan Jr.,Verges de réception du joueur au moins (Quanell Farrakhan Jr. (COL)),2143,72898,1831976072,4804696945,36+,36+,2.2,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Quanell Farrakhan Jr.,Verges de réception du joueur au moins (Quanell Farrakhan Jr. (COL)),2143,72898,1831976072,4804696946,46+,46+,2.6,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Quanell Farrakhan Jr.,Verges de réception du joueur au moins (Quanell Farrakhan Jr. (COL)),2143,72898,1831976072,4804696947,56+,56+,3.2,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Quanell Farrakhan Jr.,Verges de réception du joueur au moins (Quanell Farrakhan Jr. (COL)),2143,72898,1831976072,4804696948,66+,66+,4.0,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Quanell Farrakhan Jr.,Verges de réception du joueur au moins (Quanell Farrakhan Jr. (COL)),2143,72898,1831976072,4804696949,76+,76+,5.25,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Quanell Farrakhan Jr.,Verges de réception du joueur au moins (Quanell Farrakhan Jr. (COL)),2143,72898,1831976072,4804696950,86+,86+,6.75,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Quanell Farrakhan Jr.,Verges de réception du joueur au moins (Quanell Farrakhan Jr. (COL)),2143,72898,1831976072,4804696951,96+,96+,9.0,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Quanell Farrakhan Jr.,Verges de réception du joueur au moins (Quanell Farrakhan Jr. (COL)),2143,72898,1831976072,4804696952,106+,106+,13.0,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Quanell Farrakhan Jr.,Verges de réception du joueur au moins (Quanell Farrakhan Jr. (COL)),2143,72898,1831976072,4804696953,16+,16+,1.4,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Koby Young,Verges de réception du joueur au moins (Koby Young (HOU)),2143,72898,1831976071,4804765418,34+,34+,1.8696,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Koby Young,Verges de réception du joueur au moins (Koby Young (HOU)),2143,72898,1831976071,4804765419,44+,44+,2.25,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Koby Young,Verges de réception du joueur au moins (Koby Young (HOU)),2143,72898,1831976071,4804765420,54+,54+,2.75,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Koby Young,Verges de réception du joueur au moins (Koby Young (HOU)),2143,72898,1831976071,4804765421,64+,64+,3.5,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Koby Young,Verges de réception du joueur au moins (Koby Young (HOU)),2143,72898,1831976071,4804765422,74+,74+,4.5,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Koby Young,Verges de réception du joueur au moins (Koby Young (HOU)),2143,72898,1831976071,4804765423,84+,84+,6.0,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Koby Young,Verges de réception du joueur au moins (Koby Young (HOU)),2143,72898,1831976071,4804765424,94+,94+,8.5,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Koby Young,Verges de réception du joueur au moins (Koby Young (HOU)),2143,72898,1831976071,4804765425,104+,104+,12.0,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Koby Young,Verges de réception du joueur au moins (Koby Young (HOU)),2143,72898,1831976071,4804765426,114+,114+,18.0,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Koby Young,Verges de réception du joueur au moins (Koby Young (HOU)),2143,72898,1831976071,4804765427,24+,24+,1.4762,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,DeAndre Moore Jr.,Verges de réception du joueur au moins (DeAndre Moore Jr. (COL)),2143,72898,1831976086,4805697703,52+,52+,1.8696,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,DeAndre Moore Jr.,Verges de réception du joueur au moins (DeAndre Moore Jr. (COL)),2143,72898,1831976086,4805697704,62+,62+,2.2,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,DeAndre Moore Jr.,Verges de réception du joueur au moins (DeAndre Moore Jr. (COL)),2143,72898,1831976086,4805697705,72+,72+,2.6,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,DeAndre Moore Jr.,Verges de réception du joueur au moins (DeAndre Moore Jr. (COL)),2143,72898,1831976086,4805697706,82+,82+,3.1,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,DeAndre Moore Jr.,Verges de réception du joueur au moins (DeAndre Moore Jr. (COL)),2143,72898,1831976086,4805697707,92+,92+,3.85,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,DeAndre Moore Jr.,Verges de réception du joueur au moins (DeAndre Moore Jr. (COL)),2143,72898,1831976086,4805697709,112+,112+,6.25,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,DeAndre Moore Jr.,Verges de réception du joueur au moins (DeAndre Moore Jr. (COL)),2143,72898,1831976086,4805697710,122+,122+,8.5,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,DeAndre Moore Jr.,Verges de réception du joueur au moins (DeAndre Moore Jr. (COL)),2143,72898,1831976086,4805697711,132+,132+,12.0,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,DeAndre Moore Jr.,Verges de réception du joueur au moins (DeAndre Moore Jr. (COL)),2143,72898,1831976086,4805697712,42+,42+,1.5,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Patrick Overmyer,Verges de réception du joueur au moins (Patrick Overmyer (HOU)),2143,72898,1831976084,4805697696,75+,75+,3.2,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Patrick Overmyer,Verges de réception du joueur au moins (Patrick Overmyer (HOU)),2143,72898,1831976084,4805697697,85+,85+,3.85,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Patrick Overmyer,Verges de réception du joueur au moins (Patrick Overmyer (HOU)),2143,72898,1831976084,4805697698,95+,95+,5.0,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Patrick Overmyer,Verges de réception du joueur au moins (Patrick Overmyer (HOU)),2143,72898,1831976084,4805697699,105+,105+,6.5,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Patrick Overmyer,Verges de réception du joueur au moins (Patrick Overmyer (HOU)),2143,72898,1831976084,4805697701,125+,125+,12.0,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Patrick Overmyer,Verges de réception du joueur au moins (Patrick Overmyer (HOU)),2143,72898,1831976084,4805697702,35+,35+,1.5,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Patrick Overmyer,Verges de réception du joueur au moins (Patrick Overmyer (HOU)),2143,72898,1831976084,4805697693,45+,45+,1.8696,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Patrick Overmyer,Verges de réception du joueur au moins (Patrick Overmyer (HOU)),2143,72898,1831976084,4805697694,55+,55+,2.2,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Patrick Overmyer,Verges de réception du joueur au moins (Patrick Overmyer (HOU)),2143,72898,1831976084,4805697695,65+,65+,2.6,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Trent Walker,Verges de réception du joueur au moins (Trent Walker (HOU)),2143,72898,1831976081,4804697024,104+,104+,6.75,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Trent Walker,Verges de réception du joueur au moins (Trent Walker (HOU)),2143,72898,1831976081,4804697025,114+,114+,9.0,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Trent Walker,Verges de réception du joueur au moins (Trent Walker (HOU)),2143,72898,1831976081,4804697026,124+,124+,13.0,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Trent Walker,Verges de réception du joueur au moins (Trent Walker (HOU)),2143,72898,1831976081,4804697027,34+,34+,1.5264,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Trent Walker,Verges de réception du joueur au moins (Trent Walker (HOU)),2143,72898,1831976081,4804697018,44+,44+,1.9091,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Trent Walker,Verges de réception du joueur au moins (Trent Walker (HOU)),2143,72898,1831976081,4804697019,54+,54+,2.2,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Trent Walker,Verges de réception du joueur au moins (Trent Walker (HOU)),2143,72898,1831976081,4804697020,64+,64+,2.65,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Trent Walker,Verges de réception du joueur au moins (Trent Walker (HOU)),2143,72898,1831976081,4804697021,74+,74+,3.3,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Trent Walker,Verges de réception du joueur au moins (Trent Walker (HOU)),2143,72898,1831976081,4804697022,84+,84+,4.0,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Trent Walker,Verges de réception du joueur au moins (Trent Walker (HOU)),2143,72898,1831976081,4804697023,94+,94+,5.25,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Joseph Williams,Verges de réception du joueur au moins (Joseph Williams (COL)),2143,72898,1831976243,4809292519,76+,76+,1.8696,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Joseph Williams,Verges de réception du joueur au moins (Joseph Williams (COL)),2143,72898,1831976243,4809292520,86+,86+,2.15,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Joseph Williams,Verges de réception du joueur au moins (Joseph Williams (COL)),2143,72898,1831976243,4809292521,96+,96+,2.55,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Joseph Williams,Verges de réception du joueur au moins (Joseph Williams (COL)),2143,72898,1831976243,4809292522,106+,106+,3.0,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Joseph Williams,Verges de réception du joueur au moins (Joseph Williams (COL)),2143,72898,1831976243,4809292523,116+,116+,3.75,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Joseph Williams,Verges de réception du joueur au moins (Joseph Williams (COL)),2143,72898,1831976243,4809292524,126+,126+,4.5,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Joseph Williams,Verges de réception du joueur au moins (Joseph Williams (COL)),2143,72898,1831976243,4809292525,136+,136+,5.75,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Joseph Williams,Verges de réception du joueur au moins (Joseph Williams (COL)),2143,72898,1831976243,4809292526,146+,146+,7.5,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Joseph Williams,Verges de réception du joueur au moins (Joseph Williams (COL)),2143,72898,1831976243,4809292527,156+,156+,10.0,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Joseph Williams,Verges de réception du joueur au moins (Joseph Williams (COL)),2143,72898,1831976243,4809292528,66+,66+,1.5556,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Amare Thomas,Verges de réception du joueur au moins (Amare Thomas (HOU)),2143,72898,1831976085,4804765440,82+,82+,2.15,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Amare Thomas,Verges de réception du joueur au moins (Amare Thomas (HOU)),2143,72898,1831976085,4804765441,92+,92+,2.55,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Amare Thomas,Verges de réception du joueur au moins (Amare Thomas (HOU)),2143,72898,1831976085,4804765443,112+,112+,3.75,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Amare Thomas,Verges de réception du joueur au moins (Amare Thomas (HOU)),2143,72898,1831976085,4804765444,122+,122+,4.5,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Amare Thomas,Verges de réception du joueur au moins (Amare Thomas (HOU)),2143,72898,1831976085,4804765445,132+,132+,5.75,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Amare Thomas,Verges de réception du joueur au moins (Amare Thomas (HOU)),2143,72898,1831976085,4804765446,142+,142+,7.5,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Amare Thomas,Verges de réception du joueur au moins (Amare Thomas (HOU)),2143,72898,1831976085,4804765447,152+,152+,10.0,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Amare Thomas,Verges de réception du joueur au moins (Amare Thomas (HOU)),2143,72898,1831976085,4804765448,62+,62+,1.5556,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Amare Thomas,Verges de réception du joueur au moins (Amare Thomas (HOU)),2143,72898,1831976085,4804765439,72+,72+,1.8696,0,False
 18102821,Colorado Buffaloes vs. Houston Cougars,Conner Weigman,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1826350700,4788318556,Conner Weigman (Hou) Plus de 1.5,Conner Weigman (Hou) Plus de 1.5,1.4762,0,False
 18102821,Colorado Buffaloes vs. Houston Cougars,Conner Weigman,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1826350700,4788318557,Conner Weigman (Hou) moins de 1.5,Conner Weigman (Hou) moins de 1.5,2.3,0,False
 18102821,Colorado Buffaloes vs. Houston Cougars,Isaac Wilson,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1826350901,4788318958,Isaac Wilson (CU) Plus de 1.5,Isaac Wilson (CU) Plus de 1.5,2.6,0,False
 18102821,Colorado Buffaloes vs. Houston Cougars,Isaac Wilson,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1826350901,4788318959,Isaac Wilson (CU) moins de 1.5,Isaac Wilson (CU) moins de 1.5,1.3847,0,False
-18102821,Colorado Buffaloes vs. Houston Cougars,Amare Thomas,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1830940564,4801196450,Amare Thomas (Hou) Plus de 71.5,Amare Thomas (Hou) Plus de 71.5,1.7693,0,False
-18102821,Colorado Buffaloes vs. Houston Cougars,Amare Thomas,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1830940564,4801196451,Amare Thomas (Hou) moins de 71.5,Amare Thomas (Hou) moins de 71.5,1.8334,0,False
-18102821,Colorado Buffaloes vs. Houston Cougars,Joseph Williams,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1829799184,4797729322,Joseph Williams (CU) Plus de 71.5,Joseph Williams (CU) Plus de 71.5,1.8,0,False
-18102821,Colorado Buffaloes vs. Houston Cougars,Joseph Williams,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1829799184,4797729323,Joseph Williams (CU) moins de 71.5,Joseph Williams (CU) moins de 71.5,1.8,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Joseph Williams,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1830456101,4799772548,Joseph Williams (CU) Plus de 72.5,Joseph Williams (CU) Plus de 72.5,1.8,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Joseph Williams,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1830456101,4799772549,Joseph Williams (CU) moins de 72.5,Joseph Williams (CU) moins de 72.5,1.8,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Amare Thomas,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1830940564,4801196450,Amare Thomas (Hou) Plus de 71.5,Amare Thomas (Hou) Plus de 71.5,1.8334,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Amare Thomas,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1830940564,4801196451,Amare Thomas (Hou) moins de 71.5,Amare Thomas (Hou) moins de 71.5,1.7693,0,False
 18102821,Colorado Buffaloes vs. Houston Cougars,DeAndre Moore Jr.,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1830899868,4801077053,DeAndre Moore Jr. (CU) Plus de 55.5,DeAndre Moore Jr. (CU) Plus de 55.5,1.8334,0,False
 18102821,Colorado Buffaloes vs. Houston Cougars,DeAndre Moore Jr.,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1830899868,4801077054,DeAndre Moore Jr. (CU) moins de 55.5,DeAndre Moore Jr. (CU) moins de 55.5,1.7693,0,False
-18102821,Colorado Buffaloes vs. Houston Cougars,Patrick Overmyer,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1830949578,4801217057,Patrick Overmyer (Hou) Plus de 45.5,Patrick Overmyer (Hou) Plus de 45.5,1.7693,0,False
-18102821,Colorado Buffaloes vs. Houston Cougars,Patrick Overmyer,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1830949578,4801217058,Patrick Overmyer (Hou) moins de 45.5,Patrick Overmyer (Hou) moins de 45.5,1.8334,0,False
-18102821,Colorado Buffaloes vs. Houston Cougars,Trent Walker,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1830951220,4801220962,Trent Walker (Hou) Plus de 43.5,Trent Walker (Hou) Plus de 43.5,1.8334,0,False
-18102821,Colorado Buffaloes vs. Houston Cougars,Trent Walker,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1830951220,4801220963,Trent Walker (Hou) moins de 43.5,Trent Walker (Hou) moins de 43.5,1.7693,0,False
-18102821,Colorado Buffaloes vs. Houston Cougars,Koby Young,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1830951872,4801222408,Koby Young (Hou) Plus de 34.5,Koby Young (Hou) Plus de 34.5,1.8,0,False
-18102821,Colorado Buffaloes vs. Houston Cougars,Koby Young,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1830951872,4801222409,Koby Young (Hou) moins de 34.5,Koby Young (Hou) moins de 34.5,1.8,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Patrick Overmyer,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1830949578,4801217057,Patrick Overmyer (Hou) Plus de 45.5,Patrick Overmyer (Hou) Plus de 45.5,1.8334,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Patrick Overmyer,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1830949578,4801217058,Patrick Overmyer (Hou) moins de 45.5,Patrick Overmyer (Hou) moins de 45.5,1.7693,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Trent Walker,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1830951220,4801220962,Trent Walker (Hou) Plus de 43.5,Trent Walker (Hou) Plus de 43.5,1.7693,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Trent Walker,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1830951220,4801220963,Trent Walker (Hou) moins de 43.5,Trent Walker (Hou) moins de 43.5,1.8334,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Koby Young,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1830951872,4801222408,Koby Young (Hou) Plus de 34.5,Koby Young (Hou) Plus de 34.5,1.8334,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Koby Young,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1830951872,4801222409,Koby Young (Hou) moins de 34.5,Koby Young (Hou) moins de 34.5,1.7693,0,False
 18102821,Colorado Buffaloes vs. Houston Cougars,Charlie Williams,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1830919461,4801135353,Charlie Williams (CU) Plus de 4.5,Charlie Williams (CU) Plus de 4.5,1.7693,0,False
 18102821,Colorado Buffaloes vs. Houston Cougars,Charlie Williams,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1830919461,4801135354,Charlie Williams (CU) moins de 4.5,Charlie Williams (CU) moins de 4.5,1.8334,0,False
-18102821,Colorado Buffaloes vs. Houston Cougars,Makhi Hughes,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1830933859,4801180298,Makhi Hughes (Hou) Plus de 64.5,Makhi Hughes (Hou) Plus de 64.5,1.7693,0,False
-18102821,Colorado Buffaloes vs. Houston Cougars,Makhi Hughes,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1830933859,4801180299,Makhi Hughes (Hou) moins de 64.5,Makhi Hughes (Hou) moins de 64.5,1.8334,0,False
-18102821,Colorado Buffaloes vs. Houston Cougars,Re'Shaun Sanford II,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1826618370,4788944051,Re'Shaun Sanford II (Hou) Plus de 61.5,Re'Shaun Sanford II (Hou) Plus de 61.5,1.7693,0,False
-18102821,Colorado Buffaloes vs. Houston Cougars,Re'Shaun Sanford II,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1826618370,4788944052,Re'Shaun Sanford II (Hou) moins de 61.5,Re'Shaun Sanford II (Hou) moins de 61.5,1.8334,0,False
-18102821,Colorado Buffaloes vs. Houston Cougars,Conner Weigman,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1830921818,4801149525,Conner Weigman (Hou) Plus de 29.5,Conner Weigman (Hou) Plus de 29.5,1.7693,0,False
-18102821,Colorado Buffaloes vs. Houston Cougars,Conner Weigman,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1830921818,4801149526,Conner Weigman (Hou) moins de 29.5,Conner Weigman (Hou) moins de 29.5,1.8334,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Re'Shaun Sanford II,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1829711176,4797522048,Re'Shaun Sanford II (Hou) moins de 63.5,Re'Shaun Sanford II (Hou) moins de 63.5,1.7693,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Re'Shaun Sanford II,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1829711176,4797522047,Re'Shaun Sanford II (Hou) Plus de 63.5,Re'Shaun Sanford II (Hou) Plus de 63.5,1.8334,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Makhi Hughes,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1830943866,4801203752,Makhi Hughes (Hou) Plus de 62.5,Makhi Hughes (Hou) Plus de 62.5,1.7693,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Makhi Hughes,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1830943866,4801203753,Makhi Hughes (Hou) moins de 62.5,Makhi Hughes (Hou) moins de 62.5,1.8334,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Conner Weigman,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1826350705,4788318566,Conner Weigman (Hou) Plus de 30.5,Conner Weigman (Hou) Plus de 30.5,1.8334,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Conner Weigman,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1826350705,4788318567,Conner Weigman (Hou) moins de 30.5,Conner Weigman (Hou) moins de 30.5,1.7693,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Joseph Williams,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1829799185,4797729324,Joseph Williams (CU) Plus de 6.5,Joseph Williams (CU) Plus de 6.5,2.0,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Joseph Williams,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1829799185,4797729325,Joseph Williams (CU) moins de 6.5,Joseph Williams (CU) moins de 6.5,1.6667,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Amare Thomas,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1826350802,4788318760,Amare Thomas (Hou) Plus de 4.5,Amare Thomas (Hou) Plus de 4.5,1.6667,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Amare Thomas,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1826350802,4788318761,Amare Thomas (Hou) moins de 4.5,Amare Thomas (Hou) moins de 4.5,2.0,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Patrick Overmyer,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1830945180,4801206802,Patrick Overmyer (Hou) Plus de 4.5,Patrick Overmyer (Hou) Plus de 4.5,1.8696,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Patrick Overmyer,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1830945180,4801206803,Patrick Overmyer (Hou) moins de 4.5,Patrick Overmyer (Hou) moins de 4.5,1.7693,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,DeAndre Moore Jr.,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1826782277,4789394986,DeAndre Moore Jr. (CU) Plus de 4.5,DeAndre Moore Jr. (CU) Plus de 4.5,1.9524,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,DeAndre Moore Jr.,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1826782277,4789394987,DeAndre Moore Jr. (CU) moins de 4.5,DeAndre Moore Jr. (CU) moins de 4.5,1.6897,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Trent Walker,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1826350693,4788318542,Trent Walker (Hou) Plus de 3.5,Trent Walker (Hou) Plus de 3.5,1.8334,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Trent Walker,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1826350693,4788318543,Trent Walker (Hou) moins de 3.5,Trent Walker (Hou) moins de 3.5,1.8,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Koby Young,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1826350946,4788319048,Koby Young (Hou) Plus de 2.5,Koby Young (Hou) Plus de 2.5,1.8696,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Koby Young,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1826350946,4788319049,Koby Young (Hou) moins de 2.5,Koby Young (Hou) moins de 2.5,1.7693,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Charlie Williams,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1829799180,4797729314,Charlie Williams (CU) Plus de 0.5,Charlie Williams (CU) Plus de 0.5,1.5264,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Charlie Williams,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1829799180,4797729315,Charlie Williams (CU) moins de 0.5,Charlie Williams (CU) moins de 0.5,2.25,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Conner Weigman,"Passes complétées, Joueur (prolongations incluses)",760,71921,1830913710,4801117354,Conner Weigman (Hou) Plus de 19.5,Conner Weigman (Hou) Plus de 19.5,1.9091,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Conner Weigman,"Passes complétées, Joueur (prolongations incluses)",760,71921,1830913710,4801117355,Conner Weigman (Hou) moins de 19.5,Conner Weigman (Hou) moins de 19.5,1.7408,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Conner Weigman,Touchés par la passe du joueur au moins (Conner Weigman (HOU)),2138,72893,1831976077,4804696986,2+,2+,1.5883,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Conner Weigman,Touchés par la passe du joueur au moins (Conner Weigman (HOU)),2138,72893,1831976077,4804696987,3+,3+,2.45,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Conner Weigman,Touchés par la passe du joueur au moins (Conner Weigman (HOU)),2138,72893,1831976077,4804696988,4+,4+,4.3,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Conner Weigman,Touchés par la passe du joueur au moins (Conner Weigman (HOU)),2138,72893,1831976077,4804696989,1+,1+,1.125,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Isaac Wilson,Touchés par la passe du joueur au moins (Isaac Wilson (COL)),2138,72893,1831976078,4804696992,4+,4+,9.0,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Isaac Wilson,Touchés par la passe du joueur au moins (Isaac Wilson (COL)),2138,72893,1831976078,4804696993,1+,1+,1.3847,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Isaac Wilson,Touchés par la passe du joueur au moins (Isaac Wilson (COL)),2138,72893,1831976078,4804696990,2+,2+,2.45,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Isaac Wilson,Touchés par la passe du joueur au moins (Isaac Wilson (COL)),2138,72893,1831976078,4804696991,3+,3+,4.25,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Isaac Wilson,Verges par la passe du joueur au moins (Isaac Wilson (COL)),2136,72891,1831976083,4809028586,214+,214+,1.8696,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Isaac Wilson,Verges par la passe du joueur au moins (Isaac Wilson (COL)),2136,72891,1831976083,4809028587,224+,224+,2.05,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Isaac Wilson,Verges par la passe du joueur au moins (Isaac Wilson (COL)),2136,72891,1831976083,4809028588,234+,234+,2.25,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Isaac Wilson,Verges par la passe du joueur au moins (Isaac Wilson (COL)),2136,72891,1831976083,4809028589,244+,244+,2.5,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Isaac Wilson,Verges par la passe du joueur au moins (Isaac Wilson (COL)),2136,72891,1831976083,4809028590,254+,254+,2.8,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Isaac Wilson,Verges par la passe du joueur au moins (Isaac Wilson (COL)),2136,72891,1831976083,4809028591,264+,264+,3.2,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Isaac Wilson,Verges par la passe du joueur au moins (Isaac Wilson (COL)),2136,72891,1831976083,4809028592,274+,274+,3.6,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Isaac Wilson,Verges par la passe du joueur au moins (Isaac Wilson (COL)),2136,72891,1831976083,4809028593,284+,284+,4.0,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Isaac Wilson,Verges par la passe du joueur au moins (Isaac Wilson (COL)),2136,72891,1831976083,4809028594,294+,294+,4.75,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Isaac Wilson,Verges par la passe du joueur au moins (Isaac Wilson (COL)),2136,72891,1831976083,4809028595,304+,304+,5.5,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Isaac Wilson,Verges par la passe du joueur au moins (Isaac Wilson (COL)),2136,72891,1831976083,4809028596,314+,314+,6.5,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Isaac Wilson,Verges par la passe du joueur au moins (Isaac Wilson (COL)),2136,72891,1831976083,4809028597,324+,324+,7.75,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Isaac Wilson,Verges par la passe du joueur au moins (Isaac Wilson (COL)),2136,72891,1831976083,4809028598,334+,334+,9.0,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Isaac Wilson,Verges par la passe du joueur au moins (Isaac Wilson (COL)),2136,72891,1831976083,4809028599,344+,344+,11.0,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Isaac Wilson,Verges par la passe du joueur au moins (Isaac Wilson (COL)),2136,72891,1831976083,4809028600,354+,354+,14.0,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Isaac Wilson,Verges par la passe du joueur au moins (Isaac Wilson (COL)),2136,72891,1831976083,4809028601,204+,204+,1.6897,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Isaac Wilson,Verges par la passe du joueur au moins (Isaac Wilson (COL)),2136,72891,1831976083,4809028602,194+,194+,1.5264,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Conner Weigman,Verges par la passe du joueur au moins (Conner Weigman (HOU)),2136,72891,1831976080,4805697756,365+,365+,11.0,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Conner Weigman,Verges par la passe du joueur au moins (Conner Weigman (HOU)),2136,72891,1831976080,4805697755,355+,355+,9.0,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Conner Weigman,Verges par la passe du joueur au moins (Conner Weigman (HOU)),2136,72891,1831976080,4805697681,235+,235+,1.8696,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Conner Weigman,Verges par la passe du joueur au moins (Conner Weigman (HOU)),2136,72891,1831976080,4805697682,245+,245+,2.05,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Conner Weigman,Verges par la passe du joueur au moins (Conner Weigman (HOU)),2136,72891,1831976080,4805697683,255+,255+,2.25,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Conner Weigman,Verges par la passe du joueur au moins (Conner Weigman (HOU)),2136,72891,1831976080,4805697684,265+,265+,2.5,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Conner Weigman,Verges par la passe du joueur au moins (Conner Weigman (HOU)),2136,72891,1831976080,4805697685,275+,275+,2.8,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Conner Weigman,Verges par la passe du joueur au moins (Conner Weigman (HOU)),2136,72891,1831976080,4805697686,285+,285+,3.1,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Conner Weigman,Verges par la passe du joueur au moins (Conner Weigman (HOU)),2136,72891,1831976080,4805697687,295+,295+,3.6,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Conner Weigman,Verges par la passe du joueur au moins (Conner Weigman (HOU)),2136,72891,1831976080,4805697688,305+,305+,4.0,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Conner Weigman,Verges par la passe du joueur au moins (Conner Weigman (HOU)),2136,72891,1831976080,4805697689,315+,315+,4.75,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Conner Weigman,Verges par la passe du joueur au moins (Conner Weigman (HOU)),2136,72891,1831976080,4805697690,325+,325+,5.5,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Conner Weigman,Verges par la passe du joueur au moins (Conner Weigman (HOU)),2136,72891,1831976080,4805697691,335+,335+,6.25,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Conner Weigman,Verges par la passe du joueur au moins (Conner Weigman (HOU)),2136,72891,1831976080,4805697692,345+,345+,7.5,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Conner Weigman,Verges par la passe du joueur au moins (Conner Weigman (HOU)),2136,72891,1831976080,4805697757,375+,375+,13.0,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Conner Weigman,Verges par la passe du joueur au moins (Conner Weigman (HOU)),2136,72891,1831976080,4805697758,225+,225+,1.6897,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Conner Weigman,Verges par la passe du joueur au moins (Conner Weigman (HOU)),2136,72891,1831976080,4805697759,215+,215+,1.5264,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Re'Shaun Sanford,Verges au sol du joueur au moins (Re'Shaun Sanford (HOU)),2140,72895,1831976055,4805697664,108+,108+,5.5,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Re'Shaun Sanford,Verges au sol du joueur au moins (Re'Shaun Sanford (HOU)),2140,72895,1831976055,4805697665,118+,118+,7.25,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Re'Shaun Sanford,Verges au sol du joueur au moins (Re'Shaun Sanford (HOU)),2140,72895,1831976055,4805697666,128+,128+,10.0,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Re'Shaun Sanford,Verges au sol du joueur au moins (Re'Shaun Sanford (HOU)),2140,72895,1831976055,4805697667,138+,138+,14.0,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Re'Shaun Sanford,Verges au sol du joueur au moins (Re'Shaun Sanford (HOU)),2140,72895,1831976055,4805697668,48+,48+,1.5,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Re'Shaun Sanford,Verges au sol du joueur au moins (Re'Shaun Sanford (HOU)),2140,72895,1831976055,4805697669,38+,38+,1.2667,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Re'Shaun Sanford,Verges au sol du joueur au moins (Re'Shaun Sanford (HOU)),2140,72895,1831976055,4805697659,58+,58+,1.8696,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Re'Shaun Sanford,Verges au sol du joueur au moins (Re'Shaun Sanford (HOU)),2140,72895,1831976055,4805697660,68+,68+,2.2,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Re'Shaun Sanford,Verges au sol du joueur au moins (Re'Shaun Sanford (HOU)),2140,72895,1831976055,4805697661,78+,78+,2.65,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Re'Shaun Sanford,Verges au sol du joueur au moins (Re'Shaun Sanford (HOU)),2140,72895,1831976055,4805697662,88+,88+,3.3,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Re'Shaun Sanford,Verges au sol du joueur au moins (Re'Shaun Sanford (HOU)),2140,72895,1831976055,4805697663,98+,98+,4.25,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Conner Weigman,Verges au sol du joueur au moins (Conner Weigman (HOU)),2140,72895,1831976073,4805697670,35+,35+,1.8696,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Conner Weigman,Verges au sol du joueur au moins (Conner Weigman (HOU)),2140,72895,1831976073,4805697671,45+,45+,2.2,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Conner Weigman,Verges au sol du joueur au moins (Conner Weigman (HOU)),2140,72895,1831976073,4805697672,55+,55+,2.6,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Conner Weigman,Verges au sol du joueur au moins (Conner Weigman (HOU)),2140,72895,1831976073,4805697673,65+,65+,3.1,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Conner Weigman,Verges au sol du joueur au moins (Conner Weigman (HOU)),2140,72895,1831976073,4805697674,75+,75+,3.85,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Conner Weigman,Verges au sol du joueur au moins (Conner Weigman (HOU)),2140,72895,1831976073,4805697675,85+,85+,5.0,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Conner Weigman,Verges au sol du joueur au moins (Conner Weigman (HOU)),2140,72895,1831976073,4805697676,95+,95+,6.5,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Conner Weigman,Verges au sol du joueur au moins (Conner Weigman (HOU)),2140,72895,1831976073,4805697677,105+,105+,8.5,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Conner Weigman,Verges au sol du joueur au moins (Conner Weigman (HOU)),2140,72895,1831976073,4805697679,25+,25+,1.5,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Conner Weigman,Verges au sol du joueur au moins (Conner Weigman (HOU)),2140,72895,1831976073,4805697680,15+,15+,1.2667,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Makhi Hughes,Verges au sol du joueur au moins (Makhi Hughes (HOU)),2140,72895,1831976242,4804697488,67+,67+,1.8696,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Makhi Hughes,Verges au sol du joueur au moins (Makhi Hughes (HOU)),2140,72895,1831976242,4804697489,77+,77+,2.25,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Makhi Hughes,Verges au sol du joueur au moins (Makhi Hughes (HOU)),2140,72895,1831976242,4804697490,87+,87+,2.75,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Makhi Hughes,Verges au sol du joueur au moins (Makhi Hughes (HOU)),2140,72895,1831976242,4804697491,97+,97+,3.4,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Makhi Hughes,Verges au sol du joueur au moins (Makhi Hughes (HOU)),2140,72895,1831976242,4804697492,107+,107+,4.4,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Makhi Hughes,Verges au sol du joueur au moins (Makhi Hughes (HOU)),2140,72895,1831976242,4804697493,117+,117+,6.0,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Makhi Hughes,Verges au sol du joueur au moins (Makhi Hughes (HOU)),2140,72895,1831976242,4804697494,127+,127+,8.5,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Makhi Hughes,Verges au sol du joueur au moins (Makhi Hughes (HOU)),2140,72895,1831976242,4804697495,137+,137+,12.0,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Makhi Hughes,Verges au sol du joueur au moins (Makhi Hughes (HOU)),2140,72895,1831976242,4804697497,57+,57+,1.5264,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Makhi Hughes,Verges au sol du joueur au moins (Makhi Hughes (HOU)),2140,72895,1831976242,4804697498,47+,47+,1.3077,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Koby Young,Joueur total de réception (Koby Young (HOU)) (incl. OT),2142,72897,1831976082,4804697028,3+,3+,1.9091,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Koby Young,Joueur total de réception (Koby Young (HOU)) (incl. OT),2142,72897,1831976082,4804697029,4+,4+,2.9,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Koby Young,Joueur total de réception (Koby Young (HOU)) (incl. OT),2142,72897,1831976082,4804697030,5+,5+,5.0,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Koby Young,Joueur total de réception (Koby Young (HOU)) (incl. OT),2142,72897,1831976082,4804697031,6+,6+,10.0,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Koby Young,Joueur total de réception (Koby Young (HOU)) (incl. OT),2142,72897,1831976082,4804697032,7+,7+,20.0,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Koby Young,Joueur total de réception (Koby Young (HOU)) (incl. OT),2142,72897,1831976082,4804697033,8+,8+,41.0,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Koby Young,Joueur total de réception (Koby Young (HOU)) (incl. OT),2142,72897,1831976082,4804697034,2+,2+,1.25,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Amare Thomas,Joueur total de réception (Amare Thomas (HOU)) (incl. OT),2142,72897,1831976079,4804696994,5+,5+,1.8,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Amare Thomas,Joueur total de réception (Amare Thomas (HOU)) (incl. OT),2142,72897,1831976079,4804696995,6+,6+,2.5,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Amare Thomas,Joueur total de réception (Amare Thomas (HOU)) (incl. OT),2142,72897,1831976079,4804696996,7+,7+,3.85,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Amare Thomas,Joueur total de réception (Amare Thomas (HOU)) (incl. OT),2142,72897,1831976079,4804696997,8+,8+,6.0,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Amare Thomas,Joueur total de réception (Amare Thomas (HOU)) (incl. OT),2142,72897,1831976079,4804696998,9+,9+,11.0,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Amare Thomas,Joueur total de réception (Amare Thomas (HOU)) (incl. OT),2142,72897,1831976079,4804696999,10+,10+,20.0,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Amare Thomas,Joueur total de réception (Amare Thomas (HOU)) (incl. OT),2142,72897,1831976079,4804697000,4+,4+,1.2667,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Trent Walker,Joueur total de réception (Trent Walker (HOU)) (incl. OT),2142,72897,1831976076,4804696979,4+,4+,2.0,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Trent Walker,Joueur total de réception (Trent Walker (HOU)) (incl. OT),2142,72897,1831976076,4804696980,5+,5+,2.85,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Trent Walker,Joueur total de réception (Trent Walker (HOU)) (incl. OT),2142,72897,1831976076,4804696981,6+,6+,4.5,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Trent Walker,Joueur total de réception (Trent Walker (HOU)) (incl. OT),2142,72897,1831976076,4804696982,7+,7+,7.5,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Trent Walker,Joueur total de réception (Trent Walker (HOU)) (incl. OT),2142,72897,1831976076,4804696983,8+,8+,14.0,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Trent Walker,Joueur total de réception (Trent Walker (HOU)) (incl. OT),2142,72897,1831976076,4804696984,9+,9+,26.0,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Trent Walker,Joueur total de réception (Trent Walker (HOU)) (incl. OT),2142,72897,1831976076,4804696985,3+,3+,1.3077,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,DeAndre Moore Jr.,Joueur total de réception (DeAndre Moore Jr. (COL)) (incl. OT),2142,72897,1831976074,4804696965,5+,5+,2.05,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,DeAndre Moore Jr.,Joueur total de réception (DeAndre Moore Jr. (COL)) (incl. OT),2142,72897,1831976074,4804696966,6+,6+,2.95,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,DeAndre Moore Jr.,Joueur total de réception (DeAndre Moore Jr. (COL)) (incl. OT),2142,72897,1831976074,4804696967,7+,7+,4.75,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,DeAndre Moore Jr.,Joueur total de réception (DeAndre Moore Jr. (COL)) (incl. OT),2142,72897,1831976074,4804696968,8+,8+,8.5,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,DeAndre Moore Jr.,Joueur total de réception (DeAndre Moore Jr. (COL)) (incl. OT),2142,72897,1831976074,4804696969,9+,9+,17.0,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,DeAndre Moore Jr.,Joueur total de réception (DeAndre Moore Jr. (COL)) (incl. OT),2142,72897,1831976074,4804696970,10+,10+,36.0,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,DeAndre Moore Jr.,Joueur total de réception (DeAndre Moore Jr. (COL)) (incl. OT),2142,72897,1831976074,4804696971,4+,4+,1.3449,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Patrick Overmyer,Joueur total de réception (Patrick Overmyer (HOU)) (incl. OT),2142,72897,1831976241,4804697481,5+,5+,2.05,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Patrick Overmyer,Joueur total de réception (Patrick Overmyer (HOU)) (incl. OT),2142,72897,1831976241,4804697482,6+,6+,2.75,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Patrick Overmyer,Joueur total de réception (Patrick Overmyer (HOU)) (incl. OT),2142,72897,1831976241,4804697483,7+,7+,4.0,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Patrick Overmyer,Joueur total de réception (Patrick Overmyer (HOU)) (incl. OT),2142,72897,1831976241,4804697484,8+,8+,6.25,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Patrick Overmyer,Joueur total de réception (Patrick Overmyer (HOU)) (incl. OT),2142,72897,1831976241,4804697485,9+,9+,11.0,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Patrick Overmyer,Joueur total de réception (Patrick Overmyer (HOU)) (incl. OT),2142,72897,1831976241,4804697486,10+,10+,19.0,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Patrick Overmyer,Joueur total de réception (Patrick Overmyer (HOU)) (incl. OT),2142,72897,1831976241,4804697487,4+,4+,1.3847,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Joseph Williams,Joueur total de réception (Joseph Williams (COL)) (incl. OT),2142,72897,1831976075,4804696972,7+,7+,2.1,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Joseph Williams,Joueur total de réception (Joseph Williams (COL)) (incl. OT),2142,72897,1831976075,4804696973,8+,8+,2.6,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Joseph Williams,Joueur total de réception (Joseph Williams (COL)) (incl. OT),2142,72897,1831976075,4804696974,9+,9+,3.5,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Joseph Williams,Joueur total de réception (Joseph Williams (COL)) (incl. OT),2142,72897,1831976075,4804696975,10+,10+,5.0,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Joseph Williams,Joueur total de réception (Joseph Williams (COL)) (incl. OT),2142,72897,1831976075,4804696976,11+,11+,7.0,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Joseph Williams,Joueur total de réception (Joseph Williams (COL)) (incl. OT),2142,72897,1831976075,4804696977,12+,12+,11.0,0,False
+18102821,Colorado Buffaloes vs. Houston Cougars,Joseph Williams,Joueur total de réception (Joseph Williams (COL)) (incl. OT),2142,72897,1831976075,4804696978,6+,6+,1.5556,0,False

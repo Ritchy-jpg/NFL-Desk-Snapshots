@@ -1,20 +1,20 @@
 event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id,selection,line,price,odd_id,odd_status,is_main_bet
 18112948,Michigan State Spartans vs. Washington Huskies,2026-11-14T21:15:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,2,,1.5264,4791149243,0,False
 18112948,Michigan State Spartans vs. Washington Huskies,2026-11-14T21:15:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1,,2.3,4791149244,0,False
-18112948,Michigan State Spartans vs. Washington Huskies,2026-11-14T21:15:00Z,spread,Écart (prolongation incluse),223,70799,1 (+5.5),5.5,1.6451,4794668960,0,False
-18112948,Michigan State Spartans vs. Washington Huskies,2026-11-14T21:15:00Z,spread,Écart (prolongation incluse),223,70799,2 (-5.5),5.5,2.15,4794668961,0,False
-18112948,Michigan State Spartans vs. Washington Huskies,2026-11-14T21:15:00Z,spread,Écart (prolongation incluse),223,70799,1 (+7.5),7.5,1.4348,4794668964,0,False
-18112948,Michigan State Spartans vs. Washington Huskies,2026-11-14T21:15:00Z,spread,Écart (prolongation incluse),223,70799,2 (-7.5),7.5,2.65,4794668965,0,False
+18112948,Michigan State Spartans vs. Washington Huskies,2026-11-14T21:15:00Z,spread,Écart (prolongation incluse),223,70799,1 (+5.5),5.5,1.6667,4794668960,0,False
+18112948,Michigan State Spartans vs. Washington Huskies,2026-11-14T21:15:00Z,spread,Écart (prolongation incluse),223,70799,2 (-5.5),5.5,2.1,4794668961,0,False
+18112948,Michigan State Spartans vs. Washington Huskies,2026-11-14T21:15:00Z,spread,Écart (prolongation incluse),223,70799,1 (+7.5),7.5,1.4546,4794668964,0,False
+18112948,Michigan State Spartans vs. Washington Huskies,2026-11-14T21:15:00Z,spread,Écart (prolongation incluse),223,70799,2 (-7.5),7.5,2.6,4794668965,0,False
 18112948,Michigan State Spartans vs. Washington Huskies,2026-11-14T21:15:00Z,spread,Écart (prolongation incluse),223,70799,2 (-3.5),3.5,1.8696,4791149259,0,True
 18112948,Michigan State Spartans vs. Washington Huskies,2026-11-14T21:15:00Z,spread,Écart (prolongation incluse),223,70799,1 (+3.5),3.5,1.8,4791149260,0,True
-18112948,Michigan State Spartans vs. Washington Huskies,2026-11-14T21:15:00Z,spread,Écart (prolongation incluse),223,70799,1 (+4.5),4.5,1.6897,4794668974,0,False
-18112948,Michigan State Spartans vs. Washington Huskies,2026-11-14T21:15:00Z,spread,Écart (prolongation incluse),223,70799,2 (-4.5),4.5,2.05,4794668975,0,False
+18112948,Michigan State Spartans vs. Washington Huskies,2026-11-14T21:15:00Z,spread,Écart (prolongation incluse),223,70799,1 (+4.5),4.5,1.7143,4794668974,0,False
+18112948,Michigan State Spartans vs. Washington Huskies,2026-11-14T21:15:00Z,spread,Écart (prolongation incluse),223,70799,2 (-4.5),4.5,2.0,4794668975,0,False
 18112948,Michigan State Spartans vs. Washington Huskies,2026-11-14T21:15:00Z,spread,Écart (prolongation incluse),223,70799,2 (-1.5),1.5,1.625,4794668950,0,False
 18112948,Michigan State Spartans vs. Washington Huskies,2026-11-14T21:15:00Z,spread,Écart (prolongation incluse),223,70799,1 (+1.5),1.5,2.2,4794668951,0,False
 18112948,Michigan State Spartans vs. Washington Huskies,2026-11-14T21:15:00Z,spread,Écart (prolongation incluse),223,70799,2 (-2.5),2.5,1.6667,4794668952,0,False
 18112948,Michigan State Spartans vs. Washington Huskies,2026-11-14T21:15:00Z,spread,Écart (prolongation incluse),223,70799,1 (+2.5),2.5,2.1,4794668953,0,False
-18112948,Michigan State Spartans vs. Washington Huskies,2026-11-14T21:15:00Z,spread,Écart (prolongation incluse),223,70799,2 (-6.5),6.5,2.3,4794668954,0,False
-18112948,Michigan State Spartans vs. Washington Huskies,2026-11-14T21:15:00Z,spread,Écart (prolongation incluse),223,70799,1 (+6.5),6.5,1.5556,4794668955,0,False
+18112948,Michigan State Spartans vs. Washington Huskies,2026-11-14T21:15:00Z,spread,Écart (prolongation incluse),223,70799,2 (-6.5),6.5,2.25,4794668954,0,False
+18112948,Michigan State Spartans vs. Washington Huskies,2026-11-14T21:15:00Z,spread,Écart (prolongation incluse),223,70799,1 (+6.5),6.5,1.5715,4794668955,0,False
 18112948,Michigan State Spartans vs. Washington Huskies,2026-11-14T21:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 40.5,40.5,1.6451,4794668900,0,False
 18112948,Michigan State Spartans vs. Washington Huskies,2026-11-14T21:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 40.5,40.5,2.15,4794668901,0,False
 18112948,Michigan State Spartans vs. Washington Huskies,2026-11-14T21:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 41.5,41.5,1.9524,4794668902,0,False
@@ -25,7 +25,7 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 18112948,Michigan State Spartans vs. Washington Huskies,2026-11-14T21:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 42.5,42.5,1.8,4792944589,0,True
 18112948,Michigan State Spartans vs. Washington Huskies,2026-11-14T21:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 39.5,39.5,2.25,4794668910,0,False
 18112948,Michigan State Spartans vs. Washington Huskies,2026-11-14T21:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 39.5,39.5,1.5715,4794668911,0,False
-18112948,Michigan State Spartans vs. Washington Huskies,2026-11-14T21:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 44.5,44.5,2.1,4792278480,0,False
+18112948,Michigan State Spartans vs. Washington Huskies,2026-11-14T21:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 44.5,44.5,2.05,4792278480,0,False
 18112948,Michigan State Spartans vs. Washington Huskies,2026-11-14T21:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 43.5,43.5,1.7693,4792286001,0,False
 18112948,Michigan State Spartans vs. Washington Huskies,2026-11-14T21:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 43.5,43.5,1.9091,4792286002,0,False
-18112948,Michigan State Spartans vs. Washington Huskies,2026-11-14T21:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 44.5,44.5,1.6667,4792278479,0,False
+18112948,Michigan State Spartans vs. Washington Huskies,2026-11-14T21:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 44.5,44.5,1.6897,4792278479,0,False

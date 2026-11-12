@@ -1,30 +1,30 @@
 {
-  "observed_at": "2026-11-12T22:24:40.751211+00:00",
+  "observed_at": "2026-11-12T22:57:12.932968+00:00",
   "expected_events": 15,
   "successful_events": 15,
   "events": [
     {
       "event_id": 16564440,
       "match": "NY Giants vs. WAS Commanders",
-      "prop_selections": 1768,
+      "prop_selections": 1765,
       "players": 51,
-      "prop_markets": 575,
+      "prop_markets": 577,
       "main_selections": 102,
-      "raw_child_markets": 746,
-      "raw_named_child_markets": 690,
-      "raw_odds": 3381,
+      "raw_child_markets": 750,
+      "raw_named_child_markets": 693,
+      "raw_odds": 3375,
       "props_status": "PARSED"
     },
     {
       "event_id": 16503490,
       "match": "DET Lions vs. NE Patriots",
-      "prop_selections": 922,
+      "prop_selections": 923,
       "players": 23,
       "prop_markets": 300,
       "main_selections": 102,
-      "raw_child_markets": 383,
-      "raw_named_child_markets": 372,
-      "raw_odds": 2166,
+      "raw_child_markets": 384,
+      "raw_named_child_markets": 373,
+      "raw_odds": 2170,
       "props_status": "PARSED"
     },
     {
@@ -36,31 +36,31 @@
       "main_selections": 102,
       "raw_child_markets": 614,
       "raw_named_child_markets": 570,
-      "raw_odds": 2827,
+      "raw_odds": 2828,
       "props_status": "PARSED"
     },
     {
       "event_id": 16564465,
       "match": "GB Packers vs. MIN Vikings",
-      "prop_selections": 1201,
+      "prop_selections": 1192,
       "players": 35,
-      "prop_markets": 402,
+      "prop_markets": 403,
       "main_selections": 102,
-      "raw_child_markets": 530,
-      "raw_named_child_markets": 498,
-      "raw_odds": 2539,
+      "raw_child_markets": 531,
+      "raw_named_child_markets": 499,
+      "raw_odds": 2520,
       "props_status": "PARSED"
     },
     {
       "event_id": 16564493,
       "match": "NY Jets vs. BUF Bills",
-      "prop_selections": 1406,
+      "prop_selections": 1407,
       "players": 30,
       "prop_markets": 451,
       "main_selections": 102,
       "raw_child_markets": 613,
       "raw_named_child_markets": 558,
-      "raw_odds": 2743,
+      "raw_odds": 2748,
       "props_status": "PARSED"
     },
     {
@@ -68,11 +68,11 @@
       "match": "TEN Titans vs. JAX Jaguars",
       "prop_selections": 1221,
       "players": 26,
-      "prop_markets": 424,
+      "prop_markets": 425,
       "main_selections": 102,
-      "raw_child_markets": 548,
-      "raw_named_child_markets": 526,
-      "raw_odds": 2453,
+      "raw_child_markets": 549,
+      "raw_named_child_markets": 527,
+      "raw_odds": 2450,
       "props_status": "PARSED"
     },
     {
@@ -102,13 +102,13 @@
     {
       "event_id": 17176321,
       "match": "CLE Browns vs. HOU Texans",
-      "prop_selections": 1353,
+      "prop_selections": 1341,
       "players": 27,
-      "prop_markets": 450,
+      "prop_markets": 448,
       "main_selections": 102,
-      "raw_child_markets": 604,
-      "raw_named_child_markets": 559,
-      "raw_odds": 2653,
+      "raw_child_markets": 601,
+      "raw_named_child_markets": 556,
+      "raw_odds": 2636,
       "props_status": "PARSED"
     },
     {
@@ -126,25 +126,25 @@
     {
       "event_id": 16564791,
       "match": "ARZ Cardinals vs. LA Rams",
-      "prop_selections": 1391,
+      "prop_selections": 1382,
       "players": 26,
-      "prop_markets": 467,
+      "prop_markets": 466,
       "main_selections": 102,
-      "raw_child_markets": 618,
-      "raw_named_child_markets": 576,
-      "raw_odds": 2672,
+      "raw_child_markets": 616,
+      "raw_named_child_markets": 575,
+      "raw_odds": 2655,
       "props_status": "PARSED"
     },
     {
       "event_id": 16564809,
       "match": "DAL Cowboys vs. SF 49ers",
-      "prop_selections": 1134,
+      "prop_selections": 1128,
       "players": 26,
-      "prop_markets": 369,
+      "prop_markets": 368,
       "main_selections": 102,
-      "raw_child_markets": 466,
-      "raw_named_child_markets": 455,
-      "raw_odds": 2274,
+      "raw_child_markets": 464,
+      "raw_named_child_markets": 454,
+      "raw_odds": 2266,
       "props_status": "PARSED"
     },
     {
@@ -162,13 +162,13 @@
     {
       "event_id": 16768117,
       "match": "BAL Ravens vs. LA Chargers",
-      "prop_selections": 663,
+      "prop_selections": 665,
       "players": 27,
       "prop_markets": 238,
       "main_selections": 102,
-      "raw_child_markets": 309,
+      "raw_child_markets": 308,
       "raw_named_child_markets": 301,
-      "raw_odds": 1590,
+      "raw_odds": 1591,
       "props_status": "PARSED"
     },
     {
@@ -184,7 +184,7 @@
       "props_status": "NO_PLAYER_CHILD_MARKETS_RETURNED"
     }
   ],
-  "props": 16894,
+  "props": 16859,
   "main_contracts": 1430,
   "complete": true,
   "completeness_scope": "events returned by GP GetEvents; not website or NFL schedule completeness"

@@ -1,33 +1,296 @@
 event_id,match,player,market,market_type_id,sport_market_id,child_market_id,odd_id,selection,line,price,odd_status,is_main_bet
-17332059,LSU Tigers vs. Texas Longhorns,Sam Leavitt,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1832553097,4806378325,Sam Leavitt (LSU) Plus de 252.5,Sam Leavitt (LSU) Plus de 252.5,1.8334,0,True
-17332059,LSU Tigers vs. Texas Longhorns,Sam Leavitt,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1832553097,4806378326,Sam Leavitt (LSU) moins de 252.5,Sam Leavitt (LSU) moins de 252.5,1.7693,0,True
-17332059,LSU Tigers vs. Texas Longhorns,Arch Manning,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1831990372,4804737732,Arch Manning (Tex) Plus de 216.5,Arch Manning (Tex) Plus de 216.5,1.8,0,True
-17332059,LSU Tigers vs. Texas Longhorns,Arch Manning,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1831990372,4804737733,Arch Manning (Tex) moins de 216.5,Arch Manning (Tex) moins de 216.5,1.8,0,True
-17332059,LSU Tigers vs. Texas Longhorns,Sam Leavitt,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1826313329,4788232418,Sam Leavitt (LSU) Plus de 1.5,Sam Leavitt (LSU) Plus de 1.5,1.8334,0,False
-17332059,LSU Tigers vs. Texas Longhorns,Sam Leavitt,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1826313329,4788232419,Sam Leavitt (LSU) moins de 1.5,Sam Leavitt (LSU) moins de 1.5,1.7693,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Sam Leavitt,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1831448614,4802967576,Sam Leavitt (LSU) moins de 253.5,Sam Leavitt (LSU) moins de 253.5,1.8334,0,True
+17332059,LSU Tigers vs. Texas Longhorns,Sam Leavitt,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1831448614,4802967575,Sam Leavitt (LSU) Plus de 253.5,Sam Leavitt (LSU) Plus de 253.5,1.7693,0,True
+17332059,LSU Tigers vs. Texas Longhorns,Arch Manning,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1831993778,4804747192,Arch Manning (Tex) Plus de 215.5,Arch Manning (Tex) Plus de 215.5,1.8,0,True
+17332059,LSU Tigers vs. Texas Longhorns,Arch Manning,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1831993778,4804747193,Arch Manning (Tex) moins de 215.5,Arch Manning (Tex) moins de 215.5,1.8,0,True
+17332059,LSU Tigers vs. Texas Longhorns,Jermaine Bishop Jr.,Verges de réception du joueur au moins (Jermaine Bishop Jr. (TEX)),2143,72898,1833738491,4811065248,21+,21+,1.8696,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Jermaine Bishop Jr.,Verges de réception du joueur au moins (Jermaine Bishop Jr. (TEX)),2143,72898,1833738491,4811065249,31+,31+,2.25,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Jermaine Bishop Jr.,Verges de réception du joueur au moins (Jermaine Bishop Jr. (TEX)),2143,72898,1833738491,4811065250,41+,41+,2.85,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Jermaine Bishop Jr.,Verges de réception du joueur au moins (Jermaine Bishop Jr. (TEX)),2143,72898,1833738491,4811065251,51+,51+,3.75,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Jermaine Bishop Jr.,Verges de réception du joueur au moins (Jermaine Bishop Jr. (TEX)),2143,72898,1833738491,4811065252,61+,61+,5.0,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Jermaine Bishop Jr.,Verges de réception du joueur au moins (Jermaine Bishop Jr. (TEX)),2143,72898,1833738491,4811065253,71+,71+,7.0,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Jermaine Bishop Jr.,Verges de réception du joueur au moins (Jermaine Bishop Jr. (TEX)),2143,72898,1833738491,4811065254,81+,81+,10.0,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Jermaine Bishop Jr.,Verges de réception du joueur au moins (Jermaine Bishop Jr. (TEX)),2143,72898,1833738491,4811065255,91+,91+,16.0,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Jermaine Bishop Jr.,Verges de réception du joueur au moins (Jermaine Bishop Jr. (TEX)),2143,72898,1833738491,4811065256,101+,101+,26.0,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Jermaine Bishop Jr.,Verges de réception du joueur au moins (Jermaine Bishop Jr. (TEX)),2143,72898,1833738491,4811065257,11+,11+,1.3847,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Dilin Jones,Verges de réception du joueur au moins (Dilin Jones (LSU)),2143,72898,1830388674,4802982896,25+,25+,1.8696,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Dilin Jones,Verges de réception du joueur au moins (Dilin Jones (LSU)),2143,72898,1830388674,4802982897,35+,35+,2.3,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Dilin Jones,Verges de réception du joueur au moins (Dilin Jones (LSU)),2143,72898,1830388674,4802982898,45+,45+,2.95,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Dilin Jones,Verges de réception du joueur au moins (Dilin Jones (LSU)),2143,72898,1830388674,4802982899,55+,55+,3.85,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Dilin Jones,Verges de réception du joueur au moins (Dilin Jones (LSU)),2143,72898,1830388674,4802982900,65+,65+,5.5,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Dilin Jones,Verges de réception du joueur au moins (Dilin Jones (LSU)),2143,72898,1830388674,4802982901,75+,75+,7.75,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Dilin Jones,Verges de réception du joueur au moins (Dilin Jones (LSU)),2143,72898,1830388674,4802982902,85+,85+,12.0,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Dilin Jones,Verges de réception du joueur au moins (Dilin Jones (LSU)),2143,72898,1830388674,4802982903,95+,95+,19.0,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Dilin Jones,Verges de réception du joueur au moins (Dilin Jones (LSU)),2143,72898,1830388674,4802982904,105+,105+,31.0,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Dilin Jones,Verges de réception du joueur au moins (Dilin Jones (LSU)),2143,72898,1830388674,4802982905,15+,15+,1.4167,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Quad Wilson,Verges de réception du joueur au moins (Quad Wilson (LSU)),2143,72898,1830388671,4799601345,33+,33+,1.8696,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Quad Wilson,Verges de réception du joueur au moins (Quad Wilson (LSU)),2143,72898,1830388671,4799601346,43+,43+,2.15,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Quad Wilson,Verges de réception du joueur au moins (Quad Wilson (LSU)),2143,72898,1830388671,4799601347,53+,53+,2.5,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Quad Wilson,Verges de réception du joueur au moins (Quad Wilson (LSU)),2143,72898,1830388671,4799601348,63+,63+,2.95,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Quad Wilson,Verges de réception du joueur au moins (Quad Wilson (LSU)),2143,72898,1830388671,4799601349,73+,73+,3.6,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Quad Wilson,Verges de réception du joueur au moins (Quad Wilson (LSU)),2143,72898,1830388671,4799601350,83+,83+,4.4,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Quad Wilson,Verges de réception du joueur au moins (Quad Wilson (LSU)),2143,72898,1830388671,4799601351,93+,93+,5.5,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Quad Wilson,Verges de réception du joueur au moins (Quad Wilson (LSU)),2143,72898,1830388671,4799601352,103+,103+,7.0,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Quad Wilson,Verges de réception du joueur au moins (Quad Wilson (LSU)),2143,72898,1830388671,4799601353,113+,113+,9.0,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Quad Wilson,Verges de réception du joueur au moins (Quad Wilson (LSU)),2143,72898,1830388671,4799601354,23+,23+,1.4445,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Winston Watkins,Verges de réception du joueur au moins (Winston Watkins (LSU)),2143,72898,1830388685,4799601472,76+,76+,4.5,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Winston Watkins,Verges de réception du joueur au moins (Winston Watkins (LSU)),2143,72898,1830388685,4799601473,86+,86+,6.25,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Winston Watkins,Verges de réception du joueur au moins (Winston Watkins (LSU)),2143,72898,1830388685,4799601474,96+,96+,8.5,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Winston Watkins,Verges de réception du joueur au moins (Winston Watkins (LSU)),2143,72898,1830388685,4799601475,106+,106+,13.0,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Winston Watkins,Verges de réception du joueur au moins (Winston Watkins (LSU)),2143,72898,1830388685,4799601476,116+,116+,19.0,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Winston Watkins,Verges de réception du joueur au moins (Winston Watkins (LSU)),2143,72898,1830388685,4799601477,26+,26+,1.4762,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Winston Watkins,Verges de réception du joueur au moins (Winston Watkins (LSU)),2143,72898,1830388685,4799601468,36+,36+,1.8696,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Winston Watkins,Verges de réception du joueur au moins (Winston Watkins (LSU)),2143,72898,1830388685,4799601469,46+,46+,2.25,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Winston Watkins,Verges de réception du joueur au moins (Winston Watkins (LSU)),2143,72898,1830388685,4799601470,56+,56+,2.75,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Winston Watkins,Verges de réception du joueur au moins (Winston Watkins (LSU)),2143,72898,1830388685,4799601471,66+,66+,3.5,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Emmett Mosley,Verges de réception du joueur au moins (Emmett Mosley (TEX)),2143,72898,1831453506,4802982916,55+,55+,2.2,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Emmett Mosley,Verges de réception du joueur au moins (Emmett Mosley (TEX)),2143,72898,1831453506,4802982917,65+,65+,2.55,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Emmett Mosley,Verges de réception du joueur au moins (Emmett Mosley (TEX)),2143,72898,1831453506,4802982918,75+,75+,3.0,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Emmett Mosley,Verges de réception du joueur au moins (Emmett Mosley (TEX)),2143,72898,1831453506,4802982919,85+,85+,3.6,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Emmett Mosley,Verges de réception du joueur au moins (Emmett Mosley (TEX)),2143,72898,1831453506,4802982920,95+,95+,4.5,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Emmett Mosley,Verges de réception du joueur au moins (Emmett Mosley (TEX)),2143,72898,1831453506,4802982921,105+,105+,5.5,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Emmett Mosley,Verges de réception du joueur au moins (Emmett Mosley (TEX)),2143,72898,1831453506,4810407562,35+,35+,1.4762,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Emmett Mosley,Verges de réception du joueur au moins (Emmett Mosley (TEX)),2143,72898,1831453506,4802982923,125+,125+,9.0,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Emmett Mosley,Verges de réception du joueur au moins (Emmett Mosley (TEX)),2143,72898,1831453506,4802982925,45+,45+,1.9091,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Ryan Wingo,Verges de réception du joueur au moins (Ryan Wingo (TEX)),2143,72898,1831453435,4811384749,49+,49+,1.8696,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Ryan Wingo,Verges de réception du joueur au moins (Ryan Wingo (TEX)),2143,72898,1831453435,4811384750,59+,59+,2.15,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Ryan Wingo,Verges de réception du joueur au moins (Ryan Wingo (TEX)),2143,72898,1831453435,4811384751,69+,69+,2.5,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Ryan Wingo,Verges de réception du joueur au moins (Ryan Wingo (TEX)),2143,72898,1831453435,4811384752,79+,79+,2.95,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Ryan Wingo,Verges de réception du joueur au moins (Ryan Wingo (TEX)),2143,72898,1831453435,4811384753,89+,89+,3.5,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Ryan Wingo,Verges de réception du joueur au moins (Ryan Wingo (TEX)),2143,72898,1831453435,4811384754,99+,99+,4.3,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Ryan Wingo,Verges de réception du joueur au moins (Ryan Wingo (TEX)),2143,72898,1831453435,4811384755,109+,109+,5.25,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Ryan Wingo,Verges de réception du joueur au moins (Ryan Wingo (TEX)),2143,72898,1831453435,4811384756,119+,119+,6.75,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Ryan Wingo,Verges de réception du joueur au moins (Ryan Wingo (TEX)),2143,72898,1831453435,4811384757,129+,129+,9.0,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Ryan Wingo,Verges de réception du joueur au moins (Ryan Wingo (TEX)),2143,72898,1831453435,4811384758,39+,39+,1.5,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Cam Coleman,Verges de réception du joueur au moins (Cam Coleman (TEX)),2143,72898,1832746869,4814102127,70+,70+,2.55,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Cam Coleman,Verges de réception du joueur au moins (Cam Coleman (TEX)),2143,72898,1832746869,4814102128,80+,80+,3.1,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Cam Coleman,Verges de réception du joueur au moins (Cam Coleman (TEX)),2143,72898,1832746869,4814102129,90+,90+,3.85,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Cam Coleman,Verges de réception du joueur au moins (Cam Coleman (TEX)),2143,72898,1832746869,4814102130,100+,100+,4.75,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Cam Coleman,Verges de réception du joueur au moins (Cam Coleman (TEX)),2143,72898,1832746869,4814102131,110+,110+,6.0,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Cam Coleman,Verges de réception du joueur au moins (Cam Coleman (TEX)),2143,72898,1832746869,4814102132,120+,120+,7.75,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Cam Coleman,Verges de réception du joueur au moins (Cam Coleman (TEX)),2143,72898,1832746869,4814100535,60+,60+,2.15,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Cam Coleman,Verges de réception du joueur au moins (Cam Coleman (TEX)),2143,72898,1832746869,4814100534,50+,50+,1.8696,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Cam Coleman,Verges de réception du joueur au moins (Cam Coleman (TEX)),2143,72898,1832746869,4814102134,40+,40+,1.5,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Trey'Dez Green,Verges de réception du joueur au moins (Trey'Dez Green (LSU)),2143,72898,1830388669,4811513984,84+,84+,2.6,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Trey'Dez Green,Verges de réception du joueur au moins (Trey'Dez Green (LSU)),2143,72898,1830388669,4811513985,94+,94+,3.2,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Trey'Dez Green,Verges de réception du joueur au moins (Trey'Dez Green (LSU)),2143,72898,1830388669,4811513986,104+,104+,4.0,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Trey'Dez Green,Verges de réception du joueur au moins (Trey'Dez Green (LSU)),2143,72898,1830388669,4811513987,114+,114+,5.25,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Trey'Dez Green,Verges de réception du joueur au moins (Trey'Dez Green (LSU)),2143,72898,1830388669,4811513988,124+,124+,6.75,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Trey'Dez Green,Verges de réception du joueur au moins (Trey'Dez Green (LSU)),2143,72898,1830388669,4811513989,134+,134+,9.0,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Trey'Dez Green,Verges de réception du joueur au moins (Trey'Dez Green (LSU)),2143,72898,1830388669,4811513990,144+,144+,13.0,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Trey'Dez Green,Verges de réception du joueur au moins (Trey'Dez Green (LSU)),2143,72898,1830388669,4811513991,54+,54+,1.5264,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Trey'Dez Green,Verges de réception du joueur au moins (Trey'Dez Green (LSU)),2143,72898,1830388669,4811513982,64+,64+,1.8696,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Trey'Dez Green,Verges de réception du joueur au moins (Trey'Dez Green (LSU)),2143,72898,1830388669,4811513983,74+,74+,2.2,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Jackson Harris,Verges de réception du joueur au moins (Jackson Harris (LSU)),2143,72898,1830388684,4799601458,79+,79+,1.9091,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Jackson Harris,Verges de réception du joueur au moins (Jackson Harris (LSU)),2143,72898,1830388684,4799601459,89+,89+,2.15,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Jackson Harris,Verges de réception du joueur au moins (Jackson Harris (LSU)),2143,72898,1830388684,4799601460,99+,99+,2.45,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Jackson Harris,Verges de réception du joueur au moins (Jackson Harris (LSU)),2143,72898,1830388684,4799601461,109+,109+,2.85,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Jackson Harris,Verges de réception du joueur au moins (Jackson Harris (LSU)),2143,72898,1830388684,4799601462,119+,119+,3.3,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Jackson Harris,Verges de réception du joueur au moins (Jackson Harris (LSU)),2143,72898,1830388684,4799601463,129+,129+,4.0,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Jackson Harris,Verges de réception du joueur au moins (Jackson Harris (LSU)),2143,72898,1830388684,4799601464,139+,139+,4.75,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Jackson Harris,Verges de réception du joueur au moins (Jackson Harris (LSU)),2143,72898,1830388684,4799601465,149+,149+,6.0,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Jackson Harris,Verges de réception du joueur au moins (Jackson Harris (LSU)),2143,72898,1830388684,4799601466,159+,159+,7.5,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Jackson Harris,Verges de réception du joueur au moins (Jackson Harris (LSU)),2143,72898,1830388684,4799601467,69+,69+,1.6061,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Raleek Brown,Verges de réception du joueur au moins (Raleek Brown (TEX)),2143,72898,1830388687,4799601483,15+,15+,1.9091,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Raleek Brown,Verges de réception du joueur au moins (Raleek Brown (TEX)),2143,72898,1830388687,4799601484,25+,25+,2.4,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Raleek Brown,Verges de réception du joueur au moins (Raleek Brown (TEX)),2143,72898,1830388687,4799601485,35+,35+,3.2,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Raleek Brown,Verges de réception du joueur au moins (Raleek Brown (TEX)),2143,72898,1830388687,4799601486,45+,45+,4.5,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Raleek Brown,Verges de réception du joueur au moins (Raleek Brown (TEX)),2143,72898,1830388687,4799601487,55+,55+,6.75,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Raleek Brown,Verges de réception du joueur au moins (Raleek Brown (TEX)),2143,72898,1830388687,4799601488,65+,65+,11.0,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Raleek Brown,Verges de réception du joueur au moins (Raleek Brown (TEX)),2143,72898,1830388687,4799601489,75+,75+,18.0,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Raleek Brown,Verges de réception du joueur au moins (Raleek Brown (TEX)),2143,72898,1830388687,4799602383,85+,85+,31.0,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Sam Leavitt,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1826313329,4788232418,Sam Leavitt (LSU) Plus de 1.5,Sam Leavitt (LSU) Plus de 1.5,1.7693,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Sam Leavitt,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1826313329,4788232419,Sam Leavitt (LSU) moins de 1.5,Sam Leavitt (LSU) moins de 1.5,1.8334,0,False
 17332059,LSU Tigers vs. Texas Longhorns,Arch Manning,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1826313277,4788232314,Arch Manning (Tex) Plus de 1.5,Arch Manning (Tex) Plus de 1.5,2.3,0,False
 17332059,LSU Tigers vs. Texas Longhorns,Arch Manning,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1826313277,4788232315,Arch Manning (Tex) moins de 1.5,Arch Manning (Tex) moins de 1.5,1.4762,0,False
-17332059,LSU Tigers vs. Texas Longhorns,Jackson Harris,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1828127555,4792942064,Jackson Harris (LSU) Plus de 71.5,Jackson Harris (LSU) Plus de 71.5,1.7693,0,False
-17332059,LSU Tigers vs. Texas Longhorns,Jackson Harris,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1828127555,4792942065,Jackson Harris (LSU) moins de 71.5,Jackson Harris (LSU) moins de 71.5,1.8334,0,False
-17332059,LSU Tigers vs. Texas Longhorns,Trey'Dez Green,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1834083058,4811376874,Trey'Dez Green (LSU) Plus de 55.5,Trey'Dez Green (LSU) Plus de 55.5,1.7693,0,False
-17332059,LSU Tigers vs. Texas Longhorns,Trey'Dez Green,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1834083058,4811376875,Trey'Dez Green (LSU) moins de 55.5,Trey'Dez Green (LSU) moins de 55.5,1.8334,0,False
-17332059,LSU Tigers vs. Texas Longhorns,Ryan Wingo,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1834082911,4811376574,Ryan Wingo (Tex) Plus de 48.5,Ryan Wingo (Tex) Plus de 48.5,1.8334,0,False
-17332059,LSU Tigers vs. Texas Longhorns,Ryan Wingo,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1834082911,4811376575,Ryan Wingo (Tex) moins de 48.5,Ryan Wingo (Tex) moins de 48.5,1.7693,0,False
-17332059,LSU Tigers vs. Texas Longhorns,Emmett Mosley V,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1834013990,4811203461,Emmett Mosley V (Tex) Plus de 46.5,Emmett Mosley V (Tex) Plus de 46.5,1.7693,0,False
-17332059,LSU Tigers vs. Texas Longhorns,Emmett Mosley V,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1834013990,4811203462,Emmett Mosley V (Tex) moins de 46.5,Emmett Mosley V (Tex) moins de 46.5,1.8334,0,False
-17332059,LSU Tigers vs. Texas Longhorns,Winston Watkins,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1833851377,4810782435,Winston Watkins (LSU) Plus de 35.5,Winston Watkins (LSU) Plus de 35.5,1.8334,0,False
-17332059,LSU Tigers vs. Texas Longhorns,Winston Watkins,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1833851377,4810782436,Winston Watkins (LSU) moins de 35.5,Winston Watkins (LSU) moins de 35.5,1.7693,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Jackson Harris,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1831425963,4802908294,Jackson Harris (LSU) Plus de 70.5,Jackson Harris (LSU) Plus de 70.5,1.7693,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Jackson Harris,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1831425963,4802908295,Jackson Harris (LSU) moins de 70.5,Jackson Harris (LSU) moins de 70.5,1.8334,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Trey'Dez Green,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1834083525,4811377946,Trey'Dez Green (LSU) Plus de 56.5,Trey'Dez Green (LSU) Plus de 56.5,1.8334,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Trey'Dez Green,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1834083525,4811377947,Trey'Dez Green (LSU) moins de 56.5,Trey'Dez Green (LSU) moins de 56.5,1.7693,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Emmett Mosley V,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1834501307,4812608099,Emmett Mosley V (Tex) Plus de 48.5,Emmett Mosley V (Tex) Plus de 48.5,1.8334,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Emmett Mosley V,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1834501307,4812608100,Emmett Mosley V (Tex) moins de 48.5,Emmett Mosley V (Tex) moins de 48.5,1.7693,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Ryan Wingo,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1834083059,4811376876,Ryan Wingo (Tex) Plus de 47.5,Ryan Wingo (Tex) Plus de 47.5,1.7693,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Ryan Wingo,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1834083059,4811376877,Ryan Wingo (Tex) moins de 47.5,Ryan Wingo (Tex) moins de 47.5,1.8334,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Winston Watkins,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1833851377,4810782435,Winston Watkins (LSU) Plus de 35.5,Winston Watkins (LSU) Plus de 35.5,1.7693,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Winston Watkins,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1833851377,4810782436,Winston Watkins (LSU) moins de 35.5,Winston Watkins (LSU) moins de 35.5,1.8334,0,False
 17332059,LSU Tigers vs. Texas Longhorns,Eugene Wilson,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1834188834,4811734020,Eugene Wilson (LSU) Plus de 31.5,Eugene Wilson (LSU) Plus de 31.5,1.7693,0,False
 17332059,LSU Tigers vs. Texas Longhorns,Eugene Wilson,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1834188834,4811734021,Eugene Wilson (LSU) moins de 31.5,Eugene Wilson (LSU) moins de 31.5,1.8334,0,False
-17332059,LSU Tigers vs. Texas Longhorns,Dilin Jones,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1826589191,4788870057,Dilin Jones (LSU) Plus de 25.5,Dilin Jones (LSU) Plus de 25.5,1.7693,0,False
-17332059,LSU Tigers vs. Texas Longhorns,Dilin Jones,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1826589191,4788870058,Dilin Jones (LSU) moins de 25.5,Dilin Jones (LSU) moins de 25.5,1.8334,0,False
-17332059,LSU Tigers vs. Texas Longhorns,Raleek Brown,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1831424450,4802904616,Raleek Brown (Tex) Plus de 13.5,Raleek Brown (Tex) Plus de 13.5,1.8334,0,False
-17332059,LSU Tigers vs. Texas Longhorns,Raleek Brown,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1831424450,4802904617,Raleek Brown (Tex) moins de 13.5,Raleek Brown (Tex) moins de 13.5,1.7693,0,False
-17332059,LSU Tigers vs. Texas Longhorns,Dilin Jones,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1832272320,4805579325,Dilin Jones (LSU) Plus de 70.5,Dilin Jones (LSU) Plus de 70.5,1.8,0,False
-17332059,LSU Tigers vs. Texas Longhorns,Dilin Jones,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1832272320,4805579326,Dilin Jones (LSU) moins de 70.5,Dilin Jones (LSU) moins de 70.5,1.8,0,False
-17332059,LSU Tigers vs. Texas Longhorns,Raleek Brown,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1828233044,4793212702,Raleek Brown (Tex) Plus de 55.5,Raleek Brown (Tex) Plus de 55.5,1.7693,0,False
-17332059,LSU Tigers vs. Texas Longhorns,Raleek Brown,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1828233044,4793212703,Raleek Brown (Tex) moins de 55.5,Raleek Brown (Tex) moins de 55.5,1.8334,0,False
-17332059,LSU Tigers vs. Texas Longhorns,Sam Leavitt,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1826363582,4788347732,Sam Leavitt (LSU) Plus de 21.5,Sam Leavitt (LSU) Plus de 21.5,1.8334,0,False
-17332059,LSU Tigers vs. Texas Longhorns,Sam Leavitt,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1826363582,4788347733,Sam Leavitt (LSU) moins de 21.5,Sam Leavitt (LSU) moins de 21.5,1.7693,0,False
-17332059,LSU Tigers vs. Texas Longhorns,Arch Manning,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1826313282,4788232324,Arch Manning (Tex) Plus de 8.5,Arch Manning (Tex) Plus de 8.5,1.7693,0,False
-17332059,LSU Tigers vs. Texas Longhorns,Arch Manning,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1826313282,4788232325,Arch Manning (Tex) moins de 8.5,Arch Manning (Tex) moins de 8.5,1.8334,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Dilin Jones,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1826589191,4788870057,Dilin Jones (LSU) Plus de 25.5,Dilin Jones (LSU) Plus de 25.5,1.8334,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Dilin Jones,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1826589191,4788870058,Dilin Jones (LSU) moins de 25.5,Dilin Jones (LSU) moins de 25.5,1.7693,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Raleek Brown,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1831424450,4802904616,Raleek Brown (Tex) Plus de 13.5,Raleek Brown (Tex) Plus de 13.5,1.7693,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Raleek Brown,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1831424450,4802904617,Raleek Brown (Tex) moins de 13.5,Raleek Brown (Tex) moins de 13.5,1.8334,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Dilin Jones,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1835241999,4815170501,Dilin Jones (LSU) Plus de 74.5,Dilin Jones (LSU) Plus de 74.5,1.7693,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Dilin Jones,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1835241999,4815170502,Dilin Jones (LSU) moins de 74.5,Dilin Jones (LSU) moins de 74.5,1.8334,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Raleek Brown,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1831997362,4804756421,Raleek Brown (Tex) Plus de 56.5,Raleek Brown (Tex) Plus de 56.5,1.8,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Raleek Brown,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1831997362,4804756422,Raleek Brown (Tex) moins de 56.5,Raleek Brown (Tex) moins de 56.5,1.8,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Sam Leavitt,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1826363582,4788347732,Sam Leavitt (LSU) Plus de 21.5,Sam Leavitt (LSU) Plus de 21.5,1.7693,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Sam Leavitt,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1826363582,4788347733,Sam Leavitt (LSU) moins de 21.5,Sam Leavitt (LSU) moins de 21.5,1.8334,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Arch Manning,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1826493036,4788642782,Arch Manning (Tex) Plus de 9.5,Arch Manning (Tex) Plus de 9.5,1.7693,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Arch Manning,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1826493036,4788642783,Arch Manning (Tex) moins de 9.5,Arch Manning (Tex) moins de 9.5,1.8334,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Jackson Harris,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1826618600,4788944676,Jackson Harris (LSU) Plus de 5.5,Jackson Harris (LSU) Plus de 5.5,1.8696,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Jackson Harris,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1826618600,4788944677,Jackson Harris (LSU) moins de 5.5,Jackson Harris (LSU) moins de 5.5,1.7693,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Trey'Dez Green,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1831990375,4804737738,Trey'Dez Green (LSU) Plus de 5.5,Trey'Dez Green (LSU) Plus de 5.5,2.15,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Trey'Dez Green,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1831990375,4804737739,Trey'Dez Green (LSU) moins de 5.5,Trey'Dez Green (LSU) moins de 5.5,1.5715,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Ryan Wingo,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1826313386,4788232532,Ryan Wingo (Tex) Plus de 4.5,Ryan Wingo (Tex) Plus de 4.5,1.6897,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Ryan Wingo,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1826313386,4788232533,Ryan Wingo (Tex) moins de 4.5,Ryan Wingo (Tex) moins de 4.5,1.9524,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Dilin Jones,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1826313402,4788232564,Dilin Jones (LSU) Plus de 3.5,Dilin Jones (LSU) Plus de 3.5,1.5715,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Dilin Jones,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1826313402,4788232565,Dilin Jones (LSU) moins de 3.5,Dilin Jones (LSU) moins de 3.5,2.15,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Emmett Mosley V,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1834013991,4811203464,Emmett Mosley V (Tex) moins de 3.5,Emmett Mosley V (Tex) moins de 3.5,2.05,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Emmett Mosley V,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1834013991,4811203463,Emmett Mosley V (Tex) Plus de 3.5,Emmett Mosley V (Tex) Plus de 3.5,1.625,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Winston Watkins,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1826313491,4788232738,Winston Watkins (LSU) Plus de 3.5,Winston Watkins (LSU) Plus de 3.5,1.9524,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Winston Watkins,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1826313491,4788232739,Winston Watkins (LSU) moins de 3.5,Winston Watkins (LSU) moins de 3.5,1.6897,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Eugene Wilson,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1826313314,4788232388,Eugene Wilson (LSU) Plus de 3.5,Eugene Wilson (LSU) Plus de 3.5,2.15,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Eugene Wilson,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1826313314,4788232389,Eugene Wilson (LSU) moins de 3.5,Eugene Wilson (LSU) moins de 3.5,1.5715,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Raleek Brown,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1826313258,4788232276,Raleek Brown (Tex) Plus de 2.5,Raleek Brown (Tex) Plus de 2.5,2.1,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Raleek Brown,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1826313258,4788232277,Raleek Brown (Tex) moins de 2.5,Raleek Brown (Tex) moins de 2.5,1.6061,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Arch Manning,"Passes complétées, Joueur (prolongations incluses)",760,71921,1831445726,4802958419,Arch Manning (Tex) Plus de 18.5,Arch Manning (Tex) Plus de 18.5,1.7693,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Arch Manning,"Passes complétées, Joueur (prolongations incluses)",760,71921,1831445726,4802958420,Arch Manning (Tex) moins de 18.5,Arch Manning (Tex) moins de 18.5,1.8696,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Dilin Jones,Verges à la course et à la réception Plus/Moins (prolongation incluse),3317,73841,1835242001,4815170505,Dilin Jones (LSU) Plus de 105.5,Dilin Jones (LSU) Plus de 105.5,1.8334,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Dilin Jones,Verges à la course et à la réception Plus/Moins (prolongation incluse),3317,73841,1835242001,4815170506,Dilin Jones (LSU) moins de 105.5,Dilin Jones (LSU) moins de 105.5,1.8,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Raleek Brown,Verges à la course et à la réception Plus/Moins (prolongation incluse),3317,73841,1831997783,4804757849,Raleek Brown (Tex) Plus de 75.5,Raleek Brown (Tex) Plus de 75.5,1.8334,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Raleek Brown,Verges à la course et à la réception Plus/Moins (prolongation incluse),3317,73841,1831997783,4804757850,Raleek Brown (Tex) moins de 75.5,Raleek Brown (Tex) moins de 75.5,1.8,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Sam Leavitt,Touchés par la passe du joueur au moins (Sam Leavitt (LSU)),2138,72893,1830388676,4799601395,2+,2+,2.0,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Sam Leavitt,Touchés par la passe du joueur au moins (Sam Leavitt (LSU)),2138,72893,1830388676,4799601396,3+,3+,3.6,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Sam Leavitt,Touchés par la passe du joueur au moins (Sam Leavitt (LSU)),2138,72893,1830388676,4799601397,4+,4+,8.0,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Sam Leavitt,Touchés par la passe du joueur au moins (Sam Leavitt (LSU)),2138,72893,1830388676,4799601398,1+,1+,1.2353,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Arch Manning,Touchés par la passe du joueur au moins (Arch Manning (TEX)),2138,72893,1830388678,4799601408,4+,4+,6.25,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Arch Manning,Touchés par la passe du joueur au moins (Arch Manning (TEX)),2138,72893,1830388678,4799601409,1+,1+,1.4167,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Arch Manning,Touchés par la passe du joueur au moins (Arch Manning (TEX)),2138,72893,1830388678,4799601406,2+,2+,2.55,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Arch Manning,Touchés par la passe du joueur au moins (Arch Manning (TEX)),2138,72893,1830388678,4799601407,3+,3+,3.6,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Arch Manning,Verges par la passe du joueur au moins (Arch Manning (TEX)),2136,72891,1830388680,4799601417,218+,218+,1.8696,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Arch Manning,Verges par la passe du joueur au moins (Arch Manning (TEX)),2136,72891,1830388680,4799601418,228+,228+,2.05,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Arch Manning,Verges par la passe du joueur au moins (Arch Manning (TEX)),2136,72891,1830388680,4799601419,238+,238+,2.25,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Arch Manning,Verges par la passe du joueur au moins (Arch Manning (TEX)),2136,72891,1830388680,4799601420,248+,248+,2.45,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Arch Manning,Verges par la passe du joueur au moins (Arch Manning (TEX)),2136,72891,1830388680,4799601421,258+,258+,2.7,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Arch Manning,Verges par la passe du joueur au moins (Arch Manning (TEX)),2136,72891,1830388680,4799601422,268+,268+,3.0,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Arch Manning,Verges par la passe du joueur au moins (Arch Manning (TEX)),2136,72891,1830388680,4799601423,278+,278+,3.4,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Arch Manning,Verges par la passe du joueur au moins (Arch Manning (TEX)),2136,72891,1830388680,4799601424,288+,288+,3.85,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Arch Manning,Verges par la passe du joueur au moins (Arch Manning (TEX)),2136,72891,1830388680,4799601425,298+,298+,4.4,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Arch Manning,Verges par la passe du joueur au moins (Arch Manning (TEX)),2136,72891,1830388680,4799601426,308+,308+,5.0,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Arch Manning,Verges par la passe du joueur au moins (Arch Manning (TEX)),2136,72891,1830388680,4799601427,318+,318+,5.75,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Arch Manning,Verges par la passe du joueur au moins (Arch Manning (TEX)),2136,72891,1830388680,4799601428,328+,328+,6.75,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Arch Manning,Verges par la passe du joueur au moins (Arch Manning (TEX)),2136,72891,1830388680,4799601429,338+,338+,8.0,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Arch Manning,Verges par la passe du joueur au moins (Arch Manning (TEX)),2136,72891,1830388680,4799601430,348+,348+,10.0,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Arch Manning,Verges par la passe du joueur au moins (Arch Manning (TEX)),2136,72891,1830388680,4799601431,358+,358+,12.0,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Arch Manning,Verges par la passe du joueur au moins (Arch Manning (TEX)),2136,72891,1830388680,4799601432,208+,208+,1.6667,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Arch Manning,Verges par la passe du joueur au moins (Arch Manning (TEX)),2136,72891,1830388680,4799601433,198+,198+,1.5,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Sam Leavitt,Verges par la passe du joueur au moins (Sam Leavitt (LSU)),2136,72891,1830388686,4800173312,385+,385+,9.0,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Sam Leavitt,Verges par la passe du joueur au moins (Sam Leavitt (LSU)),2136,72891,1830388686,4800173313,235+,235+,1.5715,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Sam Leavitt,Verges par la passe du joueur au moins (Sam Leavitt (LSU)),2136,72891,1830388686,4812977515,395+,395+,11.0,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Sam Leavitt,Verges par la passe du joueur au moins (Sam Leavitt (LSU)),2136,72891,1830388686,4800173298,245+,245+,1.7143,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Sam Leavitt,Verges par la passe du joueur au moins (Sam Leavitt (LSU)),2136,72891,1830388686,4800173299,255+,255+,1.8696,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Sam Leavitt,Verges par la passe du joueur au moins (Sam Leavitt (LSU)),2136,72891,1830388686,4800173300,265+,265+,2.05,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Sam Leavitt,Verges par la passe du joueur au moins (Sam Leavitt (LSU)),2136,72891,1830388686,4800173301,275+,275+,2.2,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Sam Leavitt,Verges par la passe du joueur au moins (Sam Leavitt (LSU)),2136,72891,1830388686,4800173302,285+,285+,2.45,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Sam Leavitt,Verges par la passe du joueur au moins (Sam Leavitt (LSU)),2136,72891,1830388686,4800173303,295+,295+,2.7,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Sam Leavitt,Verges par la passe du joueur au moins (Sam Leavitt (LSU)),2136,72891,1830388686,4800173304,305+,305+,3.0,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Sam Leavitt,Verges par la passe du joueur au moins (Sam Leavitt (LSU)),2136,72891,1830388686,4800173305,315+,315+,3.4,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Sam Leavitt,Verges par la passe du joueur au moins (Sam Leavitt (LSU)),2136,72891,1830388686,4800173306,325+,325+,3.85,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Sam Leavitt,Verges par la passe du joueur au moins (Sam Leavitt (LSU)),2136,72891,1830388686,4800173307,335+,335+,4.3,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Sam Leavitt,Verges par la passe du joueur au moins (Sam Leavitt (LSU)),2136,72891,1830388686,4800173308,345+,345+,5.0,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Sam Leavitt,Verges par la passe du joueur au moins (Sam Leavitt (LSU)),2136,72891,1830388686,4800173309,355+,355+,5.75,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Sam Leavitt,Verges par la passe du joueur au moins (Sam Leavitt (LSU)),2136,72891,1830388686,4800173310,365+,365+,6.75,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Sam Leavitt,Verges par la passe du joueur au moins (Sam Leavitt (LSU)),2136,72891,1830388686,4800173311,375+,375+,7.75,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Dilin Jones,Verges au sol du joueur au moins (Dilin Jones (LSU)),2140,72895,1830388675,4809288981,74+,74+,1.8696,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Dilin Jones,Verges au sol du joueur au moins (Dilin Jones (LSU)),2140,72895,1830388675,4809288982,84+,84+,2.25,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Dilin Jones,Verges au sol du joueur au moins (Dilin Jones (LSU)),2140,72895,1830388675,4809288983,94+,94+,2.7,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Dilin Jones,Verges au sol du joueur au moins (Dilin Jones (LSU)),2140,72895,1830388675,4809288984,104+,104+,3.4,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Dilin Jones,Verges au sol du joueur au moins (Dilin Jones (LSU)),2140,72895,1830388675,4809288985,114+,114+,4.4,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Dilin Jones,Verges au sol du joueur au moins (Dilin Jones (LSU)),2140,72895,1830388675,4809288986,124+,124+,5.75,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Dilin Jones,Verges au sol du joueur au moins (Dilin Jones (LSU)),2140,72895,1830388675,4809288987,134+,134+,8.0,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Dilin Jones,Verges au sol du joueur au moins (Dilin Jones (LSU)),2140,72895,1830388675,4809288988,144+,144+,11.0,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Dilin Jones,Verges au sol du joueur au moins (Dilin Jones (LSU)),2140,72895,1830388675,4809288989,154+,154+,16.0,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Dilin Jones,Verges au sol du joueur au moins (Dilin Jones (LSU)),2140,72895,1830388675,4809288990,64+,64+,1.5264,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Dilin Jones,Verges au sol du joueur au moins (Dilin Jones (LSU)),2140,72895,1830388675,4809288991,54+,54+,1.2858,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Sam Leavitt,Verges au sol du joueur au moins (Sam Leavitt (LSU)),2140,72895,1830388673,4803187880,28+,28+,1.8696,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Sam Leavitt,Verges au sol du joueur au moins (Sam Leavitt (LSU)),2140,72895,1830388673,4803187881,38+,38+,2.3,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Sam Leavitt,Verges au sol du joueur au moins (Sam Leavitt (LSU)),2140,72895,1830388673,4803187882,48+,48+,2.9,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Sam Leavitt,Verges au sol du joueur au moins (Sam Leavitt (LSU)),2140,72895,1830388673,4803187883,58+,58+,3.85,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Sam Leavitt,Verges au sol du joueur au moins (Sam Leavitt (LSU)),2140,72895,1830388673,4803187884,68+,68+,5.25,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Sam Leavitt,Verges au sol du joueur au moins (Sam Leavitt (LSU)),2140,72895,1830388673,4803187885,78+,78+,7.5,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Sam Leavitt,Verges au sol du joueur au moins (Sam Leavitt (LSU)),2140,72895,1830388673,4803187886,88+,88+,11.0,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Sam Leavitt,Verges au sol du joueur au moins (Sam Leavitt (LSU)),2140,72895,1830388673,4803187887,98+,98+,17.0,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Sam Leavitt,Verges au sol du joueur au moins (Sam Leavitt (LSU)),2140,72895,1830388673,4803187888,108+,108+,26.0,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Sam Leavitt,Verges au sol du joueur au moins (Sam Leavitt (LSU)),2140,72895,1830388673,4803187889,18+,18+,1.3572,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Raleek Brown,Verges au sol du joueur au moins (Raleek Brown (TEX)),2140,72895,1830388682,4812979687,62+,62+,1.8696,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Raleek Brown,Verges au sol du joueur au moins (Raleek Brown (TEX)),2140,72895,1830388682,4812979688,72+,72+,2.1,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Raleek Brown,Verges au sol du joueur au moins (Raleek Brown (TEX)),2140,72895,1830388682,4812979689,82+,82+,2.35,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Raleek Brown,Verges au sol du joueur au moins (Raleek Brown (TEX)),2140,72895,1830388682,4812979690,92+,92+,2.7,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Raleek Brown,Verges au sol du joueur au moins (Raleek Brown (TEX)),2140,72895,1830388682,4812979692,112+,112+,3.75,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Raleek Brown,Verges au sol du joueur au moins (Raleek Brown (TEX)),2140,72895,1830388682,4812979693,122+,122+,4.3,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Raleek Brown,Verges au sol du joueur au moins (Raleek Brown (TEX)),2140,72895,1830388682,4812979694,132+,132+,5.25,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Raleek Brown,Verges au sol du joueur au moins (Raleek Brown (TEX)),2140,72895,1830388682,4812979695,142+,142+,6.25,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Raleek Brown,Verges au sol du joueur au moins (Raleek Brown (TEX)),2140,72895,1830388682,4812979696,52+,52+,1.6061,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Raleek Brown,Verges au sol du joueur au moins (Raleek Brown (TEX)),2140,72895,1830388682,4812979697,42+,42+,1.4,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Arch Manning,Verges au sol du joueur au moins (Arch Manning (TEX)),2140,72895,1830388672,4799601355,15+,15+,1.8696,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Arch Manning,Verges au sol du joueur au moins (Arch Manning (TEX)),2140,72895,1830388672,4799601356,25+,25+,2.15,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Arch Manning,Verges au sol du joueur au moins (Arch Manning (TEX)),2140,72895,1830388672,4799601357,35+,35+,2.5,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Arch Manning,Verges au sol du joueur au moins (Arch Manning (TEX)),2140,72895,1830388672,4799601358,45+,45+,2.95,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Arch Manning,Verges au sol du joueur au moins (Arch Manning (TEX)),2140,72895,1830388672,4799601359,55+,55+,3.5,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Arch Manning,Verges au sol du joueur au moins (Arch Manning (TEX)),2140,72895,1830388672,4799601360,65+,65+,4.3,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Arch Manning,Verges au sol du joueur au moins (Arch Manning (TEX)),2140,72895,1830388672,4799601361,75+,75+,5.25,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Arch Manning,Verges au sol du joueur au moins (Arch Manning (TEX)),2140,72895,1830388672,4799601362,85+,85+,6.75,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Arch Manning,Verges au sol du joueur au moins (Arch Manning (TEX)),2140,72895,1830388672,4799601363,95+,95+,9.0,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Emmett Mosley,Joueur total de réception (Emmett Mosley (TEX)) (incl. OT),2142,72897,1831453434,4811206823,3+,3+,1.2,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Emmett Mosley,Joueur total de réception (Emmett Mosley (TEX)) (incl. OT),2142,72897,1831453434,4802980746,5+,5+,2.55,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Emmett Mosley,Joueur total de réception (Emmett Mosley (TEX)) (incl. OT),2142,72897,1831453434,4802980747,6+,6+,3.85,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Emmett Mosley,Joueur total de réception (Emmett Mosley (TEX)) (incl. OT),2142,72897,1831453434,4802980748,7+,7+,6.25,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Emmett Mosley,Joueur total de réception (Emmett Mosley (TEX)) (incl. OT),2142,72897,1831453434,4802980749,8+,8+,11.0,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Emmett Mosley,Joueur total de réception (Emmett Mosley (TEX)) (incl. OT),2142,72897,1831453434,4802980750,9+,9+,21.0,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Emmett Mosley,Joueur total de réception (Emmett Mosley (TEX)) (incl. OT),2142,72897,1831453434,4802980920,4+,4+,1.8334,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Ryan Wingo,Joueur total de réception (Ryan Wingo (TEX)) (incl. OT),2142,72897,1831453433,4802980739,6+,6+,2.55,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Ryan Wingo,Joueur total de réception (Ryan Wingo (TEX)) (incl. OT),2142,72897,1831453433,4802980740,7+,7+,3.75,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Ryan Wingo,Joueur total de réception (Ryan Wingo (TEX)) (incl. OT),2142,72897,1831453433,4802980741,8+,8+,5.75,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Ryan Wingo,Joueur total de réception (Ryan Wingo (TEX)) (incl. OT),2142,72897,1831453433,4802980742,9+,9+,10.0,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Ryan Wingo,Joueur total de réception (Ryan Wingo (TEX)) (incl. OT),2142,72897,1831453433,4802980743,10+,10+,17.0,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Ryan Wingo,Joueur total de réception (Ryan Wingo (TEX)) (incl. OT),2142,72897,1831453433,4802980745,5+,5+,1.8696,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Ryan Wingo,Joueur total de réception (Ryan Wingo (TEX)) (incl. OT),2142,72897,1831453433,4804749917,4+,4+,1.2667,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Dilin Jones,Joueur total de réception (Dilin Jones (LSU)) (incl. OT),2142,72897,1830388679,4799601410,4+,4+,1.8334,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Dilin Jones,Joueur total de réception (Dilin Jones (LSU)) (incl. OT),2142,72897,1830388679,4799601411,5+,5+,2.4,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Dilin Jones,Joueur total de réception (Dilin Jones (LSU)) (incl. OT),2142,72897,1830388679,4799601412,6+,6+,3.3,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Dilin Jones,Joueur total de réception (Dilin Jones (LSU)) (incl. OT),2142,72897,1830388679,4799601413,7+,7+,4.75,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Dilin Jones,Joueur total de réception (Dilin Jones (LSU)) (incl. OT),2142,72897,1830388679,4799601414,8+,8+,7.25,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Dilin Jones,Joueur total de réception (Dilin Jones (LSU)) (incl. OT),2142,72897,1830388679,4799601415,9+,9+,12.0,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Dilin Jones,Joueur total de réception (Dilin Jones (LSU)) (incl. OT),2142,72897,1830388679,4799601416,3+,3+,1.2858,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Raleek Brown,Joueur total de réception (Raleek Brown (TEX)) (incl. OT),2142,72897,1830388681,4799602576,8+,8+,41.0,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Raleek Brown,Joueur total de réception (Raleek Brown (TEX)) (incl. OT),2142,72897,1830388681,4799601434,3+,3+,2.05,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Raleek Brown,Joueur total de réception (Raleek Brown (TEX)) (incl. OT),2142,72897,1830388681,4799601435,4+,4+,3.0,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Raleek Brown,Joueur total de réception (Raleek Brown (TEX)) (incl. OT),2142,72897,1830388681,4799601436,5+,5+,5.0,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Raleek Brown,Joueur total de réception (Raleek Brown (TEX)) (incl. OT),2142,72897,1830388681,4799601437,6+,6+,9.0,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Raleek Brown,Joueur total de réception (Raleek Brown (TEX)) (incl. OT),2142,72897,1830388681,4799601438,7+,7+,19.0,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Raleek Brown,Joueur total de réception (Raleek Brown (TEX)) (incl. OT),2142,72897,1830388681,4799601439,2+,2+,1.2858,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Winston Watkins,Joueur total de réception (Winston Watkins (LSU)) (incl. OT),2142,72897,1830388683,4799601451,4+,4+,2.0,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Winston Watkins,Joueur total de réception (Winston Watkins (LSU)) (incl. OT),2142,72897,1830388683,4799601452,5+,5+,2.85,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Winston Watkins,Joueur total de réception (Winston Watkins (LSU)) (incl. OT),2142,72897,1830388683,4799601453,6+,6+,4.5,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Winston Watkins,Joueur total de réception (Winston Watkins (LSU)) (incl. OT),2142,72897,1830388683,4799601454,7+,7+,7.75,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Winston Watkins,Joueur total de réception (Winston Watkins (LSU)) (incl. OT),2142,72897,1830388683,4799601455,8+,8+,15.0,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Winston Watkins,Joueur total de réception (Winston Watkins (LSU)) (incl. OT),2142,72897,1830388683,4799601456,9+,9+,31.0,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Winston Watkins,Joueur total de réception (Winston Watkins (LSU)) (incl. OT),2142,72897,1830388683,4799601457,3+,3+,1.3077,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Cam Coleman,Joueur total de réception (Cam Coleman (TEX)) (incl. OT),2142,72897,1832746868,4807045728,9+,9+,19.0,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Cam Coleman,Joueur total de réception (Cam Coleman (TEX)) (incl. OT),2142,72897,1832746868,4807045729,3+,3+,1.3125,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Cam Coleman,Joueur total de réception (Cam Coleman (TEX)) (incl. OT),2142,72897,1832746868,4807045723,4+,4+,1.9091,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Cam Coleman,Joueur total de réception (Cam Coleman (TEX)) (incl. OT),2142,72897,1832746868,4807045724,5+,5+,2.6,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Cam Coleman,Joueur total de réception (Cam Coleman (TEX)) (incl. OT),2142,72897,1832746868,4807045725,6+,6+,3.85,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Cam Coleman,Joueur total de réception (Cam Coleman (TEX)) (incl. OT),2142,72897,1832746868,4807045726,7+,7+,6.0,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Cam Coleman,Joueur total de réception (Cam Coleman (TEX)) (incl. OT),2142,72897,1832746868,4807045727,8+,8+,11.0,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Jackson Harris,Joueur total de réception (Jackson Harris (LSU)) (incl. OT),2142,72897,1831453436,4802980768,5+,5+,1.3334,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Jackson Harris,Joueur total de réception (Jackson Harris (LSU)) (incl. OT),2142,72897,1831453436,4802980762,6+,6+,1.8696,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Jackson Harris,Joueur total de réception (Jackson Harris (LSU)) (incl. OT),2142,72897,1831453436,4802980763,7+,7+,2.45,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Jackson Harris,Joueur total de réception (Jackson Harris (LSU)) (incl. OT),2142,72897,1831453436,4802980764,8+,8+,3.4,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Jackson Harris,Joueur total de réception (Jackson Harris (LSU)) (incl. OT),2142,72897,1831453436,4802980765,9+,9+,5.0,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Jackson Harris,Joueur total de réception (Jackson Harris (LSU)) (incl. OT),2142,72897,1831453436,4802980766,10+,10+,7.75,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Jackson Harris,Joueur total de réception (Jackson Harris (LSU)) (incl. OT),2142,72897,1831453436,4802980767,11+,11+,13.0,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Trey'Dez Green,Joueur total de réception (Trey'Dez Green (LSU)) (incl. OT),2142,72897,1830388677,4799601399,5+,5+,1.8,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Trey'Dez Green,Joueur total de réception (Trey'Dez Green (LSU)) (incl. OT),2142,72897,1830388677,4799601400,6+,6+,2.3,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Trey'Dez Green,Joueur total de réception (Trey'Dez Green (LSU)) (incl. OT),2142,72897,1830388677,4799601401,7+,7+,2.95,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Trey'Dez Green,Joueur total de réception (Trey'Dez Green (LSU)) (incl. OT),2142,72897,1830388677,4799601402,8+,8+,4.0,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Trey'Dez Green,Joueur total de réception (Trey'Dez Green (LSU)) (incl. OT),2142,72897,1830388677,4799601403,9+,9+,5.75,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Trey'Dez Green,Joueur total de réception (Trey'Dez Green (LSU)) (incl. OT),2142,72897,1830388677,4799601404,10+,10+,8.5,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Trey'Dez Green,Joueur total de réception (Trey'Dez Green (LSU)) (incl. OT),2142,72897,1830388677,4799601405,4+,4+,1.3449,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Quad Wilson,Joueur total de réception (Quad Wilson (LSU)) (incl. OT),2142,72897,1830388670,4799601344,3+,3+,1.5,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Quad Wilson,Joueur total de réception (Quad Wilson (LSU)) (incl. OT),2142,72897,1830388670,4799601338,4+,4+,2.3,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Quad Wilson,Joueur total de réception (Quad Wilson (LSU)) (incl. OT),2142,72897,1830388670,4799601339,5+,5+,2.95,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Quad Wilson,Joueur total de réception (Quad Wilson (LSU)) (incl. OT),2142,72897,1830388670,4799601340,6+,6+,4.25,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Quad Wilson,Joueur total de réception (Quad Wilson (LSU)) (incl. OT),2142,72897,1830388670,4799601341,7+,7+,6.5,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Quad Wilson,Joueur total de réception (Quad Wilson (LSU)) (incl. OT),2142,72897,1830388670,4799601342,8+,8+,10.0,0,False
+17332059,LSU Tigers vs. Texas Longhorns,Quad Wilson,Joueur total de réception (Quad Wilson (LSU)) (incl. OT),2142,72897,1830388670,4799601343,9+,9+,17.0,0,False

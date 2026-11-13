@@ -1,31 +1,227 @@
 event_id,match,player,market,market_type_id,sport_market_id,child_market_id,odd_id,selection,line,price,odd_status,is_main_bet
-18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Kevin Jennings,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1834189221,4811734896,Kevin Jennings (SMU) Plus de 284.5,Kevin Jennings (SMU) Plus de 284.5,1.8334,0,True
-18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Kevin Jennings,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1834189221,4811734897,Kevin Jennings (SMU) moins de 284.5,Kevin Jennings (SMU) moins de 284.5,1.7693,0,True
-18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Giovanni Lopez,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1829711422,4797522563,Giovanni Lopez (Wake) Plus de 267.5,Giovanni Lopez (Wake) Plus de 267.5,1.7693,0,True
-18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Giovanni Lopez,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1829711422,4797522564,Giovanni Lopez (Wake) moins de 267.5,Giovanni Lopez (Wake) moins de 267.5,1.8334,0,True
-18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Kevin Jennings,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1824471863,4783264819,Kevin Jennings (SMU) Plus de 1.5,Kevin Jennings (SMU) Plus de 1.5,1.5,0,False
-18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Kevin Jennings,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1824471863,4783264820,Kevin Jennings (SMU) moins de 1.5,Kevin Jennings (SMU) moins de 1.5,2.25,0,False
-18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Giovanni Lopez,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1824471948,4783264989,Giovanni Lopez (Wake) Plus de 1.5,Giovanni Lopez (Wake) Plus de 1.5,1.5556,0,False
-18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Giovanni Lopez,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1824471948,4783264990,Giovanni Lopez (Wake) moins de 1.5,Giovanni Lopez (Wake) moins de 1.5,2.15,0,False
-18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Carlos Hernandez,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1830601283,4800148077,Carlos Hernandez (Wake) Plus de 90.5,Carlos Hernandez (Wake) Plus de 90.5,1.8,0,False
-18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Carlos Hernandez,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1830601283,4800148078,Carlos Hernandez (Wake) moins de 90.5,Carlos Hernandez (Wake) moins de 90.5,1.8,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Kevin Jennings,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1830455939,4799772121,Kevin Jennings (SMU) Plus de 283.5,Kevin Jennings (SMU) Plus de 283.5,1.8334,0,True
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Kevin Jennings,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1830455939,4799772122,Kevin Jennings (SMU) moins de 283.5,Kevin Jennings (SMU) moins de 283.5,1.7693,0,True
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Giovanni Lopez,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1835227970,4815136978,Giovanni Lopez (Wake) Plus de 276.5,Giovanni Lopez (Wake) Plus de 276.5,1.7693,0,True
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Giovanni Lopez,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1835227970,4815136979,Giovanni Lopez (Wake) moins de 276.5,Giovanni Lopez (Wake) moins de 276.5,1.8334,0,True
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Randy Pittman Jr.,Verges de réception du joueur au moins (Randy Pittman Jr. (SMU)),2143,72898,1830389001,4812933703,21+,21+,1.8696,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Randy Pittman Jr.,Verges de réception du joueur au moins (Randy Pittman Jr. (SMU)),2143,72898,1830389001,4812933704,31+,31+,2.3,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Randy Pittman Jr.,Verges de réception du joueur au moins (Randy Pittman Jr. (SMU)),2143,72898,1830389001,4812933705,41+,41+,2.85,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Randy Pittman Jr.,Verges de réception du joueur au moins (Randy Pittman Jr. (SMU)),2143,72898,1830389001,4812933706,51+,51+,3.75,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Randy Pittman Jr.,Verges de réception du joueur au moins (Randy Pittman Jr. (SMU)),2143,72898,1830389001,4812933707,61+,61+,5.0,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Randy Pittman Jr.,Verges de réception du joueur au moins (Randy Pittman Jr. (SMU)),2143,72898,1830389001,4812933708,71+,71+,7.0,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Randy Pittman Jr.,Verges de réception du joueur au moins (Randy Pittman Jr. (SMU)),2143,72898,1830389001,4812933709,81+,81+,10.0,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Randy Pittman Jr.,Verges de réception du joueur au moins (Randy Pittman Jr. (SMU)),2143,72898,1830389001,4812933710,91+,91+,15.0,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Randy Pittman Jr.,Verges de réception du joueur au moins (Randy Pittman Jr. (SMU)),2143,72898,1830389001,4812933711,101+,101+,21.0,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Randy Pittman Jr.,Verges de réception du joueur au moins (Randy Pittman Jr. (SMU)),2143,72898,1830389001,4812933712,11+,11+,1.3847,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Theo Melin Ohrstrom,Verges de réception du joueur au moins (Theo Melin Ohrstrom (SMU)),2143,72898,1830389057,4801110982,20+,20+,2.05,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Theo Melin Ohrstrom,Verges de réception du joueur au moins (Theo Melin Ohrstrom (SMU)),2143,72898,1830389057,4801110983,30+,30+,2.35,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Theo Melin Ohrstrom,Verges de réception du joueur au moins (Theo Melin Ohrstrom (SMU)),2143,72898,1830389057,4801110984,40+,40+,2.95,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Theo Melin Ohrstrom,Verges de réception du joueur au moins (Theo Melin Ohrstrom (SMU)),2143,72898,1830389057,4801110985,50+,50+,3.85,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Theo Melin Ohrstrom,Verges de réception du joueur au moins (Theo Melin Ohrstrom (SMU)),2143,72898,1830389057,4801110986,60+,60+,5.0,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Theo Melin Ohrstrom,Verges de réception du joueur au moins (Theo Melin Ohrstrom (SMU)),2143,72898,1830389057,4801110987,70+,70+,6.75,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Theo Melin Ohrstrom,Verges de réception du joueur au moins (Theo Melin Ohrstrom (SMU)),2143,72898,1830389057,4801110988,80+,80+,10.0,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Theo Melin Ohrstrom,Verges de réception du joueur au moins (Theo Melin Ohrstrom (SMU)),2143,72898,1830389057,4801110989,90+,90+,14.0,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Theo Melin Ohrstrom,Verges de réception du joueur au moins (Theo Melin Ohrstrom (SMU)),2143,72898,1830389057,4801110990,100+,100+,21.0,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Theo Melin Ohrstrom,Verges de réception du joueur au moins (Theo Melin Ohrstrom (SMU)),2143,72898,1830389057,4801110991,10+,10+,1.4445,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Jalen Cooper,Verges de réception du joueur au moins (Jalen Cooper (SMU)),2143,72898,1830388999,4799602421,49+,49+,1.8696,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Jalen Cooper,Verges de réception du joueur au moins (Jalen Cooper (SMU)),2143,72898,1830388999,4799602422,59+,59+,2.15,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Jalen Cooper,Verges de réception du joueur au moins (Jalen Cooper (SMU)),2143,72898,1830388999,4799602423,69+,69+,2.55,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Jalen Cooper,Verges de réception du joueur au moins (Jalen Cooper (SMU)),2143,72898,1830388999,4799602424,79+,79+,3.1,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Jalen Cooper,Verges de réception du joueur au moins (Jalen Cooper (SMU)),2143,72898,1830388999,4799602425,89+,89+,3.75,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Jalen Cooper,Verges de réception du joueur au moins (Jalen Cooper (SMU)),2143,72898,1830388999,4799602426,99+,99+,4.5,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Jalen Cooper,Verges de réception du joueur au moins (Jalen Cooper (SMU)),2143,72898,1830388999,4799602427,109+,109+,6.0,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Jalen Cooper,Verges de réception du joueur au moins (Jalen Cooper (SMU)),2143,72898,1830388999,4799602428,119+,119+,7.75,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Jalen Cooper,Verges de réception du joueur au moins (Jalen Cooper (SMU)),2143,72898,1830388999,4799602429,129+,129+,10.0,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Jalen Cooper,Verges de réception du joueur au moins (Jalen Cooper (SMU)),2143,72898,1830388999,4799602430,39+,39+,1.4762,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Yamir Knight,Verges de réception du joueur au moins (Yamir Knight (SMU)),2143,72898,1830388996,4807910624,87+,87+,2.85,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Yamir Knight,Verges de réception du joueur au moins (Yamir Knight (SMU)),2143,72898,1830388996,4807910625,97+,97+,3.4,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Yamir Knight,Verges de réception du joueur au moins (Yamir Knight (SMU)),2143,72898,1830388996,4807910626,107+,107+,4.0,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Yamir Knight,Verges de réception du joueur au moins (Yamir Knight (SMU)),2143,72898,1830388996,4807910627,117+,117+,5.0,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Yamir Knight,Verges de réception du joueur au moins (Yamir Knight (SMU)),2143,72898,1830388996,4807910628,127+,127+,6.25,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Yamir Knight,Verges de réception du joueur au moins (Yamir Knight (SMU)),2143,72898,1830388996,4807910629,137+,137+,7.75,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Yamir Knight,Verges de réception du joueur au moins (Yamir Knight (SMU)),2143,72898,1830388996,4807910630,47+,47+,1.5,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Yamir Knight,Verges de réception du joueur au moins (Yamir Knight (SMU)),2143,72898,1830388996,4807910621,57+,57+,1.8696,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Yamir Knight,Verges de réception du joueur au moins (Yamir Knight (SMU)),2143,72898,1830388996,4807910622,67+,67+,2.15,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Yamir Knight,Verges de réception du joueur au moins (Yamir Knight (SMU)),2143,72898,1830388996,4807910623,77+,77+,2.45,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Yannick Smith,Verges de réception du joueur au moins (Yannick Smith (SMU)),2143,72898,1830389055,4812933728,106+,106+,4.75,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Yannick Smith,Verges de réception du joueur au moins (Yannick Smith (SMU)),2143,72898,1830389055,4812933729,116+,116+,6.0,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Yannick Smith,Verges de réception du joueur au moins (Yannick Smith (SMU)),2143,72898,1830389055,4812933730,126+,126+,8.0,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Yannick Smith,Verges de réception du joueur au moins (Yannick Smith (SMU)),2143,72898,1830389055,4812933731,136+,136+,11.0,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Yannick Smith,Verges de réception du joueur au moins (Yannick Smith (SMU)),2143,72898,1830389055,4812933732,46+,46+,1.5,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Yannick Smith,Verges de réception du joueur au moins (Yannick Smith (SMU)),2143,72898,1830389055,4812933723,56+,56+,1.8696,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Yannick Smith,Verges de réception du joueur au moins (Yannick Smith (SMU)),2143,72898,1830389055,4812933724,66+,66+,2.15,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Yannick Smith,Verges de réception du joueur au moins (Yannick Smith (SMU)),2143,72898,1830389055,4812933725,76+,76+,2.55,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Yannick Smith,Verges de réception du joueur au moins (Yannick Smith (SMU)),2143,72898,1830389055,4812933726,86+,86+,3.1,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Yannick Smith,Verges de réception du joueur au moins (Yannick Smith (SMU)),2143,72898,1830389055,4812933727,96+,96+,3.85,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Jack Foley,Verges de réception du joueur au moins (Jack Foley (WF)),2143,72898,1830388998,4805638450,40+,40+,1.8696,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Jack Foley,Verges de réception du joueur au moins (Jack Foley (WF)),2143,72898,1830388998,4805638451,50+,50+,2.1,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Jack Foley,Verges de réception du joueur au moins (Jack Foley (WF)),2143,72898,1830388998,4805638452,60+,60+,2.4,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Jack Foley,Verges de réception du joueur au moins (Jack Foley (WF)),2143,72898,1830388998,4805638453,70+,70+,2.8,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Jack Foley,Verges de réception du joueur au moins (Jack Foley (WF)),2143,72898,1830388998,4805638454,80+,80+,3.3,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Jack Foley,Verges de réception du joueur au moins (Jack Foley (WF)),2143,72898,1830388998,4805638455,90+,90+,3.85,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Jack Foley,Verges de réception du joueur au moins (Jack Foley (WF)),2143,72898,1830388998,4805638456,100+,100+,4.75,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Jack Foley,Verges de réception du joueur au moins (Jack Foley (WF)),2143,72898,1830388998,4805638457,110+,110+,5.75,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Jack Foley,Verges de réception du joueur au moins (Jack Foley (WF)),2143,72898,1830388998,4805638458,120+,120+,7.0,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Jack Foley,Verges de réception du joueur au moins (Jack Foley (WF)),2143,72898,1830388998,4805638459,30+,30+,1.5883,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Carlos Hernandez,Verges de réception du joueur au moins (Carlos Hernandez (WF)),2143,72898,1830389002,4812933713,94+,94+,1.8696,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Carlos Hernandez,Verges de réception du joueur au moins (Carlos Hernandez (WF)),2143,72898,1830389002,4812933714,104+,104+,2.1,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Carlos Hernandez,Verges de réception du joueur au moins (Carlos Hernandez (WF)),2143,72898,1830389002,4812933715,114+,114+,2.4,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Carlos Hernandez,Verges de réception du joueur au moins (Carlos Hernandez (WF)),2143,72898,1830389002,4812933716,124+,124+,2.75,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Carlos Hernandez,Verges de réception du joueur au moins (Carlos Hernandez (WF)),2143,72898,1830389002,4812933717,134+,134+,3.2,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Carlos Hernandez,Verges de réception du joueur au moins (Carlos Hernandez (WF)),2143,72898,1830389002,4812933718,144+,144+,3.75,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Carlos Hernandez,Verges de réception du joueur au moins (Carlos Hernandez (WF)),2143,72898,1830389002,4812933719,154+,154+,4.4,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Carlos Hernandez,Verges de réception du joueur au moins (Carlos Hernandez (WF)),2143,72898,1830389002,4812933720,164+,164+,5.25,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Carlos Hernandez,Verges de réception du joueur au moins (Carlos Hernandez (WF)),2143,72898,1830389002,4812933721,174+,174+,6.5,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Carlos Hernandez,Verges de réception du joueur au moins (Carlos Hernandez (WF)),2143,72898,1830389002,4812933722,84+,84+,1.6061,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Kameran Shanks,Verges de réception du joueur au moins (Kameran Shanks (WF)),2143,72898,1831725119,4812967296,49+,49+,3.75,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Kameran Shanks,Verges de réception du joueur au moins (Kameran Shanks (WF)),2143,72898,1831725119,4812967297,59+,59+,5.0,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Kameran Shanks,Verges de réception du joueur au moins (Kameran Shanks (WF)),2143,72898,1831725119,4812967298,69+,69+,7.0,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Kameran Shanks,Verges de réception du joueur au moins (Kameran Shanks (WF)),2143,72898,1831725119,4812967299,79+,79+,10.0,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Kameran Shanks,Verges de réception du joueur au moins (Kameran Shanks (WF)),2143,72898,1831725119,4812967300,89+,89+,15.0,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Kameran Shanks,Verges de réception du joueur au moins (Kameran Shanks (WF)),2143,72898,1831725119,4812967301,99+,99+,21.0,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Kameran Shanks,Verges de réception du joueur au moins (Kameran Shanks (WF)),2143,72898,1831725119,4812967293,19+,19+,1.8696,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Kameran Shanks,Verges de réception du joueur au moins (Kameran Shanks (WF)),2143,72898,1831725119,4812967294,29+,29+,2.3,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Kameran Shanks,Verges de réception du joueur au moins (Kameran Shanks (WF)),2143,72898,1831725119,4812967295,39+,39+,2.85,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Giovanni Lopez,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1824471948,4783264989,Giovanni Lopez (Wake) Plus de 1.5,Giovanni Lopez (Wake) Plus de 1.5,1.5264,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Giovanni Lopez,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1824471948,4783264990,Giovanni Lopez (Wake) moins de 1.5,Giovanni Lopez (Wake) moins de 1.5,2.2,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Kevin Jennings,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1824471863,4783264819,Kevin Jennings (SMU) Plus de 1.5,Kevin Jennings (SMU) Plus de 1.5,1.5264,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Kevin Jennings,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1824471863,4783264820,Kevin Jennings (SMU) moins de 1.5,Kevin Jennings (SMU) moins de 1.5,2.2,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Carlos Hernandez,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1830601283,4800148077,Carlos Hernandez (Wake) Plus de 90.5,Carlos Hernandez (Wake) Plus de 90.5,1.7693,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Carlos Hernandez,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1830601283,4800148078,Carlos Hernandez (Wake) moins de 90.5,Carlos Hernandez (Wake) moins de 90.5,1.8334,0,False
 18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Yannick Smith,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1830749780,4800631083,Yannick Smith (SMU) Plus de 62.5,Yannick Smith (SMU) Plus de 62.5,1.8,0,False
 18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Yannick Smith,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1830749780,4800631084,Yannick Smith (SMU) moins de 62.5,Yannick Smith (SMU) moins de 62.5,1.8,0,False
-18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Yamir Knight,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1825207020,4785472592,Yamir Knight (SMU) Plus de 55.5,Yamir Knight (SMU) Plus de 55.5,1.8334,0,False
-18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Yamir Knight,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1825207020,4785472593,Yamir Knight (SMU) moins de 55.5,Yamir Knight (SMU) moins de 55.5,1.7693,0,False
-18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Jalen Cooper,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1831018816,4801445670,Jalen Cooper (SMU) Plus de 50.5,Jalen Cooper (SMU) Plus de 50.5,1.7693,0,False
-18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Jalen Cooper,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1831018816,4801445671,Jalen Cooper (SMU) moins de 50.5,Jalen Cooper (SMU) moins de 50.5,1.8334,0,False
-18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Jack Foley,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1829644543,4797358412,Jack Foley (Wake) Plus de 36.5,Jack Foley (Wake) Plus de 36.5,1.8334,0,False
-18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Jack Foley,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1829644543,4797358413,Jack Foley (Wake) moins de 36.5,Jack Foley (Wake) moins de 36.5,1.7693,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Yamir Knight,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1824533786,4783422562,Yamir Knight (SMU) Plus de 56.5,Yamir Knight (SMU) Plus de 56.5,1.8334,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Yamir Knight,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1824533786,4783422563,Yamir Knight (SMU) moins de 56.5,Yamir Knight (SMU) moins de 56.5,1.7693,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Jalen Cooper,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1831018816,4801445670,Jalen Cooper (SMU) Plus de 50.5,Jalen Cooper (SMU) Plus de 50.5,1.8334,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Jalen Cooper,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1831018816,4801445671,Jalen Cooper (SMU) moins de 50.5,Jalen Cooper (SMU) moins de 50.5,1.7693,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Jack Foley,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1835227972,4815136982,Jack Foley (Wake) Plus de 45.5,Jack Foley (Wake) Plus de 45.5,1.8334,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Jack Foley,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1835227972,4815136983,Jack Foley (Wake) moins de 45.5,Jack Foley (Wake) moins de 45.5,1.7693,0,False
 18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Randy Pittman Jr.,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1829642199,4797352995,Randy Pittman Jr. (SMU) Plus de 22.5,Randy Pittman Jr. (SMU) Plus de 22.5,1.7693,0,False
 18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Randy Pittman Jr.,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1829642199,4797352996,Randy Pittman Jr. (SMU) moins de 22.5,Randy Pittman Jr. (SMU) moins de 22.5,1.8334,0,False
-18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Theo Melin Ohrstrom,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1829612973,4797281949,Theo Melin Ohrstrom (SMU) Plus de 20.5,Theo Melin Ohrstrom (SMU) Plus de 20.5,1.7693,0,False
-18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Theo Melin Ohrstrom,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1829612973,4797281950,Theo Melin Ohrstrom (SMU) moins de 20.5,Theo Melin Ohrstrom (SMU) moins de 20.5,1.8334,0,False
-18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Kendrick Raphael,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1829598586,4797242110,Kendrick Raphael (SMU) Plus de 63.5,Kendrick Raphael (SMU) Plus de 63.5,1.7693,0,False
-18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Kendrick Raphael,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1829598586,4797242111,Kendrick Raphael (SMU) moins de 63.5,Kendrick Raphael (SMU) moins de 63.5,1.8334,0,False
-18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Ty Clark,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1829638791,4797345134,Ty Clark (Wake) Plus de 43.5,Ty Clark (Wake) Plus de 43.5,1.7693,0,False
-18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Ty Clark,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1829638791,4797345135,Ty Clark (Wake) moins de 43.5,Ty Clark (Wake) moins de 43.5,1.8334,0,False
-18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Giovanni Lopez,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1829649520,4797371032,Giovanni Lopez (Wake) moins de 32.5,Giovanni Lopez (Wake) moins de 32.5,1.7693,0,False
-18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Giovanni Lopez,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1829649520,4797371031,Giovanni Lopez (Wake) Plus de 32.5,Giovanni Lopez (Wake) Plus de 32.5,1.8334,0,False
-18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Kevin Jennings,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1829351594,4796464213,Kevin Jennings (SMU) Plus de 10.5,Kevin Jennings (SMU) Plus de 10.5,1.8334,0,False
-18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Kevin Jennings,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1829351594,4796464214,Kevin Jennings (SMU) moins de 10.5,Kevin Jennings (SMU) moins de 10.5,1.7693,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Kameran Shanks,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1824471961,4783265016,Kameran Shanks (Wake) moins de 21.5,Kameran Shanks (Wake) moins de 21.5,1.8334,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Kameran Shanks,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1824471961,4783265015,Kameran Shanks (Wake) Plus de 21.5,Kameran Shanks (Wake) Plus de 21.5,1.7693,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Theo Melin Ohrstrom,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1830455940,4799772123,Theo Melin Ohrstrom (SMU) Plus de 18.5,Theo Melin Ohrstrom (SMU) Plus de 18.5,1.7693,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Theo Melin Ohrstrom,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1830455940,4799772124,Theo Melin Ohrstrom (SMU) moins de 18.5,Theo Melin Ohrstrom (SMU) moins de 18.5,1.8334,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Kendrick Raphael,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1829598586,4797242110,Kendrick Raphael (SMU) Plus de 63.5,Kendrick Raphael (SMU) Plus de 63.5,1.8334,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Kendrick Raphael,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1829598586,4797242111,Kendrick Raphael (SMU) moins de 63.5,Kendrick Raphael (SMU) moins de 63.5,1.7693,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Ty Clark,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1829644178,4797357544,Ty Clark (Wake) Plus de 42.5,Ty Clark (Wake) Plus de 42.5,1.7693,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Ty Clark,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1829644178,4797357545,Ty Clark (Wake) moins de 42.5,Ty Clark (Wake) moins de 42.5,1.8334,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Giovanni Lopez,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1829636423,4797334936,Giovanni Lopez (Wake) Plus de 30.5,Giovanni Lopez (Wake) Plus de 30.5,1.8334,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Giovanni Lopez,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1829636423,4797334937,Giovanni Lopez (Wake) moins de 30.5,Giovanni Lopez (Wake) moins de 30.5,1.7693,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Kevin Jennings,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1829351594,4796464213,Kevin Jennings (SMU) Plus de 10.5,Kevin Jennings (SMU) Plus de 10.5,1.7693,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Kevin Jennings,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1829351594,4796464214,Kevin Jennings (SMU) moins de 10.5,Kevin Jennings (SMU) moins de 10.5,1.8334,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Carlos Hernandez,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1831927807,4804574762,Carlos Hernandez (WF) Plus de 6.5,Carlos Hernandez (WF) Plus de 6.5,1.6667,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Carlos Hernandez,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1831927807,4804574763,Carlos Hernandez (WF) moins de 6.5,Carlos Hernandez (WF) moins de 6.5,2.0,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Yamir Knight,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1831753932,4804129731,Yamir Knight (SMU) moins de 4.5,Yamir Knight (SMU) moins de 4.5,2.15,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Yamir Knight,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1831753932,4804129732,Yamir Knight (SMU) Plus de 4.5,Yamir Knight (SMU) Plus de 4.5,1.5715,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Jack Foley,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1834617440,4812967312,Jack Foley (WF) Plus de 3.5,Jack Foley (WF) Plus de 3.5,1.8696,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Jack Foley,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1834617440,4812967311,Jack Foley (WF) moins de 3.5,Jack Foley (WF) moins de 3.5,1.7693,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Jalen Cooper,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1831753933,4804129733,Jalen Cooper (SMU) moins de 3.5,Jalen Cooper (SMU) moins de 3.5,1.7408,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Jalen Cooper,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1831753933,4804129734,Jalen Cooper (SMU) Plus de 3.5,Jalen Cooper (SMU) Plus de 3.5,1.9091,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Kevin Jennings,Touchés par la passe du joueur au moins (Kevin Jennings (SMU)),2138,72893,1830389000,4799602432,3+,3+,2.5,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Kevin Jennings,Touchés par la passe du joueur au moins (Kevin Jennings (SMU)),2138,72893,1830389000,4799602433,4+,4+,4.4,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Kevin Jennings,Touchés par la passe du joueur au moins (Kevin Jennings (SMU)),2138,72893,1830389000,4799602434,1+,1+,1.125,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Kevin Jennings,Touchés par la passe du joueur au moins (Kevin Jennings (SMU)),2138,72893,1830389000,4799602431,2+,2+,1.6061,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Gio Lopez,Touchés par la passe du joueur au moins (Gio Lopez (WF)),2138,72893,1830389003,4799602456,3+,3+,2.55,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Gio Lopez,Touchés par la passe du joueur au moins (Gio Lopez (WF)),2138,72893,1830389003,4799602457,4+,4+,4.5,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Gio Lopez,Touchés par la passe du joueur au moins (Gio Lopez (WF)),2138,72893,1830389003,4799602458,1+,1+,1.1429,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Gio Lopez,Touchés par la passe du joueur au moins (Gio Lopez (WF)),2138,72893,1830389003,4799602455,2+,2+,1.6471,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Gio Lopez,Verges par la passe du joueur au moins (Gio Lopez (WF)),2136,72891,1830388997,4812933696,314+,314+,3.2,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Gio Lopez,Verges par la passe du joueur au moins (Gio Lopez (WF)),2136,72891,1830388997,4812933857,254+,254+,1.6897,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Gio Lopez,Verges par la passe du joueur au moins (Gio Lopez (WF)),2136,72891,1830388997,4812933858,244+,244+,1.5264,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Gio Lopez,Verges par la passe du joueur au moins (Gio Lopez (WF)),2136,72891,1830388997,4812933697,324+,324+,3.6,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Gio Lopez,Verges par la passe du joueur au moins (Gio Lopez (WF)),2136,72891,1830388997,4812933698,334+,334+,4.0,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Gio Lopez,Verges par la passe du joueur au moins (Gio Lopez (WF)),2136,72891,1830388997,4812933699,344+,344+,4.75,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Gio Lopez,Verges par la passe du joueur au moins (Gio Lopez (WF)),2136,72891,1830388997,4812933700,354+,354+,5.5,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Gio Lopez,Verges par la passe du joueur au moins (Gio Lopez (WF)),2136,72891,1830388997,4812933701,364+,364+,6.5,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Gio Lopez,Verges par la passe du joueur au moins (Gio Lopez (WF)),2136,72891,1830388997,4812933702,374+,374+,7.75,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Gio Lopez,Verges par la passe du joueur au moins (Gio Lopez (WF)),2136,72891,1830388997,4812933856,404+,404+,14.0,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Gio Lopez,Verges par la passe du joueur au moins (Gio Lopez (WF)),2136,72891,1830388997,4812933854,384+,384+,9.0,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Gio Lopez,Verges par la passe du joueur au moins (Gio Lopez (WF)),2136,72891,1830388997,4812933855,394+,394+,12.0,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Gio Lopez,Verges par la passe du joueur au moins (Gio Lopez (WF)),2136,72891,1830388997,4812933691,264+,264+,1.8696,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Gio Lopez,Verges par la passe du joueur au moins (Gio Lopez (WF)),2136,72891,1830388997,4812933692,274+,274+,2.05,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Gio Lopez,Verges par la passe du joueur au moins (Gio Lopez (WF)),2136,72891,1830388997,4812933693,284+,284+,2.25,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Gio Lopez,Verges par la passe du joueur au moins (Gio Lopez (WF)),2136,72891,1830388997,4812933694,294+,294+,2.5,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Gio Lopez,Verges par la passe du joueur au moins (Gio Lopez (WF)),2136,72891,1830388997,4812933695,304+,304+,2.8,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Kevin Jennings,Verges par la passe du joueur au moins (Kevin Jennings (SMU)),2136,72891,1830389058,4799780512,374+,374+,4.75,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Kevin Jennings,Verges par la passe du joueur au moins (Kevin Jennings (SMU)),2136,72891,1830389058,4799780513,384+,384+,5.5,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Kevin Jennings,Verges par la passe du joueur au moins (Kevin Jennings (SMU)),2136,72891,1830389058,4799780514,394+,394+,6.25,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Kevin Jennings,Verges par la passe du joueur au moins (Kevin Jennings (SMU)),2136,72891,1830389058,4799780515,404+,404+,7.25,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Kevin Jennings,Verges par la passe du joueur au moins (Kevin Jennings (SMU)),2136,72891,1830389058,4799780516,414+,414+,8.5,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Kevin Jennings,Verges par la passe du joueur au moins (Kevin Jennings (SMU)),2136,72891,1830389058,4799780517,424+,424+,10.0,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Kevin Jennings,Verges par la passe du joueur au moins (Kevin Jennings (SMU)),2136,72891,1830389058,4799780518,274+,274+,1.6897,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Kevin Jennings,Verges par la passe du joueur au moins (Kevin Jennings (SMU)),2136,72891,1830389058,4799780519,264+,264+,1.5556,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Kevin Jennings,Verges par la passe du joueur au moins (Kevin Jennings (SMU)),2136,72891,1830389058,4799780503,284+,284+,1.8696,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Kevin Jennings,Verges par la passe du joueur au moins (Kevin Jennings (SMU)),2136,72891,1830389058,4799780504,294+,294+,2.05,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Kevin Jennings,Verges par la passe du joueur au moins (Kevin Jennings (SMU)),2136,72891,1830389058,4799780505,304+,304+,2.2,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Kevin Jennings,Verges par la passe du joueur au moins (Kevin Jennings (SMU)),2136,72891,1830389058,4799780506,314+,314+,2.4,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Kevin Jennings,Verges par la passe du joueur au moins (Kevin Jennings (SMU)),2136,72891,1830389058,4799780507,324+,324+,2.65,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Kevin Jennings,Verges par la passe du joueur au moins (Kevin Jennings (SMU)),2136,72891,1830389058,4799780508,334+,334+,2.95,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Kevin Jennings,Verges par la passe du joueur au moins (Kevin Jennings (SMU)),2136,72891,1830389058,4799780509,344+,344+,3.3,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Kevin Jennings,Verges par la passe du joueur au moins (Kevin Jennings (SMU)),2136,72891,1830389058,4799780510,354+,354+,3.75,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Kevin Jennings,Verges par la passe du joueur au moins (Kevin Jennings (SMU)),2136,72891,1830389058,4799780511,364+,364+,4.25,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Ty Clark,Verges au sol du joueur au moins (Ty Clark (WF)),2140,72895,1830389004,4804641732,46+,46+,1.8696,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Ty Clark,Verges au sol du joueur au moins (Ty Clark (WF)),2140,72895,1830389004,4804641733,56+,56+,2.2,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Ty Clark,Verges au sol du joueur au moins (Ty Clark (WF)),2140,72895,1830389004,4804641734,66+,66+,2.6,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Ty Clark,Verges au sol du joueur au moins (Ty Clark (WF)),2140,72895,1830389004,4804641735,76+,76+,3.2,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Ty Clark,Verges au sol du joueur au moins (Ty Clark (WF)),2140,72895,1830389004,4804641736,86+,86+,4.0,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Ty Clark,Verges au sol du joueur au moins (Ty Clark (WF)),2140,72895,1830389004,4804641737,96+,96+,5.25,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Ty Clark,Verges au sol du joueur au moins (Ty Clark (WF)),2140,72895,1830389004,4804641738,106+,106+,6.75,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Ty Clark,Verges au sol du joueur au moins (Ty Clark (WF)),2140,72895,1830389004,4804641739,116+,116+,9.0,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Ty Clark,Verges au sol du joueur au moins (Ty Clark (WF)),2140,72895,1830389004,4804641740,126+,126+,13.0,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Ty Clark,Verges au sol du joueur au moins (Ty Clark (WF)),2140,72895,1830389004,4804641741,36+,36+,1.4762,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Ty Clark,Verges au sol du joueur au moins (Ty Clark (WF)),2140,72895,1830389004,4804641742,26+,26+,1.25,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Kendrick Raphael,Verges au sol du joueur au moins (Kendrick Raphael (SMU)),2140,72895,1830389005,4811374503,143+,143+,11.0,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Kendrick Raphael,Verges au sol du joueur au moins (Kendrick Raphael (SMU)),2140,72895,1830389005,4811374504,53+,53+,1.5,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Kendrick Raphael,Verges au sol du joueur au moins (Kendrick Raphael (SMU)),2140,72895,1830389005,4811374505,43+,43+,1.2858,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Kendrick Raphael,Verges au sol du joueur au moins (Kendrick Raphael (SMU)),2140,72895,1830389005,4811374738,63+,63+,1.8696,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Kendrick Raphael,Verges au sol du joueur au moins (Kendrick Raphael (SMU)),2140,72895,1830389005,4811374739,73+,73+,2.15,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Kendrick Raphael,Verges au sol du joueur au moins (Kendrick Raphael (SMU)),2140,72895,1830389005,4811374740,83+,83+,2.55,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Kendrick Raphael,Verges au sol du joueur au moins (Kendrick Raphael (SMU)),2140,72895,1830389005,4811374741,93+,93+,3.1,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Kendrick Raphael,Verges au sol du joueur au moins (Kendrick Raphael (SMU)),2140,72895,1830389005,4811374742,103+,103+,3.75,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Kendrick Raphael,Verges au sol du joueur au moins (Kendrick Raphael (SMU)),2140,72895,1830389005,4811374743,113+,113+,4.75,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Kendrick Raphael,Verges au sol du joueur au moins (Kendrick Raphael (SMU)),2140,72895,1830389005,4811374744,123+,123+,6.0,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Kendrick Raphael,Verges au sol du joueur au moins (Kendrick Raphael (SMU)),2140,72895,1830389005,4811374745,133+,133+,7.75,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Gio Lopez,Verges au sol du joueur au moins (Gio Lopez (WF)),2140,72895,1830389056,4811210722,29+,29+,1.8696,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Gio Lopez,Verges au sol du joueur au moins (Gio Lopez (WF)),2140,72895,1830389056,4811210723,39+,39+,2.3,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Gio Lopez,Verges au sol du joueur au moins (Gio Lopez (WF)),2140,72895,1830389056,4811210724,49+,49+,2.95,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Gio Lopez,Verges au sol du joueur au moins (Gio Lopez (WF)),2140,72895,1830389056,4811210725,59+,59+,3.85,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Gio Lopez,Verges au sol du joueur au moins (Gio Lopez (WF)),2140,72895,1830389056,4811210726,69+,69+,5.5,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Gio Lopez,Verges au sol du joueur au moins (Gio Lopez (WF)),2140,72895,1830389056,4811210727,79+,79+,8.0,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Gio Lopez,Verges au sol du joueur au moins (Gio Lopez (WF)),2140,72895,1830389056,4811210728,89+,89+,12.0,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Gio Lopez,Verges au sol du joueur au moins (Gio Lopez (WF)),2140,72895,1830389056,4811210729,99+,99+,19.0,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Gio Lopez,Verges au sol du joueur au moins (Gio Lopez (WF)),2140,72895,1830389056,4811210730,109+,109+,31.0,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Gio Lopez,Verges au sol du joueur au moins (Gio Lopez (WF)),2140,72895,1830389056,4811210731,19+,19+,1.3847,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Kevin Jennings,Verges au sol du joueur au moins (Kevin Jennings (SMU)),2140,72895,1830389006,4810056954,15+,15+,1.8696,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Kevin Jennings,Verges au sol du joueur au moins (Kevin Jennings (SMU)),2140,72895,1830389006,4810056955,25+,25+,2.95,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Kevin Jennings,Verges au sol du joueur au moins (Kevin Jennings (SMU)),2140,72895,1830389006,4810056956,35+,35+,5.5,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Kevin Jennings,Verges au sol du joueur au moins (Kevin Jennings (SMU)),2140,72895,1830389006,4810056957,45+,45+,12.0,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Kevin Jennings,Verges au sol du joueur au moins (Kevin Jennings (SMU)),2140,72895,1830389006,4810056958,55+,55+,31.0,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Yamir Knight,Joueur total de réception (Yamir Knight (SMU)) (incl. OT),2142,72897,1831753930,4804129717,5+,5+,1.6061,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Yamir Knight,Joueur total de réception (Yamir Knight (SMU)) (incl. OT),2142,72897,1831753930,4804129718,6+,6+,2.15,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Yamir Knight,Joueur total de réception (Yamir Knight (SMU)) (incl. OT),2142,72897,1831753930,4804129719,7+,7+,3.1,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Yamir Knight,Joueur total de réception (Yamir Knight (SMU)) (incl. OT),2142,72897,1831753930,4804129720,8+,8+,4.75,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Yamir Knight,Joueur total de réception (Yamir Knight (SMU)) (incl. OT),2142,72897,1831753930,4804129721,9+,9+,7.75,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Yamir Knight,Joueur total de réception (Yamir Knight (SMU)) (incl. OT),2142,72897,1831753930,4804129722,10+,10+,14.0,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Yamir Knight,Joueur total de réception (Yamir Knight (SMU)) (incl. OT),2142,72897,1831753930,4804129723,4+,4+,1.1539,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Carlos Hernandez,Joueur total de réception (Carlos Hernandez (WF)) (incl. OT),2142,72897,1831927806,4804574755,7+,7+,1.7408,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Carlos Hernandez,Joueur total de réception (Carlos Hernandez (WF)) (incl. OT),2142,72897,1831927806,4804574756,8+,8+,2.25,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Carlos Hernandez,Joueur total de réception (Carlos Hernandez (WF)) (incl. OT),2142,72897,1831927806,4804574757,9+,9+,2.95,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Carlos Hernandez,Joueur total de réception (Carlos Hernandez (WF)) (incl. OT),2142,72897,1831927806,4804574758,10+,10+,4.0,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Carlos Hernandez,Joueur total de réception (Carlos Hernandez (WF)) (incl. OT),2142,72897,1831927806,4804574759,11+,11+,6.0,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Carlos Hernandez,Joueur total de réception (Carlos Hernandez (WF)) (incl. OT),2142,72897,1831927806,4804574760,12+,12+,10.0,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Carlos Hernandez,Joueur total de réception (Carlos Hernandez (WF)) (incl. OT),2142,72897,1831927806,4804574761,6+,6+,1.3077,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Jack Foley,Joueur total de réception (Jack Foley (WF)) (incl. OT),2142,72897,1834617438,4812967302,4+,4+,1.9524,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Jack Foley,Joueur total de réception (Jack Foley (WF)) (incl. OT),2142,72897,1834617438,4812967303,5+,5+,2.65,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Jack Foley,Joueur total de réception (Jack Foley (WF)) (incl. OT),2142,72897,1834617438,4812967304,6+,6+,3.85,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Jack Foley,Joueur total de réception (Jack Foley (WF)) (incl. OT),2142,72897,1834617438,4812967305,7+,7+,6.0,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Jack Foley,Joueur total de réception (Jack Foley (WF)) (incl. OT),2142,72897,1834617438,4812967306,8+,8+,10.0,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Jack Foley,Joueur total de réception (Jack Foley (WF)) (incl. OT),2142,72897,1834617438,4812967307,9+,9+,19.0,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Jack Foley,Joueur total de réception (Jack Foley (WF)) (incl. OT),2142,72897,1834617438,4812967308,3+,3+,1.3637,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Jalen Cooper,Joueur total de réception (Jalen Cooper (SMU)) (incl. OT),2142,72897,1831753931,4804129728,8+,8+,11.0,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Jalen Cooper,Joueur total de réception (Jalen Cooper (SMU)) (incl. OT),2142,72897,1831753931,4804129729,9+,9+,19.0,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Jalen Cooper,Joueur total de réception (Jalen Cooper (SMU)) (incl. OT),2142,72897,1831753931,4804129730,3+,3+,1.4,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Jalen Cooper,Joueur total de réception (Jalen Cooper (SMU)) (incl. OT),2142,72897,1831753931,4804129724,4+,4+,2.0,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Jalen Cooper,Joueur total de réception (Jalen Cooper (SMU)) (incl. OT),2142,72897,1831753931,4804129725,5+,5+,2.7,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Jalen Cooper,Joueur total de réception (Jalen Cooper (SMU)) (incl. OT),2142,72897,1831753931,4804129726,6+,6+,4.0,0,False
+18112939,SMU Mustangs vs. Wake Forest Demon Deacons,Jalen Cooper,Joueur total de réception (Jalen Cooper (SMU)) (incl. OT),2142,72897,1831753931,4804129727,7+,7+,6.25,0,False

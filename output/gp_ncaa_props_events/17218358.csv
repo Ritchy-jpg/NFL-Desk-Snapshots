@@ -1,33 +1,223 @@
 event_id,match,player,market,market_type_id,sport_market_id,child_market_id,odd_id,selection,line,price,odd_status,is_main_bet
-17218358,Miami Hurricanes vs. Duke Blue Devils,Darian Mensah,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1827371513,4791019296,Darian Mensah (MIA-FL) Plus de 267.5,Darian Mensah (MIA-FL) Plus de 267.5,1.8334,0,True
-17218358,Miami Hurricanes vs. Duke Blue Devils,Darian Mensah,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1827371513,4791019297,Darian Mensah (MIA-FL) moins de 267.5,Darian Mensah (MIA-FL) moins de 267.5,1.7693,0,True
-17218358,Miami Hurricanes vs. Duke Blue Devils,Walker Eget,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1827291422,4790824626,Walker Eget (Duke) Plus de 212.5,Walker Eget (Duke) Plus de 212.5,1.8334,0,True
-17218358,Miami Hurricanes vs. Duke Blue Devils,Walker Eget,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1827291422,4790824627,Walker Eget (Duke) moins de 212.5,Walker Eget (Duke) moins de 212.5,1.7693,0,True
-17218358,Miami Hurricanes vs. Duke Blue Devils,Darian Mensah,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1826923108,4789826480,Darian Mensah (MIA-FL) moins de 2.5,Darian Mensah (MIA-FL) moins de 2.5,1.4546,0,False
-17218358,Miami Hurricanes vs. Duke Blue Devils,Darian Mensah,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1826923108,4789826479,Darian Mensah (MIA-FL) Plus de 2.5,Darian Mensah (MIA-FL) Plus de 2.5,2.35,0,False
-17218358,Miami Hurricanes vs. Duke Blue Devils,Walker Eget,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1826561534,4788803190,Walker Eget (Duke) Plus de 1.5,Walker Eget (Duke) Plus de 1.5,2.4,0,False
-17218358,Miami Hurricanes vs. Duke Blue Devils,Walker Eget,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1826561534,4788803191,Walker Eget (Duke) moins de 1.5,Walker Eget (Duke) moins de 1.5,1.4445,0,False
-17218358,Miami Hurricanes vs. Duke Blue Devils,Cooper Barkate,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1830568327,4800064581,Cooper Barkate (MIA-FL) Plus de 73.5,Cooper Barkate (MIA-FL) Plus de 73.5,1.8,0,False
-17218358,Miami Hurricanes vs. Duke Blue Devils,Cooper Barkate,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1830568327,4800064582,Cooper Barkate (MIA-FL) moins de 73.5,Cooper Barkate (MIA-FL) moins de 73.5,1.8,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Darian Mensah,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1827291429,4790824640,Darian Mensah (MIA-FL) Plus de 271.5,Darian Mensah (MIA-FL) Plus de 271.5,1.8,0,True
+17218358,Miami Hurricanes vs. Duke Blue Devils,Darian Mensah,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1827291429,4790824641,Darian Mensah (MIA-FL) moins de 271.5,Darian Mensah (MIA-FL) moins de 271.5,1.8,0,True
+17218358,Miami Hurricanes vs. Duke Blue Devils,Walker Eget,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1827312138,4790872596,Walker Eget (Duke) Plus de 213.5,Walker Eget (Duke) Plus de 213.5,1.7693,0,True
+17218358,Miami Hurricanes vs. Duke Blue Devils,Walker Eget,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1827312138,4790872597,Walker Eget (Duke) moins de 213.5,Walker Eget (Duke) moins de 213.5,1.8334,0,True
+17218358,Miami Hurricanes vs. Duke Blue Devils,Brody Keefe,Verges de réception du joueur au moins (Brody Keefe (DUK)),2143,72898,1831978745,4804798037,25+,25+,1.8696,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Brody Keefe,Verges de réception du joueur au moins (Brody Keefe (DUK)),2143,72898,1831978745,4804798038,35+,35+,2.3,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Brody Keefe,Verges de réception du joueur au moins (Brody Keefe (DUK)),2143,72898,1831978745,4804798039,45+,45+,2.9,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Brody Keefe,Verges de réception du joueur au moins (Brody Keefe (DUK)),2143,72898,1831978745,4804798040,55+,55+,3.85,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Brody Keefe,Verges de réception du joueur au moins (Brody Keefe (DUK)),2143,72898,1831978745,4804798041,65+,65+,5.0,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Brody Keefe,Verges de réception du joueur au moins (Brody Keefe (DUK)),2143,72898,1831978745,4804798042,75+,75+,7.25,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Brody Keefe,Verges de réception du joueur au moins (Brody Keefe (DUK)),2143,72898,1831978745,4804798043,85+,85+,11.0,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Brody Keefe,Verges de réception du joueur au moins (Brody Keefe (DUK)),2143,72898,1831978745,4804798044,95+,95+,16.0,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Brody Keefe,Verges de réception du joueur au moins (Brody Keefe (DUK)),2143,72898,1831978745,4804798045,105+,105+,26.0,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Brody Keefe,Verges de réception du joueur au moins (Brody Keefe (DUK)),2143,72898,1831978745,4804798046,15+,15+,1.4,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Jeremiah Hasley,Verges de réception du joueur au moins (Jeremiah Hasley (DUK)),2143,72898,1831978896,4810134483,31+,31+,1.8696,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Jeremiah Hasley,Verges de réception du joueur au moins (Jeremiah Hasley (DUK)),2143,72898,1831978896,4810134484,41+,41+,2.25,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Jeremiah Hasley,Verges de réception du joueur au moins (Jeremiah Hasley (DUK)),2143,72898,1831978896,4810134485,51+,51+,2.7,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Jeremiah Hasley,Verges de réception du joueur au moins (Jeremiah Hasley (DUK)),2143,72898,1831978896,4810134486,61+,61+,3.4,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Jeremiah Hasley,Verges de réception du joueur au moins (Jeremiah Hasley (DUK)),2143,72898,1831978896,4810134487,71+,71+,4.4,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Jeremiah Hasley,Verges de réception du joueur au moins (Jeremiah Hasley (DUK)),2143,72898,1831978896,4810134488,81+,81+,5.75,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Jeremiah Hasley,Verges de réception du joueur au moins (Jeremiah Hasley (DUK)),2143,72898,1831978896,4810134489,91+,91+,8.0,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Jeremiah Hasley,Verges de réception du joueur au moins (Jeremiah Hasley (DUK)),2143,72898,1831978896,4810134490,101+,101+,12.0,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Jeremiah Hasley,Verges de réception du joueur au moins (Jeremiah Hasley (DUK)),2143,72898,1831978896,4810134491,111+,111+,17.0,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Jeremiah Hasley,Verges de réception du joueur au moins (Jeremiah Hasley (DUK)),2143,72898,1831978896,4810134492,21+,21+,1.4546,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Nate Sheppard,Verges de réception du joueur au moins (Nate Sheppard (DUK)),2143,72898,1831978753,4815072457,30+,30+,1.9524,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Nate Sheppard,Verges de réception du joueur au moins (Nate Sheppard (DUK)),2143,72898,1831978753,4815072458,40+,40+,2.25,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Nate Sheppard,Verges de réception du joueur au moins (Nate Sheppard (DUK)),2143,72898,1831978753,4815072459,50+,50+,2.75,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Nate Sheppard,Verges de réception du joueur au moins (Nate Sheppard (DUK)),2143,72898,1831978753,4815072460,60+,60+,3.4,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Nate Sheppard,Verges de réception du joueur au moins (Nate Sheppard (DUK)),2143,72898,1831978753,4815072461,70+,70+,4.3,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Nate Sheppard,Verges de réception du joueur au moins (Nate Sheppard (DUK)),2143,72898,1831978753,4815072462,80+,80+,5.75,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Nate Sheppard,Verges de réception du joueur au moins (Nate Sheppard (DUK)),2143,72898,1831978753,4815072463,90+,90+,7.75,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Nate Sheppard,Verges de réception du joueur au moins (Nate Sheppard (DUK)),2143,72898,1831978753,4815072464,100+,100+,11.0,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Nate Sheppard,Verges de réception du joueur au moins (Nate Sheppard (DUK)),2143,72898,1831978753,4815072465,110+,110+,15.0,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Nate Sheppard,Verges de réception du joueur au moins (Nate Sheppard (DUK)),2143,72898,1831978753,4815072466,20+,20+,1.4762,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Elija Lofton,Verges de réception du joueur au moins (Elija Lofton (MFL)),2143,72898,1831978895,4810771011,53+,53+,1.8696,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Elija Lofton,Verges de réception du joueur au moins (Elija Lofton (MFL)),2143,72898,1831978895,4810771012,63+,63+,2.2,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Elija Lofton,Verges de réception du joueur au moins (Elija Lofton (MFL)),2143,72898,1831978895,4810771013,73+,73+,2.6,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Elija Lofton,Verges de réception du joueur au moins (Elija Lofton (MFL)),2143,72898,1831978895,4810771014,83+,83+,3.2,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Elija Lofton,Verges de réception du joueur au moins (Elija Lofton (MFL)),2143,72898,1831978895,4810771015,93+,93+,3.85,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Elija Lofton,Verges de réception du joueur au moins (Elija Lofton (MFL)),2143,72898,1831978895,4810771016,103+,103+,5.0,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Elija Lofton,Verges de réception du joueur au moins (Elija Lofton (MFL)),2143,72898,1831978895,4810771017,113+,113+,6.5,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Elija Lofton,Verges de réception du joueur au moins (Elija Lofton (MFL)),2143,72898,1831978895,4810771018,123+,123+,8.5,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Elija Lofton,Verges de réception du joueur au moins (Elija Lofton (MFL)),2143,72898,1831978895,4810771019,133+,133+,12.0,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Elija Lofton,Verges de réception du joueur au moins (Elija Lofton (MFL)),2143,72898,1831978895,4810771020,43+,43+,1.5,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Daylyn Upshaw,Verges de réception du joueur au moins (Daylyn Upshaw (MFL)),2143,72898,1831978754,4815897296,43+,43+,1.9091,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Daylyn Upshaw,Verges de réception du joueur au moins (Daylyn Upshaw (MFL)),2143,72898,1831978754,4815897297,53+,53+,2.2,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Daylyn Upshaw,Verges de réception du joueur au moins (Daylyn Upshaw (MFL)),2143,72898,1831978754,4815897298,63+,63+,2.65,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Daylyn Upshaw,Verges de réception du joueur au moins (Daylyn Upshaw (MFL)),2143,72898,1831978754,4815897299,73+,73+,3.2,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Daylyn Upshaw,Verges de réception du joueur au moins (Daylyn Upshaw (MFL)),2143,72898,1831978754,4815897300,83+,83+,4.0,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Daylyn Upshaw,Verges de réception du joueur au moins (Daylyn Upshaw (MFL)),2143,72898,1831978754,4815897301,93+,93+,5.0,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Daylyn Upshaw,Verges de réception du joueur au moins (Daylyn Upshaw (MFL)),2143,72898,1831978754,4815897302,103+,103+,6.5,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Daylyn Upshaw,Verges de réception du joueur au moins (Daylyn Upshaw (MFL)),2143,72898,1831978754,4815897303,113+,113+,9.0,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Daylyn Upshaw,Verges de réception du joueur au moins (Daylyn Upshaw (MFL)),2143,72898,1831978754,4815897304,123+,123+,12.0,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Daylyn Upshaw,Verges de réception du joueur au moins (Daylyn Upshaw (MFL)),2143,72898,1831978754,4815897305,33+,33+,1.5264,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Cooper Barkate,Verges de réception du joueur au moins (Cooper Barkate (MFL)),2143,72898,1831978897,4804706080,146+,146+,7.5,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Cooper Barkate,Verges de réception du joueur au moins (Cooper Barkate (MFL)),2143,72898,1831978897,4804706081,156+,156+,10.0,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Cooper Barkate,Verges de réception du joueur au moins (Cooper Barkate (MFL)),2143,72898,1831978897,4804706082,66+,66+,1.5715,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Cooper Barkate,Verges de réception du joueur au moins (Cooper Barkate (MFL)),2143,72898,1831978897,4804706073,76+,76+,1.9091,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Cooper Barkate,Verges de réception du joueur au moins (Cooper Barkate (MFL)),2143,72898,1831978897,4804706074,86+,86+,2.15,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Cooper Barkate,Verges de réception du joueur au moins (Cooper Barkate (MFL)),2143,72898,1831978897,4804706075,96+,96+,2.55,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Cooper Barkate,Verges de réception du joueur au moins (Cooper Barkate (MFL)),2143,72898,1831978897,4804706076,106+,106+,3.0,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Cooper Barkate,Verges de réception du joueur au moins (Cooper Barkate (MFL)),2143,72898,1831978897,4804706077,116+,116+,3.75,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Cooper Barkate,Verges de réception du joueur au moins (Cooper Barkate (MFL)),2143,72898,1831978897,4804706078,126+,126+,4.5,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Cooper Barkate,Verges de réception du joueur au moins (Cooper Barkate (MFL)),2143,72898,1831978897,4804706079,136+,136+,5.75,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Jayden Moore,Verges de réception du joueur au moins (Jayden Moore (DUK)),2143,72898,1831978894,4815512564,18+,18+,1.8696,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Jayden Moore,Verges de réception du joueur au moins (Jayden Moore (DUK)),2143,72898,1831978894,4815512565,28+,28+,2.25,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Jayden Moore,Verges de réception du joueur au moins (Jayden Moore (DUK)),2143,72898,1831978894,4815512566,38+,38+,2.8,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Jayden Moore,Verges de réception du joueur au moins (Jayden Moore (DUK)),2143,72898,1831978894,4815512567,48+,48+,3.6,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Jayden Moore,Verges de réception du joueur au moins (Jayden Moore (DUK)),2143,72898,1831978894,4815512568,58+,58+,4.75,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Jayden Moore,Verges de réception du joueur au moins (Jayden Moore (DUK)),2143,72898,1831978894,4815512569,68+,68+,6.5,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Jayden Moore,Verges de réception du joueur au moins (Jayden Moore (DUK)),2143,72898,1831978894,4815512570,78+,78+,9.0,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Jayden Moore,Verges de réception du joueur au moins (Jayden Moore (DUK)),2143,72898,1831978894,4815512571,88+,88+,13.0,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Jayden Moore,Verges de réception du joueur au moins (Jayden Moore (DUK)),2143,72898,1831978894,4815512572,98+,98+,20.0,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Mark Fletcher,Verges de réception du joueur au moins (Mark Fletcher (MFL)),2143,72898,1831978752,4809689958,11+,11+,1.8696,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Mark Fletcher,Verges de réception du joueur au moins (Mark Fletcher (MFL)),2143,72898,1831978752,4809689959,21+,21+,2.35,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Mark Fletcher,Verges de réception du joueur au moins (Mark Fletcher (MFL)),2143,72898,1831978752,4809689960,31+,31+,3.1,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Mark Fletcher,Verges de réception du joueur au moins (Mark Fletcher (MFL)),2143,72898,1831978752,4809689961,41+,41+,4.25,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Mark Fletcher,Verges de réception du joueur au moins (Mark Fletcher (MFL)),2143,72898,1831978752,4809689962,51+,51+,6.0,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Mark Fletcher,Verges de réception du joueur au moins (Mark Fletcher (MFL)),2143,72898,1831978752,4809689963,61+,61+,9.0,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Mark Fletcher,Verges de réception du joueur au moins (Mark Fletcher (MFL)),2143,72898,1831978752,4809689964,71+,71+,15.0,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Mark Fletcher,Verges de réception du joueur au moins (Mark Fletcher (MFL)),2143,72898,1831978752,4809689965,81+,81+,26.0,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Mark Fletcher,Verges de réception du joueur au moins (Mark Fletcher (MFL)),2143,72898,1831978752,4809690673,91+,91+,41.0,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Darian Mensah,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1826923108,4789826480,Darian Mensah (MIA-FL) moins de 2.5,Darian Mensah (MIA-FL) moins de 2.5,1.5264,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Darian Mensah,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1826923108,4789826479,Darian Mensah (MIA-FL) Plus de 2.5,Darian Mensah (MIA-FL) Plus de 2.5,2.2,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Cooper Barkate,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1832288346,4805620136,Cooper Barkate (MIA-FL) Plus de 75.5,Cooper Barkate (MIA-FL) Plus de 75.5,1.8334,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Cooper Barkate,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1832288346,4805620137,Cooper Barkate (MIA-FL) moins de 75.5,Cooper Barkate (MIA-FL) moins de 75.5,1.7693,0,False
 17218358,Miami Hurricanes vs. Duke Blue Devils,Elija Lofton,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1831933671,4804588627,Elija Lofton (MIA-FL) Plus de 52.5,Elija Lofton (MIA-FL) Plus de 52.5,1.7693,0,False
 17218358,Miami Hurricanes vs. Duke Blue Devils,Elija Lofton,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1831933671,4804588628,Elija Lofton (MIA-FL) moins de 52.5,Elija Lofton (MIA-FL) moins de 52.5,1.8334,0,False
-17218358,Miami Hurricanes vs. Duke Blue Devils,Daylyn Upshaw,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1826923125,4789826513,Daylyn Upshaw (MIA-FL) Plus de 42.5,Daylyn Upshaw (MIA-FL) Plus de 42.5,1.7693,0,False
-17218358,Miami Hurricanes vs. Duke Blue Devils,Daylyn Upshaw,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1826923125,4789826514,Daylyn Upshaw (MIA-FL) moins de 42.5,Daylyn Upshaw (MIA-FL) moins de 42.5,1.8334,0,False
-17218358,Miami Hurricanes vs. Duke Blue Devils,Jeremiah Hasley,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1833672760,4810131985,Jeremiah Hasley (Duke) Plus de 31.5,Jeremiah Hasley (Duke) Plus de 31.5,1.7693,0,False
-17218358,Miami Hurricanes vs. Duke Blue Devils,Jeremiah Hasley,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1833672760,4810131986,Jeremiah Hasley (Duke) moins de 31.5,Jeremiah Hasley (Duke) moins de 31.5,1.8334,0,False
-17218358,Miami Hurricanes vs. Duke Blue Devils,Nate Sheppard,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1833665307,4810112841,Nate Sheppard (Duke) Plus de 26.5,Nate Sheppard (Duke) Plus de 26.5,1.8334,0,False
-17218358,Miami Hurricanes vs. Duke Blue Devils,Nate Sheppard,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1833665307,4810112842,Nate Sheppard (Duke) moins de 26.5,Nate Sheppard (Duke) moins de 26.5,1.7693,0,False
-17218358,Miami Hurricanes vs. Duke Blue Devils,Brody Keefe,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1826581776,4788852867,Brody Keefe (Duke) Plus de 25.5,Brody Keefe (Duke) Plus de 25.5,1.8334,0,False
-17218358,Miami Hurricanes vs. Duke Blue Devils,Brody Keefe,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1826581776,4788852868,Brody Keefe (Duke) moins de 25.5,Brody Keefe (Duke) moins de 25.5,1.7693,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Daylyn Upshaw,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1829416729,4796692027,Daylyn Upshaw (MIA-FL) Plus de 43.5,Daylyn Upshaw (MIA-FL) Plus de 43.5,1.8334,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Daylyn Upshaw,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1829416729,4796692028,Daylyn Upshaw (MIA-FL) moins de 43.5,Daylyn Upshaw (MIA-FL) moins de 43.5,1.7693,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Jeremiah Hasley,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1833672760,4810131985,Jeremiah Hasley (Duke) Plus de 31.5,Jeremiah Hasley (Duke) Plus de 31.5,1.8334,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Jeremiah Hasley,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1833672760,4810131986,Jeremiah Hasley (Duke) moins de 31.5,Jeremiah Hasley (Duke) moins de 31.5,1.7693,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Nate Sheppard,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1833665307,4810112841,Nate Sheppard (Duke) Plus de 26.5,Nate Sheppard (Duke) Plus de 26.5,1.7693,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Nate Sheppard,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1833665307,4810112842,Nate Sheppard (Duke) moins de 26.5,Nate Sheppard (Duke) moins de 26.5,1.8334,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Brody Keefe,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1827395221,4791072573,Brody Keefe (Duke) Plus de 24.5,Brody Keefe (Duke) Plus de 24.5,1.7693,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Brody Keefe,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1827395221,4791072574,Brody Keefe (Duke) moins de 24.5,Brody Keefe (Duke) moins de 24.5,1.8334,0,False
 17218358,Miami Hurricanes vs. Duke Blue Devils,Jayden Moore,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1826561648,4788803418,Jayden Moore (Duke) Plus de 21.5,Jayden Moore (Duke) Plus de 21.5,1.8334,0,False
 17218358,Miami Hurricanes vs. Duke Blue Devils,Jayden Moore,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1826561648,4788803419,Jayden Moore (Duke) moins de 21.5,Jayden Moore (Duke) moins de 21.5,1.7693,0,False
-17218358,Miami Hurricanes vs. Duke Blue Devils,Mark Fletcher,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1829418778,4796697515,Mark Fletcher (MIA-FL) Plus de 11.5,Mark Fletcher (MIA-FL) Plus de 11.5,1.7693,0,False
-17218358,Miami Hurricanes vs. Duke Blue Devils,Mark Fletcher,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1829418778,4796697516,Mark Fletcher (MIA-FL) moins de 11.5,Mark Fletcher (MIA-FL) moins de 11.5,1.8334,0,False
-17218358,Miami Hurricanes vs. Duke Blue Devils,Nate Sheppard,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1829493657,4796947004,Nate Sheppard (Duke) Plus de 91.5,Nate Sheppard (Duke) Plus de 91.5,1.8334,0,False
-17218358,Miami Hurricanes vs. Duke Blue Devils,Nate Sheppard,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1829493657,4796947005,Nate Sheppard (Duke) moins de 91.5,Nate Sheppard (Duke) moins de 91.5,1.7693,0,False
-17218358,Miami Hurricanes vs. Duke Blue Devils,Mark Fletcher,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1831968245,4804675781,Mark Fletcher (MIA-FL) Plus de 73.5,Mark Fletcher (MIA-FL) Plus de 73.5,1.8334,0,False
-17218358,Miami Hurricanes vs. Duke Blue Devils,Mark Fletcher,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1831968245,4804675782,Mark Fletcher (MIA-FL) moins de 73.5,Mark Fletcher (MIA-FL) moins de 73.5,1.7693,0,False
-17218358,Miami Hurricanes vs. Duke Blue Devils,Javian Mallory,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1830564746,4800055437,Javian Mallory (MIA-FL) Plus de 50.5,Javian Mallory (MIA-FL) Plus de 50.5,1.8334,0,False
-17218358,Miami Hurricanes vs. Duke Blue Devils,Javian Mallory,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1830564746,4800055438,Javian Mallory (MIA-FL) moins de 50.5,Javian Mallory (MIA-FL) moins de 50.5,1.7693,0,False
-17218358,Miami Hurricanes vs. Duke Blue Devils,Darian Mensah,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1826590600,4788873194,Darian Mensah (MIA-FL) Plus de 10.5,Darian Mensah (MIA-FL) Plus de 10.5,1.7693,0,False
-17218358,Miami Hurricanes vs. Duke Blue Devils,Darian Mensah,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1826590600,4788873195,Darian Mensah (MIA-FL) moins de 10.5,Darian Mensah (MIA-FL) moins de 10.5,1.8334,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Mark Fletcher,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1829418778,4796697515,Mark Fletcher (MIA-FL) Plus de 11.5,Mark Fletcher (MIA-FL) Plus de 11.5,1.8334,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Mark Fletcher,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1829418778,4796697516,Mark Fletcher (MIA-FL) moins de 11.5,Mark Fletcher (MIA-FL) moins de 11.5,1.7693,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Nate Sheppard,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1833672761,4810131987,Nate Sheppard (Duke) Plus de 90.5,Nate Sheppard (Duke) Plus de 90.5,1.8,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Nate Sheppard,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1833672761,4810131988,Nate Sheppard (Duke) moins de 90.5,Nate Sheppard (Duke) moins de 90.5,1.8,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Mark Fletcher,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1831968245,4804675781,Mark Fletcher (MIA-FL) Plus de 73.5,Mark Fletcher (MIA-FL) Plus de 73.5,1.7693,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Mark Fletcher,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1831968245,4804675782,Mark Fletcher (MIA-FL) moins de 73.5,Mark Fletcher (MIA-FL) moins de 73.5,1.8334,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Javian Mallory,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1835391061,4815889013,Javian Mallory (MIA-FL) Plus de 54.5,Javian Mallory (MIA-FL) Plus de 54.5,1.8334,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Javian Mallory,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1835391061,4815889014,Javian Mallory (MIA-FL) moins de 54.5,Javian Mallory (MIA-FL) moins de 54.5,1.7693,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Darian Mensah,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1835391059,4815889009,Darian Mensah (MIA-FL) Plus de 7.5,Darian Mensah (MIA-FL) Plus de 7.5,1.8334,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Darian Mensah,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1835391059,4815889010,Darian Mensah (MIA-FL) moins de 7.5,Darian Mensah (MIA-FL) moins de 7.5,1.7693,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Cooper Barkate,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1831935560,4804593204,Cooper Barkate (MIA-FL) Plus de 6.5,Cooper Barkate (MIA-FL) Plus de 6.5,1.8,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Cooper Barkate,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1831935560,4804593205,Cooper Barkate (MIA-FL) moins de 6.5,Cooper Barkate (MIA-FL) moins de 6.5,1.8334,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Elija Lofton,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1830543313,4800002581,Elija Lofton (MIA-FL) Plus de 4.5,Elija Lofton (MIA-FL) Plus de 4.5,1.9091,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Elija Lofton,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1830543313,4800002582,Elija Lofton (MIA-FL) moins de 4.5,Elija Lofton (MIA-FL) moins de 4.5,1.7408,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Daylyn Upshaw,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1826923126,4789826515,Daylyn Upshaw (MIA-FL) Plus de 3.5,Daylyn Upshaw (MIA-FL) Plus de 3.5,1.5715,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Daylyn Upshaw,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1826923126,4789826516,Daylyn Upshaw (MIA-FL) moins de 3.5,Daylyn Upshaw (MIA-FL) moins de 3.5,2.15,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Nate Sheppard,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1826561732,4788803586,Nate Sheppard (Duke) Plus de 3.5,Nate Sheppard (Duke) Plus de 3.5,1.8696,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Nate Sheppard,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1826561732,4788803587,Nate Sheppard (Duke) moins de 3.5,Nate Sheppard (Duke) moins de 3.5,1.7693,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Darian Mensah,"Passes complétées, Joueur (prolongations incluses)",760,71921,1829465621,4796867138,Darian Mensah (MIA-FL) Plus de 22.5,Darian Mensah (MIA-FL) Plus de 22.5,1.8,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Darian Mensah,"Passes complétées, Joueur (prolongations incluses)",760,71921,1829465621,4796867139,Darian Mensah (MIA-FL) moins de 22.5,Darian Mensah (MIA-FL) moins de 22.5,1.8334,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Mark Fletcher,Verges à la course et à la réception Plus/Moins (prolongation incluse),3317,73841,1829493656,4796947002,Mark Fletcher (MIA-FL) Plus de 89.5,Mark Fletcher (MIA-FL) Plus de 89.5,1.8334,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Mark Fletcher,Verges à la course et à la réception Plus/Moins (prolongation incluse),3317,73841,1829493656,4796947003,Mark Fletcher (MIA-FL) moins de 89.5,Mark Fletcher (MIA-FL) moins de 89.5,1.8,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Darian Mensah,Touchés par la passe du joueur au moins (Darian Mensah (MFL)),2138,72893,1831978751,4804705637,3+,3+,2.35,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Darian Mensah,Touchés par la passe du joueur au moins (Darian Mensah (MFL)),2138,72893,1831978751,4804705638,4+,4+,3.85,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Darian Mensah,Touchés par la passe du joueur au moins (Darian Mensah (MFL)),2138,72893,1831978751,4804705639,2+,2+,1.4348,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Walker Eget,Touchés par la passe du joueur au moins (Walker Eget (DUK)),2138,72893,1831978746,4804705592,3+,3+,4.25,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Walker Eget,Touchés par la passe du joueur au moins (Walker Eget (DUK)),2138,72893,1831978746,4804705593,4+,4+,9.0,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Walker Eget,Touchés par la passe du joueur au moins (Walker Eget (DUK)),2138,72893,1831978746,4804705594,1+,1+,1.4445,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Walker Eget,Touchés par la passe du joueur au moins (Walker Eget (DUK)),2138,72893,1831978746,4804705591,2+,2+,2.3,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Walker Eget,Verges par la passe du joueur au moins (Walker Eget (DUK)),2136,72891,1831978750,4807488512,287+,287+,4.25,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Walker Eget,Verges par la passe du joueur au moins (Walker Eget (DUK)),2136,72891,1831978750,4807488513,297+,297+,5.0,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Walker Eget,Verges par la passe du joueur au moins (Walker Eget (DUK)),2136,72891,1831978750,4807488514,307+,307+,5.75,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Walker Eget,Verges par la passe du joueur au moins (Walker Eget (DUK)),2136,72891,1831978750,4807488515,317+,317+,6.75,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Walker Eget,Verges par la passe du joueur au moins (Walker Eget (DUK)),2136,72891,1831978750,4807488516,327+,327+,8.0,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Walker Eget,Verges par la passe du joueur au moins (Walker Eget (DUK)),2136,72891,1831978750,4807488517,337+,337+,10.0,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Walker Eget,Verges par la passe du joueur au moins (Walker Eget (DUK)),2136,72891,1831978750,4807488518,347+,347+,12.0,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Walker Eget,Verges par la passe du joueur au moins (Walker Eget (DUK)),2136,72891,1831978750,4807488519,357+,357+,15.0,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Walker Eget,Verges par la passe du joueur au moins (Walker Eget (DUK)),2136,72891,1831978750,4807488520,207+,207+,1.6897,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Walker Eget,Verges par la passe du joueur au moins (Walker Eget (DUK)),2136,72891,1831978750,4807488521,197+,197+,1.5556,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Walker Eget,Verges par la passe du joueur au moins (Walker Eget (DUK)),2136,72891,1831978750,4807488505,217+,217+,1.8696,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Walker Eget,Verges par la passe du joueur au moins (Walker Eget (DUK)),2136,72891,1831978750,4807488506,227+,227+,2.05,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Walker Eget,Verges par la passe du joueur au moins (Walker Eget (DUK)),2136,72891,1831978750,4807488507,237+,237+,2.25,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Walker Eget,Verges par la passe du joueur au moins (Walker Eget (DUK)),2136,72891,1831978750,4807488508,247+,247+,2.5,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Walker Eget,Verges par la passe du joueur au moins (Walker Eget (DUK)),2136,72891,1831978750,4807488509,257+,257+,2.85,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Walker Eget,Verges par la passe du joueur au moins (Walker Eget (DUK)),2136,72891,1831978750,4807488510,267+,267+,3.2,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Walker Eget,Verges par la passe du joueur au moins (Walker Eget (DUK)),2136,72891,1831978750,4807488511,277+,277+,3.6,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Darian Mensah,Verges par la passe du joueur au moins (Darian Mensah (MFL)),2136,72891,1831978899,4804706094,265+,265+,1.8696,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Darian Mensah,Verges par la passe du joueur au moins (Darian Mensah (MFL)),2136,72891,1831978899,4804706095,275+,275+,2.05,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Darian Mensah,Verges par la passe du joueur au moins (Darian Mensah (MFL)),2136,72891,1831978899,4804706096,285+,285+,2.25,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Darian Mensah,Verges par la passe du joueur au moins (Darian Mensah (MFL)),2136,72891,1831978899,4804706097,295+,295+,2.5,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Darian Mensah,Verges par la passe du joueur au moins (Darian Mensah (MFL)),2136,72891,1831978899,4804706098,305+,305+,2.85,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Darian Mensah,Verges par la passe du joueur au moins (Darian Mensah (MFL)),2136,72891,1831978899,4804706099,315+,315+,3.2,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Darian Mensah,Verges par la passe du joueur au moins (Darian Mensah (MFL)),2136,72891,1831978899,4804706100,325+,325+,3.75,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Darian Mensah,Verges par la passe du joueur au moins (Darian Mensah (MFL)),2136,72891,1831978899,4804706101,335+,335+,4.25,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Darian Mensah,Verges par la passe du joueur au moins (Darian Mensah (MFL)),2136,72891,1831978899,4804706102,345+,345+,5.0,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Darian Mensah,Verges par la passe du joueur au moins (Darian Mensah (MFL)),2136,72891,1831978899,4804706103,355+,355+,5.75,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Darian Mensah,Verges par la passe du joueur au moins (Darian Mensah (MFL)),2136,72891,1831978899,4804706104,365+,365+,6.75,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Darian Mensah,Verges par la passe du joueur au moins (Darian Mensah (MFL)),2136,72891,1831978899,4804706105,375+,375+,8.0,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Darian Mensah,Verges par la passe du joueur au moins (Darian Mensah (MFL)),2136,72891,1831978899,4804706106,385+,385+,10.0,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Darian Mensah,Verges par la passe du joueur au moins (Darian Mensah (MFL)),2136,72891,1831978899,4804706107,395+,395+,12.0,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Darian Mensah,Verges par la passe du joueur au moins (Darian Mensah (MFL)),2136,72891,1831978899,4804706108,405+,405+,15.0,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Darian Mensah,Verges par la passe du joueur au moins (Darian Mensah (MFL)),2136,72891,1831978899,4804706109,255+,255+,1.6897,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Darian Mensah,Verges par la passe du joueur au moins (Darian Mensah (MFL)),2136,72891,1831978899,4804706110,245+,245+,1.5556,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Nate Sheppard,Verges au sol du joueur au moins (Nate Sheppard (DUK)),2140,72895,1831978893,4813354560,108+,108+,1.1334,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Nate Sheppard,Verges au sol du joueur au moins (Nate Sheppard (DUK)),2140,72895,1831978893,4813354561,118+,118+,1.1819,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Nate Sheppard,Verges au sol du joueur au moins (Nate Sheppard (DUK)),2140,72895,1831978893,4813354562,128+,128+,1.2667,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Nate Sheppard,Verges au sol du joueur au moins (Nate Sheppard (DUK)),2140,72895,1831978893,4813354563,138+,138+,1.3572,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Nate Sheppard,Verges au sol du joueur au moins (Nate Sheppard (DUK)),2140,72895,1831978893,4813354564,148+,148+,1.4762,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Nate Sheppard,Verges au sol du joueur au moins (Nate Sheppard (DUK)),2140,72895,1831978893,4813354565,158+,158+,1.6471,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Nate Sheppard,Verges au sol du joueur au moins (Nate Sheppard (DUK)),2140,72895,1831978893,4813354566,168+,168+,1.8334,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Nate Sheppard,Verges au sol du joueur au moins (Nate Sheppard (DUK)),2140,72895,1831978893,4813354559,98+,98+,1.0834,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Javian Mallory,Verges au sol du joueur au moins (Javian Mallory (MFL)),2140,72895,1831978898,4805040640,89+,89+,3.85,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Javian Mallory,Verges au sol du joueur au moins (Javian Mallory (MFL)),2140,72895,1831978898,4805040641,99+,99+,4.75,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Javian Mallory,Verges au sol du joueur au moins (Javian Mallory (MFL)),2140,72895,1831978898,4805040642,109+,109+,6.25,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Javian Mallory,Verges au sol du joueur au moins (Javian Mallory (MFL)),2140,72895,1831978898,4805040643,119+,119+,8.5,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Javian Mallory,Verges au sol du joueur au moins (Javian Mallory (MFL)),2140,72895,1831978898,4805040644,129+,129+,11.0,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Javian Mallory,Verges au sol du joueur au moins (Javian Mallory (MFL)),2140,72895,1831978898,4805040645,39+,39+,1.4546,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Javian Mallory,Verges au sol du joueur au moins (Javian Mallory (MFL)),2140,72895,1831978898,4805040646,29+,29+,1.2106,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Javian Mallory,Verges au sol du joueur au moins (Javian Mallory (MFL)),2140,72895,1831978898,4805040636,49+,49+,1.8696,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Javian Mallory,Verges au sol du joueur au moins (Javian Mallory (MFL)),2140,72895,1831978898,4805040637,59+,59+,2.2,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Javian Mallory,Verges au sol du joueur au moins (Javian Mallory (MFL)),2140,72895,1831978898,4805040638,69+,69+,2.55,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Javian Mallory,Verges au sol du joueur au moins (Javian Mallory (MFL)),2140,72895,1831978898,4805040639,79+,79+,3.1,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Mark Fletcher,Verges au sol du joueur au moins (Mark Fletcher (MFL)),2140,72895,1831978749,4805635366,70+,70+,1.8696,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Mark Fletcher,Verges au sol du joueur au moins (Mark Fletcher (MFL)),2140,72895,1831978749,4805635367,80+,80+,2.2,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Mark Fletcher,Verges au sol du joueur au moins (Mark Fletcher (MFL)),2140,72895,1831978749,4805635368,90+,90+,2.7,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Mark Fletcher,Verges au sol du joueur au moins (Mark Fletcher (MFL)),2140,72895,1831978749,4805635369,100+,100+,3.3,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Mark Fletcher,Verges au sol du joueur au moins (Mark Fletcher (MFL)),2140,72895,1831978749,4805635370,110+,110+,4.3,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Mark Fletcher,Verges au sol du joueur au moins (Mark Fletcher (MFL)),2140,72895,1831978749,4805635371,120+,120+,5.5,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Mark Fletcher,Verges au sol du joueur au moins (Mark Fletcher (MFL)),2140,72895,1831978749,4805635374,150+,150+,15.0,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Mark Fletcher,Verges au sol du joueur au moins (Mark Fletcher (MFL)),2140,72895,1831978749,4805635375,60+,60+,1.5264,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Mark Fletcher,Verges au sol du joueur au moins (Mark Fletcher (MFL)),2140,72895,1831978749,4805635376,50+,50+,1.2858,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Darian Mensah,Verges au sol du joueur au moins (Darian Mensah (MFL)),2140,72895,1831978755,4804705668,11+,11+,1.8696,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Darian Mensah,Verges au sol du joueur au moins (Darian Mensah (MFL)),2140,72895,1831978755,4804705669,21+,21+,2.95,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Darian Mensah,Verges au sol du joueur au moins (Darian Mensah (MFL)),2140,72895,1831978755,4804705670,31+,31+,5.5,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Darian Mensah,Verges au sol du joueur au moins (Darian Mensah (MFL)),2140,72895,1831978755,4804705671,41+,41+,12.0,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Darian Mensah,Verges au sol du joueur au moins (Darian Mensah (MFL)),2140,72895,1831978755,4804705672,51+,51+,31.0,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Daylyn Upshaw,Joueur total de réception (Daylyn Upshaw (MFL)) (incl. OT),2142,72897,1831978747,4804705600,9+,9+,26.0,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Daylyn Upshaw,Joueur total de réception (Daylyn Upshaw (MFL)) (incl. OT),2142,72897,1831978747,4804705601,3+,3+,1.1819,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Daylyn Upshaw,Joueur total de réception (Daylyn Upshaw (MFL)) (incl. OT),2142,72897,1831978747,4804705595,4+,4+,1.7408,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Daylyn Upshaw,Joueur total de réception (Daylyn Upshaw (MFL)) (incl. OT),2142,72897,1831978747,4804705596,5+,5+,2.5,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Daylyn Upshaw,Joueur total de réception (Daylyn Upshaw (MFL)) (incl. OT),2142,72897,1831978747,4804705597,6+,6+,3.85,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Daylyn Upshaw,Joueur total de réception (Daylyn Upshaw (MFL)) (incl. OT),2142,72897,1831978747,4804705598,7+,7+,6.75,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Daylyn Upshaw,Joueur total de réception (Daylyn Upshaw (MFL)) (incl. OT),2142,72897,1831978747,4804705599,8+,8+,13.0,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Cooper Barkate,Joueur total de réception (Cooper Barkate (MFL)) (incl. OT),2142,72897,1831978748,4804705602,7+,7+,1.9091,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Cooper Barkate,Joueur total de réception (Cooper Barkate (MFL)) (incl. OT),2142,72897,1831978748,4804705603,8+,8+,2.65,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Cooper Barkate,Joueur total de réception (Cooper Barkate (MFL)) (incl. OT),2142,72897,1831978748,4804705604,9+,9+,4.0,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Cooper Barkate,Joueur total de réception (Cooper Barkate (MFL)) (incl. OT),2142,72897,1831978748,4804705605,10+,10+,6.5,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Cooper Barkate,Joueur total de réception (Cooper Barkate (MFL)) (incl. OT),2142,72897,1831978748,4804705606,11+,11+,12.0,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Cooper Barkate,Joueur total de réception (Cooper Barkate (MFL)) (incl. OT),2142,72897,1831978748,4804705607,12+,12+,21.0,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Cooper Barkate,Joueur total de réception (Cooper Barkate (MFL)) (incl. OT),2142,72897,1831978748,4804705608,6+,6+,1.3077,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Elija Lofton,Joueur total de réception (Elija Lofton (MFL)) (incl. OT),2142,72897,1831978900,4804706112,6+,6+,3.0,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Elija Lofton,Joueur total de réception (Elija Lofton (MFL)) (incl. OT),2142,72897,1831978900,4804706113,7+,7+,5.0,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Elija Lofton,Joueur total de réception (Elija Lofton (MFL)) (incl. OT),2142,72897,1831978900,4804706114,8+,8+,9.0,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Elija Lofton,Joueur total de réception (Elija Lofton (MFL)) (incl. OT),2142,72897,1831978900,4804706115,9+,9+,18.0,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Elija Lofton,Joueur total de réception (Elija Lofton (MFL)) (incl. OT),2142,72897,1831978900,4804706116,10+,10+,36.0,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Elija Lofton,Joueur total de réception (Elija Lofton (MFL)) (incl. OT),2142,72897,1831978900,4804706117,4+,4+,1.3572,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Elija Lofton,Joueur total de réception (Elija Lofton (MFL)) (incl. OT),2142,72897,1831978900,4804706111,5+,5+,2.05,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Nate Sheppard,Joueur total de réception (Nate Sheppard (DUK)) (incl. OT),2142,72897,1832296066,4805638432,5+,5+,2.8,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Nate Sheppard,Joueur total de réception (Nate Sheppard (DUK)) (incl. OT),2142,72897,1832296066,4805638433,6+,6+,3.85,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Nate Sheppard,Joueur total de réception (Nate Sheppard (DUK)) (incl. OT),2142,72897,1832296066,4805638434,7+,7+,5.5,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Nate Sheppard,Joueur total de réception (Nate Sheppard (DUK)) (incl. OT),2142,72897,1832296066,4805638435,8+,8+,8.5,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Nate Sheppard,Joueur total de réception (Nate Sheppard (DUK)) (incl. OT),2142,72897,1832296066,4805638436,9+,9+,13.0,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Nate Sheppard,Joueur total de réception (Nate Sheppard (DUK)) (incl. OT),2142,72897,1832296066,4805638437,3+,3+,1.5883,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,Nate Sheppard,Joueur total de réception (Nate Sheppard (DUK)) (incl. OT),2142,72897,1832296066,4805638431,4+,4+,2.2,0,False

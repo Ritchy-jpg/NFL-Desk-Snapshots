@@ -1,16 +1,26 @@
 event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id,selection,line,price,odd_id,odd_status,is_main_bet
 17218358,Miami Hurricanes vs. Duke Blue Devils,2026-11-14T17:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,2,,4.5,4788964237,0,False
 17218358,Miami Hurricanes vs. Duke Blue Devils,2026-11-14T17:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1,,1.1539,4788964238,0,False
-17218358,Miami Hurricanes vs. Duke Blue Devils,2026-11-14T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+14.5),-14.5,1.7408,4790977538,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,2026-11-14T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+3.5),-3.5,3.4,4794666368,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,2026-11-14T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-3.5),-3.5,1.2858,4794666370,0,False
 17218358,Miami Hurricanes vs. Duke Blue Devils,2026-11-14T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-14.5),-14.5,1.9524,4790977539,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,2026-11-14T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-23.5),-23.5,3.2,4794666372,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,2026-11-14T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+14.5),-14.5,1.7408,4790977538,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,2026-11-14T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+23.5),-23.5,1.3125,4794666374,0,False
 17218358,Miami Hurricanes vs. Duke Blue Devils,2026-11-14T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+15.5),-15.5,1.6897,4788964233,0,False
 17218358,Miami Hurricanes vs. Duke Blue Devils,2026-11-14T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-15.5),-15.5,2.05,4788964234,0,False
 17218358,Miami Hurricanes vs. Duke Blue Devils,2026-11-14T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+18.5),-18.5,1.5264,4794666382,0,False
 17218358,Miami Hurricanes vs. Duke Blue Devils,2026-11-14T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-18.5),-18.5,2.4,4794666384,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,2026-11-14T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+4.5),-4.5,3.1,4794666386,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,2026-11-14T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-4.5),-4.5,1.3334,4794666388,0,False
 17218358,Miami Hurricanes vs. Duke Blue Devils,2026-11-14T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+8.5),-8.5,2.35,4794666390,0,False
 17218358,Miami Hurricanes vs. Duke Blue Devils,2026-11-14T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-8.5),-8.5,1.5455,4794666392,0,False
-17218358,Miami Hurricanes vs. Duke Blue Devils,2026-11-14T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+9.5),-9.5,2.3,4794666398,0,False
-17218358,Miami Hurricanes vs. Duke Blue Devils,2026-11-14T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-9.5),-9.5,1.5556,4794666400,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,2026-11-14T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+2.5),-2.5,4.0,4794666393,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,2026-11-14T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-2.5),-2.5,1.2223,4794666395,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,2026-11-14T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+9.5),-9.5,2.25,4794666398,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,2026-11-14T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-9.5),-9.5,1.5715,4794666400,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,2026-11-14T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-1.5),-1.5,1.1819,4794666402,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,2026-11-14T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+1.5),-1.5,4.4,4794666404,0,False
 17218358,Miami Hurricanes vs. Duke Blue Devils,2026-11-14T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+6.5),-6.5,2.75,4794666405,0,False
 17218358,Miami Hurricanes vs. Duke Blue Devils,2026-11-14T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-6.5),-6.5,1.4,4794666406,0,False
 17218358,Miami Hurricanes vs. Duke Blue Devils,2026-11-14T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-13.5),-13.5,1.8334,4792334887,0,True
@@ -18,25 +28,34 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17218358,Miami Hurricanes vs. Duke Blue Devils,2026-11-14T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+5.5),-5.5,3.0,4794666409,0,False
 17218358,Miami Hurricanes vs. Duke Blue Devils,2026-11-14T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-5.5),-5.5,1.3572,4794666410,0,False
 17218358,Miami Hurricanes vs. Duke Blue Devils,2026-11-14T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+7.5),-7.5,2.5,4794666407,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,2026-11-14T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-24.5),-24.5,3.5,4794666412,0,False
 17218358,Miami Hurricanes vs. Duke Blue Devils,2026-11-14T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+13.5),-13.5,1.8334,4792334888,0,True
-17218358,Miami Hurricanes vs. Duke Blue Devils,2026-11-14T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+16.5),-16.5,1.6667,4794666413,0,False
 17218358,Miami Hurricanes vs. Duke Blue Devils,2026-11-14T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-16.5),-16.5,2.1,4794666414,0,False
-17218358,Miami Hurricanes vs. Duke Blue Devils,2026-11-14T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+19.5),-19.5,1.4762,4794666419,0,False
-17218358,Miami Hurricanes vs. Duke Blue Devils,2026-11-14T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-19.5),-19.5,2.55,4794666420,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,2026-11-14T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+16.5),-16.5,1.6667,4794666413,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,2026-11-14T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+24.5),-24.5,1.2667,4794666411,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,2026-11-14T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+25.5),-25.5,1.2353,4794666417,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,2026-11-14T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-25.5),-25.5,3.75,4794666418,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,2026-11-14T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+19.5),-19.5,1.5,4794666419,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,2026-11-14T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-19.5),-19.5,2.5,4794666420,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,2026-11-14T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-22.5),-22.5,3.1,4794666423,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,2026-11-14T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+22.5),-22.5,1.3334,4794666424,0,False
 17218358,Miami Hurricanes vs. Duke Blue Devils,2026-11-14T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-20.5),-20.5,2.65,4794666425,0,False
 17218358,Miami Hurricanes vs. Duke Blue Devils,2026-11-14T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+20.5),-20.5,1.4348,4794666426,0,False
 17218358,Miami Hurricanes vs. Duke Blue Devils,2026-11-14T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-21.5),-21.5,2.9,4794666427,0,False
 17218358,Miami Hurricanes vs. Duke Blue Devils,2026-11-14T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+21.5),-21.5,1.3637,4794666428,0,False
-17218358,Miami Hurricanes vs. Duke Blue Devils,2026-11-14T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-11.5),-11.5,1.7143,4794666431,0,False
-17218358,Miami Hurricanes vs. Duke Blue Devils,2026-11-14T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+11.5),-11.5,2.0,4794666432,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,2026-11-14T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-11.5),-11.5,1.6897,4794666431,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,2026-11-14T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+11.5),-11.5,2.05,4794666432,0,False
 17218358,Miami Hurricanes vs. Duke Blue Devils,2026-11-14T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+12.5),-12.5,1.9524,4794666433,0,False
 17218358,Miami Hurricanes vs. Duke Blue Devils,2026-11-14T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-12.5),-12.5,1.7408,4794666434,0,False
 17218358,Miami Hurricanes vs. Duke Blue Devils,2026-11-14T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-10.5),-10.5,1.6667,4794666437,0,False
 17218358,Miami Hurricanes vs. Duke Blue Devils,2026-11-14T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+10.5),-10.5,2.1,4794666438,0,False
 17218358,Miami Hurricanes vs. Duke Blue Devils,2026-11-14T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+17.5),-17.5,1.5715,4794666439,0,False
 17218358,Miami Hurricanes vs. Duke Blue Devils,2026-11-14T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-17.5),-17.5,2.25,4794666440,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,2026-11-14T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 65.5,65.5,3.75,4794666496,0,False
 17218358,Miami Hurricanes vs. Duke Blue Devils,2026-11-14T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 58.5,58.5,2.35,4794666499,0,False
 17218358,Miami Hurricanes vs. Duke Blue Devils,2026-11-14T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 58.5,58.5,1.5455,4794666500,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,2026-11-14T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 66.5,66.5,1.2,4794666501,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,2026-11-14T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 66.5,66.5,4.2,4794666502,0,False
 17218358,Miami Hurricanes vs. Duke Blue Devils,2026-11-14T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 59.5,59.5,2.55,4794666505,0,False
 17218358,Miami Hurricanes vs. Duke Blue Devils,2026-11-14T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 59.5,59.5,1.4762,4794666506,0,False
 17218358,Miami Hurricanes vs. Duke Blue Devils,2026-11-14T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 56.5,56.5,2.1,4788964235,0,False
@@ -47,25 +66,38 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17218358,Miami Hurricanes vs. Duke Blue Devils,2026-11-14T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 54.5,54.5,1.8334,4789521839,0,True
 17218358,Miami Hurricanes vs. Duke Blue Devils,2026-11-14T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 55.5,55.5,1.7143,4789513661,0,False
 17218358,Miami Hurricanes vs. Duke Blue Devils,2026-11-14T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 55.5,55.5,2.0,4789513662,0,False
-17218358,Miami Hurricanes vs. Duke Blue Devils,2026-11-14T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 60.5,60.5,2.6,4794666455,0,False
-17218358,Miami Hurricanes vs. Duke Blue Devils,2026-11-14T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 60.5,60.5,1.4546,4794666456,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,2026-11-14T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 60.5,60.5,2.65,4794666455,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,2026-11-14T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 60.5,60.5,1.4348,4794666456,0,False
 17218358,Miami Hurricanes vs. Duke Blue Devils,2026-11-14T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 50.5,50.5,1.5455,4794666459,0,False
 17218358,Miami Hurricanes vs. Duke Blue Devils,2026-11-14T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 50.5,50.5,2.35,4794666460,0,False
 17218358,Miami Hurricanes vs. Duke Blue Devils,2026-11-14T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 48.5,48.5,1.4546,4794666461,0,False
 17218358,Miami Hurricanes vs. Duke Blue Devils,2026-11-14T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 48.5,48.5,2.6,4794666462,0,False
 17218358,Miami Hurricanes vs. Duke Blue Devils,2026-11-14T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 49.5,49.5,1.5,4794666463,0,False
 17218358,Miami Hurricanes vs. Duke Blue Devils,2026-11-14T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 49.5,49.5,2.5,4794666464,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,2026-11-14T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 42.5,42.5,1.2,4794666465,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,2026-11-14T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 42.5,42.5,4.2,4794666466,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,2026-11-14T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 43.5,43.5,1.2353,4794666467,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,2026-11-14T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 43.5,43.5,3.75,4794666468,0,False
 17218358,Miami Hurricanes vs. Duke Blue Devils,2026-11-14T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 46.5,46.5,1.3334,4794666471,0,False
 17218358,Miami Hurricanes vs. Duke Blue Devils,2026-11-14T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 46.5,46.5,3.1,4794666472,0,False
 17218358,Miami Hurricanes vs. Duke Blue Devils,2026-11-14T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 47.5,47.5,1.3847,4794666473,0,False
 17218358,Miami Hurricanes vs. Duke Blue Devils,2026-11-14T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 47.5,47.5,2.85,4794666474,0,False
-17218358,Miami Hurricanes vs. Duke Blue Devils,2026-11-14T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 61.5,61.5,1.4,4794666479,0,False
-17218358,Miami Hurricanes vs. Duke Blue Devils,2026-11-14T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 61.5,61.5,2.75,4794666480,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,2026-11-14T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 44.5,44.5,1.2667,4794666475,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,2026-11-14T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 44.5,44.5,3.5,4794666476,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,2026-11-14T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 45.5,45.5,1.3226,4794666477,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,2026-11-14T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 45.5,45.5,3.15,4794666478,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,2026-11-14T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 61.5,61.5,1.3847,4794666479,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,2026-11-14T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 61.5,61.5,2.85,4794666480,0,False
 17218358,Miami Hurricanes vs. Duke Blue Devils,2026-11-14T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 51.5,51.5,2.15,4794666481,0,False
 17218358,Miami Hurricanes vs. Duke Blue Devils,2026-11-14T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 51.5,51.5,1.6451,4794666482,0,False
 17218358,Miami Hurricanes vs. Duke Blue Devils,2026-11-14T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 62.5,62.5,3.1,4794666483,0,False
 17218358,Miami Hurricanes vs. Duke Blue Devils,2026-11-14T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 62.5,62.5,1.3334,4794666484,0,False
 17218358,Miami Hurricanes vs. Duke Blue Devils,2026-11-14T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 52.5,52.5,1.7143,4794666485,0,False
 17218358,Miami Hurricanes vs. Duke Blue Devils,2026-11-14T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 52.5,52.5,2.0,4794666486,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,2026-11-14T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 63.5,63.5,3.25,4794666489,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,2026-11-14T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 63.5,63.5,1.3031,4794666490,0,False
 17218358,Miami Hurricanes vs. Duke Blue Devils,2026-11-14T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 53.5,53.5,1.7408,4794666491,0,False
 17218358,Miami Hurricanes vs. Duke Blue Devils,2026-11-14T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 53.5,53.5,1.9524,4794666492,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,2026-11-14T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 64.5,64.5,1.2858,4794666493,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,2026-11-14T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 64.5,64.5,3.4,4794666494,0,False
+17218358,Miami Hurricanes vs. Duke Blue Devils,2026-11-14T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 65.5,65.5,1.2353,4794666495,0,False

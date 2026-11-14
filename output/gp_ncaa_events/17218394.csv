@@ -1,42 +1,80 @@
 event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id,selection,line,price,odd_id,odd_status,is_main_bet
 17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1,,1.25,4770402426,0,False
 17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,2,,3.4,4770402427,0,False
-17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (-14.5),-14.5,2.6,4794671288,0,False
-17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (+14.5),-14.5,1.4546,4794671289,0,False
+17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (+24.5),-24.5,1.1819,4805971073,0,False
+17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (-24.5),-24.5,4.4,4805971074,0,False
+17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (+19.5),-19.5,1.3226,4794671334,0,False
+17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (+22.5),-22.5,1.2223,4794671321,0,False
+17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (+23.5),-23.5,1.2223,4794671310,0,False
+17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (-4.5),4.5,5.25,4794671286,0,False
+17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (+4.5),4.5,1.1334,4794671287,0,False
+17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (-14.5),-14.5,2.4,4794671288,0,False
+17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (+14.5),-14.5,1.5264,4794671289,0,False
+17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (-18.5),-18.5,3.1,4794671294,0,False
+17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (+18.5),-18.5,1.3334,4794671295,0,False
 17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (-2.5),-2.5,1.3334,4794671296,0,False
 17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (+2.5),-2.5,3.1,4794671297,0,False
-17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (-13.5),-13.5,2.35,4794671308,0,False
-17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (-7.5),-7.5,1.7693,4791436749,0,False
-17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (+7.5),-7.5,1.9091,4791436748,0,False
-17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (+13.5),-13.5,1.5455,4794671309,0,False
-17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (-3.5),-3.5,1.4762,4794671312,0,False
-17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (+3.5),-3.5,2.55,4794671313,0,False
-17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (-1.5),-1.5,1.3031,4794671314,0,False
-17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (+1.5),-1.5,3.25,4794671315,0,False
-17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (-11.5),-11.5,2.2,4794671318,0,False
-17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (+11.5),-11.5,1.625,4794671319,0,False
-17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (-12.5),-12.5,2.25,4794671324,0,False
-17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (+12.5),-12.5,1.5715,4794671325,0,False
-17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (+4.5),-4.5,2.4,4794671326,0,False
-17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (-4.5),-4.5,1.5264,4794671327,0,False
-17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (+16.5),-16.5,1.3847,4794671328,0,False
-17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (-16.5),-16.5,2.85,4794671329,0,False
-17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (+8.5),-8.5,1.8334,4794671330,0,True
-17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (-8.5),-8.5,1.8334,4794671331,0,True
-17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (+15.5),-15.5,1.4348,4794671332,0,False
-17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (-15.5),-15.5,2.65,4794671333,0,False
-17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (+5.5),-5.5,2.3,4794671336,0,False
-17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (-5.5),-5.5,1.5556,4794671337,0,False
-17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (+6.5),-6.5,2.2,4794671338,0,False
-17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (-6.5),-6.5,1.625,4794671339,0,False
-17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (+9.5),-9.5,1.7693,4794671340,0,False
-17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (-9.5),-9.5,1.9091,4794671341,0,False
-17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (-17.5),-17.5,3.1,4794671342,0,False
-17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (+17.5),-17.5,1.3334,4794671343,0,False
-17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (-10.5),-10.5,2.1,4794671344,0,False
-17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (+10.5),-10.5,1.6667,4794671345,0,False
-17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 49.5,49.5,1.7693,4788247052,0,False
-17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 49.5,49.5,1.9091,4788247053,0,False
+17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (-5.5),5.5,6.0,4794671298,0,False
+17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (+5.5),5.5,1.1112,4794671299,0,False
+17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (-6.5),6.5,6.5,4794671300,0,False
+17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (+6.5),6.5,1.1,4794671301,0,False
+17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (-1.5),1.5,3.75,4794671302,0,False
+17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (+1.5),1.5,1.2353,4794671303,0,False
+17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (-3.5),3.5,5.0,4794671304,0,False
+17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (+3.5),3.5,1.1429,4794671305,0,False
+17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (-2.5),2.5,4.0,4794671306,0,False
+17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (+2.5),2.5,1.2223,4794671307,0,False
+17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (-13.5),-13.5,2.25,4794671308,0,False
+17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (-7.5),-7.5,1.7143,4791436749,0,False
+17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (+7.5),-7.5,2.0,4791436748,0,False
+17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (-23.5),-23.5,4.0,4794671311,0,False
+17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (-3.5),-3.5,1.4348,4794671312,0,False
+17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (+3.5),-3.5,2.65,4794671313,0,False
+17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (-1.5),-1.5,1.2858,4794671314,0,False
+17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (+1.5),-1.5,3.4,4794671315,0,False
+17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (-21.5),-21.5,3.75,4794671316,0,False
+17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (+13.5),-13.5,1.5715,4794671309,0,False
+17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (-11.5),-11.5,2.1,4794671318,0,False
+17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (+11.5),-11.5,1.6667,4794671319,0,False
+17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (-22.5),-22.5,4.0,4794671320,0,False
+17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (+21.5),-21.5,1.2353,4794671317,0,False
+17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (+20.5),-20.5,1.2858,4794671322,0,False
+17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (-20.5),-20.5,3.4,4794671323,0,False
+17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (-12.5),-12.5,2.15,4794671324,0,False
+17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (+12.5),-12.5,1.6451,4794671325,0,False
+17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (+4.5),-4.5,2.55,4794671326,0,False
+17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (-4.5),-4.5,1.4762,4794671327,0,False
+17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (+16.5),-16.5,1.4546,4794671328,0,False
+17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (-16.5),-16.5,2.6,4794671329,0,False
+17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (+8.5),-8.5,1.9091,4794671330,0,False
+17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (-8.5),-8.5,1.7693,4794671331,0,False
+17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (+15.5),-15.5,1.4762,4794671332,0,False
+17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (-15.5),-15.5,2.55,4794671333,0,False
+17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (-25.5),-25.5,5.0,4805988197,0,False
+17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (-19.5),-19.5,3.15,4794671335,0,False
+17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (+5.5),-5.5,2.4,4794671336,0,False
+17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (-5.5),-5.5,1.5264,4794671337,0,False
+17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (+6.5),-6.5,2.25,4794671338,0,False
+17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (-6.5),-6.5,1.5715,4794671339,0,False
+17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (+9.5),-9.5,1.8334,4794671340,0,True
+17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (-9.5),-9.5,1.8334,4794671341,0,True
+17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (-17.5),-17.5,2.85,4794671342,0,False
+17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (+17.5),-17.5,1.3847,4794671343,0,False
+17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (-10.5),-10.5,1.9524,4794671344,0,False
+17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (+10.5),-10.5,1.7408,4794671345,0,False
+17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (+25.5),-25.5,1.1429,4805988196,0,False
+17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 62.5,62.5,1.2,4794671369,0,False
+17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 62.5,62.5,4.2,4794671370,0,False
+17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 63.5,63.5,1.1819,4794671371,0,False
+17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 49.5,49.5,1.8,4788247052,0,False
+17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 63.5,63.5,4.4,4794671372,0,False
+17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 60.5,60.5,3.4,4794671374,0,False
+17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 49.5,49.5,1.8696,4788247053,0,False
+17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 61.5,61.5,3.7,4794671376,0,False
+17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 64.5,64.5,4.75,4794671377,0,False
+17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 60.5,60.5,1.2858,4794671373,0,False
+17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 61.5,61.5,1.25,4794671375,0,False
+17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 65.5,65.5,5.25,4794671380,0,False
 17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 55.5,55.5,1.4546,4794671381,0,False
 17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 55.5,55.5,2.6,4794671382,0,False
 17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 54.5,54.5,2.35,4794671383,0,False
@@ -45,27 +83,45 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 57.5,57.5,2.85,4794671386,0,False
 17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 56.5,56.5,1.4348,4794671387,0,False
 17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 56.5,56.5,2.65,4794671388,0,False
-17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 51.5,51.5,1.7143,4794671389,0,False
-17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 51.5,51.5,2.0,4794671390,0,False
-17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 53.5,53.5,1.625,4794671391,0,False
-17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 53.5,53.5,2.2,4794671392,0,False
+17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 51.5,51.5,1.6897,4794671389,0,False
+17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 51.5,51.5,2.05,4794671390,0,False
+17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 53.5,53.5,1.5715,4794671391,0,False
+17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 53.5,53.5,2.25,4794671392,0,False
 17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 52.5,52.5,1.6451,4794671393,0,False
 17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 52.5,52.5,2.15,4794671394,0,False
+17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 59.5,59.5,3.4,4794671395,0,False
+17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 59.5,59.5,1.2858,4794671396,0,False
 17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 58.5,58.5,1.3334,4794671397,0,False
 17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 58.5,58.5,3.1,4794671398,0,False
-17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 43.5,43.5,2.85,4794671399,0,False
-17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 43.5,43.5,1.3847,4794671400,0,False
-17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 42.5,42.5,1.3334,4794671401,0,False
-17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 42.5,42.5,3.1,4794671402,0,False
+17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 43.5,43.5,2.75,4794671399,0,False
+17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 43.5,43.5,1.4,4794671400,0,False
+17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 42.5,42.5,1.3637,4794671401,0,False
+17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 42.5,42.5,2.9,4794671402,0,False
+17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 38.5,38.5,1.2223,4794671403,0,False
+17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 38.5,38.5,4.0,4794671404,0,False
 17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 48.5,48.5,2.0,4794671405,0,False
 17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 48.5,48.5,1.7143,4794671406,0,False
+17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 39.5,39.5,1.25,4794671407,0,False
+17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 39.5,39.5,3.7,4794671408,0,False
+17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 36.5,36.5,1.1429,4794671409,0,False
+17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 36.5,36.5,5.0,4794671410,0,False
+17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 37.5,37.5,1.2,4794671411,0,False
+17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 37.5,37.5,4.2,4794671412,0,False
+17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 35.5,35.5,1.125,4794671413,0,False
+17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 35.5,35.5,5.5,4794671414,0,False
+17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 41.5,41.5,3.1,4794671415,0,False
+17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 41.5,41.5,1.3334,4794671416,0,False
+17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 40.5,40.5,1.2667,4794671417,0,False
+17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 40.5,40.5,3.5,4794671418,0,False
 17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 47.5,47.5,1.6451,4794671419,0,False
 17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 47.5,47.5,2.15,4794671420,0,False
-17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 46.5,46.5,1.5556,4794671421,0,False
-17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 46.5,46.5,2.3,4794671422,0,False
-17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 45.5,45.5,2.4,4794671423,0,False
-17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 45.5,45.5,1.5264,4794671596,0,False
-17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 44.5,44.5,1.4546,4794671597,0,False
-17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 44.5,44.5,2.6,4794671598,0,False
+17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 46.5,46.5,1.5715,4794671421,0,False
+17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 46.5,46.5,2.25,4794671422,0,False
+17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 45.5,45.5,2.35,4794671423,0,False
+17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 64.5,64.5,1.1539,4794671378,0,False
+17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 65.5,65.5,1.1334,4794671379,0,False
+17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 45.5,45.5,1.5455,4794671596,0,False
+17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 44.5,44.5,1.4762,4794671597,0,False
+17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 44.5,44.5,2.55,4794671598,0,False
 17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 50.5,50.5,1.8334,4770402420,0,True
 17218394,Indiana Hoosiers vs. USC Trojans,2026-11-14T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 50.5,50.5,1.8334,4770402421,0,True

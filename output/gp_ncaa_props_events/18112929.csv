@@ -1,6 +1,6 @@
 event_id,match,player,market,market_type_id,sport_market_id,child_market_id,odd_id,selection,line,price,odd_status,is_main_bet
-18112929,Mississippi St Bulldogs vs. Auburn Tigers,Byrum Brown,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1835228333,4815137868,Byrum Brown (Auburn) Plus de 211.5,Byrum Brown (Auburn) Plus de 211.5,1.8334,0,True
-18112929,Mississippi St Bulldogs vs. Auburn Tigers,Byrum Brown,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1835228333,4815137869,Byrum Brown (Auburn) moins de 211.5,Byrum Brown (Auburn) moins de 211.5,1.7693,0,True
+18112929,Mississippi St Bulldogs vs. Auburn Tigers,Byrum Brown,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1835527049,4816235811,Byrum Brown (Auburn) Plus de 210.5,Byrum Brown (Auburn) Plus de 210.5,1.8,0,True
+18112929,Mississippi St Bulldogs vs. Auburn Tigers,Byrum Brown,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1835527049,4816235812,Byrum Brown (Auburn) moins de 210.5,Byrum Brown (Auburn) moins de 210.5,1.8,0,True
 18112929,Mississippi St Bulldogs vs. Auburn Tigers,SanFrisco Magee,Verges de réception du joueur au moins (SanFrisco Magee (MSST)),2143,72898,1831979052,4804706635,50+,50+,2.15,0,False
 18112929,Mississippi St Bulldogs vs. Auburn Tigers,SanFrisco Magee,Verges de réception du joueur au moins (SanFrisco Magee (MSST)),2143,72898,1831979052,4815067531,30+,30+,1.4762,0,False
 18112929,Mississippi St Bulldogs vs. Auburn Tigers,SanFrisco Magee,Verges de réception du joueur au moins (SanFrisco Magee (MSST)),2143,72898,1831979052,4804706637,70+,70+,3.0,0,False
@@ -11,6 +11,16 @@ event_id,match,player,market,market_type_id,sport_market_id,child_market_id,odd_
 18112929,Mississippi St Bulldogs vs. Auburn Tigers,SanFrisco Magee,Verges de réception du joueur au moins (SanFrisco Magee (MSST)),2143,72898,1831979052,4804706641,110+,110+,7.5,0,False
 18112929,Mississippi St Bulldogs vs. Auburn Tigers,SanFrisco Magee,Verges de réception du joueur au moins (SanFrisco Magee (MSST)),2143,72898,1831979052,4804706642,120+,120+,10.0,0,False
 18112929,Mississippi St Bulldogs vs. Auburn Tigers,SanFrisco Magee,Verges de réception du joueur au moins (SanFrisco Magee (MSST)),2143,72898,1831979052,4804706644,40+,40+,1.8696,0,False
+18112929,Mississippi St Bulldogs vs. Auburn Tigers,Keshaun Singleton,Verges de réception du joueur au moins (Keshaun Singleton (AUB)),2143,72898,1831979047,4816743264,71+,71+,2.6,0,False
+18112929,Mississippi St Bulldogs vs. Auburn Tigers,Keshaun Singleton,Verges de réception du joueur au moins (Keshaun Singleton (AUB)),2143,72898,1831979047,4816743265,81+,81+,3.2,0,False
+18112929,Mississippi St Bulldogs vs. Auburn Tigers,Keshaun Singleton,Verges de réception du joueur au moins (Keshaun Singleton (AUB)),2143,72898,1831979047,4816743266,91+,91+,3.85,0,False
+18112929,Mississippi St Bulldogs vs. Auburn Tigers,Keshaun Singleton,Verges de réception du joueur au moins (Keshaun Singleton (AUB)),2143,72898,1831979047,4816743267,101+,101+,5.0,0,False
+18112929,Mississippi St Bulldogs vs. Auburn Tigers,Keshaun Singleton,Verges de réception du joueur au moins (Keshaun Singleton (AUB)),2143,72898,1831979047,4816743268,111+,111+,6.5,0,False
+18112929,Mississippi St Bulldogs vs. Auburn Tigers,Keshaun Singleton,Verges de réception du joueur au moins (Keshaun Singleton (AUB)),2143,72898,1831979047,4816743269,121+,121+,8.5,0,False
+18112929,Mississippi St Bulldogs vs. Auburn Tigers,Keshaun Singleton,Verges de réception du joueur au moins (Keshaun Singleton (AUB)),2143,72898,1831979047,4816743270,131+,131+,12.0,0,False
+18112929,Mississippi St Bulldogs vs. Auburn Tigers,Keshaun Singleton,Verges de réception du joueur au moins (Keshaun Singleton (AUB)),2143,72898,1831979047,4816743271,41+,41+,1.5,0,False
+18112929,Mississippi St Bulldogs vs. Auburn Tigers,Keshaun Singleton,Verges de réception du joueur au moins (Keshaun Singleton (AUB)),2143,72898,1831979047,4816743262,51+,51+,1.8696,0,False
+18112929,Mississippi St Bulldogs vs. Auburn Tigers,Keshaun Singleton,Verges de réception du joueur au moins (Keshaun Singleton (AUB)),2143,72898,1831979047,4816743263,61+,61+,2.2,0,False
 18112929,Mississippi St Bulldogs vs. Auburn Tigers,Chas Nimrod,Verges de réception du joueur au moins (Chas Nimrod (AUB)),2143,72898,1831979053,4812934240,133+,133+,13.0,0,False
 18112929,Mississippi St Bulldogs vs. Auburn Tigers,Chas Nimrod,Verges de réception du joueur au moins (Chas Nimrod (AUB)),2143,72898,1831979053,4812934241,43+,43+,1.5264,0,False
 18112929,Mississippi St Bulldogs vs. Auburn Tigers,Chas Nimrod,Verges de réception du joueur au moins (Chas Nimrod (AUB)),2143,72898,1831979053,4812934232,53+,53+,1.8696,0,False
@@ -21,16 +31,6 @@ event_id,match,player,market,market_type_id,sport_market_id,child_market_id,odd_
 18112929,Mississippi St Bulldogs vs. Auburn Tigers,Chas Nimrod,Verges de réception du joueur au moins (Chas Nimrod (AUB)),2143,72898,1831979053,4812934237,103+,103+,5.25,0,False
 18112929,Mississippi St Bulldogs vs. Auburn Tigers,Chas Nimrod,Verges de réception du joueur au moins (Chas Nimrod (AUB)),2143,72898,1831979053,4812934238,113+,113+,6.75,0,False
 18112929,Mississippi St Bulldogs vs. Auburn Tigers,Chas Nimrod,Verges de réception du joueur au moins (Chas Nimrod (AUB)),2143,72898,1831979053,4812934239,123+,123+,9.0,0,False
-18112929,Mississippi St Bulldogs vs. Auburn Tigers,Keshaun Singleton,Verges de réception du joueur au moins (Keshaun Singleton (AUB)),2143,72898,1831979047,4810701121,57+,57+,1.8696,0,False
-18112929,Mississippi St Bulldogs vs. Auburn Tigers,Keshaun Singleton,Verges de réception du joueur au moins (Keshaun Singleton (AUB)),2143,72898,1831979047,4810701122,67+,67+,2.2,0,False
-18112929,Mississippi St Bulldogs vs. Auburn Tigers,Keshaun Singleton,Verges de réception du joueur au moins (Keshaun Singleton (AUB)),2143,72898,1831979047,4810701123,77+,77+,2.65,0,False
-18112929,Mississippi St Bulldogs vs. Auburn Tigers,Keshaun Singleton,Verges de réception du joueur au moins (Keshaun Singleton (AUB)),2143,72898,1831979047,4810701124,87+,87+,3.2,0,False
-18112929,Mississippi St Bulldogs vs. Auburn Tigers,Keshaun Singleton,Verges de réception du joueur au moins (Keshaun Singleton (AUB)),2143,72898,1831979047,4810701125,97+,97+,4.0,0,False
-18112929,Mississippi St Bulldogs vs. Auburn Tigers,Keshaun Singleton,Verges de réception du joueur au moins (Keshaun Singleton (AUB)),2143,72898,1831979047,4810701126,107+,107+,5.25,0,False
-18112929,Mississippi St Bulldogs vs. Auburn Tigers,Keshaun Singleton,Verges de réception du joueur au moins (Keshaun Singleton (AUB)),2143,72898,1831979047,4810701127,117+,117+,6.75,0,False
-18112929,Mississippi St Bulldogs vs. Auburn Tigers,Keshaun Singleton,Verges de réception du joueur au moins (Keshaun Singleton (AUB)),2143,72898,1831979047,4810701128,127+,127+,9.0,0,False
-18112929,Mississippi St Bulldogs vs. Auburn Tigers,Keshaun Singleton,Verges de réception du joueur au moins (Keshaun Singleton (AUB)),2143,72898,1831979047,4810701129,137+,137+,13.0,0,False
-18112929,Mississippi St Bulldogs vs. Auburn Tigers,Keshaun Singleton,Verges de réception du joueur au moins (Keshaun Singleton (AUB)),2143,72898,1831979047,4810701130,47+,47+,1.5264,0,False
 18112929,Mississippi St Bulldogs vs. Auburn Tigers,Anthony Evans III,Verges de réception du joueur au moins (Anthony Evans III (MSST)),2143,72898,1831979050,4812933741,64+,64+,1.8696,0,False
 18112929,Mississippi St Bulldogs vs. Auburn Tigers,Anthony Evans III,Verges de réception du joueur au moins (Anthony Evans III (MSST)),2143,72898,1831979050,4812933742,74+,74+,2.15,0,False
 18112929,Mississippi St Bulldogs vs. Auburn Tigers,Anthony Evans III,Verges de réception du joueur au moins (Anthony Evans III (MSST)),2143,72898,1831979050,4812933743,84+,84+,2.5,0,False
@@ -51,6 +51,15 @@ event_id,match,player,market,market_type_id,sport_market_id,child_market_id,odd_
 18112929,Mississippi St Bulldogs vs. Auburn Tigers,Marquis Johnson,Verges de réception du joueur au moins (Marquis Johnson (MSST)),2143,72898,1831979045,4804706574,113+,113+,9.0,0,False
 18112929,Mississippi St Bulldogs vs. Auburn Tigers,Marquis Johnson,Verges de réception du joueur au moins (Marquis Johnson (MSST)),2143,72898,1831979045,4804706575,123+,123+,13.0,0,False
 18112929,Mississippi St Bulldogs vs. Auburn Tigers,Marquis Johnson,Verges de réception du joueur au moins (Marquis Johnson (MSST)),2143,72898,1831979045,4804706576,33+,33+,1.5264,0,False
+18112929,Mississippi St Bulldogs vs. Auburn Tigers,Fluff Bothwell,Verges de réception du joueur au moins (Fluff Bothwell (MSST)),2143,72898,1831979046,4811028097,95+,95+,51.0,0,False
+18112929,Mississippi St Bulldogs vs. Auburn Tigers,Fluff Bothwell,Verges de réception du joueur au moins (Fluff Bothwell (MSST)),2143,72898,1831979046,4804706577,15+,15+,1.8696,0,False
+18112929,Mississippi St Bulldogs vs. Auburn Tigers,Fluff Bothwell,Verges de réception du joueur au moins (Fluff Bothwell (MSST)),2143,72898,1831979046,4804706578,25+,25+,2.35,0,False
+18112929,Mississippi St Bulldogs vs. Auburn Tigers,Fluff Bothwell,Verges de réception du joueur au moins (Fluff Bothwell (MSST)),2143,72898,1831979046,4804706579,35+,35+,3.1,0,False
+18112929,Mississippi St Bulldogs vs. Auburn Tigers,Fluff Bothwell,Verges de réception du joueur au moins (Fluff Bothwell (MSST)),2143,72898,1831979046,4804706580,45+,45+,4.3,0,False
+18112929,Mississippi St Bulldogs vs. Auburn Tigers,Fluff Bothwell,Verges de réception du joueur au moins (Fluff Bothwell (MSST)),2143,72898,1831979046,4804706581,55+,55+,6.25,0,False
+18112929,Mississippi St Bulldogs vs. Auburn Tigers,Fluff Bothwell,Verges de réception du joueur au moins (Fluff Bothwell (MSST)),2143,72898,1831979046,4804706582,65+,65+,10.0,0,False
+18112929,Mississippi St Bulldogs vs. Auburn Tigers,Fluff Bothwell,Verges de réception du joueur au moins (Fluff Bothwell (MSST)),2143,72898,1831979046,4804706583,75+,75+,16.0,0,False
+18112929,Mississippi St Bulldogs vs. Auburn Tigers,Fluff Bothwell,Verges de réception du joueur au moins (Fluff Bothwell (MSST)),2143,72898,1831979046,4804706584,85+,85+,26.0,0,False
 18112929,Mississippi St Bulldogs vs. Auburn Tigers,Jeremiah Cobb,Verges de réception du joueur au moins (Jeremiah Cobb (AUB)),2143,72898,1831979049,4805053231,10+,10+,1.9091,0,False
 18112929,Mississippi St Bulldogs vs. Auburn Tigers,Jeremiah Cobb,Verges de réception du joueur au moins (Jeremiah Cobb (AUB)),2143,72898,1831979049,4805053232,20+,20+,2.4,0,False
 18112929,Mississippi St Bulldogs vs. Auburn Tigers,Jeremiah Cobb,Verges de réception du joueur au moins (Jeremiah Cobb (AUB)),2143,72898,1831979049,4805053233,30+,30+,3.1,0,False
@@ -60,49 +69,40 @@ event_id,match,player,market,market_type_id,sport_market_id,child_market_id,odd_
 18112929,Mississippi St Bulldogs vs. Auburn Tigers,Jeremiah Cobb,Verges de réception du joueur au moins (Jeremiah Cobb (AUB)),2143,72898,1831979049,4805053237,70+,70+,15.0,0,False
 18112929,Mississippi St Bulldogs vs. Auburn Tigers,Jeremiah Cobb,Verges de réception du joueur au moins (Jeremiah Cobb (AUB)),2143,72898,1831979049,4805053238,80+,80+,26.0,0,False
 18112929,Mississippi St Bulldogs vs. Auburn Tigers,Jeremiah Cobb,Verges de réception du joueur au moins (Jeremiah Cobb (AUB)),2143,72898,1831979049,4805053462,90+,90+,41.0,0,False
-18112929,Mississippi St Bulldogs vs. Auburn Tigers,Fluff Bothwell,Verges de réception du joueur au moins (Fluff Bothwell (MSST)),2143,72898,1831979046,4811028097,95+,95+,41.0,0,False
-18112929,Mississippi St Bulldogs vs. Auburn Tigers,Fluff Bothwell,Verges de réception du joueur au moins (Fluff Bothwell (MSST)),2143,72898,1831979046,4804706577,15+,15+,1.9091,0,False
-18112929,Mississippi St Bulldogs vs. Auburn Tigers,Fluff Bothwell,Verges de réception du joueur au moins (Fluff Bothwell (MSST)),2143,72898,1831979046,4804706578,25+,25+,2.4,0,False
-18112929,Mississippi St Bulldogs vs. Auburn Tigers,Fluff Bothwell,Verges de réception du joueur au moins (Fluff Bothwell (MSST)),2143,72898,1831979046,4804706579,35+,35+,3.1,0,False
-18112929,Mississippi St Bulldogs vs. Auburn Tigers,Fluff Bothwell,Verges de réception du joueur au moins (Fluff Bothwell (MSST)),2143,72898,1831979046,4804706580,45+,45+,4.3,0,False
-18112929,Mississippi St Bulldogs vs. Auburn Tigers,Fluff Bothwell,Verges de réception du joueur au moins (Fluff Bothwell (MSST)),2143,72898,1831979046,4804706581,55+,55+,6.25,0,False
-18112929,Mississippi St Bulldogs vs. Auburn Tigers,Fluff Bothwell,Verges de réception du joueur au moins (Fluff Bothwell (MSST)),2143,72898,1831979046,4804706582,65+,65+,9.0,0,False
-18112929,Mississippi St Bulldogs vs. Auburn Tigers,Fluff Bothwell,Verges de réception du joueur au moins (Fluff Bothwell (MSST)),2143,72898,1831979046,4804706583,75+,75+,15.0,0,False
-18112929,Mississippi St Bulldogs vs. Auburn Tigers,Fluff Bothwell,Verges de réception du joueur au moins (Fluff Bothwell (MSST)),2143,72898,1831979046,4804706584,85+,85+,26.0,0,False
 18112929,Mississippi St Bulldogs vs. Auburn Tigers,Byrum Brown,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1826139008,4787790937,Byrum Brown (Auburn) Plus de 1.5,Byrum Brown (Auburn) Plus de 1.5,2.25,0,False
 18112929,Mississippi St Bulldogs vs. Auburn Tigers,Byrum Brown,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1826139008,4787790938,Byrum Brown (Auburn) moins de 1.5,Byrum Brown (Auburn) moins de 1.5,1.5,0,False
-18112929,Mississippi St Bulldogs vs. Auburn Tigers,Anthony Evans III,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1831398747,4802839388,Anthony Evans III (MSST) Plus de 66.5,Anthony Evans III (MSST) Plus de 66.5,1.7693,0,False
-18112929,Mississippi St Bulldogs vs. Auburn Tigers,Anthony Evans III,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1831398747,4802839389,Anthony Evans III (MSST) moins de 66.5,Anthony Evans III (MSST) moins de 66.5,1.8334,0,False
-18112929,Mississippi St Bulldogs vs. Auburn Tigers,Keshaun Singleton,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1831393724,4802827128,Keshaun Singleton (Auburn) Plus de 51.5,Keshaun Singleton (Auburn) Plus de 51.5,1.7693,0,False
-18112929,Mississippi St Bulldogs vs. Auburn Tigers,Keshaun Singleton,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1831393724,4802827129,Keshaun Singleton (Auburn) moins de 51.5,Keshaun Singleton (Auburn) moins de 51.5,1.8334,0,False
-18112929,Mississippi St Bulldogs vs. Auburn Tigers,Chas Nimrod,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1831396421,4802833699,Chas Nimrod (Auburn) Plus de 48.5,Chas Nimrod (Auburn) Plus de 48.5,1.8334,0,False
-18112929,Mississippi St Bulldogs vs. Auburn Tigers,Chas Nimrod,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1831396421,4802833700,Chas Nimrod (Auburn) moins de 48.5,Chas Nimrod (Auburn) moins de 48.5,1.7693,0,False
+18112929,Mississippi St Bulldogs vs. Auburn Tigers,Anthony Evans III,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1831381429,4802787861,Anthony Evans III (MSST) Plus de 67.5,Anthony Evans III (MSST) Plus de 67.5,1.8,0,False
+18112929,Mississippi St Bulldogs vs. Auburn Tigers,Anthony Evans III,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1831381429,4802787862,Anthony Evans III (MSST) moins de 67.5,Anthony Evans III (MSST) moins de 67.5,1.8,0,False
+18112929,Mississippi St Bulldogs vs. Auburn Tigers,Keshaun Singleton,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1831394576,4802829156,Keshaun Singleton (Auburn) Plus de 52.5,Keshaun Singleton (Auburn) Plus de 52.5,1.8334,0,False
+18112929,Mississippi St Bulldogs vs. Auburn Tigers,Keshaun Singleton,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1831394576,4802829157,Keshaun Singleton (Auburn) moins de 52.5,Keshaun Singleton (Auburn) moins de 52.5,1.7693,0,False
+18112929,Mississippi St Bulldogs vs. Auburn Tigers,Chas Nimrod,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1831381426,4802787856,Chas Nimrod (Auburn) moins de 47.5,Chas Nimrod (Auburn) moins de 47.5,1.8,0,False
+18112929,Mississippi St Bulldogs vs. Auburn Tigers,Chas Nimrod,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1831381426,4802787855,Chas Nimrod (Auburn) Plus de 47.5,Chas Nimrod (Auburn) Plus de 47.5,1.8,0,False
+18112929,Mississippi St Bulldogs vs. Auburn Tigers,Marquis Johnson,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1831380400,4802785265,Marquis Johnson (MSST) Plus de 43.5,Marquis Johnson (MSST) Plus de 43.5,1.8334,0,False
+18112929,Mississippi St Bulldogs vs. Auburn Tigers,Marquis Johnson,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1831380400,4802785266,Marquis Johnson (MSST) moins de 43.5,Marquis Johnson (MSST) moins de 43.5,1.7693,0,False
 18112929,Mississippi St Bulldogs vs. Auburn Tigers,SanFrisco Magee,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1831401338,4802847771,SanFrisco Magee (MSST) Plus de 42.5,SanFrisco Magee (MSST) Plus de 42.5,1.7693,0,False
 18112929,Mississippi St Bulldogs vs. Auburn Tigers,SanFrisco Magee,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1831401338,4802847772,SanFrisco Magee (MSST) moins de 42.5,SanFrisco Magee (MSST) moins de 42.5,1.8334,0,False
-18112929,Mississippi St Bulldogs vs. Auburn Tigers,Marquis Johnson,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1831391421,4802820984,Marquis Johnson (MSST) Plus de 42.5,Marquis Johnson (MSST) Plus de 42.5,1.8334,0,False
-18112929,Mississippi St Bulldogs vs. Auburn Tigers,Marquis Johnson,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1831391421,4802820985,Marquis Johnson (MSST) moins de 42.5,Marquis Johnson (MSST) moins de 42.5,1.7693,0,False
-18112929,Mississippi St Bulldogs vs. Auburn Tigers,Fluff Bothwell,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1826139189,4787791299,Fluff Bothwell (MSST) Plus de 14.5,Fluff Bothwell (MSST) Plus de 14.5,1.7693,0,False
-18112929,Mississippi St Bulldogs vs. Auburn Tigers,Fluff Bothwell,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1826139189,4787791300,Fluff Bothwell (MSST) moins de 14.5,Fluff Bothwell (MSST) moins de 14.5,1.8334,0,False
-18112929,Mississippi St Bulldogs vs. Auburn Tigers,Jeremiah Cobb,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1831391417,4802820976,Jeremiah Cobb (Auburn) Plus de 9.5,Jeremiah Cobb (Auburn) Plus de 9.5,1.8,0,False
-18112929,Mississippi St Bulldogs vs. Auburn Tigers,Jeremiah Cobb,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1831391417,4802820977,Jeremiah Cobb (Auburn) moins de 9.5,Jeremiah Cobb (Auburn) moins de 9.5,1.8,0,False
-18112929,Mississippi St Bulldogs vs. Auburn Tigers,Fluff Bothwell,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1831404335,4802855364,Fluff Bothwell (MSST) Plus de 74.5,Fluff Bothwell (MSST) Plus de 74.5,1.7693,0,False
-18112929,Mississippi St Bulldogs vs. Auburn Tigers,Fluff Bothwell,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1831404335,4802855365,Fluff Bothwell (MSST) moins de 74.5,Fluff Bothwell (MSST) moins de 74.5,1.8334,0,False
-18112929,Mississippi St Bulldogs vs. Auburn Tigers,Byrum Brown,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1831402639,4802851098,Byrum Brown (Auburn) Plus de 66.5,Byrum Brown (Auburn) Plus de 66.5,1.7693,0,False
-18112929,Mississippi St Bulldogs vs. Auburn Tigers,Byrum Brown,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1831402639,4802851099,Byrum Brown (Auburn) moins de 66.5,Byrum Brown (Auburn) moins de 66.5,1.8334,0,False
-18112929,Mississippi St Bulldogs vs. Auburn Tigers,Jeremiah Cobb,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1831391540,4802821253,Jeremiah Cobb (Auburn) Plus de 48.5,Jeremiah Cobb (Auburn) Plus de 48.5,1.7693,0,False
-18112929,Mississippi St Bulldogs vs. Auburn Tigers,Jeremiah Cobb,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1831391540,4802821254,Jeremiah Cobb (Auburn) moins de 48.5,Jeremiah Cobb (Auburn) moins de 48.5,1.8334,0,False
-18112929,Mississippi St Bulldogs vs. Auburn Tigers,Fluff Bothwell,Verges à la course et à la réception Plus/Moins (prolongation incluse),3317,73841,1831404336,4802855366,Fluff Bothwell (MSST) Plus de 94.5,Fluff Bothwell (MSST) Plus de 94.5,1.8,0,False
-18112929,Mississippi St Bulldogs vs. Auburn Tigers,Fluff Bothwell,Verges à la course et à la réception Plus/Moins (prolongation incluse),3317,73841,1831404336,4802855367,Fluff Bothwell (MSST) moins de 94.5,Fluff Bothwell (MSST) moins de 94.5,1.8334,0,False
-18112929,Mississippi St Bulldogs vs. Auburn Tigers,Jeremiah Cobb,Verges à la course et à la réception Plus/Moins (prolongation incluse),3317,73841,1831391541,4802821256,Jeremiah Cobb (Auburn) moins de 63.5,Jeremiah Cobb (Auburn) moins de 63.5,1.8,0,False
-18112929,Mississippi St Bulldogs vs. Auburn Tigers,Jeremiah Cobb,Verges à la course et à la réception Plus/Moins (prolongation incluse),3317,73841,1831391541,4802821255,Jeremiah Cobb (Auburn) Plus de 63.5,Jeremiah Cobb (Auburn) Plus de 63.5,1.8334,0,False
-18112929,Mississippi St Bulldogs vs. Auburn Tigers,AJ Swann,Touchés par la passe du joueur au moins (AJ Swann (MSST)),2138,72893,1833907376,4810924300,2+,2+,1.9524,0,False
-18112929,Mississippi St Bulldogs vs. Auburn Tigers,AJ Swann,Touchés par la passe du joueur au moins (AJ Swann (MSST)),2138,72893,1833907376,4810924301,3+,3+,3.5,0,False
-18112929,Mississippi St Bulldogs vs. Auburn Tigers,AJ Swann,Touchés par la passe du joueur au moins (AJ Swann (MSST)),2138,72893,1833907376,4810924302,4+,4+,7.75,0,False
-18112929,Mississippi St Bulldogs vs. Auburn Tigers,AJ Swann,Touchés par la passe du joueur au moins (AJ Swann (MSST)),2138,72893,1833907376,4810924303,1+,1+,1.2353,0,False
-18112929,Mississippi St Bulldogs vs. Auburn Tigers,Byrum Brown,Touchés par la passe du joueur au moins (Byrum Brown (AUB)),2138,72893,1831979043,4804706552,2+,2+,2.3,0,False
-18112929,Mississippi St Bulldogs vs. Auburn Tigers,Byrum Brown,Touchés par la passe du joueur au moins (Byrum Brown (AUB)),2138,72893,1831979043,4804706553,3+,3+,4.0,0,False
+18112929,Mississippi St Bulldogs vs. Auburn Tigers,Fluff Bothwell,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1833539097,4809785960,Fluff Bothwell (MSST) moins de 13.5,Fluff Bothwell (MSST) moins de 13.5,1.8334,0,False
+18112929,Mississippi St Bulldogs vs. Auburn Tigers,Fluff Bothwell,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1833539097,4809785959,Fluff Bothwell (MSST) Plus de 13.5,Fluff Bothwell (MSST) Plus de 13.5,1.7693,0,False
+18112929,Mississippi St Bulldogs vs. Auburn Tigers,Jeremiah Cobb,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1831391417,4802820976,Jeremiah Cobb (Auburn) Plus de 9.5,Jeremiah Cobb (Auburn) Plus de 9.5,1.7693,0,False
+18112929,Mississippi St Bulldogs vs. Auburn Tigers,Jeremiah Cobb,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1831391417,4802820977,Jeremiah Cobb (Auburn) moins de 9.5,Jeremiah Cobb (Auburn) moins de 9.5,1.8334,0,False
+18112929,Mississippi St Bulldogs vs. Auburn Tigers,Fluff Bothwell,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1831403290,4802852770,Fluff Bothwell (MSST) Plus de 73.5,Fluff Bothwell (MSST) Plus de 73.5,1.7693,0,False
+18112929,Mississippi St Bulldogs vs. Auburn Tigers,Fluff Bothwell,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1831403290,4802852771,Fluff Bothwell (MSST) moins de 73.5,Fluff Bothwell (MSST) moins de 73.5,1.8334,0,False
+18112929,Mississippi St Bulldogs vs. Auburn Tigers,Byrum Brown,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1836046647,4817565210,Byrum Brown (Auburn) Plus de 68.5,Byrum Brown (Auburn) Plus de 68.5,1.8334,0,False
+18112929,Mississippi St Bulldogs vs. Auburn Tigers,Byrum Brown,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1836046647,4817565211,Byrum Brown (Auburn) moins de 68.5,Byrum Brown (Auburn) moins de 68.5,1.7693,0,False
+18112929,Mississippi St Bulldogs vs. Auburn Tigers,Jeremiah Cobb,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1831397145,4802835486,Jeremiah Cobb (Auburn) Plus de 47.5,Jeremiah Cobb (Auburn) Plus de 47.5,1.7693,0,False
+18112929,Mississippi St Bulldogs vs. Auburn Tigers,Jeremiah Cobb,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1831397145,4802835487,Jeremiah Cobb (Auburn) moins de 47.5,Jeremiah Cobb (Auburn) moins de 47.5,1.8334,0,False
+18112929,Mississippi St Bulldogs vs. Auburn Tigers,Fluff Bothwell,Verges à la course et à la réception Plus/Moins (prolongation incluse),3317,73841,1831403293,4802852776,Fluff Bothwell (MSST) Plus de 92.5,Fluff Bothwell (MSST) Plus de 92.5,1.8334,0,False
+18112929,Mississippi St Bulldogs vs. Auburn Tigers,Fluff Bothwell,Verges à la course et à la réception Plus/Moins (prolongation incluse),3317,73841,1831403293,4802852777,Fluff Bothwell (MSST) moins de 92.5,Fluff Bothwell (MSST) moins de 92.5,1.8,0,False
+18112929,Mississippi St Bulldogs vs. Auburn Tigers,Jeremiah Cobb,Verges à la course et à la réception Plus/Moins (prolongation incluse),3317,73841,1831393723,4802827126,Jeremiah Cobb (Auburn) Plus de 62.5,Jeremiah Cobb (Auburn) Plus de 62.5,1.8,0,False
+18112929,Mississippi St Bulldogs vs. Auburn Tigers,Jeremiah Cobb,Verges à la course et à la réception Plus/Moins (prolongation incluse),3317,73841,1831393723,4802827127,Jeremiah Cobb (Auburn) moins de 62.5,Jeremiah Cobb (Auburn) moins de 62.5,1.8334,0,False
+18112929,Mississippi St Bulldogs vs. Auburn Tigers,AJ Swann,Touchés par la passe du joueur au moins (AJ Swann (MSST)),2138,72893,1833907376,4810924300,2+,2+,1.8696,0,False
+18112929,Mississippi St Bulldogs vs. Auburn Tigers,AJ Swann,Touchés par la passe du joueur au moins (AJ Swann (MSST)),2138,72893,1833907376,4810924301,3+,3+,3.3,0,False
+18112929,Mississippi St Bulldogs vs. Auburn Tigers,AJ Swann,Touchés par la passe du joueur au moins (AJ Swann (MSST)),2138,72893,1833907376,4810924302,4+,4+,7.25,0,False
+18112929,Mississippi St Bulldogs vs. Auburn Tigers,AJ Swann,Touchés par la passe du joueur au moins (AJ Swann (MSST)),2138,72893,1833907376,4810924303,1+,1+,1.2,0,False
+18112929,Mississippi St Bulldogs vs. Auburn Tigers,Byrum Brown,Touchés par la passe du joueur au moins (Byrum Brown (AUB)),2138,72893,1831979043,4804706552,2+,2+,2.15,0,False
+18112929,Mississippi St Bulldogs vs. Auburn Tigers,Byrum Brown,Touchés par la passe du joueur au moins (Byrum Brown (AUB)),2138,72893,1831979043,4804706553,3+,3+,3.85,0,False
 18112929,Mississippi St Bulldogs vs. Auburn Tigers,Byrum Brown,Touchés par la passe du joueur au moins (Byrum Brown (AUB)),2138,72893,1831979043,4804706554,4+,4+,9.0,0,False
-18112929,Mississippi St Bulldogs vs. Auburn Tigers,Byrum Brown,Touchés par la passe du joueur au moins (Byrum Brown (AUB)),2138,72893,1831979043,4804706555,1+,1+,1.3334,0,False
+18112929,Mississippi St Bulldogs vs. Auburn Tigers,Byrum Brown,Touchés par la passe du joueur au moins (Byrum Brown (AUB)),2138,72893,1831979043,4804706555,1+,1+,1.3077,0,False
 18112929,Mississippi St Bulldogs vs. Auburn Tigers,Byrum Brown,Verges par la passe du joueur au moins (Byrum Brown (AUB)),2136,72891,1831979042,4804706535,203+,203+,1.6897,0,False
 18112929,Mississippi St Bulldogs vs. Auburn Tigers,Byrum Brown,Verges par la passe du joueur au moins (Byrum Brown (AUB)),2136,72891,1831979042,4804706536,213+,213+,1.8696,0,False
 18112929,Mississippi St Bulldogs vs. Auburn Tigers,Byrum Brown,Verges par la passe du joueur au moins (Byrum Brown (AUB)),2136,72891,1831979042,4804706537,223+,223+,2.05,0,False
@@ -148,24 +148,24 @@ event_id,match,player,market,market_type_id,sport_market_id,child_market_id,odd_
 18112929,Mississippi St Bulldogs vs. Auburn Tigers,Jeremiah Cobb,Verges au sol du joueur au moins (Jeremiah Cobb (AUB)),2140,72895,1831979051,4810139534,127+,127+,11.0,0,False
 18112929,Mississippi St Bulldogs vs. Auburn Tigers,Jeremiah Cobb,Verges au sol du joueur au moins (Jeremiah Cobb (AUB)),2140,72895,1831979051,4810139535,37+,37+,1.4445,0,False
 18112929,Mississippi St Bulldogs vs. Auburn Tigers,Jeremiah Cobb,Verges au sol du joueur au moins (Jeremiah Cobb (AUB)),2140,72895,1831979051,4810139536,27+,27+,1.2,0,False
-18112929,Mississippi St Bulldogs vs. Auburn Tigers,Byrum Brown,Verges au sol du joueur au moins (Byrum Brown (AUB)),2140,72895,1831979044,4805597568,57+,57+,1.5,0,False
-18112929,Mississippi St Bulldogs vs. Auburn Tigers,Byrum Brown,Verges au sol du joueur au moins (Byrum Brown (AUB)),2140,72895,1831979044,4805597569,47+,47+,1.25,0,False
-18112929,Mississippi St Bulldogs vs. Auburn Tigers,Byrum Brown,Verges au sol du joueur au moins (Byrum Brown (AUB)),2140,72895,1831979044,4805597559,67+,67+,1.8696,0,False
-18112929,Mississippi St Bulldogs vs. Auburn Tigers,Byrum Brown,Verges au sol du joueur au moins (Byrum Brown (AUB)),2140,72895,1831979044,4805597560,77+,77+,2.2,0,False
-18112929,Mississippi St Bulldogs vs. Auburn Tigers,Byrum Brown,Verges au sol du joueur au moins (Byrum Brown (AUB)),2140,72895,1831979044,4805597561,87+,87+,2.65,0,False
-18112929,Mississippi St Bulldogs vs. Auburn Tigers,Byrum Brown,Verges au sol du joueur au moins (Byrum Brown (AUB)),2140,72895,1831979044,4805597562,97+,97+,3.2,0,False
-18112929,Mississippi St Bulldogs vs. Auburn Tigers,Byrum Brown,Verges au sol du joueur au moins (Byrum Brown (AUB)),2140,72895,1831979044,4805597563,107+,107+,4.0,0,False
-18112929,Mississippi St Bulldogs vs. Auburn Tigers,Byrum Brown,Verges au sol du joueur au moins (Byrum Brown (AUB)),2140,72895,1831979044,4805597564,117+,117+,5.25,0,False
-18112929,Mississippi St Bulldogs vs. Auburn Tigers,Byrum Brown,Verges au sol du joueur au moins (Byrum Brown (AUB)),2140,72895,1831979044,4805597565,127+,127+,6.75,0,False
-18112929,Mississippi St Bulldogs vs. Auburn Tigers,Byrum Brown,Verges au sol du joueur au moins (Byrum Brown (AUB)),2140,72895,1831979044,4805597566,137+,137+,9.0,0,False
-18112929,Mississippi St Bulldogs vs. Auburn Tigers,Fluff Bothwell,Verges au sol du joueur au moins (Fluff Bothwell (MSST)),2140,72895,1831979048,4812957600,129+,129+,6.0,0,False
-18112929,Mississippi St Bulldogs vs. Auburn Tigers,Fluff Bothwell,Verges au sol du joueur au moins (Fluff Bothwell (MSST)),2140,72895,1831979048,4812957601,139+,139+,8.5,0,False
-18112929,Mississippi St Bulldogs vs. Auburn Tigers,Fluff Bothwell,Verges au sol du joueur au moins (Fluff Bothwell (MSST)),2140,72895,1831979048,4812957602,149+,149+,12.0,0,False
-18112929,Mississippi St Bulldogs vs. Auburn Tigers,Fluff Bothwell,Verges au sol du joueur au moins (Fluff Bothwell (MSST)),2140,72895,1831979048,4812957603,159+,159+,18.0,0,False
-18112929,Mississippi St Bulldogs vs. Auburn Tigers,Fluff Bothwell,Verges au sol du joueur au moins (Fluff Bothwell (MSST)),2140,72895,1831979048,4812957604,69+,69+,1.5264,0,False
-18112929,Mississippi St Bulldogs vs. Auburn Tigers,Fluff Bothwell,Verges au sol du joueur au moins (Fluff Bothwell (MSST)),2140,72895,1831979048,4812957605,59+,59+,1.3077,0,False
-18112929,Mississippi St Bulldogs vs. Auburn Tigers,Fluff Bothwell,Verges au sol du joueur au moins (Fluff Bothwell (MSST)),2140,72895,1831979048,4812957595,79+,79+,1.8696,0,False
-18112929,Mississippi St Bulldogs vs. Auburn Tigers,Fluff Bothwell,Verges au sol du joueur au moins (Fluff Bothwell (MSST)),2140,72895,1831979048,4812957596,89+,89+,2.25,0,False
-18112929,Mississippi St Bulldogs vs. Auburn Tigers,Fluff Bothwell,Verges au sol du joueur au moins (Fluff Bothwell (MSST)),2140,72895,1831979048,4812957597,99+,99+,2.75,0,False
-18112929,Mississippi St Bulldogs vs. Auburn Tigers,Fluff Bothwell,Verges au sol du joueur au moins (Fluff Bothwell (MSST)),2140,72895,1831979048,4812957598,109+,109+,3.4,0,False
-18112929,Mississippi St Bulldogs vs. Auburn Tigers,Fluff Bothwell,Verges au sol du joueur au moins (Fluff Bothwell (MSST)),2140,72895,1831979048,4812957599,119+,119+,4.5,0,False
+18112929,Mississippi St Bulldogs vs. Auburn Tigers,Byrum Brown,Verges au sol du joueur au moins (Byrum Brown (AUB)),2140,72895,1831979044,4816284224,76+,76+,2.2,0,False
+18112929,Mississippi St Bulldogs vs. Auburn Tigers,Byrum Brown,Verges au sol du joueur au moins (Byrum Brown (AUB)),2140,72895,1831979044,4816284225,86+,86+,2.6,0,False
+18112929,Mississippi St Bulldogs vs. Auburn Tigers,Byrum Brown,Verges au sol du joueur au moins (Byrum Brown (AUB)),2140,72895,1831979044,4816284226,96+,96+,3.2,0,False
+18112929,Mississippi St Bulldogs vs. Auburn Tigers,Byrum Brown,Verges au sol du joueur au moins (Byrum Brown (AUB)),2140,72895,1831979044,4816284227,106+,106+,4.0,0,False
+18112929,Mississippi St Bulldogs vs. Auburn Tigers,Byrum Brown,Verges au sol du joueur au moins (Byrum Brown (AUB)),2140,72895,1831979044,4816284228,116+,116+,5.0,0,False
+18112929,Mississippi St Bulldogs vs. Auburn Tigers,Byrum Brown,Verges au sol du joueur au moins (Byrum Brown (AUB)),2140,72895,1831979044,4816284229,126+,126+,6.75,0,False
+18112929,Mississippi St Bulldogs vs. Auburn Tigers,Byrum Brown,Verges au sol du joueur au moins (Byrum Brown (AUB)),2140,72895,1831979044,4816284230,136+,136+,9.0,0,False
+18112929,Mississippi St Bulldogs vs. Auburn Tigers,Byrum Brown,Verges au sol du joueur au moins (Byrum Brown (AUB)),2140,72895,1831979044,4816284231,146+,146+,13.0,0,False
+18112929,Mississippi St Bulldogs vs. Auburn Tigers,Byrum Brown,Verges au sol du joueur au moins (Byrum Brown (AUB)),2140,72895,1831979044,4816284232,56+,56+,1.4762,0,False
+18112929,Mississippi St Bulldogs vs. Auburn Tigers,Byrum Brown,Verges au sol du joueur au moins (Byrum Brown (AUB)),2140,72895,1831979044,4816284233,46+,46+,1.25,0,False
+18112929,Mississippi St Bulldogs vs. Auburn Tigers,Byrum Brown,Verges au sol du joueur au moins (Byrum Brown (AUB)),2140,72895,1831979044,4816284223,66+,66+,1.8696,0,False
+18112929,Mississippi St Bulldogs vs. Auburn Tigers,Fluff Bothwell,Verges au sol du joueur au moins (Fluff Bothwell (MSST)),2140,72895,1831979048,4819465188,167+,167+,18.0,0,False
+18112929,Mississippi St Bulldogs vs. Auburn Tigers,Fluff Bothwell,Verges au sol du joueur au moins (Fluff Bothwell (MSST)),2140,72895,1831979048,4806606420,77+,77+,1.5264,0,False
+18112929,Mississippi St Bulldogs vs. Auburn Tigers,Fluff Bothwell,Verges au sol du joueur au moins (Fluff Bothwell (MSST)),2140,72895,1831979048,4806606421,87+,87+,1.8696,0,False
+18112929,Mississippi St Bulldogs vs. Auburn Tigers,Fluff Bothwell,Verges au sol du joueur au moins (Fluff Bothwell (MSST)),2140,72895,1831979048,4806606422,97+,97+,2.25,0,False
+18112929,Mississippi St Bulldogs vs. Auburn Tigers,Fluff Bothwell,Verges au sol du joueur au moins (Fluff Bothwell (MSST)),2140,72895,1831979048,4806606423,107+,107+,2.75,0,False
+18112929,Mississippi St Bulldogs vs. Auburn Tigers,Fluff Bothwell,Verges au sol du joueur au moins (Fluff Bothwell (MSST)),2140,72895,1831979048,4806606424,117+,117+,3.4,0,False
+18112929,Mississippi St Bulldogs vs. Auburn Tigers,Fluff Bothwell,Verges au sol du joueur au moins (Fluff Bothwell (MSST)),2140,72895,1831979048,4806606425,127+,127+,4.5,0,False
+18112929,Mississippi St Bulldogs vs. Auburn Tigers,Fluff Bothwell,Verges au sol du joueur au moins (Fluff Bothwell (MSST)),2140,72895,1831979048,4806606426,137+,137+,6.0,0,False
+18112929,Mississippi St Bulldogs vs. Auburn Tigers,Fluff Bothwell,Verges au sol du joueur au moins (Fluff Bothwell (MSST)),2140,72895,1831979048,4806606428,157+,157+,12.0,0,False
+18112929,Mississippi St Bulldogs vs. Auburn Tigers,Fluff Bothwell,Verges au sol du joueur au moins (Fluff Bothwell (MSST)),2140,72895,1831979048,4806606429,67+,67+,1.3077,0,False

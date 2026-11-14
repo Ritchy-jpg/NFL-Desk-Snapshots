@@ -1,8 +1,23 @@
 event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id,selection,line,price,odd_id,odd_status,is_main_bet
 18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1,,1.9091,4791104611,0,False
 18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,2,,1.7693,4791104612,0,False
-18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (+10.5),10.5,1.2223,4794671753,0,False
-18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (-10.5),10.5,4.0,4794671754,0,False
+18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-13.5),-13.5,5.5,4794671744,0,False
+18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (+12.5),12.5,1.1819,4794671745,0,False
+18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (-12.5),12.5,4.4,4794671746,0,False
+18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (+15.5),15.5,1.1112,4794671747,0,False
+18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (-15.5),15.5,6.0,4794671748,0,False
+18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (-16.5),16.5,6.0,4794671749,0,False
+18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (+16.5),16.5,1.1112,4794671750,0,False
+18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (+11.5),11.5,1.2,4794671751,0,False
+18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (-11.5),11.5,4.2,4794671752,0,False
+18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (+10.5),10.5,1.2353,4794671753,0,False
+18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (-10.5),10.5,3.75,4794671754,0,False
+18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (-13.5),13.5,4.75,4794671755,0,False
+18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (+13.5),13.5,1.1539,4794671756,0,False
+18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+10.5),-10.5,1.1819,4794671757,0,False
+18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-10.5),-10.5,4.4,4794671758,0,False
+18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+12.5),-12.5,1.1429,4794671759,0,False
+18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-12.5),-12.5,5.0,4794671760,0,False
 18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (-5.5),5.5,2.55,4794671761,0,False
 18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (+5.5),5.5,1.4762,4794671762,0,False
 18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (-9.5),9.5,3.5,4794671763,0,False
@@ -15,13 +30,20 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (+8.5),8.5,1.2858,4794671770,0,False
 18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (-7.5),7.5,3.1,4794671771,0,False
 18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (+7.5),7.5,1.3334,4794671772,0,False
+18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+7.5),-7.5,1.2667,4794671723,0,False
+18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+14.5),-14.5,1.1,4795437107,0,False
+18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-14.5),-14.5,6.5,4795437108,0,False
+18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+11.5),-11.5,1.1539,4794671741,0,False
+18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+8.5),-8.5,1.2353,4794671718,0,False
+18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-9.5),-9.5,4.0,4794671715,0,False
+18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+9.5),-9.5,1.2223,4794671716,0,False
 18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (+2.5),2.5,1.7408,4791104613,0,False
-18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (-2.5),2.5,1.9524,4791104614,0,False
+18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-8.5),-8.5,3.75,4794671717,0,False
 18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-5.5),-5.5,2.85,4794671719,0,False
-18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+5.5),-5.5,1.3847,4794671720,0,False
+18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (-2.5),2.5,1.9524,4791104614,0,False
 18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-4.5),-4.5,2.65,4794671721,0,False
 18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+4.5),-4.5,1.4348,4794671722,0,False
-18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+7.5),-7.5,1.2667,4794671723,0,False
+18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+5.5),-5.5,1.3847,4794671720,0,False
 18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-7.5),-7.5,3.5,4794671724,0,False
 18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+6.5),-6.5,1.3334,4794671725,0,False
 18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-6.5),-6.5,3.1,4794671726,0,False
@@ -31,41 +53,75 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+3.5),-3.5,1.5,4794671730,0,False
 18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-2.5),-2.5,2.15,4794671731,0,False
 18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+2.5),-2.5,1.6451,4794671732,0,False
+18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (+17.5),17.5,1.0834,4794671733,0,False
+18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (-17.5),17.5,7.0,4794671734,0,False
 18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (-3.5),3.5,2.25,4794671735,0,False
 18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (+3.5),3.5,1.5715,4794671736,0,False
+18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (-14.5),14.5,5.5,4794671737,0,False
+18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (+14.5),14.5,1.125,4794671738,0,False
 18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (+1.5),1.5,1.8334,4793194620,0,True
 18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (-1.5),1.5,1.8334,4793194621,0,True
-18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 61.5,61.5,2.85,4794671655,0,False
-18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 61.5,61.5,1.3847,4794671656,0,False
-18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 51.5,51.5,2.1,4794671657,0,False
-18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 51.5,51.5,1.6667,4794671658,0,False
-18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 49.5,49.5,2.4,4794671663,0,False
-18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 49.5,49.5,1.5264,4794671664,0,False
-18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 48.5,48.5,2.55,4794671665,0,False
-18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 48.5,48.5,1.4762,4794671666,0,False
-18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 45.5,45.5,1.3334,4794671667,0,False
-18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 45.5,45.5,3.1,4794671668,0,False
-18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 47.5,47.5,2.65,4794671671,0,False
-18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 47.5,47.5,1.4348,4794671672,0,False
-18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 46.5,46.5,2.85,4794671673,0,False
-18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 46.5,46.5,1.3847,4794671674,0,False
-18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 58.5,58.5,1.5455,4794671685,0,False
-18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 58.5,58.5,2.35,4794671686,0,False
-18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 59.5,59.5,1.4762,4794671687,0,False
-18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 59.5,59.5,2.55,4794671688,0,False
-18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 55.5,55.5,1.6897,4794671691,0,False
-18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 55.5,55.5,2.05,4794671692,0,False
-18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 57.5,57.5,1.5715,4794671695,0,False
-18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 57.5,57.5,2.25,4794671696,0,False
-18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 56.5,56.5,1.6667,4794671697,0,False
-18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 56.5,56.5,2.1,4794671698,0,False
-18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 54.5,54.5,1.8,4794671701,0,False
-18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 54.5,54.5,1.8696,4794671702,0,False
-18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 60.5,60.5,2.65,4794671705,0,False
-18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 60.5,60.5,1.4348,4794671706,0,False
-18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 50.5,50.5,2.25,4794671707,0,False
-18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 50.5,50.5,1.5715,4794671708,0,False
-18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 52.5,52.5,1.9524,4794671709,0,False
-18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 52.5,52.5,1.7408,4794671710,0,False
-18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 53.5,53.5,1.8696,4791104615,0,True
-18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 53.5,53.5,1.8,4791104616,0,True
+18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-11.5),-11.5,4.75,4794671742,0,False
+18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+13.5),-13.5,1.125,4794671743,0,False
+18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 69.5,69.5,5.0,4799797157,0,False
+18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 41.5,41.5,1.2,4794671654,0,False
+18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 61.5,61.5,2.7,4794671655,0,False
+18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 41.5,41.5,4.2,4794671653,0,False
+18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 51.5,51.5,2.2,4794671657,0,False
+18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 51.5,51.5,1.625,4794671658,0,False
+18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 39.5,39.5,5.25,4794671659,0,False
+18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 39.5,39.5,1.1334,4794671660,0,False
+18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 61.5,61.5,1.4167,4794671656,0,False
+18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 69.5,69.5,1.1429,4799797158,0,False
+18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 49.5,49.5,2.5,4794671663,0,False
+18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 49.5,49.5,1.5,4794671664,0,False
+18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 48.5,48.5,2.6,4794671665,0,False
+18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 48.5,48.5,1.4546,4794671666,0,False
+18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 45.5,45.5,1.3226,4794671667,0,False
+18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 45.5,45.5,3.15,4794671668,0,False
+18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 44.5,44.5,1.2858,4794671669,0,False
+18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 44.5,44.5,3.4,4794671670,0,False
+18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 47.5,47.5,2.75,4794671671,0,False
+18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 47.5,47.5,1.4,4794671672,0,False
+18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 46.5,46.5,3.1,4794671673,0,False
+18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 46.5,46.5,1.3334,4794671674,0,False
+18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 40.5,40.5,5.0,4794671675,0,False
+18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 40.5,40.5,1.1429,4794671676,0,False
+18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 43.5,43.5,3.75,4794671677,0,False
+18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 43.5,43.5,1.2353,4794671678,0,False
+18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 42.5,42.5,4.2,4794671679,0,False
+18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 42.5,42.5,1.2,4794671680,0,False
+18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 63.5,63.5,3.1,4794671681,0,False
+18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 63.5,63.5,1.3334,4794671682,0,False
+18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 68.5,68.5,4.4,4794671683,0,False
+18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 68.5,68.5,1.1819,4794671684,0,False
+18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 58.5,58.5,1.5556,4794671685,0,False
+18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 58.5,58.5,2.3,4794671686,0,False
+18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 59.5,59.5,1.5,4794671687,0,False
+18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 59.5,59.5,2.5,4794671688,0,False
+18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 65.5,65.5,3.7,4794671689,0,False
+18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 65.5,65.5,1.25,4794671690,0,False
+18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 55.5,55.5,1.7408,4794671691,0,False
+18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 55.5,55.5,1.9524,4794671692,0,False
+18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 67.5,67.5,4.0,4794671693,0,False
+18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 67.5,67.5,1.2223,4794671694,0,False
+18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 57.5,57.5,1.6451,4794671695,0,False
+18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 57.5,57.5,2.15,4794671696,0,False
+18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 56.5,56.5,1.6897,4794671697,0,False
+18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 56.5,56.5,2.05,4794671698,0,False
+18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 66.5,66.5,3.75,4794671699,0,False
+18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 66.5,66.5,1.2353,4794671700,0,False
+18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 54.5,54.5,1.8696,4794671701,0,True
+18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 54.5,54.5,1.8,4794671702,0,True
+18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 64.5,64.5,3.25,4794671703,0,False
+18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 64.5,64.5,1.3031,4794671704,0,False
+18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 60.5,60.5,2.55,4794671705,0,False
+18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 60.5,60.5,1.4762,4794671706,0,False
+18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 50.5,50.5,2.35,4794671707,0,False
+18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 50.5,50.5,1.5455,4794671708,0,False
+18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 52.5,52.5,2.05,4794671709,0,False
+18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 52.5,52.5,1.6897,4794671710,0,False
+18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 62.5,62.5,2.9,4794671711,0,False
+18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 62.5,62.5,1.3637,4794671712,0,False
+18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 53.5,53.5,2.0,4791104615,0,False
+18307565,Marshall Herd vs. Appalachian State Mountaineers,2026-11-14T23:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 53.5,53.5,1.7143,4791104616,0,False

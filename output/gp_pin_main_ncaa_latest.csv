@@ -1,645 +1,101 @@
 match_gp,match_pin,market,selection,gp_line,gp_price,pin_main_line,line_gap,pin_exact_line,pin_exact_price,pin_exact_fair_prob,pin_exact_fair_price,exact_ev_pct,pricing_status,pin_line,pin_price,pin_fair_prob,pin_fair_price,price_ev_pct,line_edge,gp_odd_id,pin_snapshot_at,abs_line_edge
-San Diego State Aztecs vs. Utah State Aggies,San Diego State Aztecs vs Utah State Aggies,total,Plus de 44.5,44.5,2.05,44.0,-0.5,44.5,1.98,0.48167539267015713,2.076086956521739,-1.2565445026177957,EXACT_ALT,44.5,1.98,0.48167539267015713,2.076086956521739,-1.2565445026177957,-0.5,4791307582,2026-11-14T20:52:04+00:00,0.5
-San Diego State Aztecs vs. Utah State Aggies,San Diego State Aztecs vs Utah State Aggies,total,Plus de 45.5,45.5,2.2,44.0,-1.5,45.5,2.15,0.4435817805383023,2.2543757292882147,-2.4120082815734967,EXACT_ALT,45.5,2.15,0.4435817805383023,2.2543757292882147,-2.4120082815734967,-1.5,4794603660,2026-11-14T20:52:04+00:00,1.5
-Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,total,Plus de 47.5,47.5,1.7408,49.5,2.0,47.5,1.719,0.5545478103135527,1.8032710280373832,-3.4643171806167494,EXACT_ALT,47.5,1.719,0.5545478103135527,1.8032710280373832,-3.4643171806167494,2.0,4794672266,2026-11-14T20:52:04+00:00,2.0
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,total,Plus de 38.5,38.5,1.6897,40.5,2.0,38.5,1.689,0.5645784996133024,1.7712328767123287,-4.603170920340293,EXACT_ALT,38.5,1.689,0.5645784996133024,1.7712328767123287,-4.603170920340293,2.0,4794674294,2026-11-14T20:52:04+00:00,2.0
-Wash State Cougars vs. COLORADO,Washington State Cougars vs Colorado State Rams,total,Plus de 66.5,66.5,2.1,65.0,-1.5,66.5,2.1,0.4539781591263651,2.2027491408934705,-4.6645865834633256,EXACT_ALT,66.5,2.1,0.4539781591263651,2.2027491408934705,-4.6645865834633256,-1.5,4792225445,2026-11-14T20:52:04+00:00,1.5
-San Diego State Aztecs vs. Utah State Aggies,San Diego State Aztecs vs Utah State Aggies,total,Plus de 42.5,42.5,1.7693,44.0,1.5,42.5,1.775,0.5383615084525357,1.857487922705314,-4.747698309492854,EXACT_ALT,42.5,1.775,0.5383615084525357,1.857487922705314,-4.747698309492854,1.5,4792228206,2026-11-14T20:52:04+00:00,1.5
-San Diego State Aztecs vs. Utah State Aggies,San Diego State Aztecs vs Utah State Aggies,total,Plus de 43.5,43.5,1.8696,44.0,0.5,43.5,1.877,0.5086387434554974,1.9660319094184249,-4.904900523560207,EXACT_ALT,43.5,1.877,0.5086387434554974,1.9660319094184249,-4.904900523560207,0.5,4792223058,2026-11-14T20:52:04+00:00,0.5
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,total,Moins de 74.5,74.5,1.8334,73.5,1.0,74.5,1.84,0.518324607329843,1.929292929292929,-4.970366492146594,EXACT_ALT,74.5,1.84,0.518324607329843,1.929292929292929,-4.970366492146594,1.0,4792278507,2026-11-14T20:52:04+00:00,1.0
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,total,Plus de 71.5,71.5,1.6667,73.5,2.0,71.5,1.675,0.5688545688545689,1.757918552036199,-5.189009009009005,EXACT_ALT,71.5,1.675,0.5688545688545689,1.757918552036199,-5.189009009009005,2.0,4794667709,2026-11-14T20:52:04+00:00,2.0
-Wash State Cougars vs. COLORADO,Washington State Cougars vs Colorado State Rams,total,Plus de 63.5,63.5,1.7408,65.0,1.5,63.5,1.751,0.5441291330382713,1.837799043062201,-5.278000520697745,EXACT_ALT,63.5,1.751,0.5441291330382713,1.837799043062201,-5.278000520697745,1.5,4791769387,2026-11-14T20:52:04+00:00,1.5
-Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,total,Plus de 48.5,48.5,1.8334,49.5,1.0,48.5,1.847,0.516112129944983,1.9375634517766496,-5.376002095886823,EXACT_ALT,48.5,1.847,0.516112129944983,1.9375634517766496,-5.376002095886823,1.0,4794672136,2026-11-14T20:52:04+00:00,1.0
-Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,total,Plus de 51.5,51.5,2.2,49.5,-2.0,51.5,2.22,0.4294525828835775,2.3285457809694794,-5.520431765612943,EXACT_ALT,51.5,2.22,0.4294525828835775,2.3285457809694794,-5.520431765612943,-2.0,4794672175,2026-11-14T20:52:04+00:00,2.0
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,total,Moins de 42.5,42.5,1.6897,40.5,2.0,42.5,1.709,0.5582837942620832,1.7912037037037039,-5.666787283535801,EXACT_ALT,42.5,1.709,0.5582837942620832,1.7912037037037039,-5.666787283535801,2.0,4791948017,2026-11-14T20:52:04+00:00,2.0
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,total,Moins de 56.5,56.5,1.8,55.0,1.5,56.5,1.826,0.5227391531625719,1.9129999999999998,-5.906952430737055,EXACT_ALT,56.5,1.826,0.5227391531625719,1.9129999999999998,-5.906952430737055,1.5,4794668709,2026-11-14T20:52:04+00:00,1.5
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,total,Plus de 72.5,72.5,1.7408,73.5,1.0,72.5,1.769,0.5404001039230969,1.8504807692307692,-5.927149909067298,EXACT_ALT,72.5,1.769,0.5404001039230969,1.8504807692307692,-5.927149909067298,1.0,4791428204,2026-11-14T20:52:04+00:00,1.0
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,total,Plus de 39.5,39.5,1.7408,40.5,1.0,39.5,1.775,0.5383615084525357,1.857487922705314,-6.282028608582591,EXACT_ALT,39.5,1.775,0.5383615084525357,1.857487922705314,-6.282028608582591,1.0,4794674322,2026-11-14T20:52:04+00:00,1.0
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,total,Plus de 41.5,41.5,2.0,40.5,-1.0,41.5,2.04,0.4677798069397339,2.137757947573898,-6.444038612053216,EXACT_ALT,41.5,2.04,0.4677798069397339,2.137757947573898,-6.444038612053216,-1.0,4792084378,2026-11-14T20:52:04+00:00,1.0
-Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,total,Moins de 50.5,50.5,1.7143,49.5,1.0,50.5,1.751,0.5453129057387692,1.8338095238095236,-6.5170085692027975,EXACT_ALT,50.5,1.751,0.5453129057387692,1.8338095238095236,-6.5170085692027975,1.0,4788935490,2026-11-14T20:52:04+00:00,1.0
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,total,Moins de 53.5,53.5,2.15,55.0,-1.5,53.5,2.19,0.434692823954569,2.3004750593824226,-6.541042849767676,EXACT_ALT,53.5,2.19,0.434692823954569,2.3004750593824226,-6.541042849767676,-1.5,4790672156,2026-11-14T20:52:04+00:00,1.5
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,total,Moins de 75.5,75.5,1.7143,73.5,2.0,75.5,1.757,0.5432804782947751,1.8406698564593302,-6.86542760592671,EXACT_ALT,75.5,1.757,0.5432804782947751,1.8406698564593302,-6.86542760592671,2.0,4794667705,2026-11-14T20:52:04+00:00,2.0
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,total,Plus de 53.5,53.5,1.6451,55.0,1.5,53.5,1.684,0.5653071760454311,1.7689497716894975,-7.001316468766127,EXACT_ALT,53.5,1.684,0.5653071760454311,1.7689497716894975,-7.001316468766127,1.5,4790672155,2026-11-14T20:52:04+00:00,1.5
-Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,total,Moins de 49.5,49.5,1.8,49.5,0.0,49.5,1.862,0.5166147455867082,1.935678391959799,-7.00934579439253,EXACT_MAIN,49.5,1.862,0.5166147455867082,1.935678391959799,-7.00934579439253,0.0,4792327200,2026-11-14T20:52:04+00:00,0.0
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,total,Moins de 54.5,54.5,2.0,55.0,-0.5,54.5,2.06,0.46368133298620146,2.15665356541269,-7.2637334027597085,EXACT_ALT,54.5,2.06,0.46368133298620146,2.15665356541269,-7.2637334027597085,-0.5,4794668677,2026-11-14T20:52:04+00:00,0.5
-Wash State Cougars vs. COLORADO,Washington State Cougars vs Colorado State Rams,total,Plus de 64.5,64.5,1.8,65.0,0.5,64.5,1.854,0.5151673640167365,1.9411167512690353,-7.269874476987437,EXACT_ALT,64.5,1.854,0.5151673640167365,1.9411167512690353,-7.269874476987437,0.5,4792182830,2026-11-14T20:52:04+00:00,0.5
-Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,total,Moins de 51.5,51.5,1.625,49.5,2.0,51.5,1.671,0.5705474171164227,1.7527027027027022,-7.286044718581319,EXACT_ALT,51.5,1.671,0.5705474171164227,1.7527027027027022,-7.286044718581319,2.0,4794672172,2026-11-14T20:52:04+00:00,2.0
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,total,Plus de 55.5,55.5,1.8334,55.0,-0.5,55.5,1.892,0.5043227665706052,1.982857142857143,-7.537463976945258,EXACT_ALT,55.5,1.892,0.5043227665706052,1.982857142857143,-7.537463976945258,-0.5,4794668678,2026-11-14T20:52:04+00:00,0.5
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,total,Moins de 73.5,73.5,1.8696,73.5,0.0,73.5,1.952,0.4932502596053998,2.0273684210526315,-7.781931464174452,EXACT_MAIN,73.5,1.952,0.4932502596053998,2.0273684210526315,-7.781931464174452,0.0,4792072992,2026-11-14T20:52:04+00:00,0.0
-Wash State Cougars vs. COLORADO,Washington State Cougars vs Colorado State Rams,total,Plus de 65.5,65.5,1.9091,65.0,-0.5,65.5,1.98,0.48167539267015713,2.076086956521739,-8.043350785340298,EXACT_ALT,65.5,1.98,0.48167539267015713,2.076086956521739,-8.043350785340298,-0.5,4792185647,2026-11-14T20:52:04+00:00,0.5
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,total,Plus de 54.5,54.5,1.7143,55.0,0.5,54.5,1.781,0.5363186670137984,1.8645631067961168,-8.058890913824545,EXACT_ALT,54.5,1.781,0.5363186670137984,1.8645631067961168,-8.058890913824545,0.5,4794668676,2026-11-14T20:52:04+00:00,0.5
-Wash State Cougars vs. COLORADO,Washington State Cougars vs Colorado State Rams,total,Moins de 65.5,65.5,1.7693,65.0,0.5,65.5,1.84,0.518324607329843,1.929292929292929,-8.292827225130871,EXACT_ALT,65.5,1.84,0.518324607329843,1.929292929292929,-8.292827225130871,0.5,4792185646,2026-11-14T20:52:04+00:00,0.5
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,total,Plus de 40.5,40.5,1.8334,40.5,0.0,40.5,1.925,0.5,2.0,-8.330000000000004,EXACT_MAIN,40.5,1.925,0.5,2.0,-8.330000000000004,0.0,4792332766,2026-11-14T20:52:04+00:00,0.0
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,total,Moins de 40.5,40.5,1.8334,40.5,0.0,40.5,1.925,0.5,2.0,-8.330000000000004,EXACT_MAIN,40.5,1.925,0.5,2.0,-8.330000000000004,0.0,4792332767,2026-11-14T20:52:04+00:00,0.0
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,total,Plus de 75.5,75.5,2.0,73.5,-2.0,75.5,2.09,0.4567195217052249,2.189527603870233,-8.65609565895502,EXACT_ALT,75.5,2.09,0.4567195217052249,2.189527603870233,-8.65609565895502,-2.0,4794667703,2026-11-14T20:52:04+00:00,2.0
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,total,Moins de 41.5,41.5,1.7143,40.5,1.0,41.5,1.793,0.5322201930602661,1.878921568627451,-8.761492303678576,EXACT_ALT,41.5,1.793,0.5322201930602661,1.878921568627451,-8.761492303678576,1.0,4792084379,2026-11-14T20:52:04+00:00,1.0
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,total,Plus de 73.5,73.5,1.8,73.5,0.0,73.5,1.9,0.5067497403946002,1.973360655737705,-8.785046728971968,EXACT_MAIN,73.5,1.9,0.5067497403946002,1.973360655737705,-8.785046728971968,0.0,4792072991,2026-11-14T20:52:04+00:00,0.0
-Wash State Cougars vs. COLORADO,Washington State Cougars vs Colorado State Rams,total,Moins de 66.5,66.5,1.6667,65.0,1.5,66.5,1.746,0.546021840873635,1.8314285714285712,-8.994539781591248,EXACT_ALT,66.5,1.746,0.546021840873635,1.8314285714285712,-8.994539781591248,1.5,4792225444,2026-11-14T20:52:04+00:00,1.5
-Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,total,Plus de 50.5,50.5,2.0,49.5,-1.0,50.5,2.1,0.45468709426123083,2.1993146773272416,-9.062581147753834,EXACT_ALT,50.5,2.1,0.45468709426123083,2.1993146773272416,-9.062581147753834,-1.0,4788935491,2026-11-14T20:52:04+00:00,1.0
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,total,Moins de 55.5,55.5,1.8334,55.0,0.5,55.5,1.925,0.4956772334293948,2.0174418604651163,-9.122536023054762,EXACT_ALT,55.5,1.925,0.4956772334293948,2.0174418604651163,-9.122536023054762,0.5,4794668679,2026-11-14T20:52:04+00:00,0.5
-Wash State Cougars vs. COLORADO,Washington State Cougars vs Colorado State Rams,total,Moins de 64.5,64.5,1.8696,65.0,-0.5,64.5,1.97,0.48483263598326365,2.0625674217907224,-9.355690376569036,EXACT_ALT,64.5,1.97,0.48483263598326365,2.0625674217907224,-9.355690376569036,-0.5,4792182829,2026-11-14T20:52:04+00:00,0.5
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,total,Plus de 42.5,42.5,2.05,40.5,-2.0,42.5,2.16,0.44171620573791676,2.2638970157987126,-9.448177823727077,EXACT_ALT,42.5,2.16,0.44171620573791676,2.2638970157987126,-9.448177823727077,-2.0,4791948016,2026-11-14T20:52:04+00:00,2.0
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,total,Moins de 71.5,71.5,2.1,73.5,-2.0,71.5,2.21,0.4311454311454312,2.3194029850746265,-9.459459459459453,EXACT_ALT,71.5,2.21,0.4311454311454312,2.3194029850746265,-9.459459459459453,-2.0,4794667707,2026-11-14T20:52:04+00:00,2.0
-San Diego State Aztecs vs. Utah State Aggies,San Diego State Aztecs vs Utah State Aggies,total,Moins de 45.5,45.5,1.625,44.0,1.5,45.5,1.714,0.5564182194616978,1.7972093023255813,-9.582039337474113,EXACT_ALT,45.5,1.714,0.5564182194616978,1.7972093023255813,-9.582039337474113,1.5,4794603659,2026-11-14T20:52:04+00:00,1.5
-Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,total,Plus de 49.5,49.5,1.8696,49.5,0.0,49.5,1.99,0.4833852544132917,2.0687432867883997,-9.626292834890982,EXACT_MAIN,49.5,1.99,0.4833852544132917,2.0687432867883997,-9.626292834890982,0.0,4792327201,2026-11-14T20:52:04+00:00,0.0
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,total,Moins de 39.5,39.5,1.9524,40.5,-1.0,39.5,2.07,0.4616384915474642,2.1661971830985918,-9.869700910273094,EXACT_ALT,39.5,2.07,0.4616384915474642,2.1661971830985918,-9.869700910273094,-1.0,4794674321,2026-11-14T20:52:04+00:00,1.0
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,total,Moins de 72.5,72.5,1.9524,73.5,-1.0,72.5,2.08,0.459599896076903,2.175805539853025,-10.267716289945461,EXACT_ALT,72.5,2.08,0.459599896076903,2.175805539853025,-10.267716289945461,-1.0,4791428205,2026-11-14T20:52:04+00:00,1.0
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,total,Moins de 38.5,38.5,2.05,40.5,-2.0,38.5,2.19,0.43542150038669764,2.2966252220248666,-10.738592420726988,EXACT_ALT,38.5,2.19,0.43542150038669764,2.2966252220248666,-10.738592420726988,-2.0,4794674293,2026-11-14T20:52:04+00:00,2.0
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,total,Plus de 56.5,56.5,1.8696,55.0,-1.5,56.5,2.0,0.4772608468374281,2.095290251916758,-10.771312075274453,EXACT_ALT,56.5,2.0,0.4772608468374281,2.095290251916758,-10.771312075274453,-1.5,4794668708,2026-11-14T20:52:04+00:00,1.5
-Wash State Cougars vs. COLORADO,Washington State Cougars vs Colorado State Rams,total,Moins de 63.5,63.5,1.9524,65.0,-1.5,63.5,2.09,0.45587086696172874,2.193603655054255,-10.995771934392085,EXACT_ALT,63.5,2.09,0.45587086696172874,2.193603655054255,-10.995771934392085,-1.5,4791769386,2026-11-14T20:52:04+00:00,1.5
-Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,total,Moins de 48.5,48.5,1.8334,49.5,-1.0,48.5,1.97,0.483887870055017,2.066594477531132,-11.283997904113185,EXACT_ALT,48.5,1.97,0.483887870055017,2.066594477531132,-11.283997904113185,-1.0,4794672132,2026-11-14T20:52:04+00:00,1.0
-San Diego State Aztecs vs. Utah State Aggies,San Diego State Aztecs vs Utah State Aggies,total,Moins de 43.5,43.5,1.8,44.0,-0.5,43.5,1.943,0.4913612565445027,2.0351624933404366,-11.554973821989512,EXACT_ALT,43.5,1.943,0.4913612565445027,2.0351624933404366,-11.554973821989512,-0.5,4792223057,2026-11-14T20:52:04+00:00,0.5
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,total,Plus de 74.5,74.5,1.8334,73.5,-1.0,74.5,1.98,0.48167539267015713,2.076086956521739,-11.689633507853392,EXACT_ALT,74.5,1.98,0.48167539267015713,2.076086956521739,-11.689633507853392,-1.0,4792278508,2026-11-14T20:52:04+00:00,1.0
-San Diego State Aztecs vs. Utah State Aggies,San Diego State Aztecs vs Utah State Aggies,total,Moins de 42.5,42.5,1.9091,44.0,-1.5,42.5,2.07,0.4616384915474642,2.1661971830985918,-11.868595578673602,EXACT_ALT,42.5,2.07,0.4616384915474642,2.1661971830985918,-11.868595578673602,-1.5,4792228205,2026-11-14T20:52:04+00:00,1.5
-San Diego State Aztecs vs. Utah State Aggies,San Diego State Aztecs vs Utah State Aggies,total,Moins de 44.5,44.5,1.6897,44.0,0.5,44.5,1.84,0.518324607329843,1.929292929292929,-12.418691099476431,EXACT_ALT,44.5,1.84,0.518324607329843,1.929292929292929,-12.418691099476431,0.5,4791307581,2026-11-14T20:52:04+00:00,0.5
-Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,total,Moins de 47.5,47.5,1.9524,49.5,-2.0,47.5,2.14,0.44545218968644723,2.244909831297266,-13.029914485618043,EXACT_ALT,47.5,2.14,0.44545218968644723,2.244909831297266,-13.029914485618043,-2.0,4794672267,2026-11-14T20:52:04+00:00,2.0
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,total,Plus de 89.5,89.5,4.2,73.5,-16.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-16.0,4821489624,2026-11-14T20:52:04+00:00,16.0
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,total,Moins de 89.5,89.5,1.2,73.5,16.0,,,,,,NO_EXACT_PIN_LINE,,,,,,16.0,4821489623,2026-11-14T20:52:04+00:00,16.0
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,total,Plus de 70.5,70.5,4.75,55.0,-15.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-15.5,4816649016,2026-11-14T20:52:04+00:00,15.5
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,total,Moins de 70.5,70.5,1.1539,55.0,15.5,,,,,,NO_EXACT_PIN_LINE,,,,,,15.5,4816649017,2026-11-14T20:52:04+00:00,15.5
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,total,Moins de 88.5,88.5,1.2223,73.5,15.0,,,,,,NO_EXACT_PIN_LINE,,,,,,15.0,4795683152,2026-11-14T20:52:04+00:00,15.0
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,total,Plus de 88.5,88.5,4.0,73.5,-15.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-15.0,4795683153,2026-11-14T20:52:04+00:00,15.0
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,total,Moins de 25.5,25.5,6.5,40.5,-15.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-15.0,4794674345,2026-11-14T20:52:04+00:00,15.0
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,total,Plus de 25.5,25.5,1.1,40.5,15.0,,,,,,NO_EXACT_PIN_LINE,,,,,,15.0,4794674346,2026-11-14T20:52:04+00:00,15.0
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,total,Plus de 55.5,55.5,5.5,40.5,-15.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-15.0,4794674299,2026-11-14T20:52:04+00:00,15.0
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,total,Moins de 55.5,55.5,1.125,40.5,15.0,,,,,,NO_EXACT_PIN_LINE,,,,,,15.0,4794674300,2026-11-14T20:52:04+00:00,15.0
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,total,Plus de 40.5,40.5,1.125,55.0,14.5,,,,,,NO_EXACT_PIN_LINE,,,,,,14.5,4794668724,2026-11-14T20:52:04+00:00,14.5
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,total,Moins de 40.5,40.5,5.5,55.0,-14.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-14.5,4794668725,2026-11-14T20:52:04+00:00,14.5
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,total,Plus de 69.5,69.5,4.4,55.0,-14.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-14.5,4796359355,2026-11-14T20:52:04+00:00,14.5
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,total,Moins de 69.5,69.5,1.1819,55.0,14.5,,,,,,NO_EXACT_PIN_LINE,,,,,,14.5,4796359356,2026-11-14T20:52:04+00:00,14.5
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,total,Plus de 59.5,59.5,1.2,73.5,14.0,,,,,,NO_EXACT_PIN_LINE,,,,,,14.0,4794667776,2026-11-14T20:52:04+00:00,14.0
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,total,Moins de 59.5,59.5,4.2,73.5,-14.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-14.0,4794667778,2026-11-14T20:52:04+00:00,14.0
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,total,Plus de 87.5,87.5,3.75,73.5,-14.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-14.0,4794667750,2026-11-14T20:52:04+00:00,14.0
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,total,Moins de 87.5,87.5,1.2353,73.5,14.0,,,,,,NO_EXACT_PIN_LINE,,,,,,14.0,4794667755,2026-11-14T20:52:04+00:00,14.0
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,total,Moins de 54.5,54.5,1.1539,40.5,14.0,,,,,,NO_EXACT_PIN_LINE,,,,,,14.0,4794674304,2026-11-14T20:52:04+00:00,14.0
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,total,Moins de 26.5,26.5,6.0,40.5,-14.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-14.0,4794674343,2026-11-14T20:52:04+00:00,14.0
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,total,Plus de 26.5,26.5,1.1112,40.5,14.0,,,,,,NO_EXACT_PIN_LINE,,,,,,14.0,4794674344,2026-11-14T20:52:04+00:00,14.0
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,total,Plus de 54.5,54.5,4.75,40.5,-14.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-14.0,4794674303,2026-11-14T20:52:04+00:00,14.0
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,total,Plus de 68.5,68.5,4.0,55.0,-13.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-13.5,4794668698,2026-11-14T20:52:04+00:00,13.5
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,total,Plus de 41.5,41.5,1.1539,55.0,13.5,,,,,,NO_EXACT_PIN_LINE,,,,,,13.5,4794668726,2026-11-14T20:52:04+00:00,13.5
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,total,Moins de 41.5,41.5,4.75,55.0,-13.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-13.5,4794668727,2026-11-14T20:52:04+00:00,13.5
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,total,Moins de 68.5,68.5,1.2223,55.0,13.5,,,,,,NO_EXACT_PIN_LINE,,,,,,13.5,4794668699,2026-11-14T20:52:04+00:00,13.5
-Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,total,Plus de 36.5,36.5,1.2,49.5,13.0,,,,,,NO_EXACT_PIN_LINE,,,,,,13.0,4794672248,2026-11-14T20:52:04+00:00,13.0
-Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,total,Moins de 36.5,36.5,4.2,49.5,-13.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-13.0,4794672252,2026-11-14T20:52:04+00:00,13.0
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,total,Plus de 86.5,86.5,3.5,73.5,-13.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-13.0,4794667679,2026-11-14T20:52:04+00:00,13.0
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,total,Moins de 86.5,86.5,1.2667,73.5,13.0,,,,,,NO_EXACT_PIN_LINE,,,,,,13.0,4794667681,2026-11-14T20:52:04+00:00,13.0
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,total,Plus de 60.5,60.5,1.2223,73.5,13.0,,,,,,NO_EXACT_PIN_LINE,,,,,,13.0,4794667721,2026-11-14T20:52:04+00:00,13.0
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,total,Moins de 60.5,60.5,4.0,73.5,-13.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-13.0,4794667723,2026-11-14T20:52:04+00:00,13.0
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,total,Moins de 27.5,27.5,5.0,40.5,-13.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-13.0,4794674341,2026-11-14T20:52:04+00:00,13.0
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,total,Plus de 27.5,27.5,1.1429,40.5,13.0,,,,,,NO_EXACT_PIN_LINE,,,,,,13.0,4794674342,2026-11-14T20:52:04+00:00,13.0
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,total,Moins de 53.5,53.5,1.1819,40.5,13.0,,,,,,NO_EXACT_PIN_LINE,,,,,,13.0,4794674301,2026-11-14T20:52:04+00:00,13.0
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,total,Plus de 53.5,53.5,4.4,40.5,-13.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-13.0,4794674302,2026-11-14T20:52:04+00:00,13.0
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,total,Plus de 67.5,67.5,3.7,55.0,-12.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-12.5,4794668692,2026-11-14T20:52:04+00:00,12.5
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,total,Moins de 67.5,67.5,1.25,55.0,12.5,,,,,,NO_EXACT_PIN_LINE,,,,,,12.5,4794668693,2026-11-14T20:52:04+00:00,12.5
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,total,Moins de 42.5,42.5,4.75,55.0,-12.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-12.5,4794668718,2026-11-14T20:52:04+00:00,12.5
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,total,Plus de 42.5,42.5,1.1539,55.0,12.5,,,,,,NO_EXACT_PIN_LINE,,,,,,12.5,4794668719,2026-11-14T20:52:04+00:00,12.5
-Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,total,Plus de 37.5,37.5,1.25,49.5,12.0,,,,,,NO_EXACT_PIN_LINE,,,,,,12.0,4794672262,2026-11-14T20:52:04+00:00,12.0
-Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,total,Moins de 37.5,37.5,3.7,49.5,-12.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-12.0,4794672264,2026-11-14T20:52:04+00:00,12.0
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,total,Plus de 61.5,61.5,1.25,73.5,12.0,,,,,,NO_EXACT_PIN_LINE,,,,,,12.0,4794667747,2026-11-14T20:52:04+00:00,12.0
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,total,Moins de 61.5,61.5,3.7,73.5,-12.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-12.0,4794667749,2026-11-14T20:52:04+00:00,12.0
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,total,Plus de 85.5,85.5,3.4,73.5,-12.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-12.0,4794667772,2026-11-14T20:52:04+00:00,12.0
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,total,Moins de 85.5,85.5,1.2858,73.5,12.0,,,,,,NO_EXACT_PIN_LINE,,,,,,12.0,4794667775,2026-11-14T20:52:04+00:00,12.0
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,total,Moins de 52.5,52.5,1.2,40.5,12.0,,,,,,NO_EXACT_PIN_LINE,,,,,,12.0,4794674307,2026-11-14T20:52:04+00:00,12.0
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,total,Plus de 52.5,52.5,4.2,40.5,-12.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-12.0,4794674308,2026-11-14T20:52:04+00:00,12.0
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,total,Moins de 28.5,28.5,4.75,40.5,-12.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-12.0,4794674297,2026-11-14T20:52:04+00:00,12.0
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,total,Plus de 28.5,28.5,1.1539,40.5,12.0,,,,,,NO_EXACT_PIN_LINE,,,,,,12.0,4794674298,2026-11-14T20:52:04+00:00,12.0
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,total,Plus de 66.5,66.5,3.5,55.0,-11.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-11.5,4794668704,2026-11-14T20:52:04+00:00,11.5
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,total,Moins de 43.5,43.5,4.2,55.0,-11.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-11.5,4794668720,2026-11-14T20:52:04+00:00,11.5
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,total,Plus de 43.5,43.5,1.2,55.0,11.5,,,,,,NO_EXACT_PIN_LINE,,,,,,11.5,4794668721,2026-11-14T20:52:04+00:00,11.5
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,total,Moins de 66.5,66.5,1.2667,55.0,11.5,,,,,,NO_EXACT_PIN_LINE,,,,,,11.5,4794668705,2026-11-14T20:52:04+00:00,11.5
-Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,total,Moins de 38.5,38.5,3.4,49.5,-11.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-11.0,4794672129,2026-11-14T20:52:04+00:00,11.0
-Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,total,Moins de 60.5,60.5,1.25,49.5,11.0,,,,,,NO_EXACT_PIN_LINE,,,,,,11.0,4794672232,2026-11-14T20:52:04+00:00,11.0
-Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,total,Plus de 60.5,60.5,3.7,49.5,-11.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-11.0,4794672237,2026-11-14T20:52:04+00:00,11.0
-Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,total,Plus de 38.5,38.5,1.2858,49.5,11.0,,,,,,NO_EXACT_PIN_LINE,,,,,,11.0,4794672126,2026-11-14T20:52:04+00:00,11.0
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,total,Moins de 84.5,84.5,1.3226,73.5,11.0,,,,,,NO_EXACT_PIN_LINE,,,,,,11.0,4794667711,2026-11-14T20:52:04+00:00,11.0
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,total,Plus de 84.5,84.5,3.15,73.5,-11.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-11.0,4794667713,2026-11-14T20:52:04+00:00,11.0
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,total,Plus de 62.5,62.5,1.2667,73.5,11.0,,,,,,NO_EXACT_PIN_LINE,,,,,,11.0,4794667736,2026-11-14T20:52:04+00:00,11.0
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,total,Moins de 62.5,62.5,3.5,73.5,-11.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-11.0,4794667737,2026-11-14T20:52:04+00:00,11.0
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,total,Moins de 51.5,51.5,1.2223,40.5,11.0,,,,,,NO_EXACT_PIN_LINE,,,,,,11.0,4794674305,2026-11-14T20:52:04+00:00,11.0
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,total,Plus de 51.5,51.5,4.0,40.5,-11.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-11.0,4794674306,2026-11-14T20:52:04+00:00,11.0
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,total,Moins de 29.5,29.5,4.2,40.5,-11.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-11.0,4794674323,2026-11-14T20:52:04+00:00,11.0
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,total,Plus de 29.5,29.5,1.2,40.5,11.0,,,,,,NO_EXACT_PIN_LINE,,,,,,11.0,4794674324,2026-11-14T20:52:04+00:00,11.0
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,total,Moins de 44.5,44.5,3.75,55.0,-10.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-10.5,4794668674,2026-11-14T20:52:04+00:00,10.5
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,total,Plus de 44.5,44.5,1.2353,55.0,10.5,,,,,,NO_EXACT_PIN_LINE,,,,,,10.5,4794668675,2026-11-14T20:52:04+00:00,10.5
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,total,Plus de 65.5,65.5,3.25,55.0,-10.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-10.5,4794668682,2026-11-14T20:52:04+00:00,10.5
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,total,Moins de 65.5,65.5,1.3031,55.0,10.5,,,,,,NO_EXACT_PIN_LINE,,,,,,10.5,4794668683,2026-11-14T20:52:04+00:00,10.5
-Wash State Cougars vs. COLORADO,Washington State Cougars vs Colorado State Rams,total,Plus de 54.5,54.5,1.2667,65.0,10.5,,,,,,NO_EXACT_PIN_LINE,,,,,,10.5,4820180553,2026-11-14T20:52:04+00:00,10.5
-Wash State Cougars vs. COLORADO,Washington State Cougars vs Colorado State Rams,total,Moins de 54.5,54.5,3.5,65.0,-10.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-10.5,4820180552,2026-11-14T20:52:04+00:00,10.5
-San Diego State Aztecs vs. Utah State Aggies,San Diego State Aztecs vs Utah State Aggies,total,Plus de 33.5,33.5,1.2667,44.0,10.5,,,,,,NO_EXACT_PIN_LINE,,,,,,10.5,4794603635,2026-11-14T20:52:04+00:00,10.5
-San Diego State Aztecs vs. Utah State Aggies,San Diego State Aztecs vs Utah State Aggies,total,Moins de 33.5,33.5,3.5,44.0,-10.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-10.5,4794603636,2026-11-14T20:52:04+00:00,10.5
-Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,total,Moins de 59.5,59.5,1.2667,49.5,10.0,,,,,,NO_EXACT_PIN_LINE,,,,,,10.0,4794672178,2026-11-14T20:52:04+00:00,10.0
-Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,total,Plus de 59.5,59.5,3.5,49.5,-10.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-10.0,4794672185,2026-11-14T20:52:04+00:00,10.0
-Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,total,Plus de 39.5,39.5,1.3125,49.5,10.0,,,,,,NO_EXACT_PIN_LINE,,,,,,10.0,4794672189,2026-11-14T20:52:04+00:00,10.0
-Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,total,Moins de 39.5,39.5,3.2,49.5,-10.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-10.0,4794672191,2026-11-14T20:52:04+00:00,10.0
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,total,Moins de 83.5,83.5,1.3334,73.5,10.0,,,,,,NO_EXACT_PIN_LINE,,,,,,10.0,4794667734,2026-11-14T20:52:04+00:00,10.0
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,total,Plus de 83.5,83.5,3.1,73.5,-10.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-10.0,4794667735,2026-11-14T20:52:04+00:00,10.0
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,total,Plus de 63.5,63.5,1.3031,73.5,10.0,,,,,,NO_EXACT_PIN_LINE,,,,,,10.0,4776210283,2026-11-14T20:52:04+00:00,10.0
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,total,Moins de 63.5,63.5,3.25,73.5,-10.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-10.0,4776210284,2026-11-14T20:52:04+00:00,10.0
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,total,Moins de 50.5,50.5,1.2667,40.5,10.0,,,,,,NO_EXACT_PIN_LINE,,,,,,10.0,4794674309,2026-11-14T20:52:04+00:00,10.0
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,total,Plus de 50.5,50.5,3.5,40.5,-10.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-10.0,4794674310,2026-11-14T20:52:04+00:00,10.0
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,total,Moins de 30.5,30.5,3.75,40.5,-10.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-10.0,4794674325,2026-11-14T20:52:04+00:00,10.0
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,total,Plus de 30.5,30.5,1.2353,40.5,10.0,,,,,,NO_EXACT_PIN_LINE,,,,,,10.0,4794674326,2026-11-14T20:52:04+00:00,10.0
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,total,Moins de 64.5,64.5,1.3572,55.0,9.5,,,,,,NO_EXACT_PIN_LINE,,,,,,9.5,4794668672,2026-11-14T20:52:04+00:00,9.5
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,total,Plus de 64.5,64.5,3.0,55.0,-9.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-9.5,4794668673,2026-11-14T20:52:04+00:00,9.5
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,total,Plus de 45.5,45.5,1.2667,55.0,9.5,,,,,,NO_EXACT_PIN_LINE,,,,,,9.5,4794668680,2026-11-14T20:52:04+00:00,9.5
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,total,Moins de 45.5,45.5,3.5,55.0,-9.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-9.5,4794668681,2026-11-14T20:52:04+00:00,9.5
-Wash State Cougars vs. COLORADO,Washington State Cougars vs Colorado State Rams,total,Moins de 55.5,55.5,3.15,65.0,-9.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-9.5,4817186078,2026-11-14T20:52:04+00:00,9.5
-Wash State Cougars vs. COLORADO,Washington State Cougars vs Colorado State Rams,total,Plus de 55.5,55.5,1.3226,65.0,9.5,,,,,,NO_EXACT_PIN_LINE,,,,,,9.5,4817186079,2026-11-14T20:52:04+00:00,9.5
-Wash State Cougars vs. COLORADO,Washington State Cougars vs Colorado State Rams,total,Moins de 74.5,74.5,1.3125,65.0,9.5,,,,,,NO_EXACT_PIN_LINE,,,,,,9.5,4794603848,2026-11-14T20:52:04+00:00,9.5
-Wash State Cougars vs. COLORADO,Washington State Cougars vs Colorado State Rams,total,Plus de 74.5,74.5,3.2,65.0,-9.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-9.5,4794603847,2026-11-14T20:52:04+00:00,9.5
-San Diego State Aztecs vs. Utah State Aggies,San Diego State Aztecs vs Utah State Aggies,total,Moins de 34.5,34.5,3.25,44.0,-9.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-9.5,4794603648,2026-11-14T20:52:04+00:00,9.5
-San Diego State Aztecs vs. Utah State Aggies,San Diego State Aztecs vs Utah State Aggies,total,Plus de 53.5,53.5,3.7,44.0,-9.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-9.5,4815024357,2026-11-14T20:52:04+00:00,9.5
-San Diego State Aztecs vs. Utah State Aggies,San Diego State Aztecs vs Utah State Aggies,total,Moins de 53.5,53.5,1.25,44.0,9.5,,,,,,NO_EXACT_PIN_LINE,,,,,,9.5,4815024358,2026-11-14T20:52:04+00:00,9.5
-San Diego State Aztecs vs. Utah State Aggies,San Diego State Aztecs vs Utah State Aggies,total,Plus de 34.5,34.5,1.3031,44.0,9.5,,,,,,NO_EXACT_PIN_LINE,,,,,,9.5,4794603647,2026-11-14T20:52:04+00:00,9.5
-Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,total,Moins de 40.5,40.5,3.0,49.5,-9.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-9.0,4794672275,2026-11-14T20:52:04+00:00,9.0
-Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,total,Plus de 40.5,40.5,1.3572,49.5,9.0,,,,,,NO_EXACT_PIN_LINE,,,,,,9.0,4794672278,2026-11-14T20:52:04+00:00,9.0
-Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,total,Plus de 58.5,58.5,3.25,49.5,-9.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-9.0,4794672119,2026-11-14T20:52:04+00:00,9.0
-Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,total,Moins de 58.5,58.5,1.3031,49.5,9.0,,,,,,NO_EXACT_PIN_LINE,,,,,,9.0,4794672122,2026-11-14T20:52:04+00:00,9.0
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,total,Moins de 64.5,64.5,3.1,73.5,-9.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-9.0,4794667715,2026-11-14T20:52:04+00:00,9.0
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,total,Plus de 64.5,64.5,1.3334,73.5,9.0,,,,,,NO_EXACT_PIN_LINE,,,,,,9.0,4794667717,2026-11-14T20:52:04+00:00,9.0
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,total,Moins de 82.5,82.5,1.3847,73.5,9.0,,,,,,NO_EXACT_PIN_LINE,,,,,,9.0,4794667739,2026-11-14T20:52:04+00:00,9.0
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,total,Plus de 82.5,82.5,2.85,73.5,-9.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-9.0,4794667741,2026-11-14T20:52:04+00:00,9.0
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,total,Plus de 49.5,49.5,3.25,40.5,-9.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-9.0,4794674311,2026-11-14T20:52:04+00:00,9.0
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,total,Moins de 49.5,49.5,1.3031,40.5,9.0,,,,,,NO_EXACT_PIN_LINE,,,,,,9.0,4794674312,2026-11-14T20:52:04+00:00,9.0
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,total,Moins de 31.5,31.5,3.4,40.5,-9.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-9.0,4794674329,2026-11-14T20:52:04+00:00,9.0
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,total,Plus de 31.5,31.5,1.2858,40.5,9.0,,,,,,NO_EXACT_PIN_LINE,,,,,,9.0,4794674330,2026-11-14T20:52:04+00:00,9.0
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,total,Plus de 46.5,46.5,1.2858,55.0,8.5,,,,,,NO_EXACT_PIN_LINE,,,,,,8.5,4794668706,2026-11-14T20:52:04+00:00,8.5
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,total,Moins de 46.5,46.5,3.4,55.0,-8.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-8.5,4794668707,2026-11-14T20:52:04+00:00,8.5
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,total,Plus de 63.5,63.5,2.85,55.0,-8.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-8.5,4794668711,2026-11-14T20:52:04+00:00,8.5
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,total,Moins de 63.5,63.5,1.3847,55.0,8.5,,,,,,NO_EXACT_PIN_LINE,,,,,,8.5,4794668710,2026-11-14T20:52:04+00:00,8.5
-Wash State Cougars vs. COLORADO,Washington State Cougars vs Colorado State Rams,total,Plus de 73.5,73.5,3.1,65.0,-8.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-8.5,4794603835,2026-11-14T20:52:04+00:00,8.5
-Wash State Cougars vs. COLORADO,Washington State Cougars vs Colorado State Rams,total,Moins de 73.5,73.5,1.3334,65.0,8.5,,,,,,NO_EXACT_PIN_LINE,,,,,,8.5,4794603836,2026-11-14T20:52:04+00:00,8.5
-Wash State Cougars vs. COLORADO,Washington State Cougars vs Colorado State Rams,total,Moins de 56.5,56.5,3.0,65.0,-8.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-8.5,4805553094,2026-11-14T20:52:04+00:00,8.5
-Wash State Cougars vs. COLORADO,Washington State Cougars vs Colorado State Rams,total,Plus de 56.5,56.5,1.3572,65.0,8.5,,,,,,NO_EXACT_PIN_LINE,,,,,,8.5,4805553095,2026-11-14T20:52:04+00:00,8.5
-San Diego State Aztecs vs. Utah State Aggies,San Diego State Aztecs vs Utah State Aggies,total,Plus de 52.5,52.5,3.5,44.0,-8.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-8.5,4796629432,2026-11-14T20:52:04+00:00,8.5
-San Diego State Aztecs vs. Utah State Aggies,San Diego State Aztecs vs Utah State Aggies,total,Moins de 52.5,52.5,1.2667,44.0,8.5,,,,,,NO_EXACT_PIN_LINE,,,,,,8.5,4796629433,2026-11-14T20:52:04+00:00,8.5
-San Diego State Aztecs vs. Utah State Aggies,San Diego State Aztecs vs Utah State Aggies,total,Plus de 35.5,35.5,1.3334,44.0,8.5,,,,,,NO_EXACT_PIN_LINE,,,,,,8.5,4794603643,2026-11-14T20:52:04+00:00,8.5
-San Diego State Aztecs vs. Utah State Aggies,San Diego State Aztecs vs Utah State Aggies,total,Moins de 35.5,35.5,3.1,44.0,-8.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-8.5,4794603644,2026-11-14T20:52:04+00:00,8.5
-Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,total,Moins de 41.5,41.5,2.7,49.5,-8.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-8.0,4794672270,2026-11-14T20:52:04+00:00,8.0
-Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,total,Plus de 41.5,41.5,1.4167,49.5,8.0,,,,,,NO_EXACT_PIN_LINE,,,,,,8.0,4794672272,2026-11-14T20:52:04+00:00,8.0
-Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,total,Plus de 57.5,57.5,3.1,49.5,-8.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-8.0,4794672144,2026-11-14T20:52:04+00:00,8.0
-Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,total,Moins de 57.5,57.5,1.3334,49.5,8.0,,,,,,NO_EXACT_PIN_LINE,,,,,,8.0,4794672148,2026-11-14T20:52:04+00:00,8.0
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,total,Moins de 81.5,81.5,1.4167,73.5,8.0,,,,,,NO_EXACT_PIN_LINE,,,,,,8.0,4794667743,2026-11-14T20:52:04+00:00,8.0
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,total,Plus de 81.5,81.5,2.7,73.5,-8.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-8.0,4794667745,2026-11-14T20:52:04+00:00,8.0
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,total,Plus de 65.5,65.5,1.3847,73.5,8.0,,,,,,NO_EXACT_PIN_LINE,,,,,,8.0,4794667769,2026-11-14T20:52:04+00:00,8.0
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,total,Moins de 65.5,65.5,2.85,73.5,-8.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-8.0,4794667770,2026-11-14T20:52:04+00:00,8.0
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,total,Moins de 32.5,32.5,3.2,40.5,-8.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-8.0,4794674327,2026-11-14T20:52:04+00:00,8.0
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,total,Plus de 32.5,32.5,1.3125,40.5,8.0,,,,,,NO_EXACT_PIN_LINE,,,,,,8.0,4794674328,2026-11-14T20:52:04+00:00,8.0
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,total,Moins de 48.5,48.5,1.3334,40.5,8.0,,,,,,NO_EXACT_PIN_LINE,,,,,,8.0,4794674296,2026-11-14T20:52:04+00:00,8.0
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,total,Plus de 48.5,48.5,3.1,40.5,-8.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-8.0,4794674295,2026-11-14T20:52:04+00:00,8.0
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,total,Plus de 47.5,47.5,1.3334,55.0,7.5,,,,,,NO_EXACT_PIN_LINE,,,,,,7.5,4794668694,2026-11-14T20:52:04+00:00,7.5
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,total,Moins de 47.5,47.5,3.1,55.0,-7.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-7.5,4794668695,2026-11-14T20:52:04+00:00,7.5
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,total,Plus de 62.5,62.5,2.65,55.0,-7.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-7.5,4794668713,2026-11-14T20:52:04+00:00,7.5
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,total,Moins de 62.5,62.5,1.4348,55.0,7.5,,,,,,NO_EXACT_PIN_LINE,,,,,,7.5,4794668712,2026-11-14T20:52:04+00:00,7.5
-Wash State Cougars vs. COLORADO,Washington State Cougars vs Colorado State Rams,total,Plus de 72.5,72.5,2.85,65.0,-7.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-7.5,4794603837,2026-11-14T20:52:04+00:00,7.5
-Wash State Cougars vs. COLORADO,Washington State Cougars vs Colorado State Rams,total,Moins de 72.5,72.5,1.3847,65.0,7.5,,,,,,NO_EXACT_PIN_LINE,,,,,,7.5,4794603838,2026-11-14T20:52:04+00:00,7.5
-Wash State Cougars vs. COLORADO,Washington State Cougars vs Colorado State Rams,total,Moins de 57.5,57.5,2.85,65.0,-7.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-7.5,4794603853,2026-11-14T20:52:04+00:00,7.5
-Wash State Cougars vs. COLORADO,Washington State Cougars vs Colorado State Rams,total,Plus de 57.5,57.5,1.3847,65.0,7.5,,,,,,NO_EXACT_PIN_LINE,,,,,,7.5,4794603854,2026-11-14T20:52:04+00:00,7.5
-San Diego State Aztecs vs. Utah State Aggies,San Diego State Aztecs vs Utah State Aggies,total,Plus de 51.5,51.5,3.25,44.0,-7.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-7.5,4794603665,2026-11-14T20:52:04+00:00,7.5
-San Diego State Aztecs vs. Utah State Aggies,San Diego State Aztecs vs Utah State Aggies,total,Moins de 51.5,51.5,1.3031,44.0,7.5,,,,,,NO_EXACT_PIN_LINE,,,,,,7.5,4794603666,2026-11-14T20:52:04+00:00,7.5
-San Diego State Aztecs vs. Utah State Aggies,San Diego State Aztecs vs Utah State Aggies,total,Plus de 36.5,36.5,1.3847,44.0,7.5,,,,,,NO_EXACT_PIN_LINE,,,,,,7.5,4794603645,2026-11-14T20:52:04+00:00,7.5
-San Diego State Aztecs vs. Utah State Aggies,San Diego State Aztecs vs Utah State Aggies,total,Moins de 36.5,36.5,2.85,44.0,-7.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-7.5,4794603646,2026-11-14T20:52:04+00:00,7.5
-Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,total,Plus de 56.5,56.5,2.85,49.5,-7.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-7.0,4794672138,2026-11-14T20:52:04+00:00,7.0
-Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,total,Moins de 56.5,56.5,1.3847,49.5,7.0,,,,,,NO_EXACT_PIN_LINE,,,,,,7.0,4794672141,2026-11-14T20:52:04+00:00,7.0
-Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,total,Moins de 42.5,42.5,2.65,49.5,-7.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-7.0,4794672286,2026-11-14T20:52:04+00:00,7.0
-Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,total,Plus de 42.5,42.5,1.4348,49.5,7.0,,,,,,NO_EXACT_PIN_LINE,,,,,,7.0,4794672288,2026-11-14T20:52:04+00:00,7.0
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,total,Plus de 66.5,66.5,1.4348,73.5,7.0,,,,,,NO_EXACT_PIN_LINE,,,,,,7.0,4794667685,2026-11-14T20:52:04+00:00,7.0
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,total,Moins de 66.5,66.5,2.65,73.5,-7.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-7.0,4794667688,2026-11-14T20:52:04+00:00,7.0
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,total,Plus de 80.5,80.5,2.6,73.5,-7.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-7.0,4794667725,2026-11-14T20:52:04+00:00,7.0
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,total,Moins de 80.5,80.5,1.4546,73.5,7.0,,,,,,NO_EXACT_PIN_LINE,,,,,,7.0,4794667727,2026-11-14T20:52:04+00:00,7.0
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,total,Plus de 47.5,47.5,2.85,40.5,-7.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-7.0,4794674319,2026-11-14T20:52:04+00:00,7.0
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,total,Moins de 47.5,47.5,1.3847,40.5,7.0,,,,,,NO_EXACT_PIN_LINE,,,,,,7.0,4794674320,2026-11-14T20:52:04+00:00,7.0
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,total,Moins de 33.5,33.5,2.9,40.5,-7.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-7.0,4794674333,2026-11-14T20:52:04+00:00,7.0
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,total,Plus de 33.5,33.5,1.3637,40.5,7.0,,,,,,NO_EXACT_PIN_LINE,,,,,,7.0,4794674334,2026-11-14T20:52:04+00:00,7.0
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,total,Plus de 48.5,48.5,1.3847,55.0,6.5,,,,,,NO_EXACT_PIN_LINE,,,,,,6.5,4794668700,2026-11-14T20:52:04+00:00,6.5
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,total,Moins de 48.5,48.5,2.85,55.0,-6.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-6.5,4794668701,2026-11-14T20:52:04+00:00,6.5
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,total,Plus de 61.5,61.5,2.55,55.0,-6.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-6.5,4794668714,2026-11-14T20:52:04+00:00,6.5
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,total,Moins de 61.5,61.5,1.4762,55.0,6.5,,,,,,NO_EXACT_PIN_LINE,,,,,,6.5,4794668715,2026-11-14T20:52:04+00:00,6.5
-Wash State Cougars vs. COLORADO,Washington State Cougars vs Colorado State Rams,total,Plus de 71.5,71.5,2.65,65.0,-6.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-6.5,4794603833,2026-11-14T20:52:04+00:00,6.5
-Wash State Cougars vs. COLORADO,Washington State Cougars vs Colorado State Rams,total,Moins de 71.5,71.5,1.4348,65.0,6.5,,,,,,NO_EXACT_PIN_LINE,,,,,,6.5,4794603834,2026-11-14T20:52:04+00:00,6.5
-Wash State Cougars vs. COLORADO,Washington State Cougars vs Colorado State Rams,total,Moins de 58.5,58.5,2.65,65.0,-6.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-6.5,4794603859,2026-11-14T20:52:04+00:00,6.5
-Wash State Cougars vs. COLORADO,Washington State Cougars vs Colorado State Rams,total,Plus de 58.5,58.5,1.4348,65.0,6.5,,,,,,NO_EXACT_PIN_LINE,,,,,,6.5,4794603860,2026-11-14T20:52:04+00:00,6.5
-San Diego State Aztecs vs. Utah State Aggies,San Diego State Aztecs vs Utah State Aggies,total,Plus de 50.5,50.5,2.9,44.0,-6.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-6.5,4794603664,2026-11-14T20:52:04+00:00,6.5
-San Diego State Aztecs vs. Utah State Aggies,San Diego State Aztecs vs Utah State Aggies,total,Moins de 50.5,50.5,1.3637,44.0,6.5,,,,,,NO_EXACT_PIN_LINE,,,,,,6.5,4794603663,2026-11-14T20:52:04+00:00,6.5
-San Diego State Aztecs vs. Utah State Aggies,San Diego State Aztecs vs Utah State Aggies,total,Plus de 37.5,37.5,1.4546,44.0,6.5,,,,,,NO_EXACT_PIN_LINE,,,,,,6.5,4794603641,2026-11-14T20:52:04+00:00,6.5
-San Diego State Aztecs vs. Utah State Aggies,San Diego State Aztecs vs Utah State Aggies,total,Moins de 37.5,37.5,2.6,44.0,-6.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-6.5,4794603642,2026-11-14T20:52:04+00:00,6.5
-Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,total,Moins de 43.5,43.5,2.5,49.5,-6.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-6.0,4794672279,2026-11-14T20:52:04+00:00,6.0
-Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,total,Plus de 43.5,43.5,1.5,49.5,6.0,,,,,,NO_EXACT_PIN_LINE,,,,,,6.0,4794672282,2026-11-14T20:52:04+00:00,6.0
-Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,total,Moins de 55.5,55.5,1.4167,49.5,6.0,,,,,,NO_EXACT_PIN_LINE,,,,,,6.0,4794672156,2026-11-14T20:52:04+00:00,6.0
-Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,total,Plus de 55.5,55.5,2.7,49.5,-6.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-6.0,4794672161,2026-11-14T20:52:04+00:00,6.0
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,total,Plus de 79.5,79.5,2.5,73.5,-6.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-6.0,4794667696,2026-11-14T20:52:04+00:00,6.0
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,total,Moins de 79.5,79.5,1.5,73.5,6.0,,,,,,NO_EXACT_PIN_LINE,,,,,,6.0,4794667698,2026-11-14T20:52:04+00:00,6.0
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,total,Plus de 67.5,67.5,1.4546,73.5,6.0,,,,,,NO_EXACT_PIN_LINE,,,,,,6.0,4794667757,2026-11-14T20:52:04+00:00,6.0
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,total,Moins de 67.5,67.5,2.6,73.5,-6.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-6.0,4794667759,2026-11-14T20:52:04+00:00,6.0
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,total,Plus de 46.5,46.5,2.65,40.5,-6.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-6.0,4794674315,2026-11-14T20:52:04+00:00,6.0
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,total,Moins de 46.5,46.5,1.4348,40.5,6.0,,,,,,NO_EXACT_PIN_LINE,,,,,,6.0,4794674316,2026-11-14T20:52:04+00:00,6.0
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,total,Plus de 34.5,34.5,1.4167,40.5,6.0,,,,,,NO_EXACT_PIN_LINE,,,,,,6.0,4794674332,2026-11-14T20:52:04+00:00,6.0
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,total,Moins de 34.5,34.5,2.7,40.5,-6.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-6.0,4794674331,2026-11-14T20:52:04+00:00,6.0
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,total,Plus de 49.5,49.5,1.4348,55.0,5.5,,,,,,NO_EXACT_PIN_LINE,,,,,,5.5,4794668684,2026-11-14T20:52:04+00:00,5.5
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,total,Moins de 49.5,49.5,2.65,55.0,-5.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-5.5,4794668685,2026-11-14T20:52:04+00:00,5.5
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,total,Moins de 60.5,60.5,1.5455,55.0,5.5,,,,,,NO_EXACT_PIN_LINE,,,,,,5.5,4794668716,2026-11-14T20:52:04+00:00,5.5
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,total,Plus de 60.5,60.5,2.35,55.0,-5.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-5.5,4794668717,2026-11-14T20:52:04+00:00,5.5
-Wash State Cougars vs. COLORADO,Washington State Cougars vs Colorado State Rams,total,Moins de 70.5,70.5,1.4762,65.0,5.5,,,,,,NO_EXACT_PIN_LINE,,,,,,5.5,4794603841,2026-11-14T20:52:04+00:00,5.5
-Wash State Cougars vs. COLORADO,Washington State Cougars vs Colorado State Rams,total,Plus de 70.5,70.5,2.55,65.0,-5.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-5.5,4794603842,2026-11-14T20:52:04+00:00,5.5
-Wash State Cougars vs. COLORADO,Washington State Cougars vs Colorado State Rams,total,Plus de 59.5,59.5,1.5,65.0,5.5,,,,,,NO_EXACT_PIN_LINE,,,,,,5.5,4794603850,2026-11-14T20:52:04+00:00,5.5
-Wash State Cougars vs. COLORADO,Washington State Cougars vs Colorado State Rams,total,Moins de 59.5,59.5,2.5,65.0,-5.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-5.5,4794603849,2026-11-14T20:52:04+00:00,5.5
-San Diego State Aztecs vs. Utah State Aggies,San Diego State Aztecs vs Utah State Aggies,total,Plus de 38.5,38.5,1.5264,44.0,5.5,,,,,,NO_EXACT_PIN_LINE,,,,,,5.5,4794603651,2026-11-14T20:52:04+00:00,5.5
-San Diego State Aztecs vs. Utah State Aggies,San Diego State Aztecs vs Utah State Aggies,total,Moins de 38.5,38.5,2.4,44.0,-5.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-5.5,4794603652,2026-11-14T20:52:04+00:00,5.5
-San Diego State Aztecs vs. Utah State Aggies,San Diego State Aztecs vs Utah State Aggies,total,Moins de 49.5,49.5,1.4,44.0,5.5,,,,,,NO_EXACT_PIN_LINE,,,,,,5.5,4794603655,2026-11-14T20:52:04+00:00,5.5
-San Diego State Aztecs vs. Utah State Aggies,San Diego State Aztecs vs Utah State Aggies,total,Plus de 49.5,49.5,2.75,44.0,-5.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-5.5,4794603656,2026-11-14T20:52:04+00:00,5.5
-Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,total,Moins de 54.5,54.5,1.4762,49.5,5.0,,,,,,NO_EXACT_PIN_LINE,,,,,,5.0,4794672150,2026-11-14T20:52:04+00:00,5.0
-Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,total,Plus de 54.5,54.5,2.55,49.5,-5.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-5.0,4794672153,2026-11-14T20:52:04+00:00,5.0
-Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,total,Moins de 44.5,44.5,2.3,49.5,-5.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-5.0,4794672204,2026-11-14T20:52:04+00:00,5.0
-Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,total,Plus de 44.5,44.5,1.5556,49.5,5.0,,,,,,NO_EXACT_PIN_LINE,,,,,,5.0,4794672206,2026-11-14T20:52:04+00:00,5.0
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,total,Moins de 68.5,68.5,2.5,73.5,-5.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-5.0,4789512186,2026-11-14T20:52:04+00:00,5.0
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,total,Moins de 78.5,78.5,1.5556,73.5,5.0,,,,,,NO_EXACT_PIN_LINE,,,,,,5.0,4794667692,2026-11-14T20:52:04+00:00,5.0
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,total,Plus de 78.5,78.5,2.3,73.5,-5.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-5.0,4794667694,2026-11-14T20:52:04+00:00,5.0
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,total,Plus de 68.5,68.5,1.5,73.5,5.0,,,,,,NO_EXACT_PIN_LINE,,,,,,5.0,4789512187,2026-11-14T20:52:04+00:00,5.0
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,total,Plus de 45.5,45.5,2.55,40.5,-5.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-5.0,4794674317,2026-11-14T20:52:04+00:00,5.0
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,total,Moins de 45.5,45.5,1.4762,40.5,5.0,,,,,,NO_EXACT_PIN_LINE,,,,,,5.0,4794674318,2026-11-14T20:52:04+00:00,5.0
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,total,Moins de 35.5,35.5,2.55,40.5,-5.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-5.0,4794674337,2026-11-14T20:52:04+00:00,5.0
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,total,Plus de 35.5,35.5,1.4762,40.5,5.0,,,,,,NO_EXACT_PIN_LINE,,,,,,5.0,4794674338,2026-11-14T20:52:04+00:00,5.0
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,total,Plus de 59.5,59.5,2.3,55.0,-4.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-4.5,4794668686,2026-11-14T20:52:04+00:00,4.5
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,total,Moins de 59.5,59.5,1.5556,55.0,4.5,,,,,,NO_EXACT_PIN_LINE,,,,,,4.5,4794668687,2026-11-14T20:52:04+00:00,4.5
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,total,Plus de 50.5,50.5,1.4762,55.0,4.5,,,,,,NO_EXACT_PIN_LINE,,,,,,4.5,4794668722,2026-11-14T20:52:04+00:00,4.5
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,total,Moins de 50.5,50.5,2.55,55.0,-4.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-4.5,4794668723,2026-11-14T20:52:04+00:00,4.5
-Wash State Cougars vs. COLORADO,Washington State Cougars vs Colorado State Rams,total,Moins de 69.5,69.5,1.5,65.0,4.5,,,,,,NO_EXACT_PIN_LINE,,,,,,4.5,4794603851,2026-11-14T20:52:04+00:00,4.5
-Wash State Cougars vs. COLORADO,Washington State Cougars vs Colorado State Rams,total,Plus de 69.5,69.5,2.5,65.0,-4.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-4.5,4794603852,2026-11-14T20:52:04+00:00,4.5
-Wash State Cougars vs. COLORADO,Washington State Cougars vs Colorado State Rams,total,Plus de 60.5,60.5,1.5455,65.0,4.5,,,,,,NO_EXACT_PIN_LINE,,,,,,4.5,4794603856,2026-11-14T20:52:04+00:00,4.5
-Wash State Cougars vs. COLORADO,Washington State Cougars vs Colorado State Rams,total,Moins de 60.5,60.5,2.35,65.0,-4.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-4.5,4794603855,2026-11-14T20:52:04+00:00,4.5
-San Diego State Aztecs vs. Utah State Aggies,San Diego State Aztecs vs Utah State Aggies,total,Plus de 39.5,39.5,1.5455,44.0,4.5,,,,,,NO_EXACT_PIN_LINE,,,,,,4.5,4794603649,2026-11-14T20:52:04+00:00,4.5
-San Diego State Aztecs vs. Utah State Aggies,San Diego State Aztecs vs Utah State Aggies,total,Moins de 39.5,39.5,2.35,44.0,-4.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-4.5,4794603650,2026-11-14T20:52:04+00:00,4.5
-San Diego State Aztecs vs. Utah State Aggies,San Diego State Aztecs vs Utah State Aggies,total,Moins de 48.5,48.5,1.4546,44.0,4.5,,,,,,NO_EXACT_PIN_LINE,,,,,,4.5,4794603661,2026-11-14T20:52:04+00:00,4.5
-San Diego State Aztecs vs. Utah State Aggies,San Diego State Aztecs vs Utah State Aggies,total,Plus de 48.5,48.5,2.6,44.0,-4.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-4.5,4794603662,2026-11-14T20:52:04+00:00,4.5
-Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,total,Plus de 53.5,53.5,2.4,49.5,-4.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-4.0,4794672167,2026-11-14T20:52:04+00:00,4.0
-Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,total,Moins de 53.5,53.5,1.5264,49.5,4.0,,,,,,NO_EXACT_PIN_LINE,,,,,,4.0,4794672170,2026-11-14T20:52:04+00:00,4.0
-Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,total,Moins de 45.5,45.5,2.2,49.5,-4.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-4.0,4794672215,2026-11-14T20:52:04+00:00,4.0
-Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,total,Plus de 45.5,45.5,1.625,49.5,4.0,,,,,,NO_EXACT_PIN_LINE,,,,,,4.0,4794672217,2026-11-14T20:52:04+00:00,4.0
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,total,Plus de 77.5,77.5,2.2,73.5,-4.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-4.0,4794667700,2026-11-14T20:52:04+00:00,4.0
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,total,Moins de 77.5,77.5,1.625,73.5,4.0,,,,,,NO_EXACT_PIN_LINE,,,,,,4.0,4794667701,2026-11-14T20:52:04+00:00,4.0
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,total,Plus de 69.5,69.5,1.5715,73.5,4.0,,,,,,NO_EXACT_PIN_LINE,,,,,,4.0,4794667766,2026-11-14T20:52:04+00:00,4.0
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,total,Moins de 69.5,69.5,2.25,73.5,-4.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-4.0,4794667768,2026-11-14T20:52:04+00:00,4.0
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,total,Plus de 44.5,44.5,2.35,40.5,-4.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-4.0,4794674313,2026-11-14T20:52:04+00:00,4.0
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,total,Moins de 44.5,44.5,1.5455,40.5,4.0,,,,,,NO_EXACT_PIN_LINE,,,,,,4.0,4794674314,2026-11-14T20:52:04+00:00,4.0
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,total,Plus de 36.5,36.5,1.5,40.5,4.0,,,,,,NO_EXACT_PIN_LINE,,,,,,4.0,4794674336,2026-11-14T20:52:04+00:00,4.0
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,total,Moins de 36.5,36.5,2.5,40.5,-4.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-4.0,4794674335,2026-11-14T20:52:04+00:00,4.0
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,total,Plus de 58.5,58.5,2.15,55.0,-3.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-3.5,4794668702,2026-11-14T20:52:04+00:00,3.5
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,total,Moins de 58.5,58.5,1.6451,55.0,3.5,,,,,,NO_EXACT_PIN_LINE,,,,,,3.5,4794668703,2026-11-14T20:52:04+00:00,3.5
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,total,Plus de 51.5,51.5,1.5455,55.0,3.5,,,,,,NO_EXACT_PIN_LINE,,,,,,3.5,4776211791,2026-11-14T20:52:04+00:00,3.5
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,total,Moins de 51.5,51.5,2.35,55.0,-3.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-3.5,4776211792,2026-11-14T20:52:04+00:00,3.5
-Wash State Cougars vs. COLORADO,Washington State Cougars vs Colorado State Rams,total,Moins de 61.5,61.5,2.2,65.0,-3.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-3.5,4794603831,2026-11-14T20:52:04+00:00,3.5
-Wash State Cougars vs. COLORADO,Washington State Cougars vs Colorado State Rams,total,Plus de 61.5,61.5,1.625,65.0,3.5,,,,,,NO_EXACT_PIN_LINE,,,,,,3.5,4794603832,2026-11-14T20:52:04+00:00,3.5
-Wash State Cougars vs. COLORADO,Washington State Cougars vs Colorado State Rams,total,Plus de 68.5,68.5,2.25,65.0,-3.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-3.5,4794603858,2026-11-14T20:52:04+00:00,3.5
-Wash State Cougars vs. COLORADO,Washington State Cougars vs Colorado State Rams,total,Moins de 68.5,68.5,1.5715,65.0,3.5,,,,,,NO_EXACT_PIN_LINE,,,,,,3.5,4794603857,2026-11-14T20:52:04+00:00,3.5
-San Diego State Aztecs vs. Utah State Aggies,San Diego State Aztecs vs Utah State Aggies,total,Moins de 47.5,47.5,1.5264,44.0,3.5,,,,,,NO_EXACT_PIN_LINE,,,,,,3.5,4794603653,2026-11-14T20:52:04+00:00,3.5
-San Diego State Aztecs vs. Utah State Aggies,San Diego State Aztecs vs Utah State Aggies,total,Plus de 47.5,47.5,2.4,44.0,-3.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-3.5,4794603654,2026-11-14T20:52:04+00:00,3.5
-San Diego State Aztecs vs. Utah State Aggies,San Diego State Aztecs vs Utah State Aggies,total,Moins de 40.5,40.5,2.2,44.0,-3.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-3.5,4793546767,2026-11-14T20:52:04+00:00,3.5
-San Diego State Aztecs vs. Utah State Aggies,San Diego State Aztecs vs Utah State Aggies,total,Plus de 40.5,40.5,1.625,44.0,3.5,,,,,,NO_EXACT_PIN_LINE,,,,,,3.5,4793546768,2026-11-14T20:52:04+00:00,3.5
-Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,total,Moins de 46.5,46.5,2.1,49.5,-3.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-3.0,4794672256,2026-11-14T20:52:04+00:00,3.0
-Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,total,Plus de 46.5,46.5,1.6667,49.5,3.0,,,,,,NO_EXACT_PIN_LINE,,,,,,3.0,4794672258,2026-11-14T20:52:04+00:00,3.0
-Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,total,Plus de 52.5,52.5,2.3,49.5,-3.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-3.0,4794672164,2026-11-14T20:52:04+00:00,3.0
-Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,total,Moins de 52.5,52.5,1.5556,49.5,3.0,,,,,,NO_EXACT_PIN_LINE,,,,,,3.0,4794672162,2026-11-14T20:52:04+00:00,3.0
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,total,Plus de 76.5,76.5,2.1,73.5,-3.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-3.0,4794667690,2026-11-14T20:52:04+00:00,3.0
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,total,Moins de 76.5,76.5,1.6667,73.5,3.0,,,,,,NO_EXACT_PIN_LINE,,,,,,3.0,4794667691,2026-11-14T20:52:04+00:00,3.0
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,total,Plus de 70.5,70.5,1.625,73.5,3.0,,,,,,NO_EXACT_PIN_LINE,,,,,,3.0,4791025123,2026-11-14T20:52:04+00:00,3.0
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,total,Moins de 70.5,70.5,2.2,73.5,-3.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-3.0,4791025124,2026-11-14T20:52:04+00:00,3.0
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,total,Plus de 37.5,37.5,1.625,40.5,3.0,,,,,,NO_EXACT_PIN_LINE,,,,,,3.0,4794674340,2026-11-14T20:52:04+00:00,3.0
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,total,Moins de 37.5,37.5,2.2,40.5,-3.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-3.0,4794674339,2026-11-14T20:52:04+00:00,3.0
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,total,Moins de 43.5,43.5,1.625,40.5,3.0,,,,,,NO_EXACT_PIN_LINE,,,,,,3.0,4791185401,2026-11-14T20:52:04+00:00,3.0
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,total,Plus de 43.5,43.5,2.2,40.5,-3.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-3.0,4791185400,2026-11-14T20:52:04+00:00,3.0
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,total,Plus de 57.5,57.5,2.0,55.0,-2.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-2.5,4794668696,2026-11-14T20:52:04+00:00,2.5
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,total,Moins de 57.5,57.5,1.7143,55.0,2.5,,,,,,NO_EXACT_PIN_LINE,,,,,,2.5,4794668697,2026-11-14T20:52:04+00:00,2.5
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,total,Plus de 52.5,52.5,1.625,55.0,2.5,,,,,,NO_EXACT_PIN_LINE,,,,,,2.5,4788881829,2026-11-14T20:52:04+00:00,2.5
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,total,Moins de 52.5,52.5,2.2,55.0,-2.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-2.5,4788881830,2026-11-14T20:52:04+00:00,2.5
-Wash State Cougars vs. COLORADO,Washington State Cougars vs Colorado State Rams,total,Moins de 67.5,67.5,1.6451,65.0,2.5,,,,,,NO_EXACT_PIN_LINE,,,,,,2.5,4792735503,2026-11-14T20:52:04+00:00,2.5
-Wash State Cougars vs. COLORADO,Washington State Cougars vs Colorado State Rams,total,Plus de 67.5,67.5,2.15,65.0,-2.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-2.5,4792735504,2026-11-14T20:52:04+00:00,2.5
-Wash State Cougars vs. COLORADO,Washington State Cougars vs Colorado State Rams,total,Moins de 62.5,62.5,2.1,65.0,-2.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-2.5,4791307477,2026-11-14T20:52:04+00:00,2.5
-Wash State Cougars vs. COLORADO,Washington State Cougars vs Colorado State Rams,total,Plus de 62.5,62.5,1.6667,65.0,2.5,,,,,,NO_EXACT_PIN_LINE,,,,,,2.5,4791307478,2026-11-14T20:52:04+00:00,2.5
-San Diego State Aztecs vs. Utah State Aggies,San Diego State Aztecs vs Utah State Aggies,total,Moins de 46.5,46.5,1.5715,44.0,2.5,,,,,,NO_EXACT_PIN_LINE,,,,,,2.5,4794603657,2026-11-14T20:52:04+00:00,2.5
-San Diego State Aztecs vs. Utah State Aggies,San Diego State Aztecs vs Utah State Aggies,total,Plus de 46.5,46.5,2.25,44.0,-2.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-2.5,4794603658,2026-11-14T20:52:04+00:00,2.5
-San Diego State Aztecs vs. Utah State Aggies,San Diego State Aztecs vs Utah State Aggies,total,Moins de 41.5,41.5,2.0,44.0,-2.5,,,,,,NO_EXACT_PIN_LINE,,,,,,-2.5,4792506671,2026-11-14T20:52:04+00:00,2.5
-San Diego State Aztecs vs. Utah State Aggies,San Diego State Aztecs vs Utah State Aggies,total,Plus de 41.5,41.5,1.7143,44.0,2.5,,,,,,NO_EXACT_PIN_LINE,,,,,,2.5,4792506672,2026-11-14T20:52:04+00:00,2.5
-Montana Grizzlies vs. Idaho State Bengals,Montana Grizzlies vs Idaho State Bengals,total,Plus de 61.5,61.5,1.8334,63.5,2.0,,,,,,NO_EXACT_PIN_LINE,,,,,,2.0,4821789776,2026-11-14T20:52:04+00:00,2.0
-Montana Grizzlies vs. Idaho State Bengals,Montana Grizzlies vs Idaho State Bengals,total,Moins de 61.5,61.5,1.8334,63.5,-2.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-2.0,4821789775,2026-11-14T20:52:04+00:00,2.0
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,spread,2 (+14.5),14.5,1.1,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4796045519,2026-11-14T20:52:04+00:00,
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,spread,1 (+2.5),2.5,1.7693,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4788881827,2026-11-14T20:52:04+00:00,
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,spread,2 (-2.5),-2.5,1.9091,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4788881828,2026-11-14T20:52:04+00:00,
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,spread,2 (+13.5),13.5,1.125,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794668753,2026-11-14T20:52:04+00:00,
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,spread,1 (-12.5),-12.5,5.25,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794668728,2026-11-14T20:52:04+00:00,
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,spread,2 (+12.5),12.5,1.1334,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794668729,2026-11-14T20:52:04+00:00,
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,spread,2 (-17.5),-17.5,6.5,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794668730,2026-11-14T20:52:04+00:00,
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,spread,1 (+17.5),17.5,1.1,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794668731,2026-11-14T20:52:04+00:00,
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,spread,2 (-10.5),-10.5,3.7,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794668732,2026-11-14T20:52:04+00:00,
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,spread,1 (+10.5),10.5,1.25,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794668733,2026-11-14T20:52:04+00:00,
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,spread,2 (-11.5),-11.5,4.0,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794668734,2026-11-14T20:52:04+00:00,
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,spread,1 (+11.5),11.5,1.2223,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794668735,2026-11-14T20:52:04+00:00,
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,spread,2 (-12.5),-12.5,4.2,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794668736,2026-11-14T20:52:04+00:00,
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,spread,1 (+12.5),12.5,1.2,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794668737,2026-11-14T20:52:04+00:00,
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,spread,2 (-13.5),-13.5,4.4,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794668738,2026-11-14T20:52:04+00:00,
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,spread,1 (+13.5),13.5,1.1819,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794668739,2026-11-14T20:52:04+00:00,
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,spread,2 (-14.5),-14.5,5.25,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794668740,2026-11-14T20:52:04+00:00,
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,spread,1 (+14.5),14.5,1.1334,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794668741,2026-11-14T20:52:04+00:00,
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,spread,2 (+1.5),1.5,1.6667,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794668742,2026-11-14T20:52:04+00:00,
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,spread,1 (-1.5),-1.5,2.1,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794668743,2026-11-14T20:52:04+00:00,
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,spread,2 (-15.5),-15.5,5.5,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794668744,2026-11-14T20:52:04+00:00,
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,spread,1 (+15.5),15.5,1.125,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794668745,2026-11-14T20:52:04+00:00,
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,spread,2 (-16.5),-16.5,6.0,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794668746,2026-11-14T20:52:04+00:00,
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,spread,1 (+16.5),16.5,1.1112,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794668747,2026-11-14T20:52:04+00:00,
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,spread,1 (+1.5),1.5,1.8696,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4776211787,2026-11-14T20:52:04+00:00,
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,spread,2 (-1.5),-1.5,1.8,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4776211788,2026-11-14T20:52:04+00:00,
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,spread,1 (+7.5),7.5,1.3334,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794668750,2026-11-14T20:52:04+00:00,
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,spread,1 (-14.5),-14.5,6.5,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4796045518,2026-11-14T20:52:04+00:00,
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,spread,1 (-13.5),-13.5,5.5,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794668752,2026-11-14T20:52:04+00:00,
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,spread,2 (-7.5),-7.5,3.1,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794668751,2026-11-14T20:52:04+00:00,
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,spread,1 (-10.5),-10.5,4.5,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794668754,2026-11-14T20:52:04+00:00,
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,spread,2 (+10.5),10.5,1.1667,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794668755,2026-11-14T20:52:04+00:00,
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,spread,1 (-11.5),-11.5,5.0,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794668756,2026-11-14T20:52:04+00:00,
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,spread,2 (+11.5),11.5,1.1429,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794668757,2026-11-14T20:52:04+00:00,
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,spread,2 (+2.5),2.5,1.625,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794668758,2026-11-14T20:52:04+00:00,
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,spread,1 (-2.5),-2.5,2.2,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794668759,2026-11-14T20:52:04+00:00,
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,spread,1 (-3.5),-3.5,2.55,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794668760,2026-11-14T20:52:04+00:00,
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,spread,2 (+3.5),3.5,1.4762,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794668761,2026-11-14T20:52:04+00:00,
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,spread,2 (+4.5),4.5,1.4167,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794668762,2026-11-14T20:52:04+00:00,
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,spread,1 (-4.5),-4.5,2.7,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794668763,2026-11-14T20:52:04+00:00,
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,spread,2 (+5.5),5.5,1.3847,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794668764,2026-11-14T20:52:04+00:00,
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,spread,1 (-5.5),-5.5,2.85,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794668765,2026-11-14T20:52:04+00:00,
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,spread,2 (+6.5),6.5,1.3334,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794668766,2026-11-14T20:52:04+00:00,
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,spread,1 (-6.5),-6.5,3.1,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794668767,2026-11-14T20:52:04+00:00,
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,spread,2 (+7.5),7.5,1.25,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794668768,2026-11-14T20:52:04+00:00,
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,spread,1 (-7.5),-7.5,3.7,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794668769,2026-11-14T20:52:04+00:00,
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,spread,2 (+8.5),8.5,1.2223,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794668770,2026-11-14T20:52:04+00:00,
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,spread,1 (-8.5),-8.5,4.0,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794668771,2026-11-14T20:52:04+00:00,
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,spread,2 (+9.5),9.5,1.2223,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794668772,2026-11-14T20:52:04+00:00,
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,spread,1 (-9.5),-9.5,4.0,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794668773,2026-11-14T20:52:04+00:00,
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,spread,1 (+3.5),3.5,1.625,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794668774,2026-11-14T20:52:04+00:00,
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,spread,2 (-3.5),-3.5,2.2,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794668775,2026-11-14T20:52:04+00:00,
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,spread,1 (+4.5),4.5,1.5455,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794668776,2026-11-14T20:52:04+00:00,
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,spread,2 (-4.5),-4.5,2.35,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794668777,2026-11-14T20:52:04+00:00,
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,spread,1 (+5.5),5.5,1.5,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794668778,2026-11-14T20:52:04+00:00,
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,spread,2 (-5.5),-5.5,2.5,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794668779,2026-11-14T20:52:04+00:00,
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,spread,1 (+6.5),6.5,1.4546,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794668780,2026-11-14T20:52:04+00:00,
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,spread,2 (-6.5),-6.5,2.6,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794668781,2026-11-14T20:52:04+00:00,
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,spread,1 (+8.5),8.5,1.3031,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794668782,2026-11-14T20:52:04+00:00,
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,spread,2 (-8.5),-8.5,3.25,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794668783,2026-11-14T20:52:04+00:00,
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,spread,1 (+9.5),9.5,1.2858,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794668784,2026-11-14T20:52:04+00:00,
-Arizona Wildcats vs. Utah Utes,Arizona Wildcats vs Utah Utes,spread,2 (-9.5),-9.5,3.4,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794668785,2026-11-14T20:52:04+00:00,
-Wash State Cougars vs. COLORADO,Washington State Cougars vs Colorado State Rams,spread,1 (-18.5),-18.5,3.15,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794603904,2026-11-14T20:52:04+00:00,
-Wash State Cougars vs. COLORADO,Washington State Cougars vs Colorado State Rams,spread,1 (+1.5),1.5,1.2667,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794603905,2026-11-14T20:52:04+00:00,
-Wash State Cougars vs. COLORADO,Washington State Cougars vs Colorado State Rams,spread,2 (-1.5),-1.5,3.5,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794603906,2026-11-14T20:52:04+00:00,
-Wash State Cougars vs. COLORADO,Washington State Cougars vs Colorado State Rams,spread,2 (+14.5),14.5,1.4762,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794603907,2026-11-14T20:52:04+00:00,
-Wash State Cougars vs. COLORADO,Washington State Cougars vs Colorado State Rams,spread,1 (-14.5),-14.5,2.55,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794603908,2026-11-14T20:52:04+00:00,
-Wash State Cougars vs. COLORADO,Washington State Cougars vs Colorado State Rams,spread,2 (+17.5),17.5,1.3572,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794603909,2026-11-14T20:52:04+00:00,
-Wash State Cougars vs. COLORADO,Washington State Cougars vs Colorado State Rams,spread,1 (-17.5),-17.5,3.0,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794603910,2026-11-14T20:52:04+00:00,
-Wash State Cougars vs. COLORADO,Washington State Cougars vs Colorado State Rams,spread,2 (+15.5),15.5,1.4348,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794603911,2026-11-14T20:52:04+00:00,
-Wash State Cougars vs. COLORADO,Washington State Cougars vs Colorado State Rams,spread,1 (-15.5),-15.5,2.65,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794603912,2026-11-14T20:52:04+00:00,
-Wash State Cougars vs. COLORADO,Washington State Cougars vs Colorado State Rams,spread,2 (+10.5),10.5,1.6667,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794603913,2026-11-14T20:52:04+00:00,
-Wash State Cougars vs. COLORADO,Washington State Cougars vs Colorado State Rams,spread,1 (-10.5),-10.5,2.1,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794603914,2026-11-14T20:52:04+00:00,
-Wash State Cougars vs. COLORADO,Washington State Cougars vs Colorado State Rams,spread,2 (+12.5),12.5,1.5715,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794603915,2026-11-14T20:52:04+00:00,
-Wash State Cougars vs. COLORADO,Washington State Cougars vs Colorado State Rams,spread,1 (-12.5),-12.5,2.25,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794603916,2026-11-14T20:52:04+00:00,
-Wash State Cougars vs. COLORADO,Washington State Cougars vs Colorado State Rams,spread,1 (-13.5),-13.5,2.35,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794603917,2026-11-14T20:52:04+00:00,
-Wash State Cougars vs. COLORADO,Washington State Cougars vs Colorado State Rams,spread,2 (+13.5),13.5,1.5455,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794603918,2026-11-14T20:52:04+00:00,
-Wash State Cougars vs. COLORADO,Washington State Cougars vs Colorado State Rams,spread,2 (+19.5),19.5,1.2858,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794603919,2026-11-14T20:52:04+00:00,
-Wash State Cougars vs. COLORADO,Washington State Cougars vs Colorado State Rams,spread,1 (-19.5),-19.5,3.4,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794603920,2026-11-14T20:52:04+00:00,
-Wash State Cougars vs. COLORADO,Washington State Cougars vs Colorado State Rams,spread,2 (+4.5),4.5,2.35,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794603921,2026-11-14T20:52:04+00:00,
-Wash State Cougars vs. COLORADO,Washington State Cougars vs Colorado State Rams,spread,1 (-4.5),-4.5,1.5455,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794603922,2026-11-14T20:52:04+00:00,
-Wash State Cougars vs. COLORADO,Washington State Cougars vs Colorado State Rams,spread,2 (+3.5),3.5,2.5,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794603925,2026-11-14T20:52:04+00:00,
-Wash State Cougars vs. COLORADO,Washington State Cougars vs Colorado State Rams,spread,1 (-3.5),-3.5,1.5,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794603926,2026-11-14T20:52:04+00:00,
-Wash State Cougars vs. COLORADO,Washington State Cougars vs Colorado State Rams,spread,2 (+5.5),5.5,2.25,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794603927,2026-11-14T20:52:04+00:00,
-Wash State Cougars vs. COLORADO,Washington State Cougars vs Colorado State Rams,spread,1 (-5.5),-5.5,1.5715,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794603928,2026-11-14T20:52:04+00:00,
-Wash State Cougars vs. COLORADO,Washington State Cougars vs Colorado State Rams,spread,2 (+8.5),8.5,1.8334,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4792331807,2026-11-14T20:52:04+00:00,
-Wash State Cougars vs. COLORADO,Washington State Cougars vs Colorado State Rams,spread,1 (-8.5),-8.5,1.8334,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4792331808,2026-11-14T20:52:04+00:00,
-Wash State Cougars vs. COLORADO,Washington State Cougars vs Colorado State Rams,spread,1 (-7.5),-7.5,1.8,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4792124858,2026-11-14T20:52:04+00:00,
-Wash State Cougars vs. COLORADO,Washington State Cougars vs Colorado State Rams,spread,2 (+7.5),7.5,1.8696,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4792124859,2026-11-14T20:52:04+00:00,
-Wash State Cougars vs. COLORADO,Washington State Cougars vs Colorado State Rams,spread,2 (-2.5),-2.5,3.75,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4811592019,2026-11-14T20:52:04+00:00,
-Wash State Cougars vs. COLORADO,Washington State Cougars vs Colorado State Rams,spread,1 (+2.5),2.5,1.2353,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4811592020,2026-11-14T20:52:04+00:00,
-Wash State Cougars vs. COLORADO,Washington State Cougars vs Colorado State Rams,spread,2 (+9.5),9.5,1.7693,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4793223895,2026-11-14T20:52:04+00:00,
-Wash State Cougars vs. COLORADO,Washington State Cougars vs Colorado State Rams,spread,1 (-9.5),-9.5,1.9091,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4793223896,2026-11-14T20:52:04+00:00,
-Wash State Cougars vs. COLORADO,Washington State Cougars vs Colorado State Rams,spread,2 (+6.5),6.5,2.15,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4791307481,2026-11-14T20:52:04+00:00,
-Wash State Cougars vs. COLORADO,Washington State Cougars vs Colorado State Rams,spread,1 (-6.5),-6.5,1.6451,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4791307482,2026-11-14T20:52:04+00:00,
-Wash State Cougars vs. COLORADO,Washington State Cougars vs Colorado State Rams,spread,2 (+11.5),11.5,1.6451,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794603895,2026-11-14T20:52:04+00:00,
-Wash State Cougars vs. COLORADO,Washington State Cougars vs Colorado State Rams,spread,1 (-11.5),-11.5,2.15,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794603896,2026-11-14T20:52:04+00:00,
-Wash State Cougars vs. COLORADO,Washington State Cougars vs Colorado State Rams,spread,1 (-2.5),-2.5,1.3637,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794603897,2026-11-14T20:52:04+00:00,
-Wash State Cougars vs. COLORADO,Washington State Cougars vs Colorado State Rams,spread,2 (+2.5),2.5,2.9,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794603898,2026-11-14T20:52:04+00:00,
-Wash State Cougars vs. COLORADO,Washington State Cougars vs Colorado State Rams,spread,1 (-16.5),-16.5,2.7,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794603899,2026-11-14T20:52:04+00:00,
-Wash State Cougars vs. COLORADO,Washington State Cougars vs Colorado State Rams,spread,2 (+16.5),16.5,1.4167,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794603900,2026-11-14T20:52:04+00:00,
-Wash State Cougars vs. COLORADO,Washington State Cougars vs Colorado State Rams,spread,1 (-1.5),-1.5,1.3334,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794603901,2026-11-14T20:52:04+00:00,
-Wash State Cougars vs. COLORADO,Washington State Cougars vs Colorado State Rams,spread,2 (+1.5),1.5,3.1,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794603902,2026-11-14T20:52:04+00:00,
-Wash State Cougars vs. COLORADO,Washington State Cougars vs Colorado State Rams,spread,2 (+18.5),18.5,1.3226,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794603903,2026-11-14T20:52:04+00:00,
-Montana Grizzlies vs. Idaho State Bengals,Montana Grizzlies vs Idaho State Bengals,spread,1 (-7.5),-7.5,1.8,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4815287956,2026-11-14T20:52:04+00:00,
-Montana Grizzlies vs. Idaho State Bengals,Montana Grizzlies vs Idaho State Bengals,spread,2 (+7.5),7.5,1.8696,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4815287957,2026-11-14T20:52:04+00:00,
-Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,spread,2 (+2.5),2.5,1.9091,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794672000,2026-11-14T20:52:04+00:00,
-Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,spread,1 (-2.5),-2.5,1.7693,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794672001,2026-11-14T20:52:04+00:00,
-Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,spread,2 (+4.5),4.5,1.625,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794672002,2026-11-14T20:52:04+00:00,
-Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,spread,1 (-15.5),-15.5,5.25,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4805309699,2026-11-14T20:52:04+00:00,
-Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,spread,1 (-4.5),-4.5,2.2,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794672004,2026-11-14T20:52:04+00:00,
-Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,spread,2 (+15.5),15.5,1.1334,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4805309700,2026-11-14T20:52:04+00:00,
-Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,spread,2 (-7.5),-7.5,4.2,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794672006,2026-11-14T20:52:04+00:00,
-Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,spread,1 (+7.5),7.5,1.2,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794672008,2026-11-14T20:52:04+00:00,
-Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,spread,2 (+12.5),12.5,1.2223,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794672014,2026-11-14T20:52:04+00:00,
-Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,spread,1 (-12.5),-12.5,4.0,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794672015,2026-11-14T20:52:04+00:00,
-Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,spread,2 (-10.5),-10.5,5.0,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794672018,2026-11-14T20:52:04+00:00,
-Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,spread,1 (+10.5),10.5,1.1429,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794672022,2026-11-14T20:52:04+00:00,
-Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,spread,2 (-9.5),-9.5,4.5,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794672050,2026-11-14T20:52:04+00:00,
-Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,spread,1 (+9.5),9.5,1.1667,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794672054,2026-11-14T20:52:04+00:00,
-Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,spread,1 (+1.5),1.5,1.5556,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4792353976,2026-11-14T20:52:04+00:00,
-Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,spread,2 (-1.5),-1.5,2.3,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4792353977,2026-11-14T20:52:04+00:00,
-Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,spread,1 (+3.5),3.5,1.3847,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794672058,2026-11-14T20:52:04+00:00,
-Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,spread,2 (-3.5),-3.5,2.85,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794672061,2026-11-14T20:52:04+00:00,
-Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,spread,1 (+2.5),2.5,1.5,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4788935488,2026-11-14T20:52:04+00:00,
-Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,spread,2 (-5.5),-5.5,3.25,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794672065,2026-11-14T20:52:04+00:00,
-Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,spread,2 (-2.5),-2.5,2.5,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4788935489,2026-11-14T20:52:04+00:00,
-Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,spread,1 (+5.5),5.5,1.3031,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794672068,2026-11-14T20:52:04+00:00,
-Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,spread,2 (+13.5),13.5,1.1819,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794672071,2026-11-14T20:52:04+00:00,
-Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,spread,1 (-13.5),-13.5,4.4,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794672075,2026-11-14T20:52:04+00:00,
-Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,spread,2 (+11.5),11.5,1.2353,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794672077,2026-11-14T20:52:04+00:00,
-Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,spread,1 (-11.5),-11.5,3.75,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794672080,2026-11-14T20:52:04+00:00,
-Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,spread,2 (+6.5),6.5,1.4762,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794671953,2026-11-14T20:52:04+00:00,
-Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,spread,1 (-6.5),-6.5,2.55,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794671954,2026-11-14T20:52:04+00:00,
-Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,spread,1 (-14.5),-14.5,5.0,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794671955,2026-11-14T20:52:04+00:00,
-Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,spread,2 (+10.5),10.5,1.25,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794672084,2026-11-14T20:52:04+00:00,
-Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,spread,2 (+14.5),14.5,1.1429,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794671956,2026-11-14T20:52:04+00:00,
-Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,spread,1 (-10.5),-10.5,3.7,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794672087,2026-11-14T20:52:04+00:00,
-Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,spread,2 (-6.5),-6.5,3.5,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794671962,2026-11-14T20:52:04+00:00,
-Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,spread,1 (+6.5),6.5,1.2667,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794671963,2026-11-14T20:52:04+00:00,
-Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,spread,2 (+7.5),7.5,1.3637,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794671965,2026-11-14T20:52:04+00:00,
-Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,spread,1 (-7.5),-7.5,2.9,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794671967,2026-11-14T20:52:04+00:00,
-Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,spread,2 (-8.5),-8.5,4.4,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794671968,2026-11-14T20:52:04+00:00,
-Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,spread,1 (+8.5),8.5,1.1819,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794671970,2026-11-14T20:52:04+00:00,
-Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,spread,2 (+5.5),5.5,1.5455,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794671975,2026-11-14T20:52:04+00:00,
-Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,spread,1 (-5.5),-5.5,2.35,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794671977,2026-11-14T20:52:04+00:00,
-Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,spread,1 (+4.5),4.5,1.3334,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794671979,2026-11-14T20:52:04+00:00,
-Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,spread,2 (-4.5),-4.5,3.1,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794671981,2026-11-14T20:52:04+00:00,
-Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,spread,2 (+9.5),9.5,1.3125,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794671983,2026-11-14T20:52:04+00:00,
-Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,spread,1 (-9.5),-9.5,3.2,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794671985,2026-11-14T20:52:04+00:00,
-Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,spread,2 (+8.5),8.5,1.3334,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794671988,2026-11-14T20:52:04+00:00,
-Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,spread,1 (-8.5),-8.5,3.1,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794671990,2026-11-14T20:52:04+00:00,
-Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,spread,2 (+1.5),1.5,2.05,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794671992,2026-11-14T20:52:04+00:00,
-Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,spread,1 (-1.5),-1.5,1.6897,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794671994,2026-11-14T20:52:04+00:00,
-Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,spread,2 (+3.5),3.5,1.6667,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794671996,2026-11-14T20:52:04+00:00,
-Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,spread,1 (-3.5),-3.5,2.1,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794671998,2026-11-14T20:52:04+00:00,
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,spread,1 (-18.5),-18.5,5.0,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794667780,2026-11-14T20:52:04+00:00,
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,spread,2 (+18.5),18.5,1.1429,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794667782,2026-11-14T20:52:04+00:00,
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,spread,2 (+7.5),7.5,1.5,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794667784,2026-11-14T20:52:04+00:00,
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,spread,1 (-7.5),-7.5,2.5,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794667786,2026-11-14T20:52:04+00:00,
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,spread,1 (-14.5),-14.5,3.75,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794667789,2026-11-14T20:52:04+00:00,
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,spread,2 (+14.5),14.5,1.2353,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794667791,2026-11-14T20:52:04+00:00,
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,spread,1 (-11.5),-11.5,3.1,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794667794,2026-11-14T20:52:04+00:00,
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,spread,2 (+11.5),11.5,1.3334,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794667796,2026-11-14T20:52:04+00:00,
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,spread,1 (-10.5),-10.5,2.9,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794667798,2026-11-14T20:52:04+00:00,
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,spread,2 (+10.5),10.5,1.3637,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794667800,2026-11-14T20:52:04+00:00,
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,spread,1 (-13.5),-13.5,3.4,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794667802,2026-11-14T20:52:04+00:00,
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,spread,2 (+13.5),13.5,1.2858,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794667803,2026-11-14T20:52:04+00:00,
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,spread,2 (+12.5),12.5,1.3125,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794667805,2026-11-14T20:52:04+00:00,
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,spread,1 (-12.5),-12.5,3.2,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794667807,2026-11-14T20:52:04+00:00,
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,spread,1 (-15.5),-15.5,4.0,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794667809,2026-11-14T20:52:04+00:00,
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,spread,2 (+15.5),15.5,1.2223,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794667811,2026-11-14T20:52:04+00:00,
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,spread,2 (+17.5),17.5,1.1539,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794667813,2026-11-14T20:52:04+00:00,
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,spread,1 (-17.5),-17.5,4.75,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794667815,2026-11-14T20:52:04+00:00,
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,spread,1 (-16.5),-16.5,4.2,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794667816,2026-11-14T20:52:04+00:00,
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,spread,2 (+16.5),16.5,1.2,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794667817,2026-11-14T20:52:04+00:00,
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,spread,1 (-19.5),-19.5,5.5,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794667818,2026-11-14T20:52:04+00:00,
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,spread,2 (+19.5),19.5,1.125,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794667819,2026-11-14T20:52:04+00:00,
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,spread,2 (-6.5),-6.5,4.0,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794667820,2026-11-14T20:52:04+00:00,
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,spread,1 (+6.5),6.5,1.2223,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794667821,2026-11-14T20:52:04+00:00,
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,spread,1 (+11.5),11.5,1.0834,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794667822,2026-11-14T20:52:04+00:00,
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,spread,2 (-11.5),-11.5,7.0,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794667823,2026-11-14T20:52:04+00:00,
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,spread,1 (+10.5),10.5,1.1,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794667824,2026-11-14T20:52:04+00:00,
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,spread,2 (-10.5),-10.5,6.5,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794667825,2026-11-14T20:52:04+00:00,
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,spread,1 (+3.5),3.5,1.3031,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794667828,2026-11-14T20:52:04+00:00,
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,spread,2 (-3.5),-3.5,3.25,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794667829,2026-11-14T20:52:04+00:00,
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,spread,1 (+2.5),2.5,1.4,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794667830,2026-11-14T20:52:04+00:00,
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,spread,2 (-2.5),-2.5,2.75,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794667831,2026-11-14T20:52:04+00:00,
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,spread,2 (-5.5),-5.5,3.75,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794667832,2026-11-14T20:52:04+00:00,
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,spread,1 (+5.5),5.5,1.2353,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794667833,2026-11-14T20:52:04+00:00,
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,spread,2 (-4.5),-4.5,3.5,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794667834,2026-11-14T20:52:04+00:00,
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,spread,1 (+4.5),4.5,1.2667,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794667835,2026-11-14T20:52:04+00:00,
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,spread,1 (+7.5),7.5,1.1429,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794667836,2026-11-14T20:52:04+00:00,
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,spread,2 (-7.5),-7.5,5.0,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794667837,2026-11-14T20:52:04+00:00,
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,spread,1 (-4.0),-4.0,1.8334,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4822585918,2026-11-14T20:52:04+00:00,
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,spread,1 (+9.5),9.5,1.125,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794667838,2026-11-14T20:52:04+00:00,
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,spread,2 (-9.5),-9.5,5.5,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794667839,2026-11-14T20:52:04+00:00,
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,spread,1 (+8.5),8.5,1.1334,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794667841,2026-11-14T20:52:04+00:00,
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,spread,2 (-8.5),-8.5,5.25,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794667840,2026-11-14T20:52:04+00:00,
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,spread,1 (-1.5),-1.5,1.5455,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794667843,2026-11-14T20:52:04+00:00,
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,spread,2 (+1.5),1.5,2.35,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794667842,2026-11-14T20:52:04+00:00,
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,spread,1 (-5.5),-5.5,2.0,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794667845,2026-11-14T20:52:04+00:00,
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,spread,2 (+4.0),4.0,1.8334,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4822585917,2026-11-14T20:52:04+00:00,
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,spread,1 (-4.5),-4.5,1.8696,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794667847,2026-11-14T20:52:04+00:00,
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,spread,2 (+4.5),4.5,1.8,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794667846,2026-11-14T20:52:04+00:00,
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,spread,1 (-6.5),-6.5,2.1,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794667849,2026-11-14T20:52:04+00:00,
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,spread,2 (+5.5),5.5,1.7143,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794667844,2026-11-14T20:52:04+00:00,
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,spread,1 (-9.5),-9.5,2.65,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794667851,2026-11-14T20:52:04+00:00,
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,spread,2 (+6.5),6.5,1.6667,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794667848,2026-11-14T20:52:04+00:00,
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,spread,1 (-8.5),-8.5,2.55,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794667853,2026-11-14T20:52:04+00:00,
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,spread,2 (+8.5),8.5,1.4762,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794667852,2026-11-14T20:52:04+00:00,
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,spread,2 (+9.5),9.5,1.4348,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794667850,2026-11-14T20:52:04+00:00,
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,spread,2 (+3.5),3.5,1.9091,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4792295128,2026-11-14T20:52:04+00:00,
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,spread,1 (-3.5),-3.5,1.7693,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4792295129,2026-11-14T20:52:04+00:00,
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,spread,1 (+1.5),1.5,1.4546,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4776210281,2026-11-14T20:52:04+00:00,
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,spread,2 (-1.5),-1.5,2.6,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4776210282,2026-11-14T20:52:04+00:00,
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,spread,2 (+2.5),2.5,2.2,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4789512184,2026-11-14T20:52:04+00:00,
-Oklahoma St Cowboys vs. Texas Tech Red Raiders,Oklahoma State Cowboys vs Texas Tech Red Raiders,spread,1 (-2.5),-2.5,1.625,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4789512185,2026-11-14T20:52:04+00:00,
-San Diego State Aztecs vs. Utah State Aggies,San Diego State Aztecs vs Utah State Aggies,spread,2 (-13.5),-13.5,3.75,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4795495680,2026-11-14T20:52:04+00:00,
-San Diego State Aztecs vs. Utah State Aggies,San Diego State Aztecs vs Utah State Aggies,spread,2 (-1.5),-1.5,1.6897,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4792990118,2026-11-14T20:52:04+00:00,
-San Diego State Aztecs vs. Utah State Aggies,San Diego State Aztecs vs Utah State Aggies,spread,1 (+1.5),1.5,2.05,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4792990119,2026-11-14T20:52:04+00:00,
-San Diego State Aztecs vs. Utah State Aggies,San Diego State Aztecs vs Utah State Aggies,spread,2 (-3.0),-3.0,1.8696,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4820318786,2026-11-14T20:52:04+00:00,
-San Diego State Aztecs vs. Utah State Aggies,San Diego State Aztecs vs Utah State Aggies,spread,1 (+3.0),3.0,1.8,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4820318787,2026-11-14T20:52:04+00:00,
-San Diego State Aztecs vs. Utah State Aggies,San Diego State Aztecs vs Utah State Aggies,spread,2 (-8.5),-8.5,2.85,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794603597,2026-11-14T20:52:04+00:00,
-San Diego State Aztecs vs. Utah State Aggies,San Diego State Aztecs vs Utah State Aggies,spread,1 (+8.5),8.5,1.3847,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794603598,2026-11-14T20:52:04+00:00,
-San Diego State Aztecs vs. Utah State Aggies,San Diego State Aztecs vs Utah State Aggies,spread,2 (-7.5),-7.5,2.7,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794603599,2026-11-14T20:52:04+00:00,
-San Diego State Aztecs vs. Utah State Aggies,San Diego State Aztecs vs Utah State Aggies,spread,1 (+7.5),7.5,1.4167,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794603600,2026-11-14T20:52:04+00:00,
-San Diego State Aztecs vs. Utah State Aggies,San Diego State Aztecs vs Utah State Aggies,spread,2 (-4.5),-4.5,2.15,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794603601,2026-11-14T20:52:04+00:00,
-San Diego State Aztecs vs. Utah State Aggies,San Diego State Aztecs vs Utah State Aggies,spread,1 (+4.5),4.5,1.6451,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794603602,2026-11-14T20:52:04+00:00,
-San Diego State Aztecs vs. Utah State Aggies,San Diego State Aztecs vs Utah State Aggies,spread,1 (-1.5),-1.5,2.25,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794603603,2026-11-14T20:52:04+00:00,
-San Diego State Aztecs vs. Utah State Aggies,San Diego State Aztecs vs Utah State Aggies,spread,2 (+1.5),1.5,1.5715,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794603604,2026-11-14T20:52:04+00:00,
-San Diego State Aztecs vs. Utah State Aggies,San Diego State Aztecs vs Utah State Aggies,spread,2 (-3.5),-3.5,2.05,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794603605,2026-11-14T20:52:04+00:00,
-San Diego State Aztecs vs. Utah State Aggies,San Diego State Aztecs vs Utah State Aggies,spread,1 (+3.5),3.5,1.6897,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794603606,2026-11-14T20:52:04+00:00,
-San Diego State Aztecs vs. Utah State Aggies,San Diego State Aztecs vs Utah State Aggies,spread,2 (-5.5),-5.5,2.25,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794603607,2026-11-14T20:52:04+00:00,
-San Diego State Aztecs vs. Utah State Aggies,San Diego State Aztecs vs Utah State Aggies,spread,1 (+5.5),5.5,1.5715,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794603608,2026-11-14T20:52:04+00:00,
-San Diego State Aztecs vs. Utah State Aggies,San Diego State Aztecs vs Utah State Aggies,spread,2 (-6.5),-6.5,2.4,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794603609,2026-11-14T20:52:04+00:00,
-San Diego State Aztecs vs. Utah State Aggies,San Diego State Aztecs vs Utah State Aggies,spread,1 (+6.5),6.5,1.5264,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794603610,2026-11-14T20:52:04+00:00,
-San Diego State Aztecs vs. Utah State Aggies,San Diego State Aztecs vs Utah State Aggies,spread,2 (-9.5),-9.5,3.0,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794603611,2026-11-14T20:52:04+00:00,
-San Diego State Aztecs vs. Utah State Aggies,San Diego State Aztecs vs Utah State Aggies,spread,1 (+9.5),9.5,1.3572,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794603612,2026-11-14T20:52:04+00:00,
-San Diego State Aztecs vs. Utah State Aggies,San Diego State Aztecs vs Utah State Aggies,spread,2 (-11.5),-11.5,3.5,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794603613,2026-11-14T20:52:04+00:00,
-San Diego State Aztecs vs. Utah State Aggies,San Diego State Aztecs vs Utah State Aggies,spread,1 (+11.5),11.5,1.2667,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794603614,2026-11-14T20:52:04+00:00,
-San Diego State Aztecs vs. Utah State Aggies,San Diego State Aztecs vs Utah State Aggies,spread,1 (-7.5),-7.5,3.75,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794603615,2026-11-14T20:52:04+00:00,
-San Diego State Aztecs vs. Utah State Aggies,San Diego State Aztecs vs Utah State Aggies,spread,2 (+7.5),7.5,1.2353,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794603616,2026-11-14T20:52:04+00:00,
-San Diego State Aztecs vs. Utah State Aggies,San Diego State Aztecs vs Utah State Aggies,spread,1 (-3.5),-3.5,2.7,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794603617,2026-11-14T20:52:04+00:00,
-San Diego State Aztecs vs. Utah State Aggies,San Diego State Aztecs vs Utah State Aggies,spread,1 (+2.5),2.5,1.9091,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4791307490,2026-11-14T20:52:04+00:00,
-San Diego State Aztecs vs. Utah State Aggies,San Diego State Aztecs vs Utah State Aggies,spread,1 (-2.5),-2.5,2.4,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794603619,2026-11-14T20:52:04+00:00,
-San Diego State Aztecs vs. Utah State Aggies,San Diego State Aztecs vs Utah State Aggies,spread,2 (-2.5),-2.5,1.7693,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4791307489,2026-11-14T20:52:04+00:00,
-San Diego State Aztecs vs. Utah State Aggies,San Diego State Aztecs vs Utah State Aggies,spread,1 (-5.5),-5.5,3.1,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794603621,2026-11-14T20:52:04+00:00,
-San Diego State Aztecs vs. Utah State Aggies,San Diego State Aztecs vs Utah State Aggies,spread,2 (+2.5),2.5,1.5264,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794603620,2026-11-14T20:52:04+00:00,
-San Diego State Aztecs vs. Utah State Aggies,San Diego State Aztecs vs Utah State Aggies,spread,1 (-6.5),-6.5,3.25,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794603623,2026-11-14T20:52:04+00:00,
-San Diego State Aztecs vs. Utah State Aggies,San Diego State Aztecs vs Utah State Aggies,spread,2 (+3.5),3.5,1.4167,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794603618,2026-11-14T20:52:04+00:00,
-San Diego State Aztecs vs. Utah State Aggies,San Diego State Aztecs vs Utah State Aggies,spread,1 (-4.5),-4.5,2.85,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794603625,2026-11-14T20:52:04+00:00,
-San Diego State Aztecs vs. Utah State Aggies,San Diego State Aztecs vs Utah State Aggies,spread,2 (+4.5),4.5,1.3847,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794603626,2026-11-14T20:52:04+00:00,
-San Diego State Aztecs vs. Utah State Aggies,San Diego State Aztecs vs Utah State Aggies,spread,2 (+5.5),5.5,1.3334,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794603622,2026-11-14T20:52:04+00:00,
-San Diego State Aztecs vs. Utah State Aggies,San Diego State Aztecs vs Utah State Aggies,spread,2 (+6.5),6.5,1.3031,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794603624,2026-11-14T20:52:04+00:00,
-San Diego State Aztecs vs. Utah State Aggies,San Diego State Aztecs vs Utah State Aggies,spread,1 (+10.5),10.5,1.3031,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794603631,2026-11-14T20:52:04+00:00,
-San Diego State Aztecs vs. Utah State Aggies,San Diego State Aztecs vs Utah State Aggies,spread,2 (-10.5),-10.5,3.25,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794603632,2026-11-14T20:52:04+00:00,
-San Diego State Aztecs vs. Utah State Aggies,San Diego State Aztecs vs Utah State Aggies,spread,1 (+12.5),12.5,1.25,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794603633,2026-11-14T20:52:04+00:00,
-San Diego State Aztecs vs. Utah State Aggies,San Diego State Aztecs vs Utah State Aggies,spread,2 (-12.5),-12.5,3.7,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794603634,2026-11-14T20:52:04+00:00,
-San Diego State Aztecs vs. Utah State Aggies,San Diego State Aztecs vs Utah State Aggies,spread,1 (+13.5),13.5,1.2353,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4795495679,2026-11-14T20:52:04+00:00,
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,spread,1 (+17.5),17.5,1.2353,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794674176,2026-11-14T20:52:04+00:00,
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,spread,2 (-17.5),-17.5,3.75,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794674178,2026-11-14T20:52:04+00:00,
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,spread,1 (+15.5),15.5,1.3125,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794674180,2026-11-14T20:52:04+00:00,
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,spread,2 (-15.5),-15.5,3.2,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794674182,2026-11-14T20:52:04+00:00,
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,spread,2 (-16.5),-16.5,3.4,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794674188,2026-11-14T20:52:04+00:00,
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,spread,1 (+16.5),16.5,1.2858,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794674190,2026-11-14T20:52:04+00:00,
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,spread,1 (+13.5),13.5,1.3847,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794674192,2026-11-14T20:52:04+00:00,
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,spread,2 (-13.5),-13.5,2.85,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794674193,2026-11-14T20:52:04+00:00,
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,spread,1 (+14.5),14.5,1.3334,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794674194,2026-11-14T20:52:04+00:00,
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,spread,2 (-14.5),-14.5,3.1,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794674195,2026-11-14T20:52:04+00:00,
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,spread,1 (+11.5),11.5,1.4762,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794674196,2026-11-14T20:52:04+00:00,
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,spread,2 (-11.5),-11.5,2.55,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794674197,2026-11-14T20:52:04+00:00,
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,spread,1 (+12.5),12.5,1.4348,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794674198,2026-11-14T20:52:04+00:00,
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,spread,2 (-12.5),-12.5,2.65,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794674199,2026-11-14T20:52:04+00:00,
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,spread,1 (+10.5),10.5,1.5264,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794674200,2026-11-14T20:52:04+00:00,
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,spread,2 (-10.5),-10.5,2.4,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794674201,2026-11-14T20:52:04+00:00,
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,spread,1 (+19.5),19.5,1.1819,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794674202,2026-11-14T20:52:04+00:00,
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,spread,1 (-8.5),-8.5,7.0,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4796292634,2026-11-14T20:52:04+00:00,
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,spread,1 (+18.5),18.5,1.2,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794674204,2026-11-14T20:52:04+00:00,
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,spread,2 (-19.5),-19.5,4.4,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794674203,2026-11-14T20:52:04+00:00,
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,spread,1 (+6.5),6.5,1.9091,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794674206,2026-11-14T20:52:04+00:00,
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,spread,2 (-18.5),-18.5,4.2,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794674205,2026-11-14T20:52:04+00:00,
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,spread,2 (-21.5),-21.5,5.5,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794674208,2026-11-14T20:52:04+00:00,
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,spread,1 (+21.5),21.5,1.125,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794674209,2026-11-14T20:52:04+00:00,
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,spread,2 (-22.5),-22.5,6.0,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794674210,2026-11-14T20:52:04+00:00,
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,spread,1 (+22.5),22.5,1.1112,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794674211,2026-11-14T20:52:04+00:00,
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,spread,1 (+7.5),7.5,1.7143,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794674212,2026-11-14T20:52:04+00:00,
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,spread,2 (-7.5),-7.5,2.0,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794674213,2026-11-14T20:52:04+00:00,
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,spread,1 (+5.5),5.5,2.05,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794674214,2026-11-14T20:52:04+00:00,
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,spread,2 (-6.5),-6.5,1.7693,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794674207,2026-11-14T20:52:04+00:00,
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,spread,2 (-5.5),-5.5,1.6897,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794674215,2026-11-14T20:52:04+00:00,
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,spread,1 (+3.5),3.5,2.3,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794674217,2026-11-14T20:52:04+00:00,
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,spread,2 (-3.5),-3.5,1.5556,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794674216,2026-11-14T20:52:04+00:00,
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,spread,1 (+1.5),1.5,2.9,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794674219,2026-11-14T20:52:04+00:00,
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,spread,1 (+4.5),4.5,2.2,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794674220,2026-11-14T20:52:04+00:00,
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,spread,2 (-4.5),-4.5,1.625,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794674221,2026-11-14T20:52:04+00:00,
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,spread,1 (-6.5),-6.5,5.5,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794674222,2026-11-14T20:52:04+00:00,
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,spread,2 (-1.5),-1.5,1.3637,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794674218,2026-11-14T20:52:04+00:00,
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,spread,2 (-2.5),-2.5,1.4167,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794674224,2026-11-14T20:52:04+00:00,
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,spread,1 (+9.5),9.5,1.625,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4791694641,2026-11-14T20:52:04+00:00,
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,spread,1 (+2.5),2.5,2.7,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794674225,2026-11-14T20:52:04+00:00,
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,spread,1 (+20.5),20.5,1.1539,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794674227,2026-11-14T20:52:04+00:00,
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,spread,1 (+7.0),7.0,1.8,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4817196724,2026-11-14T20:52:04+00:00,
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,spread,2 (-20.5),-20.5,4.75,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794674226,2026-11-14T20:52:04+00:00,
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,spread,2 (-9.5),-9.5,2.2,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4791694642,2026-11-14T20:52:04+00:00,
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,spread,1 (-7.5),-7.5,6.5,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4795449271,2026-11-14T20:52:04+00:00,
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,spread,2 (-7.0),-7.0,1.8696,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4817196725,2026-11-14T20:52:04+00:00,
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,spread,2 (+7.5),7.5,1.1,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4795449270,2026-11-14T20:52:04+00:00,
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,spread,1 (-2.5),-2.5,3.5,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794674234,2026-11-14T20:52:04+00:00,
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,spread,2 (+2.5),2.5,1.2667,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794674235,2026-11-14T20:52:04+00:00,
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,spread,2 (+1.5),1.5,1.3031,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794674236,2026-11-14T20:52:04+00:00,
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,spread,1 (-1.5),-1.5,3.25,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794674237,2026-11-14T20:52:04+00:00,
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,spread,1 (-4.5),-4.5,4.5,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794674238,2026-11-14T20:52:04+00:00,
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,spread,2 (+4.5),4.5,1.1667,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794674239,2026-11-14T20:52:04+00:00,
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,spread,1 (-3.5),-3.5,4.2,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794674240,2026-11-14T20:52:04+00:00,
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,spread,2 (+3.5),3.5,1.2,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794674241,2026-11-14T20:52:04+00:00,
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,spread,1 (-5.5),-5.5,5.0,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794674242,2026-11-14T20:52:04+00:00,
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,spread,2 (+5.5),5.5,1.1429,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794674243,2026-11-14T20:52:04+00:00,
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,spread,2 (+6.5),6.5,1.125,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794674223,2026-11-14T20:52:04+00:00,
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,spread,1 (+8.5),8.5,1.6667,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4792358765,2026-11-14T20:52:04+00:00,
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,spread,2 (-8.5),-8.5,2.1,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4792358766,2026-11-14T20:52:04+00:00,
-UTEP Miners vs. Wyoming Cowboys,UTEP Miners vs Wyoming Cowboys,spread,2 (+8.5),8.5,1.0834,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4796292635,2026-11-14T20:52:04+00:00,
+Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,total,Plus de 47.5,47.5,1.7408,49.5,2.0,47.5,1.719,0.5545478103135527,1.8032710280373832,-3.4643171806167494,EXACT_ALT,47.5,1.719,0.5545478103135527,1.8032710280373832,-3.4643171806167494,2.0,4794672266,2026-11-15T12:23:57+00:00,2.0
+Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,total,Plus de 48.5,48.5,1.8334,49.5,1.0,48.5,1.847,0.516112129944983,1.9375634517766496,-5.376002095886823,EXACT_ALT,48.5,1.847,0.516112129944983,1.9375634517766496,-5.376002095886823,1.0,4794672136,2026-11-15T12:23:57+00:00,1.0
+Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,total,Plus de 51.5,51.5,2.2,49.5,-2.0,51.5,2.22,0.42871847658260415,2.3325330132052824,-5.681935151827078,EXACT_ALT,51.5,2.22,0.42871847658260415,2.3325330132052824,-5.681935151827078,-2.0,4794672175,2026-11-15T12:23:57+00:00,2.0
+Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,total,Moins de 50.5,50.5,1.7143,49.5,1.0,50.5,1.746,0.546021840873635,1.8314285714285712,-6.395475819032748,EXACT_ALT,50.5,1.746,0.546021840873635,1.8314285714285712,-6.395475819032748,1.0,4788935490,2026-11-15T12:23:57+00:00,1.0
+Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,total,Moins de 49.5,49.5,1.8,49.5,0.0,49.5,1.862,0.5166147455867082,1.935678391959799,-7.00934579439253,EXACT_MAIN,49.5,1.862,0.5166147455867082,1.935678391959799,-7.00934579439253,0.0,4792327200,2026-11-15T12:23:57+00:00,0.0
+Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,total,Moins de 51.5,51.5,1.625,49.5,2.0,51.5,1.666,0.5712815234173958,1.7504504504504503,-7.166752444673186,EXACT_ALT,51.5,1.666,0.5712815234173958,1.7504504504504503,-7.166752444673186,2.0,4794672172,2026-11-15T12:23:57+00:00,2.0
+Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,total,Plus de 50.5,50.5,2.0,49.5,-1.0,50.5,2.1,0.4539781591263651,2.2027491408934705,-9.204368174726984,EXACT_ALT,50.5,2.1,0.4539781591263651,2.2027491408934705,-9.204368174726984,-1.0,4788935491,2026-11-15T12:23:57+00:00,1.0
+Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,total,Plus de 49.5,49.5,1.8696,49.5,0.0,49.5,1.99,0.4833852544132917,2.0687432867883997,-9.626292834890982,EXACT_MAIN,49.5,1.99,0.4833852544132917,2.0687432867883997,-9.626292834890982,0.0,4792327201,2026-11-15T12:23:57+00:00,0.0
+Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,total,Moins de 48.5,48.5,1.8334,49.5,-1.0,48.5,1.97,0.483887870055017,2.066594477531132,-11.283997904113185,EXACT_ALT,48.5,1.97,0.483887870055017,2.066594477531132,-11.283997904113185,-1.0,4794672132,2026-11-15T12:23:57+00:00,1.0
+Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,total,Moins de 47.5,47.5,1.9524,49.5,-2.0,47.5,2.14,0.44545218968644723,2.244909831297266,-13.029914485618043,EXACT_ALT,47.5,2.14,0.44545218968644723,2.244909831297266,-13.029914485618043,-2.0,4794672267,2026-11-15T12:23:57+00:00,2.0
+Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,total,Plus de 36.5,36.5,1.2,49.5,13.0,,,,,,NO_EXACT_PIN_LINE,,,,,,13.0,4794672248,2026-11-15T12:23:57+00:00,13.0
+Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,total,Moins de 36.5,36.5,4.2,49.5,-13.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-13.0,4794672252,2026-11-15T12:23:57+00:00,13.0
+Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,total,Plus de 37.5,37.5,1.25,49.5,12.0,,,,,,NO_EXACT_PIN_LINE,,,,,,12.0,4794672262,2026-11-15T12:23:57+00:00,12.0
+Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,total,Moins de 37.5,37.5,3.7,49.5,-12.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-12.0,4794672264,2026-11-15T12:23:57+00:00,12.0
+Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,total,Moins de 38.5,38.5,3.4,49.5,-11.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-11.0,4794672129,2026-11-15T12:23:57+00:00,11.0
+Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,total,Moins de 60.5,60.5,1.25,49.5,11.0,,,,,,NO_EXACT_PIN_LINE,,,,,,11.0,4794672232,2026-11-15T12:23:57+00:00,11.0
+Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,total,Plus de 60.5,60.5,3.7,49.5,-11.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-11.0,4794672237,2026-11-15T12:23:57+00:00,11.0
+Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,total,Plus de 38.5,38.5,1.2858,49.5,11.0,,,,,,NO_EXACT_PIN_LINE,,,,,,11.0,4794672126,2026-11-15T12:23:57+00:00,11.0
+Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,total,Moins de 59.5,59.5,1.2667,49.5,10.0,,,,,,NO_EXACT_PIN_LINE,,,,,,10.0,4794672178,2026-11-15T12:23:57+00:00,10.0
+Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,total,Plus de 59.5,59.5,3.5,49.5,-10.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-10.0,4794672185,2026-11-15T12:23:57+00:00,10.0
+Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,total,Plus de 39.5,39.5,1.3125,49.5,10.0,,,,,,NO_EXACT_PIN_LINE,,,,,,10.0,4794672189,2026-11-15T12:23:57+00:00,10.0
+Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,total,Moins de 39.5,39.5,3.2,49.5,-10.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-10.0,4794672191,2026-11-15T12:23:57+00:00,10.0
+Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,total,Moins de 40.5,40.5,3.0,49.5,-9.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-9.0,4794672275,2026-11-15T12:23:57+00:00,9.0
+Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,total,Plus de 40.5,40.5,1.3572,49.5,9.0,,,,,,NO_EXACT_PIN_LINE,,,,,,9.0,4794672278,2026-11-15T12:23:57+00:00,9.0
+Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,total,Plus de 58.5,58.5,3.25,49.5,-9.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-9.0,4794672119,2026-11-15T12:23:57+00:00,9.0
+Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,total,Moins de 58.5,58.5,1.3031,49.5,9.0,,,,,,NO_EXACT_PIN_LINE,,,,,,9.0,4794672122,2026-11-15T12:23:57+00:00,9.0
+Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,total,Moins de 41.5,41.5,2.7,49.5,-8.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-8.0,4794672270,2026-11-15T12:23:57+00:00,8.0
+Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,total,Plus de 41.5,41.5,1.4167,49.5,8.0,,,,,,NO_EXACT_PIN_LINE,,,,,,8.0,4794672272,2026-11-15T12:23:57+00:00,8.0
+Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,total,Plus de 57.5,57.5,3.1,49.5,-8.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-8.0,4794672144,2026-11-15T12:23:57+00:00,8.0
+Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,total,Moins de 57.5,57.5,1.3334,49.5,8.0,,,,,,NO_EXACT_PIN_LINE,,,,,,8.0,4794672148,2026-11-15T12:23:57+00:00,8.0
+Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,total,Plus de 56.5,56.5,2.85,49.5,-7.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-7.0,4794672138,2026-11-15T12:23:57+00:00,7.0
+Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,total,Moins de 56.5,56.5,1.3847,49.5,7.0,,,,,,NO_EXACT_PIN_LINE,,,,,,7.0,4794672141,2026-11-15T12:23:57+00:00,7.0
+Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,total,Moins de 42.5,42.5,2.65,49.5,-7.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-7.0,4794672286,2026-11-15T12:23:57+00:00,7.0
+Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,total,Plus de 42.5,42.5,1.4348,49.5,7.0,,,,,,NO_EXACT_PIN_LINE,,,,,,7.0,4794672288,2026-11-15T12:23:57+00:00,7.0
+Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,total,Moins de 43.5,43.5,2.5,49.5,-6.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-6.0,4794672279,2026-11-15T12:23:57+00:00,6.0
+Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,total,Plus de 43.5,43.5,1.5,49.5,6.0,,,,,,NO_EXACT_PIN_LINE,,,,,,6.0,4794672282,2026-11-15T12:23:57+00:00,6.0
+Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,total,Moins de 55.5,55.5,1.4167,49.5,6.0,,,,,,NO_EXACT_PIN_LINE,,,,,,6.0,4794672156,2026-11-15T12:23:57+00:00,6.0
+Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,total,Plus de 55.5,55.5,2.7,49.5,-6.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-6.0,4794672161,2026-11-15T12:23:57+00:00,6.0
+Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,total,Moins de 54.5,54.5,1.4762,49.5,5.0,,,,,,NO_EXACT_PIN_LINE,,,,,,5.0,4794672150,2026-11-15T12:23:57+00:00,5.0
+Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,total,Plus de 54.5,54.5,2.55,49.5,-5.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-5.0,4794672153,2026-11-15T12:23:57+00:00,5.0
+Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,total,Moins de 44.5,44.5,2.3,49.5,-5.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-5.0,4794672204,2026-11-15T12:23:57+00:00,5.0
+Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,total,Plus de 44.5,44.5,1.5556,49.5,5.0,,,,,,NO_EXACT_PIN_LINE,,,,,,5.0,4794672206,2026-11-15T12:23:57+00:00,5.0
+Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,total,Plus de 53.5,53.5,2.4,49.5,-4.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-4.0,4794672167,2026-11-15T12:23:57+00:00,4.0
+Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,total,Moins de 53.5,53.5,1.5264,49.5,4.0,,,,,,NO_EXACT_PIN_LINE,,,,,,4.0,4794672170,2026-11-15T12:23:57+00:00,4.0
+Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,total,Moins de 45.5,45.5,2.2,49.5,-4.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-4.0,4794672215,2026-11-15T12:23:57+00:00,4.0
+Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,total,Plus de 45.5,45.5,1.625,49.5,4.0,,,,,,NO_EXACT_PIN_LINE,,,,,,4.0,4794672217,2026-11-15T12:23:57+00:00,4.0
+Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,total,Moins de 46.5,46.5,2.1,49.5,-3.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-3.0,4794672256,2026-11-15T12:23:57+00:00,3.0
+Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,total,Plus de 46.5,46.5,1.6667,49.5,3.0,,,,,,NO_EXACT_PIN_LINE,,,,,,3.0,4794672258,2026-11-15T12:23:57+00:00,3.0
+Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,total,Plus de 52.5,52.5,2.3,49.5,-3.0,,,,,,NO_EXACT_PIN_LINE,,,,,,-3.0,4794672164,2026-11-15T12:23:57+00:00,3.0
+Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,total,Moins de 52.5,52.5,1.5556,49.5,3.0,,,,,,NO_EXACT_PIN_LINE,,,,,,3.0,4794672162,2026-11-15T12:23:57+00:00,3.0
+Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,spread,2 (+2.5),2.5,1.9091,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794672000,2026-11-15T12:23:57+00:00,
+Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,spread,1 (-2.5),-2.5,1.7693,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794672001,2026-11-15T12:23:57+00:00,
+Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,spread,2 (+4.5),4.5,1.625,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794672002,2026-11-15T12:23:57+00:00,
+Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,spread,1 (-15.5),-15.5,5.25,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4805309699,2026-11-15T12:23:57+00:00,
+Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,spread,1 (-4.5),-4.5,2.2,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794672004,2026-11-15T12:23:57+00:00,
+Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,spread,2 (+15.5),15.5,1.1334,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4805309700,2026-11-15T12:23:57+00:00,
+Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,spread,2 (-7.5),-7.5,4.2,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794672006,2026-11-15T12:23:57+00:00,
+Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,spread,1 (+7.5),7.5,1.2,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794672008,2026-11-15T12:23:57+00:00,
+Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,spread,2 (+12.5),12.5,1.2223,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794672014,2026-11-15T12:23:57+00:00,
+Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,spread,1 (-12.5),-12.5,4.0,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794672015,2026-11-15T12:23:57+00:00,
+Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,spread,2 (-10.5),-10.5,5.0,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794672018,2026-11-15T12:23:57+00:00,
+Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,spread,1 (+10.5),10.5,1.1429,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794672022,2026-11-15T12:23:57+00:00,
+Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,spread,2 (-9.5),-9.5,4.5,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794672050,2026-11-15T12:23:57+00:00,
+Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,spread,1 (+9.5),9.5,1.1667,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794672054,2026-11-15T12:23:57+00:00,
+Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,spread,1 (+1.5),1.5,1.5556,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4792353976,2026-11-15T12:23:57+00:00,
+Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,spread,2 (-1.5),-1.5,2.3,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4792353977,2026-11-15T12:23:57+00:00,
+Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,spread,1 (+3.5),3.5,1.3847,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794672058,2026-11-15T12:23:57+00:00,
+Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,spread,2 (-3.5),-3.5,2.85,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794672061,2026-11-15T12:23:57+00:00,
+Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,spread,1 (+2.5),2.5,1.5,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4788935488,2026-11-15T12:23:57+00:00,
+Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,spread,2 (-5.5),-5.5,3.25,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794672065,2026-11-15T12:23:57+00:00,
+Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,spread,2 (-2.5),-2.5,2.5,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4788935489,2026-11-15T12:23:57+00:00,
+Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,spread,1 (+5.5),5.5,1.3031,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794672068,2026-11-15T12:23:57+00:00,
+Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,spread,2 (+13.5),13.5,1.1819,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794672071,2026-11-15T12:23:57+00:00,
+Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,spread,1 (-13.5),-13.5,4.4,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794672075,2026-11-15T12:23:57+00:00,
+Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,spread,2 (+11.5),11.5,1.2353,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794672077,2026-11-15T12:23:57+00:00,
+Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,spread,1 (-11.5),-11.5,3.75,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794672080,2026-11-15T12:23:57+00:00,
+Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,spread,2 (+6.5),6.5,1.4762,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794671953,2026-11-15T12:23:57+00:00,
+Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,spread,1 (-6.5),-6.5,2.55,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794671954,2026-11-15T12:23:57+00:00,
+Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,spread,1 (-14.5),-14.5,5.0,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794671955,2026-11-15T12:23:57+00:00,
+Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,spread,2 (+10.5),10.5,1.25,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794672084,2026-11-15T12:23:57+00:00,
+Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,spread,2 (+14.5),14.5,1.1429,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794671956,2026-11-15T12:23:57+00:00,
+Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,spread,1 (-10.5),-10.5,3.7,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794672087,2026-11-15T12:23:57+00:00,
+Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,spread,2 (-6.5),-6.5,3.5,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794671962,2026-11-15T12:23:57+00:00,
+Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,spread,1 (+6.5),6.5,1.2667,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794671963,2026-11-15T12:23:57+00:00,
+Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,spread,2 (+7.5),7.5,1.3637,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794671965,2026-11-15T12:23:57+00:00,
+Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,spread,1 (-7.5),-7.5,2.9,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794671967,2026-11-15T12:23:57+00:00,
+Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,spread,2 (-8.5),-8.5,4.4,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794671968,2026-11-15T12:23:57+00:00,
+Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,spread,1 (+8.5),8.5,1.1819,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794671970,2026-11-15T12:23:57+00:00,
+Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,spread,2 (+5.5),5.5,1.5455,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794671975,2026-11-15T12:23:57+00:00,
+Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,spread,1 (-5.5),-5.5,2.35,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794671977,2026-11-15T12:23:57+00:00,
+Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,spread,1 (+4.5),4.5,1.3334,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794671979,2026-11-15T12:23:57+00:00,
+Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,spread,2 (-4.5),-4.5,3.1,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794671981,2026-11-15T12:23:57+00:00,
+Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,spread,2 (+9.5),9.5,1.3125,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794671983,2026-11-15T12:23:57+00:00,
+Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,spread,1 (-9.5),-9.5,3.2,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794671985,2026-11-15T12:23:57+00:00,
+Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,spread,2 (+8.5),8.5,1.3334,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794671988,2026-11-15T12:23:57+00:00,
+Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,spread,1 (-8.5),-8.5,3.1,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794671990,2026-11-15T12:23:57+00:00,
+Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,spread,2 (+1.5),1.5,2.05,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794671992,2026-11-15T12:23:57+00:00,
+Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,spread,1 (-1.5),-1.5,1.6897,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794671994,2026-11-15T12:23:57+00:00,
+Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,spread,2 (+3.5),3.5,1.6667,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794671996,2026-11-15T12:23:57+00:00,
+Oklahoma Sooners vs. Ole Miss Rebels,Oklahoma Sooners vs Ole Miss Rebels,spread,1 (-3.5),-3.5,2.1,,,,,,,,NO_EXACT_PIN_LINE,,,,,,,4794671998,2026-11-15T12:23:57+00:00,

@@ -1,30 +1,30 @@
 {
-  "observed_at": "2026-11-16T03:50:34.291794+00:00",
-  "expected_events": 12,
-  "successful_events": 12,
+  "observed_at": "2026-11-16T13:25:17.826550+00:00",
+  "expected_events": 14,
+  "successful_events": 14,
   "events": [
     {
       "event_id": 16768117,
       "match": "BAL Ravens vs. LA Chargers",
-      "prop_selections": 1639,
+      "prop_selections": 1623,
       "players": 43,
-      "prop_markets": 579,
+      "prop_markets": 574,
       "main_selections": 102,
-      "raw_child_markets": 711,
-      "raw_named_child_markets": 703,
-      "raw_odds": 2906,
+      "raw_child_markets": 704,
+      "raw_named_child_markets": 697,
+      "raw_odds": 2941,
       "props_status": "PARSED"
     },
     {
       "event_id": 16768245,
       "match": "HOU Texans vs. IND Colts",
-      "prop_selections": 14,
-      "players": 2,
-      "prop_markets": 8,
+      "prop_selections": 1,
+      "players": 1,
+      "prop_markets": 1,
       "main_selections": 6,
-      "raw_child_markets": 10,
-      "raw_named_child_markets": 10,
-      "raw_odds": 36,
+      "raw_child_markets": 2,
+      "raw_named_child_markets": 2,
+      "raw_odds": 121,
       "props_status": "PARSED"
     },
     {
@@ -36,7 +36,7 @@
       "main_selections": 6,
       "raw_child_markets": 0,
       "raw_named_child_markets": 0,
-      "raw_odds": 12,
+      "raw_odds": 55,
       "props_status": "NO_PLAYER_CHILD_MARKETS_RETURNED"
     },
     {
@@ -48,7 +48,7 @@
       "main_selections": 6,
       "raw_child_markets": 0,
       "raw_named_child_markets": 0,
-      "raw_odds": 10,
+      "raw_odds": 49,
       "props_status": "NO_PLAYER_CHILD_MARKETS_RETURNED"
     },
     {
@@ -60,7 +60,7 @@
       "main_selections": 6,
       "raw_child_markets": 0,
       "raw_named_child_markets": 0,
-      "raw_odds": 12,
+      "raw_odds": 57,
       "props_status": "NO_PLAYER_CHILD_MARKETS_RETURNED"
     },
     {
@@ -72,7 +72,7 @@
       "main_selections": 6,
       "raw_child_markets": 0,
       "raw_named_child_markets": 0,
-      "raw_odds": 12,
+      "raw_odds": 38,
       "props_status": "NO_PLAYER_CHILD_MARKETS_RETURNED"
     },
     {
@@ -84,7 +84,7 @@
       "main_selections": 6,
       "raw_child_markets": 0,
       "raw_named_child_markets": 0,
-      "raw_odds": 12,
+      "raw_odds": 59,
       "props_status": "NO_PLAYER_CHILD_MARKETS_RETURNED"
     },
     {
@@ -96,7 +96,19 @@
       "main_selections": 6,
       "raw_child_markets": 0,
       "raw_named_child_markets": 0,
-      "raw_odds": 12,
+      "raw_odds": 37,
+      "props_status": "NO_PLAYER_CHILD_MARKETS_RETURNED"
+    },
+    {
+      "event_id": 16769521,
+      "match": "PHI Eagles vs. PIT Steelers",
+      "prop_selections": 0,
+      "players": 0,
+      "prop_markets": 0,
+      "main_selections": 6,
+      "raw_child_markets": 0,
+      "raw_named_child_markets": 0,
+      "raw_odds": 16,
       "props_status": "NO_PLAYER_CHILD_MARKETS_RETURNED"
     },
     {
@@ -108,7 +120,7 @@
       "main_selections": 6,
       "raw_child_markets": 0,
       "raw_named_child_markets": 0,
-      "raw_odds": 10,
+      "raw_odds": 35,
       "props_status": "NO_PLAYER_CHILD_MARKETS_RETURNED"
     },
     {
@@ -120,7 +132,7 @@
       "main_selections": 6,
       "raw_child_markets": 0,
       "raw_named_child_markets": 0,
-      "raw_odds": 10,
+      "raw_odds": 55,
       "props_status": "NO_PLAYER_CHILD_MARKETS_RETURNED"
     },
     {
@@ -132,7 +144,7 @@
       "main_selections": 6,
       "raw_child_markets": 0,
       "raw_named_child_markets": 0,
-      "raw_odds": 12,
+      "raw_odds": 57,
       "props_status": "NO_PLAYER_CHILD_MARKETS_RETURNED"
     },
     {
@@ -141,15 +153,27 @@
       "prop_selections": 0,
       "players": 0,
       "prop_markets": 0,
-      "main_selections": 6,
+      "main_selections": 70,
       "raw_child_markets": 0,
       "raw_named_child_markets": 0,
-      "raw_odds": 10,
+      "raw_odds": 176,
+      "props_status": "NO_PLAYER_CHILD_MARKETS_RETURNED"
+    },
+    {
+      "event_id": 16768168,
+      "match": "WAS Commanders vs. CIN Bengals",
+      "prop_selections": 0,
+      "players": 0,
+      "prop_markets": 0,
+      "main_selections": 2,
+      "raw_child_markets": 0,
+      "raw_named_child_markets": 0,
+      "raw_odds": 29,
       "props_status": "NO_PLAYER_CHILD_MARKETS_RETURNED"
     }
   ],
-  "props": 1653,
-  "main_contracts": 168,
+  "props": 1624,
+  "main_contracts": 240,
   "complete": true,
   "completeness_scope": "events returned by GP GetEvents; not website or NFL schedule completeness"
 }

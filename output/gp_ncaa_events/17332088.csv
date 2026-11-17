@@ -1,7 +1,15 @@
 event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id,selection,line,price,odd_id,odd_status,is_main_bet
 17332088,Tennessee Volunteers vs. LSU Tigers,2026-11-21T20:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,2,,1.8,4806535883,0,False
 17332088,Tennessee Volunteers vs. LSU Tigers,2026-11-21T20:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1,,1.8696,4806535884,0,False
+17332088,Tennessee Volunteers vs. LSU Tigers,2026-11-21T20:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (+2.5),2.5,1.7408,4829085826,0,False
+17332088,Tennessee Volunteers vs. LSU Tigers,2026-11-21T20:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (-2.5),2.5,1.9524,4829085827,0,False
 17332088,Tennessee Volunteers vs. LSU Tigers,2026-11-21T20:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (-1.5),1.5,1.8696,4806535881,0,True
 17332088,Tennessee Volunteers vs. LSU Tigers,2026-11-21T20:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (+1.5),1.5,1.8,4806535882,0,True
+17332088,Tennessee Volunteers vs. LSU Tigers,2026-11-21T20:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (+3.5),3.5,1.625,4829085903,0,False
+17332088,Tennessee Volunteers vs. LSU Tigers,2026-11-21T20:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (-3.5),3.5,2.2,4829085908,0,False
+17332088,Tennessee Volunteers vs. LSU Tigers,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 45.5,45.5,1.8696,4825656840,0,False
+17332088,Tennessee Volunteers vs. LSU Tigers,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 45.5,45.5,1.8,4825656841,0,False
+17332088,Tennessee Volunteers vs. LSU Tigers,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 47.5,47.5,2.0,4823072234,0,False
+17332088,Tennessee Volunteers vs. LSU Tigers,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 47.5,47.5,1.7143,4823072233,0,False
 17332088,Tennessee Volunteers vs. LSU Tigers,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 46.5,46.5,1.8696,4825232798,0,True
 17332088,Tennessee Volunteers vs. LSU Tigers,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 46.5,46.5,1.8,4825232799,0,True

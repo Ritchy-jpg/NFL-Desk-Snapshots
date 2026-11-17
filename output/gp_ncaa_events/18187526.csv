@@ -1,7 +1,15 @@
 event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id,selection,line,price,odd_id,odd_status,is_main_bet
 18187526,Louisville Cardinals vs. Pittsburgh Panthers,2026-11-22T00:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1,,1.1539,4825880801,0,False
 18187526,Louisville Cardinals vs. Pittsburgh Panthers,2026-11-22T00:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,2,,4.5,4825880802,0,False
-18187526,Louisville Cardinals vs. Pittsburgh Panthers,2026-11-22T00:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (-13.5),-13.5,1.8696,4829082960,0,True
+18187526,Louisville Cardinals vs. Pittsburgh Panthers,2026-11-22T00:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (+12.5),-12.5,1.9091,4825880805,0,False
+18187526,Louisville Cardinals vs. Pittsburgh Panthers,2026-11-22T00:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (-12.5),-12.5,1.7693,4825880806,0,False
+18187526,Louisville Cardinals vs. Pittsburgh Panthers,2026-11-22T00:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (+14.5),-14.5,1.7143,4829082983,0,False
+18187526,Louisville Cardinals vs. Pittsburgh Panthers,2026-11-22T00:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (-14.5),-14.5,2.0,4829082984,0,False
 18187526,Louisville Cardinals vs. Pittsburgh Panthers,2026-11-22T00:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (+13.5),-13.5,1.8,4829082959,0,True
+18187526,Louisville Cardinals vs. Pittsburgh Panthers,2026-11-22T00:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (-13.5),-13.5,1.8696,4829082960,0,True
+18187526,Louisville Cardinals vs. Pittsburgh Panthers,2026-11-22T00:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 51.5,51.5,1.6897,4825880803,0,False
+18187526,Louisville Cardinals vs. Pittsburgh Panthers,2026-11-22T00:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 51.5,51.5,2.05,4825880804,0,False
 18187526,Louisville Cardinals vs. Pittsburgh Panthers,2026-11-22T00:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 50.5,50.5,1.8,4827470315,0,True
 18187526,Louisville Cardinals vs. Pittsburgh Panthers,2026-11-22T00:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 50.5,50.5,1.8696,4827470316,0,True
+18187526,Louisville Cardinals vs. Pittsburgh Panthers,2026-11-22T00:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 49.5,49.5,1.8696,4829082939,0,False
+18187526,Louisville Cardinals vs. Pittsburgh Panthers,2026-11-22T00:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 49.5,49.5,1.8,4829082940,0,False

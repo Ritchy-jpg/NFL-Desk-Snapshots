@@ -1,18 +1,18 @@
 {
-  "observed_at": "2026-11-17T02:51:43.936631+00:00",
+  "observed_at": "2026-11-17T05:47:50.797955+00:00",
   "expected_events": 13,
   "successful_events": 13,
   "events": [
     {
       "event_id": 16768245,
       "match": "HOU Texans vs. IND Colts",
-      "prop_selections": 1184,
+      "prop_selections": 1185,
       "players": 26,
       "prop_markets": 391,
       "main_selections": 6,
-      "raw_child_markets": 509,
+      "raw_child_markets": 508,
       "raw_named_child_markets": 484,
-      "raw_odds": 2184,
+      "raw_odds": 2170,
       "props_status": "PARSED"
     },
     {
@@ -24,7 +24,7 @@
       "main_selections": 6,
       "raw_child_markets": 114,
       "raw_named_child_markets": 114,
-      "raw_odds": 471,
+      "raw_odds": 472,
       "props_status": "PARSED"
     },
     {
@@ -81,10 +81,10 @@
       "prop_selections": 0,
       "players": 0,
       "prop_markets": 0,
-      "main_selections": 70,
+      "main_selections": 6,
       "raw_child_markets": 0,
       "raw_named_child_markets": 0,
-      "raw_odds": 165,
+      "raw_odds": 55,
       "props_status": "NO_PLAYER_CHILD_MARKETS_RETURNED"
     },
     {
@@ -105,10 +105,10 @@
       "prop_selections": 0,
       "players": 0,
       "prop_markets": 0,
-      "main_selections": 70,
+      "main_selections": 6,
       "raw_child_markets": 0,
       "raw_named_child_markets": 0,
-      "raw_odds": 165,
+      "raw_odds": 47,
       "props_status": "NO_PLAYER_CHILD_MARKETS_RETURNED"
     },
     {
@@ -126,14 +126,14 @@
     {
       "event_id": 16769479,
       "match": "DEN Broncos vs. LV Raiders",
-      "prop_selections": 0,
-      "players": 0,
-      "prop_markets": 0,
+      "prop_selections": 116,
+      "players": 8,
+      "prop_markets": 58,
       "main_selections": 6,
-      "raw_child_markets": 0,
-      "raw_named_child_markets": 0,
-      "raw_odds": 102,
-      "props_status": "NO_PLAYER_CHILD_MARKETS_RETURNED"
+      "raw_child_markets": 84,
+      "raw_named_child_markets": 84,
+      "raw_odds": 400,
+      "props_status": "PARSED"
     },
     {
       "event_id": 16503576,
@@ -160,8 +160,8 @@
       "props_status": "NO_PLAYER_CHILD_MARKETS_RETURNED"
     }
   ],
-  "props": 2578,
-  "main_contracts": 206,
+  "props": 2695,
+  "main_contracts": 78,
   "complete": true,
   "completeness_scope": "events returned by GP GetEvents; not website or NFL schedule completeness"
 }

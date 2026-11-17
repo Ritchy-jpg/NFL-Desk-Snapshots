@@ -1,18 +1,18 @@
 {
-  "observed_at": "2026-11-17T05:47:50.797955+00:00",
+  "observed_at": "2026-11-17T14:10:40.736850+00:00",
   "expected_events": 13,
   "successful_events": 13,
   "events": [
     {
       "event_id": 16768245,
       "match": "HOU Texans vs. IND Colts",
-      "prop_selections": 1185,
+      "prop_selections": 1194,
       "players": 26,
-      "prop_markets": 391,
-      "main_selections": 6,
-      "raw_child_markets": 508,
-      "raw_named_child_markets": 484,
-      "raw_odds": 2170,
+      "prop_markets": 393,
+      "main_selections": 90,
+      "raw_child_markets": 511,
+      "raw_named_child_markets": 486,
+      "raw_odds": 2419,
       "props_status": "PARSED"
     },
     {
@@ -21,10 +21,10 @@
       "prop_selections": 156,
       "players": 14,
       "prop_markets": 78,
-      "main_selections": 6,
+      "main_selections": 70,
       "raw_child_markets": 114,
       "raw_named_child_markets": 114,
-      "raw_odds": 472,
+      "raw_odds": 700,
       "props_status": "PARSED"
     },
     {
@@ -33,10 +33,10 @@
       "prop_selections": 214,
       "players": 18,
       "prop_markets": 107,
-      "main_selections": 6,
+      "main_selections": 70,
       "raw_child_markets": 154,
       "raw_named_child_markets": 154,
-      "raw_odds": 551,
+      "raw_odds": 782,
       "props_status": "PARSED"
     },
     {
@@ -45,10 +45,10 @@
       "prop_selections": 170,
       "players": 15,
       "prop_markets": 85,
-      "main_selections": 6,
+      "main_selections": 70,
       "raw_child_markets": 123,
       "raw_named_child_markets": 123,
-      "raw_odds": 497,
+      "raw_odds": 725,
       "props_status": "PARSED"
     },
     {
@@ -57,10 +57,10 @@
       "prop_selections": 122,
       "players": 10,
       "prop_markets": 61,
-      "main_selections": 6,
+      "main_selections": 70,
       "raw_child_markets": 87,
       "raw_named_child_markets": 87,
-      "raw_odds": 380,
+      "raw_odds": 606,
       "props_status": "PARSED"
     },
     {
@@ -69,10 +69,10 @@
       "prop_selections": 172,
       "players": 16,
       "prop_markets": 86,
-      "main_selections": 6,
+      "main_selections": 70,
       "raw_child_markets": 123,
       "raw_named_child_markets": 123,
-      "raw_odds": 488,
+      "raw_odds": 711,
       "props_status": "PARSED"
     },
     {
@@ -81,10 +81,10 @@
       "prop_selections": 0,
       "players": 0,
       "prop_markets": 0,
-      "main_selections": 6,
+      "main_selections": 70,
       "raw_child_markets": 0,
       "raw_named_child_markets": 0,
-      "raw_odds": 55,
+      "raw_odds": 330,
       "props_status": "NO_PLAYER_CHILD_MARKETS_RETURNED"
     },
     {
@@ -93,10 +93,10 @@
       "prop_selections": 112,
       "players": 9,
       "prop_markets": 56,
-      "main_selections": 6,
+      "main_selections": 70,
       "raw_child_markets": 81,
       "raw_named_child_markets": 81,
-      "raw_odds": 393,
+      "raw_odds": 624,
       "props_status": "PARSED"
     },
     {
@@ -105,10 +105,10 @@
       "prop_selections": 0,
       "players": 0,
       "prop_markets": 0,
-      "main_selections": 6,
+      "main_selections": 70,
       "raw_child_markets": 0,
       "raw_named_child_markets": 0,
-      "raw_odds": 47,
+      "raw_odds": 335,
       "props_status": "NO_PLAYER_CHILD_MARKETS_RETURNED"
     },
     {
@@ -117,10 +117,10 @@
       "prop_selections": 212,
       "players": 20,
       "prop_markets": 106,
-      "main_selections": 6,
+      "main_selections": 70,
       "raw_child_markets": 152,
       "raw_named_child_markets": 152,
-      "raw_odds": 561,
+      "raw_odds": 782,
       "props_status": "PARSED"
     },
     {
@@ -129,10 +129,10 @@
       "prop_selections": 116,
       "players": 8,
       "prop_markets": 58,
-      "main_selections": 6,
+      "main_selections": 70,
       "raw_child_markets": 84,
       "raw_named_child_markets": 84,
-      "raw_odds": 400,
+      "raw_odds": 622,
       "props_status": "PARSED"
     },
     {
@@ -141,27 +141,27 @@
       "prop_selections": 236,
       "players": 34,
       "prop_markets": 118,
-      "main_selections": 6,
+      "main_selections": 70,
       "raw_child_markets": 149,
       "raw_named_child_markets": 149,
-      "raw_odds": 537,
+      "raw_odds": 763,
       "props_status": "PARSED"
     },
     {
       "event_id": 16768168,
       "match": "WAS Commanders vs. CIN Bengals",
-      "prop_selections": 0,
-      "players": 0,
-      "prop_markets": 0,
-      "main_selections": 6,
-      "raw_child_markets": 0,
-      "raw_named_child_markets": 0,
-      "raw_odds": 92,
-      "props_status": "NO_PLAYER_CHILD_MARKETS_RETURNED"
+      "prop_selections": 140,
+      "players": 12,
+      "prop_markets": 70,
+      "main_selections": 70,
+      "raw_child_markets": 102,
+      "raw_named_child_markets": 102,
+      "raw_odds": 637,
+      "props_status": "PARSED"
     }
   ],
-  "props": 2695,
-  "main_contracts": 78,
+  "props": 2844,
+  "main_contracts": 930,
   "complete": true,
   "completeness_scope": "events returned by GP GetEvents; not website or NFL schedule completeness"
 }

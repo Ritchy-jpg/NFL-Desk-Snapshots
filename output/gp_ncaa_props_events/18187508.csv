@@ -1,15 +1,137 @@
 event_id,match,player,market,market_type_id,sport_market_id,child_market_id,odd_id,selection,line,price,odd_status,is_main_bet
-18187508,California Golden Bears vs. Stanford Cardinal,Davis Warren,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1842590583,4836421180,Davis Warren (Stan) Plus de 244.5,Davis Warren (Stan) Plus de 244.5,1.7693,0,True
-18187508,California Golden Bears vs. Stanford Cardinal,Davis Warren,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1842590583,4836421181,Davis Warren (Stan) moins de 244.5,Davis Warren (Stan) moins de 244.5,1.8334,0,True
-18187508,California Golden Bears vs. Stanford Cardinal,Davis Warren,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1837773585,4822528395,Davis Warren (Stan) Plus de 1.5,Davis Warren (Stan) Plus de 1.5,1.7408,0,False
-18187508,California Golden Bears vs. Stanford Cardinal,Davis Warren,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1837773585,4822528396,Davis Warren (Stan) moins de 1.5,Davis Warren (Stan) moins de 1.5,1.8696,0,False
-18187508,California Golden Bears vs. Stanford Cardinal,Nico Brown,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1842599583,4836444634,Nico Brown (Stan) Plus de 55.5,Nico Brown (Stan) Plus de 55.5,1.8334,0,False
-18187508,California Golden Bears vs. Stanford Cardinal,Nico Brown,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1842599583,4836444635,Nico Brown (Stan) moins de 55.5,Nico Brown (Stan) moins de 55.5,1.7693,0,False
-18187508,California Golden Bears vs. Stanford Cardinal,Caden High,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1842605620,4836483849,Caden High (Stan) Plus de 52.5,Caden High (Stan) Plus de 52.5,1.7693,0,False
-18187508,California Golden Bears vs. Stanford Cardinal,Caden High,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1842605620,4836483850,Caden High (Stan) moins de 52.5,Caden High (Stan) moins de 52.5,1.8334,0,False
-18187508,California Golden Bears vs. Stanford Cardinal,Benji Blackburn,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1842623776,4836609923,Benji Blackburn (Stan) Plus de 30.5,Benji Blackburn (Stan) Plus de 30.5,1.7693,0,False
-18187508,California Golden Bears vs. Stanford Cardinal,Benji Blackburn,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1842623776,4836609924,Benji Blackburn (Stan) moins de 30.5,Benji Blackburn (Stan) moins de 30.5,1.8334,0,False
-18187508,California Golden Bears vs. Stanford Cardinal,Micah Ford,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1839065290,4826051436,Micah Ford (Stan) Plus de 117.5,Micah Ford (Stan) Plus de 117.5,1.7693,0,False
-18187508,California Golden Bears vs. Stanford Cardinal,Micah Ford,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1839065290,4826051437,Micah Ford (Stan) moins de 117.5,Micah Ford (Stan) moins de 117.5,1.8334,0,False
-18187508,California Golden Bears vs. Stanford Cardinal,Adam Mohammed,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1844085367,4841320848,Adam Mohammed (Cal) moins de 55.5,Adam Mohammed (Cal) moins de 55.5,1.8,0,False
-18187508,California Golden Bears vs. Stanford Cardinal,Adam Mohammed,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1844085367,4841320847,Adam Mohammed (Cal) Plus de 55.5,Adam Mohammed (Cal) Plus de 55.5,1.8,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Davis Warren,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1847342359,4852184374,Davis Warren (Stan) Plus de 240.5,Davis Warren (Stan) Plus de 240.5,1.7693,0,True
+18187508,California Golden Bears vs. Stanford Cardinal,Davis Warren,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1847342359,4852184375,Davis Warren (Stan) moins de 240.5,Davis Warren (Stan) moins de 240.5,1.8334,0,True
+18187508,California Golden Bears vs. Stanford Cardinal,Mason Mini,Verges de réception du joueur au moins (Mason Mini (CAL)),2143,72898,1844086580,4848595169,23+,23+,1.8696,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Mason Mini,Verges de réception du joueur au moins (Mason Mini (CAL)),2143,72898,1844086580,4848595170,33+,33+,2.3,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Mason Mini,Verges de réception du joueur au moins (Mason Mini (CAL)),2143,72898,1844086580,4848595171,43+,43+,2.85,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Mason Mini,Verges de réception du joueur au moins (Mason Mini (CAL)),2143,72898,1844086580,4848595172,53+,53+,3.75,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Mason Mini,Verges de réception du joueur au moins (Mason Mini (CAL)),2143,72898,1844086580,4848595321,63+,63+,5.0,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Mason Mini,Verges de réception du joueur au moins (Mason Mini (CAL)),2143,72898,1844086580,4848595322,73+,73+,7.0,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Mason Mini,Verges de réception du joueur au moins (Mason Mini (CAL)),2143,72898,1844086580,4848595323,83+,83+,10.0,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Mason Mini,Verges de réception du joueur au moins (Mason Mini (CAL)),2143,72898,1844086580,4848595324,93+,93+,15.0,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Mason Mini,Verges de réception du joueur au moins (Mason Mini (CAL)),2143,72898,1844086580,4848595325,103+,103+,21.0,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Mason Mini,Verges de réception du joueur au moins (Mason Mini (CAL)),2143,72898,1844086580,4848595326,13+,13+,1.3847,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Benji Blackburn,Verges de réception du joueur au moins (Benji Blackburn (STA)),2143,72898,1843808468,4843294496,90+,90+,7.5,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Benji Blackburn,Verges de réception du joueur au moins (Benji Blackburn (STA)),2143,72898,1843808468,4843294497,100+,100+,11.0,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Benji Blackburn,Verges de réception du joueur au moins (Benji Blackburn (STA)),2143,72898,1843808468,4843294498,110+,110+,15.0,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Benji Blackburn,Verges de réception du joueur au moins (Benji Blackburn (STA)),2143,72898,1843808468,4843294499,20+,20+,1.4445,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Benji Blackburn,Verges de réception du joueur au moins (Benji Blackburn (STA)),2143,72898,1843808468,4843294490,30+,30+,1.8696,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Benji Blackburn,Verges de réception du joueur au moins (Benji Blackburn (STA)),2143,72898,1843808468,4843294491,40+,40+,2.2,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Benji Blackburn,Verges de réception du joueur au moins (Benji Blackburn (STA)),2143,72898,1843808468,4843294492,50+,50+,2.7,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Benji Blackburn,Verges de réception du joueur au moins (Benji Blackburn (STA)),2143,72898,1843808468,4843294493,60+,60+,3.3,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Benji Blackburn,Verges de réception du joueur au moins (Benji Blackburn (STA)),2143,72898,1843808468,4843294494,70+,70+,4.3,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Benji Blackburn,Verges de réception du joueur au moins (Benji Blackburn (STA)),2143,72898,1843808468,4843294495,80+,80+,5.5,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Caden High,Verges de réception du joueur au moins (Caden High (STA)),2143,72898,1843808469,4840575232,44+,44+,1.4762,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Caden High,Verges de réception du joueur au moins (Caden High (STA)),2143,72898,1843808469,4840575223,54+,54+,1.8696,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Caden High,Verges de réception du joueur au moins (Caden High (STA)),2143,72898,1843808469,4840575224,64+,64+,2.15,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Caden High,Verges de réception du joueur au moins (Caden High (STA)),2143,72898,1843808469,4840575225,74+,74+,2.55,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Caden High,Verges de réception du joueur au moins (Caden High (STA)),2143,72898,1843808469,4840575226,84+,84+,3.1,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Caden High,Verges de réception du joueur au moins (Caden High (STA)),2143,72898,1843808469,4840575227,94+,94+,3.75,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Caden High,Verges de réception du joueur au moins (Caden High (STA)),2143,72898,1843808469,4840575228,104+,104+,4.75,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Caden High,Verges de réception du joueur au moins (Caden High (STA)),2143,72898,1843808469,4840575229,114+,114+,6.0,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Caden High,Verges de réception du joueur au moins (Caden High (STA)),2143,72898,1843808469,4840575230,124+,124+,7.75,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Caden High,Verges de réception du joueur au moins (Caden High (STA)),2143,72898,1843808469,4840575231,134+,134+,11.0,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Chase Hendricks,Verges de réception du joueur au moins (Chase Hendricks (CAL)),2143,72898,1844086581,4848592871,57+,57+,1.8696,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Chase Hendricks,Verges de réception du joueur au moins (Chase Hendricks (CAL)),2143,72898,1844086581,4848592872,67+,67+,2.2,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Chase Hendricks,Verges de réception du joueur au moins (Chase Hendricks (CAL)),2143,72898,1844086581,4848592873,77+,77+,2.6,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Chase Hendricks,Verges de réception du joueur au moins (Chase Hendricks (CAL)),2143,72898,1844086581,4848592874,87+,87+,3.1,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Chase Hendricks,Verges de réception du joueur au moins (Chase Hendricks (CAL)),2143,72898,1844086581,4848592875,97+,97+,3.85,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Chase Hendricks,Verges de réception du joueur au moins (Chase Hendricks (CAL)),2143,72898,1844086581,4848592876,107+,107+,5.0,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Chase Hendricks,Verges de réception du joueur au moins (Chase Hendricks (CAL)),2143,72898,1844086581,4848592877,117+,117+,6.25,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Chase Hendricks,Verges de réception du joueur au moins (Chase Hendricks (CAL)),2143,72898,1844086581,4848592878,127+,127+,8.5,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Chase Hendricks,Verges de réception du joueur au moins (Chase Hendricks (CAL)),2143,72898,1844086581,4848592879,137+,137+,12.0,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Chase Hendricks,Verges de réception du joueur au moins (Chase Hendricks (CAL)),2143,72898,1844086581,4848592880,47+,47+,1.5,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Nico Brown,Verges de réception du joueur au moins (Nico Brown (STA)),2143,72898,1843808471,4848595158,49+,49+,1.8696,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Nico Brown,Verges de réception du joueur au moins (Nico Brown (STA)),2143,72898,1843808471,4848595159,59+,59+,2.1,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Nico Brown,Verges de réception du joueur au moins (Nico Brown (STA)),2143,72898,1843808471,4848595160,69+,69+,2.45,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Nico Brown,Verges de réception du joueur au moins (Nico Brown (STA)),2143,72898,1843808471,4848595161,79+,79+,2.8,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Nico Brown,Verges de réception du joueur au moins (Nico Brown (STA)),2143,72898,1843808471,4848595162,89+,89+,3.3,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Nico Brown,Verges de réception du joueur au moins (Nico Brown (STA)),2143,72898,1843808471,4848595163,99+,99+,4.0,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Nico Brown,Verges de réception du joueur au moins (Nico Brown (STA)),2143,72898,1843808471,4848595164,109+,109+,4.75,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Nico Brown,Verges de réception du joueur au moins (Nico Brown (STA)),2143,72898,1843808471,4848595165,119+,119+,6.0,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Nico Brown,Verges de réception du joueur au moins (Nico Brown (STA)),2143,72898,1843808471,4848595166,129+,129+,7.5,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Nico Brown,Verges de réception du joueur au moins (Nico Brown (STA)),2143,72898,1843808471,4848595167,39+,39+,1.5264,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Micah Ford,Verges de réception du joueur au moins (Micah Ford (STA)),2143,72898,1844086459,4841323975,18+,18+,1.8696,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Micah Ford,Verges de réception du joueur au moins (Micah Ford (STA)),2143,72898,1844086459,4841323976,28+,28+,2.25,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Micah Ford,Verges de réception du joueur au moins (Micah Ford (STA)),2143,72898,1844086459,4841323977,38+,38+,2.8,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Micah Ford,Verges de réception du joueur au moins (Micah Ford (STA)),2143,72898,1844086459,4841323978,48+,48+,3.6,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Micah Ford,Verges de réception du joueur au moins (Micah Ford (STA)),2143,72898,1844086459,4841323979,58+,58+,4.75,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Micah Ford,Verges de réception du joueur au moins (Micah Ford (STA)),2143,72898,1844086459,4841323980,68+,68+,6.5,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Micah Ford,Verges de réception du joueur au moins (Micah Ford (STA)),2143,72898,1844086459,4841323981,78+,78+,9.0,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Micah Ford,Verges de réception du joueur au moins (Micah Ford (STA)),2143,72898,1844086459,4841323982,88+,88+,14.0,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Micah Ford,Verges de réception du joueur au moins (Micah Ford (STA)),2143,72898,1844086459,4841323983,98+,98+,21.0,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Davis Warren,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1837773585,4822528395,Davis Warren (Stan) Plus de 1.5,Davis Warren (Stan) Plus de 1.5,1.7693,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Davis Warren,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1837773585,4822528396,Davis Warren (Stan) moins de 1.5,Davis Warren (Stan) moins de 1.5,1.8334,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Nico Brown,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1842607322,4836488717,Nico Brown (Stan) Plus de 54.5,Nico Brown (Stan) Plus de 54.5,1.8334,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Nico Brown,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1842607322,4836488718,Nico Brown (Stan) moins de 54.5,Nico Brown (Stan) moins de 54.5,1.7693,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Caden High,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1842605620,4836483849,Caden High (Stan) Plus de 52.5,Caden High (Stan) Plus de 52.5,1.8334,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Caden High,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1842605620,4836483850,Caden High (Stan) moins de 52.5,Caden High (Stan) moins de 52.5,1.7693,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Benji Blackburn,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1842605327,4836483046,Benji Blackburn (Stan) Plus de 29.5,Benji Blackburn (Stan) Plus de 29.5,1.8,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Benji Blackburn,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1842605327,4836483047,Benji Blackburn (Stan) moins de 29.5,Benji Blackburn (Stan) moins de 29.5,1.8,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Micah Ford,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1839629754,4827537336,Micah Ford (Stan) moins de 119.5,Micah Ford (Stan) moins de 119.5,1.8,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Micah Ford,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1839629754,4827537335,Micah Ford (Stan) Plus de 119.5,Micah Ford (Stan) Plus de 119.5,1.8,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Adam Mohammed,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1842774610,4837070224,Adam Mohammed (Cal) moins de 56.5,Adam Mohammed (Cal) moins de 56.5,1.7693,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Adam Mohammed,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1842774610,4837070223,Adam Mohammed (Cal) Plus de 56.5,Adam Mohammed (Cal) Plus de 56.5,1.8334,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Davis Warren,"Passes complétées, Joueur (prolongations incluses)",760,71921,1842602793,4836476501,Davis Warren (Stan) Plus de 20.5,Davis Warren (Stan) Plus de 20.5,1.8696,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Davis Warren,"Passes complétées, Joueur (prolongations incluses)",760,71921,1842602793,4836476502,Davis Warren (Stan) moins de 20.5,Davis Warren (Stan) moins de 20.5,1.7693,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Jaron-Keawe Sagapolutele,Touchés par la passe du joueur au moins (Jaron-Keawe Sagapolutele (CAL)),2138,72893,1845557403,4846280272,1+,1+,1.1334,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Jaron-Keawe Sagapolutele,Touchés par la passe du joueur au moins (Jaron-Keawe Sagapolutele (CAL)),2138,72893,1845557403,4846280269,2+,2+,1.5883,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Jaron-Keawe Sagapolutele,Touchés par la passe du joueur au moins (Jaron-Keawe Sagapolutele (CAL)),2138,72893,1845557403,4846280270,3+,3+,2.45,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Jaron-Keawe Sagapolutele,Touchés par la passe du joueur au moins (Jaron-Keawe Sagapolutele (CAL)),2138,72893,1845557403,4846280271,4+,4+,4.4,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Davis Warren,Touchés par la passe du joueur au moins (Davis Warren (STA)),2138,72893,1843808470,4840573444,2+,2+,1.6667,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Davis Warren,Touchés par la passe du joueur au moins (Davis Warren (STA)),2138,72893,1843808470,4840573445,3+,3+,2.6,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Davis Warren,Touchés par la passe du joueur au moins (Davis Warren (STA)),2138,72893,1843808470,4840573446,4+,4+,4.75,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Davis Warren,Touchés par la passe du joueur au moins (Davis Warren (STA)),2138,72893,1843808470,4840573447,1+,1+,1.1539,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Davis Warren,Verges par la passe du joueur au moins (Davis Warren (STA)),2136,72891,1843808472,4846845312,227+,227+,1.6897,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Davis Warren,Verges par la passe du joueur au moins (Davis Warren (STA)),2136,72891,1843808472,4846845313,217+,217+,1.5556,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Davis Warren,Verges par la passe du joueur au moins (Davis Warren (STA)),2136,72891,1843808472,4846845297,237+,237+,1.8696,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Davis Warren,Verges par la passe du joueur au moins (Davis Warren (STA)),2136,72891,1843808472,4846845298,247+,247+,2.05,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Davis Warren,Verges par la passe du joueur au moins (Davis Warren (STA)),2136,72891,1843808472,4846845299,257+,257+,2.25,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Davis Warren,Verges par la passe du joueur au moins (Davis Warren (STA)),2136,72891,1843808472,4846845300,267+,267+,2.45,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Davis Warren,Verges par la passe du joueur au moins (Davis Warren (STA)),2136,72891,1843808472,4846845301,277+,277+,2.7,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Davis Warren,Verges par la passe du joueur au moins (Davis Warren (STA)),2136,72891,1843808472,4846845302,287+,287+,3.0,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Davis Warren,Verges par la passe du joueur au moins (Davis Warren (STA)),2136,72891,1843808472,4846845303,297+,297+,3.4,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Davis Warren,Verges par la passe du joueur au moins (Davis Warren (STA)),2136,72891,1843808472,4846845304,307+,307+,3.85,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Davis Warren,Verges par la passe du joueur au moins (Davis Warren (STA)),2136,72891,1843808472,4846845305,317+,317+,4.3,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Davis Warren,Verges par la passe du joueur au moins (Davis Warren (STA)),2136,72891,1843808472,4846845306,327+,327+,5.0,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Davis Warren,Verges par la passe du joueur au moins (Davis Warren (STA)),2136,72891,1843808472,4846845307,337+,337+,5.75,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Davis Warren,Verges par la passe du joueur au moins (Davis Warren (STA)),2136,72891,1843808472,4846845308,347+,347+,6.75,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Davis Warren,Verges par la passe du joueur au moins (Davis Warren (STA)),2136,72891,1843808472,4846845309,357+,357+,7.75,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Davis Warren,Verges par la passe du joueur au moins (Davis Warren (STA)),2136,72891,1843808472,4846845310,367+,367+,9.0,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Davis Warren,Verges par la passe du joueur au moins (Davis Warren (STA)),2136,72891,1843808472,4846845311,377+,377+,11.0,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Jaron-Keawe Sagapolutele,Verges par la passe du joueur au moins (Jaron-Keawe Sagapolutele (CAL)),2136,72891,1844086582,4851839552,299+,299+,2.65,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Jaron-Keawe Sagapolutele,Verges par la passe du joueur au moins (Jaron-Keawe Sagapolutele (CAL)),2136,72891,1844086582,4851839553,309+,309+,2.9,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Jaron-Keawe Sagapolutele,Verges par la passe du joueur au moins (Jaron-Keawe Sagapolutele (CAL)),2136,72891,1844086582,4851839554,319+,319+,3.3,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Jaron-Keawe Sagapolutele,Verges par la passe du joueur au moins (Jaron-Keawe Sagapolutele (CAL)),2136,72891,1844086582,4851839555,329+,329+,3.6,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Jaron-Keawe Sagapolutele,Verges par la passe du joueur au moins (Jaron-Keawe Sagapolutele (CAL)),2136,72891,1844086582,4851839556,339+,339+,4.0,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Jaron-Keawe Sagapolutele,Verges par la passe du joueur au moins (Jaron-Keawe Sagapolutele (CAL)),2136,72891,1844086582,4851839557,349+,349+,4.5,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Jaron-Keawe Sagapolutele,Verges par la passe du joueur au moins (Jaron-Keawe Sagapolutele (CAL)),2136,72891,1844086582,4851839558,359+,359+,5.25,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Jaron-Keawe Sagapolutele,Verges par la passe du joueur au moins (Jaron-Keawe Sagapolutele (CAL)),2136,72891,1844086582,4851839559,369+,369+,6.0,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Jaron-Keawe Sagapolutele,Verges par la passe du joueur au moins (Jaron-Keawe Sagapolutele (CAL)),2136,72891,1844086582,4851839560,379+,379+,7.0,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Jaron-Keawe Sagapolutele,Verges par la passe du joueur au moins (Jaron-Keawe Sagapolutele (CAL)),2136,72891,1844086582,4851839561,389+,389+,8.5,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Jaron-Keawe Sagapolutele,Verges par la passe du joueur au moins (Jaron-Keawe Sagapolutele (CAL)),2136,72891,1844086582,4851839562,399+,399+,10.0,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Jaron-Keawe Sagapolutele,Verges par la passe du joueur au moins (Jaron-Keawe Sagapolutele (CAL)),2136,72891,1844086582,4851839563,249+,249+,1.7143,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Jaron-Keawe Sagapolutele,Verges par la passe du joueur au moins (Jaron-Keawe Sagapolutele (CAL)),2136,72891,1844086582,4851839564,239+,239+,1.5715,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Jaron-Keawe Sagapolutele,Verges par la passe du joueur au moins (Jaron-Keawe Sagapolutele (CAL)),2136,72891,1844086582,4851839548,259+,259+,1.8696,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Jaron-Keawe Sagapolutele,Verges par la passe du joueur au moins (Jaron-Keawe Sagapolutele (CAL)),2136,72891,1844086582,4851839549,269+,269+,2.05,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Jaron-Keawe Sagapolutele,Verges par la passe du joueur au moins (Jaron-Keawe Sagapolutele (CAL)),2136,72891,1844086582,4851839550,279+,279+,2.2,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Jaron-Keawe Sagapolutele,Verges par la passe du joueur au moins (Jaron-Keawe Sagapolutele (CAL)),2136,72891,1844086582,4851839551,289+,289+,2.4,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Adam Mohammed,Verges au sol du joueur au moins (Adam Mohammed (CAL)),2140,72895,1843808577,4841794144,50+,50+,1.5264,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Adam Mohammed,Verges au sol du joueur au moins (Adam Mohammed (CAL)),2140,72895,1843808577,4841794145,40+,40+,1.3077,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Adam Mohammed,Verges au sol du joueur au moins (Adam Mohammed (CAL)),2140,72895,1843808577,4841794036,60+,60+,1.8696,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Adam Mohammed,Verges au sol du joueur au moins (Adam Mohammed (CAL)),2140,72895,1843808577,4841794037,70+,70+,2.25,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Adam Mohammed,Verges au sol du joueur au moins (Adam Mohammed (CAL)),2140,72895,1843808577,4841794038,80+,80+,2.7,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Adam Mohammed,Verges au sol du joueur au moins (Adam Mohammed (CAL)),2140,72895,1843808577,4841794039,90+,90+,3.4,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Adam Mohammed,Verges au sol du joueur au moins (Adam Mohammed (CAL)),2140,72895,1843808577,4841794040,100+,100+,4.4,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Adam Mohammed,Verges au sol du joueur au moins (Adam Mohammed (CAL)),2140,72895,1843808577,4841794140,110+,110+,6.0,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Adam Mohammed,Verges au sol du joueur au moins (Adam Mohammed (CAL)),2140,72895,1843808577,4841794141,120+,120+,8.0,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Micah Ford,Verges au sol du joueur au moins (Micah Ford (STA)),2140,72895,1843808576,4848595311,112+,112+,2.1,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Micah Ford,Verges au sol du joueur au moins (Micah Ford (STA)),2140,72895,1843808576,4848595312,122+,122+,2.4,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Micah Ford,Verges au sol du joueur au moins (Micah Ford (STA)),2140,72895,1843808576,4848595313,132+,132+,2.8,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Micah Ford,Verges au sol du joueur au moins (Micah Ford (STA)),2140,72895,1843808576,4848595314,142+,142+,3.3,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Micah Ford,Verges au sol du joueur au moins (Micah Ford (STA)),2140,72895,1843808576,4848595315,152+,152+,4.0,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Micah Ford,Verges au sol du joueur au moins (Micah Ford (STA)),2140,72895,1843808576,4848595316,162+,162+,4.75,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Micah Ford,Verges au sol du joueur au moins (Micah Ford (STA)),2140,72895,1843808576,4848595317,172+,172+,6.0,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Micah Ford,Verges au sol du joueur au moins (Micah Ford (STA)),2140,72895,1843808576,4848595318,182+,182+,7.25,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Micah Ford,Verges au sol du joueur au moins (Micah Ford (STA)),2140,72895,1843808576,4848595319,92+,92+,1.5556,0,False
+18187508,California Golden Bears vs. Stanford Cardinal,Micah Ford,Verges au sol du joueur au moins (Micah Ford (STA)),2140,72895,1843808576,4848595320,82+,82+,1.3449,0,False

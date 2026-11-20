@@ -1,29 +1,210 @@
 event_id,match,player,market,market_type_id,sport_market_id,child_market_id,odd_id,selection,line,price,odd_status,is_main_bet
-18187505,Missouri Tigers vs. Kentucky Wildcats,Austin Simmons,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1843643537,4840103838,Austin Simmons (MIZZOU) Plus de 231.5,Austin Simmons (MIZZOU) Plus de 231.5,1.7693,0,True
-18187505,Missouri Tigers vs. Kentucky Wildcats,Austin Simmons,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1843643537,4840103839,Austin Simmons (MIZZOU) moins de 231.5,Austin Simmons (MIZZOU) moins de 231.5,1.8334,0,True
-18187505,Missouri Tigers vs. Kentucky Wildcats,Kenny Minchey,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1842560390,4836288635,Kenny Minchey (UK) Plus de 200.5,Kenny Minchey (UK) Plus de 200.5,1.7693,0,True
-18187505,Missouri Tigers vs. Kentucky Wildcats,Kenny Minchey,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1842560390,4836288636,Kenny Minchey (UK) moins de 200.5,Kenny Minchey (UK) moins de 200.5,1.8334,0,True
-18187505,Missouri Tigers vs. Kentucky Wildcats,Austin Simmons,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1837890466,4822799366,Austin Simmons (MIZZOU) Plus de 1.5,Austin Simmons (MIZZOU) Plus de 1.5,1.8334,0,False
-18187505,Missouri Tigers vs. Kentucky Wildcats,Austin Simmons,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1837890466,4822799367,Austin Simmons (MIZZOU) moins de 1.5,Austin Simmons (MIZZOU) moins de 1.5,1.7693,0,False
-18187505,Missouri Tigers vs. Kentucky Wildcats,Kenny Minchey,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1837890433,4822799300,Kenny Minchey (UK) Plus de 1.5,Kenny Minchey (UK) Plus de 1.5,2.4,0,False
-18187505,Missouri Tigers vs. Kentucky Wildcats,Kenny Minchey,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1837890433,4822799301,Kenny Minchey (UK) moins de 1.5,Kenny Minchey (UK) moins de 1.5,1.4445,0,False
-18187505,Missouri Tigers vs. Kentucky Wildcats,Cayden Lee,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1840419733,4829994635,Cayden Lee (MIZZOU) Plus de 67.5,Cayden Lee (MIZZOU) Plus de 67.5,1.8334,0,False
-18187505,Missouri Tigers vs. Kentucky Wildcats,Cayden Lee,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1840419733,4829994636,Cayden Lee (MIZZOU) moins de 67.5,Cayden Lee (MIZZOU) moins de 67.5,1.7693,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Austin Simmons,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1840310872,4829722978,Austin Simmons (MIZZOU) Plus de 229.5,Austin Simmons (MIZZOU) Plus de 229.5,1.7693,0,True
+18187505,Missouri Tigers vs. Kentucky Wildcats,Austin Simmons,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1840310872,4829722979,Austin Simmons (MIZZOU) moins de 229.5,Austin Simmons (MIZZOU) moins de 229.5,1.8334,0,True
+18187505,Missouri Tigers vs. Kentucky Wildcats,Kenny Minchey,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1837902654,4822828098,Kenny Minchey (UK) Plus de 208.5,Kenny Minchey (UK) Plus de 208.5,1.7693,0,True
+18187505,Missouri Tigers vs. Kentucky Wildcats,Kenny Minchey,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1837902654,4822828099,Kenny Minchey (UK) moins de 208.5,Kenny Minchey (UK) moins de 208.5,1.8334,0,True
+18187505,Missouri Tigers vs. Kentucky Wildcats,Nic Anderson,Verges de réception du joueur au moins (Nic Anderson (KEN)),2143,72898,1846303443,4848397248,22+,22+,1.8696,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Nic Anderson,Verges de réception du joueur au moins (Nic Anderson (KEN)),2143,72898,1846303443,4848397249,32+,32+,2.3,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Nic Anderson,Verges de réception du joueur au moins (Nic Anderson (KEN)),2143,72898,1846303443,4848397250,42+,42+,2.95,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Nic Anderson,Verges de réception du joueur au moins (Nic Anderson (KEN)),2143,72898,1846303443,4848397251,52+,52+,3.85,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Nic Anderson,Verges de réception du joueur au moins (Nic Anderson (KEN)),2143,72898,1846303443,4848397252,62+,62+,5.25,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Nic Anderson,Verges de réception du joueur au moins (Nic Anderson (KEN)),2143,72898,1846303443,4848397253,72+,72+,7.75,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Nic Anderson,Verges de réception du joueur au moins (Nic Anderson (KEN)),2143,72898,1846303443,4848397254,82+,82+,12.0,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Nic Anderson,Verges de réception du joueur au moins (Nic Anderson (KEN)),2143,72898,1846303443,4848397255,92+,92+,18.0,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Nic Anderson,Verges de réception du joueur au moins (Nic Anderson (KEN)),2143,72898,1846303443,4848397257,12+,12+,1.4167,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,DJ Miller,Verges de réception du joueur au moins (DJ Miller (KEN)),2143,72898,1843826730,4849255559,36+,36+,1.8696,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,DJ Miller,Verges de réception du joueur au moins (DJ Miller (KEN)),2143,72898,1843826730,4849255560,46+,46+,2.15,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,DJ Miller,Verges de réception du joueur au moins (DJ Miller (KEN)),2143,72898,1843826730,4849255561,56+,56+,2.55,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,DJ Miller,Verges de réception du joueur au moins (DJ Miller (KEN)),2143,72898,1843826730,4849255562,66+,66+,3.0,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,DJ Miller,Verges de réception du joueur au moins (DJ Miller (KEN)),2143,72898,1843826730,4849255563,76+,76+,3.75,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,DJ Miller,Verges de réception du joueur au moins (DJ Miller (KEN)),2143,72898,1843826730,4849255564,86+,86+,4.5,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,DJ Miller,Verges de réception du joueur au moins (DJ Miller (KEN)),2143,72898,1843826730,4849255565,96+,96+,5.75,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,DJ Miller,Verges de réception du joueur au moins (DJ Miller (KEN)),2143,72898,1843826730,4849255566,106+,106+,7.5,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,DJ Miller,Verges de réception du joueur au moins (DJ Miller (KEN)),2143,72898,1843826730,4849255567,116+,116+,10.0,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,DJ Miller,Verges de réception du joueur au moins (DJ Miller (KEN)),2143,72898,1843826730,4849255568,26+,26+,1.4762,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Willie Rodriguez,Verges de réception du joueur au moins (Willie Rodriguez (KEN)),2143,72898,1843827105,4849255569,42+,42+,1.8696,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Willie Rodriguez,Verges de réception du joueur au moins (Willie Rodriguez (KEN)),2143,72898,1843827105,4849255570,52+,52+,2.15,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Willie Rodriguez,Verges de réception du joueur au moins (Willie Rodriguez (KEN)),2143,72898,1843827105,4849255571,62+,62+,2.55,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Willie Rodriguez,Verges de réception du joueur au moins (Willie Rodriguez (KEN)),2143,72898,1843827105,4849255572,72+,72+,3.1,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Willie Rodriguez,Verges de réception du joueur au moins (Willie Rodriguez (KEN)),2143,72898,1843827105,4849255573,82+,82+,3.85,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Willie Rodriguez,Verges de réception du joueur au moins (Willie Rodriguez (KEN)),2143,72898,1843827105,4849255574,92+,92+,4.75,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Willie Rodriguez,Verges de réception du joueur au moins (Willie Rodriguez (KEN)),2143,72898,1843827105,4849255576,112+,112+,8.0,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Willie Rodriguez,Verges de réception du joueur au moins (Willie Rodriguez (KEN)),2143,72898,1843827105,4849255577,122+,122+,11.0,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Willie Rodriguez,Verges de réception du joueur au moins (Willie Rodriguez (KEN)),2143,72898,1843827105,4849255578,32+,32+,1.5,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Kenny Darby,Verges de réception du joueur au moins (Kenny Darby (KEN)),2143,72898,1843826734,4848619571,45+,45+,1.9091,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Kenny Darby,Verges de réception du joueur au moins (Kenny Darby (KEN)),2143,72898,1843826734,4848619572,55+,55+,2.2,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Kenny Darby,Verges de réception du joueur au moins (Kenny Darby (KEN)),2143,72898,1843826734,4848619573,65+,65+,2.6,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Kenny Darby,Verges de réception du joueur au moins (Kenny Darby (KEN)),2143,72898,1843826734,4848619574,75+,75+,3.2,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Kenny Darby,Verges de réception du joueur au moins (Kenny Darby (KEN)),2143,72898,1843826734,4848619575,85+,85+,3.85,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Kenny Darby,Verges de réception du joueur au moins (Kenny Darby (KEN)),2143,72898,1843826734,4848619576,95+,95+,5.0,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Kenny Darby,Verges de réception du joueur au moins (Kenny Darby (KEN)),2143,72898,1843826734,4848619577,105+,105+,6.5,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Kenny Darby,Verges de réception du joueur au moins (Kenny Darby (KEN)),2143,72898,1843826734,4848619579,125+,125+,12.0,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Kenny Darby,Verges de réception du joueur au moins (Kenny Darby (KEN)),2143,72898,1843826734,4848619580,35+,35+,1.5264,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Donovan Olugbode,Verges de réception du joueur au moins (Donovan Olugbode (MIZ)),2143,72898,1843826729,4840619654,60+,60+,1.9091,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Donovan Olugbode,Verges de réception du joueur au moins (Donovan Olugbode (MIZ)),2143,72898,1843826729,4840619655,70+,70+,2.2,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Donovan Olugbode,Verges de réception du joueur au moins (Donovan Olugbode (MIZ)),2143,72898,1843826729,4840619656,80+,80+,2.6,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Donovan Olugbode,Verges de réception du joueur au moins (Donovan Olugbode (MIZ)),2143,72898,1843826729,4840619657,90+,90+,3.2,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Donovan Olugbode,Verges de réception du joueur au moins (Donovan Olugbode (MIZ)),2143,72898,1843826729,4840619658,100+,100+,4.0,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Donovan Olugbode,Verges de réception du joueur au moins (Donovan Olugbode (MIZ)),2143,72898,1843826729,4840619659,110+,110+,5.0,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Donovan Olugbode,Verges de réception du joueur au moins (Donovan Olugbode (MIZ)),2143,72898,1843826729,4840619660,120+,120+,6.5,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Donovan Olugbode,Verges de réception du joueur au moins (Donovan Olugbode (MIZ)),2143,72898,1843826729,4840619663,50+,50+,1.5264,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Cayden Lee,Verges de réception du joueur au moins (Cayden Lee (MIZ)),2143,72898,1843826732,4847640403,77+,77+,1.8696,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Cayden Lee,Verges de réception du joueur au moins (Cayden Lee (MIZ)),2143,72898,1843826732,4847640404,87+,87+,2.15,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Cayden Lee,Verges de réception du joueur au moins (Cayden Lee (MIZ)),2143,72898,1843826732,4847640405,97+,97+,2.55,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Cayden Lee,Verges de réception du joueur au moins (Cayden Lee (MIZ)),2143,72898,1843826732,4847640406,107+,107+,3.0,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Cayden Lee,Verges de réception du joueur au moins (Cayden Lee (MIZ)),2143,72898,1843826732,4847640407,117+,117+,3.75,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Cayden Lee,Verges de réception du joueur au moins (Cayden Lee (MIZ)),2143,72898,1843826732,4847640408,127+,127+,4.5,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Cayden Lee,Verges de réception du joueur au moins (Cayden Lee (MIZ)),2143,72898,1843826732,4847640409,137+,137+,5.75,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Cayden Lee,Verges de réception du joueur au moins (Cayden Lee (MIZ)),2143,72898,1843826732,4847640411,157+,157+,10.0,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Cayden Lee,Verges de réception du joueur au moins (Cayden Lee (MIZ)),2143,72898,1843826732,4847640412,67+,67+,1.5556,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Austin Simmons,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1837890466,4822799366,Austin Simmons (MIZZOU) Plus de 1.5,Austin Simmons (MIZZOU) Plus de 1.5,1.8,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Austin Simmons,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1837890466,4822799367,Austin Simmons (MIZZOU) moins de 1.5,Austin Simmons (MIZZOU) moins de 1.5,1.8,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Kenny Minchey,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1837890433,4822799300,Kenny Minchey (UK) Plus de 1.5,Kenny Minchey (UK) Plus de 1.5,2.35,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Kenny Minchey,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1837890433,4822799301,Kenny Minchey (UK) moins de 1.5,Kenny Minchey (UK) moins de 1.5,1.4546,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Cayden Lee,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1840416674,4829984224,Cayden Lee (MIZZOU) Plus de 65.5,Cayden Lee (MIZZOU) Plus de 65.5,1.7693,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Cayden Lee,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1840416674,4829984225,Cayden Lee (MIZZOU) moins de 65.5,Cayden Lee (MIZZOU) moins de 65.5,1.8334,0,False
 18187505,Missouri Tigers vs. Kentucky Wildcats,Donovan Olugbode,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1840419736,4829994641,Donovan Olugbode (MIZZOU) Plus de 57.5,Donovan Olugbode (MIZZOU) Plus de 57.5,1.7693,0,False
 18187505,Missouri Tigers vs. Kentucky Wildcats,Donovan Olugbode,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1840419736,4829994642,Donovan Olugbode (MIZZOU) moins de 57.5,Donovan Olugbode (MIZZOU) moins de 57.5,1.8334,0,False
-18187505,Missouri Tigers vs. Kentucky Wildcats,Willie Rodriguez,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1843819619,4840601870,Willie Rodriguez (UK) Plus de 45.5,Willie Rodriguez (UK) Plus de 45.5,1.8334,0,False
-18187505,Missouri Tigers vs. Kentucky Wildcats,Willie Rodriguez,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1843819619,4840601871,Willie Rodriguez (UK) moins de 45.5,Willie Rodriguez (UK) moins de 45.5,1.7693,0,False
-18187505,Missouri Tigers vs. Kentucky Wildcats,Kenny Darby,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1843816853,4840594587,Kenny Darby (UK) Plus de 42.5,Kenny Darby (UK) Plus de 42.5,1.8334,0,False
-18187505,Missouri Tigers vs. Kentucky Wildcats,Kenny Darby,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1843816853,4840594588,Kenny Darby (UK) moins de 42.5,Kenny Darby (UK) moins de 42.5,1.7693,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Willie Rodriguez,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1844669372,4843023875,Willie Rodriguez (UK) Plus de 46.5,Willie Rodriguez (UK) Plus de 46.5,1.8,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Willie Rodriguez,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1844669372,4843023876,Willie Rodriguez (UK) moins de 46.5,Willie Rodriguez (UK) moins de 46.5,1.8,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Kenny Darby,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1843816853,4840594587,Kenny Darby (UK) Plus de 42.5,Kenny Darby (UK) Plus de 42.5,1.7693,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Kenny Darby,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1843816853,4840594588,Kenny Darby (UK) moins de 42.5,Kenny Darby (UK) moins de 42.5,1.8334,0,False
 18187505,Missouri Tigers vs. Kentucky Wildcats,DJ Miller,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1843879874,4840763382,DJ Miller (UK) Plus de 38.5,DJ Miller (UK) Plus de 38.5,1.7693,0,False
 18187505,Missouri Tigers vs. Kentucky Wildcats,DJ Miller,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1843879874,4840763383,DJ Miller (UK) moins de 38.5,DJ Miller (UK) moins de 38.5,1.8334,0,False
 18187505,Missouri Tigers vs. Kentucky Wildcats,Henry Boyer,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1837985603,4823025976,Henry Boyer (UK) moins de 6.5,Henry Boyer (UK) moins de 6.5,1.7693,0,False
 18187505,Missouri Tigers vs. Kentucky Wildcats,Henry Boyer,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1837985603,4823025975,Henry Boyer (UK) Plus de 6.5,Henry Boyer (UK) Plus de 6.5,1.8334,0,False
-18187505,Missouri Tigers vs. Kentucky Wildcats,CJ Baxter,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1843760411,4840453362,CJ Baxter (UK) Plus de 5.5,CJ Baxter (UK) Plus de 5.5,1.7693,0,False
-18187505,Missouri Tigers vs. Kentucky Wildcats,CJ Baxter,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1843760411,4840453363,CJ Baxter (UK) moins de 5.5,CJ Baxter (UK) moins de 5.5,1.8334,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,CJ Baxter Jr.,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1843760411,4840453362,CJ Baxter Jr. (UK) Plus de 5.5,CJ Baxter Jr. (UK) Plus de 5.5,1.8334,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,CJ Baxter Jr.,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1843760411,4840453363,CJ Baxter Jr. (UK) moins de 5.5,CJ Baxter Jr. (UK) moins de 5.5,1.7693,0,False
 18187505,Missouri Tigers vs. Kentucky Wildcats,Jamal Roberts,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1842563948,4836297470,Jamal Roberts (MIZZOU) Plus de 91.5,Jamal Roberts (MIZZOU) Plus de 91.5,1.8334,0,False
 18187505,Missouri Tigers vs. Kentucky Wildcats,Jamal Roberts,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1842563948,4836297471,Jamal Roberts (MIZZOU) moins de 91.5,Jamal Roberts (MIZZOU) moins de 91.5,1.7693,0,False
-18187505,Missouri Tigers vs. Kentucky Wildcats,CJ Baxter,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1846241837,4848237342,CJ Baxter (UK) Plus de 45.5,CJ Baxter (UK) Plus de 45.5,1.7693,0,False
-18187505,Missouri Tigers vs. Kentucky Wildcats,CJ Baxter,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1846241837,4848237343,CJ Baxter (UK) moins de 45.5,CJ Baxter (UK) moins de 45.5,1.8334,0,False
-18187505,Missouri Tigers vs. Kentucky Wildcats,Kenny Minchey,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1843753198,4840436036,Kenny Minchey (UK) Plus de 3.5,Kenny Minchey (UK) Plus de 3.5,1.8334,0,False
-18187505,Missouri Tigers vs. Kentucky Wildcats,Kenny Minchey,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1843753198,4840436037,Kenny Minchey (UK) moins de 3.5,Kenny Minchey (UK) moins de 3.5,1.7693,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,CJ Baxter Jr.,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1845596426,4846416489,CJ Baxter Jr. (UK) Plus de 46.5,CJ Baxter Jr. (UK) Plus de 46.5,1.8334,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,CJ Baxter Jr.,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1845596426,4846416490,CJ Baxter Jr. (UK) moins de 46.5,CJ Baxter Jr. (UK) moins de 46.5,1.7693,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Kenny Minchey,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1846925770,4851012640,Kenny Minchey (UK) moins de 2.5,Kenny Minchey (UK) moins de 2.5,1.8334,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Kenny Minchey,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1846925770,4851012639,Kenny Minchey (UK) Plus de 2.5,Kenny Minchey (UK) Plus de 2.5,1.7693,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Cayden Lee,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1841102568,4831927097,Cayden Lee (MIZZOU) Plus de 6.5,Cayden Lee (MIZZOU) Plus de 6.5,1.8,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Cayden Lee,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1841102568,4831927098,Cayden Lee (MIZZOU) moins de 6.5,Cayden Lee (MIZZOU) moins de 6.5,1.8334,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Donovan Olugbode,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1840414276,4829978234,Donovan Olugbode (MIZZOU) Plus de 4.5,Donovan Olugbode (MIZZOU) Plus de 4.5,1.7408,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Donovan Olugbode,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1840414276,4829978235,Donovan Olugbode (MIZZOU) moins de 4.5,Donovan Olugbode (MIZZOU) moins de 4.5,1.9091,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Willie Rodriguez,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1837890571,4822799576,Willie Rodriguez (UK) Plus de 4.5,Willie Rodriguez (UK) Plus de 4.5,1.7408,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Willie Rodriguez,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1837890571,4822799577,Willie Rodriguez (UK) moins de 4.5,Willie Rodriguez (UK) moins de 4.5,1.9091,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Kenny Darby,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1841102584,4831927129,Kenny Darby (UK) Plus de 4.5,Kenny Darby (UK) Plus de 4.5,2.0,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Kenny Darby,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1841102584,4831927130,Kenny Darby (UK) moins de 4.5,Kenny Darby (UK) moins de 4.5,1.6667,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,DJ Miller,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1837890606,4822799646,DJ Miller (UK) Plus de 3.5,DJ Miller (UK) Plus de 3.5,2.15,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,DJ Miller,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1837890606,4822799647,DJ Miller (UK) moins de 3.5,DJ Miller (UK) moins de 3.5,1.5715,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,CJ Baxter Jr.,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1837890422,4822799278,CJ Baxter Jr. (UK) Plus de 1.5,CJ Baxter Jr. (UK) Plus de 1.5,2.45,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,CJ Baxter Jr.,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1837890422,4822799279,CJ Baxter Jr. (UK) moins de 1.5,CJ Baxter Jr. (UK) moins de 1.5,1.4445,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Henry Boyer,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1837985604,4823025977,Henry Boyer (UK) Plus de 0.5,Henry Boyer (UK) Plus de 0.5,1.4167,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Henry Boyer,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1837985604,4823025978,Henry Boyer (UK) moins de 0.5,Henry Boyer (UK) moins de 0.5,2.55,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Kenny Minchey,"Passes complétées, Joueur (prolongations incluses)",760,71921,1837890436,4822799306,Kenny Minchey (UK) Plus de 19.5,Kenny Minchey (UK) Plus de 19.5,1.9524,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Kenny Minchey,"Passes complétées, Joueur (prolongations incluses)",760,71921,1837890436,4822799307,Kenny Minchey (UK) moins de 19.5,Kenny Minchey (UK) moins de 19.5,1.6897,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,CJ Baxter Jr.,Verges à la course et à la réception Plus/Moins (prolongation incluse),3317,73841,1846449384,4848820690,CJ Baxter Jr. (UK) Plus de 55.5,CJ Baxter Jr. (UK) Plus de 55.5,1.8,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,CJ Baxter Jr.,Verges à la course et à la réception Plus/Moins (prolongation incluse),3317,73841,1846449384,4848820691,CJ Baxter Jr. (UK) moins de 55.5,CJ Baxter Jr. (UK) moins de 55.5,1.8334,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Austin Simmons,Touchés par la passe du joueur au moins (Austin Simmons (MIZ)),2138,72893,1843826568,4840619114,2+,2+,1.7408,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Austin Simmons,Touchés par la passe du joueur au moins (Austin Simmons (MIZ)),2138,72893,1843826568,4840619115,3+,3+,2.75,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Austin Simmons,Touchés par la passe du joueur au moins (Austin Simmons (MIZ)),2138,72893,1843826568,4840619116,4+,4+,5.0,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Austin Simmons,Touchés par la passe du joueur au moins (Austin Simmons (MIZ)),2138,72893,1843826568,4840619117,1+,1+,1.1429,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Kenny Minchey,Touchés par la passe du joueur au moins (Kenny Minchey (KEN)),2138,72893,1843826726,4840619625,2+,2+,2.65,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Kenny Minchey,Touchés par la passe du joueur au moins (Kenny Minchey (KEN)),2138,72893,1843826726,4840619626,3+,3+,4.4,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Kenny Minchey,Touchés par la passe du joueur au moins (Kenny Minchey (KEN)),2138,72893,1843826726,4840619627,4+,4+,10.0,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Kenny Minchey,Touchés par la passe du joueur au moins (Kenny Minchey (KEN)),2138,72893,1843826726,4840619628,1+,1+,1.3077,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Kenny Minchey,Verges par la passe du joueur au moins (Kenny Minchey (KEN)),2136,72891,1843827106,4840620610,210+,210+,1.8696,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Kenny Minchey,Verges par la passe du joueur au moins (Kenny Minchey (KEN)),2136,72891,1843827106,4840620611,220+,220+,2.05,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Kenny Minchey,Verges par la passe du joueur au moins (Kenny Minchey (KEN)),2136,72891,1843827106,4840620612,230+,230+,2.25,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Kenny Minchey,Verges par la passe du joueur au moins (Kenny Minchey (KEN)),2136,72891,1843827106,4840620613,240+,240+,2.5,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Kenny Minchey,Verges par la passe du joueur au moins (Kenny Minchey (KEN)),2136,72891,1843827106,4840620614,250+,250+,2.85,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Kenny Minchey,Verges par la passe du joueur au moins (Kenny Minchey (KEN)),2136,72891,1843827106,4840620615,260+,260+,3.2,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Kenny Minchey,Verges par la passe du joueur au moins (Kenny Minchey (KEN)),2136,72891,1843827106,4840620616,270+,270+,3.6,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Kenny Minchey,Verges par la passe du joueur au moins (Kenny Minchey (KEN)),2136,72891,1843827106,4840620617,280+,280+,4.25,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Kenny Minchey,Verges par la passe du joueur au moins (Kenny Minchey (KEN)),2136,72891,1843827106,4840620618,290+,290+,5.0,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Kenny Minchey,Verges par la passe du joueur au moins (Kenny Minchey (KEN)),2136,72891,1843827106,4840620619,300+,300+,5.75,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Kenny Minchey,Verges par la passe du joueur au moins (Kenny Minchey (KEN)),2136,72891,1843827106,4840620620,310+,310+,6.75,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Kenny Minchey,Verges par la passe du joueur au moins (Kenny Minchey (KEN)),2136,72891,1843827106,4840620621,320+,320+,8.0,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Kenny Minchey,Verges par la passe du joueur au moins (Kenny Minchey (KEN)),2136,72891,1843827106,4840620622,330+,330+,10.0,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Kenny Minchey,Verges par la passe du joueur au moins (Kenny Minchey (KEN)),2136,72891,1843827106,4840620623,340+,340+,12.0,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Kenny Minchey,Verges par la passe du joueur au moins (Kenny Minchey (KEN)),2136,72891,1843827106,4840620624,350+,350+,15.0,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Kenny Minchey,Verges par la passe du joueur au moins (Kenny Minchey (KEN)),2136,72891,1843827106,4840620625,200+,200+,1.6897,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Kenny Minchey,Verges par la passe du joueur au moins (Kenny Minchey (KEN)),2136,72891,1843827106,4840620626,190+,190+,1.5264,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Austin Simmons,Verges par la passe du joueur au moins (Austin Simmons (MIZ)),2136,72891,1843826728,4840619648,331+,331+,6.75,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Austin Simmons,Verges par la passe du joueur au moins (Austin Simmons (MIZ)),2136,72891,1843826728,4840619649,341+,341+,8.0,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Austin Simmons,Verges par la passe du joueur au moins (Austin Simmons (MIZ)),2136,72891,1843826728,4840619650,351+,351+,10.0,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Austin Simmons,Verges par la passe du joueur au moins (Austin Simmons (MIZ)),2136,72891,1843826728,4840619651,361+,361+,12.0,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Austin Simmons,Verges par la passe du joueur au moins (Austin Simmons (MIZ)),2136,72891,1843826728,4840619652,211+,211+,1.7143,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Austin Simmons,Verges par la passe du joueur au moins (Austin Simmons (MIZ)),2136,72891,1843826728,4840619653,201+,201+,1.5715,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Austin Simmons,Verges par la passe du joueur au moins (Austin Simmons (MIZ)),2136,72891,1843826728,4840619637,221+,221+,1.8696,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Austin Simmons,Verges par la passe du joueur au moins (Austin Simmons (MIZ)),2136,72891,1843826728,4840619638,231+,231+,2.05,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Austin Simmons,Verges par la passe du joueur au moins (Austin Simmons (MIZ)),2136,72891,1843826728,4840619639,241+,241+,2.25,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Austin Simmons,Verges par la passe du joueur au moins (Austin Simmons (MIZ)),2136,72891,1843826728,4840619640,251+,251+,2.45,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Austin Simmons,Verges par la passe du joueur au moins (Austin Simmons (MIZ)),2136,72891,1843826728,4840619641,261+,261+,2.7,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Austin Simmons,Verges par la passe du joueur au moins (Austin Simmons (MIZ)),2136,72891,1843826728,4840619642,271+,271+,3.0,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Austin Simmons,Verges par la passe du joueur au moins (Austin Simmons (MIZ)),2136,72891,1843826728,4840619643,281+,281+,3.4,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Austin Simmons,Verges par la passe du joueur au moins (Austin Simmons (MIZ)),2136,72891,1843826728,4840619644,291+,291+,3.85,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Austin Simmons,Verges par la passe du joueur au moins (Austin Simmons (MIZ)),2136,72891,1843826728,4840619645,301+,301+,4.4,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Austin Simmons,Verges par la passe du joueur au moins (Austin Simmons (MIZ)),2136,72891,1843826728,4840619646,311+,311+,5.0,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Austin Simmons,Verges par la passe du joueur au moins (Austin Simmons (MIZ)),2136,72891,1843826728,4840619647,321+,321+,5.75,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,CJ Baxter Jr.,Verges au sol du joueur au moins (CJ Baxter Jr. (KEN)),2140,72895,1843826570,4848619560,44+,44+,1.8696,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,CJ Baxter Jr.,Verges au sol du joueur au moins (CJ Baxter Jr. (KEN)),2140,72895,1843826570,4848619561,54+,54+,2.2,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,CJ Baxter Jr.,Verges au sol du joueur au moins (CJ Baxter Jr. (KEN)),2140,72895,1843826570,4848619562,64+,64+,2.6,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,CJ Baxter Jr.,Verges au sol du joueur au moins (CJ Baxter Jr. (KEN)),2140,72895,1843826570,4848619563,74+,74+,3.2,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,CJ Baxter Jr.,Verges au sol du joueur au moins (CJ Baxter Jr. (KEN)),2140,72895,1843826570,4848619564,84+,84+,4.0,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,CJ Baxter Jr.,Verges au sol du joueur au moins (CJ Baxter Jr. (KEN)),2140,72895,1843826570,4848619565,94+,94+,5.0,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,CJ Baxter Jr.,Verges au sol du joueur au moins (CJ Baxter Jr. (KEN)),2140,72895,1843826570,4848619566,104+,104+,6.75,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,CJ Baxter Jr.,Verges au sol du joueur au moins (CJ Baxter Jr. (KEN)),2140,72895,1843826570,4848619567,114+,114+,9.0,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,CJ Baxter Jr.,Verges au sol du joueur au moins (CJ Baxter Jr. (KEN)),2140,72895,1843826570,4848619568,124+,124+,13.0,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,CJ Baxter Jr.,Verges au sol du joueur au moins (CJ Baxter Jr. (KEN)),2140,72895,1843826570,4848619569,34+,34+,1.5264,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,CJ Baxter Jr.,Verges au sol du joueur au moins (CJ Baxter Jr. (KEN)),2140,72895,1843826570,4848619570,24+,24+,1.3077,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Jamal Roberts,Verges au sol du joueur au moins (Jamal Roberts (MIZ)),2140,72895,1843826567,4849278925,94+,94+,1.8696,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Jamal Roberts,Verges au sol du joueur au moins (Jamal Roberts (MIZ)),2140,72895,1843826567,4849278926,104+,104+,2.1,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Jamal Roberts,Verges au sol du joueur au moins (Jamal Roberts (MIZ)),2140,72895,1843826567,4849278927,114+,114+,2.4,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Jamal Roberts,Verges au sol du joueur au moins (Jamal Roberts (MIZ)),2140,72895,1843826567,4849278928,124+,124+,2.75,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Jamal Roberts,Verges au sol du joueur au moins (Jamal Roberts (MIZ)),2140,72895,1843826567,4849278929,134+,134+,3.2,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Jamal Roberts,Verges au sol du joueur au moins (Jamal Roberts (MIZ)),2140,72895,1843826567,4849278930,144+,144+,3.85,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Jamal Roberts,Verges au sol du joueur au moins (Jamal Roberts (MIZ)),2140,72895,1843826567,4849278931,154+,154+,4.5,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Jamal Roberts,Verges au sol du joueur au moins (Jamal Roberts (MIZ)),2140,72895,1843826567,4849278932,164+,164+,5.5,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Jamal Roberts,Verges au sol du joueur au moins (Jamal Roberts (MIZ)),2140,72895,1843826567,4849278933,174+,174+,6.75,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Jamal Roberts,Verges au sol du joueur au moins (Jamal Roberts (MIZ)),2140,72895,1843826567,4849278934,84+,84+,1.625,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Jamal Roberts,Verges au sol du joueur au moins (Jamal Roberts (MIZ)),2140,72895,1843826567,4849278935,74+,74+,1.4348,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Ahmad Hardy,Verges au sol du joueur au moins (Ahmad Hardy (MIZ)),2140,72895,1846310140,4848607936,18+,18+,1.6667,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Ahmad Hardy,Verges au sol du joueur au moins (Ahmad Hardy (MIZ)),2140,72895,1846310140,4848607927,28+,28+,1.9091,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Ahmad Hardy,Verges au sol du joueur au moins (Ahmad Hardy (MIZ)),2140,72895,1846310140,4848607928,38+,38+,2.05,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Ahmad Hardy,Verges au sol du joueur au moins (Ahmad Hardy (MIZ)),2140,72895,1846310140,4848607929,48+,48+,2.25,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Ahmad Hardy,Verges au sol du joueur au moins (Ahmad Hardy (MIZ)),2140,72895,1846310140,4848607930,58+,58+,2.45,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Ahmad Hardy,Verges au sol du joueur au moins (Ahmad Hardy (MIZ)),2140,72895,1846310140,4848607931,68+,68+,2.7,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Ahmad Hardy,Verges au sol du joueur au moins (Ahmad Hardy (MIZ)),2140,72895,1846310140,4848607932,78+,78+,2.95,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Ahmad Hardy,Verges au sol du joueur au moins (Ahmad Hardy (MIZ)),2140,72895,1846310140,4848607933,88+,88+,3.3,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Ahmad Hardy,Verges au sol du joueur au moins (Ahmad Hardy (MIZ)),2140,72895,1846310140,4848607934,98+,98+,3.75,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Ahmad Hardy,Verges au sol du joueur au moins (Ahmad Hardy (MIZ)),2140,72895,1846310140,4848607935,108+,108+,4.25,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Willie Rodriguez,Joueur total de réception (Willie Rodriguez (KEN)) (incl. OT),2142,72897,1843826639,4840619314,5+,5+,1.8,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Willie Rodriguez,Joueur total de réception (Willie Rodriguez (KEN)) (incl. OT),2142,72897,1843826639,4840619315,6+,6+,2.45,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Willie Rodriguez,Joueur total de réception (Willie Rodriguez (KEN)) (incl. OT),2142,72897,1843826639,4840619316,7+,7+,3.5,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Willie Rodriguez,Joueur total de réception (Willie Rodriguez (KEN)) (incl. OT),2142,72897,1843826639,4840619317,8+,8+,5.5,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Willie Rodriguez,Joueur total de réception (Willie Rodriguez (KEN)) (incl. OT),2142,72897,1843826639,4840619318,9+,9+,9.0,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Willie Rodriguez,Joueur total de réception (Willie Rodriguez (KEN)) (incl. OT),2142,72897,1843826639,4840619319,10+,10+,16.0,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Willie Rodriguez,Joueur total de réception (Willie Rodriguez (KEN)) (incl. OT),2142,72897,1843826639,4840619320,4+,4+,1.2858,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Donovan Olugbode,Joueur total de réception (Donovan Olugbode (MIZ)) (incl. OT),2142,72897,1843826569,4840619118,5+,5+,1.8,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Donovan Olugbode,Joueur total de réception (Donovan Olugbode (MIZ)) (incl. OT),2142,72897,1843826569,4840619119,6+,6+,2.4,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Donovan Olugbode,Joueur total de réception (Donovan Olugbode (MIZ)) (incl. OT),2142,72897,1843826569,4840619120,7+,7+,3.4,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Donovan Olugbode,Joueur total de réception (Donovan Olugbode (MIZ)) (incl. OT),2142,72897,1843826569,4840619121,8+,8+,5.0,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Donovan Olugbode,Joueur total de réception (Donovan Olugbode (MIZ)) (incl. OT),2142,72897,1843826569,4840619122,9+,9+,8.5,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Donovan Olugbode,Joueur total de réception (Donovan Olugbode (MIZ)) (incl. OT),2142,72897,1843826569,4840619123,10+,10+,14.0,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Donovan Olugbode,Joueur total de réception (Donovan Olugbode (MIZ)) (incl. OT),2142,72897,1843826569,4840619124,4+,4+,1.2858,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Cayden Lee,Joueur total de réception (Cayden Lee (MIZ)) (incl. OT),2142,72897,1843826571,4840619136,7+,7+,1.9524,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Cayden Lee,Joueur total de réception (Cayden Lee (MIZ)) (incl. OT),2142,72897,1843826571,4840619137,8+,8+,2.55,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Cayden Lee,Joueur total de réception (Cayden Lee (MIZ)) (incl. OT),2142,72897,1843826571,4840619138,9+,9+,3.75,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Cayden Lee,Joueur total de réception (Cayden Lee (MIZ)) (incl. OT),2142,72897,1843826571,4840619139,10+,10+,5.5,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Cayden Lee,Joueur total de réception (Cayden Lee (MIZ)) (incl. OT),2142,72897,1843826571,4840619140,11+,11+,9.0,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Cayden Lee,Joueur total de réception (Cayden Lee (MIZ)) (incl. OT),2142,72897,1843826571,4840619141,12+,12+,15.0,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Cayden Lee,Joueur total de réception (Cayden Lee (MIZ)) (incl. OT),2142,72897,1843826571,4840619142,6+,6+,1.3637,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,DJ Miller,Joueur total de réception (DJ Miller (KEN)) (incl. OT),2142,72897,1843826640,4840619321,4+,4+,2.25,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,DJ Miller,Joueur total de réception (DJ Miller (KEN)) (incl. OT),2142,72897,1843826640,4840619322,5+,5+,3.2,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,DJ Miller,Joueur total de réception (DJ Miller (KEN)) (incl. OT),2142,72897,1843826640,4840619323,6+,6+,5.25,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,DJ Miller,Joueur total de réception (DJ Miller (KEN)) (incl. OT),2142,72897,1843826640,4840619324,7+,7+,10.0,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,DJ Miller,Joueur total de réception (DJ Miller (KEN)) (incl. OT),2142,72897,1843826640,4840619325,8+,8+,19.0,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,DJ Miller,Joueur total de réception (DJ Miller (KEN)) (incl. OT),2142,72897,1843826640,4840619326,9+,9+,36.0,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,DJ Miller,Joueur total de réception (DJ Miller (KEN)) (incl. OT),2142,72897,1843826640,4840619327,3+,3+,1.4445,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Kenny Darby,Joueur total de réception (Kenny Darby (KEN)) (incl. OT),2142,72897,1843826731,4840619680,4+,4+,1.4762,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Kenny Darby,Joueur total de réception (Kenny Darby (KEN)) (incl. OT),2142,72897,1843826731,4840619674,5+,5+,2.05,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Kenny Darby,Joueur total de réception (Kenny Darby (KEN)) (incl. OT),2142,72897,1843826731,4840619675,6+,6+,2.65,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Kenny Darby,Joueur total de réception (Kenny Darby (KEN)) (incl. OT),2142,72897,1843826731,4840619676,7+,7+,3.75,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Kenny Darby,Joueur total de réception (Kenny Darby (KEN)) (incl. OT),2142,72897,1843826731,4840619677,8+,8+,5.5,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Kenny Darby,Joueur total de réception (Kenny Darby (KEN)) (incl. OT),2142,72897,1843826731,4840619678,9+,9+,9.0,0,False
+18187505,Missouri Tigers vs. Kentucky Wildcats,Kenny Darby,Joueur total de réception (Kenny Darby (KEN)) (incl. OT),2142,72897,1843826731,4840619679,10+,10+,14.0,0,False

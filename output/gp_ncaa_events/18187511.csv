@@ -3,20 +3,20 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1,,2.3,4817085290,0,False
 18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (+12.5),12.5,1.25,4829086341,0,False
 18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (-12.5),12.5,3.7,4829086342,0,False
-18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (+3.5),-3.5,1.3031,4829086343,0,False
-18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (-3.5),-3.5,3.25,4829086344,0,False
+18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (+3.5),-3.5,1.3125,4829086343,0,False
+18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (-3.5),-3.5,3.2,4829086344,0,False
 18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (+10.5),10.5,1.3125,4829086345,0,False
 18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (-10.5),10.5,3.2,4829086346,0,False
 18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (+11.5),11.5,1.2858,4829086347,0,False
 18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (-11.5),11.5,3.4,4829086348,0,False
 18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (+13.5),13.5,1.2223,4829086349,0,False
 18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (-11.5),-11.5,7.5,4829469453,0,False
-18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (+14.5),14.5,1.1667,4829086351,0,False
-18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (-14.5),14.5,4.5,4829086352,0,False
-18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (+15.5),15.5,1.1429,4829086353,0,False
-18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (-15.5),15.5,5.0,4829086354,0,False
-18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (+16.5),16.5,1.1334,4829086355,0,False
-18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (-16.5),16.5,5.25,4829086356,0,False
+18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (+14.5),14.5,1.1819,4829086351,0,False
+18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (-14.5),14.5,4.4,4829086352,0,False
+18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (+15.5),15.5,1.1539,4829086353,0,False
+18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (-15.5),15.5,4.75,4829086354,0,False
+18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (+16.5),16.5,1.1429,4829086355,0,False
+18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (-16.5),16.5,5.0,4829086356,0,False
 18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (+17.5),17.5,1.1112,4829086357,0,False
 18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (-17.5),17.5,6.0,4829086358,0,False
 18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (+18.5),18.5,1.1,4829086359,0,False
@@ -24,104 +24,104 @@ event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id
 18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (+19.5),19.5,1.0834,4829086361,0,False
 18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (-19.5),19.5,7.0,4829086362,0,False
 18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (+11.5),-11.5,1.0715,4829469454,0,False
-18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (+2.5),-2.5,1.4167,4829086365,0,False
-18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (-2.5),-2.5,2.7,4829086366,0,False
-18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (-2.5),2.5,1.625,4829086367,0,False
-18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (+2.5),2.5,2.2,4829086368,0,False
+18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (+2.5),-2.5,1.4348,4829086365,0,False
+18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (-2.5),-2.5,2.65,4829086366,0,False
+18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (-2.5),2.5,1.6451,4829086367,0,False
+18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (+2.5),2.5,2.15,4829086368,0,False
 18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (-8.5),-8.5,5.5,4829086369,0,False
 18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (+8.5),-8.5,1.125,4829086370,0,False
-18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (-4.5),-4.5,3.7,4829086371,0,False
+18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (-4.5),-4.5,3.5,4829086371,0,False
 18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (-12.5),-12.5,8.0,4829704356,0,False
 18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (+7.5),7.5,1.4546,4825577765,0,False
 18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (+9.5),9.5,1.3847,4829086374,0,False
 18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (-9.5),9.5,2.85,4829086373,0,False
 18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (+4.5),4.5,1.7408,4829086376,0,False
 18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (-7.5),7.5,2.6,4825577764,0,False
-18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (+1.5),1.5,2.3,4829086378,0,False
+18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (+1.5),1.5,2.25,4829086378,0,False
 18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (-4.5),4.5,1.9524,4829086375,0,False
-18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (+3.5),3.5,1.8334,4829086380,0,True
+18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (+3.5),3.5,1.8,4829086380,0,True
 18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (-8.5),8.5,2.7,4829086381,0,False
 18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (+8.5),8.5,1.4167,4829086382,0,False
-18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (-3.5),3.5,1.8334,4829086379,0,True
-18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (-1.5),1.5,1.5556,4829086377,0,False
+18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (-3.5),3.5,1.8696,4829086379,0,True
+18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (-1.5),1.5,1.5715,4829086377,0,False
 18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (+9.5),-9.5,1.1112,4829086385,0,False
 18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (-9.5),-9.5,6.0,4829086386,0,False
-18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (+7.5),-7.5,1.1334,4829086387,0,False
-18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (-7.5),-7.5,5.25,4829086388,0,False
+18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (+7.5),-7.5,1.1429,4829086387,0,False
+18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (-7.5),-7.5,5.0,4829086388,0,False
 18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (+6.5),-6.5,1.2,4829086389,0,False
 18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (-6.5),-6.5,4.2,4829086390,0,False
-18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (+5.5),-5.5,1.2223,4829086391,0,False
-18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (-5.5),-5.5,4.0,4829086392,0,False
-18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (+1.5),-1.5,1.4546,4829086393,0,False
-18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (-1.5),-1.5,2.6,4829086394,0,False
+18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (+5.5),-5.5,1.2353,4829086391,0,False
+18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (-5.5),-5.5,3.75,4829086392,0,False
+18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (+1.5),-1.5,1.4762,4829086393,0,False
+18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (-1.5),-1.5,2.55,4829086394,0,False
 18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (+10.5),-10.5,1.0834,4829086395,0,False
 18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (-10.5),-10.5,7.0,4829086396,0,False
 18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (+12.5),-12.5,1.0625,4829704355,0,False
 18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (-6.5),6.5,2.25,4826085705,0,False
 18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (+6.5),6.5,1.5715,4826085706,0,False
-18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (+4.5),-4.5,1.25,4829086372,0,False
+18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (+4.5),-4.5,1.2667,4829086372,0,False
 18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (-13.5),13.5,4.0,4829086350,0,False
 18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (-5.5),5.5,2.1,4817085293,0,False
 18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (+5.5),5.5,1.6667,4817085294,0,False
-18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 38.5,38.5,2.1,4826935051,0,False
-18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 38.5,38.5,1.6667,4826935052,0,False
-18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 40.5,40.5,2.3,4824598296,0,False
-18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 40.5,40.5,1.5556,4824598297,0,False
-18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 22.5,22.5,1.0834,4831159068,0,False
-18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 21.5,21.5,1.0715,4854312988,0,False
-18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 21.5,21.5,7.5,4854312989,0,False
-18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 22.5,22.5,7.0,4831159069,0,False
-18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 30.5,30.5,1.3847,4829086397,0,False
-18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 30.5,30.5,2.85,4829086398,0,False
-18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 31.5,31.5,1.4546,4829086399,0,False
-18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 31.5,31.5,2.6,4829086400,0,False
-18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 32.5,32.5,1.5,4829086401,0,False
-18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 32.5,32.5,2.5,4829086402,0,False
-18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 33.5,33.5,1.5556,4829086403,0,False
-18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 33.5,33.5,2.3,4829086404,0,False
-18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 34.5,34.5,2.15,4829086405,0,False
-18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 34.5,34.5,1.6451,4829086406,0,False
-18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 35.5,35.5,1.6897,4829086407,0,False
-18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 35.5,35.5,2.05,4829086408,0,False
-18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 36.5,36.5,1.7693,4829086409,0,True
-18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 36.5,36.5,1.9091,4829086410,0,True
-18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 37.5,37.5,1.9524,4829086411,0,False
-18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 37.5,37.5,1.7408,4829086412,0,False
-18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 50.5,50.5,1.1539,4829086413,0,False
-18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 50.5,50.5,4.75,4829086414,0,False
-18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 51.5,51.5,5.5,4829086415,0,False
-18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 51.5,51.5,1.125,4829086416,0,False
-18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 42.5,42.5,2.6,4829086417,0,False
-18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 42.5,42.5,1.4546,4829086418,0,False
-18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 43.5,43.5,2.75,4829086419,0,False
-18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 43.5,43.5,1.4,4829086420,0,False
-18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 44.5,44.5,1.3334,4829086421,0,False
-18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 44.5,44.5,3.1,4829086422,0,False
-18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 45.5,45.5,3.25,4829086423,0,False
-18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 39.5,39.5,2.15,4825366872,0,False
-18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 46.5,46.5,3.5,4829086425,0,False
-18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 39.5,39.5,1.6451,4825366873,0,False
-18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 47.5,47.5,3.75,4829086427,0,False
-18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 45.5,45.5,1.3031,4829086424,0,False
-18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 46.5,46.5,1.2667,4829086426,0,False
-18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 48.5,48.5,4.2,4829086430,0,False
-18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 47.5,47.5,1.2353,4829086428,0,False
-18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 49.5,49.5,4.4,4829086432,0,False
-18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 48.5,48.5,1.2,4829086429,0,False
-18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 49.5,49.5,1.1819,4829086431,0,False
-18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 23.5,23.5,1.1334,4829086435,0,False
-18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 23.5,23.5,5.25,4829086436,0,False
-18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 29.5,29.5,3.2,4829086439,0,False
-18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 29.5,29.5,1.3125,4829086440,0,False
-18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 28.5,28.5,3.4,4829086441,0,False
-18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 28.5,28.5,1.2858,4829086442,0,False
-18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 41.5,41.5,2.55,4817085291,0,False
-18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 24.5,24.5,1.1539,4829086444,0,False
-18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 24.5,24.5,4.75,4829086443,0,False
-18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 27.5,27.5,1.2667,4829086446,0,False
-18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 26.5,26.5,4.2,4829086447,0,False
-18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 26.5,26.5,1.2,4829086448,0,False
-18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 25.5,25.5,1.1667,4829086449,0,False
-18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 25.5,25.5,4.5,4829086450,0,False
-18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 27.5,27.5,3.5,4829086445,0,False
-18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 41.5,41.5,1.4762,4817085292,0,False
+18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 38.5,38.5,2.2,4826935051,0,False
+18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 38.5,38.5,1.625,4826935052,0,False
+18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 40.5,40.5,2.4,4824598296,0,False
+18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 40.5,40.5,1.5264,4824598297,0,False
+18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 22.5,22.5,1.1,4831159068,0,False
+18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 21.5,21.5,1.0834,4854312988,0,False
+18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 21.5,21.5,7.0,4854312989,0,False
+18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 22.5,22.5,6.5,4831159069,0,False
+18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 30.5,30.5,1.4348,4829086397,0,False
+18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 30.5,30.5,2.65,4829086398,0,False
+18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 31.5,31.5,1.5,4829086399,0,False
+18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 31.5,31.5,2.5,4829086400,0,False
+18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 32.5,32.5,1.5264,4829086401,0,False
+18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 32.5,32.5,2.4,4829086402,0,False
+18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 33.5,33.5,1.625,4829086403,0,False
+18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 33.5,33.5,2.2,4829086404,0,False
+18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 34.5,34.5,2.05,4829086405,0,False
+18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 34.5,34.5,1.6897,4829086406,0,False
+18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 35.5,35.5,1.7693,4829086407,0,False
+18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 35.5,35.5,1.9091,4829086408,0,False
+18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 36.5,36.5,1.8334,4829086409,0,True
+18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 36.5,36.5,1.8334,4829086410,0,True
+18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 37.5,37.5,2.05,4829086411,0,False
+18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 37.5,37.5,1.6897,4829086412,0,False
+18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 50.5,50.5,1.1334,4829086413,0,False
+18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 50.5,50.5,5.25,4829086414,0,False
+18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 51.5,51.5,6.0,4829086415,0,False
+18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 51.5,51.5,1.1112,4829086416,0,False
+18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 42.5,42.5,2.75,4829086417,0,False
+18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 42.5,42.5,1.4,4829086418,0,False
+18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 43.5,43.5,3.0,4829086419,0,False
+18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 43.5,43.5,1.3572,4829086420,0,False
+18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 44.5,44.5,1.3031,4829086421,0,False
+18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 44.5,44.5,3.25,4829086422,0,False
+18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 45.5,45.5,3.5,4829086423,0,False
+18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 39.5,39.5,2.25,4825366872,0,False
+18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 46.5,46.5,3.7,4829086425,0,False
+18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 39.5,39.5,1.5715,4825366873,0,False
+18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 47.5,47.5,4.2,4829086427,0,False
+18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 45.5,45.5,1.2667,4829086424,0,False
+18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 46.5,46.5,1.25,4829086426,0,False
+18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 48.5,48.5,4.4,4829086430,0,False
+18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 47.5,47.5,1.2,4829086428,0,False
+18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 49.5,49.5,5.0,4829086432,0,False
+18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 48.5,48.5,1.1819,4829086429,0,False
+18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 49.5,49.5,1.1429,4829086431,0,False
+18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 23.5,23.5,1.1429,4829086435,0,False
+18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 23.5,23.5,5.0,4829086436,0,False
+18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 29.5,29.5,3.1,4829086439,0,False
+18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 29.5,29.5,1.3334,4829086440,0,False
+18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 28.5,28.5,3.25,4829086441,0,False
+18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 28.5,28.5,1.3031,4829086442,0,False
+18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 41.5,41.5,2.65,4817085291,0,False
+18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 24.5,24.5,1.1667,4829086444,0,False
+18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 24.5,24.5,4.5,4829086443,0,False
+18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 27.5,27.5,1.2858,4829086446,0,False
+18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 26.5,26.5,4.0,4829086447,0,False
+18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 26.5,26.5,1.2223,4829086448,0,False
+18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 25.5,25.5,1.1819,4829086449,0,False
+18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 25.5,25.5,4.4,4829086450,0,False
+18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 27.5,27.5,3.4,4829086445,0,False
+18187511,Michigan Wolverines vs. UCLA Bruins,2026-11-21T20:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 41.5,41.5,1.4348,4817085292,0,False

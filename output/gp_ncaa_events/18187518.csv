@@ -1,103 +1,127 @@
 event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id,selection,line,price,odd_id,odd_status,is_main_bet
-18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1,,2.25,4817083997,0,False
-18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,2,,1.5556,4817083998,0,False
-18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+2.5),-2.5,1.4546,4830914305,0,False
-18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-2.5),-2.5,2.6,4830914306,0,False
-18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (+7.5),7.5,1.5,4830914307,0,False
-18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (-7.5),7.5,2.5,4830914308,0,False
-18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+1.5),-1.5,1.5,4830914309,0,False
-18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-1.5),-1.5,2.5,4830914310,0,False
-18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (-10.5),10.5,2.9,4830914311,0,False
-18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (+10.5),10.5,1.3637,4830914312,0,False
-18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+5.5),-5.5,1.2858,4830914313,0,False
-18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-5.5),-5.5,3.4,4830914314,0,False
-18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+4.5),-4.5,1.3226,4830914315,0,False
-18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-4.5),-4.5,3.15,4830914316,0,False
-18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+7.5),-7.5,1.2,4830914317,0,False
-18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-7.5),-7.5,4.2,4830914318,0,False
-18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-6.5),-6.5,3.7,4830914319,0,False
-18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+6.5),-6.5,1.25,4830914320,0,False
-18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+3.5),-3.5,1.3637,4830914321,0,False
-18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-3.5),-3.5,2.9,4830914322,0,False
-18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-9.5),-9.5,4.75,4830914323,0,False
-18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+9.5),-9.5,1.1539,4830914324,0,False
-18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-8.5),-8.5,4.4,4830914325,0,False
-18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+8.5),-8.5,1.1819,4830914326,0,False
-18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (-3.5),3.5,1.8696,4825496599,0,True
-18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (+3.5),3.5,1.8,4825496600,0,True
+18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1,,2.3,4817083997,0,False
+18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,2,,1.5264,4817083998,0,False
+18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+2.5),-2.5,1.4348,4830914305,0,False
+18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-2.5),-2.5,2.65,4830914306,0,False
+18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (+7.5),7.5,1.4762,4830914307,0,False
+18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (-7.5),7.5,2.55,4830914308,0,False
+18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+1.5),-1.5,1.4762,4830914309,0,False
+18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-1.5),-1.5,2.55,4830914310,0,False
+18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (-10.5),10.5,3.1,4830914311,0,False
+18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (+10.5),10.5,1.3334,4830914312,0,False
+18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+5.5),-5.5,1.2667,4830914313,0,False
+18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-5.5),-5.5,3.5,4830914314,0,False
+18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+4.5),-4.5,1.2858,4830914315,0,False
+18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-4.5),-4.5,3.4,4830914316,0,False
+18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+7.5),-7.5,1.1539,4830914317,0,False
+18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-7.5),-7.5,4.75,4830914318,0,False
+18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-6.5),-6.5,3.75,4830914319,0,False
+18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+6.5),-6.5,1.2353,4830914320,0,False
+18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+3.5),-3.5,1.3334,4830914321,0,False
+18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-3.5),-3.5,3.1,4830914322,0,False
+18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-9.5),-9.5,5.25,4830914323,0,False
+18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+9.5),-9.5,1.1334,4830914324,0,False
+18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-8.5),-8.5,5.0,4830914325,0,False
+18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+8.5),-8.5,1.1429,4830914326,0,False
+18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-12.5),-12.5,7.0,4830914327,0,False
+18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+12.5),-12.5,1.0834,4830914328,0,False
+18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (-17.5),17.5,5.5,4830914329,0,False
+18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (+19.5),19.5,1.1,4846294938,0,False
 18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (+6.5),6.5,1.625,4830914331,0,False
+18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (+17.5),17.5,1.125,4830914330,0,False
+18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (-19.5),19.5,6.5,4846294939,0,False
+18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (+1.5),1.5,2.25,4830914334,0,False
+18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (-9.5),9.5,2.75,4830914335,0,False
+18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (+9.5),9.5,1.4,4830914336,0,False
+18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (+20.5),20.5,1.0834,4856106017,0,False
+18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (+8.5),8.5,1.4348,4830914337,0,False
+18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-11.5),-11.5,6.5,4830914339,0,False
+18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (-20.5),20.5,7.0,4856106016,0,False
+18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (-11.5),11.5,3.25,4830914341,0,False
+18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (+11.5),11.5,1.3031,4830914342,0,False
+18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (-16.5),16.5,4.75,4830914343,0,False
+18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (+16.5),16.5,1.1539,4830914344,0,False
+18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-10.5),-10.5,6.0,4830914345,0,False
+18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (-8.5),8.5,2.65,4830914338,0,False
+18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (-18.5),18.5,6.0,4830914347,0,False
+18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (+18.5),18.5,1.1112,4830914348,0,False
+18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (-12.5),12.5,3.5,4830914349,0,False
+18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (+12.5),12.5,1.2667,4830914350,0,False
+18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (-13.5),13.5,3.7,4830914351,0,False
+18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (+13.5),13.5,1.25,4830914352,0,False
+18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (+14.5),14.5,1.2,4830914353,0,False
+18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (+4.5),4.5,1.7408,4823033521,0,True
+18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (-15.5),15.5,4.4,4830914355,0,False
+18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (+15.5),15.5,1.1819,4830914356,0,False
+18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (-14.5),14.5,4.2,4830914354,0,False
+18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (-4.5),4.5,1.9524,4823033522,0,True
+18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+10.5),-10.5,1.1112,4830914346,0,False
 18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (-6.5),6.5,2.2,4830914332,0,False
-18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (-1.5),1.5,1.625,4830914333,0,False
-18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (+1.5),1.5,2.2,4830914334,0,False
-18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (-9.5),9.5,2.65,4830914335,0,False
-18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (+9.5),9.5,1.4348,4830914336,0,False
-18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (+8.5),8.5,1.4546,4830914337,0,False
-18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (-8.5),8.5,2.6,4830914338,0,False
-18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (-11.5),11.5,3.1,4830914341,0,False
-18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (+11.5),11.5,1.3334,4830914342,0,False
-18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (-16.5),16.5,4.2,4830914343,0,False
-18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (+16.5),16.5,1.2,4830914344,0,False
-18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (-12.5),12.5,3.2,4830914349,0,False
-18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (+12.5),12.5,1.3125,4830914350,0,False
-18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (-13.5),13.5,3.5,4830914351,0,False
-18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (+13.5),13.5,1.2667,4830914352,0,False
-18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (+14.5),14.5,1.2353,4830914353,0,False
-18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (+4.5),4.5,1.7408,4823033521,0,False
-18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (-15.5),15.5,4.0,4830914355,0,False
-18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (+15.5),15.5,1.2223,4830914356,0,False
-18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (-14.5),14.5,3.75,4830914354,0,False
-18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (-4.5),4.5,1.9524,4823033522,0,False
-18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (-5.5),5.5,2.1,4817083993,0,False
-18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (+5.5),5.5,1.6667,4817083994,0,False
-18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (+2.5),2.5,2.1,4826637793,0,False
-18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (-2.5),2.5,1.6667,4826637794,0,False
-18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 42.5,42.5,1.7693,4829375135,0,False
-18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 42.5,42.5,1.9091,4829375136,0,False
+18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (-1.5),1.5,1.5715,4830914333,0,False
+18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (-5.5),5.5,2.05,4817083993,0,False
+18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (+5.5),5.5,1.6897,4817083994,0,False
+18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (+2.5),2.5,2.15,4826637793,0,False
+18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (-2.5),2.5,1.6451,4826637794,0,False
+18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+11.5),-11.5,1.1,4830914340,0,False
+18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 54.5,54.5,1.2,4830914398,0,False
+18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 44.5,44.5,1.625,4823042904,0,False
+18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 56.5,56.5,1.1429,4830914374,0,False
+18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 42.5,42.5,1.8,4829375135,0,False
+18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 42.5,42.5,1.8696,4829375136,0,False
 18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 41.5,41.5,1.8334,4829859368,0,True
 18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 41.5,41.5,1.8334,4829859369,0,True
-18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 45.5,45.5,2.35,4823033519,0,False
-18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 45.5,45.5,1.5455,4823033520,0,False
+18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 45.5,45.5,2.3,4823033519,0,False
+18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 45.5,45.5,1.5556,4823033520,0,False
+18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 27.5,27.5,1.125,4830914359,0,False
+18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 27.5,27.5,5.5,4830914360,0,False
+18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 26.5,26.5,1.1,4830914361,0,False
+18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 26.5,26.5,6.5,4830914362,0,False
 18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 29.5,29.5,1.1539,4830914363,0,False
 18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 29.5,29.5,4.75,4830914364,0,False
+18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 28.5,28.5,1.1334,4830914365,0,False
+18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 28.5,28.5,5.25,4830914366,0,False
 18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 31.5,31.5,3.75,4830914367,0,False
 18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 31.5,31.5,1.2353,4830914368,0,False
-18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 51.5,51.5,3.5,4830914369,0,False
-18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 51.5,51.5,1.2667,4830914370,0,False
+18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 51.5,51.5,3.4,4830914369,0,False
+18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 51.5,51.5,1.2858,4830914370,0,False
 18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 46.5,46.5,1.5264,4830914371,0,False
 18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 46.5,46.5,2.4,4830914372,0,False
-18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 43.5,43.5,1.6897,4826085701,0,False
+18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 56.5,56.5,5.0,4830914373,0,False
 18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 43.5,43.5,2.05,4826085702,0,False
 18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 36.5,36.5,2.65,4830914375,0,False
 18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 36.5,36.5,1.4348,4830914376,0,False
-18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 48.5,48.5,1.3847,4830914377,0,False
-18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 48.5,48.5,2.85,4830914378,0,False
+18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 43.5,43.5,1.6897,4826085701,0,False
+18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 48.5,48.5,2.75,4830914378,0,False
 18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 38.5,38.5,2.25,4830914379,0,False
 18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 38.5,38.5,1.5715,4830914380,0,False
-18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 33.5,33.5,3.2,4830914381,0,False
-18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 33.5,33.5,1.3125,4830914382,0,False
+18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 33.5,33.5,3.25,4830914381,0,False
+18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 33.5,33.5,1.3031,4830914382,0,False
 18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 53.5,53.5,4.0,4830914383,0,False
-18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 53.5,53.5,1.2223,4830914384,0,False
+18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 48.5,48.5,1.4,4830914377,0,False
 18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 39.5,39.5,1.6451,4830914385,0,False
 18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 39.5,39.5,2.15,4830914386,0,False
-18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 32.5,32.5,3.5,4830914387,0,False
-18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 32.5,32.5,1.2667,4830914388,0,False
+18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 32.5,32.5,3.7,4830914387,0,False
+18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 32.5,32.5,1.25,4830914388,0,False
 18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 30.5,30.5,1.2,4830914389,0,False
 18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 30.5,30.5,4.2,4830914390,0,False
-18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 37.5,37.5,1.5455,4830914391,0,False
-18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 37.5,37.5,2.35,4830914392,0,False
+18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 37.5,37.5,1.5264,4830914391,0,False
+18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 37.5,37.5,2.4,4830914392,0,False
 18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 44.5,44.5,2.2,4823042905,0,False
-18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 34.5,34.5,1.3637,4830914394,0,False
-18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 35.5,35.5,1.4,4830914395,0,False
-18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 47.5,47.5,2.65,4817083995,0,False
-18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 34.5,34.5,2.9,4830914393,0,False
-18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 35.5,35.5,2.75,4830914396,0,False
-18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 49.5,49.5,3.0,4830914399,0,False
-18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 44.5,44.5,1.625,4823042904,0,False
-18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 40.5,40.5,1.7143,4830914401,0,False
-18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 40.5,40.5,2.0,4830914402,0,False
-18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 47.5,47.5,1.4348,4817083996,0,False
-18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 49.5,49.5,1.3572,4830914400,0,False
-18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 50.5,50.5,3.15,4830914405,0,False
-18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 50.5,50.5,1.3226,4830914406,0,False
-18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 52.5,52.5,1.2353,4830914407,0,False
-18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 52.5,52.5,3.75,4830914408,0,False
+18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 34.5,34.5,1.3572,4830914394,0,False
+18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 35.5,35.5,1.3847,4830914395,0,False
+18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 47.5,47.5,2.6,4817083995,0,False
+18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 54.5,54.5,4.2,4830914397,0,False
+18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 34.5,34.5,3.0,4830914393,0,False
+18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 49.5,49.5,2.9,4830914399,0,False
+18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 35.5,35.5,2.85,4830914396,0,False
+18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 40.5,40.5,1.6897,4830914401,0,False
+18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 40.5,40.5,2.05,4830914402,0,False
+18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 55.5,55.5,4.75,4830914403,0,False
+18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 47.5,47.5,1.4546,4817083996,0,False
+18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 50.5,50.5,3.1,4830914405,0,False
+18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 49.5,49.5,1.3637,4830914400,0,False
+18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 50.5,50.5,1.3334,4830914406,0,False
+18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 52.5,52.5,3.7,4830914408,0,False
+18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 52.5,52.5,1.25,4830914407,0,False
+18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 55.5,55.5,1.1539,4830914404,0,False
+18187518,Nebraska Cornhuskers vs. Ohio State Buckeyes,2026-11-21T17:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 53.5,53.5,1.2223,4830914384,0,False

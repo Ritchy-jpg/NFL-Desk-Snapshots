@@ -1,7 +1,15 @@
 event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id,selection,line,price,odd_id,odd_status,is_main_bet
 18260771,Indiana Hoosiers vs. Purdue Boilermakers,2026-11-29T00:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,2,,9.0,4862783242,0,False
 18260771,Indiana Hoosiers vs. Purdue Boilermakers,2026-11-29T00:00:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1,,1.02,4862783243,0,False
-18260771,Indiana Hoosiers vs. Purdue Boilermakers,2026-11-29T00:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+22.5),-22.5,1.8334,4862783240,0,True
-18260771,Indiana Hoosiers vs. Purdue Boilermakers,2026-11-29T00:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-22.5),-22.5,1.8334,4862783241,0,True
+18260771,Indiana Hoosiers vs. Purdue Boilermakers,2026-11-29T00:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+22.5),-22.5,1.8696,4862783240,0,True
+18260771,Indiana Hoosiers vs. Purdue Boilermakers,2026-11-29T00:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-22.5),-22.5,1.8,4862783241,0,True
+18260771,Indiana Hoosiers vs. Purdue Boilermakers,2026-11-29T00:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+21.5),-21.5,1.9524,4863676824,0,False
+18260771,Indiana Hoosiers vs. Purdue Boilermakers,2026-11-29T00:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-21.5),-21.5,1.7408,4863676825,0,False
+18260771,Indiana Hoosiers vs. Purdue Boilermakers,2026-11-29T00:00:00Z,spread,Écart (prolongation incluse),223,70799,1 (-23.5),-23.5,1.8696,4867065306,0,False
+18260771,Indiana Hoosiers vs. Purdue Boilermakers,2026-11-29T00:00:00Z,spread,Écart (prolongation incluse),223,70799,2 (+23.5),-23.5,1.8,4867065310,0,False
 18260771,Indiana Hoosiers vs. Purdue Boilermakers,2026-11-29T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 52.5,52.5,1.8334,4862783238,0,True
 18260771,Indiana Hoosiers vs. Purdue Boilermakers,2026-11-29T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 52.5,52.5,1.8334,4862783239,0,True
+18260771,Indiana Hoosiers vs. Purdue Boilermakers,2026-11-29T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 53.5,53.5,1.9091,4867067499,0,False
+18260771,Indiana Hoosiers vs. Purdue Boilermakers,2026-11-29T00:00:00Z,total,Total (prolongations incluses),225,70803,Plus de 51.5,51.5,1.7408,4864560492,0,False
+18260771,Indiana Hoosiers vs. Purdue Boilermakers,2026-11-29T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 51.5,51.5,1.9524,4864560491,0,False
+18260771,Indiana Hoosiers vs. Purdue Boilermakers,2026-11-29T00:00:00Z,total,Total (prolongations incluses),225,70803,Moins de 53.5,53.5,1.7693,4867067500,0,False

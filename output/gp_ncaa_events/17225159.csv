@@ -1,7 +1,15 @@
 event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id,selection,line,price,odd_id,odd_status,is_main_bet
 17225159,Oregon Ducks vs. Washington Huskies,2026-11-29T00:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1,,1.1334,4853485233,0,False
 17225159,Oregon Ducks vs. Washington Huskies,2026-11-29T00:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,2,,4.75,4853485234,0,False
-17225159,Oregon Ducks vs. Washington Huskies,2026-11-29T00:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (-13.5),-13.5,1.7693,4863266164,0,True
-17225159,Oregon Ducks vs. Washington Huskies,2026-11-29T00:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (+13.5),-13.5,1.9091,4863266165,0,True
-17225159,Oregon Ducks vs. Washington Huskies,2026-11-29T00:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 49.5,49.5,1.8334,4860662948,0,True
-17225159,Oregon Ducks vs. Washington Huskies,2026-11-29T00:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 49.5,49.5,1.8334,4860662949,0,True
+17225159,Oregon Ducks vs. Washington Huskies,2026-11-29T00:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (-12.5),-12.5,1.7408,4853485229,0,False
+17225159,Oregon Ducks vs. Washington Huskies,2026-11-29T00:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (+12.5),-12.5,1.9524,4853485230,0,False
+17225159,Oregon Ducks vs. Washington Huskies,2026-11-29T00:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (+14.5),-14.5,1.7408,4867067663,0,False
+17225159,Oregon Ducks vs. Washington Huskies,2026-11-29T00:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (-14.5),-14.5,1.9524,4867067664,0,False
+17225159,Oregon Ducks vs. Washington Huskies,2026-11-29T00:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (-13.5),-13.5,1.8,4863266164,0,True
+17225159,Oregon Ducks vs. Washington Huskies,2026-11-29T00:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (+13.5),-13.5,1.8696,4863266165,0,True
+17225159,Oregon Ducks vs. Washington Huskies,2026-11-29T00:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 49.5,49.5,1.9091,4860662948,0,False
+17225159,Oregon Ducks vs. Washington Huskies,2026-11-29T00:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 49.5,49.5,1.7693,4860662949,0,False
+17225159,Oregon Ducks vs. Washington Huskies,2026-11-29T00:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 50.5,50.5,1.8334,4859918833,0,True
+17225159,Oregon Ducks vs. Washington Huskies,2026-11-29T00:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 50.5,50.5,1.8334,4859918834,0,True
+17225159,Oregon Ducks vs. Washington Huskies,2026-11-29T00:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 51.5,51.5,1.9524,4867067671,0,False
+17225159,Oregon Ducks vs. Washington Huskies,2026-11-29T00:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 51.5,51.5,1.7408,4867067672,0,False

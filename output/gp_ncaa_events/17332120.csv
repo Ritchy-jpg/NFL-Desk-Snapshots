@@ -1,7 +1,15 @@
 event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id,selection,line,price,odd_id,odd_status,is_main_bet
 17332120,Alabama Crimson Tide vs. Auburn Tigers,2026-11-29T00:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,2,,5.25,4842229081,0,False
 17332120,Alabama Crimson Tide vs. Auburn Tigers,2026-11-29T00:30:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1,,1.1112,4842229082,0,False
-17332120,Alabama Crimson Tide vs. Auburn Tigers,2026-11-29T00:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (+16.5),-16.5,1.8334,4863676818,0,True
-17332120,Alabama Crimson Tide vs. Auburn Tigers,2026-11-29T00:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (-16.5),-16.5,1.8334,4863676819,0,True
-17332120,Alabama Crimson Tide vs. Auburn Tigers,2026-11-29T00:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 48.5,48.5,1.8,4866064547,0,True
-17332120,Alabama Crimson Tide vs. Auburn Tigers,2026-11-29T00:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 48.5,48.5,1.8696,4866064548,0,True
+17332120,Alabama Crimson Tide vs. Auburn Tigers,2026-11-29T00:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (-13.5),-13.5,1.7143,4867067878,0,False
+17332120,Alabama Crimson Tide vs. Auburn Tigers,2026-11-29T00:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (+13.5),-13.5,2.0,4867067879,0,False
+17332120,Alabama Crimson Tide vs. Auburn Tigers,2026-11-29T00:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (-14.5),-14.5,1.8334,4867067850,0,True
+17332120,Alabama Crimson Tide vs. Auburn Tigers,2026-11-29T00:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (+14.5),-14.5,1.8334,4867067851,0,True
+17332120,Alabama Crimson Tide vs. Auburn Tigers,2026-11-29T00:30:00Z,spread,Écart (prolongation incluse),223,70799,1 (-15.5),-15.5,1.8696,4842229077,0,False
+17332120,Alabama Crimson Tide vs. Auburn Tigers,2026-11-29T00:30:00Z,spread,Écart (prolongation incluse),223,70799,2 (+15.5),-15.5,1.8,4842229078,0,False
+17332120,Alabama Crimson Tide vs. Auburn Tigers,2026-11-29T00:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 48.5,48.5,1.7693,4866064547,0,False
+17332120,Alabama Crimson Tide vs. Auburn Tigers,2026-11-29T00:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 48.5,48.5,1.9091,4866064548,0,False
+17332120,Alabama Crimson Tide vs. Auburn Tigers,2026-11-29T00:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 49.5,49.5,1.8334,4863917001,0,True
+17332120,Alabama Crimson Tide vs. Auburn Tigers,2026-11-29T00:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 49.5,49.5,1.8334,4863917002,0,True
+17332120,Alabama Crimson Tide vs. Auburn Tigers,2026-11-29T00:30:00Z,total,Total (prolongations incluses),225,70803,Plus de 50.5,50.5,1.9524,4842229079,0,False
+17332120,Alabama Crimson Tide vs. Auburn Tigers,2026-11-29T00:30:00Z,total,Total (prolongations incluses),225,70803,Moins de 50.5,50.5,1.7408,4842229080,0,False

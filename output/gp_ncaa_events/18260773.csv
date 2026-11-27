@@ -1,31 +1,71 @@
 event_id,match,start_date,market_type,market_name,market_type_id,sport_market_id,selection,line,price,odd_id,odd_status,is_main_bet
-18260773,Rutgers Scarlet Knights vs. Michigan State Spartans,2026-11-28T21:15:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1,,2.2,4862830560,0,False
-18260773,Rutgers Scarlet Knights vs. Michigan State Spartans,2026-11-28T21:15:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,2,,1.5715,4862830561,0,False
-18260773,Rutgers Scarlet Knights vs. Michigan State Spartans,2026-11-28T21:15:00Z,spread,Écart (prolongation incluse),223,70799,2 (-5.5),5.5,2.25,4867064897,0,False
-18260773,Rutgers Scarlet Knights vs. Michigan State Spartans,2026-11-28T21:15:00Z,spread,Écart (prolongation incluse),223,70799,1 (+5.5),5.5,1.5715,4867064898,0,False
-18260773,Rutgers Scarlet Knights vs. Michigan State Spartans,2026-11-28T21:15:00Z,spread,Écart (prolongation incluse),223,70799,1 (+3.5),3.5,1.7143,4862830562,0,True
-18260773,Rutgers Scarlet Knights vs. Michigan State Spartans,2026-11-28T21:15:00Z,spread,Écart (prolongation incluse),223,70799,2 (-3.5),3.5,2.0,4862830563,0,True
-18260773,Rutgers Scarlet Knights vs. Michigan State Spartans,2026-11-28T21:15:00Z,spread,Écart (prolongation incluse),223,70799,1 (+6.5),6.5,1.5264,4867064901,0,False
-18260773,Rutgers Scarlet Knights vs. Michigan State Spartans,2026-11-28T21:15:00Z,spread,Écart (prolongation incluse),223,70799,2 (-6.5),6.5,2.4,4867064902,0,False
-18260773,Rutgers Scarlet Knights vs. Michigan State Spartans,2026-11-28T21:15:00Z,spread,Écart (prolongation incluse),223,70799,2 (-4.5),4.5,2.15,4867064905,0,False
-18260773,Rutgers Scarlet Knights vs. Michigan State Spartans,2026-11-28T21:15:00Z,spread,Écart (prolongation incluse),223,70799,1 (+4.5),4.5,1.6451,4867064906,0,False
-18260773,Rutgers Scarlet Knights vs. Michigan State Spartans,2026-11-28T21:15:00Z,spread,Écart (prolongation incluse),223,70799,1 (+1.5),1.5,2.15,4867064850,0,False
-18260773,Rutgers Scarlet Knights vs. Michigan State Spartans,2026-11-28T21:15:00Z,spread,Écart (prolongation incluse),223,70799,2 (-1.5),1.5,1.6451,4867064852,0,False
-18260773,Rutgers Scarlet Knights vs. Michigan State Spartans,2026-11-28T21:15:00Z,spread,Écart (prolongation incluse),223,70799,1 (+2.5),2.5,2.0,4867064823,0,False
-18260773,Rutgers Scarlet Knights vs. Michigan State Spartans,2026-11-28T21:15:00Z,spread,Écart (prolongation incluse),223,70799,2 (-2.5),2.5,1.7143,4867064825,0,False
-18260773,Rutgers Scarlet Knights vs. Michigan State Spartans,2026-11-28T21:15:00Z,spread,Écart (prolongation incluse),223,70799,2 (-7.5),7.5,2.85,4867064795,0,False
-18260773,Rutgers Scarlet Knights vs. Michigan State Spartans,2026-11-28T21:15:00Z,spread,Écart (prolongation incluse),223,70799,1 (+7.5),7.5,1.3847,4867064797,0,False
-18260773,Rutgers Scarlet Knights vs. Michigan State Spartans,2026-11-28T21:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 46.5,46.5,1.8334,4867064643,0,True
-18260773,Rutgers Scarlet Knights vs. Michigan State Spartans,2026-11-28T21:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 48.5,48.5,2.1,4862830564,0,False
-18260773,Rutgers Scarlet Knights vs. Michigan State Spartans,2026-11-28T21:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 46.5,46.5,1.8334,4867064645,0,True
-18260773,Rutgers Scarlet Knights vs. Michigan State Spartans,2026-11-28T21:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 48.5,48.5,1.6667,4862830565,0,False
-18260773,Rutgers Scarlet Knights vs. Michigan State Spartans,2026-11-28T21:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 44.5,44.5,1.6667,4867064619,0,False
-18260773,Rutgers Scarlet Knights vs. Michigan State Spartans,2026-11-28T21:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 44.5,44.5,2.1,4867064620,0,False
+18260773,Rutgers Scarlet Knights vs. Michigan State Spartans,2026-11-28T21:15:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,1,,2.1,4862830560,0,False
+18260773,Rutgers Scarlet Knights vs. Michigan State Spartans,2026-11-28T21:15:00Z,moneyline,Vainqueur (prolongations incluses),219,70793,2,,1.625,4862830561,0,False
+18260773,Rutgers Scarlet Knights vs. Michigan State Spartans,2026-11-28T21:15:00Z,spread,Écart (prolongation incluse),223,70799,1 (-5.5),-5.5,3.4,4867064835,0,False
+18260773,Rutgers Scarlet Knights vs. Michigan State Spartans,2026-11-28T21:15:00Z,spread,Écart (prolongation incluse),223,70799,2 (+5.5),-5.5,1.2858,4867064837,0,False
+18260773,Rutgers Scarlet Knights vs. Michigan State Spartans,2026-11-28T21:15:00Z,spread,Écart (prolongation incluse),223,70799,1 (-2.5),-2.5,2.4,4867064839,0,False
+18260773,Rutgers Scarlet Knights vs. Michigan State Spartans,2026-11-28T21:15:00Z,spread,Écart (prolongation incluse),223,70799,2 (+2.5),-2.5,1.5264,4867064842,0,False
+18260773,Rutgers Scarlet Knights vs. Michigan State Spartans,2026-11-28T21:15:00Z,spread,Écart (prolongation incluse),223,70799,2 (+3.5),-3.5,1.3847,4867064845,0,False
+18260773,Rutgers Scarlet Knights vs. Michigan State Spartans,2026-11-28T21:15:00Z,spread,Écart (prolongation incluse),223,70799,1 (-3.5),-3.5,2.85,4867064848,0,False
+18260773,Rutgers Scarlet Knights vs. Michigan State Spartans,2026-11-28T21:15:00Z,spread,Écart (prolongation incluse),223,70799,1 (+1.5),1.5,2.1,4867064850,0,False
+18260773,Rutgers Scarlet Knights vs. Michigan State Spartans,2026-11-28T21:15:00Z,spread,Écart (prolongation incluse),223,70799,2 (-1.5),1.5,1.6667,4867064852,0,False
+18260773,Rutgers Scarlet Knights vs. Michigan State Spartans,2026-11-28T21:15:00Z,spread,Écart (prolongation incluse),223,70799,2 (+1.5),-1.5,1.5715,4867064855,0,False
+18260773,Rutgers Scarlet Knights vs. Michigan State Spartans,2026-11-28T21:15:00Z,spread,Écart (prolongation incluse),223,70799,1 (-1.5),-1.5,2.25,4867064857,0,False
+18260773,Rutgers Scarlet Knights vs. Michigan State Spartans,2026-11-28T21:15:00Z,spread,Écart (prolongation incluse),223,70799,1 (+10.5),10.5,1.25,4867064868,0,False
+18260773,Rutgers Scarlet Knights vs. Michigan State Spartans,2026-11-28T21:15:00Z,spread,Écart (prolongation incluse),223,70799,2 (-10.5),10.5,3.7,4867064870,0,False
+18260773,Rutgers Scarlet Knights vs. Michigan State Spartans,2026-11-28T21:15:00Z,spread,Écart (prolongation incluse),223,70799,2 (-5.5),5.5,2.3,4867064897,0,False
+18260773,Rutgers Scarlet Knights vs. Michigan State Spartans,2026-11-28T21:15:00Z,spread,Écart (prolongation incluse),223,70799,1 (+5.5),5.5,1.5556,4867064898,0,False
+18260773,Rutgers Scarlet Knights vs. Michigan State Spartans,2026-11-28T21:15:00Z,spread,Écart (prolongation incluse),223,70799,2 (-8.5),8.5,3.1,4867064899,0,False
+18260773,Rutgers Scarlet Knights vs. Michigan State Spartans,2026-11-28T21:15:00Z,spread,Écart (prolongation incluse),223,70799,1 (+8.5),8.5,1.3334,4867064900,0,False
+18260773,Rutgers Scarlet Knights vs. Michigan State Spartans,2026-11-28T21:15:00Z,spread,Écart (prolongation incluse),223,70799,1 (+6.5),6.5,1.5,4867064901,0,False
+18260773,Rutgers Scarlet Knights vs. Michigan State Spartans,2026-11-28T21:15:00Z,spread,Écart (prolongation incluse),223,70799,2 (-6.5),6.5,2.5,4867064902,0,False
+18260773,Rutgers Scarlet Knights vs. Michigan State Spartans,2026-11-28T21:15:00Z,spread,Écart (prolongation incluse),223,70799,2 (-9.5),9.5,3.2,4867064903,0,False
+18260773,Rutgers Scarlet Knights vs. Michigan State Spartans,2026-11-28T21:15:00Z,spread,Écart (prolongation incluse),223,70799,1 (+9.5),9.5,1.3125,4867064904,0,False
+18260773,Rutgers Scarlet Knights vs. Michigan State Spartans,2026-11-28T21:15:00Z,spread,Écart (prolongation incluse),223,70799,2 (-4.5),4.5,2.2,4867064905,0,False
+18260773,Rutgers Scarlet Knights vs. Michigan State Spartans,2026-11-28T21:15:00Z,spread,Écart (prolongation incluse),223,70799,1 (+4.5),4.5,1.625,4867064906,0,False
+18260773,Rutgers Scarlet Knights vs. Michigan State Spartans,2026-11-28T21:15:00Z,spread,Écart (prolongation incluse),223,70799,2 (-7.5),7.5,2.9,4867064795,0,False
+18260773,Rutgers Scarlet Knights vs. Michigan State Spartans,2026-11-28T21:15:00Z,spread,Écart (prolongation incluse),223,70799,1 (+7.5),7.5,1.3637,4867064797,0,False
+18260773,Rutgers Scarlet Knights vs. Michigan State Spartans,2026-11-28T21:15:00Z,spread,Écart (prolongation incluse),223,70799,1 (+3.5),3.5,1.6897,4862830562,0,False
+18260773,Rutgers Scarlet Knights vs. Michigan State Spartans,2026-11-28T21:15:00Z,spread,Écart (prolongation incluse),223,70799,2 (-3.5),3.5,2.05,4862830563,0,False
+18260773,Rutgers Scarlet Knights vs. Michigan State Spartans,2026-11-28T21:15:00Z,spread,Écart (prolongation incluse),223,70799,1 (+11.5),11.5,1.2223,4867064809,0,False
+18260773,Rutgers Scarlet Knights vs. Michigan State Spartans,2026-11-28T21:15:00Z,spread,Écart (prolongation incluse),223,70799,2 (-11.5),11.5,4.0,4867064812,0,False
+18260773,Rutgers Scarlet Knights vs. Michigan State Spartans,2026-11-28T21:15:00Z,spread,Écart (prolongation incluse),223,70799,1 (-4.5),-4.5,3.1,4867064814,0,False
+18260773,Rutgers Scarlet Knights vs. Michigan State Spartans,2026-11-28T21:15:00Z,spread,Écart (prolongation incluse),223,70799,2 (+4.5),-4.5,1.3334,4867064816,0,False
+18260773,Rutgers Scarlet Knights vs. Michigan State Spartans,2026-11-28T21:15:00Z,spread,Écart (prolongation incluse),223,70799,1 (+2.5),2.5,1.9524,4867064823,0,True
+18260773,Rutgers Scarlet Knights vs. Michigan State Spartans,2026-11-28T21:15:00Z,spread,Écart (prolongation incluse),223,70799,2 (-2.5),2.5,1.7408,4867064825,0,True
+18260773,Rutgers Scarlet Knights vs. Michigan State Spartans,2026-11-28T21:15:00Z,spread,Écart (prolongation incluse),223,70799,1 (-6.5),-6.5,3.5,4867064827,0,False
+18260773,Rutgers Scarlet Knights vs. Michigan State Spartans,2026-11-28T21:15:00Z,spread,Écart (prolongation incluse),223,70799,2 (+6.5),-6.5,1.2667,4867064828,0,False
+18260773,Rutgers Scarlet Knights vs. Michigan State Spartans,2026-11-28T21:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 39.5,39.5,1.3572,4867064581,0,False
+18260773,Rutgers Scarlet Knights vs. Michigan State Spartans,2026-11-28T21:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 39.5,39.5,3.0,4867064583,0,False
 18260773,Rutgers Scarlet Knights vs. Michigan State Spartans,2026-11-28T21:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 49.5,49.5,2.25,4867064589,0,False
 18260773,Rutgers Scarlet Knights vs. Michigan State Spartans,2026-11-28T21:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 49.5,49.5,1.5715,4867064590,0,False
+18260773,Rutgers Scarlet Knights vs. Michigan State Spartans,2026-11-28T21:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 38.5,38.5,1.3334,4867064616,0,False
+18260773,Rutgers Scarlet Knights vs. Michigan State Spartans,2026-11-28T21:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 38.5,38.5,3.1,4867064617,0,False
+18260773,Rutgers Scarlet Knights vs. Michigan State Spartans,2026-11-28T21:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 44.5,44.5,1.6667,4867064619,0,False
+18260773,Rutgers Scarlet Knights vs. Michigan State Spartans,2026-11-28T21:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 44.5,44.5,2.1,4867064620,0,False
+18260773,Rutgers Scarlet Knights vs. Michigan State Spartans,2026-11-28T21:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 54.5,54.5,3.1,4867064622,0,False
+18260773,Rutgers Scarlet Knights vs. Michigan State Spartans,2026-11-28T21:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 54.5,54.5,1.3334,4867064624,0,False
+18260773,Rutgers Scarlet Knights vs. Michigan State Spartans,2026-11-28T21:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 45.5,45.5,1.8,4867064632,0,False
+18260773,Rutgers Scarlet Knights vs. Michigan State Spartans,2026-11-28T21:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 45.5,45.5,1.8696,4867064634,0,False
+18260773,Rutgers Scarlet Knights vs. Michigan State Spartans,2026-11-28T21:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 46.5,46.5,1.8334,4867064643,0,True
+18260773,Rutgers Scarlet Knights vs. Michigan State Spartans,2026-11-28T21:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 46.5,46.5,1.8334,4867064645,0,True
+18260773,Rutgers Scarlet Knights vs. Michigan State Spartans,2026-11-28T21:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 42.5,42.5,2.35,4867064655,0,False
+18260773,Rutgers Scarlet Knights vs. Michigan State Spartans,2026-11-28T21:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 42.5,42.5,1.5455,4867064657,0,False
+18260773,Rutgers Scarlet Knights vs. Michigan State Spartans,2026-11-28T21:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 52.5,52.5,1.3847,4867064658,0,False
+18260773,Rutgers Scarlet Knights vs. Michigan State Spartans,2026-11-28T21:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 52.5,52.5,2.85,4867064660,0,False
 18260773,Rutgers Scarlet Knights vs. Michigan State Spartans,2026-11-28T21:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 43.5,43.5,1.5715,4867064661,0,False
 18260773,Rutgers Scarlet Knights vs. Michigan State Spartans,2026-11-28T21:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 43.5,43.5,2.25,4867064662,0,False
-18260773,Rutgers Scarlet Knights vs. Michigan State Spartans,2026-11-28T21:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 45.5,45.5,1.7693,4867064632,0,False
-18260773,Rutgers Scarlet Knights vs. Michigan State Spartans,2026-11-28T21:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 45.5,45.5,1.9091,4867064634,0,False
+18260773,Rutgers Scarlet Knights vs. Michigan State Spartans,2026-11-28T21:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 53.5,53.5,2.9,4867064664,0,False
+18260773,Rutgers Scarlet Knights vs. Michigan State Spartans,2026-11-28T21:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 53.5,53.5,1.3637,4867064666,0,False
+18260773,Rutgers Scarlet Knights vs. Michigan State Spartans,2026-11-28T21:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 40.5,40.5,2.75,4867064668,0,False
+18260773,Rutgers Scarlet Knights vs. Michigan State Spartans,2026-11-28T21:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 40.5,40.5,1.4,4867064670,0,False
+18260773,Rutgers Scarlet Knights vs. Michigan State Spartans,2026-11-28T21:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 50.5,50.5,1.5455,4867064672,0,False
+18260773,Rutgers Scarlet Knights vs. Michigan State Spartans,2026-11-28T21:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 50.5,50.5,2.35,4867064674,0,False
+18260773,Rutgers Scarlet Knights vs. Michigan State Spartans,2026-11-28T21:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 48.5,48.5,2.1,4862830564,0,False
+18260773,Rutgers Scarlet Knights vs. Michigan State Spartans,2026-11-28T21:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 48.5,48.5,1.6667,4862830565,0,False
+18260773,Rutgers Scarlet Knights vs. Michigan State Spartans,2026-11-28T21:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 41.5,41.5,2.5,4867064678,0,False
+18260773,Rutgers Scarlet Knights vs. Michigan State Spartans,2026-11-28T21:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 41.5,41.5,1.5,4867064680,0,False
+18260773,Rutgers Scarlet Knights vs. Michigan State Spartans,2026-11-28T21:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 51.5,51.5,1.4546,4867064682,0,False
+18260773,Rutgers Scarlet Knights vs. Michigan State Spartans,2026-11-28T21:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 51.5,51.5,2.6,4867064684,0,False
 18260773,Rutgers Scarlet Knights vs. Michigan State Spartans,2026-11-28T21:15:00Z,total,Total (prolongations incluses),225,70803,Plus de 47.5,47.5,1.9524,4864006396,0,False
 18260773,Rutgers Scarlet Knights vs. Michigan State Spartans,2026-11-28T21:15:00Z,total,Total (prolongations incluses),225,70803,Moins de 47.5,47.5,1.7408,4864006397,0,False

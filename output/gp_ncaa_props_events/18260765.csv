@@ -1,39 +1,259 @@
 event_id,match,player,market,market_type_id,sport_market_id,child_market_id,odd_id,selection,line,price,odd_status,is_main_bet
-18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Drew Mestemaker,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1853612469,4869668961,Drew Mestemaker (OKST) Plus de 306.5,Drew Mestemaker (OKST) Plus de 306.5,1.7693,0,True
-18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Drew Mestemaker,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1853612469,4869668962,Drew Mestemaker (OKST) moins de 306.5,Drew Mestemaker (OKST) moins de 306.5,1.8334,0,True
-18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Isaiah Marshall,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1857020960,4880794134,Isaiah Marshall (KU) Plus de 216.5,Isaiah Marshall (KU) Plus de 216.5,1.7693,0,True
-18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Isaiah Marshall,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1857020960,4880794135,Isaiah Marshall (KU) moins de 216.5,Isaiah Marshall (KU) moins de 216.5,1.8334,0,True
-18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Drew Mestemaker,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1853608889,4869660464,Drew Mestemaker (OKST) moins de 2.5,Drew Mestemaker (OKST) moins de 2.5,1.6471,0,False
-18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Drew Mestemaker,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1853608889,4869660463,Drew Mestemaker (OKST) Plus de 2.5,Drew Mestemaker (OKST) Plus de 2.5,2.0,0,False
-18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Isaiah Marshall,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1850145377,4859706765,Isaiah Marshall (KU) Plus de 1.5,Isaiah Marshall (KU) Plus de 1.5,1.8696,0,False
-18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Isaiah Marshall,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1850145377,4859706766,Isaiah Marshall (KU) moins de 1.5,Isaiah Marshall (KU) moins de 1.5,1.7408,0,False
-18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Justin Bowick,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1853611458,4869667428,Justin Bowick (OKST) Plus de 74.5,Justin Bowick (OKST) Plus de 74.5,1.7693,0,False
-18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Justin Bowick,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1853611458,4869667429,Justin Bowick (OKST) moins de 74.5,Justin Bowick (OKST) moins de 74.5,1.8334,0,False
-18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Wyatt Young,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1857891413,4884175656,Wyatt Young (OKST) moins de 61.5,Wyatt Young (OKST) moins de 61.5,1.7693,0,False
-18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Wyatt Young,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1857891413,4884175655,Wyatt Young (OKST) Plus de 61.5,Wyatt Young (OKST) Plus de 61.5,1.8334,0,False
-18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Cam Pickett,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1857019302,4880790329,Cam Pickett (KU) Plus de 50.5,Cam Pickett (KU) Plus de 50.5,1.7693,0,False
-18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Cam Pickett,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1857019302,4880790330,Cam Pickett (KU) moins de 50.5,Cam Pickett (KU) moins de 50.5,1.8334,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Drew Mestemaker,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1853611464,4869667440,Drew Mestemaker (OKST) Plus de 305.5,Drew Mestemaker (OKST) Plus de 305.5,1.8334,0,True
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Drew Mestemaker,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1853611464,4869667441,Drew Mestemaker (OKST) moins de 305.5,Drew Mestemaker (OKST) moins de 305.5,1.7693,0,True
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Isaiah Marshall,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1860258869,4891645222,Isaiah Marshall (KU) Plus de 222.5,Isaiah Marshall (KU) Plus de 222.5,1.7693,0,True
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Isaiah Marshall,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1860258869,4891645223,Isaiah Marshall (KU) moins de 222.5,Isaiah Marshall (KU) moins de 222.5,1.8334,0,True
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Terrence Lewis,Verges de réception du joueur au moins (Terrence Lewis (OKS)),2143,72898,1856751605,4879866560,72+,72+,7.75,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Terrence Lewis,Verges de réception du joueur au moins (Terrence Lewis (OKS)),2143,72898,1856751605,4879866561,82+,82+,12.0,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Terrence Lewis,Verges de réception du joueur au moins (Terrence Lewis (OKS)),2143,72898,1856751605,4879866562,92+,92+,18.0,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Terrence Lewis,Verges de réception du joueur au moins (Terrence Lewis (OKS)),2143,72898,1856751605,4879866564,12+,12+,1.4167,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Terrence Lewis,Verges de réception du joueur au moins (Terrence Lewis (OKS)),2143,72898,1856751605,4879866453,22+,22+,1.8696,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Terrence Lewis,Verges de réception du joueur au moins (Terrence Lewis (OKS)),2143,72898,1856751605,4879866454,32+,32+,2.3,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Terrence Lewis,Verges de réception du joueur au moins (Terrence Lewis (OKS)),2143,72898,1856751605,4879866455,42+,42+,2.95,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Terrence Lewis,Verges de réception du joueur au moins (Terrence Lewis (OKS)),2143,72898,1856751605,4879866456,52+,52+,3.85,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Terrence Lewis,Verges de réception du joueur au moins (Terrence Lewis (OKS)),2143,72898,1856751605,4879866457,62+,62+,5.25,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Carson Bruhn,Verges de réception du joueur au moins (Carson Bruhn (KAN)),2143,72898,1857011938,4880782336,22+,22+,1.9091,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Carson Bruhn,Verges de réception du joueur au moins (Carson Bruhn (KAN)),2143,72898,1857011938,4880782337,32+,32+,2.35,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Carson Bruhn,Verges de réception du joueur au moins (Carson Bruhn (KAN)),2143,72898,1857011938,4880782338,42+,42+,2.95,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Carson Bruhn,Verges de réception du joueur au moins (Carson Bruhn (KAN)),2143,72898,1857011938,4880782339,52+,52+,3.85,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Carson Bruhn,Verges de réception du joueur au moins (Carson Bruhn (KAN)),2143,72898,1857011938,4880782340,62+,62+,5.25,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Carson Bruhn,Verges de réception du joueur au moins (Carson Bruhn (KAN)),2143,72898,1857011938,4880782341,72+,72+,7.5,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Carson Bruhn,Verges de réception du joueur au moins (Carson Bruhn (KAN)),2143,72898,1857011938,4880782342,82+,82+,11.0,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Carson Bruhn,Verges de réception du joueur au moins (Carson Bruhn (KAN)),2143,72898,1857011938,4880782343,92+,92+,17.0,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Carson Bruhn,Verges de réception du joueur au moins (Carson Bruhn (KAN)),2143,72898,1857011938,4880782345,12+,12+,1.4348,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Cam Pickett,Verges de réception du joueur au moins (Cam Pickett (KAN)),2143,72898,1856751666,4880824942,48+,48+,1.8696,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Cam Pickett,Verges de réception du joueur au moins (Cam Pickett (KAN)),2143,72898,1856751666,4880824943,58+,58+,2.15,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Cam Pickett,Verges de réception du joueur au moins (Cam Pickett (KAN)),2143,72898,1856751666,4880824944,68+,68+,2.55,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Cam Pickett,Verges de réception du joueur au moins (Cam Pickett (KAN)),2143,72898,1856751666,4880824945,78+,78+,3.0,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Cam Pickett,Verges de réception du joueur au moins (Cam Pickett (KAN)),2143,72898,1856751666,4880824946,88+,88+,3.75,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Cam Pickett,Verges de réception du joueur au moins (Cam Pickett (KAN)),2143,72898,1856751666,4880824947,98+,98+,4.5,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Cam Pickett,Verges de réception du joueur au moins (Cam Pickett (KAN)),2143,72898,1856751666,4880824948,108+,108+,5.75,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Cam Pickett,Verges de réception du joueur au moins (Cam Pickett (KAN)),2143,72898,1856751666,4880824989,118+,118+,7.5,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Cam Pickett,Verges de réception du joueur au moins (Cam Pickett (KAN)),2143,72898,1856751666,4880824990,128+,128+,10.0,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Cam Pickett,Verges de réception du joueur au moins (Cam Pickett (KAN)),2143,72898,1856751666,4880824991,38+,38+,1.4762,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Nahzae Cox,Verges de réception du joueur au moins (Nahzae Cox (KAN)),2143,72898,1856751655,4879866596,22+,22+,1.9091,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Nahzae Cox,Verges de réception du joueur au moins (Nahzae Cox (KAN)),2143,72898,1856751655,4879866597,32+,32+,2.25,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Nahzae Cox,Verges de réception du joueur au moins (Nahzae Cox (KAN)),2143,72898,1856751655,4879866598,42+,42+,2.75,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Nahzae Cox,Verges de réception du joueur au moins (Nahzae Cox (KAN)),2143,72898,1856751655,4879866599,52+,52+,3.5,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Nahzae Cox,Verges de réception du joueur au moins (Nahzae Cox (KAN)),2143,72898,1856751655,4879866600,62+,62+,4.5,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Nahzae Cox,Verges de réception du joueur au moins (Nahzae Cox (KAN)),2143,72898,1856751655,4879866601,72+,72+,6.0,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Nahzae Cox,Verges de réception du joueur au moins (Nahzae Cox (KAN)),2143,72898,1856751655,4879866602,82+,82+,8.5,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Nahzae Cox,Verges de réception du joueur au moins (Nahzae Cox (KAN)),2143,72898,1856751655,4879866603,92+,92+,12.0,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Nahzae Cox,Verges de réception du joueur au moins (Nahzae Cox (KAN)),2143,72898,1856751655,4879866605,12+,12+,1.4762,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Keaton Kubecka,Verges de réception du joueur au moins (Keaton Kubecka (KAN)),2143,72898,1856751656,4879866606,38+,38+,1.8696,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Keaton Kubecka,Verges de réception du joueur au moins (Keaton Kubecka (KAN)),2143,72898,1856751656,4879866607,48+,48+,2.2,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Keaton Kubecka,Verges de réception du joueur au moins (Keaton Kubecka (KAN)),2143,72898,1856751656,4879866608,58+,58+,2.6,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Keaton Kubecka,Verges de réception du joueur au moins (Keaton Kubecka (KAN)),2143,72898,1856751656,4879866609,68+,68+,3.2,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Keaton Kubecka,Verges de réception du joueur au moins (Keaton Kubecka (KAN)),2143,72898,1856751656,4879866610,78+,78+,4.0,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Keaton Kubecka,Verges de réception du joueur au moins (Keaton Kubecka (KAN)),2143,72898,1856751656,4879866611,88+,88+,5.0,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Keaton Kubecka,Verges de réception du joueur au moins (Keaton Kubecka (KAN)),2143,72898,1856751656,4879866612,98+,98+,6.75,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Keaton Kubecka,Verges de réception du joueur au moins (Keaton Kubecka (KAN)),2143,72898,1856751656,4879866613,108+,108+,9.0,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Keaton Kubecka,Verges de réception du joueur au moins (Keaton Kubecka (KAN)),2143,72898,1856751656,4879866614,118+,118+,13.0,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Keaton Kubecka,Verges de réception du joueur au moins (Keaton Kubecka (KAN)),2143,72898,1856751656,4879866615,28+,28+,1.5264,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Nik McMillan,Verges de réception du joueur au moins (Nik McMillan (KAN)),2143,72898,1856751663,4879866672,43+,43+,1.8696,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Nik McMillan,Verges de réception du joueur au moins (Nik McMillan (KAN)),2143,72898,1856751663,4879866673,53+,53+,2.2,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Nik McMillan,Verges de réception du joueur au moins (Nik McMillan (KAN)),2143,72898,1856751663,4879866674,63+,63+,2.6,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Nik McMillan,Verges de réception du joueur au moins (Nik McMillan (KAN)),2143,72898,1856751663,4879866675,73+,73+,3.2,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Nik McMillan,Verges de réception du joueur au moins (Nik McMillan (KAN)),2143,72898,1856751663,4879866676,83+,83+,4.0,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Nik McMillan,Verges de réception du joueur au moins (Nik McMillan (KAN)),2143,72898,1856751663,4879866677,93+,93+,5.25,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Nik McMillan,Verges de réception du joueur au moins (Nik McMillan (KAN)),2143,72898,1856751663,4879866678,103+,103+,6.75,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Nik McMillan,Verges de réception du joueur au moins (Nik McMillan (KAN)),2143,72898,1856751663,4879866679,113+,113+,9.0,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Nik McMillan,Verges de réception du joueur au moins (Nik McMillan (KAN)),2143,72898,1856751663,4879866680,123+,123+,13.0,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Nik McMillan,Verges de réception du joueur au moins (Nik McMillan (KAN)),2143,72898,1856751663,4879866681,33+,33+,1.5264,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Miles Coleman,Verges de réception du joueur au moins (Miles Coleman (OKS)),2143,72898,1856751652,4879866566,42+,42+,1.9091,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Miles Coleman,Verges de réception du joueur au moins (Miles Coleman (OKS)),2143,72898,1856751652,4879866567,52+,52+,2.2,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Miles Coleman,Verges de réception du joueur au moins (Miles Coleman (OKS)),2143,72898,1856751652,4879866568,62+,62+,2.6,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Miles Coleman,Verges de réception du joueur au moins (Miles Coleman (OKS)),2143,72898,1856751652,4879866569,72+,72+,3.2,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Miles Coleman,Verges de réception du joueur au moins (Miles Coleman (OKS)),2143,72898,1856751652,4879866570,82+,82+,4.0,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Miles Coleman,Verges de réception du joueur au moins (Miles Coleman (OKS)),2143,72898,1856751652,4879866571,92+,92+,5.0,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Miles Coleman,Verges de réception du joueur au moins (Miles Coleman (OKS)),2143,72898,1856751652,4879866573,112+,112+,9.0,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Miles Coleman,Verges de réception du joueur au moins (Miles Coleman (OKS)),2143,72898,1856751652,4879866574,122+,122+,12.0,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Miles Coleman,Verges de réception du joueur au moins (Miles Coleman (OKS)),2143,72898,1856751652,4879866575,32+,32+,1.5264,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Justin Bowick,Verges de réception du joueur au moins (Justin Bowick (OKS)),2143,72898,1856751665,4891388212,76+,76+,1.9091,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Justin Bowick,Verges de réception du joueur au moins (Justin Bowick (OKS)),2143,72898,1856751665,4891388213,86+,86+,2.15,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Justin Bowick,Verges de réception du joueur au moins (Justin Bowick (OKS)),2143,72898,1856751665,4891388214,96+,96+,2.45,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Justin Bowick,Verges de réception du joueur au moins (Justin Bowick (OKS)),2143,72898,1856751665,4891388215,106+,106+,2.85,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Justin Bowick,Verges de réception du joueur au moins (Justin Bowick (OKS)),2143,72898,1856751665,4891388216,116+,116+,3.4,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Justin Bowick,Verges de réception du joueur au moins (Justin Bowick (OKS)),2143,72898,1856751665,4891388217,126+,126+,4.0,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Justin Bowick,Verges de réception du joueur au moins (Justin Bowick (OKS)),2143,72898,1856751665,4891388218,136+,136+,5.0,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Justin Bowick,Verges de réception du joueur au moins (Justin Bowick (OKS)),2143,72898,1856751665,4891388219,146+,146+,6.25,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Justin Bowick,Verges de réception du joueur au moins (Justin Bowick (OKS)),2143,72898,1856751665,4891388220,156+,156+,7.75,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Justin Bowick,Verges de réception du joueur au moins (Justin Bowick (OKS)),2143,72898,1856751665,4891388221,66+,66+,1.5883,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Caleb Hawkins,Verges de réception du joueur au moins (Caleb Hawkins (OKS)),2143,72898,1856751659,4880771380,40+,40+,2.0,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Caleb Hawkins,Verges de réception du joueur au moins (Caleb Hawkins (OKS)),2143,72898,1856751659,4880771381,50+,50+,2.25,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Caleb Hawkins,Verges de réception du joueur au moins (Caleb Hawkins (OKS)),2143,72898,1856751659,4880771382,60+,60+,2.65,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Caleb Hawkins,Verges de réception du joueur au moins (Caleb Hawkins (OKS)),2143,72898,1856751659,4880771383,70+,70+,3.2,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Caleb Hawkins,Verges de réception du joueur au moins (Caleb Hawkins (OKS)),2143,72898,1856751659,4880771384,80+,80+,3.85,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Caleb Hawkins,Verges de réception du joueur au moins (Caleb Hawkins (OKS)),2143,72898,1856751659,4880771385,90+,90+,5.0,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Caleb Hawkins,Verges de réception du joueur au moins (Caleb Hawkins (OKS)),2143,72898,1856751659,4880771386,100+,100+,6.25,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Caleb Hawkins,Verges de réception du joueur au moins (Caleb Hawkins (OKS)),2143,72898,1856751659,4880771387,110+,110+,8.0,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Caleb Hawkins,Verges de réception du joueur au moins (Caleb Hawkins (OKS)),2143,72898,1856751659,4880771388,120+,120+,11.0,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Caleb Hawkins,Verges de réception du joueur au moins (Caleb Hawkins (OKS)),2143,72898,1856751659,4880771389,30+,30+,1.5883,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Wyatt Young,Verges de réception du joueur au moins (Wyatt Young (OKS)),2143,72898,1856751658,4879866624,77+,77+,2.05,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Wyatt Young,Verges de réception du joueur au moins (Wyatt Young (OKS)),2143,72898,1856751658,4879866625,87+,87+,2.25,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Wyatt Young,Verges de réception du joueur au moins (Wyatt Young (OKS)),2143,72898,1856751658,4879866626,97+,97+,2.45,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Wyatt Young,Verges de réception du joueur au moins (Wyatt Young (OKS)),2143,72898,1856751658,4879866627,107+,107+,2.7,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Wyatt Young,Verges de réception du joueur au moins (Wyatt Young (OKS)),2143,72898,1856751658,4879866628,117+,117+,3.0,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Wyatt Young,Verges de réception du joueur au moins (Wyatt Young (OKS)),2143,72898,1856751658,4879866629,127+,127+,3.4,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Wyatt Young,Verges de réception du joueur au moins (Wyatt Young (OKS)),2143,72898,1856751658,4879866630,137+,137+,3.85,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Wyatt Young,Verges de réception du joueur au moins (Wyatt Young (OKS)),2143,72898,1856751658,4879866632,57+,57+,1.6471,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Wyatt Young,Verges de réception du joueur au moins (Wyatt Young (OKS)),2143,72898,1856751658,4879866623,67+,67+,1.8696,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Drew Mestemaker,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1853608889,4869660464,Drew Mestemaker (OKST) moins de 2.5,Drew Mestemaker (OKST) moins de 2.5,1.6061,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Drew Mestemaker,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1853608889,4869660463,Drew Mestemaker (OKST) Plus de 2.5,Drew Mestemaker (OKST) Plus de 2.5,2.05,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Isaiah Marshall,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1850145377,4859706765,Isaiah Marshall (KU) Plus de 1.5,Isaiah Marshall (KU) Plus de 1.5,1.9091,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Isaiah Marshall,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1850145377,4859706766,Isaiah Marshall (KU) moins de 1.5,Isaiah Marshall (KU) moins de 1.5,1.7143,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Justin Bowick,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1853626616,4869711428,Justin Bowick (OKST) Plus de 75.5,Justin Bowick (OKST) Plus de 75.5,1.8334,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Justin Bowick,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1853626616,4869711429,Justin Bowick (OKST) moins de 75.5,Justin Bowick (OKST) moins de 75.5,1.7693,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Wyatt Young,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1853633352,4869728453,Wyatt Young (OKST) Plus de 58.5,Wyatt Young (OKST) Plus de 58.5,1.7693,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Wyatt Young,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1853633352,4869728454,Wyatt Young (OKST) moins de 58.5,Wyatt Young (OKST) moins de 58.5,1.8334,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Cam Pickett,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1859973366,4890900246,Cam Pickett (KU) Plus de 52.5,Cam Pickett (KU) Plus de 52.5,1.8334,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Cam Pickett,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1859973366,4890900247,Cam Pickett (KU) moins de 52.5,Cam Pickett (KU) moins de 52.5,1.7693,0,False
 18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Miles Coleman,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1853634079,4869730157,Miles Coleman (OKST) Plus de 41.5,Miles Coleman (OKST) Plus de 41.5,1.8334,0,False
 18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Miles Coleman,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1853634079,4869730158,Miles Coleman (OKST) moins de 41.5,Miles Coleman (OKST) moins de 41.5,1.7693,0,False
-18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Nik McMillan,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1853501594,4869345462,Nik McMillan (KU) Plus de 39.5,Nik McMillan (KU) Plus de 39.5,1.7693,0,False
-18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Nik McMillan,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1853501594,4869345463,Nik McMillan (KU) moins de 39.5,Nik McMillan (KU) moins de 39.5,1.8334,0,False
-18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Caleb Hawkins,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1853613954,4869671968,Caleb Hawkins (OKST) Plus de 35.5,Caleb Hawkins (OKST) Plus de 35.5,1.7693,0,False
-18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Caleb Hawkins,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1853613954,4869671969,Caleb Hawkins (OKST) moins de 35.5,Caleb Hawkins (OKST) moins de 35.5,1.8334,0,False
-18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Keaton Kubecka,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1857019789,4880791432,Keaton Kubecka (KU) moins de 31.5,Keaton Kubecka (KU) moins de 31.5,1.8334,0,False
-18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Keaton Kubecka,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1857019789,4880791431,Keaton Kubecka (KU) Plus de 31.5,Keaton Kubecka (KU) Plus de 31.5,1.7693,0,False
-18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Terrence Lewis,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1857326847,4881883090,Terrence Lewis (OKST) Plus de 25.5,Terrence Lewis (OKST) Plus de 25.5,1.7693,0,False
-18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Terrence Lewis,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1857326847,4881883091,Terrence Lewis (OKST) moins de 25.5,Terrence Lewis (OKST) moins de 25.5,1.8334,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Nik McMillan,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1857023830,4880801378,Nik McMillan (KU) Plus de 40.5,Nik McMillan (KU) Plus de 40.5,1.7693,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Nik McMillan,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1857023830,4880801379,Nik McMillan (KU) moins de 40.5,Nik McMillan (KU) moins de 40.5,1.8334,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Caleb Hawkins,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1857015916,4880782011,Caleb Hawkins (OKST) Plus de 36.5,Caleb Hawkins (OKST) Plus de 36.5,1.8334,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Caleb Hawkins,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1857015916,4880782012,Caleb Hawkins (OKST) moins de 36.5,Caleb Hawkins (OKST) moins de 36.5,1.7693,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Keaton Kubecka,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1859973368,4890900250,Keaton Kubecka (KU) Plus de 33.5,Keaton Kubecka (KU) Plus de 33.5,1.8,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Keaton Kubecka,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1859973368,4890900251,Keaton Kubecka (KU) moins de 33.5,Keaton Kubecka (KU) moins de 33.5,1.8,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Terrence Lewis,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1857326847,4881883090,Terrence Lewis (OKST) Plus de 25.5,Terrence Lewis (OKST) Plus de 25.5,1.8334,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Terrence Lewis,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1857326847,4881883091,Terrence Lewis (OKST) moins de 25.5,Terrence Lewis (OKST) moins de 25.5,1.7693,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Carson Bruhn,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1850656420,4861327912,Carson Bruhn (KU) moins de 21.5,Carson Bruhn (KU) moins de 21.5,1.7693,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Carson Bruhn,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1850656420,4861327911,Carson Bruhn (KU) Plus de 21.5,Carson Bruhn (KU) Plus de 21.5,1.8334,0,False
 18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Nahzae Cox,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1857019792,4880791437,Nahzae Cox (KU) Plus de 21.5,Nahzae Cox (KU) Plus de 21.5,1.8334,0,False
 18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Nahzae Cox,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1857019792,4880791438,Nahzae Cox (KU) moins de 21.5,Nahzae Cox (KU) moins de 21.5,1.7693,0,False
-18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Carson Bruhn,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1850513638,4860829185,Carson Bruhn (KU) Plus de 20.5,Carson Bruhn (KU) Plus de 20.5,1.8334,0,False
-18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Carson Bruhn,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1850513638,4860829186,Carson Bruhn (KU) moins de 20.5,Carson Bruhn (KU) moins de 20.5,1.7693,0,False
-18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Yasin Willis,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1853633346,4869728441,Yasin Willis (KU) Plus de 4.5,Yasin Willis (KU) Plus de 4.5,1.8334,0,False
-18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Yasin Willis,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1853633346,4869728442,Yasin Willis (KU) moins de 4.5,Yasin Willis (KU) moins de 4.5,1.7693,0,False
 18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Caleb Hawkins,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1857013109,4880774794,Caleb Hawkins (OKST) Plus de 112.5,Caleb Hawkins (OKST) Plus de 112.5,1.7693,0,False
 18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Caleb Hawkins,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1857013109,4880774795,Caleb Hawkins (OKST) moins de 112.5,Caleb Hawkins (OKST) moins de 112.5,1.8334,0,False
-18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Yasin Willis,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1854481851,4872768179,Yasin Willis (KU) Plus de 74.5,Yasin Willis (KU) Plus de 74.5,1.8334,0,False
-18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Yasin Willis,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1854481851,4872768180,Yasin Willis (KU) moins de 74.5,Yasin Willis (KU) moins de 74.5,1.7693,0,False
-18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Isaiah Marshall,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1853502308,4869346992,Isaiah Marshall (KU) Plus de 60.5,Isaiah Marshall (KU) Plus de 60.5,1.8334,0,False
-18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Isaiah Marshall,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1853502308,4869346993,Isaiah Marshall (KU) moins de 60.5,Isaiah Marshall (KU) moins de 60.5,1.7693,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Isaiah Marshall,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1853602955,4869643437,Isaiah Marshall (KU) Plus de 59.5,Isaiah Marshall (KU) Plus de 59.5,1.8,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Isaiah Marshall,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1853602955,4869643438,Isaiah Marshall (KU) moins de 59.5,Isaiah Marshall (KU) moins de 59.5,1.8,0,False
 18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Drew Mestemaker,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1857015387,4880780346,Drew Mestemaker (OKST) Plus de 10.5,Drew Mestemaker (OKST) Plus de 10.5,1.8334,0,False
 18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Drew Mestemaker,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1857015387,4880780347,Drew Mestemaker (OKST) moins de 10.5,Drew Mestemaker (OKST) moins de 10.5,1.7693,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Keaton Kubecka,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1857016769,4880784133,Keaton Kubecka (KU) Plus de 1.5,Keaton Kubecka (KU) Plus de 1.5,1.8334,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Keaton Kubecka,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1857016769,4880784134,Keaton Kubecka (KU) moins de 1.5,Keaton Kubecka (KU) moins de 1.5,1.7693,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Wyatt Young,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1853612473,4869668969,Wyatt Young (OKST) Plus de 4.5,Wyatt Young (OKST) Plus de 4.5,1.625,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Wyatt Young,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1853612473,4869668970,Wyatt Young (OKST) moins de 4.5,Wyatt Young (OKST) moins de 4.5,2.05,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Cam Pickett,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1857016948,4880784534,Cam Pickett (KU) Plus de 4.5,Cam Pickett (KU) Plus de 4.5,1.7693,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Cam Pickett,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1857016948,4880784535,Cam Pickett (KU) moins de 4.5,Cam Pickett (KU) moins de 4.5,1.8696,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Caleb Hawkins,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1853608901,4869660488,Caleb Hawkins (OKST) moins de 4.5,Caleb Hawkins (OKST) moins de 4.5,1.7693,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Caleb Hawkins,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1853608901,4869660487,Caleb Hawkins (OKST) Plus de 4.5,Caleb Hawkins (OKST) Plus de 4.5,1.8696,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Terrence Lewis,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1850513649,4860829208,Terrence Lewis (OKST) moins de 2.5,Terrence Lewis (OKST) moins de 2.5,1.6061,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Terrence Lewis,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1850513649,4860829207,Terrence Lewis (OKST) Plus de 2.5,Terrence Lewis (OKST) Plus de 2.5,2.1,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Caleb Hawkins,Verges à la course et à la réception Plus/Moins (prolongation incluse),3317,73841,1857015389,4880780350,Caleb Hawkins (OKST) Plus de 154.5,Caleb Hawkins (OKST) Plus de 154.5,1.8,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Caleb Hawkins,Verges à la course et à la réception Plus/Moins (prolongation incluse),3317,73841,1857015389,4880780351,Caleb Hawkins (OKST) moins de 154.5,Caleb Hawkins (OKST) moins de 154.5,1.8334,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Isaiah Marshall,Touchés par la passe du joueur au moins (Isaiah Marshall (KAN)),2138,72893,1857016039,4880782346,2+,2+,2.1,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Isaiah Marshall,Touchés par la passe du joueur au moins (Isaiah Marshall (KAN)),2138,72893,1857016039,4880782347,3+,3+,3.75,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Isaiah Marshall,Touchés par la passe du joueur au moins (Isaiah Marshall (KAN)),2138,72893,1857016039,4880782348,4+,4+,8.0,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Isaiah Marshall,Touchés par la passe du joueur au moins (Isaiah Marshall (KAN)),2138,72893,1857016039,4880782349,1+,1+,1.2667,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Drew Mestemaker,Touchés par la passe du joueur au moins (Drew Mestemaker (OKS)),2138,72893,1856751654,4879866593,3+,3+,2.0,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Drew Mestemaker,Touchés par la passe du joueur au moins (Drew Mestemaker (OKS)),2138,72893,1856751654,4879866594,4+,4+,3.2,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Drew Mestemaker,Touchés par la passe du joueur au moins (Drew Mestemaker (OKS)),2138,72893,1856751654,4879866595,2+,2+,1.2858,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Isaiah Marshall,Verges par la passe du joueur au moins (Isaiah Marshall (KAN)),2136,72891,1856751653,4891661513,223+,223+,1.9091,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Isaiah Marshall,Verges par la passe du joueur au moins (Isaiah Marshall (KAN)),2136,72891,1856751653,4891661514,233+,233+,2.05,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Isaiah Marshall,Verges par la passe du joueur au moins (Isaiah Marshall (KAN)),2136,72891,1856751653,4891661515,243+,243+,2.3,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Isaiah Marshall,Verges par la passe du joueur au moins (Isaiah Marshall (KAN)),2136,72891,1856751653,4891661516,253+,253+,2.55,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Isaiah Marshall,Verges par la passe du joueur au moins (Isaiah Marshall (KAN)),2136,72891,1856751653,4891661517,263+,263+,2.85,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Isaiah Marshall,Verges par la passe du joueur au moins (Isaiah Marshall (KAN)),2136,72891,1856751653,4891661518,273+,273+,3.2,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Isaiah Marshall,Verges par la passe du joueur au moins (Isaiah Marshall (KAN)),2136,72891,1856751653,4891661519,283+,283+,3.6,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Isaiah Marshall,Verges par la passe du joueur au moins (Isaiah Marshall (KAN)),2136,72891,1856751653,4891661520,293+,293+,4.25,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Isaiah Marshall,Verges par la passe du joueur au moins (Isaiah Marshall (KAN)),2136,72891,1856751653,4891661521,303+,303+,4.75,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Isaiah Marshall,Verges par la passe du joueur au moins (Isaiah Marshall (KAN)),2136,72891,1856751653,4891661522,313+,313+,5.75,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Isaiah Marshall,Verges par la passe du joueur au moins (Isaiah Marshall (KAN)),2136,72891,1856751653,4891661523,323+,323+,6.75,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Isaiah Marshall,Verges par la passe du joueur au moins (Isaiah Marshall (KAN)),2136,72891,1856751653,4891661524,333+,333+,8.0,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Isaiah Marshall,Verges par la passe du joueur au moins (Isaiah Marshall (KAN)),2136,72891,1856751653,4891661525,343+,343+,10.0,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Isaiah Marshall,Verges par la passe du joueur au moins (Isaiah Marshall (KAN)),2136,72891,1856751653,4891661526,353+,353+,12.0,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Isaiah Marshall,Verges par la passe du joueur au moins (Isaiah Marshall (KAN)),2136,72891,1856751653,4891661527,363+,363+,14.0,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Isaiah Marshall,Verges par la passe du joueur au moins (Isaiah Marshall (KAN)),2136,72891,1856751653,4891661528,213+,213+,1.6897,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Isaiah Marshall,Verges par la passe du joueur au moins (Isaiah Marshall (KAN)),2136,72891,1856751653,4891661529,203+,203+,1.5556,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Drew Mestemaker,Verges par la passe du joueur au moins (Drew Mestemaker (OKS)),2136,72891,1856751664,4890912961,306+,306+,1.9091,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Drew Mestemaker,Verges par la passe du joueur au moins (Drew Mestemaker (OKS)),2136,72891,1856751664,4890912962,316+,316+,2.05,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Drew Mestemaker,Verges par la passe du joueur au moins (Drew Mestemaker (OKS)),2136,72891,1856751664,4890912963,326+,326+,2.25,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Drew Mestemaker,Verges par la passe du joueur au moins (Drew Mestemaker (OKS)),2136,72891,1856751664,4890912964,336+,336+,2.5,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Drew Mestemaker,Verges par la passe du joueur au moins (Drew Mestemaker (OKS)),2136,72891,1856751664,4890912965,346+,346+,2.75,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Drew Mestemaker,Verges par la passe du joueur au moins (Drew Mestemaker (OKS)),2136,72891,1856751664,4890912966,356+,356+,3.1,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Drew Mestemaker,Verges par la passe du joueur au moins (Drew Mestemaker (OKS)),2136,72891,1856751664,4890912967,366+,366+,3.4,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Drew Mestemaker,Verges par la passe du joueur au moins (Drew Mestemaker (OKS)),2136,72891,1856751664,4890912968,376+,376+,3.85,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Drew Mestemaker,Verges par la passe du joueur au moins (Drew Mestemaker (OKS)),2136,72891,1856751664,4890912969,386+,386+,4.4,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Drew Mestemaker,Verges par la passe du joueur au moins (Drew Mestemaker (OKS)),2136,72891,1856751664,4890912970,396+,396+,5.0,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Drew Mestemaker,Verges par la passe du joueur au moins (Drew Mestemaker (OKS)),2136,72891,1856751664,4890912971,406+,406+,5.75,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Drew Mestemaker,Verges par la passe du joueur au moins (Drew Mestemaker (OKS)),2136,72891,1856751664,4890912972,416+,416+,6.75,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Drew Mestemaker,Verges par la passe du joueur au moins (Drew Mestemaker (OKS)),2136,72891,1856751664,4890912973,426+,426+,8.0,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Drew Mestemaker,Verges par la passe du joueur au moins (Drew Mestemaker (OKS)),2136,72891,1856751664,4890912974,436+,436+,9.0,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Drew Mestemaker,Verges par la passe du joueur au moins (Drew Mestemaker (OKS)),2136,72891,1856751664,4890912975,446+,446+,11.0,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Drew Mestemaker,Verges par la passe du joueur au moins (Drew Mestemaker (OKS)),2136,72891,1856751664,4890912976,296+,296+,1.7143,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Drew Mestemaker,Verges par la passe du joueur au moins (Drew Mestemaker (OKS)),2136,72891,1856751664,4890912977,286+,286+,1.5715,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Yasin Willis,Verges au sol du joueur au moins (Yasin Willis (KAN)),2140,72895,1857011937,4889829908,68+,68+,1.8696,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Yasin Willis,Verges au sol du joueur au moins (Yasin Willis (KAN)),2140,72895,1857011937,4889829909,78+,78+,2.2,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Yasin Willis,Verges au sol du joueur au moins (Yasin Willis (KAN)),2140,72895,1857011937,4889829910,88+,88+,2.65,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Yasin Willis,Verges au sol du joueur au moins (Yasin Willis (KAN)),2140,72895,1857011937,4889829911,98+,98+,3.3,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Yasin Willis,Verges au sol du joueur au moins (Yasin Willis (KAN)),2140,72895,1857011937,4889829912,108+,108+,4.0,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Yasin Willis,Verges au sol du joueur au moins (Yasin Willis (KAN)),2140,72895,1857011937,4889829913,118+,118+,5.25,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Yasin Willis,Verges au sol du joueur au moins (Yasin Willis (KAN)),2140,72895,1857011937,4889829914,128+,128+,7.0,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Yasin Willis,Verges au sol du joueur au moins (Yasin Willis (KAN)),2140,72895,1857011937,4889829915,138+,138+,10.0,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Yasin Willis,Verges au sol du joueur au moins (Yasin Willis (KAN)),2140,72895,1857011937,4889829916,148+,148+,14.0,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Yasin Willis,Verges au sol du joueur au moins (Yasin Willis (KAN)),2140,72895,1857011937,4889829917,58+,58+,1.5,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Yasin Willis,Verges au sol du joueur au moins (Yasin Willis (KAN)),2140,72895,1857011937,4889829918,48+,48+,1.2667,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Isaiah Marshall,Verges au sol du joueur au moins (Isaiah Marshall (KAN)),2140,72895,1856751660,4880827438,63+,63+,1.8696,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Isaiah Marshall,Verges au sol du joueur au moins (Isaiah Marshall (KAN)),2140,72895,1856751660,4880827439,73+,73+,2.15,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Isaiah Marshall,Verges au sol du joueur au moins (Isaiah Marshall (KAN)),2140,72895,1856751660,4880827440,83+,83+,2.5,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Isaiah Marshall,Verges au sol du joueur au moins (Isaiah Marshall (KAN)),2140,72895,1856751660,4880827441,93+,93+,2.95,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Isaiah Marshall,Verges au sol du joueur au moins (Isaiah Marshall (KAN)),2140,72895,1856751660,4880827503,103+,103+,3.6,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Isaiah Marshall,Verges au sol du joueur au moins (Isaiah Marshall (KAN)),2140,72895,1856751660,4880827504,113+,113+,4.4,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Isaiah Marshall,Verges au sol du joueur au moins (Isaiah Marshall (KAN)),2140,72895,1856751660,4880827508,53+,53+,1.5264,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Isaiah Marshall,Verges au sol du joueur au moins (Isaiah Marshall (KAN)),2140,72895,1856751660,4880827509,43+,43+,1.3125,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Isaiah Marshall,Verges au sol du joueur au moins (Isaiah Marshall (KAN)),2140,72895,1856751660,4880827505,123+,123+,5.5,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Isaiah Marshall,Verges au sol du joueur au moins (Isaiah Marshall (KAN)),2140,72895,1856751660,4880827506,133+,133+,7.0,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Isaiah Marshall,Verges au sol du joueur au moins (Isaiah Marshall (KAN)),2140,72895,1856751660,4880827507,143+,143+,9.0,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Caleb Hawkins,Verges au sol du joueur au moins (Caleb Hawkins (OKS)),2140,72895,1856751662,4880827520,93+,93+,1.4,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Caleb Hawkins,Verges au sol du joueur au moins (Caleb Hawkins (OKS)),2140,72895,1856751662,4880827510,113+,113+,1.9091,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Caleb Hawkins,Verges au sol du joueur au moins (Caleb Hawkins (OKS)),2140,72895,1856751662,4880827511,123+,123+,2.15,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Caleb Hawkins,Verges au sol du joueur au moins (Caleb Hawkins (OKS)),2140,72895,1856751662,4880827512,133+,133+,2.45,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Caleb Hawkins,Verges au sol du joueur au moins (Caleb Hawkins (OKS)),2140,72895,1856751662,4880827513,143+,143+,2.85,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Caleb Hawkins,Verges au sol du joueur au moins (Caleb Hawkins (OKS)),2140,72895,1856751662,4880827514,153+,153+,3.4,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Caleb Hawkins,Verges au sol du joueur au moins (Caleb Hawkins (OKS)),2140,72895,1856751662,4880827515,163+,163+,4.0,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Caleb Hawkins,Verges au sol du joueur au moins (Caleb Hawkins (OKS)),2140,72895,1856751662,4880827516,173+,173+,5.0,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Caleb Hawkins,Verges au sol du joueur au moins (Caleb Hawkins (OKS)),2140,72895,1856751662,4880827517,183+,183+,6.25,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Caleb Hawkins,Verges au sol du joueur au moins (Caleb Hawkins (OKS)),2140,72895,1856751662,4880827518,193+,193+,8.0,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Caleb Hawkins,Verges au sol du joueur au moins (Caleb Hawkins (OKS)),2140,72895,1856751662,4880827519,103+,103+,1.6061,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Drew Mestemaker,Verges au sol du joueur au moins (Drew Mestemaker (OKS)),2140,72895,1856751667,4879866720,29+,29+,3.0,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Drew Mestemaker,Verges au sol du joueur au moins (Drew Mestemaker (OKS)),2140,72895,1856751667,4879866721,39+,39+,4.0,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Drew Mestemaker,Verges au sol du joueur au moins (Drew Mestemaker (OKS)),2140,72895,1856751667,4879866722,49+,49+,5.75,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Drew Mestemaker,Verges au sol du joueur au moins (Drew Mestemaker (OKS)),2140,72895,1856751667,4879866723,59+,59+,9.0,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Drew Mestemaker,Verges au sol du joueur au moins (Drew Mestemaker (OKS)),2140,72895,1856751667,4879866724,69+,69+,14.0,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Drew Mestemaker,Verges au sol du joueur au moins (Drew Mestemaker (OKS)),2140,72895,1856751667,4879866725,79+,79+,21.0,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Drew Mestemaker,Verges au sol du joueur au moins (Drew Mestemaker (OKS)),2140,72895,1856751667,4879866726,89+,89+,41.0,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Drew Mestemaker,Verges au sol du joueur au moins (Drew Mestemaker (OKS)),2140,72895,1856751667,4879866719,19+,19+,2.35,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Wyatt Young,Joueur total de réception (Wyatt Young (OKS)) (incl. OT),2142,72897,1856751661,4879866656,7+,7+,3.75,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Wyatt Young,Joueur total de réception (Wyatt Young (OKS)) (incl. OT),2142,72897,1856751661,4879866657,8+,8+,6.0,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Wyatt Young,Joueur total de réception (Wyatt Young (OKS)) (incl. OT),2142,72897,1856751661,4879866658,9+,9+,11.0,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Wyatt Young,Joueur total de réception (Wyatt Young (OKS)) (incl. OT),2142,72897,1856751661,4879866659,10+,10+,20.0,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Wyatt Young,Joueur total de réception (Wyatt Young (OKS)) (incl. OT),2142,72897,1856751661,4879866660,4+,4+,1.2353,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Wyatt Young,Joueur total de réception (Wyatt Young (OKS)) (incl. OT),2142,72897,1856751661,4879866654,5+,5+,1.7693,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Wyatt Young,Joueur total de réception (Wyatt Young (OKS)) (incl. OT),2142,72897,1856751661,4879866655,6+,6+,2.45,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Cam Pickett,Joueur total de réception (Cam Pickett (KAN)) (incl. OT),2142,72897,1857025238,4880804551,5+,5+,1.8,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Cam Pickett,Joueur total de réception (Cam Pickett (KAN)) (incl. OT),2142,72897,1857025238,4880804552,6+,6+,2.5,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Cam Pickett,Joueur total de réception (Cam Pickett (KAN)) (incl. OT),2142,72897,1857025238,4880804553,7+,7+,3.75,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Cam Pickett,Joueur total de réception (Cam Pickett (KAN)) (incl. OT),2142,72897,1857025238,4880804554,8+,8+,5.75,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Cam Pickett,Joueur total de réception (Cam Pickett (KAN)) (incl. OT),2142,72897,1857025238,4880804555,9+,9+,10.0,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Cam Pickett,Joueur total de réception (Cam Pickett (KAN)) (incl. OT),2142,72897,1857025238,4880804556,10+,10+,18.0,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Cam Pickett,Joueur total de réception (Cam Pickett (KAN)) (incl. OT),2142,72897,1857025238,4880804557,4+,4+,1.2858,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Justin Bowick,Joueur total de réception (Justin Bowick (OKS)) (incl. OT),2142,72897,1856751657,4879866616,5+,5+,1.8696,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Justin Bowick,Joueur total de réception (Justin Bowick (OKS)) (incl. OT),2142,72897,1856751657,4879866617,6+,6+,2.55,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Justin Bowick,Joueur total de réception (Justin Bowick (OKS)) (incl. OT),2142,72897,1856751657,4879866618,7+,7+,3.85,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Justin Bowick,Joueur total de réception (Justin Bowick (OKS)) (incl. OT),2142,72897,1856751657,4879866619,8+,8+,6.25,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Justin Bowick,Joueur total de réception (Justin Bowick (OKS)) (incl. OT),2142,72897,1856751657,4879866620,9+,9+,11.0,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Justin Bowick,Joueur total de réception (Justin Bowick (OKS)) (incl. OT),2142,72897,1856751657,4879866621,10+,10+,20.0,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Justin Bowick,Joueur total de réception (Justin Bowick (OKS)) (incl. OT),2142,72897,1856751657,4879866622,4+,4+,1.3077,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Terrence Lewis,Joueur total de réception (Terrence Lewis (OKS)) (incl. OT),2142,72897,1857022904,4880799206,3+,3+,2.1,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Terrence Lewis,Joueur total de réception (Terrence Lewis (OKS)) (incl. OT),2142,72897,1857022904,4880799207,4+,4+,3.1,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Terrence Lewis,Joueur total de réception (Terrence Lewis (OKS)) (incl. OT),2142,72897,1857022904,4880799208,5+,5+,5.5,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Terrence Lewis,Joueur total de réception (Terrence Lewis (OKS)) (incl. OT),2142,72897,1857022904,4880799209,6+,6+,11.0,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Terrence Lewis,Joueur total de réception (Terrence Lewis (OKS)) (incl. OT),2142,72897,1857022904,4880799210,7+,7+,21.0,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Terrence Lewis,Joueur total de réception (Terrence Lewis (OKS)) (incl. OT),2142,72897,1857022904,4880799211,8+,8+,51.0,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Terrence Lewis,Joueur total de réception (Terrence Lewis (OKS)) (incl. OT),2142,72897,1857022904,4880799212,2+,2+,1.3077,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Caleb Hawkins,Joueur total de réception (Caleb Hawkins (OKS)) (incl. OT),2142,72897,1860143455,4891344320,8+,8+,6.25,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Caleb Hawkins,Joueur total de réception (Caleb Hawkins (OKS)) (incl. OT),2142,72897,1860143455,4891344321,9+,9+,11.0,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Caleb Hawkins,Joueur total de réception (Caleb Hawkins (OKS)) (incl. OT),2142,72897,1860143455,4891344322,10+,10+,19.0,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Caleb Hawkins,Joueur total de réception (Caleb Hawkins (OKS)) (incl. OT),2142,72897,1860143455,4891344323,4+,4+,1.4,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Caleb Hawkins,Joueur total de réception (Caleb Hawkins (OKS)) (incl. OT),2142,72897,1860143455,4891344317,5+,5+,2.0,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Caleb Hawkins,Joueur total de réception (Caleb Hawkins (OKS)) (incl. OT),2142,72897,1860143455,4891344318,6+,6+,2.7,0,False
+18260765,Oklahoma St Cowboys vs. Kansas Jayhawks,Caleb Hawkins,Joueur total de réception (Caleb Hawkins (OKS)) (incl. OT),2142,72897,1860143455,4891344319,7+,7+,4.0,0,False

@@ -1,29 +1,236 @@
 event_id,match,player,market,market_type_id,sport_market_id,child_market_id,odd_id,selection,line,price,odd_status,is_main_bet
-18260757,GEORGIE BULLDOGS vs. Georgia Tech,Gunner Stockton,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1858451251,4885705208,Gunner Stockton (UGa) Plus de 250.5,Gunner Stockton (UGa) Plus de 250.5,1.8334,0,True
-18260757,GEORGIE BULLDOGS vs. Georgia Tech,Gunner Stockton,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1858451251,4885705209,Gunner Stockton (UGa) moins de 250.5,Gunner Stockton (UGa) moins de 250.5,1.7693,0,True
-18260757,GEORGIE BULLDOGS vs. Georgia Tech,Gunner Stockton,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1855348883,4875342828,Gunner Stockton (UGa) Plus de 2.5,Gunner Stockton (UGa) Plus de 2.5,1.9524,0,False
-18260757,GEORGIE BULLDOGS vs. Georgia Tech,Gunner Stockton,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1855348883,4875342829,Gunner Stockton (UGa) moins de 2.5,Gunner Stockton (UGa) moins de 2.5,1.6667,0,False
-18260757,GEORGIE BULLDOGS vs. Georgia Tech,Talyn Taylor,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1856285838,4878600122,Talyn Taylor (UGa) Plus de 49.5,Talyn Taylor (UGa) Plus de 49.5,1.8334,0,False
-18260757,GEORGIE BULLDOGS vs. Georgia Tech,Talyn Taylor,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1856285838,4878600123,Talyn Taylor (UGa) moins de 49.5,Talyn Taylor (UGa) moins de 49.5,1.7693,0,False
-18260757,GEORGIE BULLDOGS vs. Georgia Tech,Isiah Canion,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1858451254,4885705214,Isiah Canion (UGa) Plus de 47.5,Isiah Canion (UGa) Plus de 47.5,1.7693,0,False
-18260757,GEORGIE BULLDOGS vs. Georgia Tech,Isiah Canion,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1858451254,4885705215,Isiah Canion (UGa) moins de 47.5,Isiah Canion (UGa) moins de 47.5,1.8334,0,False
-18260757,GEORGIE BULLDOGS vs. Georgia Tech,Craig Dandridge,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1855348892,4875342846,Craig Dandridge (UGa) Plus de 34.5,Craig Dandridge (UGa) Plus de 34.5,1.8,0,False
-18260757,GEORGIE BULLDOGS vs. Georgia Tech,Craig Dandridge,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1855348892,4875342847,Craig Dandridge (UGa) moins de 34.5,Craig Dandridge (UGa) moins de 34.5,1.8,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Gunner Stockton,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1856823610,4880097856,Gunner Stockton (UGa) moins de 247.5,Gunner Stockton (UGa) moins de 247.5,1.8334,0,True
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Gunner Stockton,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1856823610,4880097855,Gunner Stockton (UGa) Plus de 247.5,Gunner Stockton (UGa) Plus de 247.5,1.7693,0,True
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Dalen Penson,Verges de réception du joueur au moins (Dalen Penson (GT)),2143,72898,1856749939,4886686256,23+,23+,1.8696,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Dalen Penson,Verges de réception du joueur au moins (Dalen Penson (GT)),2143,72898,1856749939,4886686257,33+,33+,2.2,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Dalen Penson,Verges de réception du joueur au moins (Dalen Penson (GT)),2143,72898,1856749939,4886686258,43+,43+,2.65,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Dalen Penson,Verges de réception du joueur au moins (Dalen Penson (GT)),2143,72898,1856749939,4886686259,53+,53+,3.2,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Dalen Penson,Verges de réception du joueur au moins (Dalen Penson (GT)),2143,72898,1856749939,4886686260,63+,63+,4.0,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Dalen Penson,Verges de réception du joueur au moins (Dalen Penson (GT)),2143,72898,1856749939,4886686261,73+,73+,5.25,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Dalen Penson,Verges de réception du joueur au moins (Dalen Penson (GT)),2143,72898,1856749939,4886686262,83+,83+,7.0,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Dalen Penson,Verges de réception du joueur au moins (Dalen Penson (GT)),2143,72898,1856749939,4886686263,93+,93+,10.0,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Dalen Penson,Verges de réception du joueur au moins (Dalen Penson (GT)),2143,72898,1856749939,4886686264,103+,103+,13.0,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Dalen Penson,Verges de réception du joueur au moins (Dalen Penson (GT)),2143,72898,1856749939,4886686265,13+,13+,1.4167,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Jaden Reddell,Verges de réception du joueur au moins (Jaden Reddell (UGA)),2143,72898,1856749944,4879862176,53+,53+,3.85,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Jaden Reddell,Verges de réception du joueur au moins (Jaden Reddell (UGA)),2143,72898,1856749944,4879862177,63+,63+,5.25,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Jaden Reddell,Verges de réception du joueur au moins (Jaden Reddell (UGA)),2143,72898,1856749944,4879862178,73+,73+,7.75,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Jaden Reddell,Verges de réception du joueur au moins (Jaden Reddell (UGA)),2143,72898,1856749944,4879862179,83+,83+,12.0,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Jaden Reddell,Verges de réception du joueur au moins (Jaden Reddell (UGA)),2143,72898,1856749944,4879862180,93+,93+,18.0,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Jaden Reddell,Verges de réception du joueur au moins (Jaden Reddell (UGA)),2143,72898,1856749944,4879862181,103+,103+,31.0,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Jaden Reddell,Verges de réception du joueur au moins (Jaden Reddell (UGA)),2143,72898,1856749944,4879862182,13+,13+,1.4167,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Jaden Reddell,Verges de réception du joueur au moins (Jaden Reddell (UGA)),2143,72898,1856749944,4879862172,23+,23+,1.8696,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Jaden Reddell,Verges de réception du joueur au moins (Jaden Reddell (UGA)),2143,72898,1856749944,4879862174,33+,33+,2.3,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Jaden Reddell,Verges de réception du joueur au moins (Jaden Reddell (UGA)),2143,72898,1856749944,4879862175,43+,43+,2.95,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Craig Dandridge,Verges de réception du joueur au moins (Craig Dandridge (UGA)),2143,72898,1856749932,4880396495,33+,33+,1.8696,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Craig Dandridge,Verges de réception du joueur au moins (Craig Dandridge (UGA)),2143,72898,1856749932,4880396496,43+,43+,2.2,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Craig Dandridge,Verges de réception du joueur au moins (Craig Dandridge (UGA)),2143,72898,1856749932,4880396497,53+,53+,2.7,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Craig Dandridge,Verges de réception du joueur au moins (Craig Dandridge (UGA)),2143,72898,1856749932,4880396498,63+,63+,3.3,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Craig Dandridge,Verges de réception du joueur au moins (Craig Dandridge (UGA)),2143,72898,1856749932,4880396499,73+,73+,4.25,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Craig Dandridge,Verges de réception du joueur au moins (Craig Dandridge (UGA)),2143,72898,1856749932,4880396500,83+,83+,5.5,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Craig Dandridge,Verges de réception du joueur au moins (Craig Dandridge (UGA)),2143,72898,1856749932,4880396501,93+,93+,7.5,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Craig Dandridge,Verges de réception du joueur au moins (Craig Dandridge (UGA)),2143,72898,1856749932,4880396502,103+,103+,11.0,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Craig Dandridge,Verges de réception du joueur au moins (Craig Dandridge (UGA)),2143,72898,1856749932,4880396503,113+,113+,15.0,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Craig Dandridge,Verges de réception du joueur au moins (Craig Dandridge (UGA)),2143,72898,1856749932,4880396504,23+,23+,1.4445,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Jordan Allen,Verges de réception du joueur au moins (Jordan Allen (GT)),2143,72898,1856749946,4879862193,32+,32+,1.8696,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Jordan Allen,Verges de réception du joueur au moins (Jordan Allen (GT)),2143,72898,1856749946,4879862194,42+,42+,2.15,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Jordan Allen,Verges de réception du joueur au moins (Jordan Allen (GT)),2143,72898,1856749946,4879862195,52+,52+,2.55,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Jordan Allen,Verges de réception du joueur au moins (Jordan Allen (GT)),2143,72898,1856749946,4879862196,62+,62+,3.0,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Jordan Allen,Verges de réception du joueur au moins (Jordan Allen (GT)),2143,72898,1856749946,4879862197,72+,72+,3.75,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Jordan Allen,Verges de réception du joueur au moins (Jordan Allen (GT)),2143,72898,1856749946,4879862198,82+,82+,4.5,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Jordan Allen,Verges de réception du joueur au moins (Jordan Allen (GT)),2143,72898,1856749946,4879862199,92+,92+,5.75,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Jordan Allen,Verges de réception du joueur au moins (Jordan Allen (GT)),2143,72898,1856749946,4879862201,112+,112+,10.0,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Jordan Allen,Verges de réception du joueur au moins (Jordan Allen (GT)),2143,72898,1856749946,4879862202,22+,22+,1.4762,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Talyn Taylor,Verges de réception du joueur au moins (Talyn Taylor (UGA)),2143,72898,1856749941,4891542117,84+,84+,3.1,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Talyn Taylor,Verges de réception du joueur au moins (Talyn Taylor (UGA)),2143,72898,1856749941,4891542118,94+,94+,3.85,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Talyn Taylor,Verges de réception du joueur au moins (Talyn Taylor (UGA)),2143,72898,1856749941,4891542119,104+,104+,4.75,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Talyn Taylor,Verges de réception du joueur au moins (Talyn Taylor (UGA)),2143,72898,1856749941,4891542088,54+,54+,1.9091,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Talyn Taylor,Verges de réception du joueur au moins (Talyn Taylor (UGA)),2143,72898,1856749941,4891542089,64+,64+,2.2,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Talyn Taylor,Verges de réception du joueur au moins (Talyn Taylor (UGA)),2143,72898,1856749941,4891542090,74+,74+,2.6,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Talyn Taylor,Verges de réception du joueur au moins (Talyn Taylor (UGA)),2143,72898,1856749941,4891542123,44+,44+,1.5264,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Talyn Taylor,Verges de réception du joueur au moins (Talyn Taylor (UGA)),2143,72898,1856749941,4891542120,114+,114+,6.0,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Talyn Taylor,Verges de réception du joueur au moins (Talyn Taylor (UGA)),2143,72898,1856749941,4891542121,124+,124+,7.75,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Talyn Taylor,Verges de réception du joueur au moins (Talyn Taylor (UGA)),2143,72898,1856749941,4891542122,134+,134+,11.0,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Isiah Canion,Verges de réception du joueur au moins (Isiah Canion (UGA)),2143,72898,1856749945,4880505001,46+,46+,1.9091,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Isiah Canion,Verges de réception du joueur au moins (Isiah Canion (UGA)),2143,72898,1856749945,4880505002,56+,56+,2.2,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Isiah Canion,Verges de réception du joueur au moins (Isiah Canion (UGA)),2143,72898,1856749945,4880505003,66+,66+,2.65,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Isiah Canion,Verges de réception du joueur au moins (Isiah Canion (UGA)),2143,72898,1856749945,4880505004,76+,76+,3.2,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Isiah Canion,Verges de réception du joueur au moins (Isiah Canion (UGA)),2143,72898,1856749945,4880505005,86+,86+,4.0,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Isiah Canion,Verges de réception du joueur au moins (Isiah Canion (UGA)),2143,72898,1856749945,4880505006,96+,96+,5.0,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Isiah Canion,Verges de réception du joueur au moins (Isiah Canion (UGA)),2143,72898,1856749945,4880505007,106+,106+,6.5,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Isiah Canion,Verges de réception du joueur au moins (Isiah Canion (UGA)),2143,72898,1856749945,4880505008,116+,116+,9.0,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Isiah Canion,Verges de réception du joueur au moins (Isiah Canion (UGA)),2143,72898,1856749945,4880505009,126+,126+,12.0,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Isiah Canion,Verges de réception du joueur au moins (Isiah Canion (UGA)),2143,72898,1856749945,4880505010,36+,36+,1.5264,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Chris Corbo,Verges de réception du joueur au moins (Chris Corbo (GT)),2143,72898,1856749938,4891443095,14+,14+,1.8696,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Chris Corbo,Verges de réception du joueur au moins (Chris Corbo (GT)),2143,72898,1856749938,4891443096,24+,24+,2.35,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Chris Corbo,Verges de réception du joueur au moins (Chris Corbo (GT)),2143,72898,1856749938,4891443097,34+,34+,3.0,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Chris Corbo,Verges de réception du joueur au moins (Chris Corbo (GT)),2143,72898,1856749938,4891443098,44+,44+,4.0,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Chris Corbo,Verges de réception du joueur au moins (Chris Corbo (GT)),2143,72898,1856749938,4891443099,54+,54+,6.0,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Chris Corbo,Verges de réception du joueur au moins (Chris Corbo (GT)),2143,72898,1856749938,4891443100,64+,64+,9.0,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Chris Corbo,Verges de réception du joueur au moins (Chris Corbo (GT)),2143,72898,1856749938,4891443101,74+,74+,14.0,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Chris Corbo,Verges de réception du joueur au moins (Chris Corbo (GT)),2143,72898,1856749938,4891443102,84+,84+,21.0,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Chris Corbo,Verges de réception du joueur au moins (Chris Corbo (GT)),2143,72898,1856749938,4891443103,94+,94+,41.0,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Lawson Luckie,Verges de réception du joueur au moins (Lawson Luckie (UGA)),2143,72898,1856749930,4884313955,97+,97+,26.0,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Lawson Luckie,Verges de réception du joueur au moins (Lawson Luckie (UGA)),2143,72898,1856749930,4880376151,17+,17+,1.9091,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Lawson Luckie,Verges de réception du joueur au moins (Lawson Luckie (UGA)),2143,72898,1856749930,4880376152,27+,27+,2.3,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Lawson Luckie,Verges de réception du joueur au moins (Lawson Luckie (UGA)),2143,72898,1856749930,4880376153,37+,37+,2.9,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Lawson Luckie,Verges de réception du joueur au moins (Lawson Luckie (UGA)),2143,72898,1856749930,4880376154,47+,47+,3.85,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Lawson Luckie,Verges de réception du joueur au moins (Lawson Luckie (UGA)),2143,72898,1856749930,4880376155,57+,57+,5.0,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Lawson Luckie,Verges de réception du joueur au moins (Lawson Luckie (UGA)),2143,72898,1856749930,4880376156,67+,67+,7.25,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Lawson Luckie,Verges de réception du joueur au moins (Lawson Luckie (UGA)),2143,72898,1856749930,4880376157,77+,77+,11.0,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Lawson Luckie,Verges de réception du joueur au moins (Lawson Luckie (UGA)),2143,72898,1856749930,4880376158,87+,87+,16.0,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Justice Haynes,Verges de réception du joueur au moins (Justice Haynes (GT)),2143,72898,1856749943,4879862163,16+,16+,2.35,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Justice Haynes,Verges de réception du joueur au moins (Justice Haynes (GT)),2143,72898,1856749943,4879862164,26+,26+,3.0,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Justice Haynes,Verges de réception du joueur au moins (Justice Haynes (GT)),2143,72898,1856749943,4879862165,36+,36+,4.0,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Justice Haynes,Verges de réception du joueur au moins (Justice Haynes (GT)),2143,72898,1856749943,4879862167,46+,46+,5.75,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Justice Haynes,Verges de réception du joueur au moins (Justice Haynes (GT)),2143,72898,1856749943,4879862168,56+,56+,9.0,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Justice Haynes,Verges de réception du joueur au moins (Justice Haynes (GT)),2143,72898,1856749943,4879862169,66+,66+,14.0,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Justice Haynes,Verges de réception du joueur au moins (Justice Haynes (GT)),2143,72898,1856749943,4879862170,76+,76+,21.0,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Justice Haynes,Verges de réception du joueur au moins (Justice Haynes (GT)),2143,72898,1856749943,4879862171,86+,86+,36.0,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Nate Frazier,Verges de réception du joueur au moins (Nate Frazier (UGA)),2143,72898,1856749934,4879862080,56+,56+,8.5,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Nate Frazier,Verges de réception du joueur au moins (Nate Frazier (UGA)),2143,72898,1856749934,4879862081,66+,66+,13.0,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Nate Frazier,Verges de réception du joueur au moins (Nate Frazier (UGA)),2143,72898,1856749934,4879862082,76+,76+,21.0,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Nate Frazier,Verges de réception du joueur au moins (Nate Frazier (UGA)),2143,72898,1856749934,4879862083,86+,86+,36.0,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Nate Frazier,Verges de réception du joueur au moins (Nate Frazier (UGA)),2143,72898,1856749934,4879862076,16+,16+,2.35,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Nate Frazier,Verges de réception du joueur au moins (Nate Frazier (UGA)),2143,72898,1856749934,4879862077,26+,26+,3.0,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Nate Frazier,Verges de réception du joueur au moins (Nate Frazier (UGA)),2143,72898,1856749934,4879862078,36+,36+,4.0,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Nate Frazier,Verges de réception du joueur au moins (Nate Frazier (UGA)),2143,72898,1856749934,4879862079,46+,46+,5.75,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Gunner Stockton,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1855348883,4875342828,Gunner Stockton (UGa) Plus de 2.5,Gunner Stockton (UGa) Plus de 2.5,2.05,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Gunner Stockton,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1855348883,4875342829,Gunner Stockton (UGa) moins de 2.5,Gunner Stockton (UGa) moins de 2.5,1.6061,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Talyn Taylor,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1860212690,4891529797,Talyn Taylor (UGa) Plus de 53.5,Talyn Taylor (UGa) Plus de 53.5,1.8334,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Talyn Taylor,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1860212690,4891529798,Talyn Taylor (UGa) moins de 53.5,Talyn Taylor (UGa) moins de 53.5,1.7693,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Isiah Canion,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1856922457,4880499145,Isiah Canion (UGa) Plus de 45.5,Isiah Canion (UGa) Plus de 45.5,1.8334,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Isiah Canion,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1856922457,4880499146,Isiah Canion (UGa) moins de 45.5,Isiah Canion (UGa) moins de 45.5,1.7693,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Craig Dandridge,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1855346410,4875335238,Craig Dandridge (UGa) Plus de 32.5,Craig Dandridge (UGa) Plus de 32.5,1.7693,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Craig Dandridge,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1855346410,4875335239,Craig Dandridge (UGa) moins de 32.5,Craig Dandridge (UGa) moins de 32.5,1.8334,0,False
 18260757,GEORGIE BULLDOGS vs. Georgia Tech,Jaden Reddell,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1855350656,4875351257,Jaden Reddell (UGa) Plus de 20.5,Jaden Reddell (UGa) Plus de 20.5,1.8334,0,False
 18260757,GEORGIE BULLDOGS vs. Georgia Tech,Jaden Reddell,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1855350656,4875351258,Jaden Reddell (UGa) moins de 20.5,Jaden Reddell (UGa) moins de 20.5,1.7693,0,False
-18260757,GEORGIE BULLDOGS vs. Georgia Tech,Lawson Luckie,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1850194905,4859828557,Lawson Luckie (UGa) Plus de 17.5,Lawson Luckie (UGa) Plus de 17.5,1.8334,0,False
-18260757,GEORGIE BULLDOGS vs. Georgia Tech,Lawson Luckie,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1850194905,4859828558,Lawson Luckie (UGa) moins de 17.5,Lawson Luckie (UGa) moins de 17.5,1.7693,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Lawson Luckie,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1850209907,4859864200,Lawson Luckie (UGa) Plus de 16.5,Lawson Luckie (UGa) Plus de 16.5,1.8334,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Lawson Luckie,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1850209907,4859864201,Lawson Luckie (UGa) moins de 16.5,Lawson Luckie (UGa) moins de 16.5,1.7693,0,False
 18260757,GEORGIE BULLDOGS vs. Georgia Tech,Chris Corbo,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1856289494,4878611556,Chris Corbo (GT) Plus de 13.5,Chris Corbo (GT) Plus de 13.5,1.7693,0,False
 18260757,GEORGIE BULLDOGS vs. Georgia Tech,Chris Corbo,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1856289494,4878611557,Chris Corbo (GT) moins de 13.5,Chris Corbo (GT) moins de 13.5,1.8334,0,False
-18260757,GEORGIE BULLDOGS vs. Georgia Tech,Nate Frazier,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1850162418,4859747838,Nate Frazier (UGa) Plus de 6.5,Nate Frazier (UGa) Plus de 6.5,1.8334,0,False
-18260757,GEORGIE BULLDOGS vs. Georgia Tech,Nate Frazier,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1850162418,4859747839,Nate Frazier (UGa) moins de 6.5,Nate Frazier (UGa) moins de 6.5,1.7693,0,False
-18260757,GEORGIE BULLDOGS vs. Georgia Tech,Nate Frazier,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1850230038,4859915392,Nate Frazier (UGa) moins de 86.5,Nate Frazier (UGa) moins de 86.5,1.7693,0,False
-18260757,GEORGIE BULLDOGS vs. Georgia Tech,Nate Frazier,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1850230038,4859915391,Nate Frazier (UGa) Plus de 86.5,Nate Frazier (UGa) Plus de 86.5,1.8334,0,False
-18260757,GEORGIE BULLDOGS vs. Georgia Tech,Dwight Phillips Jr.,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1856897656,4880377656,Dwight Phillips Jr. (UGa) Plus de 45.5,Dwight Phillips Jr. (UGa) Plus de 45.5,1.7693,0,False
-18260757,GEORGIE BULLDOGS vs. Georgia Tech,Dwight Phillips Jr.,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1856897656,4880377657,Dwight Phillips Jr. (UGa) moins de 45.5,Dwight Phillips Jr. (UGa) moins de 45.5,1.8334,0,False
-18260757,GEORGIE BULLDOGS vs. Georgia Tech,Justice Haynes,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1856820700,4880090518,Justice Haynes (GT) Plus de 37.5,Justice Haynes (GT) Plus de 37.5,1.7693,0,False
-18260757,GEORGIE BULLDOGS vs. Georgia Tech,Justice Haynes,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1856820700,4880090519,Justice Haynes (GT) moins de 37.5,Justice Haynes (GT) moins de 37.5,1.8334,0,False
-18260757,GEORGIE BULLDOGS vs. Georgia Tech,Trelain Maddox,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1858386311,4885508930,Trelain Maddox (GT) Plus de 25.5,Trelain Maddox (GT) Plus de 25.5,1.7693,0,False
-18260757,GEORGIE BULLDOGS vs. Georgia Tech,Trelain Maddox,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1858386311,4885508931,Trelain Maddox (GT) moins de 25.5,Trelain Maddox (GT) moins de 25.5,1.8334,0,False
-18260757,GEORGIE BULLDOGS vs. Georgia Tech,Gunner Stockton,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1856889887,4880347240,Gunner Stockton (UGa) moins de 17.5,Gunner Stockton (UGa) moins de 17.5,1.8,0,False
-18260757,GEORGIE BULLDOGS vs. Georgia Tech,Gunner Stockton,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1856889887,4880347239,Gunner Stockton (UGa) Plus de 17.5,Gunner Stockton (UGa) Plus de 17.5,1.8,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Nate Frazier,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1856921749,4880497440,Nate Frazier (UGa) moins de 5.5,Nate Frazier (UGa) moins de 5.5,1.8334,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Nate Frazier,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1856921749,4880497439,Nate Frazier (UGa) Plus de 5.5,Nate Frazier (UGa) Plus de 5.5,1.7693,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Nate Frazier,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1850230038,4859915392,Nate Frazier (UGa) moins de 86.5,Nate Frazier (UGa) moins de 86.5,1.8334,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Nate Frazier,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1850230038,4859915391,Nate Frazier (UGa) Plus de 86.5,Nate Frazier (UGa) Plus de 86.5,1.7693,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Dwight Phillips Jr.,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1856821513,4880092388,Dwight Phillips Jr. (UGa) Plus de 44.5,Dwight Phillips Jr. (UGa) Plus de 44.5,1.8,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Dwight Phillips Jr.,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1856821513,4880092389,Dwight Phillips Jr. (UGa) moins de 44.5,Dwight Phillips Jr. (UGa) moins de 44.5,1.8,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Justice Haynes,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1854620823,4873123666,Justice Haynes (GT) Plus de 33.5,Justice Haynes (GT) Plus de 33.5,1.7693,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Justice Haynes,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1854620823,4873123667,Justice Haynes (GT) moins de 33.5,Justice Haynes (GT) moins de 33.5,1.8334,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Trelain Maddox,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1856902444,4880395700,Trelain Maddox (GT) Plus de 28.5,Trelain Maddox (GT) Plus de 28.5,1.8334,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Trelain Maddox,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1856902444,4880395701,Trelain Maddox (GT) moins de 28.5,Trelain Maddox (GT) moins de 28.5,1.7693,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Gunner Stockton,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1856821509,4880092380,Gunner Stockton (UGa) Plus de 18.5,Gunner Stockton (UGa) Plus de 18.5,1.8334,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Gunner Stockton,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1856821509,4880092381,Gunner Stockton (UGa) moins de 18.5,Gunner Stockton (UGa) moins de 18.5,1.7693,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Talyn Taylor,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1860213180,4891531291,Talyn Taylor (UGa) Plus de 3.5,Talyn Taylor (UGa) Plus de 3.5,2.15,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Talyn Taylor,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1860213180,4891531292,Talyn Taylor (UGa) moins de 3.5,Talyn Taylor (UGa) moins de 3.5,1.5715,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Isiah Canion,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1850162350,4859747702,Isiah Canion (UGa) Plus de 2.5,Isiah Canion (UGa) Plus de 2.5,1.6061,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Isiah Canion,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1850162350,4859747703,Isiah Canion (UGa) moins de 2.5,Isiah Canion (UGa) moins de 2.5,2.1,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Craig Dandridge,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1850230044,4859915403,Craig Dandridge (UGa) Plus de 2.5,Craig Dandridge (UGa) Plus de 2.5,2.1,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Craig Dandridge,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1850230044,4859915404,Craig Dandridge (UGa) moins de 2.5,Craig Dandridge (UGa) moins de 2.5,1.6061,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Jaden Reddell,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1855346402,4875335222,Jaden Reddell (UGa) Plus de 1.5,Jaden Reddell (UGa) Plus de 1.5,1.7408,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Jaden Reddell,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1855346402,4875335223,Jaden Reddell (UGa) moins de 1.5,Jaden Reddell (UGa) moins de 1.5,1.9091,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Nate Frazier,Verges à la course et à la réception Plus/Moins (prolongation incluse),3317,73841,1856828086,4880132050,Nate Frazier (UGa) Plus de 97.5,Nate Frazier (UGa) Plus de 97.5,1.8334,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Nate Frazier,Verges à la course et à la réception Plus/Moins (prolongation incluse),3317,73841,1856828086,4880132051,Nate Frazier (UGa) moins de 97.5,Nate Frazier (UGa) moins de 97.5,1.8,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Gunner Stockton,Touchés par la passe du joueur au moins (Gunner Stockton (UGA)),2138,72893,1856891152,4880362784,2+,2+,1.3334,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Gunner Stockton,Touchés par la passe du joueur au moins (Gunner Stockton (UGA)),2138,72893,1856891152,4880362782,3+,3+,2.1,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Gunner Stockton,Touchés par la passe du joueur au moins (Gunner Stockton (UGA)),2138,72893,1856891152,4880362783,4+,4+,3.5,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Gunner Stockton,Verges par la passe du joueur au moins (Gunner Stockton (UGA)),2136,72891,1856749933,4879886208,384+,384+,14.0,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Gunner Stockton,Verges par la passe du joueur au moins (Gunner Stockton (UGA)),2136,72891,1856749933,4879886209,234+,234+,1.6897,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Gunner Stockton,Verges par la passe du joueur au moins (Gunner Stockton (UGA)),2136,72891,1856749933,4879886210,224+,224+,1.5264,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Gunner Stockton,Verges par la passe du joueur au moins (Gunner Stockton (UGA)),2136,72891,1856749933,4879886194,244+,244+,1.8696,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Gunner Stockton,Verges par la passe du joueur au moins (Gunner Stockton (UGA)),2136,72891,1856749933,4879886195,254+,254+,2.05,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Gunner Stockton,Verges par la passe du joueur au moins (Gunner Stockton (UGA)),2136,72891,1856749933,4879886196,264+,264+,2.25,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Gunner Stockton,Verges par la passe du joueur au moins (Gunner Stockton (UGA)),2136,72891,1856749933,4879886197,274+,274+,2.5,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Gunner Stockton,Verges par la passe du joueur au moins (Gunner Stockton (UGA)),2136,72891,1856749933,4879886198,284+,284+,2.8,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Gunner Stockton,Verges par la passe du joueur au moins (Gunner Stockton (UGA)),2136,72891,1856749933,4879886199,294+,294+,3.2,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Gunner Stockton,Verges par la passe du joueur au moins (Gunner Stockton (UGA)),2136,72891,1856749933,4879886200,304+,304+,3.6,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Gunner Stockton,Verges par la passe du joueur au moins (Gunner Stockton (UGA)),2136,72891,1856749933,4879886201,314+,314+,4.0,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Gunner Stockton,Verges par la passe du joueur au moins (Gunner Stockton (UGA)),2136,72891,1856749933,4879886202,324+,324+,4.75,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Gunner Stockton,Verges par la passe du joueur au moins (Gunner Stockton (UGA)),2136,72891,1856749933,4879886203,334+,334+,5.5,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Gunner Stockton,Verges par la passe du joueur au moins (Gunner Stockton (UGA)),2136,72891,1856749933,4879886204,344+,344+,6.5,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Gunner Stockton,Verges par la passe du joueur au moins (Gunner Stockton (UGA)),2136,72891,1856749933,4879886205,354+,354+,7.75,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Gunner Stockton,Verges par la passe du joueur au moins (Gunner Stockton (UGA)),2136,72891,1856749933,4879886206,364+,364+,9.0,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Gunner Stockton,Verges par la passe du joueur au moins (Gunner Stockton (UGA)),2136,72891,1856749933,4879886207,374+,374+,12.0,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Trelain Maddox,Verges au sol du joueur au moins (Trelain Maddox (GT)),2140,72895,1856749937,4880396576,30+,30+,1.8696,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Trelain Maddox,Verges au sol du joueur au moins (Trelain Maddox (GT)),2140,72895,1856749937,4880396577,40+,40+,2.3,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Trelain Maddox,Verges au sol du joueur au moins (Trelain Maddox (GT)),2140,72895,1856749937,4880396578,50+,50+,2.85,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Trelain Maddox,Verges au sol du joueur au moins (Trelain Maddox (GT)),2140,72895,1856749937,4880396579,60+,60+,3.75,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Trelain Maddox,Verges au sol du joueur au moins (Trelain Maddox (GT)),2140,72895,1856749937,4880396580,70+,70+,5.0,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Trelain Maddox,Verges au sol du joueur au moins (Trelain Maddox (GT)),2140,72895,1856749937,4880396581,80+,80+,6.75,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Trelain Maddox,Verges au sol du joueur au moins (Trelain Maddox (GT)),2140,72895,1856749937,4880396582,90+,90+,10.0,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Trelain Maddox,Verges au sol du joueur au moins (Trelain Maddox (GT)),2140,72895,1856749937,4880396583,100+,100+,15.0,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Trelain Maddox,Verges au sol du joueur au moins (Trelain Maddox (GT)),2140,72895,1856749937,4880396584,110+,110+,21.0,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Trelain Maddox,Verges au sol du joueur au moins (Trelain Maddox (GT)),2140,72895,1856749937,4880396585,20+,20+,1.3637,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Trelain Maddox,Verges au sol du joueur au moins (Trelain Maddox (GT)),2140,72895,1856749937,4880396586,10+,10+,1.1334,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Justice Haynes,Verges au sol du joueur au moins (Justice Haynes (GT)),2140,72895,1856749942,4879862152,44+,44+,2.15,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Justice Haynes,Verges au sol du joueur au moins (Justice Haynes (GT)),2140,72895,1856749942,4879862153,54+,54+,2.5,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Justice Haynes,Verges au sol du joueur au moins (Justice Haynes (GT)),2140,72895,1856749942,4879862154,64+,64+,3.0,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Justice Haynes,Verges au sol du joueur au moins (Justice Haynes (GT)),2140,72895,1856749942,4879862155,74+,74+,3.6,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Justice Haynes,Verges au sol du joueur au moins (Justice Haynes (GT)),2140,72895,1856749942,4879862156,84+,84+,4.5,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Justice Haynes,Verges au sol du joueur au moins (Justice Haynes (GT)),2140,72895,1856749942,4879862157,94+,94+,5.75,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Justice Haynes,Verges au sol du joueur au moins (Justice Haynes (GT)),2140,72895,1856749942,4879862158,104+,104+,7.5,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Justice Haynes,Verges au sol du joueur au moins (Justice Haynes (GT)),2140,72895,1856749942,4879862159,114+,114+,10.0,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Justice Haynes,Verges au sol du joueur au moins (Justice Haynes (GT)),2140,72895,1856749942,4880401680,14+,14+,1.1667,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Justice Haynes,Verges au sol du joueur au moins (Justice Haynes (GT)),2140,72895,1856749942,4879862161,34+,34+,1.8696,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Justice Haynes,Verges au sol du joueur au moins (Justice Haynes (GT)),2140,72895,1856749942,4879862162,24+,24+,1.4167,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Dwight Phillips,Verges au sol du joueur au moins (Dwight Phillips (UGA)),2140,72895,1856749936,4880310956,45+,45+,1.8696,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Dwight Phillips,Verges au sol du joueur au moins (Dwight Phillips (UGA)),2140,72895,1856749936,4880310957,55+,55+,2.3,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Dwight Phillips,Verges au sol du joueur au moins (Dwight Phillips (UGA)),2140,72895,1856749936,4880310958,65+,65+,2.9,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Dwight Phillips,Verges au sol du joueur au moins (Dwight Phillips (UGA)),2140,72895,1856749936,4880310959,75+,75+,3.85,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Dwight Phillips,Verges au sol du joueur au moins (Dwight Phillips (UGA)),2140,72895,1856749936,4880310960,85+,85+,5.25,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Dwight Phillips,Verges au sol du joueur au moins (Dwight Phillips (UGA)),2140,72895,1856749936,4880310961,95+,95+,7.5,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Dwight Phillips,Verges au sol du joueur au moins (Dwight Phillips (UGA)),2140,72895,1856749936,4880310962,105+,105+,11.0,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Dwight Phillips,Verges au sol du joueur au moins (Dwight Phillips (UGA)),2140,72895,1856749936,4880310964,125+,125+,26.0,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Dwight Phillips,Verges au sol du joueur au moins (Dwight Phillips (UGA)),2140,72895,1856749936,4880310965,35+,35+,1.4546,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Dwight Phillips,Verges au sol du joueur au moins (Dwight Phillips (UGA)),2140,72895,1856749936,4880310966,25+,25+,1.2223,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Nate Frazier,Verges au sol du joueur au moins (Nate Frazier (UGA)),2140,72895,1856749935,4879862084,87+,87+,1.8696,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Nate Frazier,Verges au sol du joueur au moins (Nate Frazier (UGA)),2140,72895,1856749935,4879862085,97+,97+,2.25,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Nate Frazier,Verges au sol du joueur au moins (Nate Frazier (UGA)),2140,72895,1856749935,4879862086,107+,107+,2.75,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Nate Frazier,Verges au sol du joueur au moins (Nate Frazier (UGA)),2140,72895,1856749935,4879862087,117+,117+,3.4,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Nate Frazier,Verges au sol du joueur au moins (Nate Frazier (UGA)),2140,72895,1856749935,4879862088,127+,127+,4.5,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Nate Frazier,Verges au sol du joueur au moins (Nate Frazier (UGA)),2140,72895,1856749935,4879862089,137+,137+,6.0,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Nate Frazier,Verges au sol du joueur au moins (Nate Frazier (UGA)),2140,72895,1856749935,4879862091,157+,157+,12.0,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Nate Frazier,Verges au sol du joueur au moins (Nate Frazier (UGA)),2140,72895,1856749935,4879862092,167+,167+,18.0,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Nate Frazier,Verges au sol du joueur au moins (Nate Frazier (UGA)),2140,72895,1856749935,4879862093,77+,77+,1.5264,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Nate Frazier,Verges au sol du joueur au moins (Nate Frazier (UGA)),2140,72895,1856749935,4879862094,67+,67+,1.3077,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Gunner Stockton,Verges au sol du joueur au moins (Gunner Stockton (UGA)),2140,72895,1856749931,4880376160,29+,29+,2.5,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Gunner Stockton,Verges au sol du joueur au moins (Gunner Stockton (UGA)),2140,72895,1856749931,4880376161,39+,39+,3.4,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Gunner Stockton,Verges au sol du joueur au moins (Gunner Stockton (UGA)),2140,72895,1856749931,4880376162,49+,49+,5.0,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Gunner Stockton,Verges au sol du joueur au moins (Gunner Stockton (UGA)),2140,72895,1856749931,4880376163,59+,59+,7.75,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Gunner Stockton,Verges au sol du joueur au moins (Gunner Stockton (UGA)),2140,72895,1856749931,4880376164,69+,69+,13.0,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Gunner Stockton,Verges au sol du joueur au moins (Gunner Stockton (UGA)),2140,72895,1856749931,4880376165,79+,79+,21.0,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Gunner Stockton,Verges au sol du joueur au moins (Gunner Stockton (UGA)),2140,72895,1856749931,4880376166,89+,89+,41.0,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Gunner Stockton,Verges au sol du joueur au moins (Gunner Stockton (UGA)),2140,72895,1856749931,4880376159,19+,19+,1.9091,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Jordan Allen,Joueur total de réception (Jordan Allen (GT)) (incl. OT),2142,72897,1856749940,4879862135,3+,3+,1.8696,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Jordan Allen,Joueur total de réception (Jordan Allen (GT)) (incl. OT),2142,72897,1856749940,4879862136,4+,4+,2.35,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Jordan Allen,Joueur total de réception (Jordan Allen (GT)) (incl. OT),2142,72897,1856749940,4879862137,5+,5+,3.1,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Jordan Allen,Joueur total de réception (Jordan Allen (GT)) (incl. OT),2142,72897,1856749940,4879862138,6+,6+,4.25,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Jordan Allen,Joueur total de réception (Jordan Allen (GT)) (incl. OT),2142,72897,1856749940,4879862139,7+,7+,6.0,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Jordan Allen,Joueur total de réception (Jordan Allen (GT)) (incl. OT),2142,72897,1856749940,4879862140,8+,8+,9.0,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Jordan Allen,Joueur total de réception (Jordan Allen (GT)) (incl. OT),2142,72897,1856749940,4879862141,2+,2+,1.1,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Craig Dandridge,Joueur total de réception (Craig Dandridge (UGA)) (incl. OT),2142,72897,1856891151,4880362775,3+,3+,1.9091,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Craig Dandridge,Joueur total de réception (Craig Dandridge (UGA)) (incl. OT),2142,72897,1856891151,4880362776,4+,4+,2.9,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Craig Dandridge,Joueur total de réception (Craig Dandridge (UGA)) (incl. OT),2142,72897,1856891151,4880362777,5+,5+,5.0,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Craig Dandridge,Joueur total de réception (Craig Dandridge (UGA)) (incl. OT),2142,72897,1856891151,4880362778,6+,6+,9.0,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Craig Dandridge,Joueur total de réception (Craig Dandridge (UGA)) (incl. OT),2142,72897,1856891151,4880362779,7+,7+,19.0,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Craig Dandridge,Joueur total de réception (Craig Dandridge (UGA)) (incl. OT),2142,72897,1856891151,4880362780,8+,8+,41.0,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Craig Dandridge,Joueur total de réception (Craig Dandridge (UGA)) (incl. OT),2142,72897,1856891151,4880362781,2+,2+,1.2353,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Talyn Taylor,Joueur total de réception (Talyn Taylor (UGA)) (incl. OT),2142,72897,1856891154,4880362791,4+,4+,2.05,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Talyn Taylor,Joueur total de réception (Talyn Taylor (UGA)) (incl. OT),2142,72897,1856891154,4880362792,5+,5+,3.0,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Talyn Taylor,Joueur total de réception (Talyn Taylor (UGA)) (incl. OT),2142,72897,1856891154,4880362793,6+,6+,4.75,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Talyn Taylor,Joueur total de réception (Talyn Taylor (UGA)) (incl. OT),2142,72897,1856891154,4880362794,7+,7+,8.5,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Talyn Taylor,Joueur total de réception (Talyn Taylor (UGA)) (incl. OT),2142,72897,1856891154,4880362795,8+,8+,17.0,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Talyn Taylor,Joueur total de réception (Talyn Taylor (UGA)) (incl. OT),2142,72897,1856891154,4880362796,9+,9+,36.0,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Talyn Taylor,Joueur total de réception (Talyn Taylor (UGA)) (incl. OT),2142,72897,1856891154,4880362797,3+,3+,1.3449,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Isiah Canion,Joueur total de réception (Isiah Canion (UGA)) (incl. OT),2142,72897,1856891155,4880396773,9+,9+,31.0,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Isiah Canion,Joueur total de réception (Isiah Canion (UGA)) (incl. OT),2142,72897,1856891155,4880362798,3+,3+,1.3847,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Isiah Canion,Joueur total de réception (Isiah Canion (UGA)) (incl. OT),2142,72897,1856891155,4880362799,4+,4+,2.15,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Isiah Canion,Joueur total de réception (Isiah Canion (UGA)) (incl. OT),2142,72897,1856891155,4880362800,5+,5+,3.0,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Isiah Canion,Joueur total de réception (Isiah Canion (UGA)) (incl. OT),2142,72897,1856891155,4880362801,6+,6+,4.75,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Isiah Canion,Joueur total de réception (Isiah Canion (UGA)) (incl. OT),2142,72897,1856891155,4880362802,7+,7+,8.5,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Isiah Canion,Joueur total de réception (Isiah Canion (UGA)) (incl. OT),2142,72897,1856891155,4880362803,8+,8+,16.0,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Jaden Reddell,Joueur total de réception (Jaden Reddell (UGA)) (incl. OT),2142,72897,1856891153,4880362785,2+,2+,1.7143,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Jaden Reddell,Joueur total de réception (Jaden Reddell (UGA)) (incl. OT),2142,72897,1856891153,4880362786,3+,3+,2.55,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Jaden Reddell,Joueur total de réception (Jaden Reddell (UGA)) (incl. OT),2142,72897,1856891153,4880362787,4+,4+,4.25,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Jaden Reddell,Joueur total de réception (Jaden Reddell (UGA)) (incl. OT),2142,72897,1856891153,4880362788,5+,5+,7.75,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Jaden Reddell,Joueur total de réception (Jaden Reddell (UGA)) (incl. OT),2142,72897,1856891153,4880362789,6+,6+,16.0,0,False
+18260757,GEORGIE BULLDOGS vs. Georgia Tech,Jaden Reddell,Joueur total de réception (Jaden Reddell (UGA)) (incl. OT),2142,72897,1856891153,4880362790,7+,7+,36.0,0,False

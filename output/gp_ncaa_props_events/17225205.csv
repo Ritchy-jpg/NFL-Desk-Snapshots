@@ -1,23 +1,229 @@
 event_id,match,player,market,market_type_id,sport_market_id,child_market_id,odd_id,selection,line,price,odd_status,is_main_bet
-17225205,Clemson Tigers vs. South Carolina Gamecocks,LaNorris Sellers,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1854994209,4874057964,LaNorris Sellers (SCAR) Plus de 212.5,LaNorris Sellers (SCAR) Plus de 212.5,1.8334,0,True
-17225205,Clemson Tigers vs. South Carolina Gamecocks,LaNorris Sellers,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1854994209,4874057965,LaNorris Sellers (SCAR) moins de 212.5,LaNorris Sellers (SCAR) moins de 212.5,1.7693,0,True
-17225205,Clemson Tigers vs. South Carolina Gamecocks,Trent Pearman,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1850196829,4859832816,Trent Pearman (Clem) Plus de 171.5,Trent Pearman (Clem) Plus de 171.5,1.8334,0,True
-17225205,Clemson Tigers vs. South Carolina Gamecocks,Trent Pearman,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1850196829,4859832817,Trent Pearman (Clem) moins de 171.5,Trent Pearman (Clem) moins de 171.5,1.7693,0,True
-17225205,Clemson Tigers vs. South Carolina Gamecocks,LaNorris Sellers,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1850195903,4859830816,LaNorris Sellers (SCAR) moins de 1.5,LaNorris Sellers (SCAR) moins de 1.5,1.5,0,False
-17225205,Clemson Tigers vs. South Carolina Gamecocks,LaNorris Sellers,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1850195903,4859830815,LaNorris Sellers (SCAR) Plus de 1.5,LaNorris Sellers (SCAR) Plus de 1.5,2.25,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,LaNorris Sellers,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1859986897,4890939158,LaNorris Sellers (SCAR) Plus de 213.5,LaNorris Sellers (SCAR) Plus de 213.5,1.8334,0,True
+17225205,Clemson Tigers vs. South Carolina Gamecocks,LaNorris Sellers,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1859986897,4890939159,LaNorris Sellers (SCAR) moins de 213.5,LaNorris Sellers (SCAR) moins de 213.5,1.7693,0,True
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Trent Pearman,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1850196829,4859832816,Trent Pearman (Clem) Plus de 171.5,Trent Pearman (Clem) Plus de 171.5,1.7693,0,True
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Trent Pearman,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1850196829,4859832817,Trent Pearman (Clem) moins de 171.5,Trent Pearman (Clem) moins de 171.5,1.8334,0,True
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Brady Hunt,Verges de réception du joueur au moins (Brady Hunt (SC)),2143,72898,1856123464,4878124974,20+,20+,1.9091,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Brady Hunt,Verges de réception du joueur au moins (Brady Hunt (SC)),2143,72898,1856123464,4878124975,30+,30+,2.3,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Brady Hunt,Verges de réception du joueur au moins (Brady Hunt (SC)),2143,72898,1856123464,4878124976,40+,40+,2.95,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Brady Hunt,Verges de réception du joueur au moins (Brady Hunt (SC)),2143,72898,1856123464,4878124977,50+,50+,3.85,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Brady Hunt,Verges de réception du joueur au moins (Brady Hunt (SC)),2143,72898,1856123464,4878124978,60+,60+,5.25,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Brady Hunt,Verges de réception du joueur au moins (Brady Hunt (SC)),2143,72898,1856123464,4878124979,70+,70+,7.5,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Brady Hunt,Verges de réception du joueur au moins (Brady Hunt (SC)),2143,72898,1856123464,4878124980,80+,80+,11.0,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Brady Hunt,Verges de réception du joueur au moins (Brady Hunt (SC)),2143,72898,1856123464,4878124981,90+,90+,17.0,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Brady Hunt,Verges de réception du joueur au moins (Brady Hunt (SC)),2143,72898,1856123464,4878124982,100+,100+,26.0,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Brady Hunt,Verges de réception du joueur au moins (Brady Hunt (SC)),2143,72898,1856123464,4878124983,10+,10+,1.4167,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,T.J. Moore,Verges de réception du joueur au moins (T.J. Moore (CLE)),2143,72898,1856388442,4890954070,30+,30+,1.8696,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,T.J. Moore,Verges de réception du joueur au moins (T.J. Moore (CLE)),2143,72898,1856388442,4890954071,40+,40+,2.2,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,T.J. Moore,Verges de réception du joueur au moins (T.J. Moore (CLE)),2143,72898,1856388442,4890954072,50+,50+,2.7,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,T.J. Moore,Verges de réception du joueur au moins (T.J. Moore (CLE)),2143,72898,1856388442,4890954073,60+,60+,3.4,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,T.J. Moore,Verges de réception du joueur au moins (T.J. Moore (CLE)),2143,72898,1856388442,4890954074,70+,70+,4.4,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,T.J. Moore,Verges de réception du joueur au moins (T.J. Moore (CLE)),2143,72898,1856388442,4890954075,80+,80+,6.0,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,T.J. Moore,Verges de réception du joueur au moins (T.J. Moore (CLE)),2143,72898,1856388442,4890954076,90+,90+,8.5,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,T.J. Moore,Verges de réception du joueur au moins (T.J. Moore (CLE)),2143,72898,1856388442,4890954077,100+,100+,12.0,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,T.J. Moore,Verges de réception du joueur au moins (T.J. Moore (CLE)),2143,72898,1856388442,4890954078,110+,110+,17.0,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,T.J. Moore,Verges de réception du joueur au moins (T.J. Moore (CLE)),2143,72898,1856388442,4890954079,20+,20+,1.4546,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,DJ Black,Verges de réception du joueur au moins (DJ Black (SC)),2143,72898,1856123329,4878221728,74+,74+,4.4,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,DJ Black,Verges de réception du joueur au moins (DJ Black (SC)),2143,72898,1856123329,4878221729,84+,84+,6.0,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,DJ Black,Verges de réception du joueur au moins (DJ Black (SC)),2143,72898,1856123329,4878221730,94+,94+,8.5,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,DJ Black,Verges de réception du joueur au moins (DJ Black (SC)),2143,72898,1856123329,4878221731,104+,104+,12.0,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,DJ Black,Verges de réception du joueur au moins (DJ Black (SC)),2143,72898,1856123329,4878221732,114+,114+,17.0,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,DJ Black,Verges de réception du joueur au moins (DJ Black (SC)),2143,72898,1856123329,4878221733,24+,24+,1.4546,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,DJ Black,Verges de réception du joueur au moins (DJ Black (SC)),2143,72898,1856123329,4878221724,34+,34+,1.8696,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,DJ Black,Verges de réception du joueur au moins (DJ Black (SC)),2143,72898,1856123329,4878221725,44+,44+,2.25,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,DJ Black,Verges de réception du joueur au moins (DJ Black (SC)),2143,72898,1856123329,4878221726,54+,54+,2.75,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,DJ Black,Verges de réception du joueur au moins (DJ Black (SC)),2143,72898,1856123329,4878221727,64+,64+,3.4,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Nyckoles Harbor,Verges de réception du joueur au moins (Nyckoles Harbor (SC)),2143,72898,1856123326,4890954052,33+,33+,1.8696,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Nyckoles Harbor,Verges de réception du joueur au moins (Nyckoles Harbor (SC)),2143,72898,1856123326,4890954053,43+,43+,2.25,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Nyckoles Harbor,Verges de réception du joueur au moins (Nyckoles Harbor (SC)),2143,72898,1856123326,4890954054,53+,53+,2.75,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Nyckoles Harbor,Verges de réception du joueur au moins (Nyckoles Harbor (SC)),2143,72898,1856123326,4890954055,63+,63+,3.5,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Nyckoles Harbor,Verges de réception du joueur au moins (Nyckoles Harbor (SC)),2143,72898,1856123326,4890954056,73+,73+,4.5,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Nyckoles Harbor,Verges de réception du joueur au moins (Nyckoles Harbor (SC)),2143,72898,1856123326,4890954057,83+,83+,6.0,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Nyckoles Harbor,Verges de réception du joueur au moins (Nyckoles Harbor (SC)),2143,72898,1856123326,4890954058,93+,93+,8.5,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Nyckoles Harbor,Verges de réception du joueur au moins (Nyckoles Harbor (SC)),2143,72898,1856123326,4890954059,103+,103+,12.0,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Nyckoles Harbor,Verges de réception du joueur au moins (Nyckoles Harbor (SC)),2143,72898,1856123326,4890954060,113+,113+,18.0,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Nyckoles Harbor,Verges de réception du joueur au moins (Nyckoles Harbor (SC)),2143,72898,1856123326,4890954061,23+,23+,1.4546,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Mazeo Bennett,Verges de réception du joueur au moins (Mazeo Bennett (SC)),2143,72898,1856123331,4878219623,51+,51+,1.8696,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Mazeo Bennett,Verges de réception du joueur au moins (Mazeo Bennett (SC)),2143,72898,1856123331,4878219624,61+,61+,2.2,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Mazeo Bennett,Verges de réception du joueur au moins (Mazeo Bennett (SC)),2143,72898,1856123331,4878219625,71+,71+,2.6,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Mazeo Bennett,Verges de réception du joueur au moins (Mazeo Bennett (SC)),2143,72898,1856123331,4878219626,81+,81+,3.2,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Mazeo Bennett,Verges de réception du joueur au moins (Mazeo Bennett (SC)),2143,72898,1856123331,4878219627,91+,91+,3.85,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Mazeo Bennett,Verges de réception du joueur au moins (Mazeo Bennett (SC)),2143,72898,1856123331,4878219628,101+,101+,5.0,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Mazeo Bennett,Verges de réception du joueur au moins (Mazeo Bennett (SC)),2143,72898,1856123331,4878219629,111+,111+,6.5,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Mazeo Bennett,Verges de réception du joueur au moins (Mazeo Bennett (SC)),2143,72898,1856123331,4878219630,121+,121+,9.0,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Mazeo Bennett,Verges de réception du joueur au moins (Mazeo Bennett (SC)),2143,72898,1856123331,4878219631,131+,131+,12.0,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Mazeo Bennett,Verges de réception du joueur au moins (Mazeo Bennett (SC)),2143,72898,1856123331,4878219632,41+,41+,1.5,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Bryant Wesco,Verges de réception du joueur au moins (Bryant Wesco (CLE)),2143,72898,1856388441,4878857344,35+,35+,1.8696,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Bryant Wesco,Verges de réception du joueur au moins (Bryant Wesco (CLE)),2143,72898,1856388441,4878857345,45+,45+,2.2,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Bryant Wesco,Verges de réception du joueur au moins (Bryant Wesco (CLE)),2143,72898,1856388441,4878857346,55+,55+,2.6,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Bryant Wesco,Verges de réception du joueur au moins (Bryant Wesco (CLE)),2143,72898,1856388441,4878857347,65+,65+,3.2,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Bryant Wesco,Verges de réception du joueur au moins (Bryant Wesco (CLE)),2143,72898,1856388441,4878857348,75+,75+,3.85,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Bryant Wesco,Verges de réception du joueur au moins (Bryant Wesco (CLE)),2143,72898,1856388441,4878857349,85+,85+,5.0,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Bryant Wesco,Verges de réception du joueur au moins (Bryant Wesco (CLE)),2143,72898,1856388441,4878857350,95+,95+,6.5,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Bryant Wesco,Verges de réception du joueur au moins (Bryant Wesco (CLE)),2143,72898,1856388441,4878857351,105+,105+,9.0,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Bryant Wesco,Verges de réception du joueur au moins (Bryant Wesco (CLE)),2143,72898,1856388441,4878857353,25+,25+,1.5264,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Jabree Coleman,Verges de réception du joueur au moins (Jabree Coleman (SC)),2143,72898,1856123333,4890954062,14+,14+,1.9091,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Jabree Coleman,Verges de réception du joueur au moins (Jabree Coleman (SC)),2143,72898,1856123333,4890954063,24+,24+,2.45,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Jabree Coleman,Verges de réception du joueur au moins (Jabree Coleman (SC)),2143,72898,1856123333,4890954064,34+,34+,3.3,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Jabree Coleman,Verges de réception du joueur au moins (Jabree Coleman (SC)),2143,72898,1856123333,4890954065,44+,44+,4.5,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Jabree Coleman,Verges de réception du joueur au moins (Jabree Coleman (SC)),2143,72898,1856123333,4890954066,54+,54+,6.75,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Jabree Coleman,Verges de réception du joueur au moins (Jabree Coleman (SC)),2143,72898,1856123333,4890954067,64+,64+,11.0,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Jabree Coleman,Verges de réception du joueur au moins (Jabree Coleman (SC)),2143,72898,1856123333,4890954068,74+,74+,18.0,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Jabree Coleman,Verges de réception du joueur au moins (Jabree Coleman (SC)),2143,72898,1856123333,4890954069,84+,84+,31.0,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,LaNorris Sellers,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1850195903,4859830816,LaNorris Sellers (SCAR) moins de 1.5,LaNorris Sellers (SCAR) moins de 1.5,1.5264,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,LaNorris Sellers,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1850195903,4859830815,LaNorris Sellers (SCAR) Plus de 1.5,LaNorris Sellers (SCAR) Plus de 1.5,2.2,0,False
 17225205,Clemson Tigers vs. South Carolina Gamecocks,Trent Pearman,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1850161801,4859746556,Trent Pearman (Clem) Plus de 0.5,Trent Pearman (Clem) Plus de 0.5,1.3847,0,False
 17225205,Clemson Tigers vs. South Carolina Gamecocks,Trent Pearman,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1850161801,4859746557,Trent Pearman (Clem) moins de 0.5,Trent Pearman (Clem) moins de 0.5,2.6,0,False
-17225205,Clemson Tigers vs. South Carolina Gamecocks,Mazeo Bennett Jr.,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1854993603,4874056250,Mazeo Bennett Jr. (SCAR) Plus de 55.5,Mazeo Bennett Jr. (SCAR) Plus de 55.5,1.8334,0,False
-17225205,Clemson Tigers vs. South Carolina Gamecocks,Mazeo Bennett Jr.,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1854993603,4874056251,Mazeo Bennett Jr. (SCAR) moins de 55.5,Mazeo Bennett Jr. (SCAR) moins de 55.5,1.7693,0,False
-17225205,Clemson Tigers vs. South Carolina Gamecocks,DJ Black,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1851667833,4864036030,DJ Black (SCAR) Plus de 36.5,DJ Black (SCAR) Plus de 36.5,1.8334,0,False
-17225205,Clemson Tigers vs. South Carolina Gamecocks,DJ Black,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1851667833,4864036031,DJ Black (SCAR) moins de 36.5,DJ Black (SCAR) moins de 36.5,1.7693,0,False
-17225205,Clemson Tigers vs. South Carolina Gamecocks,Nyck Harbor,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1854997232,4874064488,Nyck Harbor (SCAR) moins de 31.5,Nyck Harbor (SCAR) moins de 31.5,1.7693,0,False
-17225205,Clemson Tigers vs. South Carolina Gamecocks,Nyck Harbor,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1854997232,4874064487,Nyck Harbor (SCAR) Plus de 31.5,Nyck Harbor (SCAR) Plus de 31.5,1.8334,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Mazeo Bennett Jr.,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1854993603,4874056250,Mazeo Bennett Jr. (SCAR) Plus de 55.5,Mazeo Bennett Jr. (SCAR) Plus de 55.5,1.7693,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Mazeo Bennett Jr.,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1854993603,4874056251,Mazeo Bennett Jr. (SCAR) moins de 55.5,Mazeo Bennett Jr. (SCAR) moins de 55.5,1.8334,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Bryant Wesco Jr.,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1859986899,4890939162,Bryant Wesco Jr. (Clem) Plus de 34.5,Bryant Wesco Jr. (Clem) Plus de 34.5,1.7693,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Bryant Wesco Jr.,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1859986899,4890939163,Bryant Wesco Jr. (Clem) moins de 34.5,Bryant Wesco Jr. (Clem) moins de 34.5,1.8334,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,DJ Black,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1851853919,4864542293,DJ Black (SCAR) Plus de 34.5,DJ Black (SCAR) Plus de 34.5,1.8334,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,DJ Black,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1851853919,4864542294,DJ Black (SCAR) moins de 34.5,DJ Black (SCAR) moins de 34.5,1.7693,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Nyck Harbor,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1854992454,4874053528,Nyck Harbor (SCAR) Plus de 32.5,Nyck Harbor (SCAR) Plus de 32.5,1.7693,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Nyck Harbor,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1854992454,4874053529,Nyck Harbor (SCAR) moins de 32.5,Nyck Harbor (SCAR) moins de 32.5,1.8334,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,T.J. Moore,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1854998635,4874067574,T.J. Moore (Clem) Plus de 29.5,T.J. Moore (Clem) Plus de 29.5,1.7693,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,T.J. Moore,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1854998635,4874067575,T.J. Moore (Clem) moins de 29.5,T.J. Moore (Clem) moins de 29.5,1.8334,0,False
 17225205,Clemson Tigers vs. South Carolina Gamecocks,Brady Hunt,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1854998633,4874067570,Brady Hunt (SCAR) Plus de 18.5,Brady Hunt (SCAR) Plus de 18.5,1.7693,0,False
 17225205,Clemson Tigers vs. South Carolina Gamecocks,Brady Hunt,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1854998633,4874067571,Brady Hunt (SCAR) moins de 18.5,Brady Hunt (SCAR) moins de 18.5,1.8334,0,False
-17225205,Clemson Tigers vs. South Carolina Gamecocks,Jabree Coleman,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1854992907,4874054481,Jabree Coleman (SCAR) Plus de 12.5,Jabree Coleman (SCAR) Plus de 12.5,1.7693,0,False
-17225205,Clemson Tigers vs. South Carolina Gamecocks,Jabree Coleman,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1854992907,4874054482,Jabree Coleman (SCAR) moins de 12.5,Jabree Coleman (SCAR) moins de 12.5,1.8334,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Jabree Coleman,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1850162095,4859747144,Jabree Coleman (SCAR) Plus de 13.5,Jabree Coleman (SCAR) Plus de 13.5,1.8334,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Jabree Coleman,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1850162095,4859747145,Jabree Coleman (SCAR) moins de 13.5,Jabree Coleman (SCAR) moins de 13.5,1.7693,0,False
 17225205,Clemson Tigers vs. South Carolina Gamecocks,Jabree Coleman,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1854997236,4874064496,Jabree Coleman (SCAR) moins de 55.5,Jabree Coleman (SCAR) moins de 55.5,1.8334,0,False
 17225205,Clemson Tigers vs. South Carolina Gamecocks,Jabree Coleman,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1854997236,4874064495,Jabree Coleman (SCAR) Plus de 55.5,Jabree Coleman (SCAR) Plus de 55.5,1.7693,0,False
-17225205,Clemson Tigers vs. South Carolina Gamecocks,LaNorris Sellers,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1851806336,4864356242,LaNorris Sellers (SCAR) Plus de 35.5,LaNorris Sellers (SCAR) Plus de 35.5,1.8334,0,False
-17225205,Clemson Tigers vs. South Carolina Gamecocks,LaNorris Sellers,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1851806336,4864356243,LaNorris Sellers (SCAR) moins de 35.5,LaNorris Sellers (SCAR) moins de 35.5,1.7693,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Jarvis Green,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1851854676,4864544035,Jarvis Green (Clem) Plus de 39.5,Jarvis Green (Clem) Plus de 39.5,1.7693,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Jarvis Green,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1851854676,4864544036,Jarvis Green (Clem) moins de 39.5,Jarvis Green (Clem) moins de 39.5,1.8334,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,LaNorris Sellers,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1854985674,4874037041,LaNorris Sellers (SCAR) Plus de 36.5,LaNorris Sellers (SCAR) Plus de 36.5,1.8334,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,LaNorris Sellers,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1854985674,4874037042,LaNorris Sellers (SCAR) moins de 36.5,LaNorris Sellers (SCAR) moins de 36.5,1.7693,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Mazeo Bennett Jr.,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1854992712,4874054106,Mazeo Bennett Jr. (SCAR) Plus de 4.5,Mazeo Bennett Jr. (SCAR) Plus de 4.5,1.6061,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Mazeo Bennett Jr.,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1854992712,4874054107,Mazeo Bennett Jr. (SCAR) moins de 4.5,Mazeo Bennett Jr. (SCAR) moins de 4.5,2.1,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Bryant Wesco Jr.,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1851854685,4864544053,Bryant Wesco Jr. (Clem) Plus de 2.5,Bryant Wesco Jr. (Clem) Plus de 2.5,1.6061,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Bryant Wesco Jr.,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1851854685,4864544054,Bryant Wesco Jr. (Clem) moins de 2.5,Bryant Wesco Jr. (Clem) moins de 2.5,2.1,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,DJ Black,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1850195895,4859830800,DJ Black (SCAR) moins de 2.5,DJ Black (SCAR) moins de 2.5,1.9091,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,DJ Black,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1850195895,4859830799,DJ Black (SCAR) Plus de 2.5,DJ Black (SCAR) Plus de 2.5,1.7408,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Nyck Harbor,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1850161930,4859746814,Nyck Harbor (SCAR) Plus de 2.5,Nyck Harbor (SCAR) Plus de 2.5,1.7693,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Nyck Harbor,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1850161930,4859746815,Nyck Harbor (SCAR) moins de 2.5,Nyck Harbor (SCAR) moins de 2.5,1.8696,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,T.J. Moore,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1851853923,4864542301,T.J. Moore (Clem) Plus de 2.5,T.J. Moore (Clem) Plus de 2.5,1.8696,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,T.J. Moore,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1851853923,4864542302,T.J. Moore (Clem) moins de 2.5,T.J. Moore (Clem) moins de 2.5,1.7693,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Brady Hunt,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1850195891,4859830792,Brady Hunt (SCAR) moins de 2.5,Brady Hunt (SCAR) moins de 2.5,1.6061,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Brady Hunt,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1850195891,4859830791,Brady Hunt (SCAR) Plus de 2.5,Brady Hunt (SCAR) Plus de 2.5,2.1,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Jabree Coleman,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1850162097,4859747148,Jabree Coleman (SCAR) Plus de 2.5,Jabree Coleman (SCAR) Plus de 2.5,2.15,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Jabree Coleman,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1850162097,4859747149,Jabree Coleman (SCAR) moins de 2.5,Jabree Coleman (SCAR) moins de 2.5,1.5715,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,LaNorris Sellers,"Passes complétées, Joueur (prolongations incluses)",760,71921,1850195905,4859830819,LaNorris Sellers (SCAR) Plus de 18.5,LaNorris Sellers (SCAR) Plus de 18.5,1.7693,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,LaNorris Sellers,"Passes complétées, Joueur (prolongations incluses)",760,71921,1850195905,4859830820,LaNorris Sellers (SCAR) moins de 18.5,LaNorris Sellers (SCAR) moins de 18.5,1.8696,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Jabree Coleman,Verges à la course et à la réception Plus/Moins (prolongation incluse),3317,73841,1859986900,4890939164,Jabree Coleman (SCAR) Plus de 74.5,Jabree Coleman (SCAR) Plus de 74.5,1.8,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Jabree Coleman,Verges à la course et à la réception Plus/Moins (prolongation incluse),3317,73841,1859986900,4890939165,Jabree Coleman (SCAR) moins de 74.5,Jabree Coleman (SCAR) moins de 74.5,1.8334,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,LaNorris Sellers,Touchés par la passe du joueur au moins (LaNorris Sellers (SC)),2138,72893,1856123327,4878124593,2+,2+,2.3,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,LaNorris Sellers,Touchés par la passe du joueur au moins (LaNorris Sellers (SC)),2138,72893,1856123327,4878124594,3+,3+,4.0,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,LaNorris Sellers,Touchés par la passe du joueur au moins (LaNorris Sellers (SC)),2138,72893,1856123327,4878124595,4+,4+,9.0,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,LaNorris Sellers,Touchés par la passe du joueur au moins (LaNorris Sellers (SC)),2138,72893,1856123327,4878124596,1+,1+,1.3449,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Trent Pearman,Touchés par la passe du joueur au moins (Trent Pearman (CLE)),2138,72893,1856123325,4878124579,1+,1+,1.5,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Trent Pearman,Touchés par la passe du joueur au moins (Trent Pearman (CLE)),2138,72893,1856123325,4878124580,2+,2+,2.4,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Trent Pearman,Touchés par la passe du joueur au moins (Trent Pearman (CLE)),2138,72893,1856123325,4878124581,3+,3+,4.75,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Trent Pearman,Touchés par la passe du joueur au moins (Trent Pearman (CLE)),2138,72893,1856123325,4878124582,4+,4+,11.0,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,LaNorris Sellers,Verges par la passe du joueur au moins (LaNorris Sellers (SC)),2136,72891,1856123463,4882518816,234+,234+,2.3,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,LaNorris Sellers,Verges par la passe du joueur au moins (LaNorris Sellers (SC)),2136,72891,1856123463,4882518817,244+,244+,2.55,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,LaNorris Sellers,Verges par la passe du joueur au moins (LaNorris Sellers (SC)),2136,72891,1856123463,4882518818,254+,254+,2.85,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,LaNorris Sellers,Verges par la passe du joueur au moins (LaNorris Sellers (SC)),2136,72891,1856123463,4882518819,264+,264+,3.2,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,LaNorris Sellers,Verges par la passe du joueur au moins (LaNorris Sellers (SC)),2136,72891,1856123463,4882518820,274+,274+,3.75,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,LaNorris Sellers,Verges par la passe du joueur au moins (LaNorris Sellers (SC)),2136,72891,1856123463,4882518821,284+,284+,4.25,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,LaNorris Sellers,Verges par la passe du joueur au moins (LaNorris Sellers (SC)),2136,72891,1856123463,4882518822,294+,294+,5.0,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,LaNorris Sellers,Verges par la passe du joueur au moins (LaNorris Sellers (SC)),2136,72891,1856123463,4882518823,304+,304+,5.75,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,LaNorris Sellers,Verges par la passe du joueur au moins (LaNorris Sellers (SC)),2136,72891,1856123463,4882518824,314+,314+,6.75,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,LaNorris Sellers,Verges par la passe du joueur au moins (LaNorris Sellers (SC)),2136,72891,1856123463,4882518825,324+,324+,8.0,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,LaNorris Sellers,Verges par la passe du joueur au moins (LaNorris Sellers (SC)),2136,72891,1856123463,4882518826,334+,334+,10.0,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,LaNorris Sellers,Verges par la passe du joueur au moins (LaNorris Sellers (SC)),2136,72891,1856123463,4882518827,344+,344+,12.0,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,LaNorris Sellers,Verges par la passe du joueur au moins (LaNorris Sellers (SC)),2136,72891,1856123463,4882518828,354+,354+,15.0,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,LaNorris Sellers,Verges par la passe du joueur au moins (LaNorris Sellers (SC)),2136,72891,1856123463,4882518829,204+,204+,1.6897,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,LaNorris Sellers,Verges par la passe du joueur au moins (LaNorris Sellers (SC)),2136,72891,1856123463,4882518830,194+,194+,1.5556,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,LaNorris Sellers,Verges par la passe du joueur au moins (LaNorris Sellers (SC)),2136,72891,1856123463,4882518814,214+,214+,1.9091,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,LaNorris Sellers,Verges par la passe du joueur au moins (LaNorris Sellers (SC)),2136,72891,1856123463,4882518815,224+,224+,2.05,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Trent Pearman,Verges par la passe du joueur au moins (Trent Pearman (CLE)),2136,72891,1856123462,4878768224,215+,215+,3.5,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Trent Pearman,Verges par la passe du joueur au moins (Trent Pearman (CLE)),2136,72891,1856123462,4878768225,225+,225+,4.0,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Trent Pearman,Verges par la passe du joueur au moins (Trent Pearman (CLE)),2136,72891,1856123462,4878768226,235+,235+,4.5,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Trent Pearman,Verges par la passe du joueur au moins (Trent Pearman (CLE)),2136,72891,1856123462,4878768227,245+,245+,5.25,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Trent Pearman,Verges par la passe du joueur au moins (Trent Pearman (CLE)),2136,72891,1856123462,4878768228,255+,255+,6.25,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Trent Pearman,Verges par la passe du joueur au moins (Trent Pearman (CLE)),2136,72891,1856123462,4878768229,265+,265+,7.5,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Trent Pearman,Verges par la passe du joueur au moins (Trent Pearman (CLE)),2136,72891,1856123462,4878768230,275+,275+,9.0,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Trent Pearman,Verges par la passe du joueur au moins (Trent Pearman (CLE)),2136,72891,1856123462,4878768231,285+,285+,11.0,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Trent Pearman,Verges par la passe du joueur au moins (Trent Pearman (CLE)),2136,72891,1856123462,4878768232,295+,295+,14.0,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Trent Pearman,Verges par la passe du joueur au moins (Trent Pearman (CLE)),2136,72891,1856123462,4878768233,305+,305+,17.0,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Trent Pearman,Verges par la passe du joueur au moins (Trent Pearman (CLE)),2136,72891,1856123462,4878768234,315+,315+,21.0,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Trent Pearman,Verges par la passe du joueur au moins (Trent Pearman (CLE)),2136,72891,1856123462,4878768235,165+,165+,2.0,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Trent Pearman,Verges par la passe du joueur au moins (Trent Pearman (CLE)),2136,72891,1856123462,4878768236,155+,155+,1.7693,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Trent Pearman,Verges par la passe du joueur au moins (Trent Pearman (CLE)),2136,72891,1856123462,4878768220,175+,175+,2.3,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Trent Pearman,Verges par la passe du joueur au moins (Trent Pearman (CLE)),2136,72891,1856123462,4878768221,185+,185+,2.4,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Trent Pearman,Verges par la passe du joueur au moins (Trent Pearman (CLE)),2136,72891,1856123462,4878768222,195+,195+,2.7,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Trent Pearman,Verges par la passe du joueur au moins (Trent Pearman (CLE)),2136,72891,1856123462,4878768223,205+,205+,3.0,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Jarvis Green,Verges au sol du joueur au moins (Jarvis Green (CLE)),2140,72895,1856388443,4890698748,120+,120+,51.0,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Jarvis Green,Verges au sol du joueur au moins (Jarvis Green (CLE)),2140,72895,1856388443,4878857364,40+,40+,1.8696,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Jarvis Green,Verges au sol du joueur au moins (Jarvis Green (CLE)),2140,72895,1856388443,4878857365,50+,50+,2.35,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Jarvis Green,Verges au sol du joueur au moins (Jarvis Green (CLE)),2140,72895,1856388443,4878857366,60+,60+,3.1,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Jarvis Green,Verges au sol du joueur au moins (Jarvis Green (CLE)),2140,72895,1856388443,4878857367,70+,70+,4.3,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Jarvis Green,Verges au sol du joueur au moins (Jarvis Green (CLE)),2140,72895,1856388443,4878857368,80+,80+,6.25,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Jarvis Green,Verges au sol du joueur au moins (Jarvis Green (CLE)),2140,72895,1856388443,4878857369,90+,90+,10.0,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Jarvis Green,Verges au sol du joueur au moins (Jarvis Green (CLE)),2140,72895,1856388443,4878857370,100+,100+,16.0,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Jarvis Green,Verges au sol du joueur au moins (Jarvis Green (CLE)),2140,72895,1856388443,4878857371,110+,110+,26.0,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Jarvis Green,Verges au sol du joueur au moins (Jarvis Green (CLE)),2140,72895,1856388443,4878857372,30+,30+,1.4167,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Jarvis Green,Verges au sol du joueur au moins (Jarvis Green (CLE)),2140,72895,1856388443,4878857373,20+,20+,1.1819,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Jabree Coleman,Verges au sol du joueur au moins (Jabree Coleman (SC)),2140,72895,1856123466,4891297888,100+,100+,5.25,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Jabree Coleman,Verges au sol du joueur au moins (Jabree Coleman (SC)),2140,72895,1856123466,4891297889,110+,110+,7.25,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Jabree Coleman,Verges au sol du joueur au moins (Jabree Coleman (SC)),2140,72895,1856123466,4891297890,120+,120+,10.0,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Jabree Coleman,Verges au sol du joueur au moins (Jabree Coleman (SC)),2140,72895,1856123466,4891297892,40+,40+,1.5,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Jabree Coleman,Verges au sol du joueur au moins (Jabree Coleman (SC)),2140,72895,1856123466,4891297893,30+,30+,1.2667,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Jabree Coleman,Verges au sol du joueur au moins (Jabree Coleman (SC)),2140,72895,1856123466,4891297883,50+,50+,1.8696,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Jabree Coleman,Verges au sol du joueur au moins (Jabree Coleman (SC)),2140,72895,1856123466,4891297884,60+,60+,2.2,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Jabree Coleman,Verges au sol du joueur au moins (Jabree Coleman (SC)),2140,72895,1856123466,4891297885,70+,70+,2.65,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Jabree Coleman,Verges au sol du joueur au moins (Jabree Coleman (SC)),2140,72895,1856123466,4891297886,80+,80+,3.3,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Jabree Coleman,Verges au sol du joueur au moins (Jabree Coleman (SC)),2140,72895,1856123466,4891297887,90+,90+,4.0,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,LaNorris Sellers,Verges au sol du joueur au moins (LaNorris Sellers (SC)),2140,72895,1856123465,4880307012,39+,39+,1.8696,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,LaNorris Sellers,Verges au sol du joueur au moins (LaNorris Sellers (SC)),2140,72895,1856123465,4880307013,49+,49+,2.15,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,LaNorris Sellers,Verges au sol du joueur au moins (LaNorris Sellers (SC)),2140,72895,1856123465,4880307014,59+,59+,2.5,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,LaNorris Sellers,Verges au sol du joueur au moins (LaNorris Sellers (SC)),2140,72895,1856123465,4880307015,69+,69+,3.0,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,LaNorris Sellers,Verges au sol du joueur au moins (LaNorris Sellers (SC)),2140,72895,1856123465,4880307016,79+,79+,3.6,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,LaNorris Sellers,Verges au sol du joueur au moins (LaNorris Sellers (SC)),2140,72895,1856123465,4880307017,89+,89+,4.5,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,LaNorris Sellers,Verges au sol du joueur au moins (LaNorris Sellers (SC)),2140,72895,1856123465,4880307018,99+,99+,5.75,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,LaNorris Sellers,Verges au sol du joueur au moins (LaNorris Sellers (SC)),2140,72895,1856123465,4880307019,109+,109+,7.25,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,LaNorris Sellers,Verges au sol du joueur au moins (LaNorris Sellers (SC)),2140,72895,1856123465,4880307020,119+,119+,10.0,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,LaNorris Sellers,Verges au sol du joueur au moins (LaNorris Sellers (SC)),2140,72895,1856123465,4880307021,29+,29+,1.5264,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,LaNorris Sellers,Verges au sol du joueur au moins (LaNorris Sellers (SC)),2140,72895,1856123465,4880307022,19+,19+,1.3077,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Bryant Wesco,Joueur total de réception (Bryant Wesco (CLE)) (incl. OT),2142,72897,1859895095,4890698756,3+,3+,1.6667,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Bryant Wesco,Joueur total de réception (Bryant Wesco (CLE)) (incl. OT),2142,72897,1859895095,4890698757,4+,4+,2.3,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Bryant Wesco,Joueur total de réception (Bryant Wesco (CLE)) (incl. OT),2142,72897,1859895095,4890698758,5+,5+,3.4,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Bryant Wesco,Joueur total de réception (Bryant Wesco (CLE)) (incl. OT),2142,72897,1859895095,4890698759,6+,6+,5.5,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Bryant Wesco,Joueur total de réception (Bryant Wesco (CLE)) (incl. OT),2142,72897,1859895095,4890698760,7+,7+,10.0,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Bryant Wesco,Joueur total de réception (Bryant Wesco (CLE)) (incl. OT),2142,72897,1859895095,4890698761,8+,8+,18.0,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Bryant Wesco,Joueur total de réception (Bryant Wesco (CLE)) (incl. OT),2142,72897,1859895095,4890698762,2+,2+,1.1819,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,DJ Black,Joueur total de réception (DJ Black (SC)) (incl. OT),2142,72897,1856123330,4878124614,3+,3+,1.7693,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,DJ Black,Joueur total de réception (DJ Black (SC)) (incl. OT),2142,72897,1856123330,4878124615,4+,4+,2.55,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,DJ Black,Joueur total de réception (DJ Black (SC)) (incl. OT),2142,72897,1856123330,4878124616,5+,5+,4.0,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,DJ Black,Joueur total de réception (DJ Black (SC)) (incl. OT),2142,72897,1856123330,4878124617,6+,6+,6.75,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,DJ Black,Joueur total de réception (DJ Black (SC)) (incl. OT),2142,72897,1856123330,4878124618,7+,7+,13.0,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,DJ Black,Joueur total de réception (DJ Black (SC)) (incl. OT),2142,72897,1856123330,4878124619,8+,8+,26.0,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,DJ Black,Joueur total de réception (DJ Black (SC)) (incl. OT),2142,72897,1856123330,4878124620,2+,2+,1.2106,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,T.J. Moore,Joueur total de réception (T.J. Moore (CLE)) (incl. OT),2142,72897,1859895094,4890698752,6+,6+,9.0,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,T.J. Moore,Joueur total de réception (T.J. Moore (CLE)) (incl. OT),2142,72897,1859895094,4890698753,7+,7+,20.0,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,T.J. Moore,Joueur total de réception (T.J. Moore (CLE)) (incl. OT),2142,72897,1859895094,4890698754,8+,8+,41.0,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,T.J. Moore,Joueur total de réception (T.J. Moore (CLE)) (incl. OT),2142,72897,1859895094,4890698755,2+,2+,1.2353,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,T.J. Moore,Joueur total de réception (T.J. Moore (CLE)) (incl. OT),2142,72897,1859895094,4890698749,3+,3+,1.9091,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,T.J. Moore,Joueur total de réception (T.J. Moore (CLE)) (incl. OT),2142,72897,1859895094,4890698750,4+,4+,2.85,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,T.J. Moore,Joueur total de réception (T.J. Moore (CLE)) (incl. OT),2142,72897,1859895094,4890698751,5+,5+,5.0,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Nyckoles Harbor,Joueur total de réception (Nyckoles Harbor (SC)) (incl. OT),2142,72897,1856123332,4878124935,5+,5+,5.0,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Nyckoles Harbor,Joueur total de réception (Nyckoles Harbor (SC)) (incl. OT),2142,72897,1856123332,4878124936,6+,6+,9.0,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Nyckoles Harbor,Joueur total de réception (Nyckoles Harbor (SC)) (incl. OT),2142,72897,1856123332,4878124937,7+,7+,18.0,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Nyckoles Harbor,Joueur total de réception (Nyckoles Harbor (SC)) (incl. OT),2142,72897,1856123332,4878124938,8+,8+,36.0,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Nyckoles Harbor,Joueur total de réception (Nyckoles Harbor (SC)) (incl. OT),2142,72897,1856123332,4878124939,2+,2+,1.25,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Nyckoles Harbor,Joueur total de réception (Nyckoles Harbor (SC)) (incl. OT),2142,72897,1856123332,4878124631,3+,3+,1.9524,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Nyckoles Harbor,Joueur total de réception (Nyckoles Harbor (SC)) (incl. OT),2142,72897,1856123332,4878124632,4+,4+,2.9,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Mazeo Bennett,Joueur total de réception (Mazeo Bennett (SC)) (incl. OT),2142,72897,1856123328,4878124597,5+,5+,1.8334,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Mazeo Bennett,Joueur total de réception (Mazeo Bennett (SC)) (incl. OT),2142,72897,1856123328,4878124598,6+,6+,2.5,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Mazeo Bennett,Joueur total de réception (Mazeo Bennett (SC)) (incl. OT),2142,72897,1856123328,4878124599,7+,7+,3.6,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Mazeo Bennett,Joueur total de réception (Mazeo Bennett (SC)) (incl. OT),2142,72897,1856123328,4878124600,8+,8+,5.5,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Mazeo Bennett,Joueur total de réception (Mazeo Bennett (SC)) (incl. OT),2142,72897,1856123328,4878124601,9+,9+,9.0,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Mazeo Bennett,Joueur total de réception (Mazeo Bennett (SC)) (incl. OT),2142,72897,1856123328,4878124602,10+,10+,17.0,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Mazeo Bennett,Joueur total de réception (Mazeo Bennett (SC)) (incl. OT),2142,72897,1856123328,4878124603,4+,4+,1.2667,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Brady Hunt,Joueur total de réception (Brady Hunt (SC)) (incl. OT),2142,72897,1856123467,4878125006,3+,3+,2.1,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Brady Hunt,Joueur total de réception (Brady Hunt (SC)) (incl. OT),2142,72897,1856123467,4878125007,4+,4+,3.2,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Brady Hunt,Joueur total de réception (Brady Hunt (SC)) (incl. OT),2142,72897,1856123467,4878125008,5+,5+,5.5,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Brady Hunt,Joueur total de réception (Brady Hunt (SC)) (incl. OT),2142,72897,1856123467,4878125009,6+,6+,11.0,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Brady Hunt,Joueur total de réception (Brady Hunt (SC)) (incl. OT),2142,72897,1856123467,4878125010,7+,7+,21.0,0,False
+17225205,Clemson Tigers vs. South Carolina Gamecocks,Brady Hunt,Joueur total de réception (Brady Hunt (SC)) (incl. OT),2142,72897,1856123467,4878125011,2+,2+,1.3334,0,False

@@ -1,23 +1,183 @@
 event_id,match,player,market,market_type_id,sport_market_id,child_market_id,odd_id,selection,line,price,odd_status,is_main_bet
-18260769,Syracuse Orange vs. Notre Dame Fighting Irish,CJ Carr,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1855233431,4874985128,CJ Carr (ND) Plus de 251.5,CJ Carr (ND) Plus de 251.5,1.7693,0,True
-18260769,Syracuse Orange vs. Notre Dame Fighting Irish,CJ Carr,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1855233431,4874985129,CJ Carr (ND) moins de 251.5,CJ Carr (ND) moins de 251.5,1.8334,0,True
-18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Malachi Nelson,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1854568248,4872989793,Malachi Nelson (Syr) Plus de 190.5,Malachi Nelson (Syr) Plus de 190.5,1.8334,0,True
-18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Malachi Nelson,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1854568248,4872989794,Malachi Nelson (Syr) moins de 190.5,Malachi Nelson (Syr) moins de 190.5,1.7693,0,True
-18260769,Syracuse Orange vs. Notre Dame Fighting Irish,CJ Carr,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1854529488,4872892360,CJ Carr (ND) Plus de 2.5,CJ Carr (ND) Plus de 2.5,2.1,0,False
-18260769,Syracuse Orange vs. Notre Dame Fighting Irish,CJ Carr,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1854529488,4872892361,CJ Carr (ND) moins de 2.5,CJ Carr (ND) moins de 2.5,1.5715,0,False
-18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Malachi Nelson,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1850166501,4859757532,Malachi Nelson (Syr) Plus de 0.5,Malachi Nelson (Syr) Plus de 0.5,1.5,0,False
-18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Malachi Nelson,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1850166501,4859757533,Malachi Nelson (Syr) moins de 0.5,Malachi Nelson (Syr) moins de 0.5,2.25,0,False
-18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Umari Hatcher,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1854507045,4872833922,Umari Hatcher (Syr) Plus de 61.5,Umari Hatcher (Syr) Plus de 61.5,1.7693,0,False
-18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Umari Hatcher,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1854507045,4872833923,Umari Hatcher (Syr) moins de 61.5,Umari Hatcher (Syr) moins de 61.5,1.8334,0,False
-18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Micah Gilbert,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1855233432,4874985130,Micah Gilbert (ND) Plus de 59.5,Micah Gilbert (ND) Plus de 59.5,1.7693,0,False
-18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Micah Gilbert,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1855233432,4874985131,Micah Gilbert (ND) moins de 59.5,Micah Gilbert (ND) moins de 59.5,1.8334,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,CJ Carr,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1860116223,4891280941,CJ Carr (ND) Plus de 249.5,CJ Carr (ND) Plus de 249.5,1.7693,0,True
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,CJ Carr,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1860116223,4891280942,CJ Carr (ND) moins de 249.5,CJ Carr (ND) moins de 249.5,1.8334,0,True
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Malachi Nelson,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1854568248,4872989793,Malachi Nelson (Syr) Plus de 190.5,Malachi Nelson (Syr) Plus de 190.5,1.7693,0,True
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Malachi Nelson,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1854568248,4872989794,Malachi Nelson (Syr) moins de 190.5,Malachi Nelson (Syr) moins de 190.5,1.8334,0,True
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Jaden Greathouse,Verges de réception du joueur au moins (Jaden Greathouse (ND)),2143,72898,1856124477,4891285604,34+,34+,1.9091,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Jaden Greathouse,Verges de réception du joueur au moins (Jaden Greathouse (ND)),2143,72898,1856124477,4891285605,44+,44+,2.25,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Jaden Greathouse,Verges de réception du joueur au moins (Jaden Greathouse (ND)),2143,72898,1856124477,4891285606,54+,54+,2.8,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Jaden Greathouse,Verges de réception du joueur au moins (Jaden Greathouse (ND)),2143,72898,1856124477,4891285607,64+,64+,3.5,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Jaden Greathouse,Verges de réception du joueur au moins (Jaden Greathouse (ND)),2143,72898,1856124477,4891285608,74+,74+,4.5,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Jaden Greathouse,Verges de réception du joueur au moins (Jaden Greathouse (ND)),2143,72898,1856124477,4891285609,84+,84+,6.25,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Jaden Greathouse,Verges de réception du joueur au moins (Jaden Greathouse (ND)),2143,72898,1856124477,4891285610,94+,94+,9.0,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Jaden Greathouse,Verges de réception du joueur au moins (Jaden Greathouse (ND)),2143,72898,1856124477,4891285611,104+,104+,13.0,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Jaden Greathouse,Verges de réception du joueur au moins (Jaden Greathouse (ND)),2143,72898,1856124477,4891285612,114+,114+,19.0,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Jaden Greathouse,Verges de réception du joueur au moins (Jaden Greathouse (ND)),2143,72898,1856124477,4891285613,24+,24+,1.5,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Micah Gilbert,Verges de réception du joueur au moins (Micah Gilbert (ND)),2143,72898,1856124478,4880405760,139+,139+,7.5,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Micah Gilbert,Verges de réception du joueur au moins (Micah Gilbert (ND)),2143,72898,1856124478,4880405761,49+,49+,1.5,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Micah Gilbert,Verges de réception du joueur au moins (Micah Gilbert (ND)),2143,72898,1856124478,4880405752,59+,59+,1.9091,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Micah Gilbert,Verges de réception du joueur au moins (Micah Gilbert (ND)),2143,72898,1856124478,4880405753,69+,69+,2.15,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Micah Gilbert,Verges de réception du joueur au moins (Micah Gilbert (ND)),2143,72898,1856124478,4880405754,79+,79+,2.45,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Micah Gilbert,Verges de réception du joueur au moins (Micah Gilbert (ND)),2143,72898,1856124478,4880405755,89+,89+,2.85,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Micah Gilbert,Verges de réception du joueur au moins (Micah Gilbert (ND)),2143,72898,1856124478,4880405756,99+,99+,3.4,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Micah Gilbert,Verges de réception du joueur au moins (Micah Gilbert (ND)),2143,72898,1856124478,4880405757,109+,109+,4.0,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Micah Gilbert,Verges de réception du joueur au moins (Micah Gilbert (ND)),2143,72898,1856124478,4880405758,119+,119+,5.0,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Micah Gilbert,Verges de réception du joueur au moins (Micah Gilbert (ND)),2143,72898,1856124478,4880405759,129+,129+,6.0,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Calvin Russell,Verges de réception du joueur au moins (Calvin Russell (SYR)),2143,72898,1856124898,4878129856,86+,86+,3.1,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Calvin Russell,Verges de réception du joueur au moins (Calvin Russell (SYR)),2143,72898,1856124898,4878129857,96+,96+,3.85,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Calvin Russell,Verges de réception du joueur au moins (Calvin Russell (SYR)),2143,72898,1856124898,4878129858,106+,106+,4.75,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Calvin Russell,Verges de réception du joueur au moins (Calvin Russell (SYR)),2143,72898,1856124898,4878129859,116+,116+,6.25,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Calvin Russell,Verges de réception du joueur au moins (Calvin Russell (SYR)),2143,72898,1856124898,4878129860,126+,126+,8.5,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Calvin Russell,Verges de réception du joueur au moins (Calvin Russell (SYR)),2143,72898,1856124898,4878129861,136+,136+,11.0,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Calvin Russell,Verges de réception du joueur au moins (Calvin Russell (SYR)),2143,72898,1856124898,4878129862,46+,46+,1.5,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Calvin Russell,Verges de réception du joueur au moins (Calvin Russell (SYR)),2143,72898,1856124898,4878129853,56+,56+,1.9091,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Calvin Russell,Verges de réception du joueur au moins (Calvin Russell (SYR)),2143,72898,1856124898,4878129854,66+,66+,2.2,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Calvin Russell,Verges de réception du joueur au moins (Calvin Russell (SYR)),2143,72898,1856124898,4878129855,76+,76+,2.6,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Jordan Faison,Verges de réception du joueur au moins (Jordan Faison (ND)),2143,72898,1856124902,4891284041,62+,62+,1.9091,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Jordan Faison,Verges de réception du joueur au moins (Jordan Faison (ND)),2143,72898,1856124902,4891284042,72+,72+,2.25,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Jordan Faison,Verges de réception du joueur au moins (Jordan Faison (ND)),2143,72898,1856124902,4891284043,82+,82+,2.65,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Jordan Faison,Verges de réception du joueur au moins (Jordan Faison (ND)),2143,72898,1856124902,4891284044,92+,92+,3.3,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Jordan Faison,Verges de réception du joueur au moins (Jordan Faison (ND)),2143,72898,1856124902,4891284046,112+,112+,5.25,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Jordan Faison,Verges de réception du joueur au moins (Jordan Faison (ND)),2143,72898,1856124902,4891284047,122+,122+,7.0,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Jordan Faison,Verges de réception du joueur au moins (Jordan Faison (ND)),2143,72898,1856124902,4891284048,132+,132+,10.0,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Jordan Faison,Verges de réception du joueur au moins (Jordan Faison (ND)),2143,72898,1856124902,4891284049,142+,142+,13.0,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Jordan Faison,Verges de réception du joueur au moins (Jordan Faison (ND)),2143,72898,1856124902,4891284050,52+,52+,1.5264,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Umari Hatcher,Verges de réception du joueur au moins (Umari Hatcher (SYR)),2143,72898,1856124896,4880819978,62+,62+,1.8696,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Umari Hatcher,Verges de réception du joueur au moins (Umari Hatcher (SYR)),2143,72898,1856124896,4880819979,72+,72+,2.05,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Umari Hatcher,Verges de réception du joueur au moins (Umari Hatcher (SYR)),2143,72898,1856124896,4880819980,82+,82+,2.25,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Umari Hatcher,Verges de réception du joueur au moins (Umari Hatcher (SYR)),2143,72898,1856124896,4880819981,92+,92+,2.5,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Umari Hatcher,Verges de réception du joueur au moins (Umari Hatcher (SYR)),2143,72898,1856124896,4880819983,112+,112+,3.1,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Umari Hatcher,Verges de réception du joueur au moins (Umari Hatcher (SYR)),2143,72898,1856124896,4880819984,122+,122+,3.5,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Umari Hatcher,Verges de réception du joueur au moins (Umari Hatcher (SYR)),2143,72898,1856124896,4880819985,132+,132+,4.0,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Umari Hatcher,Verges de réception du joueur au moins (Umari Hatcher (SYR)),2143,72898,1856124896,4880819986,142+,142+,4.75,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Umari Hatcher,Verges de réception du joueur au moins (Umari Hatcher (SYR)),2143,72898,1856124896,4880819987,52+,52+,1.6471,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,CJ Carr,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1854529488,4872892360,CJ Carr (ND) Plus de 2.5,CJ Carr (ND) Plus de 2.5,2.2,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,CJ Carr,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1854529488,4872892361,CJ Carr (ND) moins de 2.5,CJ Carr (ND) moins de 2.5,1.5264,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Malachi Nelson,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1850166501,4859757532,Malachi Nelson (Syr) Plus de 0.5,Malachi Nelson (Syr) Plus de 0.5,1.4762,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Malachi Nelson,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1850166501,4859757533,Malachi Nelson (Syr) moins de 0.5,Malachi Nelson (Syr) moins de 0.5,2.3,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Jordan Faison,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1850208730,4859861474,Jordan Faison (ND) Plus de 61.5,Jordan Faison (ND) Plus de 61.5,1.8334,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Jordan Faison,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1850208730,4859861475,Jordan Faison (ND) moins de 61.5,Jordan Faison (ND) moins de 61.5,1.7693,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Umari Hatcher,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1854507045,4872833922,Umari Hatcher (Syr) Plus de 61.5,Umari Hatcher (Syr) Plus de 61.5,1.8334,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Umari Hatcher,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1854507045,4872833923,Umari Hatcher (Syr) moins de 61.5,Umari Hatcher (Syr) moins de 61.5,1.7693,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Micah Gilbert,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1856903672,4880398630,Micah Gilbert (ND) Plus de 58.5,Micah Gilbert (ND) Plus de 58.5,1.7693,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Micah Gilbert,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1856903672,4880398631,Micah Gilbert (ND) moins de 58.5,Micah Gilbert (ND) moins de 58.5,1.8334,0,False
 18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Calvin Russell,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1853597337,4869628944,Calvin Russell (Syr) moins de 55.5,Calvin Russell (Syr) moins de 55.5,1.7693,0,False
 18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Calvin Russell,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1853597337,4869628943,Calvin Russell (Syr) Plus de 55.5,Calvin Russell (Syr) Plus de 55.5,1.8334,0,False
-18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Jaden Greathouse,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1850196511,4859832109,Jaden Greathouse (ND) Plus de 31.5,Jaden Greathouse (ND) Plus de 31.5,1.8334,0,False
-18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Jaden Greathouse,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1850196511,4859832110,Jaden Greathouse (ND) moins de 31.5,Jaden Greathouse (ND) moins de 31.5,1.7693,0,False
-18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Nolan James,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1854521010,4872870805,Nolan James (ND) Plus de 82.5,Nolan James (ND) Plus de 82.5,1.8,0,False
-18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Nolan James,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1854521010,4872870806,Nolan James (ND) moins de 82.5,Nolan James (ND) moins de 82.5,1.8,0,False
-18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Jonaz Walton,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1855330138,4875286133,Jonaz Walton (ND) Plus de 76.5,Jonaz Walton (ND) Plus de 76.5,1.8334,0,False
-18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Jonaz Walton,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1855330138,4875286134,Jonaz Walton (ND) moins de 76.5,Jonaz Walton (ND) moins de 76.5,1.7693,0,False
-18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Tylik Hill,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1850196536,4859832160,Tylik Hill (Syr) moins de 31.5,Tylik Hill (Syr) moins de 31.5,1.7693,0,False
-18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Tylik Hill,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1850196536,4859832159,Tylik Hill (Syr) Plus de 31.5,Tylik Hill (Syr) Plus de 31.5,1.8334,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Jaden Greathouse,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1854496026,4872804597,Jaden Greathouse (ND) Plus de 33.5,Jaden Greathouse (ND) Plus de 33.5,1.8334,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Jaden Greathouse,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1854496026,4872804598,Jaden Greathouse (ND) moins de 33.5,Jaden Greathouse (ND) moins de 33.5,1.7693,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Nolan James,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1855227716,4874970912,Nolan James (ND) moins de 81.5,Nolan James (ND) moins de 81.5,1.8,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Nolan James,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1855227716,4874970911,Nolan James (ND) Plus de 81.5,Nolan James (ND) Plus de 81.5,1.8,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Jonaz Walton,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1854523674,4872877746,Jonaz Walton (ND) Plus de 79.5,Jonaz Walton (ND) Plus de 79.5,1.8334,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Jonaz Walton,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1854523674,4872877747,Jonaz Walton (ND) moins de 79.5,Jonaz Walton (ND) moins de 79.5,1.7693,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Tylik Hill,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1850166769,4859758068,Tylik Hill (Syr) Plus de 30.5,Tylik Hill (Syr) Plus de 30.5,1.8334,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Tylik Hill,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1850166769,4859758069,Tylik Hill (Syr) moins de 30.5,Tylik Hill (Syr) moins de 30.5,1.7693,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Calvin Russell,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1854558756,4872965980,Calvin Russell (Syr) Plus de 5.5,Calvin Russell (Syr) Plus de 5.5,1.8696,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Calvin Russell,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1854558756,4872965981,Calvin Russell (Syr) moins de 5.5,Calvin Russell (Syr) moins de 5.5,1.7693,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Jordan Faison,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1850196516,4859832120,Jordan Faison (ND) moins de 4.5,Jordan Faison (ND) moins de 4.5,2.0,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Jordan Faison,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1850196516,4859832119,Jordan Faison (ND) Plus de 4.5,Jordan Faison (ND) Plus de 4.5,1.6667,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Umari Hatcher,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1850166457,4859757444,Umari Hatcher (Syr) Plus de 4.5,Umari Hatcher (Syr) Plus de 4.5,1.6667,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Umari Hatcher,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1850166457,4859757445,Umari Hatcher (Syr) moins de 4.5,Umari Hatcher (Syr) moins de 4.5,2.0,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Micah Gilbert,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1854526179,4872883997,Micah Gilbert (ND) Plus de 4.5,Micah Gilbert (ND) Plus de 4.5,2.15,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Micah Gilbert,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1854526179,4872883998,Micah Gilbert (ND) moins de 4.5,Micah Gilbert (ND) moins de 4.5,1.5715,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,CJ Carr,"Passes complétées, Joueur (prolongations incluses)",760,71921,1854508563,4872837720,CJ Carr (ND) Plus de 19.5,CJ Carr (ND) Plus de 19.5,1.7408,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,CJ Carr,"Passes complétées, Joueur (prolongations incluses)",760,71921,1854508563,4872837721,CJ Carr (ND) moins de 19.5,CJ Carr (ND) moins de 19.5,1.9091,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,CJ Carr,Touchés par la passe du joueur au moins (CJ Carr (ND)),2138,72893,1856124479,4878129202,3+,3+,2.2,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,CJ Carr,Touchés par la passe du joueur au moins (CJ Carr (ND)),2138,72893,1856124479,4878129203,4+,4+,3.75,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,CJ Carr,Touchés par la passe du joueur au moins (CJ Carr (ND)),2138,72893,1856124479,4878129204,2+,2+,1.3334,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Malachi Nelson,Touchés par la passe du joueur au moins (Malachi Nelson (SYR)),2138,72893,1856124895,4878129824,3+,3+,4.75,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Malachi Nelson,Touchés par la passe du joueur au moins (Malachi Nelson (SYR)),2138,72893,1856124895,4878129825,4+,4+,11.0,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Malachi Nelson,Touchés par la passe du joueur au moins (Malachi Nelson (SYR)),2138,72893,1856124895,4878129822,1+,1+,1.5,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Malachi Nelson,Touchés par la passe du joueur au moins (Malachi Nelson (SYR)),2138,72893,1856124895,4878129823,2+,2+,2.4,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,CJ Carr,Verges par la passe du joueur au moins (CJ Carr (ND)),2136,72891,1856124897,4891285614,250+,250+,1.9091,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,CJ Carr,Verges par la passe du joueur au moins (CJ Carr (ND)),2136,72891,1856124897,4891285615,260+,260+,2.05,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,CJ Carr,Verges par la passe du joueur au moins (CJ Carr (ND)),2136,72891,1856124897,4891285616,270+,270+,2.3,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,CJ Carr,Verges par la passe du joueur au moins (CJ Carr (ND)),2136,72891,1856124897,4891285617,280+,280+,2.55,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,CJ Carr,Verges par la passe du joueur au moins (CJ Carr (ND)),2136,72891,1856124897,4891285618,290+,290+,2.85,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,CJ Carr,Verges par la passe du joueur au moins (CJ Carr (ND)),2136,72891,1856124897,4891285619,300+,300+,3.2,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,CJ Carr,Verges par la passe du joueur au moins (CJ Carr (ND)),2136,72891,1856124897,4891285620,310+,310+,3.6,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,CJ Carr,Verges par la passe du joueur au moins (CJ Carr (ND)),2136,72891,1856124897,4891285621,320+,320+,4.25,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,CJ Carr,Verges par la passe du joueur au moins (CJ Carr (ND)),2136,72891,1856124897,4891285622,330+,330+,4.75,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,CJ Carr,Verges par la passe du joueur au moins (CJ Carr (ND)),2136,72891,1856124897,4891285623,340+,340+,5.75,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,CJ Carr,Verges par la passe du joueur au moins (CJ Carr (ND)),2136,72891,1856124897,4891285624,350+,350+,6.75,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,CJ Carr,Verges par la passe du joueur au moins (CJ Carr (ND)),2136,72891,1856124897,4891285625,360+,360+,8.0,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,CJ Carr,Verges par la passe du joueur au moins (CJ Carr (ND)),2136,72891,1856124897,4891285626,370+,370+,10.0,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,CJ Carr,Verges par la passe du joueur au moins (CJ Carr (ND)),2136,72891,1856124897,4891285627,380+,380+,12.0,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,CJ Carr,Verges par la passe du joueur au moins (CJ Carr (ND)),2136,72891,1856124897,4891285628,390+,390+,14.0,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,CJ Carr,Verges par la passe du joueur au moins (CJ Carr (ND)),2136,72891,1856124897,4891285629,240+,240+,1.6897,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,CJ Carr,Verges par la passe du joueur au moins (CJ Carr (ND)),2136,72891,1856124897,4891285630,230+,230+,1.5556,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Malachi Nelson,Verges par la passe du joueur au moins (Malachi Nelson (SYR)),2136,72891,1856124901,4891778656,340+,340+,18.0,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Malachi Nelson,Verges par la passe du joueur au moins (Malachi Nelson (SYR)),2136,72891,1856124901,4891778657,190+,190+,1.9091,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Malachi Nelson,Verges par la passe du joueur au moins (Malachi Nelson (SYR)),2136,72891,1856124901,4891778658,180+,180+,1.6897,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Malachi Nelson,Verges par la passe du joueur au moins (Malachi Nelson (SYR)),2136,72891,1856124901,4891778642,200+,200+,2.1,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Malachi Nelson,Verges par la passe du joueur au moins (Malachi Nelson (SYR)),2136,72891,1856124901,4891778643,210+,210+,2.3,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Malachi Nelson,Verges par la passe du joueur au moins (Malachi Nelson (SYR)),2136,72891,1856124901,4891778644,220+,220+,2.55,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Malachi Nelson,Verges par la passe du joueur au moins (Malachi Nelson (SYR)),2136,72891,1856124901,4891778645,230+,230+,2.85,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Malachi Nelson,Verges par la passe du joueur au moins (Malachi Nelson (SYR)),2136,72891,1856124901,4891778646,240+,240+,3.2,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Malachi Nelson,Verges par la passe du joueur au moins (Malachi Nelson (SYR)),2136,72891,1856124901,4891778647,250+,250+,3.6,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Malachi Nelson,Verges par la passe du joueur au moins (Malachi Nelson (SYR)),2136,72891,1856124901,4891778648,260+,260+,4.25,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Malachi Nelson,Verges par la passe du joueur au moins (Malachi Nelson (SYR)),2136,72891,1856124901,4891778649,270+,270+,4.75,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Malachi Nelson,Verges par la passe du joueur au moins (Malachi Nelson (SYR)),2136,72891,1856124901,4891778650,280+,280+,5.75,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Malachi Nelson,Verges par la passe du joueur au moins (Malachi Nelson (SYR)),2136,72891,1856124901,4891778651,290+,290+,6.75,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Malachi Nelson,Verges par la passe du joueur au moins (Malachi Nelson (SYR)),2136,72891,1856124901,4891778652,300+,300+,8.0,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Malachi Nelson,Verges par la passe du joueur au moins (Malachi Nelson (SYR)),2136,72891,1856124901,4891778653,310+,310+,10.0,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Malachi Nelson,Verges par la passe du joueur au moins (Malachi Nelson (SYR)),2136,72891,1856124901,4891778654,320+,320+,12.0,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Malachi Nelson,Verges par la passe du joueur au moins (Malachi Nelson (SYR)),2136,72891,1856124901,4891778655,330+,330+,14.0,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Tylik Hill,Verges au sol du joueur au moins (Tylik Hill (SYR)),2140,72895,1856124903,4878129908,31+,31+,1.8696,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Tylik Hill,Verges au sol du joueur au moins (Tylik Hill (SYR)),2140,72895,1856124903,4878129909,41+,41+,2.15,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Tylik Hill,Verges au sol du joueur au moins (Tylik Hill (SYR)),2140,72895,1856124903,4878129910,51+,51+,2.55,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Tylik Hill,Verges au sol du joueur au moins (Tylik Hill (SYR)),2140,72895,1856124903,4878129911,61+,61+,3.1,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Tylik Hill,Verges au sol du joueur au moins (Tylik Hill (SYR)),2140,72895,1856124903,4878129912,71+,71+,3.85,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Tylik Hill,Verges au sol du joueur au moins (Tylik Hill (SYR)),2140,72895,1856124903,4878129913,81+,81+,5.0,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Tylik Hill,Verges au sol du joueur au moins (Tylik Hill (SYR)),2140,72895,1856124903,4878129914,91+,91+,6.25,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Tylik Hill,Verges au sol du joueur au moins (Tylik Hill (SYR)),2140,72895,1856124903,4878129915,101+,101+,8.5,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Tylik Hill,Verges au sol du joueur au moins (Tylik Hill (SYR)),2140,72895,1856124903,4878129916,111+,111+,12.0,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Tylik Hill,Verges au sol du joueur au moins (Tylik Hill (SYR)),2140,72895,1856124903,4878129917,21+,21+,1.4167,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Tylik Hill,Verges au sol du joueur au moins (Tylik Hill (SYR)),2140,72895,1856124903,4878129918,11+,11+,1.1667,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Nolan James,Verges au sol du joueur au moins (Nolan James (ND)),2140,72895,1856124899,4878129863,84+,84+,1.8696,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Nolan James,Verges au sol du joueur au moins (Nolan James (ND)),2140,72895,1856124899,4878129864,94+,94+,2.25,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Nolan James,Verges au sol du joueur au moins (Nolan James (ND)),2140,72895,1856124899,4878129865,104+,104+,2.75,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Nolan James,Verges au sol du joueur au moins (Nolan James (ND)),2140,72895,1856124899,4878129866,114+,114+,3.4,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Nolan James,Verges au sol du joueur au moins (Nolan James (ND)),2140,72895,1856124899,4878129867,124+,124+,4.5,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Nolan James,Verges au sol du joueur au moins (Nolan James (ND)),2140,72895,1856124899,4878129868,134+,134+,6.0,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Nolan James,Verges au sol du joueur au moins (Nolan James (ND)),2140,72895,1856124899,4878129869,144+,144+,8.5,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Nolan James,Verges au sol du joueur au moins (Nolan James (ND)),2140,72895,1856124899,4878129870,154+,154+,12.0,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Nolan James,Verges au sol du joueur au moins (Nolan James (ND)),2140,72895,1856124899,4878129871,164+,164+,18.0,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Nolan James,Verges au sol du joueur au moins (Nolan James (ND)),2140,72895,1856124899,4878129872,74+,74+,1.5264,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Nolan James,Verges au sol du joueur au moins (Nolan James (ND)),2140,72895,1856124899,4878129873,64+,64+,1.3077,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Jonaz Walton,Verges au sol du joueur au moins (Jonaz Walton (ND)),2140,72895,1856124475,4878129164,80+,80+,1.9091,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Jonaz Walton,Verges au sol du joueur au moins (Jonaz Walton (ND)),2140,72895,1856124475,4878129165,90+,90+,2.1,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Jonaz Walton,Verges au sol du joueur au moins (Jonaz Walton (ND)),2140,72895,1856124475,4878129166,100+,100+,2.4,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Jonaz Walton,Verges au sol du joueur au moins (Jonaz Walton (ND)),2140,72895,1856124475,4878129167,110+,110+,2.8,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Jonaz Walton,Verges au sol du joueur au moins (Jonaz Walton (ND)),2140,72895,1856124475,4878129168,120+,120+,3.2,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Jonaz Walton,Verges au sol du joueur au moins (Jonaz Walton (ND)),2140,72895,1856124475,4878129171,150+,150+,5.5,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Jonaz Walton,Verges au sol du joueur au moins (Jonaz Walton (ND)),2140,72895,1856124475,4878129172,160+,160+,7.0,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Jonaz Walton,Verges au sol du joueur au moins (Jonaz Walton (ND)),2140,72895,1856124475,4878129173,70+,70+,1.6061,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Jonaz Walton,Verges au sol du joueur au moins (Jonaz Walton (ND)),2140,72895,1856124475,4878129174,60+,60+,1.3847,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Jordan Faison,Joueur total de réception (Jordan Faison (ND)) (incl. OT),2142,72897,1856124476,4878129175,5+,5+,1.7693,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Jordan Faison,Joueur total de réception (Jordan Faison (ND)) (incl. OT),2142,72897,1856124476,4878129176,6+,6+,2.45,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Jordan Faison,Joueur total de réception (Jordan Faison (ND)) (incl. OT),2142,72897,1856124476,4878129177,7+,7+,3.75,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Jordan Faison,Joueur total de réception (Jordan Faison (ND)) (incl. OT),2142,72897,1856124476,4878129178,8+,8+,6.0,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Jordan Faison,Joueur total de réception (Jordan Faison (ND)) (incl. OT),2142,72897,1856124476,4878129179,9+,9+,11.0,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Jordan Faison,Joueur total de réception (Jordan Faison (ND)) (incl. OT),2142,72897,1856124476,4878129180,10+,10+,20.0,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Jordan Faison,Joueur total de réception (Jordan Faison (ND)) (incl. OT),2142,72897,1856124476,4878129181,4+,4+,1.2353,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Umari Hatcher,Joueur total de réception (Umari Hatcher (SYR)) (incl. OT),2142,72897,1856837663,4880176328,5+,5+,1.8696,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Umari Hatcher,Joueur total de réception (Umari Hatcher (SYR)) (incl. OT),2142,72897,1856837663,4880176329,6+,6+,2.2,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Umari Hatcher,Joueur total de réception (Umari Hatcher (SYR)) (incl. OT),2142,72897,1856837663,4880176330,7+,7+,2.7,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Umari Hatcher,Joueur total de réception (Umari Hatcher (SYR)) (incl. OT),2142,72897,1856837663,4880176331,8+,8+,3.4,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Umari Hatcher,Joueur total de réception (Umari Hatcher (SYR)) (incl. OT),2142,72897,1856837663,4880176332,9+,9+,4.4,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Umari Hatcher,Joueur total de réception (Umari Hatcher (SYR)) (incl. OT),2142,72897,1856837663,4880176333,10+,10+,5.75,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Umari Hatcher,Joueur total de réception (Umari Hatcher (SYR)) (incl. OT),2142,72897,1856837663,4880176334,4+,4+,1.4762,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Micah Gilbert,Joueur total de réception (Micah Gilbert (ND)) (incl. OT),2142,72897,1860117503,4891284052,5+,5+,2.25,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Micah Gilbert,Joueur total de réception (Micah Gilbert (ND)) (incl. OT),2142,72897,1860117503,4891284053,6+,6+,3.0,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Micah Gilbert,Joueur total de réception (Micah Gilbert (ND)) (incl. OT),2142,72897,1860117503,4891284054,7+,7+,4.5,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Micah Gilbert,Joueur total de réception (Micah Gilbert (ND)) (incl. OT),2142,72897,1860117503,4891284055,8+,8+,7.0,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Micah Gilbert,Joueur total de réception (Micah Gilbert (ND)) (incl. OT),2142,72897,1860117503,4891284056,9+,9+,12.0,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Micah Gilbert,Joueur total de réception (Micah Gilbert (ND)) (incl. OT),2142,72897,1860117503,4891284057,10+,10+,21.0,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Micah Gilbert,Joueur total de réception (Micah Gilbert (ND)) (incl. OT),2142,72897,1860117503,4891284058,4+,4+,1.5264,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Calvin Russell,Joueur total de réception (Calvin Russell (SYR)) (incl. OT),2142,72897,1856124900,4878129874,6+,6+,1.9091,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Calvin Russell,Joueur total de réception (Calvin Russell (SYR)) (incl. OT),2142,72897,1856124900,4878129875,7+,7+,2.2,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Calvin Russell,Joueur total de réception (Calvin Russell (SYR)) (incl. OT),2142,72897,1856124900,4878129876,8+,8+,2.6,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Calvin Russell,Joueur total de réception (Calvin Russell (SYR)) (incl. OT),2142,72897,1856124900,4878129877,9+,9+,3.1,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Calvin Russell,Joueur total de réception (Calvin Russell (SYR)) (incl. OT),2142,72897,1856124900,4878129878,10+,10+,3.75,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Calvin Russell,Joueur total de réception (Calvin Russell (SYR)) (incl. OT),2142,72897,1856124900,4878129879,11+,11+,4.5,0,False
+18260769,Syracuse Orange vs. Notre Dame Fighting Irish,Calvin Russell,Joueur total de réception (Calvin Russell (SYR)) (incl. OT),2142,72897,1856124900,4878129880,5+,5+,1.5556,0,False

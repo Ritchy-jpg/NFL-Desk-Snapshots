@@ -1,25 +1,224 @@
 event_id,match,player,market,market_type_id,sport_market_id,child_market_id,odd_id,selection,line,price,odd_status,is_main_bet
-18260758,Arkansas Razorbacks vs. LSU Tigers,Sam Leavitt,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1856804494,4880015141,Sam Leavitt (LSU) Plus de 269.5,Sam Leavitt (LSU) Plus de 269.5,1.8334,0,True
-18260758,Arkansas Razorbacks vs. LSU Tigers,Sam Leavitt,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1856804494,4880015142,Sam Leavitt (LSU) moins de 269.5,Sam Leavitt (LSU) moins de 269.5,1.7693,0,True
-18260758,Arkansas Razorbacks vs. LSU Tigers,KJ Jackson,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1856813697,4880052096,KJ Jackson (ARK) Plus de 193.5,KJ Jackson (ARK) Plus de 193.5,1.7693,0,True
-18260758,Arkansas Razorbacks vs. LSU Tigers,KJ Jackson,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1856813697,4880052097,KJ Jackson (ARK) moins de 193.5,KJ Jackson (ARK) moins de 193.5,1.8334,0,True
+18260758,Arkansas Razorbacks vs. LSU Tigers,Sam Leavitt,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1860258355,4891643982,Sam Leavitt (LSU) Plus de 264.5,Sam Leavitt (LSU) Plus de 264.5,1.7693,0,True
+18260758,Arkansas Razorbacks vs. LSU Tigers,Sam Leavitt,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1860258355,4891643983,Sam Leavitt (LSU) moins de 264.5,Sam Leavitt (LSU) moins de 264.5,1.8334,0,True
+18260758,Arkansas Razorbacks vs. LSU Tigers,KJ Jackson,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1856810688,4880031984,KJ Jackson (ARK) moins de 190.5,KJ Jackson (ARK) moins de 190.5,1.8334,0,True
+18260758,Arkansas Razorbacks vs. LSU Tigers,KJ Jackson,Total de yards à la passe du joueur Plus/Moins(Incl. Prolongations),759,71922,1856810688,4880031983,KJ Jackson (ARK) Plus de 190.5,KJ Jackson (ARK) Plus de 190.5,1.7693,0,True
+18260758,Arkansas Razorbacks vs. LSU Tigers,Dilin Jones,Verges de réception du joueur au moins (Dilin Jones (LSU)),2143,72898,1856750965,4882539749,22+,22+,1.8696,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Dilin Jones,Verges de réception du joueur au moins (Dilin Jones (LSU)),2143,72898,1856750965,4882539750,32+,32+,2.3,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Dilin Jones,Verges de réception du joueur au moins (Dilin Jones (LSU)),2143,72898,1856750965,4882539751,42+,42+,2.9,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Dilin Jones,Verges de réception du joueur au moins (Dilin Jones (LSU)),2143,72898,1856750965,4882539752,52+,52+,3.85,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Dilin Jones,Verges de réception du joueur au moins (Dilin Jones (LSU)),2143,72898,1856750965,4882539753,62+,62+,5.0,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Dilin Jones,Verges de réception du joueur au moins (Dilin Jones (LSU)),2143,72898,1856750965,4882539754,72+,72+,7.0,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Dilin Jones,Verges de réception du joueur au moins (Dilin Jones (LSU)),2143,72898,1856750965,4882539755,82+,82+,11.0,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Dilin Jones,Verges de réception du joueur au moins (Dilin Jones (LSU)),2143,72898,1856750965,4882539756,92+,92+,16.0,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Dilin Jones,Verges de réception du joueur au moins (Dilin Jones (LSU)),2143,72898,1856750965,4882539758,12+,12+,1.3847,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Trey'Dez Green,Verges de réception du joueur au moins (Trey'Dez Green (LSU)),2143,72898,1856750968,4891646150,58+,58+,1.8696,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Trey'Dez Green,Verges de réception du joueur au moins (Trey'Dez Green (LSU)),2143,72898,1856750968,4891646151,68+,68+,2.2,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Trey'Dez Green,Verges de réception du joueur au moins (Trey'Dez Green (LSU)),2143,72898,1856750968,4891646152,78+,78+,2.6,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Trey'Dez Green,Verges de réception du joueur au moins (Trey'Dez Green (LSU)),2143,72898,1856750968,4891646153,88+,88+,3.2,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Trey'Dez Green,Verges de réception du joueur au moins (Trey'Dez Green (LSU)),2143,72898,1856750968,4891646154,98+,98+,3.85,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Trey'Dez Green,Verges de réception du joueur au moins (Trey'Dez Green (LSU)),2143,72898,1856750968,4891646155,108+,108+,5.0,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Trey'Dez Green,Verges de réception du joueur au moins (Trey'Dez Green (LSU)),2143,72898,1856750968,4891646156,118+,118+,6.5,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Trey'Dez Green,Verges de réception du joueur au moins (Trey'Dez Green (LSU)),2143,72898,1856750968,4891646157,128+,128+,8.5,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Trey'Dez Green,Verges de réception du joueur au moins (Trey'Dez Green (LSU)),2143,72898,1856750968,4891646158,138+,138+,12.0,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Trey'Dez Green,Verges de réception du joueur au moins (Trey'Dez Green (LSU)),2143,72898,1856750968,4891646159,48+,48+,1.5,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Antonio Jordan,Verges de réception du joueur au moins (Antonio Jordan (ARK)),2143,72898,1856750970,4879864721,38+,38+,1.8696,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Antonio Jordan,Verges de réception du joueur au moins (Antonio Jordan (ARK)),2143,72898,1856750970,4879864722,48+,48+,2.2,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Antonio Jordan,Verges de réception du joueur au moins (Antonio Jordan (ARK)),2143,72898,1856750970,4879864723,58+,58+,2.6,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Antonio Jordan,Verges de réception du joueur au moins (Antonio Jordan (ARK)),2143,72898,1856750970,4879864724,68+,68+,3.2,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Antonio Jordan,Verges de réception du joueur au moins (Antonio Jordan (ARK)),2143,72898,1856750970,4879864725,78+,78+,4.0,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Antonio Jordan,Verges de réception du joueur au moins (Antonio Jordan (ARK)),2143,72898,1856750970,4879864726,88+,88+,5.0,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Antonio Jordan,Verges de réception du joueur au moins (Antonio Jordan (ARK)),2143,72898,1856750970,4879864727,98+,98+,6.75,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Antonio Jordan,Verges de réception du joueur au moins (Antonio Jordan (ARK)),2143,72898,1856750970,4879864728,108+,108+,9.0,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Antonio Jordan,Verges de réception du joueur au moins (Antonio Jordan (ARK)),2143,72898,1856750970,4879864729,118+,118+,13.0,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Antonio Jordan,Verges de réception du joueur au moins (Antonio Jordan (ARK)),2143,72898,1856750970,4879864730,28+,28+,1.5264,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Chris Marshall,Verges de réception du joueur au moins (Chris Marshall (ARK)),2143,72898,1856751040,4879864944,76+,76+,1.8696,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Chris Marshall,Verges de réception du joueur au moins (Chris Marshall (ARK)),2143,72898,1856751040,4879864945,86+,86+,2.15,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Chris Marshall,Verges de réception du joueur au moins (Chris Marshall (ARK)),2143,72898,1856751040,4879864946,96+,96+,2.5,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Chris Marshall,Verges de réception du joueur au moins (Chris Marshall (ARK)),2143,72898,1856751040,4879864947,106+,106+,3.0,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Chris Marshall,Verges de réception du joueur au moins (Chris Marshall (ARK)),2143,72898,1856751040,4879864948,116+,116+,3.6,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Chris Marshall,Verges de réception du joueur au moins (Chris Marshall (ARK)),2143,72898,1856751040,4879864949,126+,126+,4.4,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Chris Marshall,Verges de réception du joueur au moins (Chris Marshall (ARK)),2143,72898,1856751040,4879864950,136+,136+,5.5,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Chris Marshall,Verges de réception du joueur au moins (Chris Marshall (ARK)),2143,72898,1856751040,4879864951,146+,146+,7.0,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Chris Marshall,Verges de réception du joueur au moins (Chris Marshall (ARK)),2143,72898,1856751040,4879864952,156+,156+,9.0,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Chris Marshall,Verges de réception du joueur au moins (Chris Marshall (ARK)),2143,72898,1856751040,4879864953,66+,66+,1.5715,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Jackson Harris,Verges de réception du joueur au moins (Jackson Harris (LSU)),2143,72898,1860337824,4891838194,67+,67+,1.9091,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Jackson Harris,Verges de réception du joueur au moins (Jackson Harris (LSU)),2143,72898,1860337824,4891838195,77+,77+,2.1,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Jackson Harris,Verges de réception du joueur au moins (Jackson Harris (LSU)),2143,72898,1860337824,4891838196,87+,87+,2.4,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Jackson Harris,Verges de réception du joueur au moins (Jackson Harris (LSU)),2143,72898,1860337824,4891838197,97+,97+,2.7,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Jackson Harris,Verges de réception du joueur au moins (Jackson Harris (LSU)),2143,72898,1860337824,4891838198,107+,107+,3.1,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Jackson Harris,Verges de réception du joueur au moins (Jackson Harris (LSU)),2143,72898,1860337824,4891838199,117+,117+,3.75,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Jackson Harris,Verges de réception du joueur au moins (Jackson Harris (LSU)),2143,72898,1860337824,4891838200,127+,127+,4.3,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Jackson Harris,Verges de réception du joueur au moins (Jackson Harris (LSU)),2143,72898,1860337824,4891838201,137+,137+,5.25,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Jackson Harris,Verges de réception du joueur au moins (Jackson Harris (LSU)),2143,72898,1860337824,4891838203,57+,57+,1.6471,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Quad Wilson,Verges de réception du joueur au moins (Quad Wilson (LSU)),2143,72898,1860333468,4891822694,60+,60+,2.2,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Quad Wilson,Verges de réception du joueur au moins (Quad Wilson (LSU)),2143,72898,1860333468,4891822695,70+,70+,2.45,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Quad Wilson,Verges de réception du joueur au moins (Quad Wilson (LSU)),2143,72898,1860333468,4891822696,80+,80+,2.95,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Quad Wilson,Verges de réception du joueur au moins (Quad Wilson (LSU)),2143,72898,1860333468,4891822697,90+,90+,3.6,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Quad Wilson,Verges de réception du joueur au moins (Quad Wilson (LSU)),2143,72898,1860333468,4891822698,100+,100+,4.5,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Quad Wilson,Verges de réception du joueur au moins (Quad Wilson (LSU)),2143,72898,1860333468,4891822699,110+,110+,6.0,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Quad Wilson,Verges de réception du joueur au moins (Quad Wilson (LSU)),2143,72898,1860333468,4891822700,120+,120+,7.75,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Quad Wilson,Verges de réception du joueur au moins (Quad Wilson (LSU)),2143,72898,1860333468,4891822703,50+,50+,1.7693,0,False
 18260758,Arkansas Razorbacks vs. LSU Tigers,Sam Leavitt,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1849993436,4859341492,Sam Leavitt (LSU) Plus de 1.5,Sam Leavitt (LSU) Plus de 1.5,1.6061,0,False
 18260758,Arkansas Razorbacks vs. LSU Tigers,Sam Leavitt,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1849993436,4859341493,Sam Leavitt (LSU) moins de 1.5,Sam Leavitt (LSU) moins de 1.5,2.05,0,False
-18260758,Arkansas Razorbacks vs. LSU Tigers,KJ Jackson,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1855426807,4875677244,KJ Jackson (ARK) Plus de 0.5,KJ Jackson (ARK) Plus de 0.5,1.4348,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,KJ Jackson,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1855426807,4875677244,KJ Jackson (ARK) Plus de 0.5,KJ Jackson (ARK) Plus de 0.5,1.4445,0,False
 18260758,Arkansas Razorbacks vs. LSU Tigers,KJ Jackson,Total de Touchdowns à la passe du joueur (Incl. Prolongations),761,71923,1855426807,4875677245,KJ Jackson (ARK) moins de 0.5,KJ Jackson (ARK) moins de 0.5,2.4,0,False
-18260758,Arkansas Razorbacks vs. LSU Tigers,Chris Marshall,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1856822424,4880094909,Chris Marshall (ARK) Plus de 71.5,Chris Marshall (ARK) Plus de 71.5,1.7693,0,False
-18260758,Arkansas Razorbacks vs. LSU Tigers,Chris Marshall,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1856822424,4880094910,Chris Marshall (ARK) moins de 71.5,Chris Marshall (ARK) moins de 71.5,1.8334,0,False
-18260758,Arkansas Razorbacks vs. LSU Tigers,Trey'Dez Green,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1856805580,4880017755,Trey'Dez Green (LSU) Plus de 59.5,Trey'Dez Green (LSU) Plus de 59.5,1.7693,0,False
-18260758,Arkansas Razorbacks vs. LSU Tigers,Trey'Dez Green,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1856805580,4880017756,Trey'Dez Green (LSU) moins de 59.5,Trey'Dez Green (LSU) moins de 59.5,1.8334,0,False
-18260758,Arkansas Razorbacks vs. LSU Tigers,Antonio Jordan,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1850009368,4859378010,Antonio Jordan (ARK) Plus de 35.5,Antonio Jordan (ARK) Plus de 35.5,1.8334,0,False
-18260758,Arkansas Razorbacks vs. LSU Tigers,Antonio Jordan,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1850009368,4859378011,Antonio Jordan (ARK) moins de 35.5,Antonio Jordan (ARK) moins de 35.5,1.7693,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Chris Marshall,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1860335855,4891828521,Chris Marshall (ARK) Plus de 70.5,Chris Marshall (ARK) Plus de 70.5,1.7693,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Chris Marshall,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1860335855,4891828522,Chris Marshall (ARK) moins de 70.5,Chris Marshall (ARK) moins de 70.5,1.8334,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Jackson Harris,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1855361259,4875385834,Jackson Harris (LSU) Plus de 66.5,Jackson Harris (LSU) Plus de 66.5,1.8334,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Jackson Harris,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1855361259,4875385835,Jackson Harris (LSU) moins de 66.5,Jackson Harris (LSU) moins de 66.5,1.7693,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Trey'Dez Green,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1857026606,4880807678,Trey'Dez Green (LSU) Plus de 58.5,Trey'Dez Green (LSU) Plus de 58.5,1.7693,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Trey'Dez Green,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1857026606,4880807679,Trey'Dez Green (LSU) moins de 58.5,Trey'Dez Green (LSU) moins de 58.5,1.8334,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Eugene Wilson,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1850118085,4859639360,Eugene Wilson (LSU) Plus de 50.5,Eugene Wilson (LSU) Plus de 50.5,1.8334,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Eugene Wilson,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1850118085,4859639361,Eugene Wilson (LSU) moins de 50.5,Eugene Wilson (LSU) moins de 50.5,1.7693,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Antonio Jordan,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1850009368,4859378010,Antonio Jordan (ARK) Plus de 35.5,Antonio Jordan (ARK) Plus de 35.5,1.7693,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Antonio Jordan,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1850009368,4859378011,Antonio Jordan (ARK) moins de 35.5,Antonio Jordan (ARK) moins de 35.5,1.8334,0,False
 18260758,Arkansas Razorbacks vs. LSU Tigers,Dilin Jones,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1856809335,4880028848,Dilin Jones (LSU) moins de 22.5,Dilin Jones (LSU) moins de 22.5,1.8334,0,False
 18260758,Arkansas Razorbacks vs. LSU Tigers,Dilin Jones,Total des yards après réception du joueur Plus/Moins(Incl. Prolongations),765,71925,1856809335,4880028847,Dilin Jones (LSU) Plus de 22.5,Dilin Jones (LSU) Plus de 22.5,1.7693,0,False
-18260758,Arkansas Razorbacks vs. LSU Tigers,Dilin Jones,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1849993529,4859341678,Dilin Jones (LSU) Plus de 85.5,Dilin Jones (LSU) Plus de 85.5,1.7693,0,False
-18260758,Arkansas Razorbacks vs. LSU Tigers,Dilin Jones,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1849993529,4859341679,Dilin Jones (LSU) moins de 85.5,Dilin Jones (LSU) moins de 85.5,1.8334,0,False
-18260758,Arkansas Razorbacks vs. LSU Tigers,Cam Settles,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1855411999,4875607601,Cam Settles (ARK) Plus de 42.5,Cam Settles (ARK) Plus de 42.5,1.8334,0,False
-18260758,Arkansas Razorbacks vs. LSU Tigers,Cam Settles,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1855411999,4875607602,Cam Settles (ARK) moins de 42.5,Cam Settles (ARK) moins de 42.5,1.7693,0,False
-18260758,Arkansas Razorbacks vs. LSU Tigers,Sam Leavitt,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1850009345,4859377964,Sam Leavitt (LSU) Plus de 22.5,Sam Leavitt (LSU) Plus de 22.5,1.7693,0,False
-18260758,Arkansas Razorbacks vs. LSU Tigers,Sam Leavitt,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1850009345,4859377965,Sam Leavitt (LSU) moins de 22.5,Sam Leavitt (LSU) moins de 22.5,1.8334,0,False
-18260758,Arkansas Razorbacks vs. LSU Tigers,KJ Jackson,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1856800556,4879988576,KJ Jackson (ARK) Plus de 10.5,KJ Jackson (ARK) Plus de 10.5,1.7693,0,False
-18260758,Arkansas Razorbacks vs. LSU Tigers,KJ Jackson,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1856800556,4879988577,KJ Jackson (ARK) moins de 10.5,KJ Jackson (ARK) moins de 10.5,1.8334,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Dilin Jones,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1851387604,4863342002,Dilin Jones (LSU) Plus de 87.5,Dilin Jones (LSU) Plus de 87.5,1.7693,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Dilin Jones,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1851387604,4863342003,Dilin Jones (LSU) moins de 87.5,Dilin Jones (LSU) moins de 87.5,1.8334,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Cam Settles,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1860258360,4891643992,Cam Settles (ARK) Plus de 44.5,Cam Settles (ARK) Plus de 44.5,1.8334,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Cam Settles,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1860258360,4891643993,Cam Settles (ARK) moins de 44.5,Cam Settles (ARK) moins de 44.5,1.7693,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Sam Leavitt,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1856802222,4879992942,Sam Leavitt (LSU) Plus de 23.5,Sam Leavitt (LSU) Plus de 23.5,1.8,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Sam Leavitt,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1856802222,4879992943,Sam Leavitt (LSU) moins de 23.5,Sam Leavitt (LSU) moins de 23.5,1.8,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,KJ Jackson,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1855426810,4875677250,KJ Jackson (ARK) Plus de 11.5,KJ Jackson (ARK) Plus de 11.5,1.8334,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,KJ Jackson,Total de yards à la course du joueur Plus/Moins (Incl. Prolongations),764,71924,1855426810,4875677251,KJ Jackson (ARK) moins de 11.5,KJ Jackson (ARK) moins de 11.5,1.7693,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Trey'Dez Green,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1856805581,4880017757,Trey'Dez Green (LSU) Plus de 5.5,Trey'Dez Green (LSU) Plus de 5.5,1.7408,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Trey'Dez Green,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1856805581,4880017758,Trey'Dez Green (LSU) moins de 5.5,Trey'Dez Green (LSU) moins de 5.5,1.9091,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Chris Marshall,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1855414389,4875617781,Chris Marshall (ARK) Plus de 5.5,Chris Marshall (ARK) Plus de 5.5,1.8,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Chris Marshall,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1855414389,4875617782,Chris Marshall (ARK) moins de 5.5,Chris Marshall (ARK) moins de 5.5,1.8334,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Jackson Harris,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1849993466,4859341552,Jackson Harris (LSU) Plus de 5.5,Jackson Harris (LSU) Plus de 5.5,2.1,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Jackson Harris,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1849993466,4859341553,Jackson Harris (LSU) moins de 5.5,Jackson Harris (LSU) moins de 5.5,1.6061,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Eugene Wilson,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1849993413,4859341446,Eugene Wilson (LSU) Plus de 4.5,Eugene Wilson (LSU) Plus de 4.5,1.7408,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Eugene Wilson,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1849993413,4859341447,Eugene Wilson (LSU) moins de 4.5,Eugene Wilson (LSU) moins de 4.5,1.9091,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Dilin Jones,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1849993527,4859341674,Dilin Jones (LSU) Plus de 3.5,Dilin Jones (LSU) Plus de 3.5,1.8696,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Dilin Jones,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1849993527,4859341675,Dilin Jones (LSU) moins de 3.5,Dilin Jones (LSU) moins de 3.5,1.7693,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Antonio Jordan,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1849993673,4859341966,Antonio Jordan (ARK) Plus de 2.5,Antonio Jordan (ARK) Plus de 2.5,1.5715,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Antonio Jordan,Total de réceptions Plus/Moins(Incl. Prolongations),767,71926,1849993673,4859341967,Antonio Jordan (ARK) moins de 2.5,Antonio Jordan (ARK) moins de 2.5,2.15,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Dilin Jones,Verges à la course et à la réception Plus/Moins (prolongation incluse),3317,73841,1856813699,4880052100,Dilin Jones (LSU) Plus de 114.5,Dilin Jones (LSU) Plus de 114.5,1.8,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Dilin Jones,Verges à la course et à la réception Plus/Moins (prolongation incluse),3317,73841,1856813699,4880052101,Dilin Jones (LSU) moins de 114.5,Dilin Jones (LSU) moins de 114.5,1.8334,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Cam Settles,Verges à la course et à la réception Plus/Moins (prolongation incluse),3317,73841,1860319830,4891779856,Cam Settles (ARK) moins de 56.5,Cam Settles (ARK) moins de 56.5,1.8334,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Cam Settles,Verges à la course et à la réception Plus/Moins (prolongation incluse),3317,73841,1860319830,4891779855,Cam Settles (ARK) Plus de 56.5,Cam Settles (ARK) Plus de 56.5,1.8,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Sam Leavitt,Touchés par la passe du joueur au moins (Sam Leavitt (LSU)),2138,72893,1856820243,4880076256,4+,4+,4.75,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Sam Leavitt,Touchés par la passe du joueur au moins (Sam Leavitt (LSU)),2138,72893,1856820243,4880076257,1+,1+,1.1112,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Sam Leavitt,Touchés par la passe du joueur au moins (Sam Leavitt (LSU)),2138,72893,1856820243,4880076254,2+,2+,1.6667,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Sam Leavitt,Touchés par la passe du joueur au moins (Sam Leavitt (LSU)),2138,72893,1856820243,4880076255,3+,3+,2.65,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,KJ Jackson,Touchés par la passe du joueur au moins (KJ Jackson (ARK)),2138,72893,1856823341,4880097264,2+,2+,2.45,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,KJ Jackson,Touchés par la passe du joueur au moins (KJ Jackson (ARK)),2138,72893,1856823341,4880097265,3+,3+,4.75,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,KJ Jackson,Touchés par la passe du joueur au moins (KJ Jackson (ARK)),2138,72893,1856823341,4880097266,4+,4+,12.0,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,KJ Jackson,Touchés par la passe du joueur au moins (KJ Jackson (ARK)),2138,72893,1856823341,4880097263,1+,1+,1.5264,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,KJ Jackson,Verges par la passe du joueur au moins (KJ Jackson (ARK)),2136,72891,1856750969,4879864704,197+,197+,1.8696,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,KJ Jackson,Verges par la passe du joueur au moins (KJ Jackson (ARK)),2136,72891,1856750969,4879864705,207+,207+,2.05,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,KJ Jackson,Verges par la passe du joueur au moins (KJ Jackson (ARK)),2136,72891,1856750969,4879864706,217+,217+,2.25,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,KJ Jackson,Verges par la passe du joueur au moins (KJ Jackson (ARK)),2136,72891,1856750969,4879864707,227+,227+,2.5,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,KJ Jackson,Verges par la passe du joueur au moins (KJ Jackson (ARK)),2136,72891,1856750969,4879864708,237+,237+,2.8,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,KJ Jackson,Verges par la passe du joueur au moins (KJ Jackson (ARK)),2136,72891,1856750969,4879864709,247+,247+,3.2,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,KJ Jackson,Verges par la passe du joueur au moins (KJ Jackson (ARK)),2136,72891,1856750969,4879864710,257+,257+,3.6,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,KJ Jackson,Verges par la passe du joueur au moins (KJ Jackson (ARK)),2136,72891,1856750969,4879864711,267+,267+,4.25,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,KJ Jackson,Verges par la passe du joueur au moins (KJ Jackson (ARK)),2136,72891,1856750969,4879864712,277+,277+,5.0,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,KJ Jackson,Verges par la passe du joueur au moins (KJ Jackson (ARK)),2136,72891,1856750969,4879864713,287+,287+,5.75,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,KJ Jackson,Verges par la passe du joueur au moins (KJ Jackson (ARK)),2136,72891,1856750969,4879864714,297+,297+,6.75,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,KJ Jackson,Verges par la passe du joueur au moins (KJ Jackson (ARK)),2136,72891,1856750969,4879864715,307+,307+,8.0,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,KJ Jackson,Verges par la passe du joueur au moins (KJ Jackson (ARK)),2136,72891,1856750969,4879864716,317+,317+,10.0,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,KJ Jackson,Verges par la passe du joueur au moins (KJ Jackson (ARK)),2136,72891,1856750969,4879864717,327+,327+,12.0,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,KJ Jackson,Verges par la passe du joueur au moins (KJ Jackson (ARK)),2136,72891,1856750969,4879864718,337+,337+,15.0,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,KJ Jackson,Verges par la passe du joueur au moins (KJ Jackson (ARK)),2136,72891,1856750969,4879864719,187+,187+,1.6897,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,KJ Jackson,Verges par la passe du joueur au moins (KJ Jackson (ARK)),2136,72891,1856750969,4879864720,177+,177+,1.5264,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Sam Leavitt,Verges par la passe du joueur au moins (Sam Leavitt (LSU)),2136,72891,1856750967,4880946016,323+,323+,4.0,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Sam Leavitt,Verges par la passe du joueur au moins (Sam Leavitt (LSU)),2136,72891,1856750967,4880946017,333+,333+,4.5,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Sam Leavitt,Verges par la passe du joueur au moins (Sam Leavitt (LSU)),2136,72891,1856750967,4880946018,343+,343+,5.25,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Sam Leavitt,Verges par la passe du joueur au moins (Sam Leavitt (LSU)),2136,72891,1856750967,4880946019,353+,353+,6.25,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Sam Leavitt,Verges par la passe du joueur au moins (Sam Leavitt (LSU)),2136,72891,1856750967,4880946020,363+,363+,7.5,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Sam Leavitt,Verges par la passe du joueur au moins (Sam Leavitt (LSU)),2136,72891,1856750967,4880946021,373+,373+,9.0,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Sam Leavitt,Verges par la passe du joueur au moins (Sam Leavitt (LSU)),2136,72891,1856750967,4880946022,383+,383+,11.0,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Sam Leavitt,Verges par la passe du joueur au moins (Sam Leavitt (LSU)),2136,72891,1856750967,4880946023,393+,393+,13.0,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Sam Leavitt,Verges par la passe du joueur au moins (Sam Leavitt (LSU)),2136,72891,1856750967,4880946024,243+,243+,1.6897,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Sam Leavitt,Verges par la passe du joueur au moins (Sam Leavitt (LSU)),2136,72891,1856750967,4880946025,233+,233+,1.5264,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Sam Leavitt,Verges par la passe du joueur au moins (Sam Leavitt (LSU)),2136,72891,1856750967,4880946009,253+,253+,1.8696,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Sam Leavitt,Verges par la passe du joueur au moins (Sam Leavitt (LSU)),2136,72891,1856750967,4880946010,263+,263+,2.05,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Sam Leavitt,Verges par la passe du joueur au moins (Sam Leavitt (LSU)),2136,72891,1856750967,4880946011,273+,273+,2.25,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Sam Leavitt,Verges par la passe du joueur au moins (Sam Leavitt (LSU)),2136,72891,1856750967,4880946012,283+,283+,2.5,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Sam Leavitt,Verges par la passe du joueur au moins (Sam Leavitt (LSU)),2136,72891,1856750967,4880946013,293+,293+,2.75,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Sam Leavitt,Verges par la passe du joueur au moins (Sam Leavitt (LSU)),2136,72891,1856750967,4880946014,303+,303+,3.1,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Sam Leavitt,Verges par la passe du joueur au moins (Sam Leavitt (LSU)),2136,72891,1856750967,4880946015,313+,313+,3.5,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Cam Settles,Verges au sol du joueur au moins (Cam Settles (ARK)),2140,72895,1856750972,4879864742,47+,47+,1.8696,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Cam Settles,Verges au sol du joueur au moins (Cam Settles (ARK)),2140,72895,1856750972,4879864743,57+,57+,2.35,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Cam Settles,Verges au sol du joueur au moins (Cam Settles (ARK)),2140,72895,1856750972,4879864744,67+,67+,3.1,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Cam Settles,Verges au sol du joueur au moins (Cam Settles (ARK)),2140,72895,1856750972,4879864745,77+,77+,4.4,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Cam Settles,Verges au sol du joueur au moins (Cam Settles (ARK)),2140,72895,1856750972,4879864746,87+,87+,6.5,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Cam Settles,Verges au sol du joueur au moins (Cam Settles (ARK)),2140,72895,1856750972,4879864747,97+,97+,10.0,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Cam Settles,Verges au sol du joueur au moins (Cam Settles (ARK)),2140,72895,1856750972,4879864748,107+,107+,17.0,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Cam Settles,Verges au sol du joueur au moins (Cam Settles (ARK)),2140,72895,1856750972,4879864749,117+,117+,26.0,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Cam Settles,Verges au sol du joueur au moins (Cam Settles (ARK)),2140,72895,1856750972,4879864750,37+,37+,1.4348,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Cam Settles,Verges au sol du joueur au moins (Cam Settles (ARK)),2140,72895,1856750972,4879864751,27+,27+,1.1819,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Dilin Jones,Verges au sol du joueur au moins (Dilin Jones (LSU)),2140,72895,1856750971,4879864736,139+,139+,6.0,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Dilin Jones,Verges au sol du joueur au moins (Dilin Jones (LSU)),2140,72895,1856750971,4879864737,149+,149+,8.5,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Dilin Jones,Verges au sol du joueur au moins (Dilin Jones (LSU)),2140,72895,1856750971,4879864738,159+,159+,12.0,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Dilin Jones,Verges au sol du joueur au moins (Dilin Jones (LSU)),2140,72895,1856750971,4879864739,169+,169+,18.0,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Dilin Jones,Verges au sol du joueur au moins (Dilin Jones (LSU)),2140,72895,1856750971,4879864740,79+,79+,1.5264,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Dilin Jones,Verges au sol du joueur au moins (Dilin Jones (LSU)),2140,72895,1856750971,4879864741,69+,69+,1.3077,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Dilin Jones,Verges au sol du joueur au moins (Dilin Jones (LSU)),2140,72895,1856750971,4879864731,89+,89+,1.8696,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Dilin Jones,Verges au sol du joueur au moins (Dilin Jones (LSU)),2140,72895,1856750971,4879864732,99+,99+,2.25,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Dilin Jones,Verges au sol du joueur au moins (Dilin Jones (LSU)),2140,72895,1856750971,4879864733,109+,109+,2.75,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Dilin Jones,Verges au sol du joueur au moins (Dilin Jones (LSU)),2140,72895,1856750971,4879864734,119+,119+,3.5,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Dilin Jones,Verges au sol du joueur au moins (Dilin Jones (LSU)),2140,72895,1856750971,4879864735,129+,129+,4.5,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,KJ Jackson,Verges au sol du joueur au moins (KJ Jackson (ARK)),2140,72895,1856750966,4879864672,51+,51+,6.0,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,KJ Jackson,Verges au sol du joueur au moins (KJ Jackson (ARK)),2140,72895,1856750966,4879864673,61+,61+,10.0,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,KJ Jackson,Verges au sol du joueur au moins (KJ Jackson (ARK)),2140,72895,1856750966,4879864674,71+,71+,20.0,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,KJ Jackson,Verges au sol du joueur au moins (KJ Jackson (ARK)),2140,72895,1856750966,4879864675,81+,81+,41.0,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,KJ Jackson,Verges au sol du joueur au moins (KJ Jackson (ARK)),2140,72895,1856750966,4879864676,11+,11+,1.3847,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,KJ Jackson,Verges au sol du joueur au moins (KJ Jackson (ARK)),2140,72895,1856750966,4879864669,21+,21+,1.8696,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,KJ Jackson,Verges au sol du joueur au moins (KJ Jackson (ARK)),2140,72895,1856750966,4879864670,31+,31+,2.55,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,KJ Jackson,Verges au sol du joueur au moins (KJ Jackson (ARK)),2140,72895,1856750966,4879864671,41+,41+,3.75,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Sam Leavitt,Verges au sol du joueur au moins (Sam Leavitt (LSU)),2140,72895,1856750973,4880076244,24+,24+,1.9091,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Sam Leavitt,Verges au sol du joueur au moins (Sam Leavitt (LSU)),2140,72895,1856750973,4880076245,34+,34+,2.3,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Sam Leavitt,Verges au sol du joueur au moins (Sam Leavitt (LSU)),2140,72895,1856750973,4880076246,44+,44+,2.85,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Sam Leavitt,Verges au sol du joueur au moins (Sam Leavitt (LSU)),2140,72895,1856750973,4880076247,54+,54+,3.75,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Sam Leavitt,Verges au sol du joueur au moins (Sam Leavitt (LSU)),2140,72895,1856750973,4880076248,64+,64+,5.0,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Sam Leavitt,Verges au sol du joueur au moins (Sam Leavitt (LSU)),2140,72895,1856750973,4880076249,74+,74+,7.0,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Sam Leavitt,Verges au sol du joueur au moins (Sam Leavitt (LSU)),2140,72895,1856750973,4880076250,84+,84+,10.0,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Sam Leavitt,Verges au sol du joueur au moins (Sam Leavitt (LSU)),2140,72895,1856750973,4880076251,94+,94+,15.0,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Sam Leavitt,Verges au sol du joueur au moins (Sam Leavitt (LSU)),2140,72895,1856750973,4880076252,104+,104+,26.0,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Sam Leavitt,Verges au sol du joueur au moins (Sam Leavitt (LSU)),2140,72895,1856750973,4880076253,14+,14+,1.4167,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Antonio Jordan,Joueur total de réception (Antonio Jordan (ARK)) (incl. OT),2142,72897,1856820275,4880076356,3+,3+,1.6667,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Antonio Jordan,Joueur total de réception (Antonio Jordan (ARK)) (incl. OT),2142,72897,1856820275,4880076357,4+,4+,2.3,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Antonio Jordan,Joueur total de réception (Antonio Jordan (ARK)) (incl. OT),2142,72897,1856820275,4880076358,5+,5+,3.4,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Antonio Jordan,Joueur total de réception (Antonio Jordan (ARK)) (incl. OT),2142,72897,1856820275,4880076359,6+,6+,5.5,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Antonio Jordan,Joueur total de réception (Antonio Jordan (ARK)) (incl. OT),2142,72897,1856820275,4880076360,7+,7+,10.0,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Antonio Jordan,Joueur total de réception (Antonio Jordan (ARK)) (incl. OT),2142,72897,1856820275,4880076361,8+,8+,18.0,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Antonio Jordan,Joueur total de réception (Antonio Jordan (ARK)) (incl. OT),2142,72897,1856820275,4880076362,2+,2+,1.1819,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Quad Wilson,Joueur total de réception (Quad Wilson (LSU)) (incl. OT),2142,72897,1860333467,4891822688,7+,7+,3.1,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Quad Wilson,Joueur total de réception (Quad Wilson (LSU)) (incl. OT),2142,72897,1860333467,4891822689,8+,8+,4.5,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Quad Wilson,Joueur total de réception (Quad Wilson (LSU)) (incl. OT),2142,72897,1860333467,4891822690,9+,9+,6.75,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Quad Wilson,Joueur total de réception (Quad Wilson (LSU)) (incl. OT),2142,72897,1860333467,4891822691,10+,10+,11.0,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Quad Wilson,Joueur total de réception (Quad Wilson (LSU)) (incl. OT),2142,72897,1860333467,4891822693,5+,5+,1.7693,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Quad Wilson,Joueur total de réception (Quad Wilson (LSU)) (incl. OT),2142,72897,1860333467,4891832933,4+,4+,1.2667,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Quad Wilson,Joueur total de réception (Quad Wilson (LSU)) (incl. OT),2142,72897,1860333467,4891822687,6+,6+,2.3,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Dilin Jones,Joueur total de réception (Dilin Jones (LSU)) (incl. OT),2142,72897,1856820244,4880076258,4+,4+,1.8334,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Dilin Jones,Joueur total de réception (Dilin Jones (LSU)) (incl. OT),2142,72897,1856820244,4880076259,5+,5+,2.5,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Dilin Jones,Joueur total de réception (Dilin Jones (LSU)) (incl. OT),2142,72897,1856820244,4880076260,6+,6+,3.6,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Dilin Jones,Joueur total de réception (Dilin Jones (LSU)) (incl. OT),2142,72897,1856820244,4880076261,7+,7+,5.5,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Dilin Jones,Joueur total de réception (Dilin Jones (LSU)) (incl. OT),2142,72897,1856820244,4880076262,8+,8+,9.0,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Dilin Jones,Joueur total de réception (Dilin Jones (LSU)) (incl. OT),2142,72897,1856820244,4880076263,9+,9+,17.0,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Dilin Jones,Joueur total de réception (Dilin Jones (LSU)) (incl. OT),2142,72897,1856820244,4880076264,3+,3+,1.3077,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Trey'Dez Green,Joueur total de réception (Trey'Dez Green (LSU)) (incl. OT),2142,72897,1856820245,4880076265,6+,6+,1.8696,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Trey'Dez Green,Joueur total de réception (Trey'Dez Green (LSU)) (incl. OT),2142,72897,1856820245,4880076266,7+,7+,2.45,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Trey'Dez Green,Joueur total de réception (Trey'Dez Green (LSU)) (incl. OT),2142,72897,1856820245,4880076267,8+,8+,3.4,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Trey'Dez Green,Joueur total de réception (Trey'Dez Green (LSU)) (incl. OT),2142,72897,1856820245,4880076268,9+,9+,5.25,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Trey'Dez Green,Joueur total de réception (Trey'Dez Green (LSU)) (incl. OT),2142,72897,1856820245,4880076269,10+,10+,8.5,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Trey'Dez Green,Joueur total de réception (Trey'Dez Green (LSU)) (incl. OT),2142,72897,1856820245,4880076270,11+,11+,14.0,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Trey'Dez Green,Joueur total de réception (Trey'Dez Green (LSU)) (incl. OT),2142,72897,1856820245,4880076271,5+,5+,1.3449,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Chris Marshall,Joueur total de réception (Chris Marshall (ARK)) (incl. OT),2142,72897,1856751039,4879864937,6+,6+,1.9091,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Chris Marshall,Joueur total de réception (Chris Marshall (ARK)) (incl. OT),2142,72897,1856751039,4879864938,7+,7+,2.45,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Chris Marshall,Joueur total de réception (Chris Marshall (ARK)) (incl. OT),2142,72897,1856751039,4879864939,8+,8+,3.3,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Chris Marshall,Joueur total de réception (Chris Marshall (ARK)) (incl. OT),2142,72897,1856751039,4879864940,9+,9+,4.75,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Chris Marshall,Joueur total de réception (Chris Marshall (ARK)) (incl. OT),2142,72897,1856751039,4879864941,10+,10+,7.25,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Chris Marshall,Joueur total de réception (Chris Marshall (ARK)) (incl. OT),2142,72897,1856751039,4879864942,11+,11+,12.0,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Chris Marshall,Joueur total de réception (Chris Marshall (ARK)) (incl. OT),2142,72897,1856751039,4879864943,5+,5+,1.3847,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Jackson Harris,Joueur total de réception (Jackson Harris (LSU)) (incl. OT),2142,72897,1860337823,4891833123,6+,6+,2.15,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Jackson Harris,Joueur total de réception (Jackson Harris (LSU)) (incl. OT),2142,72897,1860337823,4891833124,7+,7+,2.75,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Jackson Harris,Joueur total de réception (Jackson Harris (LSU)) (incl. OT),2142,72897,1860337823,4891833125,8+,8+,3.85,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Jackson Harris,Joueur total de réception (Jackson Harris (LSU)) (incl. OT),2142,72897,1860337823,4891833126,9+,9+,5.5,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Jackson Harris,Joueur total de réception (Jackson Harris (LSU)) (incl. OT),2142,72897,1860337823,4891833127,10+,10+,8.5,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Jackson Harris,Joueur total de réception (Jackson Harris (LSU)) (incl. OT),2142,72897,1860337823,4891833128,11+,11+,14.0,0,False
+18260758,Arkansas Razorbacks vs. LSU Tigers,Jackson Harris,Joueur total de réception (Jackson Harris (LSU)) (incl. OT),2142,72897,1860337823,4891833129,5+,5+,1.5556,0,False
